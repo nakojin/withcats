@@ -1,12 +1,12 @@
 {
-  "ceo": "google/gemma-4-e4b",
+  "ceo": "qwen2.5-coder-7b-instruct",
   "youtube": "openai/gpt-oss-20b",
-  "instagram": "google/gemma-4-e4b",
+  "instagram": "qwen2.5-coder-7b-instruct",
   "designer": "google/gemma-4-e4b",
   "developer": "qwen2.5-coder-7b-instruct",
   "business": "openai/gpt-oss-20b",
-  "secretary": "google/gemma-4-e4b",
-  "editor": "google/gemma-4-e4b",
-  "writer": "google/gemma-4-e4b",
+  "secretary": "qwen2.5-coder-7b-instruct",
+  "editor": "qwen2.5-coder-7b-instruct",
+  "writer": "qwen2.5-coder-7b-instruct",
   "researcher": "openai/gpt-oss-20b"
 }
