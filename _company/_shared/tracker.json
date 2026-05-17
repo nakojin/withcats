@@ -1,0 +1,457 @@
+{
+  "tasks": [
+    {
+      "id": "20260510121840-8t92",
+      "title": "Tistory API 문서 확인",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-05-10T12:18:40.945Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T12-08",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T12-08/_report.md\n- Researcher: 티스토리 블로그 자동화 가능성 및 기술적 난이도에 대한 최신 정보를 리서치하고, 특히 콘텐츠 기획부터 발행까지의 전 과정에 필요한 기술 스택(A\n\nCEO 종합 요점: 🔍 Researcher: 작업 시작합니다.\n\n📊 평가: 진행중 — 이번 지시에 대응하기 위해 필요한 정보를 수집하고 정리해야 함\n\n📝 다음 단계: 티스토리 블로그 자동화 가능성 및 기술적 난이도에 대한 리서치 수행\n\n### 작업 계획\n1. **티스토리 API 문서와 관련 블로그 포스트 확인**  \n   - Tistory API를 활용하는 방법과 제한을",
+      "completedAt": "2026-05-10T12:18:40.950Z"
+    },
+    {
+      "id": "20260510121840-7mjn",
+      "title": "콘텐츠 생성부터 발행까지의 기술 스택 분석",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-05-10T12:18:40.946Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T12-08",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T12-08/_report.md\n- Researcher: 티스토리 블로그 자동화 가능성 및 기술적 난이도에 대한 최신 정보를 리서치하고, 특히 콘텐츠 기획부터 발행까지의 전 과정에 필요한 기술 스택(A\n\nCEO 종합 요점: 🔍 Researcher: 작업 시작합니다.\n\n📊 평가: 진행중 — 이번 지시에 대응하기 위해 필요한 정보를 수집하고 정리해야 함\n\n📝 다음 단계: 티스토리 블로그 자동화 가능성 및 기술적 난이도에 대한 리서치 수행\n\n### 작업 계획\n1. **티스토리 API 문서와 관련 블로그 포스트 확인**  \n   - Tistory API를 활용하는 방법과 제한을",
+      "completedAt": "2026-05-10T12:18:40.950Z"
+    },
+    {
+      "id": "20260510121840-0zhi",
+      "title": "스크래핑 및 봇 사용에 대한 정보 수집",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-05-10T12:18:40.946Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T12-08",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T12-08/_report.md\n- Researcher: 티스토리 블로그 자동화 가능성 및 기술적 난이도에 대한 최신 정보를 리서치하고, 특히 콘텐츠 기획부터 발행까지의 전 과정에 필요한 기술 스택(A\n\nCEO 종합 요점: 🔍 Researcher: 작업 시작합니다.\n\n📊 평가: 진행중 — 이번 지시에 대응하기 위해 필요한 정보를 수집하고 정리해야 함\n\n📝 다음 단계: 티스토리 블로그 자동화 가능성 및 기술적 난이도에 대한 리서치 수행\n\n### 작업 계획\n1. **티스토리 API 문서와 관련 블로그 포스트 확인**  \n   - Tistory API를 활용하는 방법과 제한을",
+      "completedAt": "2026-05-10T12:18:40.951Z"
+    },
+    {
+      "id": "20260510121840-c7rq",
+      "title": "예상 비용 조사</edit_file>",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-05-10T12:18:40.947Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T12-08",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T12-08/_report.md\n- Researcher: 티스토리 블로그 자동화 가능성 및 기술적 난이도에 대한 최신 정보를 리서치하고, 특히 콘텐츠 기획부터 발행까지의 전 과정에 필요한 기술 스택(A\n\nCEO 종합 요점: 🔍 Researcher: 작업 시작합니다.\n\n📊 평가: 진행중 — 이번 지시에 대응하기 위해 필요한 정보를 수집하고 정리해야 함\n\n📝 다음 단계: 티스토리 블로그 자동화 가능성 및 기술적 난이도에 대한 리서치 수행\n\n### 작업 계획\n1. **티스토리 API 문서와 관련 블로그 포스트 확인**  \n   - Tistory API를 활용하는 방법과 제한을",
+      "completedAt": "2026-05-10T12:18:40.951Z"
+    },
+    {
+      "id": "20260511031323-gz34",
+      "title": "네이버 블로그와 티스토리 블로그의自動화 시스템을 활용한 수익화 로드맵과 KPI 설정 → **진행중**",
+      "description": "자동 등록 (Business 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-11T03:13:23.968Z",
+      "status": "done",
+      "sessionDir": "2026-05-11T03-12",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-11T03-12/_report.md\n- Business: 최근의 회사 목표와 각 에이전트의 개인 목표, 그리고 최근 의사결정을 분석하여 현재 가장 가치 있는 단일 작업을 정하고, 그 작업에 필요한 레버\n\nCEO 종합 요점: 💰 Business — CEO 지시에 따른 작업\n\n### 🎯 목표 설정\n- [ ] 네이버 블로그와 티스토리 블로그의自動화 시스템을 활용한 수익화 로드맵과 KPI 설정 → **진행중**\n  - automatically.py 및 api_integration.py를 테스트하고, automatization_rate를 높이기 위한 optimization plan",
+      "completedAt": "2026-05-11T03:13:23.972Z"
+    },
+    {
+      "id": "20260511031323-ri7j",
+      "title": "뷰티 리뷰 콘텐츠의 핵심 방향성(tones&manner)와 이미지 사용 효과를 분석하여 최적화 방안을 제시 → **진행중**",
+      "description": "자동 등록 (Business 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-11T03:13:23.969Z",
+      "status": "done",
+      "sessionDir": "2026-05-11T03-12",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-11T03-12/_report.md\n- Business: 최근의 회사 목표와 각 에이전트의 개인 목표, 그리고 최근 의사결정을 분석하여 현재 가장 가치 있는 단일 작업을 정하고, 그 작업에 필요한 레버\n\nCEO 종합 요점: 💰 Business — CEO 지시에 따른 작업\n\n### 🎯 목표 설정\n- [ ] 네이버 블로그와 티스토리 블로그의自動화 시스템을 활용한 수익화 로드맵과 KPI 설정 → **진행중**\n  - automatically.py 및 api_integration.py를 테스트하고, automatization_rate를 높이기 위한 optimization plan",
+      "completedAt": "2026-05-11T03:13:23.973Z"
+    },
+    {
+      "id": "20260511031323-unci",
+      "title": "비즈니스 전략 수립 및 KPI 설정 → **대기**",
+      "description": "자동 등록 (Business 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-11T03:13:23.969Z",
+      "status": "done",
+      "sessionDir": "2026-05-11T03-12",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-11T03-12/_report.md\n- Business: 최근의 회사 목표와 각 에이전트의 개인 목표, 그리고 최근 의사결정을 분석하여 현재 가장 가치 있는 단일 작업을 정하고, 그 작업에 필요한 레버\n\nCEO 종합 요점: 💰 Business — CEO 지시에 따른 작업\n\n### 🎯 목표 설정\n- [ ] 네이버 블로그와 티스토리 블로그의自動화 시스템을 활용한 수익화 로드맵과 KPI 설정 → **진행중**\n  - automatically.py 및 api_integration.py를 테스트하고, automatization_rate를 높이기 위한 optimization plan",
+      "completedAt": "2026-05-11T03:13:23.973Z"
+    },
+    {
+      "id": "20260511074329-ncwl",
+      "title": "네이버블로그 및 티스토리 자동화",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-05-11T07:43:29.697Z",
+      "status": "done",
+      "sessionDir": "2026-05-11T07-42",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-11T07-42/_report.md\n- Researcher: 회사 목표 및 각 에이전트 개인 목표(_agents/{id}/goal.md)를 검토하고, 현재 가장 가치 있는 단일 작업을 결정\n\nCEO 종합 요점: 🔍 Researcher: 작업 시작합니다.\n\n먼저 회사 목표 및 에이전트 개인 목표를 검토하겠습니다.\n\n## 회사 목표\n- [ ] 네이버블로그 및 티스토리 자동화\n\n## 이번 주 목표\n- 우리 분야 트렌드 5개 짧은 메모\n- 경쟁사 2곳 최근 활동·성공 콘텐츠 정리\n\n## 에이전트 개인 목표\n### 🔍 Researcher\n- 산업·경쟁사 트렌드 리포트 ",
+      "completedAt": "2026-05-11T07:43:29.699Z"
+    },
+    {
+      "id": "20260511133342-9h8p",
+      "title": "네이버블로그 및 티스토리 자동화",
+      "description": "자동 등록 (Developer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-05-11T13:33:42.711Z",
+      "status": "done",
+      "sessionDir": "2026-05-11T13-27",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-11T13-27/_report.md\n- Researcher: 分析 recent_decisions.md 文件以确定 withcats 的博客图像优化任务作为最有价值的单一工作。\n- Designer: 实施优化策略并评估图像的视觉吸引力。\n- Developer: 专注于图像文件大小和加载速度优化。\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 分析 recent_decisions.md 文件以确定 withcats 的博客图像优化任务作为最有价值的单一工作。\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 首先，我将读取 ",
+      "completedAt": "2026-05-11T13:34:07.138Z"
+    },
+    {
+      "id": "20260512035002-d6m5",
+      "title": "컨텐츠 질 확인",
+      "description": "가장 중요한건 컨텐츠의 질이야. 이 부분을 꼭 명심해서 진행해야되",
+      "owner": "agent",
+      "createdAt": "2026-05-12T03:50:02.900Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-12T03-58",
+      "evidence": "완료: sessions/2026-05-12T03-58/_report.md\n- Business: 회사 목표 및 각 에이전트의 개인 목표를 검토하고, 가장 가치 있는 단일 작업을 결정하여 실행 계획 작성\n\nCEO 종합 요점: 💰 Business: 작업 시작합니다.\n\n[2026-05-12] 회사 목표와 각 에이전트의 개인 목표를 검토한 후, 현재 가장 가치 있는 단일 작업을 결정하고 실행 계획 작성.\n\n**1. 최근 의사결정 및 회사 목표 analysis**\n\n recent\\_analysis\\_2026-05-11T23-59:\n\n*   recent\\_analysis\\_2026-0",
+      "completedAt": "2026-05-12T04:11:53.602Z"
+    },
+    {
+      "id": "20260512143559-fz3c",
+      "title": "API 연결 성검사",
+      "description": "어떤 부분이 실패인지 알려줘야지 해결을 하지.",
+      "owner": "agent",
+      "createdAt": "2026-05-12T14:35:59.746Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-12T14-43",
+      "evidence": "완료: sessions/2026-05-12T14-43/_report.md\n- Business: 최근 의사결정과 회사 목표를 분석해 수익화 전략을 재조정한 뒤, 이를 각 에이전트에게 공유\n\nCEO 종합 요점: ## [CEO의 지시]\n\n최근 의사결정과 회사 목표를 분석해 수익화 전략을 재조정한 뒤, 이를 각 에이전트에게 공유합니다.\n\n### [CEO의 지시에 따라 메모리 추가]\n\n####最近의 의사결정·회사 목표·각 에이전트 개인 목표·메모리를 검토해서 지금 가장 가치 있는 단일 작업 1개를 결정\n\n*   **최근의 의사결정:** \\[ recent\\_decisio",
+      "completedAt": "2026-05-12T14:44:54.019Z"
+    },
+    {
+      "id": "20260513012719-j9lx",
+      "title": "결과보고 전달",
+      "description": "결과보고는 한글로 보내주면 고맙겠어",
+      "owner": "agent",
+      "createdAt": "2026-05-13T01:27:19.841Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-13T01-37",
+      "evidence": "완료: sessions/2026-05-13T01-37/_report.md\n- Business: 최근 경쟁사 동향 분석 및 우리 기업의 비즈니스 전략 수정 계획 작성\n\nCEO 종합 요점: **CEO의 지시에 따라 경쟁사 동향 분석 및 우리 기업의 비즈니스 전략 수정 계획 작성**\n\n### 경쟁사 동향 분석\n\n*   현재 경쟁사는 다음의 업무 분야를 강조하고 있습니다.\n    *   **ecommerce platform:** 전 세계적으로 큰 인기를 얻는 e-commerce 플랫폼입니다. 유명한 예로는 Amazon, eBay 등이 있습니다.\n",
+      "completedAt": "2026-05-13T01:37:38.156Z"
+    },
+    {
+      "id": "20260513074722-q2m7",
+      "title": "블로그 글 작성 예시",
+      "description": "분석 결과를 토대로 블로그 글 작성한 예시를 볼 수 있어?",
+      "owner": "agent",
+      "createdAt": "2026-05-13T07:47:22.088Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-13T07-52",
+      "evidence": "완료: sessions/2026-05-13T07-52/_report.md\n- Business: 최근 영상 분석과 데이터를 바탕으로 새로운 수익화 전략 기획\n\nCEO 종합 요점: ## [CEO의 지시]\n\n**최근 영상 분석과 데이터를 바탕으로 새로운 수익화 전략 기획**\n\n### [원 사용자 명령 참고]\n[자율 사이클 — 2026-05-13] 1인 기업 24시간 운영 중.\n\n*   회사 목표·각 에이전트의 개인 목표(_agents/{id}/goal.md)·최근 의사결정·메모리를 검토해서 가장 가치 있는 단일 작업을 결정하고, 적절한",
+      "completedAt": "2026-05-13T07:53:39.871Z"
+    },
+    {
+      "id": "20260513075212-koc6",
+      "title": "네이버 블로그와 티스토리 블로그의 최신 알고리즘 변화를 분석",
+      "description": "진짜 블로그에 글을 작성하는 형태로 보여줘",
+      "owner": "agent",
+      "createdAt": "2026-05-13T07:52:12.155Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-13T07-52",
+      "evidence": "완료: sessions/2026-05-13T07-52/_report.md\n- Business: 최근 영상 분석과 데이터를 바탕으로 새로운 수익화 전략 기획\n\nCEO 종합 요점: ## [CEO의 지시]\n\n**최근 영상 분석과 데이터를 바탕으로 새로운 수익화 전략 기획**\n\n### [원 사용자 명령 참고]\n[자율 사이클 — 2026-05-13] 1인 기업 24시간 운영 중.\n\n*   회사 목표·각 에이전트의 개인 목표(_agents/{id}/goal.md)·최근 의사결정·메모리를 검토해서 가장 가치 있는 단일 작업을 결정하고, 적절한",
+      "completedAt": "2026-05-13T07:53:39.902Z"
+    },
+    {
+      "id": "20260513084150-pxg5",
+      "title": "뷰티 리뷰 콘텐츠 작성",
+      "description": "뷰티 관련 글 작성해서 테스트해보자",
+      "owner": "agent",
+      "createdAt": "2026-05-13T08:41:50.408Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-13T08-52",
+      "evidence": "완료: sessions/2026-05-13T08-52/_report.md\n- Business: 회사 목표 및 각 에이전트의 개인 목표 검토 후, 가장 가치 있는 단일 작업 결정\n\nCEO 종합 요점: **CEO의 지시**\n\n公司 목표 및 each 에이전트 개인 목표를 검토 후, 가장 가치 있는 단일 작업을 결정하고, 적절한 1~2명 에이전트에게 분배해서実行하세요.\n\n**원 사용자 명령 참고**\n\n*   [자율 사이클 — 2026-05-13] 1인 기업 24시간 운영 중. 회사 목표·각 에이전트의 개인 목표(_agents/{id}/goal.md)·최근 의",
+      "completedAt": "2026-05-13T08:52:48.985Z"
+    },
+    {
+      "id": "20260513092239-s4s8",
+      "title": "블로그 글 작성",
+      "description": "블로그에 작성할 테스트 문구가 필요해. 이미지도 포함해서.",
+      "owner": "user",
+      "createdAt": "2026-05-13T09:22:39.163Z",
+      "dueAt": "2026-05-13",
+      "status": "pending",
+      "nudges": 5,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "_lastNudgeAt": "2026-05-17T08:25:48.864Z"
+    },
+    {
+      "id": "20260514083820-uo5i",
+      "title": "블로그/티스토리 프로젝트 완료",
+      "description": "블로그/티스토리 프로젝트는 끝났어?",
+      "owner": "agent",
+      "createdAt": "2026-05-14T08:38:20.349Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-14T08-50",
+      "evidence": "완료: sessions/2026-05-14T08-50/_report.md\n- 영숙: 회사 목표, 각 에이전트의 개인 목표, 최근 의사결정, 메모리를 검토하여 현재 가장 가치 있는 단일 작업 1개를 결정하고, 그 작업에 대한 실행\n\nCEO 종합 요점: ### 결정된 작업 및 실행 계획\n\n#### 회사 목표:\n1. **단순 자동화를 넘어 '지능형 비즈니스'로 전환**: AI 기술을 활용하여 운영 효율성을 향상시키고, 새로운 수익 창출 방안을 모색합니다.\n2. **MRBeast 유튜브 전략 연구 및 적용**: MRBeast의 성공 요인과 그에 따른 유용한 비즈니스 전략을 분석하고, 이를 기업 운영에 반영하기",
+      "completedAt": "2026-05-14T08:51:48.891Z"
+    },
+    {
+      "id": "20260514084611-7jo9",
+      "title": "블로그/티스토리 프로젝트 완료",
+      "description": "그렇다면 글을 작성해서 결과물을 확인할 수 있게 해줘",
+      "owner": "user",
+      "createdAt": "2026-05-14T08:46:11.543Z",
+      "status": "pending",
+      "nudges": 3,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "_lastNudgeAt": "2026-05-17T08:25:48.864Z"
+    },
+    {
+      "id": "20260514085438-uo5i",
+      "title": "YouTube Video Concept Creation",
+      "description": "유튜브 관련 작업을 내가 지시했던가?",
+      "owner": "agent",
+      "createdAt": "2026-05-14T08:54:38.439Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-14T09-05",
+      "evidence": "완료: sessions/2026-05-14T09-05/_report.md\n- 영숙: 회사 목표, 각 에이전트의 개인 목표, 최근 의사결정, 메모리를 검토하여 현재 가장 가치 있는 단일 작업 1개를 결정하고, 해당 작업에 맞는 에\n\nCEO 종합 요점: ### 준비 보고서\n\n#### 회사 목표\n- **회사 목표**: 단순 자동화를 넘어 '지능형 비즈니스'로 전환하고 AI 기술을 활용하여 수익화하기.\n\n#### 에이전트 개인 목표\n1. **AI 1인 기업**: 단순 자동화를 넘어 '지능형 비즈니스'로 전환하는 방법을 연구하고 구현합니다.\n2. **MrBeast 유튜브 전략**: MrBeast의 성공 사례를 ",
+      "completedAt": "2026-05-14T09:06:44.347Z"
+    },
+    {
+      "id": "20260514085546-wwkl",
+      "title": "블로그/티스토리 프로젝트 완료",
+      "description": "유튜브 컨셉이 아니고, 뷰티(헤어, 화장품) 트렌드를 읽어서 블로그 및 티스토리에 포스팅을 작성할 수 있는 자료를 찾고 발전하자고 했지. 유튜브로 수익화를 하자는게 아니야.",
+      "owner": "user",
+      "createdAt": "2026-05-14T08:55:46.473Z",
+      "status": "pending",
+      "nudges": 3,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "_lastNudgeAt": "2026-05-17T08:25:48.864Z"
+    },
+    {
+      "id": "20260515035622-l317",
+      "title": "현재 회사에서 AI 기술의 응용 가능성을 평가",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-15T03:56:22.943Z",
+      "status": "done",
+      "sessionDir": "2026-05-15T03-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-15T03-55/_report.md\n- 영숙: 회사 목표, 각 에이전트의 개인 목표, 최근 의사결정, 메모리를 검토하여 현재 가장 가치 있는 단일 작업 1개를 결정하고, 해당 작업을 실행할 \n\nCEO 종합 요점: ### 가장 가치 있는 단일 작업 결정 및 배정\n\n#### 회사 목표:\n1. **AI 1인 기업: 단순 자동화를 넘어 '지능형 비즈니스'로 전환**\n2. **MrBeast 유튜브 전략 활용을 통한 콘텐츠 확장**\n\n#### 각 에이전트의 개인 목표:\n- **AI_1인_기업_자동화_Agent**: \n  - 단순 자동화를 넘어 지능형 비즈니스로 전환\n  - A",
+      "completedAt": "2026-05-15T03:56:22.949Z"
+    },
+    {
+      "id": "20260515035622-0wzz",
+      "title": "AI 기술 전문가 상담 요청",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-15T03:56:22.944Z",
+      "status": "done",
+      "sessionDir": "2026-05-15T03-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-15T03-55/_report.md\n- 영숙: 회사 목표, 각 에이전트의 개인 목표, 최근 의사결정, 메모리를 검토하여 현재 가장 가치 있는 단일 작업 1개를 결정하고, 해당 작업을 실행할 \n\nCEO 종합 요점: ### 가장 가치 있는 단일 작업 결정 및 배정\n\n#### 회사 목표:\n1. **AI 1인 기업: 단순 자동화를 넘어 '지능형 비즈니스'로 전환**\n2. **MrBeast 유튜브 전략 활용을 통한 콘텐츠 확장**\n\n#### 각 에이전트의 개인 목표:\n- **AI_1인_기업_자동화_Agent**: \n  - 단순 자동화를 넘어 지능형 비즈니스로 전환\n  - A",
+      "completedAt": "2026-05-15T03:56:22.950Z"
+    },
+    {
+      "id": "20260515035622-agcg",
+      "title": "AI 기반 솔루션 요구사항 정리",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-15T03:56:22.945Z",
+      "status": "done",
+      "sessionDir": "2026-05-15T03-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-15T03-55/_report.md\n- 영숙: 회사 목표, 각 에이전트의 개인 목표, 최근 의사결정, 메모리를 검토하여 현재 가장 가치 있는 단일 작업 1개를 결정하고, 해당 작업을 실행할 \n\nCEO 종합 요점: ### 가장 가치 있는 단일 작업 결정 및 배정\n\n#### 회사 목표:\n1. **AI 1인 기업: 단순 자동화를 넘어 '지능형 비즈니스'로 전환**\n2. **MrBeast 유튜브 전략 활용을 통한 콘텐츠 확장**\n\n#### 각 에이전트의 개인 목표:\n- **AI_1인_기업_자동화_Agent**: \n  - 단순 자동화를 넘어 지능형 비즈니스로 전환\n  - A",
+      "completedAt": "2026-05-15T03:56:22.950Z"
+    },
+    {
+      "id": "20260515035622-7gh7",
+      "title": "기존 프로젝트와의 연동 계획 수립",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-15T03:56:22.945Z",
+      "status": "done",
+      "sessionDir": "2026-05-15T03-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-15T03-55/_report.md\n- 영숙: 회사 목표, 각 에이전트의 개인 목표, 최근 의사결정, 메모리를 검토하여 현재 가장 가치 있는 단일 작업 1개를 결정하고, 해당 작업을 실행할 \n\nCEO 종합 요점: ### 가장 가치 있는 단일 작업 결정 및 배정\n\n#### 회사 목표:\n1. **AI 1인 기업: 단순 자동화를 넘어 '지능형 비즈니스'로 전환**\n2. **MrBeast 유튜브 전략 활용을 통한 콘텐츠 확장**\n\n#### 각 에이전트의 개인 목표:\n- **AI_1인_기업_자동화_Agent**: \n  - 단순 자동화를 넘어 지능형 비즈니스로 전환\n  - A",
+      "completedAt": "2026-05-15T03:56:22.951Z"
+    },
+    {
+      "id": "20260515035622-06hj",
+      "title": "AI 기반 솔루션 시제품 개발",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-15T03:56:22.946Z",
+      "status": "done",
+      "sessionDir": "2026-05-15T03-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-15T03-55/_report.md\n- 영숙: 회사 목표, 각 에이전트의 개인 목표, 최근 의사결정, 메모리를 검토하여 현재 가장 가치 있는 단일 작업 1개를 결정하고, 해당 작업을 실행할 \n\nCEO 종합 요점: ### 가장 가치 있는 단일 작업 결정 및 배정\n\n#### 회사 목표:\n1. **AI 1인 기업: 단순 자동화를 넘어 '지능형 비즈니스'로 전환**\n2. **MrBeast 유튜브 전략 활용을 통한 콘텐츠 확장**\n\n#### 각 에이전트의 개인 목표:\n- **AI_1인_기업_자동화_Agent**: \n  - 단순 자동화를 넘어 지능형 비즈니스로 전환\n  - A",
+      "completedAt": "2026-05-15T03:56:22.952Z"
+    },
+    {
+      "id": "20260515070148-jhht",
+      "title": "블로그 자동화 작업",
+      "description": "블로그 자동화 작업은 언제 하는거야?",
+      "owner": "agent",
+      "createdAt": "2026-05-15T07:01:48.637Z",
+      "dueAt": "2026-05-16",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-15T07-01",
+      "evidence": "완료: sessions/2026-05-15T07-01/_report.md\n- 영숙: 5월 16일 오후에 블로그 자동화 작업 시작 일정을 기록하고 추후 진행 상황을 보고하도록 알림 설정\n\nCEO 종합 요점: 알겠습니다, CEO님의 지시를 기록하겠습니다.\n\n### 회사 메모리 업데이트\n- **작업 이름:** 블로그 자동화 작업\n- **시작 일정:** 5월 16일 오후\n- **추후 진행 상황 보고:** 미진하면 알림\n\n비서로서, 다음과 같은 행동을 취하겠습니다:\n\n1. 5월 16일 오후에 블로그 자동화 작업을 시작하도록 할당할 예정입니다.\n2. 해당 작업의 진행 ",
+      "completedAt": "2026-05-15T07:02:21.155Z"
+    },
+    {
+      "id": "20260515071110-9qaz",
+      "title": "텔레그램 메신저 설정 완료",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-15T07:11:10.757Z",
+      "status": "done",
+      "sessionDir": "2026-05-15T07-10",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-15T07-10/_report.md\n- 영숙: 회사 목표, 각 에이전트의 개인 목표, 최근 의사결정, 메모리를 검토하여 현재 가장 가치 있는 단일 작업 1개를 결정하고, 해당 작업을 실행할 \n\nCEO 종합 요점: ### 현재 가장 가치 있는 단일 작업 결정 및 실행 지시\n\n#### 회사 목표\n1. **AI 1인 기업**: 단순 자동화를 넘어 '지능형 비즈니스'로 전환합니다.\n2. **MrBeast 유튜브 전략**: 효과적인 콘텐츠 제작과 마케팅 전략 구현을 통해 브랜드 인지도 향상 및 고객 참여도 증대.\n\n#### 에이전트 개인 목표\n- **AI 1인 기업**: A",
+      "completedAt": "2026-05-15T07:11:10.761Z"
+    },
+    {
+      "id": "20260515071110-0s11",
+      "title": "보고 시스템 구축",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-15T07:11:10.758Z",
+      "status": "done",
+      "sessionDir": "2026-05-15T07-10",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-15T07-10/_report.md\n- 영숙: 회사 목표, 각 에이전트의 개인 목표, 최근 의사결정, 메모리를 검토하여 현재 가장 가치 있는 단일 작업 1개를 결정하고, 해당 작업을 실행할 \n\nCEO 종합 요점: ### 현재 가장 가치 있는 단일 작업 결정 및 실행 지시\n\n#### 회사 목표\n1. **AI 1인 기업**: 단순 자동화를 넘어 '지능형 비즈니스'로 전환합니다.\n2. **MrBeast 유튜브 전략**: 효과적인 콘텐츠 제작과 마케팅 전략 구현을 통해 브랜드 인지도 향상 및 고객 참여도 증대.\n\n#### 에이전트 개인 목표\n- **AI 1인 기업**: A",
+      "completedAt": "2026-05-15T07:11:10.761Z"
+    },
+    {
+      "id": "20260515071110-n3s6",
+      "title": "AI 기술을 활용한 비즈니스 프로세스 자동화 및 최적화 계획 수립",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-15T07:11:10.758Z",
+      "status": "done",
+      "sessionDir": "2026-05-15T07-10",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-15T07-10/_report.md\n- 영숙: 회사 목표, 각 에이전트의 개인 목표, 최근 의사결정, 메모리를 검토하여 현재 가장 가치 있는 단일 작업 1개를 결정하고, 해당 작업을 실행할 \n\nCEO 종합 요점: ### 현재 가장 가치 있는 단일 작업 결정 및 실행 지시\n\n#### 회사 목표\n1. **AI 1인 기업**: 단순 자동화를 넘어 '지능형 비즈니스'로 전환합니다.\n2. **MrBeast 유튜브 전략**: 효과적인 콘텐츠 제작과 마케팅 전략 구현을 통해 브랜드 인지도 향상 및 고객 참여도 증대.\n\n#### 에이전트 개인 목표\n- **AI 1인 기업**: A",
+      "completedAt": "2026-05-15T07:11:10.762Z"
+    }
+  ]
+}
