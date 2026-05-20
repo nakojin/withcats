@@ -245,10 +245,10 @@
       "createdAt": "2026-05-13T09:22:39.163Z",
       "dueAt": "2026-05-13",
       "status": "pending",
-      "nudges": 6,
+      "nudges": 7,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-18T08:25:37.878Z"
+      "_lastNudgeAt": "2026-05-19T07:37:43.524Z"
     },
     {
       "id": "20260514083820-uo5i",
@@ -271,10 +271,10 @@
       "owner": "user",
       "createdAt": "2026-05-14T08:46:11.543Z",
       "status": "pending",
-      "nudges": 4,
+      "nudges": 5,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-18T08:25:37.878Z"
+      "_lastNudgeAt": "2026-05-19T07:37:43.524Z"
     },
     {
       "id": "20260514085438-uo5i",
@@ -297,10 +297,10 @@
       "owner": "user",
       "createdAt": "2026-05-14T08:55:46.473Z",
       "status": "pending",
-      "nudges": 4,
+      "nudges": 5,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-18T08:25:37.878Z"
+      "_lastNudgeAt": "2026-05-19T07:37:43.524Z"
     },
     {
       "id": "20260515035622-l317",
