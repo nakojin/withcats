@@ -23,7 +23,7 @@
 저장소 구조의 비대화 예방, 코드와 데이터의 안전한 분리, 시스템 OS 이식성 향상을 위해 다음 단계의 차세대 폴더 구조 업그레이드(v2)가 예정되어 있습니다. 
 상세한 구조 진단 분석 및 리팩토링 체크리스트는 아래 문서를 참고하십시오.
 
-* **구조 개선 기준 청사진**: [docs/architecture_review.md](file:///C:/Users/nakojin/connect_ai/docs/architecture_review.md)
+* **구조 개선 기준 청사진**: [docs/architecture_review.md](docs/architecture_review.md)
 
 ---
 
