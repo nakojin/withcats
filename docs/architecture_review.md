@@ -52,7 +52,6 @@ _company/
 │       └── [agent_name].md   # 개별 에이전트가 제출한 업무 결과 보고서
 ├── src/                      # [주의] 데이터 프로세서 및 퍼블리시 서비스 (.py)
 ├── utils/                    # [주의] SEO 인핸서 등 런타임 헬퍼 유틸리티 (.py)
-├── site/                     # 생성된 정적 웹 포스트 보관함 (blog/posts/)
 └── 임시 디버깅 파일들         # api_test.py, api_test_result.md, thumbnail_concept.png 등
 ```
 

@@ -1,6 +1,6 @@
-# site 폴더 이관 사전점검 보고서 (Site Migration Check)
+# site 폴더 이관 사전점검 및 이행 완료 보고서 (Site Migration Check & Execution)
 
-본 보고서는 **야옹야옹 AI 스튜디오 / YaongYaong AI Studio** 지식 저장소(`withcats`) 폴더 구조 개선(v2) 1단계 작업으로 분류된 **`_company/site/` ➡️ 루트 `site/`로의 물리적 이전**의 실현 가능성과 런타임 안정성을 최종 점검한 보고서입니다.
+본 보고서는 **야옹야옹 AI 스튜디오 / YaongYaong AI Studio** 지식 저장소(`withcats`) 폴더 구조 개선(v2) 1단계 작업으로 분류된 **`_company/site/` ➡️ 루트 `site/`로의 물리적 이전**의 실현 가능성과 런타임 안정성을 최종 점검하고 실제 이전을 성공적으로 완료한 후 그 결과를 기록한 보고서입니다.
 
 ---
 
@@ -8,12 +8,12 @@
 
 | 항목 | 점검 내용 | 결과 및 상태 |
 | :--- | :--- | :--- |
-| **디렉토리 존재 여부** | `_company/site/` 실제 존재 여부 | **🟢 존재함** |
+| **기존 디렉토리 정리 여부** | `_company/site/` 삭제 완료 여부 | **🟢 완료 (삭제됨)** |
 | **내부 리소스 정보** | 하위 디렉토리 수 / 파일 수 / 총 용량 | 2개 폴더 / 1개 파일 / **약 12 Bytes** |
 | **엔진 소스 코드 참조** | `yaongyaong_ai_studio` 내 하드코딩 여부 | **❌ 없음 (완전 안전)** |
 | **지식 저장소 내부 참조** | `withcats` 내 스크립트/설정 참조 여부 | **❌ 없음 (완전 안전)** |
 | **Git 제외 필터 영향** | 루트 및 하위 `.gitignore` 배제 규칙 여부 | **❌ 없음** |
-| **이동 가능 여부 판단** | **지금 바로 즉시 이동 가능 여부** | **🟢 즉시 이동 가능 (최종 승인)** |
+| **이행 완료 상태** | **최종 이행 및 검증 상태** | **🟢 이행 완료 (성공)** |
 
 ---
 
@@ -55,11 +55,11 @@
 
 ---
 
-## 4. 이관 절차 및 가이드라인 (명령어)
+## 4. 이관 실행 이력 및 검증 결과 (Execution & Verification)
 
-추후 실제 1단계 폴더 이행 작업을 수행할 때 사용할 수 있는 구체적인 실행 명령어 가이드라인입니다.
+1단계 폴더 이행 작업 시 실제 수행된 명령어 및 안전성 검증 결과는 다음과 같습니다.
 
-### 📋 1. 폴더 물리적 이전 명령어 (PowerShell / Windows Cmd)
+### 📋 1. 폴더 물리적 이전 실행 (PowerShell)
 ```powershell
 # withcats 저장소 루트(C:\Users\nakojin\connect_ai)에 위치한 상태에서 실행
 
@@ -67,15 +67,15 @@
 Move-Item -Path _company/site -Destination ./site
 ```
 
-### 📋 2. 이전 완료 후 검증 명령어
+### 📋 2. 이관 후 정합성 검증 완료
 ```powershell
-# 1. 기존 _company 하위에 site 폴더가 완전히 삭제되고 없는지 확인
+# 1. 기존 _company 하위에 site 폴더가 완전히 삭제되고 없음을 확인
 Get-ChildItem -Path _company
 
-# 2. 루트 레벨로 이동된 site 폴더 구조가 올바르게 전송되었는지 확인
+# 2. 루트 레벨로 이동된 site 폴더 구조가 올바르게 배치되었음을 확인
 Get-ChildItem -Path site/blog/posts
 
-# 3. 예시 파일의 정합성 최종 검사
+# 3. 예시 파일의 내용 및 정합성 최종 검사
 Get-Content -Path site/blog/posts/example_post.md
 ```
-* **기대 결과**: `Get-ChildItem -Path _company` 목록에 `site`가 나타나지 않고, 루트의 `site/blog/posts` 하위에 `example_post.md` 파일이 존재해야 합니다.
+* **검증 결과 (성공)**: `_company/` 디렉토리 목록 하위에서 `site` 폴더가 완벽히 소멸되었으며, 리포지토리 루트의 `site/blog/posts/` 경로에 `example_post.md` 파일이 12 Bytes 크기로 손상 없이 안전하게 보존·배치되었음을 최종 확인하였습니다.
