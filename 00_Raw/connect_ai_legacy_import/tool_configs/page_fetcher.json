@@ -1,0 +1,65 @@
+{
+  "URLS": [],
+  "LLM_URL": "http://127.0.0.1:1234",
+  "MODEL": "",
+  "EXTRACT_MODE": "summary",
+  "BRAIN_PATH": "",
+  "SAVE_TO_BRAIN": true,
+  "_schema": {
+    "URLS": {
+      "type": "text",
+      "label": "🌐 수집할 URL 목록 (줄바꿈 구분)",
+      "hint": "예:\nhttps://example.com/article\nhttps://news.ycombinator.com",
+      "isArray": true
+    },
+    "LLM_URL": {
+      "type": "text",
+      "label": "🤖 LM Studio / Ollama URL",
+      "hint": "LM Studio 기본: http://127.0.0.1:1234"
+    },
+    "MODEL": {
+      "type": "text",
+      "label": "🧠 모델명 (선택)",
+      "hint": "비우면 자동 선택"
+    },
+    "EXTRACT_MODE": {
+      "type": "select",
+      "label": "📋 추출 방식",
+      "hint": "페이지 내용을 어떻게 처리할지",
+      "options": [
+        {
+          "value": "summary",
+          "label": "📌 요약 (권장) — LLM이 핵심 내용 3~5줄 요약"
+        },
+        {
+          "value": "keywords",
+          "label": "🔑 키워드 — 핵심 개념·용어만 추출"
+        },
+        {
+          "value": "full",
+          "label": "📄 전문 — 본문 전체 저장 (LLM 미사용)"
+        }
+      ]
+    },
+    "BRAIN_PATH": {
+      "type": "text",
+      "label": "🧠 두뇌 폴더 경로 (선택)",
+      "hint": "수집 결과를 저장할 두뇌 폴더. 예: ~/Downloads/지식메모리"
+    },
+    "SAVE_TO_BRAIN": {
+      "type": "select",
+      "label": "💾 두뇌 자동 저장",
+      "hint": "수집 결과를 두뇌 폴더에 저장할지 여부",
+      "options": [
+        {
+          "value": true,
+          "label": "✅ 자동 저장"
+        },
+        {
+          "value": false,
+          "label": "❌ 저장 안 함"
+        }
+      ]
+    }
+  }
+}

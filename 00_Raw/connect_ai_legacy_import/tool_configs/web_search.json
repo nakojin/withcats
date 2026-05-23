@@ -1,0 +1,51 @@
+{
+  "SEARCH_QUERIES": [],
+  "LLM_URL": "http://127.0.0.1:1234",
+  "MODEL": "",
+  "MAX_RESULTS": 8,
+  "BRAIN_PATH": "",
+  "SAVE_TO_BRAIN": true,
+  "_schema": {
+    "SEARCH_QUERIES": {
+      "type": "text",
+      "label": "🔍 검색어 목록 (쉼표 구분)",
+      "hint": "예: AI 트렌드, 로컬 LLM, 1인기업 마케팅",
+      "isArray": true
+    },
+    "LLM_URL": {
+      "type": "text",
+      "label": "🤖 LM Studio / Ollama URL",
+      "hint": "LM Studio 기본: http://127.0.0.1:1234 | Ollama: http://127.0.0.1:11434"
+    },
+    "MODEL": {
+      "type": "text",
+      "label": "🧠 모델명 (선택)",
+      "hint": "비우면 현재 로드된 첫 번째 모델 자동 선택"
+    },
+    "MAX_RESULTS": {
+      "type": "text",
+      "label": "📄 검색 결과 수",
+      "hint": "키워드당 수집할 결과 수. 기본 8."
+    },
+    "BRAIN_PATH": {
+      "type": "text",
+      "label": "🧠 두뇌 폴더 경로 (선택)",
+      "hint": "수집 결과를 저장할 두뇌 폴더. 예: ~/Downloads/지식메모리. 비우면 저장 안 함."
+    },
+    "SAVE_TO_BRAIN": {
+      "type": "select",
+      "label": "💾 두뇌 자동 저장",
+      "hint": "검색 결과를 두뇌 폴더에 자동 저장할지 여부",
+      "options": [
+        {
+          "value": true,
+          "label": "✅ 자동 저장"
+        },
+        {
+          "value": false,
+          "label": "❌ 저장 안 함"
+        }
+      ]
+    }
+  }
+}
