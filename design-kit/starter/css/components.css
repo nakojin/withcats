@@ -1,0 +1,146 @@
+/* ─────────────────────────────────────────────────────────────
+   design-kit 컴포넌트. 모든 상태(hover / active / focus-visible / disabled / loading)를 정의한다.
+   이름 규칙: .kit-이름, 변형은 .is-* / data-*
+   ───────────────────────────────────────────────────────────── */
+
+/* 아이콘 (Lucide 스프라이트) */
+.ic { width: 1.15em; height: 1.15em; flex: none; display: inline-block; vertical-align: -0.2em;
+  fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.ic.is-fill { fill: currentColor; }
+
+/* ── 버튼 ─────────────────────────────────── */
+.kit-btn {
+  --_bg: var(--accent); --_fg: var(--on-accent); --_bd: transparent;
+  display: inline-flex; align-items: center; justify-content: center; gap: .45em;
+  min-height: var(--tap); padding: 0 var(--sp-5);
+  border: 1px solid var(--_bd); border-radius: var(--radius); background: var(--_bg); color: var(--_fg);
+  font-weight: 700; font-size: var(--fs-md); text-decoration: none; white-space: nowrap;
+  transition: background var(--t-fast), transform var(--t-fast) var(--ease-out), box-shadow var(--t-fast);
+  -webkit-tap-highlight-color: transparent; user-select: none;
+}
+.kit-btn:hover { --_bg: color-mix(in srgb, var(--accent) 88%, #000); }
+.kit-btn:active { transform: scale(.97); }
+.kit-btn.is-secondary { --_bg: var(--surface); --_fg: var(--text); --_bd: var(--line); }
+.kit-btn.is-secondary:hover { --_bg: var(--surface-2); }
+.kit-btn.is-ghost { --_bg: transparent; --_fg: var(--text); }
+.kit-btn.is-ghost:hover { --_bg: var(--surface-2); }
+.kit-btn.is-danger { --_bg: var(--danger); --_fg: #fff; }
+.kit-btn.is-sm { min-height: 36px; padding: 0 var(--sp-3); font-size: var(--fs-sm); }
+.kit-btn.is-block { width: 100%; }
+.kit-btn.is-icon { width: var(--tap); padding: 0; }
+.kit-btn:disabled, .kit-btn[aria-disabled="true"] { opacity: .45; pointer-events: none; }
+.kit-btn[aria-busy="true"] { color: transparent; position: relative; pointer-events: none; }
+.kit-btn[aria-busy="true"]::after { content: ""; position: absolute; width: 1.1em; height: 1.1em; border-radius: 50%;
+  border: 2px solid var(--_fg); border-right-color: transparent; animation: kit-spin .7s linear infinite; }
+@keyframes kit-spin { to { transform: rotate(360deg); } }
+
+/* ── 칩 (필터·태그) ───────────────────────── */
+.kit-chip {
+  display: inline-flex; align-items: center; gap: .35em; min-height: 32px; padding: 0 var(--sp-3);
+  border: 1px solid var(--line); border-radius: var(--radius-pill); background: var(--surface);
+  color: var(--muted); font-size: var(--fs-sm); font-weight: 600; white-space: nowrap; text-decoration: none;
+  transition: all var(--t-fast);
+}
+.kit-chip:hover { color: var(--text); border-color: color-mix(in srgb, var(--text) 30%, var(--line)); }
+.kit-chip[aria-pressed="true"], .kit-chip[aria-selected="true"], .kit-chip.is-on {
+  color: var(--accent); border-color: var(--accent); background: color-mix(in srgb, var(--accent) 10%, var(--surface));
+}
+.kit-chips { display: flex; gap: var(--sp-2); overflow-x: auto; scrollbar-width: none; padding-block: 2px; scroll-snap-type: x proximity; }
+.kit-chips::-webkit-scrollbar { display: none; }
+.kit-chips > * { scroll-snap-align: start; }
+
+/* ── 카드·패널 ────────────────────────────── */
+.kit-card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-lg); padding: var(--sp-4); box-shadow: var(--shadow); }
+.kit-card.is-flat { box-shadow: none; }
+a.kit-card, button.kit-card { display: block; text-align: left; color: inherit; text-decoration: none; transition: transform var(--t-fast) var(--ease-out), box-shadow var(--t-fast); }
+a.kit-card:hover, button.kit-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); }
+.kit-card__media { margin: calc(var(--sp-4) * -1) calc(var(--sp-4) * -1) var(--sp-3); aspect-ratio: var(--ratio, 4/3); background: var(--surface-2); border-radius: var(--radius-lg) var(--radius-lg) 0 0; overflow: hidden; }
+.kit-card__media > img { width: 100%; height: 100%; object-fit: cover; }
+
+/* ── 뱃지·라벨 ────────────────────────────── */
+.kit-badge { display: inline-flex; align-items: center; gap: .3em; padding: 2px 8px; border-radius: var(--radius-pill); font-size: var(--fs-xs); font-weight: 700; background: var(--surface-2); color: var(--muted); }
+.kit-badge.is-accent { background: color-mix(in srgb, var(--accent) 14%, transparent); color: var(--accent); }
+.kit-badge.is-success { background: color-mix(in srgb, var(--success) 14%, transparent); color: var(--success); }
+.kit-badge.is-danger { background: color-mix(in srgb, var(--danger) 14%, transparent); color: var(--danger); }
+.kit-eyebrow { font-size: var(--fs-xs); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+
+/* ── 세그먼트 탭 ──────────────────────────── */
+.kit-tabs { display: flex; gap: var(--sp-5); border-bottom: 1px solid var(--line); overflow-x: auto; scrollbar-width: none; }
+.kit-tabs [role="tab"] { min-height: var(--tap); padding: 0; border: 0; background: none; color: var(--muted); font-weight: 700; border-bottom: 3px solid transparent; margin-bottom: -1px; white-space: nowrap; }
+.kit-tabs [role="tab"][aria-selected="true"] { color: var(--text); border-color: var(--accent); }
+
+/* ── 리스트 행 ────────────────────────────── */
+.kit-row { display: flex; align-items: center; gap: var(--sp-3); min-height: 56px; padding: var(--sp-2) 0; border-bottom: 1px solid var(--line); color: inherit; text-decoration: none; }
+.kit-row:last-child { border-bottom: 0; }
+.kit-row__body { flex: 1; min-width: 0; }
+.kit-row__title { font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.kit-row__meta { font-size: var(--fs-sm); color: var(--muted); }
+
+/* ── 폼 필드 ──────────────────────────────── */
+.kit-field { display: grid; gap: 6px; }
+.kit-field > label { font-size: var(--fs-sm); font-weight: 700; }
+.kit-input {
+  min-height: var(--tap); padding: 0 var(--sp-3); border: 1px solid var(--line); border-radius: var(--radius);
+  background: var(--surface); color: var(--text); width: 100%; transition: border-color var(--t-fast), box-shadow var(--t-fast);
+}
+.kit-input::placeholder { color: var(--muted); }
+.kit-input:hover { border-color: color-mix(in srgb, var(--text) 30%, var(--line)); }
+.kit-input:focus { outline: none; border-color: var(--accent); box-shadow: var(--focus); }
+.kit-input[aria-invalid="true"] { border-color: var(--danger); }
+.kit-field__hint { font-size: var(--fs-xs); color: var(--muted); }
+.kit-field__error { font-size: var(--fs-xs); color: var(--danger); display: flex; gap: 4px; align-items: center; }
+
+/* ── 진행 (링·바) ─────────────────────────── */
+.kit-ring { --p: 40; --size: 64px; width: var(--size); height: var(--size); border-radius: 50%;
+  background: conic-gradient(var(--accent) calc(var(--p) * 1%), var(--surface-2) 0); display: grid; place-items: center; flex: none; }
+.kit-ring > span { width: calc(var(--size) - 12px); height: calc(var(--size) - 12px); border-radius: 50%; background: var(--surface); display: grid; place-items: center; font-weight: 800; font-size: var(--fs-sm); }
+.kit-progress { height: 8px; border-radius: var(--radius-pill); background: var(--surface-2); overflow: hidden; }
+.kit-progress > i { display: block; height: 100%; width: var(--w, 0%); background: var(--accent); border-radius: inherit; transition: width var(--t-slow) var(--ease-out); }
+
+/* ── 스켈레톤·빈 상태 ─────────────────────── */
+.kit-skeleton { background: linear-gradient(90deg, var(--surface-2) 25%, color-mix(in srgb, var(--surface-2) 60%, var(--surface)) 50%, var(--surface-2) 75%);
+  background-size: 200% 100%; animation: kit-shimmer 1.4s linear infinite; border-radius: var(--radius-sm); min-height: 1em; }
+@keyframes kit-shimmer { to { background-position: -200% 0; } }
+.kit-empty { text-align: center; padding: var(--sp-7) var(--sp-4); color: var(--muted); }
+.kit-empty .ic { width: 40px; height: 40px; margin: 0 auto var(--sp-3); color: var(--line); }
+.kit-empty__title { color: var(--text); font-weight: 700; margin-bottom: var(--sp-1); }
+
+/* ── 하단 탭바 (모바일 앱형) ──────────────── */
+.kit-tabbar { position: sticky; bottom: 0; display: grid; grid-template-columns: repeat(var(--n, 4), 1fr); background: var(--surface);
+  border-top: 1px solid var(--line); padding-bottom: env(safe-area-inset-bottom); z-index: 10; }
+.kit-tabbar > a, .kit-tabbar > button { min-height: 56px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px;
+  font-size: var(--fs-xs); color: var(--muted); text-decoration: none; border: 0; background: none; }
+.kit-tabbar .ic { width: 22px; height: 22px; }
+.kit-tabbar [aria-current="page"] { color: var(--text); font-weight: 700; }
+.kit-tabbar [aria-current="page"] .ic { color: var(--accent); }
+
+/* ── 바텀시트 / 다이얼로그 (<dialog> 기반) ─ */
+.kit-sheet { border: 0; padding: 0; margin: auto auto 0; width: min(100%, 560px); max-height: 88dvh;
+  background: var(--surface); color: var(--text); border-radius: var(--radius-lg) var(--radius-lg) 0 0; box-shadow: var(--shadow-lg);
+  display: flex; flex-direction: column; }
+.kit-sheet:not([open]) { display: none; }
+.kit-sheet::backdrop { background: var(--scrim); }
+.kit-sheet[open] { animation: kit-up var(--t-med) var(--ease-out); }
+.kit-sheet[open]::backdrop { animation: kit-fade var(--t-med); }
+.kit-sheet__handle { width: 36px; height: 4px; border-radius: 2px; background: var(--line); margin: var(--sp-2) auto 0; flex: none; }
+.kit-sheet__head { display: flex; align-items: center; justify-content: space-between; padding: var(--sp-3) var(--sp-4); }
+.kit-sheet__body { padding: 0 var(--sp-4) var(--sp-4); overflow-y: auto; overscroll-behavior: contain; }
+.kit-sheet__foot { padding: var(--sp-3) var(--sp-4) calc(var(--sp-3) + env(safe-area-inset-bottom)); border-top: 1px solid var(--line); display: flex; gap: var(--sp-2); }
+@media (min-width: 720px) { .kit-sheet { margin: auto; border-radius: var(--radius-lg); } }
+@keyframes kit-up { from { transform: translateY(24px); opacity: 0; } }
+@keyframes kit-fade { from { opacity: 0; } }
+
+/* ── 토스트 ───────────────────────────────── */
+.kit-toasts { position: fixed; left: 50%; bottom: calc(80px + env(safe-area-inset-bottom)); transform: translateX(-50%); z-index: var(--z-toast);
+  display: flex; flex-direction: column; gap: var(--sp-2); width: min(100% - 32px, 420px); pointer-events: none; }
+.kit-toast { display: flex; align-items: center; gap: var(--sp-2); padding: var(--sp-3) var(--sp-4); border-radius: var(--radius);
+  background: var(--text); color: var(--bg); font-weight: 600; box-shadow: var(--shadow-lg); pointer-events: auto;
+  animation: kit-up var(--t-med) var(--ease-spring); }
+.kit-toast.is-leaving { animation: kit-out var(--t-med) forwards; }
+.kit-toast .ic { color: var(--accent-2); }
+@keyframes kit-out { to { opacity: 0; transform: translateY(8px); } }
+
+/* ── 툴팁 (CSS 전용, 간단한 것만. 복잡하면 Floating UI) ─ */
+[data-tip] { position: relative; }
+[data-tip]:hover::after, [data-tip]:focus-visible::after { content: attr(data-tip); position: absolute; bottom: calc(100% + 6px); left: 50%; transform: translateX(-50%);
+  background: var(--text); color: var(--bg); font-size: var(--fs-xs); padding: 4px 8px; border-radius: var(--radius-sm); white-space: nowrap; pointer-events: none; z-index: 5; }

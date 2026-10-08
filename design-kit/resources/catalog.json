@@ -1,0 +1,1173 @@
+{
+  "updated": "2026-10-08",
+  "note": "stars 는 대략 구간. license 는 도입 전 저장소 LICENSE 파일로 재확인. pick: 3=기본 탑재 권장, 2=상황별 1순위, 1=참고·학습용",
+  "categories": [
+    {
+      "id": "A",
+      "name": "디자인 시스템 (학습·레퍼런스)",
+      "why": "상태·간격·접근성을 어떻게 정의하는지 배우는 교과서"
+    },
+    {
+      "id": "B",
+      "name": "컴포넌트 라이브러리·헤드리스 UI",
+      "why": "검증된 동작·접근성을 가진 부품"
+    },
+    {
+      "id": "C",
+      "name": "CSS 프레임워크·토큰·리셋",
+      "why": "스타일 기반과 디자인 토큰"
+    },
+    {
+      "id": "D",
+      "name": "타이포그래피·한글 폰트",
+      "why": "품질 체감이 가장 큰 영역"
+    },
+    {
+      "id": "E",
+      "name": "아이콘",
+      "why": "일관된 시각 언어"
+    },
+    {
+      "id": "F",
+      "name": "애니메이션·모션",
+      "why": "인터랙션의 손맛"
+    },
+    {
+      "id": "G",
+      "name": "인터랙션 부품 (캐러셀·오버레이·드래그)",
+      "why": "직접 만들면 버그가 많은 부품"
+    },
+    {
+      "id": "H",
+      "name": "표현형 스타일 (게임·레트로·손그림·배경)",
+      "why": "브랜드 개성"
+    },
+    {
+      "id": "I",
+      "name": "데이터 시각화",
+      "why": "대시보드·통계 화면"
+    },
+    {
+      "id": "J",
+      "name": "접근성·품질 검사",
+      "why": "출시 전 자동·수동 점검"
+    },
+    {
+      "id": "K",
+      "name": "색상·테마 도구",
+      "why": "대비가 보장된 팔레트"
+    },
+    {
+      "id": "L",
+      "name": "큐레이션 목록·영감",
+      "why": "더 찾아볼 때의 출발점"
+    },
+    {
+      "id": "M",
+      "name": "스타터 템플릿",
+      "why": "새 프로젝트 뼈대"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "cat": "A",
+      "name": "Material Web (Material Design 3)",
+      "repo": "material-components/material-web",
+      "license": "Apache-2.0",
+      "stars": "1만+",
+      "pick": 1,
+      "use": "M3 컴포넌트의 상태 레이어·모션 토큰 정의 참고. 웹 컴포넌트라 프레임워크 무관",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "cat": "A",
+      "name": "Primer CSS (GitHub)",
+      "repo": "primer/css",
+      "license": "MIT",
+      "stars": "1만+",
+      "pick": 1,
+      "use": "유틸리티+컴포넌트 CSS 의 모범. 버튼 상태(hover/active/disabled/focus) 정의가 꼼꼼",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "cat": "A",
+      "name": "Carbon Design System (IBM)",
+      "repo": "carbon-design-system/carbon",
+      "license": "Apache-2.0",
+      "stars": "8천+",
+      "pick": 1,
+      "use": "데이터 밀도 높은 화면, 그리드·간격 체계 학습",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "cat": "A",
+      "name": "U.S. Web Design System (USWDS)",
+      "repo": "uswds/uswds",
+      "license": "CC0-1.0 (번들 폰트 OFL 등 개별)",
+      "stars": "7천+",
+      "pick": 1,
+      "use": "공공 수준 접근성·폼·에러 메시지 패턴, 컴포넌트별 사용 가이드",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "cat": "A",
+      "name": "GOV.UK Frontend",
+      "repo": "alphagov/govuk-frontend",
+      "license": "MIT",
+      "stars": "1천+",
+      "pick": 2,
+      "use": "접근성 최상급 폼·에러 메시지 패턴. 폼 설계할 때 1순위 참고",
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "cat": "A",
+      "name": "Radix Themes",
+      "repo": "radix-ui/themes",
+      "license": "MIT",
+      "stars": "8천+",
+      "pick": 2,
+      "use": "색 12단계 스케일·라디우스·스케일링 토큰 설계 참고",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "cat": "A",
+      "name": "Fluent UI (Microsoft)",
+      "repo": "microsoft/fluentui",
+      "license": "MIT",
+      "stars": "2만+",
+      "pick": 1,
+      "use": "디자인 토큰 계층(global→alias→component) 구조 학습",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "cat": "A",
+      "name": "React Spectrum / React Aria (Adobe)",
+      "repo": "adobe/react-spectrum",
+      "license": "Apache-2.0",
+      "stars": "1.5만+",
+      "pick": 2,
+      "use": "React Aria 훅: 접근성 완비 인터랙션의 업계 표준",
+      "status": "active"
+    },
+    {
+      "id": 9,
+      "cat": "A",
+      "name": "Ant Design",
+      "repo": "ant-design/ant-design",
+      "license": "MIT",
+      "stars": "9만+",
+      "pick": 1,
+      "use": "관리자·B2B 화면 패턴 백과사전",
+      "status": "active"
+    },
+    {
+      "id": 10,
+      "cat": "A",
+      "name": "Chakra UI",
+      "repo": "chakra-ui/chakra-ui",
+      "license": "MIT",
+      "stars": "3.8만+",
+      "pick": 1,
+      "use": "스타일 props·테마 토큰 설계, Ark UI 상태머신 기반",
+      "status": "active"
+    },
+    {
+      "id": 11,
+      "cat": "B",
+      "name": "shadcn/ui",
+      "repo": "shadcn-ui/ui",
+      "license": "MIT",
+      "stars": "12만+",
+      "pick": 3,
+      "use": "복사해서 소유하는 컴포넌트. React 프로젝트의 기본값",
+      "status": "active"
+    },
+    {
+      "id": 12,
+      "cat": "B",
+      "name": "Radix Primitives",
+      "repo": "radix-ui/primitives",
+      "license": "MIT",
+      "stars": "1.7만+",
+      "pick": 2,
+      "use": "스타일 없는 접근성 완비 부품(다이얼로그·드롭다운·탭)",
+      "status": "active"
+    },
+    {
+      "id": 13,
+      "cat": "B",
+      "name": "Headless UI",
+      "repo": "tailwindlabs/headlessui",
+      "license": "MIT",
+      "stars": "2.6만+",
+      "pick": 2,
+      "use": "React/Vue 용 무스타일 부품. Tailwind 와 궁합",
+      "status": "active"
+    },
+    {
+      "id": 14,
+      "cat": "B",
+      "name": "Ariakit",
+      "repo": "ariakit/ariakit",
+      "license": "MIT",
+      "stars": "8천+",
+      "pick": 1,
+      "use": "콤보박스·메뉴 등 까다로운 접근성 패턴",
+      "status": "active"
+    },
+    {
+      "id": 15,
+      "cat": "B",
+      "name": "Ark UI",
+      "repo": "chakra-ui/ark",
+      "license": "MIT",
+      "stars": "5천+",
+      "pick": 1,
+      "use": "React/Vue/Solid/Svelte 공용 헤드리스 부품 (Zag 상태머신)",
+      "status": "active"
+    },
+    {
+      "id": 16,
+      "cat": "B",
+      "name": "daisyUI",
+      "repo": "saadeghi/daisyui",
+      "license": "MIT",
+      "stars": "4만+",
+      "pick": 2,
+      "use": "Tailwind 클래스 이름만으로 컴포넌트. 테마 전환이 쉬움",
+      "status": "active"
+    },
+    {
+      "id": 17,
+      "cat": "B",
+      "name": "Flowbite",
+      "repo": "themesberg/flowbite",
+      "license": "MIT (Pro 별도)",
+      "stars": "8천+",
+      "pick": 2,
+      "use": "바닐라 JS 로 동작 — 워드프레스·정적 사이트에 붙이기 쉬움",
+      "status": "active"
+    },
+    {
+      "id": 18,
+      "cat": "B",
+      "name": "HyperUI",
+      "repo": "markmead/hyperui",
+      "license": "MIT",
+      "stars": "1만+",
+      "pick": 2,
+      "use": "복사-붙여넣기 HTML 블록(랜딩·폼·카드·필터)",
+      "status": "active"
+    },
+    {
+      "id": 19,
+      "cat": "B",
+      "name": "Mantine",
+      "repo": "mantinedev/mantine",
+      "license": "MIT",
+      "stars": "2.8만+",
+      "pick": 2,
+      "use": "100개+ 컴포넌트와 훅. 대시보드·폼 빠르게",
+      "status": "active"
+    },
+    {
+      "id": 20,
+      "cat": "B",
+      "name": "Uiverse Galaxy",
+      "repo": "uiverse-io/galaxy",
+      "license": "MIT",
+      "stars": "1.3만+",
+      "pick": 2,
+      "use": "커뮤니티 버튼·토글·로더 수천 개 — 아이디어 창고",
+      "status": "active"
+    },
+    {
+      "id": 21,
+      "cat": "C",
+      "name": "Tailwind CSS",
+      "repo": "tailwindlabs/tailwindcss",
+      "license": "MIT",
+      "stars": "9.5만+",
+      "pick": 3,
+      "use": "유틸리티 CSS 표준. 빌드 있는 프로젝트의 기본값",
+      "status": "active"
+    },
+    {
+      "id": 22,
+      "cat": "C",
+      "name": "Open Props",
+      "repo": "argyleink/open-props",
+      "license": "MIT",
+      "stars": "5천+",
+      "pick": 3,
+      "use": "CSS 변수만으로 된 토큰(그림자·이징·간격·그라데이션). 빌드 없이 바로",
+      "status": "active"
+    },
+    {
+      "id": 23,
+      "cat": "C",
+      "name": "Simple.css",
+      "repo": "kevquirk/simple.css",
+      "license": "MIT",
+      "stars": "5천+",
+      "pick": 2,
+      "use": "클래스 없이 시맨틱 HTML 만으로 깔끔한 기본 스타일 — 문서·관리 페이지",
+      "status": "active"
+    },
+    {
+      "id": 24,
+      "cat": "C",
+      "name": "UnoCSS",
+      "repo": "unocss/unocss",
+      "license": "MIT",
+      "stars": "1.7만+",
+      "pick": 1,
+      "use": "온디맨드 원자 CSS 엔진. Tailwind 대안",
+      "status": "active"
+    },
+    {
+      "id": 25,
+      "cat": "C",
+      "name": "Bootstrap",
+      "repo": "twbs/bootstrap",
+      "license": "MIT",
+      "stars": "17만+",
+      "pick": 1,
+      "use": "레거시·관리자 화면. 그리드·유틸리티 문서가 탄탄",
+      "status": "active"
+    },
+    {
+      "id": 26,
+      "cat": "C",
+      "name": "modern-normalize",
+      "repo": "sindresorhus/modern-normalize",
+      "license": "MIT",
+      "stars": "7천+",
+      "pick": 3,
+      "use": "브라우저 기본 스타일 정규화 — 모든 프로젝트 첫 줄",
+      "status": "active"
+    },
+    {
+      "id": 27,
+      "cat": "C",
+      "name": "Utopia (유동 타이포·간격)",
+      "repo": "trys/utopia-core",
+      "license": "ISC",
+      "stars": "100+",
+      "pick": 2,
+      "use": "화면 폭에 비례하는 clamp() 타이포·간격 스케일 생성",
+      "status": "active"
+    },
+    {
+      "id": 28,
+      "cat": "C",
+      "name": "Style Dictionary",
+      "repo": "style-dictionary/style-dictionary",
+      "license": "Apache-2.0",
+      "stars": "5천+",
+      "pick": 2,
+      "use": "토큰 JSON → CSS/iOS/Android 변환. 디자인 시스템 확장 시",
+      "status": "active"
+    },
+    {
+      "id": 29,
+      "cat": "D",
+      "name": "Pretendard",
+      "repo": "orioncactus/pretendard",
+      "license": "OFL-1.1",
+      "stars": "3.5천+",
+      "pick": 3,
+      "use": "한국어 웹 본문 표준급. 다이나믹 서브셋으로 빠름",
+      "status": "active"
+    },
+    {
+      "id": 30,
+      "cat": "D",
+      "name": "SUIT",
+      "repo": "sun-typeface/SUIT",
+      "license": "OFL-1.1",
+      "stars": "300+",
+      "pick": 2,
+      "use": "Pretendard 대안. 조금 더 둥글고 친근한 산세리프",
+      "status": "active"
+    },
+    {
+      "id": 31,
+      "cat": "D",
+      "name": "Wanted Sans",
+      "repo": "wanteddev/wanted-sans",
+      "license": "OFL-1.1",
+      "stars": "300+",
+      "pick": 2,
+      "use": "원티드 서체. 숫자·영문 균형 좋아 대시보드에",
+      "status": "active"
+    },
+    {
+      "id": 32,
+      "cat": "D",
+      "name": "IBM Plex Sans KR",
+      "repo": "IBM/plex",
+      "license": "OFL-1.1",
+      "stars": "1.1만+",
+      "pick": 1,
+      "use": "기술·데이터 톤 한글 본문 폰트, Plex Mono 와 짝 맞추기 좋음",
+      "status": "active"
+    },
+    {
+      "id": 33,
+      "cat": "D",
+      "name": "Noto CJK",
+      "repo": "notofonts/noto-cjk",
+      "license": "OFL-1.1",
+      "stars": "4천+",
+      "pick": 1,
+      "use": "한중일 전부 커버. 다국어 서비스의 폴백",
+      "status": "active"
+    },
+    {
+      "id": 34,
+      "cat": "D",
+      "name": "Inter",
+      "repo": "rsms/inter",
+      "license": "OFL-1.1",
+      "stars": "1.8만+",
+      "pick": 2,
+      "use": "UI 영문 표준. 숫자 탭 정렬(tnum) 지원",
+      "status": "active"
+    },
+    {
+      "id": 35,
+      "cat": "D",
+      "name": "Fontsource",
+      "repo": "fontsource/fontsource",
+      "license": "MIT (폰트는 각자)",
+      "stars": "6천+",
+      "pick": 2,
+      "use": "구글·오픈 폰트를 npm 으로 자체 호스팅",
+      "status": "active"
+    },
+    {
+      "id": 36,
+      "cat": "D",
+      "name": "Capsize",
+      "repo": "seek-oss/capsize",
+      "license": "MIT",
+      "stars": "1.7천+",
+      "pick": 1,
+      "use": "폰트 위아래 여백 제거 — 텍스트 정렬을 픽셀 단위로 (npm: @capsizecss/core)",
+      "status": "active"
+    },
+    {
+      "id": 37,
+      "cat": "E",
+      "name": "Lucide",
+      "repo": "lucide-icons/lucide",
+      "license": "ISC",
+      "stars": "2.4만+",
+      "pick": 3,
+      "use": "1,500+ 선 아이콘. 키트 기본 아이콘",
+      "status": "active"
+    },
+    {
+      "id": 38,
+      "cat": "E",
+      "name": "Tabler Icons",
+      "repo": "tabler/tabler-icons",
+      "license": "MIT",
+      "stars": "2.2만+",
+      "pick": 2,
+      "use": "5,000+ 아이콘. Lucide 에 없는 것 보충",
+      "status": "active"
+    },
+    {
+      "id": 39,
+      "cat": "E",
+      "name": "Phosphor Icons",
+      "repo": "phosphor-icons/homepage",
+      "license": "MIT",
+      "stars": "7천+",
+      "pick": 2,
+      "use": "굵기 6종(Thin~Fill·Duotone). 게임·캐주얼 UI 에 Fill 이 잘 어울림 (npm: @phosphor-icons/web)",
+      "status": "active"
+    },
+    {
+      "id": 40,
+      "cat": "E",
+      "name": "Heroicons",
+      "repo": "tailwindlabs/heroicons",
+      "license": "MIT",
+      "stars": "2.2만+",
+      "pick": 2,
+      "use": "Tailwind 팀 아이콘. Outline/Solid/Mini",
+      "status": "active"
+    },
+    {
+      "id": 41,
+      "cat": "E",
+      "name": "Remix Icon",
+      "repo": "Remix-Design/RemixIcon",
+      "license": "Remix Icon License v1.0 (사용·수정 허용, 아이콘 자체 재판매 금지)",
+      "stars": "8천+",
+      "pick": 1,
+      "use": "중국·아시아 서비스 아이콘 다수(결제·메신저류)",
+      "status": "active"
+    },
+    {
+      "id": 42,
+      "cat": "E",
+      "name": "Iconify",
+      "repo": "iconify/iconify",
+      "license": "MIT (아이콘 세트는 각자)",
+      "stars": "5천+",
+      "pick": 2,
+      "use": "200개+ 아이콘 세트를 한 API 로 — 필요한 것만 번들",
+      "status": "active"
+    },
+    {
+      "id": 43,
+      "cat": "E",
+      "name": "Simple Icons",
+      "repo": "simple-icons/simple-icons",
+      "license": "CC0-1.0 (상표는 각 회사)",
+      "stars": "2.3만+",
+      "pick": 2,
+      "use": "브랜드 로고 아이콘(SNS 공유 버튼 등). 상표 가이드 준수",
+      "status": "active"
+    },
+    {
+      "id": 44,
+      "cat": "E",
+      "name": "Material Symbols",
+      "repo": "google/material-design-icons",
+      "license": "Apache-2.0",
+      "stars": "5만+",
+      "pick": 1,
+      "use": "가변 폰트 아이콘(굵기·채움·크기 축)",
+      "status": "active"
+    },
+    {
+      "id": 45,
+      "cat": "F",
+      "name": "GSAP",
+      "repo": "greensock/GSAP",
+      "license": "GSAP Standard (상업 무료, 조건 있음)",
+      "stars": "2.8만+",
+      "pick": 3,
+      "use": "타임라인·ScrollTrigger·SplitText. 게임 같은 연출의 표준",
+      "status": "active"
+    },
+    {
+      "id": 46,
+      "cat": "F",
+      "name": "Motion",
+      "repo": "motiondivision/motion",
+      "license": "MIT",
+      "stars": "3.3만+",
+      "pick": 3,
+      "use": "구 Framer Motion. 바닐라 JS·React 둘 다. 스프링 물리",
+      "status": "active"
+    },
+    {
+      "id": 47,
+      "cat": "F",
+      "name": "Anime.js",
+      "repo": "juliangarnier/anime",
+      "license": "MIT",
+      "stars": "7만+",
+      "pick": 2,
+      "use": "가볍고 문법 쉬움. v4 타임라인·스크롤 연동",
+      "status": "active"
+    },
+    {
+      "id": 48,
+      "cat": "F",
+      "name": "AutoAnimate",
+      "repo": "formkit/auto-animate",
+      "license": "MIT",
+      "stars": "1.3만+",
+      "pick": 3,
+      "use": "한 줄로 리스트 추가·삭제·정렬 애니메이션",
+      "status": "active"
+    },
+    {
+      "id": 49,
+      "cat": "F",
+      "name": "lottie-web",
+      "repo": "airbnb/lottie-web",
+      "license": "MIT",
+      "stars": "3만+",
+      "pick": 2,
+      "use": "After Effects 애니메이션 재생 — 축하·로딩·빈 상태 (신규는 LottieFiles/dotlottie-web 도 검토)",
+      "status": "active"
+    },
+    {
+      "id": 50,
+      "cat": "F",
+      "name": "Rive (웹 런타임)",
+      "repo": "rive-app/rive-wasm",
+      "license": "MIT",
+      "stars": "1천+",
+      "pick": 2,
+      "use": "상태머신 있는 인터랙티브 애니메이션(캐릭터 반응)",
+      "status": "active"
+    },
+    {
+      "id": 51,
+      "cat": "F",
+      "name": "Lenis",
+      "repo": "darkroomengineering/lenis",
+      "license": "MIT",
+      "stars": "1.6만+",
+      "pick": 2,
+      "use": "부드러운 스크롤. GSAP ScrollTrigger 와 조합",
+      "status": "active"
+    },
+    {
+      "id": 52,
+      "cat": "F",
+      "name": "NumberFlow",
+      "repo": "barvian/number-flow",
+      "license": "MIT",
+      "stars": "7.7천+",
+      "pick": 2,
+      "use": "숫자가 굴러가며 바뀌는 연출 — XP·가격·카운터",
+      "status": "active"
+    },
+    {
+      "id": 53,
+      "cat": "F",
+      "name": "swup",
+      "repo": "swup/swup",
+      "license": "MIT",
+      "stars": "5.2천+",
+      "pick": 2,
+      "use": "정적/멀티페이지 사이트의 페이지 전환 애니메이션",
+      "status": "active"
+    },
+    {
+      "id": 54,
+      "cat": "F",
+      "name": "react-spring",
+      "repo": "pmndrs/react-spring",
+      "license": "MIT",
+      "stars": "2.9만+",
+      "pick": 1,
+      "use": "스프링 물리 기반 React 애니메이션",
+      "status": "active"
+    },
+    {
+      "id": 55,
+      "cat": "G",
+      "name": "Embla Carousel",
+      "repo": "davidjerleke/embla-carousel",
+      "license": "MIT",
+      "stars": "8천+",
+      "pick": 3,
+      "use": "가볍고 터치 좋은 캐러셀. 플러그인 구조",
+      "status": "active"
+    },
+    {
+      "id": 56,
+      "cat": "G",
+      "name": "Swiper",
+      "repo": "nolimits4web/swiper",
+      "license": "MIT",
+      "stars": "4만+",
+      "pick": 2,
+      "use": "기능 많은 슬라이더(효과·썸네일·가상 슬라이드)",
+      "status": "active"
+    },
+    {
+      "id": 57,
+      "cat": "G",
+      "name": "Floating UI",
+      "repo": "floating-ui/floating-ui",
+      "license": "MIT",
+      "stars": "3만+",
+      "pick": 3,
+      "use": "툴팁·팝오버·드롭다운 위치 계산의 표준",
+      "status": "active"
+    },
+    {
+      "id": 58,
+      "cat": "G",
+      "name": "Vaul",
+      "repo": "emilkowalski/vaul",
+      "license": "MIT",
+      "stars": "7천+",
+      "pick": 2,
+      "use": "드래그로 닫는 바텀시트의 UX 레퍼런스. 저장소는 유지보수 종료 — 실사용은 react-modal-sheet 또는 <dialog>+Motion",
+      "status": "reference"
+    },
+    {
+      "id": 59,
+      "cat": "G",
+      "name": "Sonner",
+      "repo": "emilkowalski/sonner",
+      "license": "MIT",
+      "stars": "1.3만+",
+      "pick": 2,
+      "use": "쌓이고 스와이프로 닫히는 토스트",
+      "status": "active"
+    },
+    {
+      "id": 60,
+      "cat": "G",
+      "name": "SortableJS",
+      "repo": "SortableJS/Sortable",
+      "license": "MIT",
+      "stars": "3만+",
+      "pick": 2,
+      "use": "드래그 정렬(바닐라 JS). 칸반·순서 편집",
+      "status": "active"
+    },
+    {
+      "id": 61,
+      "cat": "G",
+      "name": "dnd kit",
+      "repo": "clauderic/dnd-kit",
+      "license": "MIT",
+      "stars": "1.7만+",
+      "pick": 2,
+      "use": "React 드래그앤드롭, 키보드 접근성 포함",
+      "status": "active"
+    },
+    {
+      "id": 62,
+      "cat": "G",
+      "name": "cmdk",
+      "repo": "dip/cmdk",
+      "license": "MIT",
+      "stars": "1.3만+",
+      "pick": 2,
+      "use": "⌘K 커맨드 팔레트 — 검색 UX",
+      "status": "active"
+    },
+    {
+      "id": 63,
+      "cat": "G",
+      "name": "PhotoSwipe",
+      "repo": "dimsemenov/PhotoSwipe",
+      "license": "MIT",
+      "stars": "2.4만+",
+      "pick": 2,
+      "use": "이미지 라이트박스(핀치 줌·스와이프)",
+      "status": "active"
+    },
+    {
+      "id": 64,
+      "cat": "G",
+      "name": "medium-zoom",
+      "repo": "francoischalifour/medium-zoom",
+      "license": "MIT",
+      "stars": "4천",
+      "pick": 1,
+      "use": "이미지 클릭 확대 한 줄",
+      "status": "active"
+    },
+    {
+      "id": 65,
+      "cat": "H",
+      "name": "Rough.js",
+      "repo": "rough-stuff/rough",
+      "license": "MIT",
+      "stars": "2만+",
+      "pick": 2,
+      "use": "손그림 스타일 도형(Canvas/SVG). 업데이트는 뜸하지만 Excalidraw 가 쓰는 안정 버전",
+      "status": "active"
+    },
+    {
+      "id": 66,
+      "cat": "H",
+      "name": "Rough Notation",
+      "repo": "rough-stuff/rough-notation",
+      "license": "MIT",
+      "stars": "9천+",
+      "pick": 2,
+      "use": "텍스트 손그림 밑줄·동그라미 애니메이션. 2020년 이후 업데이트 없음 — 동작은 하지만 참고용",
+      "status": "reference"
+    },
+    {
+      "id": 67,
+      "cat": "H",
+      "name": "Excalidraw",
+      "repo": "excalidraw/excalidraw",
+      "license": "MIT",
+      "stars": "13만+",
+      "pick": 1,
+      "use": "손그림 톤 레퍼런스, 화이트보드 임베드·와이어프레임",
+      "status": "active"
+    },
+    {
+      "id": 68,
+      "cat": "H",
+      "name": "NES.css",
+      "repo": "nostalgic-css/NES.css",
+      "license": "MIT",
+      "stars": "2만+",
+      "pick": 1,
+      "use": "8비트 게임 UI 프레임 — 유지보수 종료, 시각 레퍼런스로만",
+      "status": "reference"
+    },
+    {
+      "id": 69,
+      "cat": "H",
+      "name": "augmented-ui",
+      "repo": "propjockey/augmented-ui",
+      "license": "BSD-2-Clause",
+      "stars": "1천+",
+      "pick": 2,
+      "use": "깎인 모서리·HUD 프레임. 2020년 이후 정체 — 아이디어만 가져와 clip-path 로 직접 구현 권장",
+      "status": "reference"
+    },
+    {
+      "id": 70,
+      "cat": "H",
+      "name": "Magic UI",
+      "repo": "magicuidesign/magicui",
+      "license": "MIT",
+      "stars": "2.2만+",
+      "pick": 1,
+      "use": "shadcn CLI 로 가져오는 애니메이션 컴포넌트(마키·숫자·빛 효과)",
+      "status": "active"
+    },
+    {
+      "id": 71,
+      "cat": "H",
+      "name": "98.css",
+      "repo": "jdan/98.css",
+      "license": "MIT",
+      "stars": "1만+",
+      "pick": 1,
+      "use": "윈도우 98 UI — 레트로 무드 레퍼런스",
+      "status": "active"
+    },
+    {
+      "id": 72,
+      "cat": "H",
+      "name": "tsParticles",
+      "repo": "tsparticles/tsparticles",
+      "license": "MIT",
+      "stars": "8천+",
+      "pick": 1,
+      "use": "파티클·컨페티 효과(레벨업·당첨 연출)",
+      "status": "active"
+    },
+    {
+      "id": 73,
+      "cat": "I",
+      "name": "Apache ECharts",
+      "repo": "apache/echarts",
+      "license": "Apache-2.0",
+      "stars": "6만+",
+      "pick": 3,
+      "use": "대용량·대시보드 차트. 한국어 로캘",
+      "status": "active"
+    },
+    {
+      "id": 74,
+      "cat": "I",
+      "name": "Chart.js",
+      "repo": "chartjs/Chart.js",
+      "license": "MIT",
+      "stars": "6.5만+",
+      "pick": 2,
+      "use": "가벼운 기본 차트 8종",
+      "status": "active"
+    },
+    {
+      "id": 75,
+      "cat": "I",
+      "name": "D3",
+      "repo": "d3/d3",
+      "license": "ISC",
+      "stars": "11만+",
+      "pick": 1,
+      "use": "맞춤형 시각화의 원천 — 학습 곡선 높음",
+      "status": "active"
+    },
+    {
+      "id": 76,
+      "cat": "I",
+      "name": "ApexCharts",
+      "repo": "apexcharts/apexcharts.js",
+      "license": "ApexCharts Community License (연매출 200만 달러 미만 무료, 초과 시 유료)",
+      "stars": "1.4만+",
+      "pick": 2,
+      "use": "인터랙티브 차트, 기본 디자인이 예쁨. v5 부터 라이선스 조건 있음",
+      "status": "active"
+    },
+    {
+      "id": 77,
+      "cat": "I",
+      "name": "uPlot",
+      "repo": "leeoniya/uPlot",
+      "license": "MIT",
+      "stars": "1만+",
+      "pick": 1,
+      "use": "초경량·초고속 시계열 차트",
+      "status": "active"
+    },
+    {
+      "id": 78,
+      "cat": "I",
+      "name": "visx (Airbnb)",
+      "repo": "airbnb/visx",
+      "license": "MIT",
+      "stars": "1.9만+",
+      "pick": 1,
+      "use": "React + D3 저수준 시각화 부품",
+      "status": "active"
+    },
+    {
+      "id": 79,
+      "cat": "J",
+      "name": "axe-core",
+      "repo": "dequelabs/axe-core",
+      "license": "MPL-2.0",
+      "stars": "7.5천+",
+      "pick": 3,
+      "use": "접근성 자동 검사 엔진 — CI·브라우저 확장",
+      "status": "active"
+    },
+    {
+      "id": 80,
+      "cat": "J",
+      "name": "Lighthouse",
+      "repo": "GoogleChrome/lighthouse",
+      "license": "Apache-2.0",
+      "stars": "2.9만+",
+      "pick": 3,
+      "use": "성능·접근성·SEO 점수. CI 로 회귀 감시",
+      "status": "active"
+    },
+    {
+      "id": 81,
+      "cat": "J",
+      "name": "web-vitals",
+      "repo": "GoogleChrome/web-vitals",
+      "license": "Apache-2.0",
+      "stars": "8천+",
+      "pick": 2,
+      "use": "실사용자 LCP·INP·CLS 측정",
+      "status": "active"
+    },
+    {
+      "id": 82,
+      "cat": "J",
+      "name": "Pa11y",
+      "repo": "pa11y/pa11y",
+      "license": "LGPL-3.0",
+      "stars": "4천+",
+      "pick": 1,
+      "use": "명령줄 접근성 검사, 여러 페이지 일괄",
+      "status": "active"
+    },
+    {
+      "id": 83,
+      "cat": "J",
+      "name": "Front-End Checklist",
+      "repo": "thedaviddias/Front-End-Checklist",
+      "license": "MIT",
+      "stars": "7만+",
+      "pick": 3,
+      "use": "출시 전 프론트 점검표",
+      "status": "active"
+    },
+    {
+      "id": 84,
+      "cat": "J",
+      "name": "The A11Y Project",
+      "repo": "a11yproject/a11yproject.com",
+      "license": "Apache-2.0",
+      "stars": "3.9천+",
+      "pick": 2,
+      "use": "접근성 체크리스트·패턴 설명",
+      "status": "active"
+    },
+    {
+      "id": 85,
+      "cat": "J",
+      "name": "focus-trap",
+      "repo": "focus-trap/focus-trap",
+      "license": "MIT",
+      "stars": "1.5천+",
+      "pick": 2,
+      "use": "모달·시트 안에 키보드 포커스 가두기",
+      "status": "active"
+    },
+    {
+      "id": 86,
+      "cat": "J",
+      "name": "Playwright",
+      "repo": "microsoft/playwright",
+      "license": "Apache-2.0",
+      "stars": "9.7만+",
+      "pick": 2,
+      "use": "화면 회귀 테스트·스크린샷 비교",
+      "status": "active"
+    },
+    {
+      "id": 87,
+      "cat": "K",
+      "name": "Radix Colors",
+      "repo": "radix-ui/colors",
+      "license": "MIT",
+      "stars": "1.7천+",
+      "pick": 3,
+      "use": "용도별 12단계 색 스케일(라이트·다크). 대비 보장",
+      "status": "active"
+    },
+    {
+      "id": 88,
+      "cat": "K",
+      "name": "Leonardo (Adobe)",
+      "repo": "adobe/leonardo",
+      "license": "Apache-2.0",
+      "stars": "2천+",
+      "pick": 2,
+      "use": "목표 대비율로 팔레트 생성",
+      "status": "active"
+    },
+    {
+      "id": 89,
+      "cat": "K",
+      "name": "chroma.js",
+      "repo": "gka/chroma.js",
+      "license": "BSD-3-Clause (ColorBrewer 팔레트는 Apache-2.0)",
+      "stars": "1만+",
+      "pick": 1,
+      "use": "색 보간·스케일·대비 계산",
+      "status": "active"
+    },
+    {
+      "id": 90,
+      "cat": "K",
+      "name": "Culori",
+      "repo": "Evercoder/culori",
+      "license": "MIT",
+      "stars": "1천+",
+      "pick": 1,
+      "use": "OKLCH 등 최신 색공간 변환",
+      "status": "active"
+    },
+    {
+      "id": 91,
+      "cat": "K",
+      "name": "Color.js",
+      "repo": "color-js/color.js",
+      "license": "MIT",
+      "stars": "2천+",
+      "pick": 1,
+      "use": "CSS Color 4 명세 작성자들이 만든 색 라이브러리, APCA 대비",
+      "status": "active"
+    },
+    {
+      "id": 92,
+      "cat": "L",
+      "name": "Design Resources for Developers",
+      "repo": "bradtraversy/design-resources-for-developers",
+      "license": "MIT",
+      "stars": "6만+",
+      "pick": 2,
+      "use": "무료 디자인 리소스 대형 목록",
+      "status": "active"
+    },
+    {
+      "id": 93,
+      "cat": "L",
+      "name": "awesome-design-systems",
+      "repo": "alexpate/awesome-design-systems",
+      "license": "Unlicense",
+      "stars": "2.6만+",
+      "pick": 2,
+      "use": "기업 디자인 시스템 모음",
+      "status": "active"
+    },
+    {
+      "id": 94,
+      "cat": "L",
+      "name": "awesome-design",
+      "repo": "gztchan/awesome-design",
+      "license": "—",
+      "stars": "1.5만+",
+      "pick": 1,
+      "use": "디자인 도구·리소스 종합 (2024년 이후 갱신 정체)",
+      "status": "reference"
+    },
+    {
+      "id": 95,
+      "cat": "L",
+      "name": "awesome-web-animation",
+      "repo": "sergey-pimenov/awesome-web-animation",
+      "license": "CC0-1.0",
+      "stars": "2천+",
+      "pick": 1,
+      "use": "웹 애니메이션 라이브러리·글 목록",
+      "status": "active"
+    },
+    {
+      "id": 96,
+      "cat": "L",
+      "name": "awesome-creative-coding",
+      "repo": "terkelg/awesome-creative-coding",
+      "license": "CC0-1.0 (미확인)",
+      "stars": "1.4만+",
+      "pick": 1,
+      "use": "제너러티브·인터랙티브 아트 자료",
+      "status": "active"
+    },
+    {
+      "id": 97,
+      "cat": "L",
+      "name": "Codrops (tympanus) 데모 저장소",
+      "repo": "codrops",
+      "license": "MIT (데모별 확인)",
+      "stars": "—",
+      "pick": 2,
+      "use": "실험적 인터랙션 데모 수백 개(GitHub org: codrops). 연출 아이디어 1순위",
+      "status": "active"
+    },
+    {
+      "id": 98,
+      "cat": "M",
+      "name": "AstroWind",
+      "repo": "arthelokyo/astrowind",
+      "license": "MIT",
+      "stars": "6천+",
+      "pick": 2,
+      "use": "Astro + Tailwind 블로그·랜딩 스타터",
+      "status": "active"
+    },
+    {
+      "id": 99,
+      "cat": "M",
+      "name": "Sage (Roots)",
+      "repo": "roots/sage",
+      "license": "MIT",
+      "stars": "1.2만+",
+      "pick": 2,
+      "use": "Vite + Tailwind + Blade 워드프레스 테마 스타터",
+      "status": "active"
+    },
+    {
+      "id": 100,
+      "cat": "M",
+      "name": "Cruip Tailwind Landing Template",
+      "repo": "cruip/tailwind-landing-page-template",
+      "license": "GPL-3.0",
+      "stars": "4.5천+",
+      "pick": 1,
+      "use": "랜딩 페이지 구성 참고 (GPL 이라 코드 재사용 시 주의)",
+      "status": "active"
+    }
+  ]
+}

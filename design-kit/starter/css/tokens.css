@@ -1,0 +1,82 @@
+/* ─────────────────────────────────────────────────────────────
+   design-kit 토큰
+   - 프로젝트마다 바꾸는 건 "브랜드" 블록(--accent, --accent-2, --font-display) 뿐.
+   - 라이트/다크 둘 다 정의. <html data-theme="dark|light"> 로 강제, 없으면 시스템 설정.
+   - 이름은 의미(용도) 기준: --bg, --surface, --text, --muted, --line, --accent …
+   ───────────────────────────────────────────────────────────── */
+:root {
+  /* 브랜드 — 프로젝트마다 교체 */
+  --accent: #2563eb;          /* 주 행동색 (버튼·선택 상태·링크) */
+  --accent-2: #f97316;        /* 보조 강조 (뱃지·하이라이트) */
+  --on-accent: #fff;          /* accent 위 글자색 */
+  --danger: #dc2626;
+  --success: #16a34a;
+  --warning: #d97706;
+
+  /* 타이포 */
+  --font: 'Pretendard Variable', Pretendard, system-ui, -apple-system, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif;
+  --font-display: var(--font);   /* 표현형 프로젝트는 'Black Han Sans' 등으로 */
+  --font-mono: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, monospace;
+  /* 유동 타입 스케일 (360px → 1280px) */
+  --fs-xs: clamp(0.75rem, 0.72rem + 0.1vw, 0.8rem);
+  --fs-sm: clamp(0.875rem, 0.85rem + 0.1vw, 0.925rem);
+  --fs-md: clamp(1rem, 0.97rem + 0.15vw, 1.0625rem);
+  --fs-lg: clamp(1.125rem, 1.05rem + 0.35vw, 1.3rem);
+  --fs-xl: clamp(1.375rem, 1.2rem + 0.8vw, 1.85rem);
+  --fs-2xl: clamp(1.75rem, 1.4rem + 1.6vw, 2.75rem);
+  --lh-tight: 1.25; --lh: 1.6;
+
+  /* 간격 (4px 그리드) */
+  --sp-1: 4px; --sp-2: 8px; --sp-3: 12px; --sp-4: 16px; --sp-5: 24px; --sp-6: 32px; --sp-7: 48px; --sp-8: 64px;
+
+  /* 모양 */
+  --radius-sm: 6px; --radius: 10px; --radius-lg: 16px; --radius-pill: 999px;
+  --tap: 44px;                 /* 최소 터치 영역 (WCAG 2.5.8 / Apple HIG) */
+
+  /* 모션 */
+  --t-fast: 120ms; --t-med: 220ms; --t-slow: 400ms;
+  --ease-out: cubic-bezier(.2, .8, .2, 1);
+  --ease-in-out: cubic-bezier(.65, 0, .35, 1);
+  --ease-spring: cubic-bezier(.34, 1.56, .64, 1);
+
+  /* 레이어 */
+  --z-sheet: 50; --z-toast: 60;
+
+  /* 라이트 (기본) */
+  --bg: #f7f7f8;
+  --surface: #ffffff;
+  --surface-2: #f1f1f3;
+  --text: #17171a;
+  --muted: #5f5f68;            /* bg 대비 6.5:1 */
+  --line: #e3e3e8;
+  --shadow: 0 1px 2px rgb(0 0 0 / .06), 0 4px 16px rgb(0 0 0 / .06);
+  --shadow-lg: 0 8px 40px rgb(0 0 0 / .14);
+  --scrim: rgb(0 0 0 / .45);
+  --focus: 0 0 0 3px color-mix(in srgb, var(--accent) 45%, transparent);
+  color-scheme: light;
+}
+
+/* 다크: 시스템 설정 따름 (data-theme="light" 로 고정하면 제외) */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0d0d0f; --surface: #17171a; --surface-2: #1f1f23;
+    --text: #f2f0ea; --muted: #9a978f; --line: #303036;
+    --shadow: 0 1px 2px rgb(0 0 0 / .4), 0 4px 16px rgb(0 0 0 / .3);
+    --shadow-lg: 0 8px 40px rgb(0 0 0 / .6);
+    --scrim: rgb(0 0 0 / .6);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0d0d0f; --surface: #17171a; --surface-2: #1f1f23;
+  --text: #f2f0ea; --muted: #9a978f; --line: #303036;
+  --shadow: 0 1px 2px rgb(0 0 0 / .4), 0 4px 16px rgb(0 0 0 / .3);
+  --shadow-lg: 0 8px 40px rgb(0 0 0 / .6);
+  --scrim: rgb(0 0 0 / .6);
+  color-scheme: dark;
+}
+
+/* 모션 줄이기 설정 존중 */
+@media (prefers-reduced-motion: reduce) {
+  :root { --t-fast: 0ms; --t-med: 0ms; --t-slow: 0ms; }
+}

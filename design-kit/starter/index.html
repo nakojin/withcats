@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>design-kit — 컴포넌트 갤러리</title>
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap" />
+<link rel="stylesheet" href="css/tokens.css" />
+<link rel="stylesheet" href="css/base.css" />
+<link rel="stylesheet" href="css/components.css" />
+<link rel="stylesheet" href="css/expressive.css" />
+<style>
+  /* 갤러리 페이지 전용 */
+  .demo-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: var(--sp-3); padding-block: var(--sp-5); }
+  .demo-sec { padding-block: var(--sp-5); border-top: 1px solid var(--line); }
+  .demo-sec > h2 { font-size: var(--fs-lg); display: flex; align-items: center; gap: .4em; }
+  .demo-sec > p.muted { margin-top: -6px; }
+  .swatch { display: grid; gap: 6px; font-size: var(--fs-xs); }
+  .swatch > i { display: block; height: 48px; border-radius: var(--radius); border: 1px solid var(--line); }
+  .phone { --font-display: 'Black Han Sans', var(--font); width: min(100%, 380px); border: 1px solid var(--line); border-radius: 28px; overflow: hidden; background: var(--bg); box-shadow: var(--shadow); }
+</style>
+</head>
+<body>
+<!-- 표현형 레이어용 거친 가장자리 필터 -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><filter id="rough" x="-10%" y="-20%" width="120%" height="140%"><feTurbulence type="fractalNoise" baseFrequency="0.035 0.09" numOctaves="3" seed="7"/><feDisplacementMap in="SourceGraphic" scale="7" xChannelSelector="R" yChannelSelector="G"/></filter></svg>
+<!-- 아이콘 스프라이트 자리: 아래 스크립트가 icons.inline.js 로 채운다. 서버 렌더링이면 icons/icons.svg 를 여기에 직접 include -->
+<div id="sprite" hidden></div>
+
+<main class="container">
+  <header class="demo-head">
+    <div>
+      <div class="kit-eyebrow">withcats · design-kit</div>
+      <h1 style="margin:0">컴포넌트 갤러리</h1>
+    </div>
+    <div class="cluster" data-single role="group" aria-label="테마">
+      <button class="kit-chip" aria-pressed="false" data-theme-set="light"><svg class="ic"><use href="#i-sun"/></svg>라이트</button>
+      <button class="kit-chip" aria-pressed="false" data-theme-set="dark"><svg class="ic"><use href="#i-moon"/></svg>다크</button>
+      <button class="kit-chip" aria-pressed="true" data-theme-set="system">시스템</button>
+    </div>
+  </header>
+
+  <section class="demo-sec">
+    <h2>토큰</h2>
+    <p class="muted small">프로젝트마다 바꾸는 값은 <code>--accent</code>, <code>--accent-2</code>, <code>--font-display</code> 세 개.</p>
+    <div class="grid" style="--min:110px">
+      <div class="swatch"><i style="background:var(--accent)"></i>accent</div>
+      <div class="swatch"><i style="background:var(--accent-2)"></i>accent-2</div>
+      <div class="swatch"><i style="background:var(--bg)"></i>bg</div>
+      <div class="swatch"><i style="background:var(--surface)"></i>surface</div>
+      <div class="swatch"><i style="background:var(--surface-2)"></i>surface-2</div>
+      <div class="swatch"><i style="background:var(--text)"></i>text</div>
+      <div class="swatch"><i style="background:var(--muted)"></i>muted</div>
+      <div class="swatch"><i style="background:var(--danger)"></i>danger</div>
+    </div>
+    <div class="stack" style="--gap:4px;margin-top:var(--sp-4)">
+      <div style="font-size:var(--fs-2xl);font-weight:800;line-height:1.2">2xl 한글 타이포 Pretendard</div>
+      <div style="font-size:var(--fs-xl);font-weight:700">xl 제목 — 화면 폭에 따라 자연스럽게 커져요</div>
+      <div style="font-size:var(--fs-md)">md 본문. 한글은 <code>word-break: keep-all</code> 로 단어 중간에서 끊기지 않게 합니다.</div>
+      <div class="small muted">sm 보조 설명 · <span class="tnum">₩ 1,234,567</span> 숫자는 tabular-nums</div>
+    </div>
+  </section>
+
+  <section class="demo-sec">
+    <h2>버튼</h2>
+    <div class="cluster">
+      <button class="kit-btn"><svg class="ic"><use href="#i-plus"/></svg>기본</button>
+      <button class="kit-btn is-secondary">보조</button>
+      <button class="kit-btn is-ghost">고스트</button>
+      <button class="kit-btn is-danger"><svg class="ic"><use href="#i-trash-2"/></svg>삭제</button>
+      <button class="kit-btn" aria-busy="true">저장</button>
+      <button class="kit-btn" disabled>비활성</button>
+      <button class="kit-btn is-secondary is-icon" aria-label="공유" data-tip="공유"><svg class="ic"><use href="#i-share-2"/></svg></button>
+    </div>
+  </section>
+
+  <section class="demo-sec">
+    <h2>칩 · 뱃지</h2>
+    <div class="kit-chips" data-single role="group" aria-label="정렬">
+      <button class="kit-chip" aria-pressed="true">전체</button>
+      <button class="kit-chip" aria-pressed="false">인기순</button>
+      <button class="kit-chip" aria-pressed="false">최신순</button>
+      <button class="kit-chip" aria-pressed="false"><svg class="ic"><use href="#i-sliders-horizontal"/></svg>필터</button>
+    </div>
+    <div class="cluster" style="margin-top:var(--sp-3)">
+      <span class="kit-badge">기본</span><span class="kit-badge is-accent"><svg class="ic"><use href="#i-sparkles"/></svg>신상</span>
+      <span class="kit-badge is-success">재입고</span><span class="kit-badge is-danger">품절</span>
+    </div>
+  </section>
+
+  <section class="demo-sec">
+    <h2>카드 · 리스트</h2>
+    <div class="grid" style="--min:220px">
+      <a class="kit-card" href="#"><div class="kit-card__media"></div><div class="kit-eyebrow">카테고리</div><div style="font-weight:700">카드 제목은 두 줄까지 자연스럽게</div><div class="small muted">보조 설명 · 메타 정보</div></a>
+      <div class="kit-card is-flat">
+        <a class="kit-row" href="#"><div class="kit-row__body"><div class="kit-row__title">리스트 행 제목</div><div class="kit-row__meta">메타 · 2026.10.08</div></div><svg class="ic muted"><use href="#i-chevron-right"/></svg></a>
+        <a class="kit-row" href="#"><div class="kit-row__body"><div class="kit-row__title">긴 제목은 한 줄에서 말줄임 처리되어 레이아웃이 깨지지 않습니다</div><div class="kit-row__meta">메타</div></div><svg class="ic muted"><use href="#i-chevron-right"/></svg></a>
+      </div>
+      <div class="kit-card is-flat stack" style="--gap:10px">
+        <div class="kit-skeleton" style="height:120px"></div><div class="kit-skeleton" style="width:70%"></div><div class="kit-skeleton" style="width:40%"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="demo-sec">
+    <h2>탭 · 진행 · 빈 상태</h2>
+    <div class="kit-tabs" role="tablist" aria-label="예시 탭">
+      <button role="tab" aria-controls="tp1" aria-selected="true">개요</button>
+      <button role="tab" aria-controls="tp2">상세</button>
+      <button role="tab" aria-controls="tp3">리뷰 12</button>
+    </div>
+    <div id="tp1" role="tabpanel" style="padding-top:var(--sp-4)">
+      <div class="cluster" style="--gap:var(--sp-4)">
+        <div class="kit-ring" style="--p:62"><span>62%</span></div>
+        <div style="flex:1;min-width:200px"><div class="small muted">다음 레벨까지</div><div class="kit-progress"><i style="--w:62%"></i></div></div>
+      </div>
+    </div>
+    <div id="tp2" role="tabpanel" hidden style="padding-top:var(--sp-4)"><p>탭은 ←/→ 화살표, Home/End 로도 이동해요.</p></div>
+    <div id="tp3" role="tabpanel" hidden>
+      <div class="kit-empty"><svg class="ic"><use href="#i-star"/></svg><div class="kit-empty__title">아직 리뷰가 없어요</div><div class="small">첫 리뷰를 남겨 주세요.</div></div>
+    </div>
+  </section>
+
+  <section class="demo-sec">
+    <h2>폼</h2>
+    <form class="stack" style="max-width:420px" onsubmit="event.preventDefault()">
+      <div class="kit-field"><label for="f1">닉네임</label><input id="f1" class="kit-input" placeholder="2~12자" /><div class="kit-field__hint">다른 사용자에게 보여요.</div></div>
+      <div class="kit-field"><label for="f2">이메일</label><input id="f2" class="kit-input" value="wrong@" aria-invalid="true" aria-describedby="f2e" /><div class="kit-field__error" id="f2e"><svg class="ic"><use href="#i-circle-alert"/></svg>이메일 형식을 확인해 주세요.</div></div>
+    </form>
+  </section>
+
+  <section class="demo-sec">
+    <h2>시트 · 토스트</h2>
+    <div class="cluster">
+      <button class="kit-btn" data-sheet-open="demo-sheet">바텀시트 열기</button>
+      <button class="kit-btn is-secondary" id="toast-btn"><svg class="ic"><use href="#i-bell"/></svg>토스트</button>
+    </div>
+  </section>
+
+  <section class="demo-sec">
+    <h2>표현형 레이어 <span class="kit-badge">선택</span></h2>
+    <p class="muted small">expressive.css — 게임·애니 감성 프로젝트에서만. 붓칠은 화면당 한 곳.</p>
+    <div class="phone">
+      <div class="x-hero" style="--accent:#2fd36f;--accent-2:#ff7a1a;--on-accent:#000">
+        <div class="x-splat" style="width:110px;height:110px;right:-40px;top:-40px"></div>
+        <div class="kit-eyebrow" style="color:#fff;opacity:.7">WORLD 01</div>
+        <div class="x-display" style="font-size:34px">표현형 <span class="x-brush">헤더</span></div>
+        <div class="x-stroke" style="width:140px;margin-top:10px"></div>
+      </div>
+      <div style="padding:var(--sp-4);display:flex;gap:var(--sp-2)">
+        <button class="kit-btn is-secondary x-skew"><span>보조</span></button>
+        <button class="kit-btn x-skew is-block"><span>스큐 버튼</span></button>
+      </div>
+    </div>
+  </section>
+
+  <footer class="demo-sec small muted">아이콘 Lucide (ISC) · 폰트 Pretendard, Black Han Sans (OFL) · 리소스 목록은 <code>../resources/catalog.md</code></footer>
+</main>
+
+<dialog class="kit-sheet" id="demo-sheet" aria-labelledby="sheet-title">
+  <div class="kit-sheet__handle"></div>
+  <div class="kit-sheet__head"><h3 id="sheet-title" style="margin:0">바텀시트</h3><button class="kit-btn is-ghost is-icon" data-sheet-close aria-label="닫기"><svg class="ic"><use href="#i-x"/></svg></button></div>
+  <div class="kit-sheet__body"><p>네이티브 <code>&lt;dialog&gt;</code> 라서 포커스 가두기, Esc 닫기, 배경 비활성(inert)이 자동이에요. 배경을 눌러도 닫힙니다. 모바일에선 아래에서, 데스크톱에선 가운데 다이얼로그로 보여요.</p></div>
+  <div class="kit-sheet__foot"><button class="kit-btn is-secondary" data-sheet-close>취소</button><button class="kit-btn is-block" data-sheet-close>확인</button></div>
+</dialog>
+
+<script type="module">
+  import { initKit, toast, theme } from './js/kit.js';
+  // 데모: 스프라이트를 JS 모듈로 인라인 (fetch·서버 include 없이 동작. ES 모듈이라 로컬 서버로 열 것)
+  import { SPRITE } from './icons/icons.inline.js';
+  document.getElementById('sprite').outerHTML = SPRITE;
+  initKit();
+  document.querySelectorAll('[data-theme-set]').forEach(b => {
+    b.setAttribute('aria-pressed', theme.get() === b.dataset.themeSet);
+    b.addEventListener('click', () => theme.set(b.dataset.themeSet));
+  });
+  document.getElementById('toast-btn').addEventListener('click', () => toast('저장했어요', { icon: 'circle-check' }));
+</script>
+</body>
+</html>

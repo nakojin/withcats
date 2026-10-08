@@ -1,0 +1,30 @@
+/* ─────────────────────────────────────────────────────────────
+   표현형 레이어 (선택). 게임·애니·스트리트 감성 프로젝트에만 얹는다.
+   마이키티 프로젝트에서 검증한 붓칠·잉크 튐·스큐 패널.
+   필요 조건: 페이지에 <svg><filter id="rough">…</filter></svg> 한 번 (starter/index.html 참고)
+   규칙: 붓칠은 화면당 강조 1곳, 잉크 튐 1~3개, 스큐 각도 통일(패널 -6° · 칩/버튼 -8° · 붓칠 -10~-20°)
+   ───────────────────────────────────────────────────────────── */
+:root { --skew: -6deg; --skew-chip: -8deg; --skew-brush: -10deg; --paper: #f2f0ea; }
+
+.x-display { font-family: var(--font-display); font-weight: 400; letter-spacing: -.01em; line-height: .95;
+  display: inline-block; transform: skew(-6deg) rotate(-1.5deg); transform-origin: left bottom; }
+
+.x-brush { position: relative; display: inline-block; padding: 2px 12px; color: var(--on-accent); isolation: isolate; }
+.x-brush::before { content: ""; position: absolute; inset: -2px -6px; z-index: -1;
+  background: var(--accent); filter: url(#rough); transform: skew(var(--skew-brush)) rotate(-1deg); }
+.x-brush.is-paper { color: #111; } .x-brush.is-paper::before { background: var(--paper); }
+
+.x-stroke { height: 8px; background: var(--paper); filter: url(#rough); transform: skew(-20deg) rotate(-1deg); opacity: .9; }
+
+.x-splat { position: absolute; border-radius: 50%; background: var(--accent-2); filter: url(#rough); opacity: .65; pointer-events: none; }
+
+.x-skew { transform: skew(var(--skew)); }
+.x-skew > * { transform: skew(calc(var(--skew) * -1)); }
+.kit-btn.x-skew, .kit-chip.x-skew { transform: skew(var(--skew-chip)); border-radius: 2px; }
+.kit-btn.x-skew > *, .kit-chip.x-skew > * { transform: skew(calc(var(--skew-chip) * -1)); }
+.kit-btn.x-skew:active { transform: skew(var(--skew-chip)) scale(.97); }
+
+/* 테마 그라데이션 히어로 */
+.x-hero { position: relative; overflow: hidden; padding: var(--sp-5) var(--sp-4) var(--sp-4);
+  background: linear-gradient(180deg, color-mix(in srgb, var(--accent) var(--g, 40%), #000), var(--bg)); color: #fff; }
+.x-hero > :not(.x-splat) { position: relative; }
