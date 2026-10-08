@@ -29,6 +29,16 @@ design-kit/
 
 다크: [docs/gallery-dark.png](docs/gallery-dark.png) · 모바일: [docs/gallery-mobile.png](docs/gallery-mobile.png)
 
+## 다운로드
+
+이 폴더는 바깥 파일을 참조하지 않는다. 폴더만 받아서 바로 쓰면 된다.
+
+- **zip 한 번에:** 저장소 루트의 [`design-kit.zip`](../design-kit.zip) → GitHub 에서 열고 "Download raw file".
+- **zip 새로 만들기** (폴더 수정 후): 저장소 루트에서
+  `git archive --format=zip --prefix=design-kit/ -o design-kit.zip HEAD:design-kit`
+  (커밋된 파일만 담기므로 `node_modules` 는 빠진다)
+- 폰트(Pretendard·Black Han Sans)는 CDN 에서 불러오므로 인터넷 연결이 필요하다. 아이콘은 폴더 안에 들어 있다.
+
 ## 자료 100선
 
 13개 분류 × 100개. 각 항목에 라이선스·GitHub 별 구간·추천도·쓰임을 적었고, 저장소 경로·라이선스·유지보수 상태를 2026-10 기준으로 하나씩 확인했다.
