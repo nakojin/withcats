@@ -33,8 +33,8 @@
 
 | 포함물 | 라이선스 | 해야 할 일 |
 |---|---|---|
-| Pretendard (CDN) | OFL-1.1 | 없음 (CDN 링크로 사용) |
-| Black Han Sans (Google Fonts) | OFL-1.1 | 없음 |
+| Pretendard (`starter/fonts/pretendard`) | OFL-1.1 | 함께 배포하는 `LICENSE.txt` 유지 |
+| Black Han Sans (`starter/fonts/black-han-sans`, TTF→WOFF2 변환) | OFL-1.1 | `OFL.txt` 유지. 예약 글꼴명(RFN)이 없어 변환본도 같은 이름 사용 가능 |
 | Lucide 아이콘 스프라이트 | ISC | `starter/icons/LICENSE-lucide.txt` 를 함께 배포 (자동 복사됨) |
 | 키트 자체 CSS·JS | 이 저장소 정책을 따름 | — |
 

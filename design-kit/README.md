@@ -16,11 +16,13 @@ design-kit/
 ├─ scripts/build-catalog.mjs
 └─ starter/             복사해서 쓰는 부분
    ├─ index.html        컴포넌트 갤러리 (데모 겸 사용 예시)
+   ├─ css/fonts.css       로컬 폰트 연결 (Pretendard·Black Han Sans)
    ├─ css/tokens.css      의미 기반 토큰, 라이트/다크, 유동 타입
    ├─ css/base.css        리셋·한글 줄바꿈·포커스·레이아웃 헬퍼
    ├─ css/components.css  kit-* 컴포넌트 (모든 상태 포함)
    ├─ css/expressive.css  선택: 붓칠·잉크 튐·스큐 (게임·애니 톤)
    ├─ js/kit.js           시트·토스트·탭·토글·테마 (의존성 0, ES 모듈)
+   ├─ fonts/              Pretendard Variable 1.3.9 다이나믹 서브셋, Black Han Sans woff2 (+ OFL)
    ├─ icons/              Lucide 53종 스프라이트 (+ 라이선스)
    └─ scripts/build-icons.mjs
 ```
@@ -37,7 +39,7 @@ design-kit/
 - **zip 새로 만들기** (폴더 수정 후): 저장소 루트에서
   `git archive --format=zip --prefix=design-kit/ -o design-kit.zip HEAD:design-kit`
   (커밋된 파일만 담기므로 `node_modules` 는 빠진다)
-- 폰트(Pretendard·Black Han Sans)는 CDN 에서 불러오므로 인터넷 연결이 필요하다. 아이콘은 폴더 안에 들어 있다.
+- 폰트·아이콘 모두 폴더 안에 들어 있어 **오프라인에서도 동작**한다. 외부 요청 0건.
 
 ## 자료 100선
 
@@ -58,7 +60,7 @@ design-kit/
 
 ## 스타터 쓰는 법
 
-1. `starter/css`, `starter/js`, `starter/icons` 를 프로젝트로 복사.
+1. `starter/css`, `starter/js`, `starter/fonts`, `starter/icons` 를 프로젝트로 복사.
 2. `tokens.css` 맨 위 **브랜드 블록만** 바꾼다.
    ```css
    --accent: #e11d48;      /* 주 행동색 */
@@ -68,6 +70,7 @@ design-kit/
    ```
 3. HTML 에 연결:
    ```html
+   <link rel="stylesheet" href="css/fonts.css">
    <link rel="stylesheet" href="css/tokens.css">
    <link rel="stylesheet" href="css/base.css">
    <link rel="stylesheet" href="css/components.css">

@@ -14,6 +14,14 @@
 
 ## 불러오기
 
+키트 기본은 **로컬 파일**(`starter/fonts/`)이라 오프라인에서도 동작한다.
+
+```html
+<link rel="stylesheet" href="css/fonts.css">   <!-- Pretendard 다이나믹 서브셋 + Black Han Sans -->
+```
+
+다이나믹 서브셋은 화면에 쓰인 글자 묶음의 woff2 만 받는다(전체 3MB 중 보통 수백 KB). 사이트 용량을 줄이고 싶고 인터넷 연결이 보장되면 CDN 으로 바꿔도 된다:
+
 ```html
 <!-- 본문: 다이나믹 서브셋 — 화면에 쓰인 글자 묶음만 받는다 -->
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
