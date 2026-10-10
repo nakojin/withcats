@@ -1,0 +1,656 @@
+{
+  "schema_version": "1.0",
+  "checked_at": "2026-10-10",
+  "counts": {
+    "research_records": 75,
+    "conservative_top_level_units": 70,
+    "child_detail_records": 7,
+    "official_body_read_records": 74,
+    "known_closed_records": 1,
+    "review_candidates_excluding_known_closed": 74,
+    "conservative_units_excluding_known_closed": 69
+  },
+  "region_counts": {
+    "상하이": 8,
+    "쑤저우": 5,
+    "항저우": 6,
+    "칭다오": 6,
+    "베이징": 11,
+    "시안": 7,
+    "청두": 7,
+    "장자제(장가계)": 5,
+    "구이린·양숴": 7,
+    "싼야·하이난 남부": 7,
+    "옌지·백두산 중국 측": 6
+  },
+  "selection_tier_counts": {
+    "핵심 수요 확인": 19,
+    "방문수요 확인 + 상하이 연계": 5,
+    "지역 수요 취재 확인 + 상하이 연계": 6,
+    "핵심 정성 수요 확인": 18,
+    "광역 수요 기반 역사관광 확장": 7,
+    "광역 수요 기반 자연관광 확장": 7,
+    "도시 방문수요 확인": 7,
+    "핵심 수요 확인 + 연계": 6
+  },
+  "status_counts": {
+    "operations_reconfirmation_needed": 74,
+    "temporarily_closed": 1
+  },
+  "known_closed_ids": [
+    "cd-jinsha"
+  ],
+  "duplicate_records": {
+    "id": [],
+    "name_ko": [],
+    "name_local": []
+  },
+  "overlap_candidates": [
+    {
+      "ids": [
+        "nature-sy-01",
+        "nature-sy-02"
+      ],
+      "names": [
+        "아룽만 해변",
+        "아룽만 열대천당삼림공원"
+      ],
+      "field": "name_local"
+    }
+  ],
+  "relationship_review": {
+    "status": "reviewed",
+    "checked_at": "2026-10-10",
+    "method": "한국어·현지명 정규화 중복, 동일 지역 이름 포함, 원문 조사자의 집계 범위 설명, 상위 브랜드·개별 매표 및 동선 구분을 함께 검토. 지리적 중첩만으로 동일 관광체험이라고 단정하지 않음.",
+    "decisions": [
+      {
+        "id": "nature-sy-01",
+        "counting_note": "아룽만 전체 휴양권이 아닌 해변 방문 경험만을 1개로 집계. 산 위의 별도 입장시설인 열대천당삼림공원과 구분."
+      },
+      {
+        "id": "nature-sy-02",
+        "counting_note": "아룽만 해변과 별도 입장·산악 동선인 삼림공원 1개. 이름에 같은 지명을 포함하지만 같은 레코드의 중복이 아님."
+      }
+    ],
+    "grouping_containers": [
+      {
+        "id": "guilin-liangjiang-sihu-xiangshan",
+        "name_ko": "양강사호·상산 상위 관광 브랜드",
+        "members": [
+          "nature-gl-03",
+          "nature-gl-04",
+          "nature-gl-05",
+          "nature-gl-06"
+        ],
+        "counting": "설명 레코드 4개, 보수 집계 1개. 상위 브랜드 자체를 별도 레코드로 추가하지 않음."
+      },
+      {
+        "id": "changbaishan-china-side",
+        "name_ko": "백두산 중국 측 상위 산악권역",
+        "members": [
+          "nature-cbs-01",
+          "nature-cbs-02",
+          "nature-cbs-03"
+        ],
+        "counting": "경구별 설명 3개, 보수 집계 1개. 천지·폭포 등 내부 포인트는 추가 집계하지 않음."
+      }
+    ],
+    "combined_single_records": [
+      "east-hz-02 영은사·비래봉",
+      "bj-798 798·751 예술구",
+      "bj-wtown 구베이수이전·쓰마타이",
+      "xa-terracotta 병마용·리산위안",
+      "xa-big-pagoda 대안탑·대자은사",
+      "xa-bell-drum 종루·고루",
+      "xa-small-pagoda 소안탑·시안박물원",
+      "cd-wuhou-jinli 무후사·진리",
+      "nature-zjj-03 대협곡·유리다리",
+      "nature-sy-07 서도·어촌"
+    ],
+    "scope_decisions": [
+      "east-hz-01은 시후경구 전체가 아닌 호수 산책으로 한정. 다른 항저우 시설을 하위 명소로 중복 합산하지 않음.",
+      "east-qd-06 라오산은 통합 설명 1개. 내부 노선은 별도 레코드로 세지 않음.",
+      "nature-zjj-01 우링위안 핵심관광구는 1개. 천문산·대협곡·황룡동·보봉호는 별도 방문구역이며 넓은 세계지질공원 명칭을 통합 입장권으로 해석하지 않음.",
+      "nature-gl-01은 리강 유람선 경험 1개. 구마화산·황포도영·싱핑을 중복 레코드로 넣지 않음.",
+      "인접 시설을 하나의 설명으로 묶은 항목도 통합권·같은 운영시간을 의미하지 않음. 각 레코드 운영정보를 확인해야 함."
+    ]
+  },
+  "source_files": [
+    {
+      "file": "east.json",
+      "sha256": "a617af310d51392f8f238eafc01db6f1f6f774ddbb92660fb56727f4516a929c",
+      "records": 25
+    },
+    {
+      "file": "history.json",
+      "sha256": "bc7612f46f87987f602a65d0d7423def5a037fdbf8a3892cc13262a92ecf0ef4",
+      "records": 25
+    },
+    {
+      "file": "nature.json",
+      "sha256": "b0c6caf023692ee9d5dbe1fc6186d9c1784f5fe40a84d9d15d2099ef43f2a1d9",
+      "records": 25
+    }
+  ],
+  "selection_normalization": [
+    {
+      "id": "east-sh-01",
+      "original": "한국 여행수요 확인 도시권",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "east-sh-02",
+      "original": "한국 여행수요 확인 도시권",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "east-sh-03",
+      "original": "한국 여행수요 확인 도시권",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "east-sh-04",
+      "original": "한국 여행수요 확인 도시권",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "east-sh-05",
+      "original": "한국 여행수요 확인 도시권",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "east-sh-06",
+      "original": "한국 여행수요 확인 도시권",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "east-sh-07",
+      "original": "한국 여행수요 확인 도시권",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "east-sh-08",
+      "original": "한국 여행수요 확인 도시권",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "east-su-01",
+      "original": "한국 방문수요 확인·상하이 연계 확장",
+      "normalized": "방문수요 확인 + 상하이 연계"
+    },
+    {
+      "id": "east-su-02",
+      "original": "한국 방문수요 확인·상하이 연계 확장",
+      "normalized": "방문수요 확인 + 상하이 연계"
+    },
+    {
+      "id": "east-su-03",
+      "original": "한국 방문수요 확인·상하이 연계 확장",
+      "normalized": "방문수요 확인 + 상하이 연계"
+    },
+    {
+      "id": "east-su-04",
+      "original": "한국 방문수요 확인·상하이 연계 확장",
+      "normalized": "방문수요 확인 + 상하이 연계"
+    },
+    {
+      "id": "east-su-05",
+      "original": "한국 방문수요 확인·상하이 연계 확장",
+      "normalized": "방문수요 확인 + 상하이 연계"
+    },
+    {
+      "id": "east-hz-01",
+      "original": "한국 방문수요 확인·상하이 연계 확장",
+      "normalized": "지역 수요 취재 확인 + 상하이 연계"
+    },
+    {
+      "id": "east-hz-02",
+      "original": "한국 방문수요 확인·상하이 연계 확장",
+      "normalized": "지역 수요 취재 확인 + 상하이 연계"
+    },
+    {
+      "id": "east-hz-03",
+      "original": "한국 방문수요 확인·상하이 연계 확장",
+      "normalized": "지역 수요 취재 확인 + 상하이 연계"
+    },
+    {
+      "id": "east-hz-04",
+      "original": "한국 방문수요 확인·상하이 연계 확장",
+      "normalized": "지역 수요 취재 확인 + 상하이 연계"
+    },
+    {
+      "id": "east-hz-05",
+      "original": "한국 방문수요 확인·상하이 연계 확장",
+      "normalized": "지역 수요 취재 확인 + 상하이 연계"
+    },
+    {
+      "id": "east-hz-06",
+      "original": "한국 방문수요 확인·상하이 연계 확장",
+      "normalized": "지역 수요 취재 확인 + 상하이 연계"
+    },
+    {
+      "id": "east-qd-01",
+      "original": "한국 여행수요 확인 도시권",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "east-qd-02",
+      "original": "한국 여행수요 확인 도시권",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "east-qd-03",
+      "original": "한국 여행수요 확인 도시권",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "east-qd-04",
+      "original": "한국 여행수요 확인 도시권",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "east-qd-05",
+      "original": "한국 여행수요 확인 도시권",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "east-qd-06",
+      "original": "한국 여행수요 확인 도시권",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "bj-palace",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "bj-temple-heaven",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "bj-summer-palace",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "bj-jingshan",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "bj-badaling",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "bj-mutianyu",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "bj-tiananmen-square",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "bj-ming-tombs",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "bj-798",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "bj-wtown",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "bj-beihai",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "xa-terracotta",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "광역 수요 기반 역사관광 확장"
+    },
+    {
+      "id": "xa-huaqing",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "광역 수요 기반 역사관광 확장"
+    },
+    {
+      "id": "xa-shaanxi-museum",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "광역 수요 기반 역사관광 확장"
+    },
+    {
+      "id": "xa-city-wall",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "광역 수요 기반 역사관광 확장"
+    },
+    {
+      "id": "xa-big-pagoda",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "광역 수요 기반 역사관광 확장"
+    },
+    {
+      "id": "xa-bell-drum",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "광역 수요 기반 역사관광 확장"
+    },
+    {
+      "id": "xa-small-pagoda",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "광역 수요 기반 역사관광 확장"
+    },
+    {
+      "id": "cd-panda-base",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "cd-wuhou-jinli",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "cd-dufu",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "cd-kuanzhai",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "cd-jinsha",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "cd-dujiangyan",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "cd-qingcheng",
+      "original": "수요 근거 도시권의 주요·보완 관광지; 개별 한국인 인기순위 아님",
+      "normalized": "핵심 정성 수요 확인"
+    },
+    {
+      "id": "nature-zjj-01",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "nature-zjj-02",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "nature-zjj-03",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "nature-zjj-04",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "nature-zjj-05",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "핵심 수요 확인"
+    },
+    {
+      "id": "nature-gl-01",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "광역 수요 기반 자연관광 확장"
+    },
+    {
+      "id": "nature-gl-02",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "광역 수요 기반 자연관광 확장"
+    },
+    {
+      "id": "nature-gl-03",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "광역 수요 기반 자연관광 확장"
+    },
+    {
+      "id": "nature-gl-04",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "광역 수요 기반 자연관광 확장"
+    },
+    {
+      "id": "nature-gl-05",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "광역 수요 기반 자연관광 확장"
+    },
+    {
+      "id": "nature-gl-06",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "광역 수요 기반 자연관광 확장"
+    },
+    {
+      "id": "nature-gl-07",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "광역 수요 기반 자연관광 확장"
+    },
+    {
+      "id": "nature-sy-01",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "도시 방문수요 확인"
+    },
+    {
+      "id": "nature-sy-02",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "도시 방문수요 확인"
+    },
+    {
+      "id": "nature-sy-03",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "도시 방문수요 확인"
+    },
+    {
+      "id": "nature-sy-04",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "도시 방문수요 확인"
+    },
+    {
+      "id": "nature-sy-05",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "도시 방문수요 확인"
+    },
+    {
+      "id": "nature-sy-06",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "도시 방문수요 확인"
+    },
+    {
+      "id": "nature-sy-07",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "도시 방문수요 확인"
+    },
+    {
+      "id": "nature-cbs-01",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "핵심 수요 확인 + 연계"
+    },
+    {
+      "id": "nature-cbs-02",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "핵심 수요 확인 + 연계"
+    },
+    {
+      "id": "nature-cbs-03",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "핵심 수요 확인 + 연계"
+    },
+    {
+      "id": "nature-yj-01",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "핵심 수요 확인 + 연계"
+    },
+    {
+      "id": "nature-yj-02",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "핵심 수요 확인 + 연계"
+    },
+    {
+      "id": "nature-yj-03",
+      "original": "한국 방문수요 확인 도시권의 대표·확장 명소; 명소별 한국인 인기순위 아님",
+      "normalized": "핵심 수요 확인 + 연계"
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    {
+      "id": "east-qd-04",
+      "code": "no_direct_official_body_read"
+    }
+  ],
+  "checks": {
+    "required_fields": "pass",
+    "official_body_read": "researcher_reported_not_all_independently_refetched",
+    "current_operating_conditions": "not_implied_by_source_body_verification",
+    "external_links": "http_https_syntax_and_DOM_link_output_checked_not_all_live_endpoints_refetched",
+    "geographic_hierarchy": "reviewed",
+    "offline_html": "pass",
+    "internal_markdown_links": "pass"
+  },
+  "notes": [
+    "총 연구 레코드는 독립 관광목적지 수와 다릅니다. parent_id 하위 명소는 상위 레코드와 중복 합산하지 않는 보수 집계를 별도로 제공합니다.",
+    "확인된 휴관을 제외한 수량은 현재 개방이 확인된 명소 수가 아닙니다. 최신 운영조건은 방문 전 다시 확인해야 합니다.",
+    "한국 여행업계의 특정 표본과 기간에 근거한 우선선정이며 한국인 전체 인기순위나 각 내부 명소의 인기순위가 아닙니다."
+  ],
+  "offline_js_smoke_test": {
+    "status": "pass",
+    "tested_at": "2026-10-10",
+    "records": 75,
+    "tests": [
+      "all_records_render",
+      "region_all_options_filter",
+      "province_all_options_filter",
+      "tier_all_options_filter",
+      "status_all_options_filter",
+      "every_local_name_search",
+      "empty_result",
+      "external_links_safe_protocol",
+      "no_network_fetch"
+    ],
+    "external_links": 118,
+    "browser_visual_render_tested": false
+  },
+  "independent_source_spotcheck": {
+    "checked_at": "2026-10-10",
+    "scope": "Independent sample source re-opening, not independent verification of every record",
+    "checks": [
+      {
+        "id": "SEL03",
+        "url": "https://www.hanatourcompany.com/kr/newsroom/news/view?idx=3066",
+        "result": "PASS",
+        "facts": [
+          "2026-01-08 company qualitative demand observations: Shanghai Chengdu Qingdao Beijing, package Baekdu Zhangjiajie"
+        ]
+      },
+      {
+        "id": "SEL01",
+        "url": "https://www.newswire.co.kr/newsRead.php?no=1034649",
+        "result": "PASS",
+        "facts": [
+          "Modetour own2026-05-18 release",
+          "July-Aug company shares41/21/8/5/4, not all Korean tourists"
+        ]
+      },
+      {
+        "id": "SEL04",
+        "url": "https://www.visitsanya.com/zh/2830.html",
+        "result": "PASS",
+        "facts": [
+          "2025-04-21 article,Q1 Korea among main source markets",
+          "225300 inbound overnight total is not Korean count"
+        ]
+      },
+      {
+        "id": "jinsha-closure",
+        "url": "https://www.jinshasitemuseum.com/",
+        "result": "PASS",
+        "facts": [
+          "Museum official closure2025-12-05 to2027-04-30"
+        ]
+      },
+      {
+        "id": "east-hz-02",
+        "url": "https://www.lingyinsi.org/detail_57_19455.html",
+        "result": "PASS",
+        "facts": [
+          "free from2025-12-01,passport allowed,minimum1day advance up to7days08:00",
+          "same-day online not accepted,onsite only spare capacity"
+        ]
+      },
+      {
+        "id": "east-qd-05",
+        "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+        "result": "PASS",
+        "facts": [
+          "seasonal opening/last entry confirmed",
+          "real name reservation;foreign passport not explicitly confirmed"
+        ]
+      },
+      {
+        "id": "bj-palace",
+        "url": "https://intl.dpm.org.cn/visit.html",
+        "result": "PASS",
+        "facts": [
+          "no same-day ticket,foreign passport number online",
+          "seasonal times,60/40CNY plus10each gallery"
+        ]
+      },
+      {
+        "id": "cd-panda-base",
+        "url": "https://www.panda.org.cn/en/service/ticket/",
+        "result": "PASS",
+        "facts": [
+          "55CNY,14days advance,passport original scan,seasonal entry sessions"
+        ]
+      },
+      {
+        "id": "xa-terracotta",
+        "url": "https://bmy.com.cn/guide/",
+        "result": "PASS",
+        "facts": [
+          "seasonal8:30-17/16:30 entry,18:30/18closing",
+          "passport booking and original passport validation"
+        ]
+      },
+      {
+        "id": "nature-cbs-01",
+        "url": "https://www.changbaishan.gov.cn/hdjl/zfsqpt/cbq/sqck/blhf/202507/t20250717_267712.html",
+        "result": "PASS",
+        "facts": [
+          "historical published fare105+35+85+80CNY and return transport confirmed",
+          "current2026price explicitly not verified"
+        ]
+      },
+      {
+        "id": "nature-gl-01",
+        "url": "https://www.lijiangriver.com/page/article/zxlj.tzgg/269",
+        "result": "ROOT_RECHECK_UNAVAILABLE",
+        "facts": [
+          "root tool could not access; original researcher direct-body evidence remains separately attributed"
+        ]
+      }
+    ]
+  },
+  "artifact_counts": {
+    "place_markdown": 75,
+    "region_markdown": 11
+  }
+}

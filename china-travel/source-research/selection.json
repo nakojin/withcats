@@ -1,0 +1,296 @@
+{
+  "title": "중국 관광자료 수집 권역 선정 근거",
+  "checked_at": "2026-10-10",
+  "purpose": "한국인 수요를 참고한 여행사이트 자료자산 구축; 개인 여행 일정 또는 전체 한국인 인기순위 아님",
+  "selection_method": "도시·권역별 예약 실적, 공식 방문수요, 한국시장 정성 동향을 우선하고 광역 근거·연계 선정은 분리 표시",
+  "summary": "11개 본토 도시·권역 유지. 핵심 수요 확인권역과 광역·연계 확장을 구분. 내몽골은 후속 계절확장 후보.",
+  "destinations": [
+    {
+      "region_id": "shanghai",
+      "name_ko": "상하이",
+      "selection_group": "핵심 수요 확인",
+      "selected": true,
+      "evidence_ids": [
+        "SEL01",
+        "SEL02",
+        "SEL03"
+      ],
+      "selection_reason": "국내 여행사 월별·계절별 예약비중과 자유여행 동향을 함께 확인.",
+      "scope_caution": "도시 수요가 개별 명소 선호를 자동 증명하지 않는다."
+    },
+    {
+      "region_id": "qingdao",
+      "name_ko": "칭다오",
+      "selection_group": "핵심 수요 확인",
+      "selected": true,
+      "evidence_ids": [
+        "SEL01",
+        "SEL02",
+        "SEL03"
+      ],
+      "selection_reason": "두 측정시점 예약비중 및 도시형 자유여행 동향 확인.",
+      "scope_caution": "한국인 전체 순위 없음."
+    },
+    {
+      "region_id": "zhangjiajie",
+      "name_ko": "장자제(장가계)",
+      "selection_group": "핵심 수요 확인",
+      "selected": true,
+      "evidence_ids": [
+        "SEL01",
+        "SEL02",
+        "SEL03"
+      ],
+      "selection_reason": "겨울·여름 양측 여행사 예약자료 및 풍경구 선호 언급.",
+      "scope_caution": "봉황고성 등을 추가할 경우 장자제 본도시 수요와 분리하여 연계로 표기."
+    },
+    {
+      "region_id": "yanji_changbaishan",
+      "name_ko": "옌지·백두산 중국 측",
+      "selection_group": "핵심 수요 확인 + 연계",
+      "selected": true,
+      "evidence_ids": [
+        "SEL01",
+        "SEL03"
+      ],
+      "selection_reason": "백두산 상품의 여름 수요 근거가 강함. 옌지는 연변 문화·관문 연계.",
+      "scope_caution": "백두산 상품 수요를 옌지 도심 인기와 동일시하지 않으며 중국 측 개방구역만 다룬다."
+    },
+    {
+      "region_id": "beijing",
+      "name_ko": "베이징",
+      "selection_group": "핵심 정성 수요 확인",
+      "selected": true,
+      "evidence_ids": [
+        "SEL03"
+      ],
+      "selection_reason": "국내 여행사 자유여행 수요 증가 도시로 직접 명시.",
+      "scope_caution": "정량 도시순위 없음; 근교 장성은 연계권역."
+    },
+    {
+      "region_id": "chengdu",
+      "name_ko": "청두",
+      "selection_group": "핵심 정성 수요 확인",
+      "selected": true,
+      "evidence_ids": [
+        "SEL03"
+      ],
+      "selection_reason": "국내 여행사 자유여행 수요 증가 도시로 직접 명시.",
+      "scope_caution": "러산·두장옌 등은 청두 밖 연계지이며 청두 수요를 모든 쓰촨 명소에 일반화하지 않는다."
+    },
+    {
+      "region_id": "sanya",
+      "name_ko": "싼야·하이난 남부",
+      "selection_group": "도시 방문수요 확인",
+      "selected": true,
+      "evidence_ids": [
+        "SEL04",
+        "SEL02"
+      ],
+      "selection_reason": "싼야시 관광국이 한국을 주요 입경 관광 발원지로 명시.",
+      "scope_caution": "한국인 비중·순위 미공개. 휴양 다양화를 위한 편집 선정이며 하이난 전역 인기 주장 금지."
+    },
+    {
+      "region_id": "suzhou",
+      "name_ko": "쑤저우",
+      "selection_group": "방문수요 확인 + 상하이 연계",
+      "selected": true,
+      "evidence_ids": [
+        "SEL05",
+        "SEL06"
+      ],
+      "selection_reason": "시 공식 한국관광시장 언급과 공업원구 한정 방문 실적 확인.",
+      "scope_caution": "공업원구 실적을 고전정원 방문량으로 옮기지 않는다."
+    },
+    {
+      "region_id": "hangzhou",
+      "name_ko": "항저우",
+      "selection_group": "지역 수요 취재 확인 + 상하이 연계",
+      "selected": true,
+      "evidence_ids": [
+        "SEL07"
+      ],
+      "selection_reason": "한국인 숙박 방문 실적과 주요 명소 현지 취재 확인.",
+      "scope_caution": "2024말 측정값으로 2026 전국 순위 창작 금지."
+    },
+    {
+      "region_id": "xian",
+      "name_ko": "시안",
+      "selection_group": "광역 수요 기반 역사관광 확장",
+      "selected": true,
+      "evidence_ids": [
+        "SEL08"
+      ],
+      "selection_reason": "산시성 한국 관광시장 근거에 기반한 대표 역사도시 확장.",
+      "scope_caution": "산시성 자료는 시안 단독 수요가 아니다. 편집 판단임을 명시."
+    },
+    {
+      "region_id": "guilin_yangshuo",
+      "name_ko": "구이린·양숴",
+      "selection_group": "광역 수요 기반 자연관광 확장",
+      "selected": true,
+      "evidence_ids": [
+        "SEL09",
+        "SEL10"
+      ],
+      "selection_reason": "광시 한국인 숙박수요와 한국시장 구이린 노선 및 국내 상품 공급을 결합.",
+      "scope_caution": "광시 통계를 구이린·양숴 수치로 전환 금지. 개별 명소 선호는 별도 확인 필요."
+    }
+  ],
+  "candidates": [
+    {
+      "name_ko": "내몽골",
+      "status": "다음 계절 확장 후보",
+      "evidence_ids": [
+        "SEL01"
+      ],
+      "reason": "2026 여름 모두투어 중국 상품 예약비중 5%. 다만 권역이 넓어 후허하오터·초원·사막 중 방문지·이동권역 추가 선정 필요."
+    },
+    {
+      "name_ko": "다롄·샤먼·하얼빈·옌타이·웨이하이",
+      "status": "후속 도시 후보",
+      "evidence_ids": [
+        "SEL02"
+      ],
+      "reason": "한국 여행사 기획전 공급은 확인했으나 이번 조사에서 독립적인 최신 한국인 수요 강도를 충분히 비교하지 못함."
+    },
+    {
+      "name_ko": "홍콩·마카오",
+      "status": "본토와 분리된 후속 후보",
+      "evidence_ids": [
+        "SEL02"
+      ],
+      "reason": "홍콩은 해당 업체 1월 예약비중12.3% 확인. 마카오는 기획전 포함. 본토와 입경체계·통계분류가 다르므로 본토 11권역 자료에 혼합하지 않음."
+    }
+  ],
+  "sources": [
+    {
+      "id": "SEL01",
+      "title": "모두투어 중국 여행 송출객·여름 예약 동향",
+      "publisher": "모두투어 자체 보도자료, 뉴스와이어 배포",
+      "published_date": "2026-05-18",
+      "measurement_period": "2026년 7~8월 출발 여름 성수기 예약; 발표 당시 집계",
+      "population": "모두투어 중국 상품 예약 고객; 표본수·국적별 구성·정확한 집계 마감일 미공개",
+      "url": "https://www.newswire.co.kr/newsRead.php?no=1034649",
+      "evidence_type": "travel_company_booking_data",
+      "finding": "여름 지역별 비중: 백두산 41%, 장가계 21%, 칭다오 8%, 내몽골 5%, 상하이 4%.",
+      "limitations": "여름·단일 여행사·상품공급 편향. 한국인 전체 방문 순위나 연간 순위가 아니다. 원문은 지역별 인기 비중으로 표기하며 전체 예약 건수는 공개하지 않는다."
+    },
+    {
+      "id": "SEL02",
+      "title": "모두투어 N번째 가는 도시 여행",
+      "publisher": "모두투어 공식 기업사이트",
+      "published_date": "2026-01-05",
+      "measurement_period": "2026년 1월 출발 예약; 발표 당시 집계",
+      "population": "모두투어 중국 분류 상품 예약 건수; 홍콩 포함; 표본수·마감일 미공개",
+      "url": "https://www.modetournetwork.com/promotion/2998?pageIndex=7",
+      "evidence_type": "travel_company_booking_data",
+      "finding": "상하이 21.3%, 칭다오 15.4%, 홍콩 12.3%, 장가계 11.9%. 상하이 예약 전년 동기 대비 260% 증가. 다롄·샤먼·하얼빈·옌타이·웨이하이·하이난도 판매 기획전 대상.",
+      "limitations": "홍콩을 포함한 회사 상품분류의 분모이므로 중국 본토만의 점유율로 재사용 금지. 예약은 실제 출발과 다를 수 있고 상품 존재만으로 인기 확정 불가."
+    },
+    {
+      "id": "SEL03",
+      "title": "하나투어 중국 법인 상하이 지점 오픈",
+      "publisher": "하나투어 공식 기업사이트",
+      "published_date": "2026-01-08",
+      "measurement_period": "발표 시점의 중국 여행 동향; 구체적 측정기간 없음",
+      "population": "하나투어가 관찰한 한국인 중국 여행 수요; 표본수 없음",
+      "url": "https://www.hanatourcompany.com/kr/newsroom/news/view?idx=3066",
+      "evidence_type": "travel_company_qualitative_demand",
+      "finding": "백두산·장가계를 패키지 선호 풍경구로, 상하이·청두·칭다오·베이징을 자유여행 수요 증가 도시로 명시.",
+      "limitations": "정성적 기업 평가. 도시별 규모·비율·순위는 제시하지 않는다."
+    },
+    {
+      "id": "SEL04",
+      "title": "2025년 1분기 싼야 관광시장 특성 분석",
+      "publisher": "싼야시 관광발전국",
+      "published_date": "2025-04-21",
+      "measurement_period": "2025년 1~3월",
+      "population": "싼야 인바운드 관광시장; 국가별 표본수 미공개",
+      "url": "https://www.visitsanya.com/zh/2830.html",
+      "evidence_type": "official_city_market_analysis",
+      "finding": "한국을 러시아·카자흐스탄·몽골·홍콩 등과 함께 주요 인바운드 발원지로 명시.",
+      "limitations": "한국인 총수·정확한 국가별 순위는 공개하지 않는다. 전체 입국 숙박객 22.53만명은 한국인 수치가 아니다. 싼야 근거를 하이난 섬 전체에 무제한 확장 금지."
+    },
+    {
+      "id": "SEL05",
+      "title": "쑤저우 2025 인바운드 방문객 동향",
+      "publisher": "쑤저우시 문화광전여유국",
+      "published_date": "2026-02-12",
+      "measurement_period": "2025년",
+      "population": "쑤저우 입경 방문객; 한국인 분리 수치 없음",
+      "url": "https://wglj.suzhou.gov.cn/szwhgdhlyj/gzdt/202603/c089b7324d3c4656b6c210b7b4a07f5a.shtml",
+      "evidence_type": "official_city_qualitative_demand",
+      "finding": "한국을 쑤저우를 찾는 아시아 관광시장 중 하나로 명시. 쑤저우 관광국이 상하이 푸둥공항 연계 서비스도 소개.",
+      "limitations": "573.6만 인바운드 방문객은 전 국적 합계로 한국인 수가 아니다. 한국인 인기 명소 순위가 아니다. URL 경로는 202603이나 본문 발행일은 2026-02-12."
+    },
+    {
+      "id": "SEL06",
+      "title": "쑤저우공업원구 한국인 방문 캠페인 결과",
+      "publisher": "쑤저우공업원구 관리위원회",
+      "published_date": "2025-09-05",
+      "measurement_period": "2025년 7~8월",
+      "population": "쑤저우공업원구에서 접대한 한국 관광객; 집계 정의 상세 미공개",
+      "url": "https://www.sipac.gov.cn/szgyyq/dthg202509/202509/9c5c8c83279f435c9a83e703935e6b51.shtml",
+      "evidence_type": "official_subcity_visitor_count",
+      "finding": "한국 관광객 1만6000인회 초과, 전년 동기 대비 11% 증가.",
+      "limitations": "쑤저우 전체가 아닌 공업원구 범위이며 인회는 고유 방문자 수와 다를 수 있다. 다른 도시의 수와 직접 비교 금지."
+    },
+    {
+      "id": "SEL07",
+      "title": "大量韩国游客正在涌入杭州",
+      "publisher": "都市快报 현지 직접 취재; 항저우 문화광전여유국 관계자 인터뷰 포함",
+      "published_date": "2025-01-19",
+      "measurement_period": "2024년 11~12월",
+      "population": "항저우에서 숙박한 한국인 입경 관광객; 통계 집계방법 상세 미공개",
+      "url": "https://mdaily.hangzhou.com.cn/dskb/2025/01/19/article_detail_2_20250119A021.html",
+      "evidence_type": "local_original_reporting_of_city_data",
+      "finding": "한국인 숙박 관광객 1.45만인회, 전년 동기 대비 70.54% 증가. 서호·영은사·혜인고려사·대한민국 임시정부 항저우 옛 청사 방문을 현지 취재.",
+      "limitations": "정부 원표가 아닌 지역 언론의 직접 취재·수치 보도. 2개월의 오래된 수요이며 2026 인기순위는 아니다. 인터뷰 사례는 전체 한국인 취향으로 일반화하지 않는다."
+    },
+    {
+      "id": "SEL08",
+      "title": "문화 산시 관광설명회 서울 개최",
+      "publisher": "중국 문화여유부 게재; 중국관광보 취재",
+      "published_date": "2025-07-11",
+      "measurement_period": "발표 시점의 장기 관광시장 설명; 특정 통계기간 없음",
+      "population": "산시성(陝西) 입경 관광 발원국; 도시별·인원별 수치 없음",
+      "url": "https://www.mct.gov.cn/whzx/qgwhxxlb/sx_7740/202507/t20250711_961115.htm",
+      "evidence_type": "official_hosted_regional_market_statement",
+      "finding": "한국을 산시성의 중요한 관광 발원국으로 설명하고 장기간 주요 입경시장이라고 명시. 한국시장용 관광상품·노선 소개 및 업체 협약.",
+      "limitations": "산시성 수준의 근거이지 시안 단독 수치가 아니다. 한국인에게 시안이 중국 여행 1위라는 뜻이 아니다."
+    },
+    {
+      "id": "SEL09",
+      "title": "광시 문화관광 서울 설명회",
+      "publisher": "중국 문화여유부 게재; 중국관광보 취재",
+      "published_date": "2025-07-31",
+      "measurement_period": "2025년 상반기",
+      "population": "광시좡족자치구 한국인 입경 숙박 관광객",
+      "url": "https://www.mct.gov.cn/whzx/qgwhxxlb/gx/202507/t20250731_961499.htm",
+      "evidence_type": "official_hosted_regional_visitor_count",
+      "finding": "한국인 숙박 관광객 4.8만인회, 전년 동기 대비 107% 증가. 한국시장에 구이린·류저우 산수휴양 코스 소개.",
+      "limitations": "광시 전체 수치이며 구이린·양숴 단독 방문량이 아니다. 지역수요와 코스 제안을 결합한 선정 판단으로 표시."
+    },
+    {
+      "id": "SEL10",
+      "title": "다시 만나는 계림 기획전 목록",
+      "publisher": "노랑풍선 공식 사이트",
+      "published_date": null,
+      "measurement_period": "2026-01-01~2026-12-31 기획전 운영기간",
+      "population": "한국 여행사 상품 공급 목록; 이용자 표본 없음",
+      "url": "https://pkg.ybtour.co.kr/promotion/promotion.yb?pageNo=3&srchArea=&srchCat=&srchWord=",
+      "evidence_type": "travel_company_product_presence",
+      "finding": "2026년 계림 상품 기획전 운영 확인.",
+      "limitations": "수요 순위·판매량 증거가 아니며 웹페이지 목록은 수시 변경된다. 단독 인기근거로 사용하지 않는다."
+    }
+  ],
+  "global_cautions": [
+    "출처별 기간·모집단이 달라 비율이나 인회를 합산하거나 도시순위로 정렬하지 않는다.",
+    "한국 여행사 고객자료의 국적별 표본구성이 미공개이면 한국인 전체 대표 통계라고 부르지 않는다.",
+    "항공편 존재, 상품 판매, 전체 외국인 방문량, 홍보 노출량만으로 한국인 인기 확정 금지.",
+    "도시 수요 근거는 개별 방문명소의 한국인 선호 또는 실제 운영·예약 가능성 증거와 다르다.",
+    "입경·비자·항공·운영시간은 이 선정자료로 보증하지 않는다.",
+    "모든 출처는 공개 웹검색·페이지 열람으로 조사했으며 관광자료 API/MCP 수집은 하지 않았다."
+  ]
+}

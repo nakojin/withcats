@@ -1,0 +1,57 @@
+{
+  "status": "reviewed",
+  "checked_at": "2026-10-10",
+  "method": "한국어·현지명 정규화 중복, 동일 지역 이름 포함, 원문 조사자의 집계 범위 설명, 상위 브랜드·개별 매표 및 동선 구분을 함께 검토. 지리적 중첩만으로 동일 관광체험이라고 단정하지 않음.",
+  "decisions": [
+    {
+      "id": "nature-sy-01",
+      "counting_note": "아룽만 전체 휴양권이 아닌 해변 방문 경험만을 1개로 집계. 산 위의 별도 입장시설인 열대천당삼림공원과 구분."
+    },
+    {
+      "id": "nature-sy-02",
+      "counting_note": "아룽만 해변과 별도 입장·산악 동선인 삼림공원 1개. 이름에 같은 지명을 포함하지만 같은 레코드의 중복이 아님."
+    }
+  ],
+  "grouping_containers": [
+    {
+      "id": "guilin-liangjiang-sihu-xiangshan",
+      "name_ko": "양강사호·상산 상위 관광 브랜드",
+      "members": [
+        "nature-gl-03",
+        "nature-gl-04",
+        "nature-gl-05",
+        "nature-gl-06"
+      ],
+      "counting": "설명 레코드 4개, 보수 집계 1개. 상위 브랜드 자체를 별도 레코드로 추가하지 않음."
+    },
+    {
+      "id": "changbaishan-china-side",
+      "name_ko": "백두산 중국 측 상위 산악권역",
+      "members": [
+        "nature-cbs-01",
+        "nature-cbs-02",
+        "nature-cbs-03"
+      ],
+      "counting": "경구별 설명 3개, 보수 집계 1개. 천지·폭포 등 내부 포인트는 추가 집계하지 않음."
+    }
+  ],
+  "combined_single_records": [
+    "east-hz-02 영은사·비래봉",
+    "bj-798 798·751 예술구",
+    "bj-wtown 구베이수이전·쓰마타이",
+    "xa-terracotta 병마용·리산위안",
+    "xa-big-pagoda 대안탑·대자은사",
+    "xa-bell-drum 종루·고루",
+    "xa-small-pagoda 소안탑·시안박물원",
+    "cd-wuhou-jinli 무후사·진리",
+    "nature-zjj-03 대협곡·유리다리",
+    "nature-sy-07 서도·어촌"
+  ],
+  "scope_decisions": [
+    "east-hz-01은 시후경구 전체가 아닌 호수 산책으로 한정. 다른 항저우 시설을 하위 명소로 중복 합산하지 않음.",
+    "east-qd-06 라오산은 통합 설명 1개. 내부 노선은 별도 레코드로 세지 않음.",
+    "nature-zjj-01 우링위안 핵심관광구는 1개. 천문산·대협곡·황룡동·보봉호는 별도 방문구역이며 넓은 세계지질공원 명칭을 통합 입장권으로 해석하지 않음.",
+    "nature-gl-01은 리강 유람선 경험 1개. 구마화산·황포도영·싱핑을 중복 레코드로 넣지 않음.",
+    "인접 시설을 하나의 설명으로 묶은 항목도 통합권·같은 운영시간을 의미하지 않음. 각 레코드 운영정보를 확인해야 함."
+  ]
+}

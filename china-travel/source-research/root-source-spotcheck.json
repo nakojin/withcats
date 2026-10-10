@@ -1,0 +1,101 @@
+{
+  "checked_at": "2026-10-10",
+  "scope": "Independent sample source re-opening, not independent verification of every record",
+  "checks": [
+    {
+      "id": "SEL03",
+      "url": "https://www.hanatourcompany.com/kr/newsroom/news/view?idx=3066",
+      "result": "PASS",
+      "facts": [
+        "2026-01-08 company qualitative demand observations: Shanghai Chengdu Qingdao Beijing, package Baekdu Zhangjiajie"
+      ]
+    },
+    {
+      "id": "SEL01",
+      "url": "https://www.newswire.co.kr/newsRead.php?no=1034649",
+      "result": "PASS",
+      "facts": [
+        "Modetour own2026-05-18 release",
+        "July-Aug company shares41/21/8/5/4, not all Korean tourists"
+      ]
+    },
+    {
+      "id": "SEL04",
+      "url": "https://www.visitsanya.com/zh/2830.html",
+      "result": "PASS",
+      "facts": [
+        "2025-04-21 article,Q1 Korea among main source markets",
+        "225300 inbound overnight total is not Korean count"
+      ]
+    },
+    {
+      "id": "jinsha-closure",
+      "url": "https://www.jinshasitemuseum.com/",
+      "result": "PASS",
+      "facts": [
+        "Museum official closure2025-12-05 to2027-04-30"
+      ]
+    },
+    {
+      "id": "east-hz-02",
+      "url": "https://www.lingyinsi.org/detail_57_19455.html",
+      "result": "PASS",
+      "facts": [
+        "free from2025-12-01,passport allowed,minimum1day advance up to7days08:00",
+        "same-day online not accepted,onsite only spare capacity"
+      ]
+    },
+    {
+      "id": "east-qd-05",
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+      "result": "PASS",
+      "facts": [
+        "seasonal opening/last entry confirmed",
+        "real name reservation;foreign passport not explicitly confirmed"
+      ]
+    },
+    {
+      "id": "bj-palace",
+      "url": "https://intl.dpm.org.cn/visit.html",
+      "result": "PASS",
+      "facts": [
+        "no same-day ticket,foreign passport number online",
+        "seasonal times,60/40CNY plus10each gallery"
+      ]
+    },
+    {
+      "id": "cd-panda-base",
+      "url": "https://www.panda.org.cn/en/service/ticket/",
+      "result": "PASS",
+      "facts": [
+        "55CNY,14days advance,passport original scan,seasonal entry sessions"
+      ]
+    },
+    {
+      "id": "xa-terracotta",
+      "url": "https://bmy.com.cn/guide/",
+      "result": "PASS",
+      "facts": [
+        "seasonal8:30-17/16:30 entry,18:30/18closing",
+        "passport booking and original passport validation"
+      ]
+    },
+    {
+      "id": "nature-cbs-01",
+      "url": "https://www.changbaishan.gov.cn/hdjl/zfsqpt/cbq/sqck/blhf/202507/t20250717_267712.html",
+      "result": "PASS",
+      "facts": [
+        "historical published fare105+35+85+80CNY and return transport confirmed",
+        "current2026price explicitly not verified"
+      ]
+    },
+    {
+      "id": "nature-gl-01",
+      "url": "https://www.lijiangriver.com/page/article/zxlj.tzgg/269",
+      "result": "ROOT_RECHECK_UNAVAILABLE",
+      "facts": [
+        "root tool could not access; original researcher direct-body evidence remains separately attributed"
+      ]
+    }
+  ]
+}
