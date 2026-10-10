@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "checked_at": "2026-10-10",
+  "record_count": 130,
+  "direct_official_source_record_count": 130,
+  "not_directly_verified_record_count": 0,
+  "unique_official_source_urls": 195,
+  "collection_group_counts": {
+    "east": 40,
+    "central": 45,
+    "west": 45
+  },
+  "region_counts": {
+    "홋카이도": 8,
+    "도호쿠": 14,
+    "간토": 18,
+    "주부·호쿠리쿠": 25,
+    "간사이": 20,
+    "주고쿠": 14,
+    "시코쿠": 11,
+    "규슈": 15,
+    "오키나와": 5
+  },
+  "prefecture_counts": {
+    "홋카이도": 8,
+    "아오모리": 3,
+    "이와테": 3,
+    "미야기": 2,
+    "아키타": 2,
+    "야마가타": 2,
+    "후쿠시마": 2,
+    "이바라키": 3,
+    "도치기": 3,
+    "군마": 2,
+    "사이타마": 1,
+    "지바": 2,
+    "도쿄": 4,
+    "가나가와": 3,
+    "니가타": 2,
+    "도야마": 2,
+    "이시카와": 3,
+    "후쿠이": 3,
+    "야마나시": 2,
+    "나가노": 4,
+    "기후": 4,
+    "시즈오카": 2,
+    "아이치": 3,
+    "미에": 1,
+    "시가": 2,
+    "교토": 6,
+    "오사카": 3,
+    "효고": 3,
+    "나라": 3,
+    "와카야마": 2,
+    "돗토리": 3,
+    "시마네": 3,
+    "오카야마": 2,
+    "히로시마": 3,
+    "야마구치": 3,
+    "도쿠시마": 2,
+    "가가와": 4,
+    "에히메": 3,
+    "고치": 2,
+    "후쿠오카": 2,
+    "사가": 2,
+    "나가사키": 2,
+    "구마모토": 2,
+    "오이타": 2,
+    "미야자키": 2,
+    "가고시마": 3,
+    "오키나와": 5
+  },
+  "missing_prefectures": [],
+  "duplicate_records": {
+    "id": [],
+    "name_ko": [],
+    "name_ja": []
+  },
+  "shared_source_urls": [],
+  "geographic_overlap_candidates": [],
+  "relationship_review": {
+    "status": "reviewed",
+    "checked_at": "2026-10-10",
+    "scope": "130개 레코드의 이름·소재지·설명을 대조해 동일 관광지의 중복 또는 상위 지역과 내부 명소의 이중 집계 여부를 검토했습니다. 지리 경계를 좌표 데이터로 대조한 검증은 아닙니다.",
+    "decisions": [
+      {
+        "kind": "exact_duplicate",
+        "result": "ID·한국어 이름·일본어 이름의 중복 없음"
+      },
+      {
+        "kind": "regional_count",
+        "result": "홋카이도·도호쿠 등 9개 권역과 47개 도도부현은 인덱스 분류이며 관광지 수에 합산하지 않음"
+      },
+      {
+        "kind": "contained_attraction",
+        "result": "상위 관광지역 전체와 그 내부 세부 명소를 별도 레코드로 함께 집계한 사례를 발견하지 못함"
+      },
+      {
+        "kind": "combined_name",
+        "examples": [
+          "나고야성·혼마루어전",
+          "아라쿠라야마 센겐공원·충령탑",
+          "하기성터·시즈키공원"
+        ],
+        "result": "복합 명칭 각각은 1개 레코드로만 계산"
+      },
+      {
+        "kind": "nearby_distinct_attractions",
+        "examples": [
+          "돗토리 사구 / 돗토리 모래미술관",
+          "오카야마 고라쿠엔 / 구라시키 미관지구",
+          "오도리 공원 / 오타루 운하"
+        ],
+        "result": "같은 도시·현 또는 인근 지역이더라도 독립 방문장소로 유지"
+      },
+      {
+        "kind": "regional_boundary",
+        "result": "야마나시·니가타·미에는 central에만 존재하며 east와의 중복 없음"
+      }
+    ]
+  },
+  "errors": [],
+  "warnings": [],
+  "source_files": [
+    {
+      "file": "east.json",
+      "sha256": "2e163b9af32e3afb57f84fe67df9b57d59adc7b839a46a284017516504845e4d",
+      "record_count": 40
+    },
+    {
+      "file": "central.json",
+      "sha256": "0984b30def0cba8f61f2af437444f3ce4617bd861fd81a7d3220a4255a899724",
+      "record_count": 45
+    },
+    {
+      "file": "west.json",
+      "sha256": "845abf346aad7d7886ceed6a7c2c7e23c508294f30cf2513918eb8a6322aca60",
+      "record_count": 45
+    }
+  ],
+  "checks": {
+    "required_fields": "pass",
+    "source_direct_read_status": "reported_by_researcher_not_independently_refetched",
+    "geographic_hierarchy": "reviewed",
+    "offline_html": "static_structure_checked_browser_render_not_tested"
+  },
+  "notes": [
+    "직접 열람 확인은 각 조사 담당의 공식 페이지 본문 열람 기록에 근거합니다. 모든 사실과 운영정보가 검증되었다는 의미가 아닙니다.",
+    "이름 포함 및 공통 URL 검사는 중복 후보 검사입니다. 같은 출처를 여러 관광지가 공유할 수 있으므로 공통 URL만으로 항목을 삭제하지 않습니다.",
+    "47개 도도부현 수량은 관광지의 주 소재지 기준이며 상위 권역 제목을 별도 관광지로 합산하지 않습니다."
+  ],
+  "offline_js_smoke_test": {
+    "offline_js_smoke_test": "pass",
+    "tests": [
+      "initial_130",
+      "region_hokkaido_8",
+      "prefecture_mie_1",
+      "empty_query_result"
+    ],
+    "browser_render_tested": false
+  },
+  "independent_source_spotcheck": {
+    "checked_at": "2026-10-10",
+    "scope": "Independent sample re-opening, not all sources independently rechecked",
+    "checks": [
+      {
+        "id": "jp-east-kotokuin",
+        "url": "https://www.kotoku-in.jp/en/",
+        "result": "PASS",
+        "facts": [
+          "general300JPY, child6-12 150JPY, interior50JPY",
+          "Oct-Mar8-17, entry15min before; interior8-16:30 entry10min before",
+          "Hase7min walk, no own parking"
+        ]
+      },
+      {
+        "id": "jp-east-sankeien",
+        "url": "https://www.sankeien.or.jp/",
+        "result": "PASS",
+        "facts": [
+          "9-17 last16:30",
+          "2026-01-20 former Yanohara closure notice",
+          "2026-07-17 notice for pagoda work starting2027-04"
+        ]
+      },
+      {
+        "id": "jp-east-oirase",
+        "url": "https://www.japan.travel/en/spot/1833/",
+        "result": "PASS",
+        "facts": [
+          "14km about5h or more",
+          "Choshi Falls,Deaibashi",
+          "lateOctober leaves, winter transport caution"
+        ]
+      },
+      {
+        "id": "WEST-012",
+        "url": "https://kintaikyo.iwakuni-city.net/summary.html",
+        "result": "PASS",
+        "facts": [
+          "500/250JPY roundtrip, hours and unattended collection confirmed"
+        ]
+      },
+      {
+        "id": "WEST-040",
+        "url": "https://y-rekumori.com/",
+        "result": "PASS",
+        "facts": [
+          "2026-10-10 80/150/210min routes closed,296mm24h rainfall confirmed"
+        ]
+      },
+      {
+        "id": "WEST-041",
+        "url": "https://oki-park.jp/shurijo/information/detail/11164",
+        "result": "PASS",
+        "facts": [
+          "2026-11-23 reopening,1000/760/370JPY,30min timed reservation for main hall; other paid facilities reservation-free"
+        ]
+      },
+      {
+        "id": "central-019",
+        "url": "https://www.nagoya-info.jp/en/spot/detail/1/",
+        "result": "PASS",
+        "facts": [
+          "1000JPY from2026-10-01,9-16:30,last16"
+        ]
+      },
+      {
+        "id": "central-030",
+        "url": "https://www.byodoin.or.jp/en/news/cat23/20261016/",
+        "result": "PASS",
+        "facts": [
+          "50 to35 visitors from2026-10-16"
+        ]
+      },
+      {
+        "id": "central-038",
+        "url": "https://www.himejicastle.jp/en/index.php",
+        "result": "PASS",
+        "facts": [
+          "2500JPY adult,2600combined, age exception firstMarch31 following18;9-17 entry16"
+        ]
+      }
+    ]
+  },
+  "artifact_counts": {
+    "place_markdown": 130,
+    "region_markdown": 9
+  }
+}

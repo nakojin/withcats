@@ -1,0 +1,22 @@
+# 간사이
+
+- [기요미즈데라](../places/central-026.md) · 교토 · 교토시
+- [후시미 이나리 타이샤](../places/central-027.md) · 교토 · 교토시
+- [킨카쿠지](../places/central-028.md) · 교토 · 교토시
+- [니조성](../places/central-029.md) · 교토 · 교토시
+- [뵤도인](../places/central-030.md) · 교토 · 우지시
+- [이네 후나야](../places/central-031.md) · 교토 · 이네정
+- [오사카성 천수각](../places/central-032.md) · 오사카 · 오사카시
+- [가이유칸](../places/central-033.md) · 오사카 · 오사카시
+- [미노오 대폭포](../places/central-034.md) · 오사카 · 미노오시
+- [도다이지 대불전](../places/central-035.md) · 나라 · 나라시
+- [호류지](../places/central-036.md) · 나라 · 이카루가정
+- [하세데라](../places/central-037.md) · 나라 · 사쿠라이시
+- [히메지성](../places/central-038.md) · 효고 · 히메지시
+- [다케다성터](../places/central-039.md) · 효고 · 아사고시
+- [이즈시 에이라쿠칸](../places/central-040.md) · 효고 · 도요오카시
+- [히코네성](../places/central-041.md) · 시가 · 히코네시
+- [하치만보리](../places/central-042.md) · 시가 · 오미하치만시
+- [나치폭포](../places/central-043.md) · 와카야마 · 나치카쓰우라정
+- [곤고부지](../places/central-044.md) · 와카야마 · 고야정
+- [이세신궁 내궁](../places/central-045.md) · 미에 · 이세시

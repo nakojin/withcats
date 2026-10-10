@@ -1,0 +1,27 @@
+# 주부·호쿠리쿠
+
+- [마쓰모토성](../places/central-001.md) · 나가노 · 마쓰모토시
+- [가미코치 갓파바시](../places/central-002.md) · 나가노 · 마쓰모토시
+- [나라이주쿠](../places/central-003.md) · 나가노 · 시오지리시
+- [지고쿠다니 야생원숭이공원](../places/central-004.md) · 나가노 · 야마노우치정
+- [야히코 신사](../places/central-005.md) · 니가타 · 야히코촌
+- [사적 사도 금산](../places/central-006.md) · 니가타 · 사도시
+- [구로베댐](../places/central-007.md) · 도야마 · 다테야마정
+- [아이노쿠라 합장촌](../places/central-008.md) · 도야마 · 난토시
+- [겐로쿠엔](../places/central-009.md) · 이시카와 · 가나자와시
+- [히가시차야 거리](../places/central-010.md) · 이시카와 · 가나자와시
+- [나타데라](../places/central-011.md) · 이시카와 · 고마쓰시
+- [에이헤이지](../places/central-012.md) · 후쿠이 · 에이헤이지정
+- [후쿠이현립 공룡박물관](../places/central-013.md) · 후쿠이 · 가쓰야마시
+- [도진보 해안](../places/central-014.md) · 후쿠이 · 사카이시
+- [시라카와고 오기마치 합장촌](../places/central-015.md) · 기후 · 시라카와촌
+- [다카야마 진야](../places/central-016.md) · 기후 · 다카야마시
+- [히다후루카와 세토가와·흰 벽 창고거리](../places/central-017.md) · 기후 · 히다시
+- [구조하치만성](../places/central-018.md) · 기후 · 구조시
+- [나고야성·혼마루어전](../places/central-019.md) · 아이치 · 나고야시
+- [이누야마성](../places/central-020.md) · 아이치 · 이누야마시
+- [박물관 메이지무라](../places/central-021.md) · 아이치 · 이누야마시
+- [미호노마쓰바라](../places/central-022.md) · 시즈오카 · 시즈오카시
+- [슈젠지 절](../places/central-023.md) · 시즈오카 · 이즈시
+- [아라쿠라야마 센겐공원·충령탑](../places/central-024.md) · 야마나시 · 후지요시다시
+- [오시노핫카이](../places/central-025.md) · 야마나시 · 오시노촌
