@@ -1,8 +1,8 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "as_of": "2026-10-10",
   "counting_policy": "한 레코드는 하나의 명명된 목적지 또는 함께 방문하는 방문권으로 센다. 복합 명칭의 구성요소를 개별 가산하지 않는다.",
-  "region_policy": "폴더는 여행 편집권역이며 법적 행정구역 개편을 뜻하지 않는다. 원자료의 region은 출처 표기를 유지한다.",
+  "region_policy": "폴더는 여행 편집권역이며 법적 행정구역 개편을 뜻하지 않는다. 원자료의 region은 출처 표기를 유지한다. admin_region은 표준 시도명(17개)이며 region 원표기를 바꾸지 않고 추가한 필드다.",
   "verification_policy": "공식 출처의 핵심사실 확인과 방문일 운영 확인은 다르다. 계절·동선은 편집 판단. 검증대기 원본문서는 합계에서 제외한다.",
   "physical_unique_attraction_count": null,
   "publication_status": "research_integration_not_operationally_certified",
@@ -28,6 +28,7 @@
       "id": "kr-seoul-n-seoul-tower",
       "name_ko": "N서울타워(남산)",
       "region": "서울",
+      "admin_region": "서울특별시",
       "locality": "서울 남산",
       "type": [
         "전망",
@@ -91,6 +92,7 @@
       "id": "kr-seoul-gyeongbokgung",
       "name_ko": "경복궁",
       "region": "서울",
+      "admin_region": "서울특별시",
       "locality": "서울 종로구",
       "type": [
         "고궁",
@@ -176,6 +178,7 @@
       "id": "kr-seoul-bukchon",
       "name_ko": "북촌한옥마을",
       "region": "서울",
+      "admin_region": "서울특별시",
       "locality": "서울 종로구 북촌 일대; 시간 제한 레드존은 북촌로11길 일대",
       "type": [
         "한옥",
@@ -218,6 +221,7 @@
       "id": "kr-seoul-changdeokgung",
       "name_ko": "창덕궁",
       "region": "서울",
+      "admin_region": "서울특별시",
       "locality": "서울 종로구 율곡로 99",
       "type": [
         "고궁",
@@ -288,6 +292,7 @@
       "id": "kr-gyeonggi-dumulmeori",
       "name_ko": "두물머리",
       "region": "경기",
+      "admin_region": "경기도",
       "locality": "경기 양평군 양서면 일대",
       "type": [
         "강변",
@@ -329,6 +334,7 @@
       "id": "kr-gyeonggi-suwon-hwaseong",
       "name_ko": "수원화성",
       "region": "경기",
+      "admin_region": "경기도",
       "locality": "수원시 장안구 영화동 320-2 일원; 화성행궁은 팔달구 정조로 825",
       "type": [
         "성곽",
@@ -387,6 +393,7 @@
       "id": "kr-gangwon-chuam-candlestick-rock",
       "name_ko": "추암 촛대바위",
       "region": "강원",
+      "admin_region": "강원특별자치도",
       "locality": "동해시 추암해변 일대",
       "type": [
         "해안기암",
@@ -428,6 +435,7 @@
       "id": "kr-jeonbuk-gwanghallu-garden",
       "name_ko": "남원 광한루원",
       "region": "전북",
+      "admin_region": "전북특별자치도",
       "locality": "남원 광한루원",
       "type": [
         "전통정원",
@@ -469,6 +477,7 @@
       "id": "kr-jeonnam-daehan-dawon",
       "name_ko": "보성 녹차밭",
       "region": "전남 여행권",
+      "admin_region": "전라남도",
       "locality": "보성군 보성읍; 이 문서는 대한다원을 중심으로 정리",
       "type": [
         "차밭",
@@ -510,6 +519,7 @@
       "id": "kr-jeonbuk-jeonju-hanok-village",
       "name_ko": "전주한옥마을",
       "region": "전북",
+      "admin_region": "전북특별자치도",
       "locality": "전주시 완산구 풍남동·교동 일대",
       "type": [
         "한옥지구",
@@ -567,6 +577,7 @@
       "id": "kr-gyeongbuk-bulguksa-seokguram-group",
       "name_ko": "경주 불국사·석굴암",
       "region": "경북",
+      "admin_region": "경상북도",
       "locality": "경주 토함산 일대의 별도 사찰·석굴 시설",
       "type": [
         "불교유산",
@@ -609,6 +620,7 @@
       "id": "kr-gyeongbuk-buseoksa",
       "name_ko": "영주 부석사",
       "region": "경북",
+      "admin_region": "경상북도",
       "locality": "영주 부석사",
       "type": [
         "사찰",
@@ -660,6 +672,7 @@
       "id": "kr-busan-gamcheon-culture-village",
       "name_ko": "감천문화마을",
       "region": "부산",
+      "admin_region": "부산광역시",
       "locality": "부산 사하구 감내2로 203(안내센터) 일대",
       "type": [
         "마을",
@@ -704,6 +717,7 @@
       "id": "kr-ulsan-daewangam-park",
       "name_ko": "울산 대왕암공원",
       "region": "울산",
+      "admin_region": "울산광역시",
       "locality": "울산 동구 등대로 95 일대; 출렁다리 주소 일산동 905",
       "type": [
         "해안공원",
@@ -747,6 +761,7 @@
       "id": "kr-jeju-manjanggul",
       "name_ko": "만장굴",
       "region": "제주",
+      "admin_region": "제주특별자치도",
       "locality": "제주시 구좌읍 만장굴길 182",
       "type": [
         "용암동굴",
@@ -796,6 +811,7 @@
       "id": "kr-jeju-seopjikoji",
       "name_ko": "섭지코지",
       "region": "제주",
+      "admin_region": "제주특별자치도",
       "locality": "서귀포시 성산읍 섭지코지로 262; 고성리",
       "type": [
         "해안",
@@ -840,6 +856,7 @@
       "id": "kr-jeju-seongsan-ilchulbong",
       "name_ko": "성산일출봉",
       "region": "제주",
+      "admin_region": "제주특별자치도",
       "locality": "서귀포시 성산읍 일출로 284-12",
       "type": [
         "화산지형",
@@ -886,6 +903,7 @@
       "id": "kr-jeju-udo",
       "name_ko": "우도",
       "region": "제주",
+      "admin_region": "제주특별자치도",
       "locality": "제주시 우도면",
       "type": [
         "섬",
@@ -931,6 +949,7 @@
       "id": "kr-jeju-cheonjiyeon",
       "name_ko": "천지연폭포",
       "region": "제주",
+      "admin_region": "제주특별자치도",
       "locality": "서귀포시 남성중로 2-15",
       "type": [
         "폭포",
@@ -982,6 +1001,7 @@
       "id": "kr-jeju-hallasan",
       "name_ko": "한라산",
       "region": "제주",
+      "admin_region": "제주특별자치도",
       "locality": "제주 한라산국립공원; 탐방로별 출발점 상이",
       "type": [
         "산악",
@@ -1048,6 +1068,7 @@
       "id": "kr-jeju-hyeopjae",
       "name_ko": "협재해수욕장",
       "region": "제주",
+      "admin_region": "제주특별자치도",
       "locality": "제주시 한림읍 협재리 2497-1",
       "type": [
         "해변",
@@ -1094,6 +1115,7 @@
       "name_ko": "문화비축기지",
       "aliases": [],
       "region": "서울특별시",
+      "admin_region": "서울특별시",
       "locality": "마포구 증산로 87",
       "type": [
         "문화공간",
@@ -1175,6 +1197,7 @@
       "name_ko": "선유도공원",
       "aliases": [],
       "region": "서울특별시",
+      "admin_region": "서울특별시",
       "locality": "영등포구 양화동 95",
       "type": [
         "공원",
@@ -1243,6 +1266,7 @@
       "name_ko": "서울식물원",
       "aliases": [],
       "region": "서울특별시",
+      "admin_region": "서울특별시",
       "locality": "강서구 마곡동로 161",
       "type": [
         "식물원",
@@ -1311,6 +1335,7 @@
       "name_ko": "서대문독립공원",
       "aliases": [],
       "region": "서울특별시",
+      "admin_region": "서울특별시",
       "locality": "서대문구 통일로 251",
       "type": [
         "역사공원",
@@ -1378,6 +1403,7 @@
       "name_ko": "국립세종수목원",
       "aliases": [],
       "region": "세종특별자치시",
+      "admin_region": "세종특별자치시",
       "locality": "수목원로 136",
       "type": [
         "수목원"
@@ -1467,6 +1493,7 @@
       "name_ko": "포천아트밸리",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "포천시 신북면 아트밸리로 234",
       "type": [
         "문화공간",
@@ -1546,6 +1573,7 @@
       "name_ko": "환선굴",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "삼척시 신기면 환선로 800",
       "type": [
         "동굴",
@@ -1636,6 +1664,7 @@
       "name_ko": "뮤지엄 산",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "원주시 지정면 오크밸리2길 260",
       "type": [
         "미술관",
@@ -1704,6 +1733,7 @@
       "name_ko": "소금산 그랜드밸리",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "원주시 지정면 지정로 317",
       "type": [
         "전망",
@@ -1772,6 +1802,7 @@
       "name_ko": "빙하미술관",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "원주시 지정면 구재로 66",
       "type": [
         "미술관",
@@ -1852,6 +1883,7 @@
       "name_ko": "국립생태원",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "서천군 마서면 금강로 1210",
       "type": [
         "생태전시",
@@ -1920,6 +1952,7 @@
       "name_ko": "신시모도",
       "aliases": [],
       "region": "인천광역시",
+      "admin_region": "인천광역시",
       "locality": "옹진군",
       "type": [
         "섬",
@@ -2001,6 +2034,7 @@
       "name_ko": "을왕리해수욕장",
       "aliases": [],
       "region": "인천광역시",
+      "admin_region": "인천광역시",
       "locality": "중구",
       "type": [
         "해변"
@@ -2080,6 +2114,7 @@
       "name_ko": "청라호수공원",
       "aliases": [],
       "region": "인천광역시",
+      "admin_region": "인천광역시",
       "locality": "서구",
       "type": [
         "호수공원"
@@ -2169,6 +2204,7 @@
       "name_ko": "경인아라뱃길",
       "aliases": [],
       "region": "인천광역시",
+      "admin_region": "인천광역시",
       "locality": "서구",
       "type": [
         "수변",
@@ -2250,6 +2286,7 @@
       "name_ko": "청주 상당산성",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "청주시 상당구 성내로 70",
       "type": [
         "산성",
@@ -2329,6 +2366,7 @@
       "name_ko": "국립청주박물관",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "청주시 상당구 명암로 143",
       "type": [
         "박물관"
@@ -2429,6 +2467,7 @@
       "name_ko": "청주 육거리종합시장",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "청주시 상당구 석교동 131",
       "type": [
         "전통시장",
@@ -2519,6 +2558,7 @@
       "name_ko": "수암골전망대",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "청주시",
       "type": [
         "전망",
@@ -2598,6 +2638,7 @@
       "name_ko": "문화제조창",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "청주시",
       "type": [
         "문화공간",
@@ -2677,6 +2718,7 @@
       "name_ko": "동부창고",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "청주시 청원구 덕벌로 30",
       "type": [
         "문화공간",
@@ -2756,6 +2798,7 @@
       "name_ko": "하늘물빛정원",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "금산군 추부면 검한1길 156",
       "type": [
         "정원"
@@ -2834,6 +2877,7 @@
       "name_ko": "선샤인랜드",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "논산시 연무읍 봉황로 102",
       "type": [
         "촬영지",
@@ -2924,6 +2968,7 @@
       "name_ko": "예산시장",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "예산군 예산읍",
       "type": [
         "전통시장",
@@ -3014,6 +3059,7 @@
       "name_ko": "무창포해수욕장",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "보령시 웅천읍 열린바다1길 10",
       "type": [
         "해변",
@@ -3093,6 +3139,7 @@
       "name_ko": "아미미술관",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "당진시 순성면 남부로 753-4",
       "type": [
         "미술관",
@@ -3183,6 +3230,7 @@
       "name_ko": "왜목마을",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "당진시 석문면 왜목길 9·교로리 일원",
       "type": [
         "해안",
@@ -3273,6 +3321,7 @@
       "name_ko": "공주 산성시장",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "공주시 용당길 22",
       "type": [
         "전통시장",
@@ -3352,6 +3401,7 @@
       "name_ko": "남당항",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "홍성군 서부면 남당리",
       "type": [
         "항구",
@@ -3431,6 +3481,7 @@
       "name_ko": "전등사",
       "aliases": [],
       "region": "인천광역시",
+      "admin_region": "인천광역시",
       "locality": "강화군",
       "type": [
         "사찰"
@@ -3512,6 +3563,7 @@
       "name_ko": "교동 대룡시장",
       "aliases": [],
       "region": "인천광역시",
+      "admin_region": "인천광역시",
       "locality": "강화군",
       "type": [
         "전통시장"
@@ -3593,6 +3645,7 @@
       "name_ko": "월미문화의거리",
       "aliases": [],
       "region": "인천광역시",
+      "admin_region": "인천광역시",
       "locality": "중구",
       "type": [
         "수변",
@@ -3674,6 +3727,7 @@
       "name_ko": "수봉공원",
       "aliases": [],
       "region": "인천광역시",
+      "admin_region": "인천광역시",
       "locality": "미추홀구",
       "type": [
         "공원",
@@ -3754,6 +3808,7 @@
       "name_ko": "강화루지",
       "aliases": [],
       "region": "인천광역시",
+      "admin_region": "인천광역시",
       "locality": "강화군",
       "type": [
         "레저"
@@ -3845,6 +3900,7 @@
       "name_ko": "강화 부근리 고인돌",
       "aliases": [],
       "region": "인천광역시",
+      "admin_region": "인천광역시",
       "locality": "강화군",
       "type": [
         "선사유적"
@@ -3926,6 +3982,7 @@
       "name_ko": "오죽헌",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "강릉시",
       "type": [
         "역사유적"
@@ -4011,6 +4068,7 @@
       "name_ko": "아르떼뮤지엄 강릉",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "강릉시",
       "type": [
         "미디어아트"
@@ -4089,6 +4147,7 @@
       "name_ko": "경포대",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "강릉시 경포로 365",
       "type": [
         "누각",
@@ -4175,6 +4234,7 @@
       "name_ko": "초당두부마을",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "강릉시 초당동",
       "type": [
         "음식거리"
@@ -4254,6 +4314,7 @@
       "name_ko": "비오케이아트센터",
       "aliases": [],
       "region": "세종특별자치시",
+      "admin_region": "세종특별자치시",
       "locality": "세종특별자치시",
       "type": [
         "문화공간"
@@ -4314,6 +4375,7 @@
         "이응다리"
       ],
       "region": "세종특별자치시",
+      "admin_region": "세종특별자치시",
       "locality": "세종동 29-111",
       "type": [
         "보행교",
@@ -4393,6 +4455,7 @@
       "name_ko": "세종호수공원",
       "aliases": [],
       "region": "세종특별자치시",
+      "admin_region": "세종특별자치시",
       "locality": "다솜로 216",
       "type": [
         "호수공원"
@@ -4470,6 +4533,7 @@
       "name_ko": "초정행궁",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "청주시 청원구 내수읍 초정약수로 851",
       "type": [
         "역사문화",
@@ -4537,6 +4601,7 @@
       "name_ko": "국립현대미술관 청주",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "청주시",
       "type": [
         "미술관",
@@ -4604,6 +4669,7 @@
       "name_ko": "충북문화관",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "청주시",
       "type": [
         "문화공간",
@@ -4671,6 +4737,7 @@
       "name_ko": "청주 정북동 토성",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "청주시 정북동",
       "type": [
         "선사·역사유적",
@@ -4750,6 +4817,7 @@
       "name_ko": "대전시립박물관",
       "aliases": [],
       "region": "대전광역시",
+      "admin_region": "대전광역시",
       "locality": "유성구 도안대로 398",
       "type": [
         "박물관"
@@ -4817,6 +4885,7 @@
       "name_ko": "대전선사박물관",
       "aliases": [],
       "region": "대전광역시",
+      "admin_region": "대전광역시",
       "locality": "유성구 노은동로 126",
       "type": [
         "박물관",
@@ -4885,6 +4954,7 @@
       "name_ko": "대전예술의전당",
       "aliases": [],
       "region": "대전광역시",
+      "admin_region": "대전광역시",
       "locality": "서구, 대전광역시",
       "type": [
         "공연",
@@ -4953,6 +5023,7 @@
       "name_ko": "유성 족욕체험장",
       "aliases": [],
       "region": "대전광역시",
+      "admin_region": "대전광역시",
       "locality": "유성구 봉명동",
       "type": [
         "온천",
@@ -5021,6 +5092,7 @@
       "name_ko": "장태산자연휴양림",
       "aliases": [],
       "region": "대전광역시",
+      "admin_region": "대전광역시",
       "locality": "서구 장안로 461",
       "type": [
         "휴양림",
@@ -5110,6 +5182,7 @@
       "name_ko": "남한산성",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "광주시 남한산성면 산성리",
       "type": [
         "산성",
@@ -5189,6 +5262,7 @@
       "name_ko": "광명동굴",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "광명시",
       "type": [
         "동굴",
@@ -5298,6 +5372,7 @@
       "name_ko": "화담숲",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "광주시 도척면 도척윗로 278-1",
       "type": [
         "수목원",
@@ -5365,6 +5440,7 @@
       "name_ko": "전곡선사박물관",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "연천군 전곡읍 평화로443번길 2",
       "type": [
         "박물관",
@@ -5432,6 +5508,7 @@
       "name_ko": "백남준아트센터",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "용인시 기흥구 백남준로 10",
       "type": [
         "미술관",
@@ -5499,6 +5576,7 @@
       "name_ko": "세미원",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "양평군 양서면 양수로 93",
       "type": [
         "정원",
@@ -5573,6 +5651,7 @@
       "name_ko": "낙산사",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "양양군 강현면 낙산사로 100",
       "type": [
         "사찰",
@@ -5654,6 +5733,7 @@
       "name_ko": "하슬라아트월드",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "강릉시 강동면 율곡로 1441",
       "type": [
         "미술관",
@@ -5721,6 +5801,7 @@
       "name_ko": "젊은달와이파크",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "영월군 주천면 송학주천로 1467-9",
       "type": [
         "미술관",
@@ -5799,6 +5880,7 @@
       "name_ko": "강릉선교장",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "강릉시 운정길 63",
       "type": [
         "한옥",
@@ -5879,6 +5961,7 @@
       "name_ko": "헤이리 예술마을",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "파주시 탄현면 헤이리마을길 70-21",
       "type": [
         "예술마을",
@@ -5946,6 +6029,7 @@
       "name_ko": "일산호수공원",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "고양시 일산동구 호수로 595",
       "type": [
         "호수공원",
@@ -6027,6 +6111,7 @@
       "name_ko": "지혜의숲",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "파주시 회동길 145",
       "type": [
         "책문화",
@@ -6094,6 +6179,7 @@
       "name_ko": "벽초지수목원",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "파주시 부흥로 242",
       "type": [
         "정원",
@@ -6175,6 +6261,7 @@
       "name_ko": "행주산성",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "고양시 덕양구 행주로15번길 89",
       "type": [
         "역사유적",
@@ -6242,6 +6329,7 @@
       "name_ko": "서울공예박물관",
       "aliases": [],
       "region": "서울특별시",
+      "admin_region": "서울특별시",
       "locality": "종로구 율곡로3길 4",
       "type": [
         "박물관",
@@ -6340,6 +6428,7 @@
       "name_ko": "국립중앙박물관",
       "aliases": [],
       "region": "서울특별시",
+      "admin_region": "서울특별시",
       "locality": "용산구 서빙고로 137",
       "type": [
         "박물관",
@@ -6431,6 +6520,7 @@
       "name_ko": "서울역사박물관",
       "aliases": [],
       "region": "서울특별시",
+      "admin_region": "서울특별시",
       "locality": "종로구 새문안로 55",
       "type": [
         "박물관",
@@ -6528,6 +6618,7 @@
       "name_ko": "의림지",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "제천시 모산동 241",
       "type": [
         "저수지",
@@ -6595,6 +6686,7 @@
       "name_ko": "청남대",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "청주시 상당구 문의면 청남대길 646",
       "type": [
         "역사문화",
@@ -6662,6 +6754,7 @@
       "name_ko": "정동전망대",
       "aliases": [],
       "region": "서울특별시",
+      "admin_region": "서울특별시",
       "locality": "중구 덕수궁길 15 서울시청 서소문청사 13층",
       "type": [
         "전망",
@@ -6742,6 +6835,7 @@
       "name_ko": "예당호 출렁다리",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "예산군 응봉면 예당관광로 일원",
       "type": [
         "보행교",
@@ -6809,6 +6903,7 @@
       "name_ko": "수덕사",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "예산군 덕산면 수덕사안길 79",
       "type": [
         "사찰",
@@ -6876,6 +6971,7 @@
       "name_ko": "아그로랜드 태신목장",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "예산군 고덕면 상몽2길 231",
       "type": [
         "목장",
@@ -6943,6 +7039,7 @@
       "name_ko": "익산 왕궁리유적",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "익산시 왕궁면 궁성로 666",
       "type": [
         "역사유적"
@@ -6996,6 +7093,7 @@
       "name_ko": "군산근대역사박물관",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "군산시 해망로 240",
       "type": [
         "박물관",
@@ -7062,6 +7160,7 @@
       "name_ko": "군산근대건축관",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "군산시 해망로 214",
       "type": [
         "건축",
@@ -7116,6 +7215,7 @@
       "name_ko": "고창 선운사",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "고창군 아산면 선운사로 250",
       "type": [
         "사찰",
@@ -7170,6 +7270,7 @@
       "name_ko": "양림역사문화마을",
       "aliases": [],
       "region": "광주광역시",
+      "admin_region": "광주광역시",
       "locality": "남구 양림동",
       "type": [
         "역사마을",
@@ -7226,6 +7327,7 @@
       "name_ko": "무등산국립공원",
       "aliases": [],
       "region": "광주광역시",
+      "admin_region": "광주광역시",
       "locality": "광주·담양군·화순군 경계",
       "type": [
         "산",
@@ -7281,6 +7383,7 @@
       "name_ko": "부안 채석강",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "부안군 변산면 변산해변로 1",
       "type": [
         "해안",
@@ -7335,6 +7438,7 @@
       "name_ko": "부안 적벽강",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "부안군 변산면 죽막길 일대",
       "type": [
         "해안",
@@ -7389,6 +7493,7 @@
       "name_ko": "부안 내소사",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "부안군 진서면 내소사로 191",
       "type": [
         "사찰",
@@ -7443,6 +7548,7 @@
       "name_ko": "고창 학원농장",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "고창군 공음면 학원농장길 150",
       "type": [
         "농촌경관",
@@ -7497,6 +7603,7 @@
       "name_ko": "의재미술관",
       "aliases": [],
       "region": "광주광역시",
+      "admin_region": "광주광역시",
       "locality": "동구 증심사길 155",
       "type": [
         "미술관",
@@ -7552,6 +7659,7 @@
       "name_ko": "광주 사직공원",
       "aliases": [],
       "region": "광주광역시",
+      "admin_region": "광주광역시",
       "locality": "남구 사직길 49",
       "type": [
         "공원",
@@ -7607,6 +7715,7 @@
       "name_ko": "국립광주박물관",
       "aliases": [],
       "region": "광주광역시",
+      "admin_region": "광주광역시",
       "locality": "북구 하서로 110",
       "type": [
         "박물관"
@@ -7661,6 +7770,7 @@
       "name_ko": "국립아시아문화전당",
       "aliases": [],
       "region": "광주광역시",
+      "admin_region": "광주광역시",
       "locality": "동구 문화전당로 38",
       "type": [
         "복합문화공간",
@@ -7716,6 +7826,7 @@
       "name_ko": "고창 고인돌 유적",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "고창군 고창읍 고인돌공원길 74 일대",
       "type": [
         "선사유적",
@@ -7770,6 +7881,7 @@
       "name_ko": "대구수목원",
       "aliases": [],
       "region": "대구광역시",
+      "admin_region": "대구광역시",
       "locality": "달서구 화암로 342",
       "type": [
         "수목원",
@@ -7824,6 +7936,7 @@
       "name_ko": "도동서원",
       "aliases": [],
       "region": "대구광역시",
+      "admin_region": "대구광역시",
       "locality": "달성군 구지면 도동서원로 1",
       "type": [
         "서원",
@@ -7877,6 +7990,7 @@
       "name_ko": "대구미술관",
       "aliases": [],
       "region": "대구광역시",
+      "admin_region": "대구광역시",
       "locality": "수성구 미술관로 40",
       "type": [
         "미술관"
@@ -7930,6 +8044,7 @@
       "name_ko": "앞산 전망대·케이블카",
       "aliases": [],
       "region": "대구광역시",
+      "admin_region": "대구광역시",
       "locality": "남구 앞산순환로 574-114",
       "type": [
         "전망대",
@@ -7984,6 +8099,7 @@
       "name_ko": "국립대구과학관",
       "aliases": [],
       "region": "대구광역시",
+      "admin_region": "대구광역시",
       "locality": "달성군 테크노대로6길 20",
       "type": [
         "과학관",
@@ -8037,6 +8153,7 @@
       "name_ko": "장생포 고래박물관",
       "aliases": [],
       "region": "울산광역시",
+      "admin_region": "울산광역시",
       "locality": "남구 장생포고래로 244",
       "type": [
         "박물관",
@@ -8090,6 +8207,7 @@
       "name_ko": "울주 대곡리 반구대 암각화",
       "aliases": [],
       "region": "울산광역시",
+      "admin_region": "울산광역시",
       "locality": "울주군 언양읍 대곡리",
       "type": [
         "선사유적",
@@ -8155,6 +8273,7 @@
       "name_ko": "태화강 국가정원",
       "aliases": [],
       "region": "울산광역시",
+      "admin_region": "울산광역시",
       "locality": "중구 샛강남길 5 일대",
       "type": [
         "국가정원",
@@ -8208,6 +8327,7 @@
       "name_ko": "간절곶",
       "aliases": [],
       "region": "울산광역시",
+      "admin_region": "울산광역시",
       "locality": "울주군 서생면 대송리",
       "type": [
         "해안",
@@ -8268,6 +8388,7 @@
       "name_ko": "울산박물관",
       "aliases": [],
       "region": "울산광역시",
+      "admin_region": "울산광역시",
       "locality": "남구 두왕로 277",
       "type": [
         "박물관",
@@ -8322,6 +8443,7 @@
       "name_ko": "외고산옹기마을",
       "aliases": [],
       "region": "울산광역시",
+      "admin_region": "울산광역시",
       "locality": "울주군 온양읍 외고산3길 36",
       "type": [
         "공예마을",
@@ -8377,6 +8499,7 @@
       "name_ko": "해동용궁사",
       "aliases": [],
       "region": "부산광역시",
+      "admin_region": "부산광역시",
       "locality": "기장군 기장읍 용궁길 86",
       "type": [
         "사찰",
@@ -8432,6 +8555,7 @@
       "name_ko": "F1963",
       "aliases": [],
       "region": "부산광역시",
+      "admin_region": "부산광역시",
       "locality": "수영구 구락로123번길 20",
       "type": [
         "산업재생",
@@ -8486,6 +8610,7 @@
       "name_ko": "아홉산숲",
       "aliases": [],
       "region": "부산광역시",
+      "admin_region": "부산광역시",
       "locality": "기장군 철마면 미동길 일대",
       "type": [
         "숲",
@@ -8551,6 +8676,7 @@
       "name_ko": "흰여울문화마을",
       "aliases": [],
       "region": "부산광역시",
+      "admin_region": "부산광역시",
       "locality": "영도구 영선동4가",
       "type": [
         "문화마을",
@@ -8606,6 +8732,7 @@
       "name_ko": "깡깡이예술마을",
       "aliases": [],
       "region": "부산광역시",
+      "admin_region": "부산광역시",
       "locality": "영도구 대평북로 36 일대",
       "type": [
         "산업문화",
@@ -8660,6 +8787,7 @@
       "name_ko": "제주돌문화공원",
       "aliases": [],
       "region": "제주특별자치도",
+      "admin_region": "제주특별자치도",
       "locality": "제주시 조천읍 남조로 2023",
       "type": [
         "박물관",
@@ -8727,6 +8855,7 @@
       "name_ko": "성읍민속마을",
       "aliases": [],
       "region": "제주특별자치도",
+      "admin_region": "제주특별자치도",
       "locality": "서귀포시 표선면 성읍리 3294 일대",
       "type": [
         "민속마을"
@@ -8780,6 +8909,7 @@
       "name_ko": "제주해녀박물관",
       "aliases": [],
       "region": "제주특별자치도",
+      "admin_region": "제주특별자치도",
       "locality": "제주시 구좌읍 해녀박물관길 26",
       "type": [
         "박물관",
@@ -8835,6 +8965,7 @@
       "name_ko": "산방산",
       "aliases": [],
       "region": "제주특별자치도",
+      "admin_region": "제주특별자치도",
       "locality": "서귀포시 안덕면 사계리 산16 일대",
       "type": [
         "화산지형",
@@ -8890,6 +9021,7 @@
       "name_ko": "용머리해안",
       "aliases": [],
       "region": "제주특별자치도",
+      "admin_region": "제주특별자치도",
       "locality": "서귀포시 안덕면 사계리 112-3",
       "type": [
         "해안",
@@ -8945,6 +9077,7 @@
       "name_ko": "비자림",
       "aliases": [],
       "region": "제주특별자치도",
+      "admin_region": "제주특별자치도",
       "locality": "제주시 구좌읍 비자숲길 55",
       "type": [
         "숲",
@@ -8999,6 +9132,7 @@
       "name_ko": "제주4·3평화공원·평화기념관",
       "aliases": [],
       "region": "제주특별자치도",
+      "admin_region": "제주특별자치도",
       "locality": "제주시 명림로 430",
       "type": [
         "추모공간",
@@ -9053,6 +9187,7 @@
       "name_ko": "금오름",
       "aliases": [],
       "region": "제주특별자치도",
+      "admin_region": "제주특별자치도",
       "locality": "제주시 한림읍 금악리 산1-1",
       "type": [
         "오름",
@@ -9107,6 +9242,7 @@
       "name_ko": "환상숲곶자왈공원",
       "aliases": [],
       "region": "제주특별자치도",
+      "admin_region": "제주특별자치도",
       "locality": "제주시 한경면 녹차분재로 594-1",
       "type": [
         "곶자왈",
@@ -9161,6 +9297,7 @@
       "name_ko": "에코랜드 테마파크",
       "aliases": [],
       "region": "제주특별자치도",
+      "admin_region": "제주특별자치도",
       "locality": "제주시 조천읍 번영로 1278-169",
       "type": [
         "테마파크",
@@ -9216,6 +9353,7 @@
       "name_ko": "도산서원",
       "aliases": [],
       "region": "경상북도",
+      "admin_region": "경상북도",
       "locality": "안동시 도산면 도산서원길 154",
       "type": [
         "서원",
@@ -9271,6 +9409,7 @@
       "name_ko": "영주 소수서원",
       "aliases": [],
       "region": "경상북도",
+      "admin_region": "경상북도",
       "locality": "영주시 순흥면 소백로 2740",
       "type": [
         "서원",
@@ -9342,6 +9481,7 @@
       "name_ko": "병산서원",
       "aliases": [],
       "region": "경상북도",
+      "admin_region": "경상북도",
       "locality": "안동시 풍천면 병산길 386",
       "type": [
         "서원",
@@ -9413,6 +9553,7 @@
       "name_ko": "국립백두대간수목원",
       "aliases": [],
       "region": "경상북도",
+      "admin_region": "경상북도",
       "locality": "봉화군 춘양면",
       "type": [
         "수목원",
@@ -9478,6 +9619,7 @@
       "name_ko": "문경새재도립공원",
       "aliases": [],
       "region": "경상북도",
+      "admin_region": "경상북도",
       "locality": "문경시 문경읍 새재로 일대",
       "type": [
         "옛길",
@@ -9533,6 +9675,7 @@
       "name_ko": "국립경주박물관",
       "aliases": [],
       "region": "경상북도",
+      "admin_region": "경상북도",
       "locality": "경주시 일정로 186",
       "type": [
         "박물관",
@@ -9588,6 +9731,7 @@
       "name_ko": "고령 지산동 고분군",
       "aliases": [],
       "region": "경상북도",
+      "admin_region": "경상북도",
       "locality": "고령군 대가야읍 지산리 산23-1",
       "type": [
         "고분",
@@ -9642,6 +9786,7 @@
       "name_ko": "주왕산국립공원",
       "aliases": [],
       "region": "경상북도",
+      "admin_region": "경상북도",
       "locality": "청송군 주왕산면 공원길 169-7 일대",
       "type": [
         "산",
@@ -9698,6 +9843,7 @@
       "name_ko": "안동 봉정사",
       "aliases": [],
       "region": "경상북도",
+      "admin_region": "경상북도",
       "locality": "안동시 서후면 봉정사길 222",
       "type": [
         "사찰",
@@ -9752,6 +9898,7 @@
       "name_ko": "울진 성류굴",
       "aliases": [],
       "region": "경상북도",
+      "admin_region": "경상북도",
       "locality": "울진군 근남면 성류굴로 221",
       "type": [
         "석회동굴",
@@ -9806,6 +9953,7 @@
       "name_ko": "진주성",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "진주시 남강로 626",
       "type": [
         "성곽",
@@ -9861,6 +10009,7 @@
       "name_ko": "합천 해인사",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "합천군 가야면 해인사길 122",
       "type": [
         "사찰",
@@ -9915,6 +10064,7 @@
       "name_ko": "양산 통도사",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "양산시 하북면 통도사로 108",
       "type": [
         "사찰",
@@ -9969,6 +10119,7 @@
       "name_ko": "창녕 우포늪",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "창녕군 유어면 우포늪길 220 일대",
       "type": [
         "습지",
@@ -10034,6 +10185,7 @@
       "name_ko": "황매산군립공원",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "합천군 가회면 황매산공원길 331 일대",
       "type": [
         "산",
@@ -10088,6 +10240,7 @@
       "name_ko": "국립김해박물관",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "김해시 가야의길 190",
       "type": [
         "박물관",
@@ -10143,6 +10296,7 @@
       "name_ko": "고성 상족암군립공원",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "고성군 하이면 덕명5길 42-23 일대",
       "type": [
         "해안",
@@ -10210,6 +10364,7 @@
       "name_ko": "함안 말이산 고분군",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "함안군 가야읍 본동길 114 일대",
       "type": [
         "고분",
@@ -10264,6 +10419,7 @@
       "name_ko": "하동 쌍계사",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "하동군 화개면 쌍계사길 59",
       "type": [
         "사찰",
@@ -10319,6 +10475,7 @@
       "name_ko": "거창 항노화힐링랜드",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "거창군 가조면 의상봉길 834",
       "type": [
         "숲",
@@ -10386,6 +10543,7 @@
       "name_ko": "화순 운주사",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "화순군 도암면 천태로 91-44",
       "type": [
         "사찰",
@@ -10442,6 +10600,7 @@
       "name_ko": "순천 선암사",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "순천시 승주읍 선암사길 450",
       "type": [
         "사찰",
@@ -10498,6 +10657,7 @@
       "name_ko": "순천 낙안읍성",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "순천시 낙안면 충민길 30",
       "type": [
         "읍성",
@@ -10560,6 +10720,7 @@
       "name_ko": "강진 다산초당",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "강진군 도암면 다산초당길 68-35",
       "type": [
         "역사유적",
@@ -10616,6 +10777,7 @@
       "name_ko": "완도수목원",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "완도군 군외면 초평1길 156",
       "type": [
         "수목원",
@@ -10672,6 +10834,7 @@
       "name_ko": "곡성 섬진강기차마을",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "곡성군 오곡면 기차마을로 232",
       "type": [
         "철도",
@@ -10728,6 +10891,7 @@
       "name_ko": "해남 대흥사",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "해남군 삼산면 대흥사길 400",
       "type": [
         "사찰",
@@ -10784,6 +10948,7 @@
       "name_ko": "국립나주박물관",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "나주시 반남면 고분로 747",
       "type": [
         "박물관",
@@ -10851,6 +11016,7 @@
       "name_ko": "해남공룡박물관",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "해남군 황산면 공룡박물관길 234",
       "type": [
         "박물관",
@@ -10907,6 +11073,7 @@
       "name_ko": "현충사",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "아산시 염치읍 현충사길 126",
       "type": [
         "사당",
@@ -10959,6 +11126,7 @@
       "name_ko": "서산 해미읍성",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "서산시 해미면 남문2로 143",
       "type": [
         "읍성",
@@ -11011,6 +11179,7 @@
       "name_ko": "천리포수목원",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "태안군 소원면",
       "type": [
         "수목원",
@@ -11063,6 +11232,7 @@
       "name_ko": "독립기념관",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "천안시 동남구 목천읍 독립기념관로 1",
       "type": [
         "박물관",
@@ -11115,6 +11285,7 @@
       "name_ko": "청풍문화재단지",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "제천시 청풍면 청풍호로 2048",
       "type": [
         "야외박물관",
@@ -11167,6 +11338,7 @@
       "name_ko": "산막이옛길",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "괴산군 칠성면 외사리",
       "type": [
         "걷기",
@@ -11219,6 +11391,7 @@
       "name_ko": "진천 농다리",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "진천군",
       "type": [
         "석교",
@@ -11271,6 +11444,7 @@
       "name_ko": "충주 중앙탑사적공원",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "충주시 중앙탑면 탑정안길 6",
       "type": [
         "석탑",
@@ -11323,6 +11497,7 @@
       "name_ko": "한국만화박물관",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "부천시 원미구 길주로 1",
       "type": [
         "박물관",
@@ -11375,6 +11550,7 @@
       "name_ko": "국립수목원",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "포천시 소흘읍 광릉수목원로 509",
       "type": [
         "수목원",
@@ -11436,6 +11612,7 @@
       "name_ko": "오두산통일전망대",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "파주시 탄현면 필승로 369",
       "type": [
         "전망대",
@@ -11508,6 +11685,7 @@
       "name_ko": "시흥갯골생태공원",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "시흥시 동서로 287",
       "type": [
         "습지",
@@ -11560,6 +11738,7 @@
       "name_ko": "강촌레일파크 김유정레일바이크",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "춘천시 김유정역 일대",
       "type": [
         "레일바이크",
@@ -11612,6 +11791,7 @@
       "name_ko": "삼양라운드힐",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "평창군 대관령면 꽃밭양지길 708-9",
       "type": [
         "목장",
@@ -11664,6 +11844,7 @@
       "name_ko": "삼탄아트마인",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "정선군 고한읍 함백산 자락",
       "type": [
         "산업유산",
@@ -11716,6 +11897,7 @@
       "name_ko": "발왕산",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "평창군 대관령면 올림픽로 715 케이블카 출발지",
       "type": [
         "산악전망",
@@ -11768,6 +11950,7 @@
       "name_ko": "정선아리랑시장",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "정선군 정선읍 5일장길 36",
       "type": [
         "전통시장",
@@ -11820,6 +12003,7 @@
       "name_ko": "태안 신두리 해안사구",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "태안군 원북면 신두리",
       "type": [
         "해안사구",
@@ -11872,6 +12056,7 @@
       "name_ko": "국립항공박물관",
       "aliases": [],
       "region": "서울특별시",
+      "admin_region": "서울특별시",
       "locality": "강서구 하늘길 177",
       "type": [
         "박물관",
@@ -11924,6 +12109,7 @@
       "name_ko": "대한민국역사박물관",
       "aliases": [],
       "region": "서울특별시",
+      "admin_region": "서울특별시",
       "locality": "종로구 세종대로 198",
       "type": [
         "박물관",
@@ -11987,6 +12173,7 @@
       "name_ko": "장항송림산림욕장",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "서천군 장항읍 송림리 산65",
       "type": [
         "해안숲",
@@ -12039,6 +12226,7 @@
       "name_ko": "문헌서원",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "서천군 기산면 서원로172번길 66",
       "type": [
         "서원",
@@ -12091,6 +12279,7 @@
       "name_ko": "국립해양생물자원관 씨큐리움",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "서천군 장항읍 장산로101번길 75",
       "type": [
         "박물관",
@@ -12165,6 +12354,7 @@
       "name_ko": "천장호 출렁다리",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "청양군 정산면 천장리",
       "type": [
         "호수",
@@ -12217,6 +12407,7 @@
       "name_ko": "고운식물원",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "청양군 청양읍 식물원길 398-23",
       "type": [
         "식물원",
@@ -12269,6 +12460,7 @@
       "name_ko": "장곡사",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "청양군 칠갑산 남쪽 기슭",
       "type": [
         "사찰",
@@ -12321,6 +12513,7 @@
       "name_ko": "모덕사",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "청양군",
       "type": [
         "사당",
@@ -12373,6 +12566,7 @@
       "name_ko": "간월암",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "서산시 부석면 간월도1길 119-29",
       "type": [
         "해안암자",
@@ -12425,6 +12619,7 @@
       "name_ko": "서산 용현리 마애여래삼존상",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "서산시 운산면 용현리",
       "type": [
         "불교유산",
@@ -12477,6 +12672,7 @@
       "name_ko": "사계고택",
       "aliases": [],
       "region": "충청남도",
+      "admin_region": "충청남도",
       "locality": "계룡시 두마면 사계로 122-4",
       "type": [
         "고택",
@@ -12529,6 +12725,7 @@
       "name_ko": "영국사",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "영동군 양산면 영국동길 225-35",
       "type": [
         "사찰",
@@ -12581,6 +12778,7 @@
       "name_ko": "영동와인터널",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "영동군 영동읍 영동힐링로 30",
       "type": [
         "테마전시",
@@ -12633,6 +12831,7 @@
       "name_ko": "부소담악",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "옥천군 군북면 부소무늬마을",
       "type": [
         "호수",
@@ -12685,6 +12884,7 @@
       "name_ko": "정지용문학관",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "옥천군 옥천읍",
       "type": [
         "문학관",
@@ -12737,6 +12937,7 @@
       "name_ko": "벨포레",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "증평군 도안면 벨포레길 일대",
       "type": [
         "목장",
@@ -12789,6 +12990,7 @@
       "name_ko": "좌구산자연휴양림",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "증평군 증평읍 솟점말길 107",
       "type": [
         "휴양림",
@@ -12852,6 +13054,7 @@
       "name_ko": "한독의약박물관",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "음성군 대소면 대풍산단로 78",
       "type": [
         "박물관",
@@ -12914,6 +13117,7 @@
       "name_ko": "진천종박물관",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "진천군",
       "type": [
         "박물관",
@@ -12976,6 +13180,7 @@
       "name_ko": "충주고구려비전시관",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "충주시 중앙탑면 감노로 2319",
       "type": [
         "역사전시",
@@ -13028,6 +13233,7 @@
       "name_ko": "보은 삼년산성",
       "aliases": [],
       "region": "충청북도",
+      "admin_region": "충청북도",
       "locality": "보은군 보은읍 성주1길 104",
       "type": [
         "산성",
@@ -13090,6 +13296,7 @@
       "name_ko": "화진포",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "고성군 거진읍·현내면 화진포 일대",
       "type": [
         "호수",
@@ -13143,6 +13350,7 @@
       "name_ko": "고성 왕곡마을",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "고성군 죽왕면",
       "type": [
         "전통마을",
@@ -13195,6 +13403,7 @@
       "name_ko": "고석정국민관광지",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "철원군 한탄강 중류",
       "type": [
         "협곡",
@@ -13248,6 +13457,7 @@
       "name_ko": "철원 한탄강 주상절리길",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "철원군 순담·드르니 게이트 사이",
       "type": [
         "잔도",
@@ -13300,6 +13510,7 @@
       "name_ko": "박수근미술관",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "양구군 양구읍 정림리",
       "type": [
         "미술관",
@@ -13352,6 +13563,7 @@
       "name_ko": "양구수목원",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "양구군 동면 숨골로310번길 131",
       "type": [
         "수목원",
@@ -13404,6 +13616,7 @@
       "name_ko": "화천 산소길",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "화천군 북한강 일대",
       "type": [
         "수변길",
@@ -13467,6 +13680,7 @@
       "name_ko": "원대리 자작나무숲",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "인제군 인제읍 원대리",
       "type": [
         "숲",
@@ -13519,6 +13733,7 @@
       "name_ko": "백담사",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "인제군 북면 내설악 백담계곡",
       "type": [
         "사찰",
@@ -13583,6 +13798,7 @@
       "name_ko": "수타사",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "홍천군 공작산 자락",
       "type": [
         "사찰",
@@ -13645,6 +13861,7 @@
       "name_ko": "풍수원성당",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "횡성군 서원면 경강로유현1길 30",
       "type": [
         "성당",
@@ -13697,6 +13914,7 @@
       "name_ko": "청령포",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "영월군 청령포 일대",
       "type": [
         "역사유적",
@@ -13749,6 +13967,7 @@
       "name_ko": "고씨굴",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "영월군 김삿갓면 영월동로 1117",
       "type": [
         "석회동굴",
@@ -13801,6 +14020,7 @@
       "name_ko": "검룡소",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "태백시",
       "type": [
         "발원지",
@@ -13864,6 +14084,7 @@
       "name_ko": "무릉계곡",
       "aliases": [],
       "region": "강원특별자치도",
+      "admin_region": "강원특별자치도",
       "locality": "동해시 삼화로 538 일대",
       "type": [
         "계곡",
@@ -13929,6 +14150,7 @@
         "여주 신륵사"
       ],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "여주시 신륵사길 73",
       "type": [
         "사찰",
@@ -13985,6 +14207,7 @@
         "이천 설봉공원"
       ],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "이천시 경충대로2709번길 128",
       "type": [
         "공원",
@@ -14042,6 +14265,7 @@
         "회암사지박물관"
       ],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "양주시 회암사길 11",
       "type": [
         "박물관",
@@ -14106,6 +14330,7 @@
       "name_ko": "안성팜랜드",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "안성시 공도읍 대신두길 28",
       "type": [
         "체험목장",
@@ -14162,6 +14387,7 @@
         "김포 애기봉평화생태공원"
       ],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "김포시 하성면 가금리 193-7",
       "type": [
         "평화관광",
@@ -14238,6 +14464,7 @@
         "연천 재인폭포"
       ],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "연천군 연천읍 부곡리 192",
       "type": [
         "폭포",
@@ -14296,6 +14523,7 @@
         "소요산국민관광지"
       ],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "동두천시 소요동 일대",
       "type": [
         "산",
@@ -14363,6 +14591,7 @@
         "안산 대부해솔길"
       ],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "안산시 단원구 대부도 일대",
       "type": [
         "해안길",
@@ -14419,6 +14648,7 @@
         "화성 제부도"
       ],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "화성시 서신면 제부리 일대",
       "type": [
         "섬",
@@ -14487,6 +14717,7 @@
         "가평 쁘띠프랑스"
       ],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "가평군 청평면 호반로 1063",
       "type": [
         "테마마을",
@@ -14561,6 +14792,7 @@
         "포천 허브아일랜드"
       ],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "포천시 신북면 청신로947번길 35",
       "type": [
         "테마정원",
@@ -14635,6 +14867,7 @@
       "name_ko": "의왕레일파크",
       "aliases": [],
       "region": "경기도",
+      "admin_region": "경기도",
       "locality": "의왕시 왕송못동로 209",
       "type": [
         "레일바이크",
@@ -14701,6 +14934,7 @@
         "인천 소래습지생태공원"
       ],
       "region": "인천광역시",
+      "admin_region": "인천광역시",
       "locality": "남동구 소래로154번길 77",
       "type": [
         "습지",
@@ -14768,6 +15002,7 @@
         "영종 씨사이드레일바이크"
       ],
       "region": "인천광역시",
+      "admin_region": "인천광역시",
       "locality": "영종구 구읍로 75",
       "type": [
         "레일바이크",
@@ -14846,6 +15081,7 @@
         "영흥도 십리포해수욕장"
       ],
       "region": "인천광역시",
+      "admin_region": "인천광역시",
       "locality": "옹진군 영흥면 영흥북로 420-26",
       "type": [
         "해변",
@@ -14902,6 +15138,7 @@
       "name_ko": "김제 금산사",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "김제시 금산면 모악15길 1",
       "type": [
         "사찰",
@@ -14957,6 +15194,7 @@
       "name_ko": "진안 마이산도립공원",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "진안군 진안읍 마이산로 130 일대",
       "type": [
         "산",
@@ -15012,6 +15250,7 @@
       "name_ko": "무주 태권도원",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "무주군 설천면 무설로 1482",
       "type": [
         "체험",
@@ -15068,6 +15307,7 @@
       "name_ko": "무주 반디랜드",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "무주군 설천면 무설로 1324",
       "type": [
         "생태",
@@ -15135,6 +15375,7 @@
       "name_ko": "임실치즈테마파크",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "임실군 성수면 도인2길 50",
       "type": [
         "먹거리체험",
@@ -15190,6 +15431,7 @@
       "name_ko": "익산 미륵사지",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "익산시 금마면 미륵사지로 362",
       "type": [
         "고대유적",
@@ -15245,6 +15487,7 @@
       "name_ko": "순창 강천산군립공원",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "순창군 팔덕면",
       "type": [
         "산",
@@ -15311,6 +15554,7 @@
       "name_ko": "장수 장안산군립공원",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "장수군 계남면 장안리 일대",
       "type": [
         "산",
@@ -15366,6 +15610,7 @@
       "name_ko": "대아수목원",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "완주군 동상면 대아수목로 94-34",
       "type": [
         "수목원",
@@ -15421,6 +15666,7 @@
       "name_ko": "내장산국립공원 정읍권",
       "aliases": [],
       "region": "전북특별자치도",
+      "admin_region": "전북특별자치도",
       "locality": "정읍시 내장동 일대",
       "type": [
         "국립공원",
@@ -15476,6 +15722,7 @@
       "name_ko": "국립5·18민주묘지",
       "aliases": [],
       "region": "광주광역시",
+      "admin_region": "광주광역시",
       "locality": "북구 민주로 200",
       "type": [
         "추모",
@@ -15531,6 +15778,7 @@
       "name_ko": "5·18민주화운동기록관",
       "aliases": [],
       "region": "광주광역시",
+      "admin_region": "광주광역시",
       "locality": "동구 금남로 221",
       "type": [
         "기록관",
@@ -15586,6 +15834,7 @@
       "name_ko": "광주시립미술관",
       "aliases": [],
       "region": "광주광역시",
+      "admin_region": "광주광역시",
       "locality": "북구 하서로 52",
       "type": [
         "미술관"
@@ -15640,6 +15889,7 @@
       "name_ko": "광주역사민속박물관",
       "aliases": [],
       "region": "광주광역시",
+      "admin_region": "광주광역시",
       "locality": "북구 서하로 48-25",
       "type": [
         "박물관",
@@ -15695,6 +15945,7 @@
       "name_ko": "광주호 호수생태원",
       "aliases": [],
       "region": "광주광역시",
+      "admin_region": "광주광역시",
       "locality": "북구 충효동 905",
       "type": [
         "습지",
@@ -15761,6 +16012,7 @@
       "name_ko": "1913송정역시장",
       "aliases": [],
       "region": "광주광역시",
+      "admin_region": "광주광역시",
       "locality": "광산구 송정로8번길 13",
       "type": [
         "전통시장",
@@ -15816,6 +16068,7 @@
       "name_ko": "광주 예술의 거리",
       "aliases": [],
       "region": "광주광역시",
+      "admin_region": "광주광역시",
       "locality": "동구 예술길 24 일대",
       "type": [
         "예술거리",
@@ -15871,6 +16124,7 @@
       "name_ko": "국립광주과학관",
       "aliases": [],
       "region": "광주광역시",
+      "admin_region": "광주광역시",
       "locality": "북구 첨단과기로 235",
       "type": [
         "과학관",
@@ -15926,6 +16180,7 @@
       "name_ko": "울산대공원",
       "aliases": [],
       "region": "울산광역시",
+      "admin_region": "울산광역시",
       "locality": "남구 대공원로 94",
       "type": [
         "도시공원",
@@ -15981,6 +16236,7 @@
       "name_ko": "서생포왜성",
       "aliases": [],
       "region": "울산광역시",
+      "admin_region": "울산광역시",
       "locality": "울주군 서생면 서생리 711",
       "type": [
         "성곽",
@@ -16036,6 +16292,7 @@
       "name_ko": "울산 석남사",
       "aliases": [],
       "region": "울산광역시",
+      "admin_region": "울산광역시",
       "locality": "울주군 상북면 석남로 557",
       "type": [
         "사찰",
@@ -16091,6 +16348,7 @@
       "name_ko": "주전몽돌해변",
       "aliases": [],
       "region": "울산광역시",
+      "admin_region": "울산광역시",
       "locality": "동구 주전동",
       "type": [
         "해안",
@@ -16146,6 +16404,7 @@
       "name_ko": "신불산군립공원",
       "aliases": [],
       "region": "울산광역시",
+      "admin_region": "울산광역시",
       "locality": "울주군 상북면·삼남읍 일대",
       "type": [
         "산",
@@ -16202,6 +16461,7 @@
       "name_ko": "울산대교 전망대",
       "aliases": [],
       "region": "울산광역시",
+      "admin_region": "울산광역시",
       "locality": "동구 봉수로 155-1",
       "type": [
         "전망대",
@@ -16257,6 +16517,7 @@
       "name_ko": "진하해수욕장",
       "aliases": [],
       "region": "울산광역시",
+      "admin_region": "울산광역시",
       "locality": "울주군 서생면 진하해변길 77 일대",
       "type": [
         "해변",
@@ -16312,6 +16573,7 @@
       "name_ko": "주남저수지",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "창원시 의창구 동읍",
       "type": [
         "습지",
@@ -16367,6 +16629,7 @@
       "name_ko": "여좌천",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "창원시 진해구 여좌동",
       "type": [
         "하천",
@@ -16422,6 +16685,7 @@
       "name_ko": "밀양 영남루",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "밀양시 중앙로 324",
       "type": [
         "누각",
@@ -16477,6 +16741,7 @@
       "name_ko": "함양 상림",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "함양군 함양읍 필봉산길 49",
       "type": [
         "숲",
@@ -16542,6 +16807,7 @@
       "name_ko": "산청 동의보감촌",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "산청군 금서면 동의보감로555번길 45-6",
       "type": [
         "전시",
@@ -16598,6 +16864,7 @@
       "name_ko": "하동 최참판댁",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "하동군 악양면 평사리길 66-7",
       "type": [
         "문학",
@@ -16654,6 +16921,7 @@
       "name_ko": "사천바다케이블카",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "사천시 사천대로 18",
       "type": [
         "케이블카",
@@ -16709,6 +16977,7 @@
       "name_ko": "창녕 교동과 송현동 고분군",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "창녕군 창녕읍 창밀로 34 일대",
       "type": [
         "고분",
@@ -16764,6 +17033,7 @@
       "name_ko": "의령 충익사",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "의령군 의령읍 충익로 1",
       "type": [
         "사당",
@@ -16829,6 +17099,7 @@
       "name_ko": "거창 수승대",
       "aliases": [],
       "region": "경상남도",
+      "admin_region": "경상남도",
       "locality": "거창군 위천면 은하리길 2",
       "type": [
         "계곡",
@@ -16895,6 +17166,7 @@
       "name_ko": "진도 운림산방",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "진도군 의신면 운림산방로 315",
       "type": [
         "회화",
@@ -16951,6 +17223,7 @@
       "name_ko": "영광 백수해안도로",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "영광군 백수읍 해안로 일대",
       "type": [
         "해안도로",
@@ -17006,6 +17279,7 @@
       "name_ko": "나로우주센터 우주과학관",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "고흥군 봉래면 하반로 490",
       "type": [
         "과학관",
@@ -17061,6 +17335,7 @@
       "name_ko": "함평엑스포공원",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "함평군 함평읍 곤재로 27",
       "type": [
         "생태공원",
@@ -17116,6 +17391,7 @@
       "name_ko": "무안 회산백련지",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "무안군 일로읍 백련로 333",
       "type": [
         "연못",
@@ -17172,6 +17448,7 @@
       "name_ko": "월출산국립공원",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "영암군 영암읍 천황사로 280-43 일대",
       "type": [
         "산",
@@ -17228,6 +17505,7 @@
       "name_ko": "광양 매화마을",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "광양시 다압면 섬진마을 일대",
       "type": [
         "꽃마을",
@@ -17293,6 +17571,7 @@
       "name_ko": "정남진 편백숲 우드랜드",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "장흥군 장흥읍 우드랜드길 180",
       "type": [
         "숲",
@@ -17348,6 +17627,7 @@
       "name_ko": "반월도·박지도 퍼플섬",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "신안군 안좌면 반월도·박지도",
       "type": [
         "섬",
@@ -17404,6 +17684,7 @@
       "name_ko": "장성 필암서원",
       "aliases": [],
       "region": "전라남도",
+      "admin_region": "전라남도",
       "locality": "장성군 황룡면 필암서원로 184",
       "type": [
         "서원",
@@ -17459,6 +17740,7 @@
       "name_ko": "대구 방짜유기박물관",
       "aliases": [],
       "region": "대구광역시",
+      "admin_region": "대구광역시",
       "locality": "동구 도장길 29",
       "type": [
         "박물관",
@@ -17514,6 +17796,7 @@
       "name_ko": "대구 대견사",
       "aliases": [],
       "region": "대구광역시",
+      "admin_region": "대구광역시",
       "locality": "달성군 유가읍 일연선사길 177",
       "type": [
         "사찰",
@@ -17569,6 +17852,7 @@
       "name_ko": "을숙도 철새공원·낙동강하구에코센터",
       "aliases": [],
       "region": "부산광역시",
+      "admin_region": "부산광역시",
       "locality": "사하구 낙동남로 1240",
       "type": [
         "습지",
@@ -17635,6 +17919,7 @@
       "name_ko": "재한유엔기념공원",
       "aliases": [],
       "region": "부산광역시",
+      "admin_region": "부산광역시",
       "locality": "남구 유엔평화로 93",
       "type": [
         "추모",
@@ -17690,6 +17975,7 @@
       "name_ko": "영덕풍력발전단지",
       "aliases": [],
       "region": "경상북도",
+      "admin_region": "경상북도",
       "locality": "영덕군 영덕읍 창포리 산70 일대",
       "type": [
         "산업경관",
@@ -17744,6 +18030,7 @@
       "id": "kr-seoul-seongsu-overview",
       "name_ko": "성수동",
       "region": "01_서울",
+      "admin_region": "서울특별시",
       "locality": "서울 성동구 성수동 일대",
       "type": [
         "골목",
@@ -17838,6 +18125,7 @@
       "id": "kr-gyeonggi-morning-calm-garden",
       "name_ko": "아침고요수목원",
       "region": "02_인천경기",
+      "admin_region": "경기도",
       "locality": "경기 가평군 상면 수목원로 432",
       "type": [
         "수목원",
@@ -17926,6 +18214,7 @@
       "id": "kr-gyeonggi-imjingak-dmz-overview",
       "name_ko": "임진각·DMZ",
       "region": "02_인천경기",
+      "admin_region": "경기도",
       "locality": "경기 파주시 임진각 및 DMZ 평화관광 권역",
       "type": [
         "역사",
@@ -18027,6 +18316,7 @@
       "id": "kr-gangwon-namiseom",
       "name_ko": "남이섬",
       "region": "03_강원",
+      "admin_region": "강원특별자치도",
       "locality": "강원 춘천시 남산면 남이섬길 1; 주요 선착장은 경기 가평",
       "type": [
         "섬",
@@ -18108,6 +18398,7 @@
       "id": "kr-gangwon-sokcho-overview",
       "name_ko": "속초",
       "region": "03_강원",
+      "admin_region": "강원특별자치도",
       "locality": "강원 속초시 청초호·아바이마을·영랑호 일대",
       "type": [
         "도시여행",
@@ -18215,6 +18506,7 @@
       "id": "kr-daejeon-overview",
       "name_ko": "대전",
       "region": "04_충청",
+      "admin_region": "대전광역시",
       "locality": "대전 원도심·엑스포과학공원·장태산 권역",
       "type": [
         "도시여행",
@@ -18326,6 +18618,7 @@
       "id": "kr-chungnam-anmyeondo-overview",
       "name_ko": "태안 안면도",
       "region": "04_충청",
+      "admin_region": "충청남도",
       "locality": "충남 태안군 안면읍 꽃지해변·안면도자연휴양림",
       "type": [
         "섬권역",
@@ -18428,6 +18721,7 @@
       "id": "kr-jeonnam-suncheon-bay-garden-overview",
       "name_ko": "순천만습지·국가정원",
       "region": "05_전라",
+      "admin_region": "전라남도",
       "locality": "순천시 순천만습지·순천만국가정원",
       "type": [
         "습지",
@@ -18549,6 +18843,7 @@
       "id": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
       "name_ko": "경주 대릉원·동궁과 월지",
       "region": "06_경북대구",
+      "admin_region": "경상북도",
       "locality": "경북 경주시 황남동 대릉원·원화로 102 동궁과 월지",
       "type": [
         "고분",
@@ -18651,6 +18946,7 @@
       "id": "kr-gyeongbuk-ulleung-dokdo-overview",
       "name_ko": "울릉도·독도",
       "region": "06_경북대구",
+      "admin_region": "경상북도",
       "locality": "경북 울릉군 울릉도와 독도",
       "type": [
         "섬권역",
@@ -18760,6 +19056,7 @@
       "id": "kr-busan-gwangalli-bridge-overview",
       "name_ko": "광안리·광안대교",
       "region": "07_경남부산울산",
+      "admin_region": "부산광역시",
       "locality": "부산 수영구 광안해변로 일대",
       "type": [
         "해변",
@@ -18886,6 +19183,7 @@
       "id": "kr-busan-taejongdae",
       "name_ko": "태종대",
       "region": "07_경남부산울산",
+      "admin_region": "부산광역시",
       "locality": "부산 영도구 전망로 24",
       "type": [
         "해안절벽",
@@ -18967,6 +19265,7 @@
       "id": "kr-seoul-hangang-parks-reference",
       "name_ko": "한강공원",
       "region": "서울",
+      "admin_region": "서울특별시",
       "locality": "서울 한강변 공원권; 이번 상세 검증은 반포권",
       "type": [
         "수변",
@@ -19055,6 +19354,7 @@
       "id": "kr-gyeonggi-everland",
       "name_ko": "에버랜드",
       "region": "인천경기",
+      "admin_region": "경기도",
       "locality": "경기 용인시 처인구 포곡읍 에버랜드로 199",
       "type": [
         "테마파크",
@@ -19141,6 +19441,7 @@
       "id": "kr-gyeonggi-korean-folk-village",
       "name_ko": "한국민속촌",
       "region": "인천경기",
+      "admin_region": "경기도",
       "locality": "경기 용인시 기흥구 민속촌로 90",
       "type": [
         "전통문화",
@@ -19240,6 +19541,7 @@
       "id": "kr-gangwon-daegwallyeong-yangtte-ranch",
       "name_ko": "대관령 양떼목장",
       "region": "강원",
+      "admin_region": "강원특별자치도",
       "locality": "강원 평창군 대관령면 대관령마루길 483-32",
       "type": [
         "목장",
@@ -19320,6 +19622,7 @@
       "id": "kr-chungnam-baekje-gongju-buyeo-reference",
       "name_ko": "공주·부여 백제역사유적지구",
       "region": "충청",
+      "admin_region": "충청남도",
       "locality": "충남 공주시·부여군; 세계유산 전체는 익산까지 포함",
       "type": [
         "세계유산",
@@ -19399,6 +19702,7 @@
       "id": "kr-chungnam-daecheon-beach",
       "name_ko": "보령 대천해수욕장",
       "region": "충청",
+      "admin_region": "충청남도",
       "locality": "충남 보령시 머드로 123 일대",
       "type": [
         "해변",
@@ -19479,6 +19783,7 @@
       "id": "kr-jeolla-damyang-reference",
       "name_ko": "담양",
       "region": "전라",
+      "admin_region": "전라남도",
       "locality": "전라 편집권역 담양군: 담양읍·가사문학면",
       "type": [
         "대나무숲",
@@ -19568,6 +19873,7 @@
       "id": "kr-jeolla-yeosu-reference",
       "name_ko": "여수",
       "region": "전라",
+      "admin_region": "전라남도",
       "locality": "여수시 오동도·돌산권",
       "type": [
         "해양",
@@ -19669,6 +19975,7 @@
       "id": "kr-daegu-modern-alleys-kim-reference",
       "name_ko": "대구 근대골목·김광석길",
       "region": "경북대구",
+      "admin_region": "대구광역시",
       "locality": "대구 중구 근대골목·대봉동 방천시장 주변",
       "type": [
         "도시산책",
@@ -19759,6 +20066,7 @@
       "id": "kr-gyeongbuk-pohang-homigot",
       "name_ko": "포항 호미곶",
       "region": "경북대구",
+      "admin_region": "경상북도",
       "locality": "경북 포항시 남구 호미곶면 해맞이광장 일대",
       "type": [
         "일출",
@@ -19837,6 +20145,7 @@
       "id": "kr-gyeongnam-namhae-reference",
       "name_ko": "남해",
       "region": "경남부산울산",
+      "admin_region": "경상남도",
       "locality": "경남 남해군 남면·삼동면 등",
       "type": [
         "섬",
@@ -19927,6 +20236,7 @@
       "id": "kr-gyeongnam-tongyeong-reference",
       "name_ko": "통영",
       "region": "경남부산울산",
+      "admin_region": "경상남도",
       "locality": "경남 통영시 동호동·도남동",
       "type": [
         "벽화",
@@ -20017,6 +20327,7 @@
       "id": "kr-incheon-ganghwa-parent",
       "name_ko": "강화도",
       "region": "인천",
+      "admin_region": "인천광역시",
       "locality": "강화군 강화도 및 주변 관광권",
       "type": [
         "부모관광권",
@@ -20094,6 +20405,7 @@
       "id": "kr-incheon-chinatown-open-port-parent",
       "name_ko": "인천 차이나타운·개항장",
       "region": "인천",
+      "admin_region": "인천광역시",
       "locality": "인천 제물포구 차이나타운·개항장 일대",
       "type": [
         "부모관광권",
@@ -20159,6 +20471,7 @@
       "id": "kr-gangwon-gangneung-gyeongpo-anmok-parent",
       "name_ko": "강릉 경포·안목",
       "region": "강원",
+      "admin_region": "강원특별자치도",
       "locality": "강릉 경포·안목 및 오죽헌 연계권",
       "type": [
         "부모관광권",
@@ -20221,6 +20534,7 @@
       "id": "kr-gangwon-seoraksan-parent",
       "name_ko": "설악산",
       "region": "강원",
+      "admin_region": "강원특별자치도",
       "locality": "설악산 외설악 중심 탐방권",
       "type": [
         "부모관광권",
@@ -20302,6 +20616,7 @@
       "id": "kr-chungbuk-danyang-parent",
       "name_ko": "단양",
       "region": "충북",
+      "admin_region": "충청북도",
       "locality": "단양군 단양읍·적성면 관광권",
       "type": [
         "부모관광권",
@@ -20375,6 +20690,7 @@
       "id": "kr-chungbuk-beopjusa",
       "name_ko": "속리산 법주사",
       "region": "충북",
+      "admin_region": "충청북도",
       "locality": "보은군 속리산면 법주사로 405",
       "type": [
         "사찰",
@@ -20432,6 +20748,7 @@
       "id": "kr-jeonnam-mokpo-parent",
       "name_ko": "목포",
       "region": "전라",
+      "admin_region": "전라남도",
       "locality": "목포시 원도심·유달산·해상 전망권",
       "type": [
         "부모관광권",
@@ -20496,6 +20813,7 @@
       "id": "kr-jeonnam-cheongsando-parent",
       "name_ko": "청산도",
       "region": "전라",
+      "admin_region": "전라남도",
       "locality": "완도군 청산면 청산도",
       "type": [
         "부모관광권",
@@ -20561,6 +20879,7 @@
       "id": "kr-gyeongbuk-andong-hahoe-village",
       "name_ko": "안동 하회마을",
       "region": "경북",
+      "admin_region": "경상북도",
       "locality": "안동시 풍천면 하회리",
       "type": [
         "역사마을",
@@ -20639,6 +20958,7 @@
       "id": "kr-gyeongnam-geoje-parent",
       "name_ko": "거제",
       "region": "경남",
+      "admin_region": "경상남도",
       "locality": "거제시 도장포·외도 등 해안 관광권",
       "type": [
         "부모관광권",
@@ -20711,6 +21031,7 @@
       "id": "kr-busan-haeundae-parent",
       "name_ko": "부산 해운대",
       "region": "부산",
+      "admin_region": "부산광역시",
       "locality": "해운대구 해변·미포 해안 관광권",
       "type": [
         "부모관광권",
