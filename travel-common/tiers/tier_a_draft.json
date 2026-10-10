@@ -1,0 +1,2145 @@
+[
+ {
+  "country": "kr",
+  "name_ko": "경복궁",
+  "name_local": "",
+  "region": "서울특별시",
+  "strength": "strong",
+  "existing_ids": [
+   "kr-seoul-gyeongbokgung"
+  ],
+  "match_by": "name",
+  "signal": "2025 4대궁 중 관람객 1위(약 689만, 외국인 약 40%); 한국관광지500 5위; 2023 주요관광지점 입장객 전국 4위",
+  "evidence": [
+   "https://www.heraldk.com/article/2026010422533901457",
+   "https://know.tour.go.kr/ptourknow/tourgoInfoView19Re.do?seq=103270",
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "kr",
+  "name_ko": "국립중앙박물관",
+  "name_local": "",
+  "region": "서울특별시",
+  "strength": "strong",
+  "existing_ids": [
+   "kr-seoul-national-museum-korea"
+  ],
+  "match_by": "name",
+  "signal": "2025 연간 관람객 약 650.7만으로 개관 이래 최다(2024는 약 379만); 2022 입장객 전국 4위; 한국관광지500 7위; 설연휴 티맵 목적지 5위",
+  "evidence": [
+   "https://www.newsis.com/view/NISX20251017_0003366290",
+   "https://know.tour.go.kr/ptourknow/tourgoInfoView19Re.do?seq=103202",
+   "https://www.heraldk.com/article/2026021417164520974"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "kr",
+  "name_ko": "롯데월드(잠실)",
+  "name_local": "",
+  "region": "서울특별시",
+  "strength": "strong",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "2023 입장객 전국 5위(약 519만), 2022 3위; 한국관광지500 3위; 설연휴 티맵 3위",
+  "evidence": [
+   "https://know.tour.go.kr/ptourknow/tourgoInfoView19Re.do?seq=103270",
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://www.heraldk.com/article/2026021417164520974"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "kr",
+  "name_ko": "에버랜드",
+  "name_local": "",
+  "region": "경기도",
+  "strength": "strong",
+  "existing_ids": [
+   "kr-gyeonggi-everland"
+  ],
+  "match_by": "name",
+  "signal": "2022 입장객 전국 1위 계열, 2023 2위(약 588만); 한국관광지500 4위; 설연휴 티맵 2위",
+  "evidence": [
+   "https://know.tour.go.kr/ptourknow/tourgoInfoView19Re.do?seq=103270",
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://www.heraldk.com/article/2026021417164520974"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "kr",
+  "name_ko": "순천만국가정원·순천만습지",
+  "name_local": "",
+  "region": "전라남도",
+  "strength": "strong",
+  "existing_ids": [
+   "kr-jeonnam-suncheon-bay-garden-overview"
+  ],
+  "match_by": "name",
+  "signal": "2023 주요관광지점 입장객 전국 1위(약 778만); 한국관광지500에서 습지 24위, 국가정원 83위; 한국관광100선 7회 연속",
+  "evidence": [
+   "https://know.tour.go.kr/ptourknow/tourgoInfoView19Re.do?seq=103270",
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://www.heraldk.com/article/2026042021563351997"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "kr",
+  "name_ko": "해운대해수욕장",
+  "name_local": "",
+  "region": "부산광역시",
+  "strength": "strong",
+  "existing_ids": [
+   "kr-busan-haeundae-parent"
+  ],
+  "match_by": "alias",
+  "signal": "한국관광지500 2위; 부산시 이동통신 빅데이터 집계로 2025 8월 말 기준 약 900만, 2026 여름엔 1,000만 돌파(첫 사례)",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://www.koreajoongangdaily.com/korea/busans-haeundae-beach-draws-record-10-million-visitors-during-summer-season/12878423",
+   "https://www.telltrip.com/news/busan-beaches-visitor-record-2025/"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "kr",
+  "name_ko": "광안리해수욕장",
+  "name_local": "",
+  "region": "부산광역시",
+  "strength": "strong",
+  "existing_ids": [
+   "kr-busan-gwangalli-bridge-overview"
+  ],
+  "match_by": "alias",
+  "signal": "한국관광지500 1위; 2025 8월 말 방문객 약 421만으로 부산 해수욕장 2위",
+  "evidence": [
+   "https://www.twig24.com/news/local_bs/2025/11/27/20251127500158",
+   "https://www.telltrip.com/news/busan-beaches-visitor-record-2025/"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "kr",
+  "name_ko": "서울 명동",
+  "name_local": "",
+  "region": "서울특별시",
+  "strength": "strong",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "2025 서울 외국인 일평균 체류 인구 약 10.1만으로 서울 1위; 외래관광객조사 최고 방문지 응답 1위(2024 3분기 16.2%)",
+  "evidence": [
+   "https://www.newsis.com/view/NISX20260721_0003717515"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "kr",
+  "name_ko": "코엑스",
+  "name_local": "",
+  "region": "서울특별시",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "설연휴 티맵 목적지 1위(관광공사 분석); 외국인 유동인구 서울 3위권",
+  "evidence": [
+   "https://www.heraldk.com/article/2026021417164520974",
+   "https://www.newsis.com/view/NISX20260721_0003717515"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "KINTEX",
+  "name_local": "",
+  "region": "경기도",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "2022, 2023 입장객 전국 2~3위권(2023 약 584만); 설연휴 티맵 7위. 순수 관광지가 아닌 전시장이라 성격 확인 필요",
+  "evidence": [
+   "https://know.tour.go.kr/ptourknow/tourgoInfoView19Re.do?seq=103270"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "N서울타워(남산)",
+  "name_local": "",
+  "region": "서울특별시",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-seoul-n-seoul-tower"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 16위; 외국인 일평균 약 5.7만으로 서울 2위",
+  "evidence": [
+   "https://www.newsis.com/view/NISX20260721_0003717515",
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "북촌한옥마을",
+  "name_local": "",
+  "region": "서울특별시",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-seoul-bukchon"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 6위; 동남아 관광객 선호 역사 명소",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://view.asiae.co.kr/article/2026072208260333944"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "덕수궁·창덕궁·창경궁",
+  "name_local": "",
+  "region": "서울특별시",
+  "strength": "strong",
+  "existing_ids": [
+   "kr-seoul-changdeokgung"
+  ],
+  "match_by": "name",
+  "signal": "2025 관람객 각 356만, 222만, 160만; 한국관광지500 9, 12, 15위",
+  "evidence": [
+   "https://www.heraldk.com/article/2026010422533901457",
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "kr",
+  "name_ko": "전주한옥마을",
+  "name_local": "",
+  "region": "전북특별자치도",
+  "strength": "strong",
+  "existing_ids": [
+   "kr-jeonbuk-jeonju-hanok-village"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 8위; 한국관광100선 7회 연속; 이동통신 기반 2023 방문 약 1,536만(전주시 집계 보도); 설연휴 티맵 15위",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://www.telltrip.com/news/jeonju-travel-trend-stay-over-tour-2026/",
+   "https://www.heraldk.com/article/2026021417164520974"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "kr",
+  "name_ko": "성산일출봉",
+  "name_local": "",
+  "region": "제주특별자치도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-jeju-seongsan-ilchulbong"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 10위; 한국관광100선 선정 계열",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://www.twig24.com/news/travel-news/2025/01/20/20250120500203"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "우도",
+  "name_local": "",
+  "region": "제주특별자치도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-jeju-udo"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 11위; 한국관광100선 7회 연속",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://www.twig24.com/news/travel-news/2025/01/20/20250120500203"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "한라산국립공원",
+  "name_local": "",
+  "region": "제주특별자치도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-jeju-hallasan"
+  ],
+  "match_by": "name",
+  "signal": "한국관광100선 7회 연속(보도); 한국관광지500은 221위로 낮음(버즈 기준)",
+  "evidence": [
+   "https://www.twig24.com/news/travel-news/2025/01/20/20250120500203",
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "협재해수욕장",
+  "name_local": "",
+  "region": "제주특별자치도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-jeju-hyeopjae"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 50위",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "섭지코지",
+  "name_local": "",
+  "region": "제주특별자치도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-jeju-seopjikoji"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 58위",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "함덕해수욕장",
+  "name_local": "",
+  "region": "제주특별자치도",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "한국관광지500 75위",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "불국사·석굴암",
+  "name_local": "",
+  "region": "경상북도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-gyeongbuk-bulguksa-seokguram-group"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 불국사 14위, 석굴암 28위; 한국관광100선 2015년부터 6회 연속",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://www.hankyung.com/article/202501210396h"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "경주 대릉원·첨성대·동궁과 월지·황리단길",
+  "name_local": "",
+  "region": "경상북도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-gyeongbuk-gyeongju-tombs-palace-overview"
+  ],
+  "match_by": "name",
+  "signal": "첨성대 한국관광지500 17위, 대릉원 61위; 100선 6회 연속; 경주 외국인 방문 약 36% 증가 보도(출처 불명확)",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://www.hankyung.com/article/202501210396h"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "안동 하회마을",
+  "name_local": "",
+  "region": "경상북도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-gyeongbuk-andong-hahoe-village"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 31위; 100선 7회 중 6회",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://www.hankyung.com/article/202501210396h"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "포항 호미곶·영일대·스페이스워크",
+  "name_local": "",
+  "region": "경상북도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-gyeongbuk-pohang-homigot"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 호미곶 53위, 영일대 54위, 스페이스워크 79위(100선 선정)",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://www.hankyung.com/article/202501210396h"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "남이섬",
+  "name_local": "",
+  "region": "강원특별자치도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-gangwon-namiseom"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 21위, 강원 1위",
+  "evidence": [
+   "https://www.wikitree.co.kr/articles/1100492",
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "설악산국립공원",
+  "name_local": "",
+  "region": "강원특별자치도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-gangwon-seoraksan-parent"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 32위",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "속초해변·속초관광수산시장",
+  "name_local": "",
+  "region": "강원특별자치도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-gangwon-sokcho-overview"
+  ],
+  "match_by": "alias",
+  "signal": "속초해변 설연휴 티맵 8위, 한국관광지500 78위; 2025 티맵 비수도권 방문 1위가 속초관광수산시장(검색 요약 기준)",
+  "evidence": [
+   "https://www.heraldk.com/article/2026021417164520974",
+   "https://news.sktelecom.com/217654"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "정동진·경포대·강문해변(강릉)",
+  "name_local": "",
+  "region": "강원특별자치도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-gangwon-gyeongpodae"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 정동진 30위, 경포대 43위, 강문 80위",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "수원화성",
+  "name_local": "",
+  "region": "경기도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-gyeonggi-suwon-hwaseong"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 18위",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "서울랜드",
+  "name_local": "",
+  "region": "경기도",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "한국관광지500 13위",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "남한산성",
+  "name_local": "",
+  "region": "경기도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-gyeonggi-namhansanseong"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 22위",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "송도센트럴파크",
+  "name_local": "",
+  "region": "인천광역시",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "한국관광지500 25위; 100선 선정",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "http://www.heraldk.com/2025/06/30/%ed%95%9c%ea%b5%ad%ea%b4%80%ea%b4%91-100%ec%84%a0-%eb%b3%b4%eb%8b%88-%eb%aa%bb%ea%b0%80%eb%b3%b8%eb%8d%b0-%eb%a7%8e%ec%9d%80-%ec%9a%b0%eb%a6%ac%eb%82%98%eb%9d%bc-%e2%80%9c%ec%98%ac%ec%97%ac%eb%a6%84"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "개항장·인천 차이나타운",
+  "name_local": "",
+  "region": "인천광역시",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-incheon-chinatown-open-port-parent"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 26위; 100선 선정",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "월미도",
+  "name_local": "",
+  "region": "인천광역시",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-incheon-wolmi-culture-street"
+  ],
+  "match_by": "alias",
+  "signal": "한국관광지500 29위; 설연휴 티맵 9위",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://www.heraldk.com/article/2026021417164520974"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "통도사",
+  "name_local": "",
+  "region": "경상남도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-gyeongnam-tongdosa"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 27위; 100선 선정(양산)",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "진주성",
+  "name_local": "",
+  "region": "경상남도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-gyeongnam-jinjuseong"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 60위; 100선 선정",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "대천해수욕장",
+  "name_local": "",
+  "region": "충청남도",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-chungnam-daecheon-beach"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 51위; 100선 선정",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "태안 꽃지해수욕장",
+  "name_local": "",
+  "region": "충청남도",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "100선 7회 연속(보도); 500 순위 108위",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "충주호(충주)",
+  "name_local": "",
+  "region": "충청북도",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "한국관광지500 47위; 관광공사 데이터랩 2025 뜨는 여행지(충주 외지인 방문 19% 증가)",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://biz.heraldcorp.com/article/10478349"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "서문시장",
+  "name_local": "",
+  "region": "대구광역시",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "한국관광지500 34위; 100선 '서문시장&동성로' 2회 연속",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "해동용궁사",
+  "name_local": "",
+  "region": "부산광역시",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-busan-haedong-yonggungsa"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 81위; 설연휴 티맵 10위",
+  "evidence": [
+   "https://www.heraldk.com/article/2026021417164520974",
+   "https://www.twig24.com/news/local_bs/2025/11/27/20251127500158"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "감천문화마을·자갈치시장·동백섬·송정해수욕장·범어사",
+  "name_local": "",
+  "region": "부산광역시",
+  "strength": "medium",
+  "existing_ids": [
+   "kr-busan-gamcheon-culture-village"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 각 98, 57, 56, 59, 70위",
+  "evidence": [
+   "https://www.twig24.com/news/local_bs/2025/11/27/20251127500158"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "유니버설 스튜디오 재팬",
+  "name_local": "ユニバーサル・スタジオ・ジャパン",
+  "region": "오사카부",
+  "strength": "strong",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "In Trip.com Korean-rating top 5; highest foreign visitation of Japanese attractions; ticket/express pass items top MyRealTrip Osaka list",
+  "evidence": [
+   "https://guidablejobs.jp/contents/how-to-recruit/8125/",
+   "https://www.travie.com/news/articleView.html?idxno=54774"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "jp",
+  "name_ko": "도톤보리",
+  "name_local": "道頓堀",
+  "region": "오사카부",
+  "strength": "strong",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Appears on nearly every Korean-facing Osaka list",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://www.lifepepper.co.jp/korea/korea-inbound-points/",
+   "https://kr.trip.com/blog/japan-travel-destination-recommendation/"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "jp",
+  "name_ko": "오사카성",
+  "name_local": "大阪城",
+  "region": "오사카부",
+  "strength": "medium",
+  "existing_ids": [
+   "central-032"
+  ],
+  "match_by": "name",
+  "signal": "Named in three Korean/Japanese lists",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+   "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "아베노 하루카스 300 전망대",
+  "name_local": "あべのハルカス300",
+  "region": "오사카부",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Listed in MyRealTrip Osaka top products",
+  "evidence": [
+   "https://www.myrealtrip.com/offers/116114"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "도쿄 디즈니랜드",
+  "name_local": "東京ディズニーランド",
+  "region": "지바현",
+  "strength": "strong",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "No.1 in Trip.com Korean ratings; Disney 1-day passport in MyRealTrip Japan top list",
+  "evidence": [
+   "https://guidablejobs.jp/contents/how-to-recruit/8125/",
+   "https://www.myrealtrip.com/"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "jp",
+  "name_ko": "도쿄 디즈니씨",
+  "name_local": "東京ディズニーシー",
+  "region": "지바현",
+  "strength": "strong",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "2nd in Trip.com Korean ratings; Fantasy Springs opened June 2024",
+  "evidence": [
+   "https://guidablejobs.jp/contents/how-to-recruit/8125/",
+   "https://www.myrealtrip.com/"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "jp",
+  "name_ko": "워너브라더스 스튜디오 투어 도쿄(해리포터)",
+  "name_local": "ワーナー ブラザース ス튜디오ツアー東京",
+  "region": "도쿄도",
+  "strength": "strong",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "4th in Trip.com Korean ratings; Harry Potter studio ticket 2nd on MyRealTrip Japan product list",
+  "evidence": [
+   "https://guidablejobs.jp/contents/how-to-recruit/8125/",
+   "https://www.myrealtrip.com/"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "jp",
+  "name_ko": "시부야 스크램블 교차로",
+  "name_local": "渋谷スクランブル交差点",
+  "region": "도쿄도",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Named across Korean lists",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://en.travie.com/news/articleView.html?idxno=188",
+   "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "도쿄 스카이트리",
+  "name_local": "東京スカイツリー",
+  "region": "도쿄도",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "5th in Trip.com Korean ratings",
+  "evidence": [
+   "https://guidablejobs.jp/contents/how-to-recruit/8125/",
+   "https://kr.trip.com/blog/japan-travel-destination-recommendation/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "센소지·아사쿠사",
+  "name_local": "浅草寺",
+  "region": "도쿄도",
+  "strength": "medium",
+  "existing_ids": [
+   "jp-east-sensoji"
+  ],
+  "match_by": "name",
+  "signal": "Appears in Korean and general lists",
+  "evidence": [
+   "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+   "https://wanjeon.tv-aichi.co.jp/277-article/",
+   "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "도쿄 타워",
+  "name_local": "東京タワー",
+  "region": "도쿄도",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Named in three Korean lists",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+   "https://kr.trip.com/blog/japan-travel-destination-recommendation/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "후지산·가와구치코",
+  "name_local": "富士山・河口湖",
+  "region": "야마나시현",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Fuji day-tour products fill 5 of 12 listed Japan products on MyRealTrip page",
+  "evidence": [
+   "https://www.myrealtrip.com/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "후지노미야(후지산 시즈오카측)",
+  "name_local": "富士宮",
+  "region": "시즈오카현",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Klook bookings up 38x",
+  "evidence": [
+   "https://www.segye.com/newsView/20251021500650",
+   "http://www.madclub.co.kr/news/articleView.html?idxno=9383"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "후시미 이나리 타이샤",
+  "name_local": "伏見稲荷大社",
+  "region": "교토부",
+  "strength": "medium",
+  "existing_ids": [
+   "central-027"
+  ],
+  "match_by": "name",
+  "signal": "Top-rated in Tripadvisor (all nationalities); Kyoto highlight",
+  "evidence": [
+   "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+   "https://www.tripadvisor.com/TravelersChoice-ThingsToDo-cTopAttractions-g294232"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "기요미즈데라",
+  "name_local": "清水寺",
+  "region": "교토부",
+  "strength": "medium",
+  "existing_ids": [
+   "central-026"
+  ],
+  "match_by": "name",
+  "signal": "Kyoto highlight on Korean magazine and others",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "아라시야마 대나무숲",
+  "name_local": "嵐山竹林",
+  "region": "교토부",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Kyoto highlight in two Travie articles",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://en.travie.com/news/articleView.html?idxno=188"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "나라 공원(사슴)",
+  "name_local": "奈良公園",
+  "region": "나라현",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Named by several lists",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://wanjeon.tv-aichi.co.jp/277-article/",
+   "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "도다이지",
+  "name_local": "東大寺",
+  "region": "나라현",
+  "strength": "medium",
+  "existing_ids": [
+   "central-035"
+  ],
+  "match_by": "name",
+  "signal": "Nara highlight",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "다자이후 텐만구",
+  "name_local": "太宰府天満宮",
+  "region": "후쿠오카현",
+  "strength": "medium",
+  "existing_ids": [
+   "WEST-026"
+  ],
+  "match_by": "name",
+  "signal": "Named across Travie and all-nationality list",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://en.travie.com/news/articleView.html?idxno=188",
+   "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "나카스 포장마차(야타이)",
+  "name_local": "中洲屋台",
+  "region": "후쿠오카현",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Named in Travie and Wanjeon",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://wanjeon.tv-aichi.co.jp/277-article/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "캐널시티 하카타",
+  "name_local": "キャナルシティ博多",
+  "region": "후쿠오카현",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Trip.com blog and all-nationality list",
+  "evidence": [
+   "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+   "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "유후인 킨린코 호수 일대",
+  "name_local": "由布院 金鱗湖",
+  "region": "오이타현",
+  "strength": "medium",
+  "existing_ids": [
+   "WEST-035"
+  ],
+  "match_by": "name",
+  "signal": "Drama/travel show exposure",
+  "evidence": [
+   "https://wanjeon.tv-aichi.co.jp/277-article/",
+   "https://www.newstravel.co.kr/news/article.html?no=27645"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "구마모토성",
+  "name_local": "熊本城",
+  "region": "구마모토현",
+  "strength": "medium",
+  "existing_ids": [
+   "WEST-032"
+  ],
+  "match_by": "name",
+  "signal": "Korean blog list; Kumamoto Korean growth",
+  "evidence": [
+   "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+   "https://kumanichi.com/articles/1966975"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "도고 온천",
+  "name_local": "道後温泉",
+  "region": "에히메현",
+  "strength": "medium",
+  "existing_ids": [
+   "WEST-021"
+  ],
+  "match_by": "name",
+  "signal": "Honkan reopened fully July 2024; Korean blog list; Korea share 42.4% Ehime",
+  "evidence": [
+   "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+   "https://www.pref.ehime.jp/uploaded/attachment/166549.pdf"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "삿포로 눈축제",
+  "name_local": "さっぽろ雪まつり",
+  "region": "홋카이도",
+  "strength": "strong",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Named across Korean lists",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+   "https://www.easytripcafe.com/%EC%9D%BC%EB%B3%B8-%EA%B4%80%EA%B4%91%EC%A7%80-%EB%B2%A0%EC%8A%A4%ED%8A%B8/"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "jp",
+  "name_ko": "오타루 운하",
+  "name_local": "小樽運河",
+  "region": "홋카이도",
+  "strength": "medium",
+  "existing_ids": [
+   "jp-east-otaru-canal"
+  ],
+  "match_by": "name",
+  "signal": "Several lists",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://wanjeon.tv-aichi.co.jp/277-article/",
+   "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "비에이·후라노 꽃밭",
+  "name_local": "美瑛・富良野",
+  "region": "홋카이도",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Travie and all-nationality list",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "니세코",
+  "name_local": "ニセコ",
+  "region": "홋카이도",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Gen Z Klook survey and Travie",
+  "evidence": [
+   "http://www.madclub.co.kr/news/articleView.html?idxno=9383",
+   "https://www.travie.com/news/articleView.html?idxno=54774"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "오키나와 추라우미 수족관",
+  "name_local": "美ら海水族館",
+  "region": "오키나와현",
+  "strength": "strong",
+  "existing_ids": [
+   "WEST-042"
+  ],
+  "match_by": "name",
+  "signal": "Four lists",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+   "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "jp",
+  "name_ko": "국제거리(나하)",
+  "name_local": "国際通り",
+  "region": "오키나와현",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Three lists",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://en.travie.com/news/articleView.html?idxno=188",
+   "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "슈리성",
+  "name_local": "首里城",
+  "region": "오키나와현",
+  "strength": "medium",
+  "existing_ids": [
+   "WEST-041"
+  ],
+  "match_by": "name",
+  "signal": "Four lists",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+   "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "아메리칸 빌리지(차탄)",
+  "name_local": "アメリカンビレッジ",
+  "region": "오키나와현",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Three lists",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://en.travie.com/news/articleView.html?idxno=188",
+   "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "미야코지마",
+  "name_local": "宮古島",
+  "region": "오키나와현",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Jin Air route launched May 2024; Triple searches surged",
+  "evidence": [
+   "https://yamatogokoro.jp/report/55490/",
+   "https://www.travie.com/news/articleView.html?idxno=54774"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "나고야성",
+  "name_local": "名古屋城",
+  "region": "아이치현",
+  "strength": "medium",
+  "existing_ids": [
+   "central-019"
+  ],
+  "match_by": "name",
+  "signal": "Several lists",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+   "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "오스 상점가",
+  "name_local": "大須商店街",
+  "region": "아이치현",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Three lists",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://en.travie.com/news/articleView.html?idxno=188",
+   "https://kr.trip.com/blog/japan-travel-destination-recommendation/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "지브리 파크",
+  "name_local": "ジブリパーク",
+  "region": "아이치현",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Cited as Nagoya interest driver",
+  "evidence": [
+   "https://kr.trip.com/blog/japan-travel-destination-recommendation/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "레고랜드 재팬",
+  "name_local": "レゴランド・ジャパン",
+  "region": "아이치현",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Travie x2, Trip.com",
+  "evidence": [
+   "https://www.travie.com/news/articleView.html?idxno=54774",
+   "https://kr.trip.com/blog/japan-travel-destination-recommendation/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "jp",
+  "name_ko": "쓰시마 이즈하라 항구 일대",
+  "name_local": "厳原",
+  "region": "나가사키현",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "Izuhara/Hitakatsu ports about 266k Korean arrivals 2025",
+  "evidence": [
+   "https://view.nate.com/fun/view/384607/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "와이탄(외탄)",
+  "name_local": "外滩",
+  "region": "상하이시",
+  "strength": "strong",
+  "existing_ids": [
+   "east-sh-01"
+  ],
+  "match_by": "alias",
+  "signal": "트립.베스트 인기 관광지·나이트라이프 1위, 트립닷컴 4.8점(리뷰 15.7만), 2026 Global 100.",
+  "evidence": [
+   "https://www.heraldk.com/2025/01/23/%e2%80%98%ec%83%81%ed%95%98%ec%9d%b4-%ec%83%81%ed%95%98%ec%9d%b4-%ed%8a%b8%ec%9c%84%ec%8a%a4%ed%8a%b8%e2%80%99-%ec%b2%ab-%ec%97%ac%ed%96%89-%ed%81%b0-%eb%a7%8c%ec%a1%b1-%ed%95%ab%ed%81%b4%eb%a6%bd/",
+   "https://kr.trip.com/things-to-do/experiences/thonon-attractions/"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "cn",
+  "name_ko": "상하이 디즈니랜드",
+  "name_local": "上海迪士尼乐园",
+  "region": "상하이시",
+  "strength": "strong",
+  "existing_ids": [
+   "east-sh-05"
+  ],
+  "match_by": "name",
+  "signal": "트립닷컴 4.7점(리뷰 30.9만), 클룩 설 연휴 인기 상품에 상하이 디즈니랜드 포함(중국 유일).",
+  "evidence": [
+   "https://kr.trip.com/things-to-do/experiences/thonon-attractions/",
+   "https://www.heraldk.com/article/2026021017032519002"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "cn",
+  "name_ko": "예원(위위안)",
+  "name_local": "豫园",
+  "region": "상하이시",
+  "strength": "strong",
+  "existing_ids": [
+   "east-sh-02"
+  ],
+  "match_by": "name",
+  "signal": "트립닷컴 상하이 글로벌 추천 3위, 여러 한국 블로그 필수 코스, 와이탄 연계 투어 다수.",
+  "evidence": [
+   "https://kr.trip.com/things-to-do/experiences/thonon-attractions/",
+   "https://kr.trip.com/guide/info/travel-trends.html"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "cn",
+  "name_ko": "난징루 보행가",
+  "name_local": "南京路步行街",
+  "region": "상하이시",
+  "strength": "medium",
+  "existing_ids": [
+   "east-sh-03"
+  ],
+  "match_by": "alias",
+  "signal": "헤럴드 상하이 코스에서 인민광장-와이탄 쇼핑 거리로 소개.",
+  "evidence": [
+   "http://www.heraldk.com/2025/01/23/%e2%80%98%ec%83%81%ed%95%98%ec%9d%b4-%ec%83%81%ed%95%98%ec%9d%b4-%ed%8a%b8%ec%9c%84%ec%8a%a4%ed%8a%b8%e2%80%99-%ec%b2%ab-%ec%97%ac%ed%96%89-%ed%81%b0-%eb%a7%8c%ec%a1%b1-%ed%95%ab%ed%81%b4%eb%a6%bd"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "신천지",
+  "name_local": "新天地",
+  "region": "상하이시",
+  "strength": "medium",
+  "existing_ids": [
+   "east-sh-04"
+  ],
+  "match_by": "alias",
+  "signal": "트립닷컴 가이드와 여행사 블로그 모두 20~30대 대상 코스로 소개, 인근에 임시정부 청사.",
+  "evidence": [
+   "https://kr.trip.com/guide/info/travel-trends.html",
+   "https://www.tripstore.kr/blog/%EC%83%81%ED%95%98%EC%9D%B4-%EA%B4%80%EA%B4%91-%ED%95%B5%EC%8B%AC-%EC%BD%94%EC%8A%A4-%EC%9D%BC%EC%A0%95"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "대한민국 임시정부 상하이 청사",
+  "name_local": "大韩民国临时政府旧址",
+  "region": "상하이시",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "2026.1 대통령 방중 때 방문 보도 후 관심 상승.",
+  "evidence": [
+   "https://www.hankyung.com/article/202601090924g"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "동방명주 / 황푸강 야경 유람선",
+  "name_local": "东方明珠/黄浦江游船",
+  "region": "상하이시",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "트립닷컴 Global 100 야경 필수, 와이탄·예원 결합 상품 다수(와그).",
+  "evidence": [
+   "https://kr.trip.com/things-to-do/experiences/thonon-attractions/",
+   "https://www.waug.com/activities/151681"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "우캉루·우캉맨션(프랑스 조계지)",
+  "name_local": "武康路/武康大楼",
+  "region": "상하이시",
+  "strength": "medium",
+  "existing_ids": [
+   "east-sh-08"
+  ],
+  "match_by": "alias",
+  "signal": "호텔스닷컴 한국인 검색 설명에서 상하이 대표로 언급, 헤럴드 코스에도 등장.",
+  "evidence": [
+   "https://v.daum.net/v/20250816174800741"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "티엔즈팡",
+  "name_local": "田子坊",
+  "region": "상하이시",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "호텔스닷컴 기사와 트립스토어 블로그 모두 언급.",
+  "evidence": [
+   "https://v.daum.net/v/20250816174800741"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "상하이타워 전망대",
+  "name_local": "上海中心大厦观光厅",
+  "region": "상하이시",
+  "strength": "medium",
+  "existing_ids": [
+   "east-sh-06"
+  ],
+  "match_by": "name",
+  "signal": "트립.베스트 명소 11위.",
+  "evidence": [
+   "http://www.heraldk.com/2025/01/23/%e2%80%98%ec%83%81%ed%95%98%ec%9d%b4-%ec%83%81%ed%95%98%ec%9d%b4-%ed%8a%b8%ec%9c%84%ec%8a%a4%ed%8a%b8%e2%80%99-%ec%b2%ab-%ec%97%ac%ed%96%89-%ed%81%b0-%eb%a7%8c%ec%a1%b1-%ed%95%ab%ed%81%b4%eb%a6%bd"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "하이창 해양공원",
+  "name_local": "上海海昌海洋公园",
+  "region": "상하이시",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "트립.베스트 4위, 트립닷컴 상하이 가이드 대표 이미지.",
+  "evidence": [
+   "http://www.heraldk.com/2025/01/23/%e2%80%98%ec%83%81%ed%95%98%ec%9d%b4-%ec%83%81%ed%95%98%ec%9d%b4-%ed%8a%b8%ec%9c%84%ec%8a%a4%ed%8a%b8%e2%80%99-%ec%b2%ab-%ec%97%ac%ed%96%89-%ed%81%b0-%eb%a7%8c%ec%a1%b1-%ed%95%ab%ed%81%b4%eb%a6%bd",
+   "https://kr.trip.com/travel-guide/destination/shanghai-2/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "졸정원(줘정위안)",
+  "name_local": "拙政园",
+  "region": "장쑤성",
+  "strength": "medium",
+  "existing_ids": [
+   "east-su-01"
+  ],
+  "match_by": "alias",
+  "signal": "트립닷컴 쑤저우 추천 2위, 2026 Asia 100 표기.",
+  "evidence": [
+   "https://kr.trip.com/tourism/suzhou-11/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "칭다오 맥주박물관",
+  "name_local": "青岛啤酒博物馆",
+  "region": "산둥성",
+  "strength": "strong",
+  "existing_ids": [
+   "east-qd-05"
+  ],
+  "match_by": "alias",
+  "signal": "트립닷컴 AI 추천 1위, 평점 4.8(리뷰 4.5만), 모두투어·중국 매체 모두 대표 명소로 언급.",
+  "evidence": [
+   "https://www.hankyung.com/article/202506258175g",
+   "https://www.dailian.co.kr/news/view/1425784/",
+   "https://cn.chinadaily.com.cn/a/202512/25/WS694c9da3a310942cc4998714.html"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "cn",
+  "name_ko": "잔교",
+  "name_local": "栈桥",
+  "region": "산둥성",
+  "strength": "medium",
+  "existing_ids": [
+   "east-qd-01"
+  ],
+  "match_by": "name",
+  "signal": "모두투어 겨울 상품 대표 명소, 트립닷컴 목록 포함.",
+  "evidence": [
+   "https://www.dailian.co.kr/news/view/1425784/",
+   "https://kr.trip.com/travel-guide/destination/qingdao-5/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "팔대관",
+  "name_local": "八大关",
+  "region": "산둥성",
+  "strength": "medium",
+  "existing_ids": [
+   "east-qd-02"
+  ],
+  "match_by": "name",
+  "signal": "모두투어 및 호텔스닷컴 기사 모두 언급.",
+  "evidence": [
+   "https://www.dailian.co.kr/news/view/1425784/",
+   "https://v.daum.net/v/20250816174800741"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "노산(라오산)",
+  "name_local": "崂山",
+  "region": "산둥성",
+  "strength": "medium",
+  "existing_ids": [
+   "east-qd-06"
+  ],
+  "match_by": "alias",
+  "signal": "트립닷컴 4.6점(리뷰 2.3만).",
+  "evidence": [
+   "https://www.hankyung.com/article/202506258175g",
+   "https://kr.trip.com/travel-guide/destination/qingdao-5/"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "칭다오 극지해양세계",
+  "name_local": "青岛极地海洋世界",
+  "region": "산둥성",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "트립닷컴 4.6점, 리뷰 약 6만.",
+  "evidence": [
+   "https://www.hankyung.com/article/202506258175g"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "소어산 공원",
+  "name_local": "小鱼山",
+  "region": "산둥성",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "호텔스닷컴 기사에서 칭다오 핵심으로 언급.",
+  "evidence": [
+   "https://v.daum.net/v/20250816174800741"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "자금성(고궁박물원)",
+  "name_local": "故宫博物院",
+  "region": "베이징시",
+  "strength": "strong",
+  "existing_ids": [
+   "bj-palace"
+  ],
+  "match_by": "alias",
+  "signal": "와그 베이징 상품에서 자금성 가이드 투어 다수, 트립닷컴 가이드 1번째 명소.",
+  "evidence": [
+   "https://www.waug.com/ko/areas/87/categories/all",
+   "https://kr.trip.com/travel-guide/destination/beijing-1/"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "cn",
+  "name_ko": "만리장성(바다링·무톈위)",
+  "name_local": "八达岭长城/慕田峪长城",
+  "region": "베이징시",
+  "strength": "strong",
+  "existing_ids": [
+   "bj-badaling",
+   "bj-mutianyu"
+  ],
+  "match_by": "alias",
+  "signal": "와그 베이징 최상위 상품이 만리장성+이화원 근교 투어(4.9, 리뷰 109), 트립닷컴 가이드에 바다링.",
+  "evidence": [
+   "https://www.waug.com/ko/areas/87/categories/all",
+   "https://kr.trip.com/travel-guide/destination/beijing-1/"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "cn",
+  "name_ko": "구베이커우·쓰마타이 장성(야간)",
+  "name_local": "古北口/司马台长城",
+  "region": "베이징시",
+  "strength": "medium",
+  "existing_ids": [
+   "bj-wtown"
+  ],
+  "match_by": "alias",
+  "signal": "와그 한국어 가이드 야경 투어 5.0점(리뷰 56)과 케이블카 상품 4.9점(리뷰 45).",
+  "evidence": [
+   "https://www.waug.com/ko/areas/87/categories/all"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "이화원",
+  "name_local": "颐和园",
+  "region": "베이징시",
+  "strength": "medium",
+  "existing_ids": [
+   "bj-summer-palace"
+  ],
+  "match_by": "name",
+  "signal": "장성 투어와 묶여 가장 많이 판매.",
+  "evidence": [
+   "https://www.waug.com/ko/areas/87/categories/all"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "천안문 광장",
+  "name_local": "天安门广场",
+  "region": "베이징시",
+  "strength": "medium",
+  "existing_ids": [
+   "bj-tiananmen-square"
+  ],
+  "match_by": "name",
+  "signal": "와그에서 천안문+자금성 투어 리뷰 107개.",
+  "evidence": [
+   "https://www.waug.com/ko/areas/87/categories/all"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "유니버설 스튜디오 베이징",
+  "name_local": "北京环球度假区",
+  "region": "베이징시",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "트립닷컴 가이드 대표 명소, 와그 입장권, 브런치 블로그 언급.",
+  "evidence": [
+   "https://kr.trip.com/travel-guide/destination/beijing-1/",
+   "https://www.waug.com/ko/areas/87/categories/all"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "천문산(톈먼산)",
+  "name_local": "天门山",
+  "region": "후난성",
+  "strength": "strong",
+  "existing_ids": [
+   "nature-zjj-02"
+  ],
+  "match_by": "name",
+  "signal": "신화사가 한국인 관광객 체험 보도, 브런치·트립스토어 필수 코스.",
+  "evidence": [
+   "https://www.tripstore.kr/blog/%EC%9E%A5%EA%B0%80%EA%B3%84-%EC%9E%90%EC%9C%A0%EC%97%AC%ED%96%89-%EC%9D%BC%EC%A0%95-%EA%B2%BD%EB%B9%84",
+   "https://brunch.co.kr/@qrssa/5165"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "cn",
+  "name_ko": "원가계(위안자제)",
+  "name_local": "袁家界",
+  "region": "후난성",
+  "strength": "strong",
+  "existing_ids": [
+   "nature-zjj-01"
+  ],
+  "match_by": "alias",
+  "signal": "하나투어·모두투어 패키지 핵심, 아바타 이미지로 유명.",
+  "evidence": [
+   "https://www.tripstore.kr/blog/%EC%9E%A5%EA%B0%80%EA%B3%84-%EC%9E%90%EC%9C%A0%EC%97%AC%ED%96%89-%EC%9D%BC%EC%A0%95-%EA%B2%BD%EB%B9%84",
+   "https://brunch.co.kr/@qrssa/5165"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "cn",
+  "name_ko": "장가계 대협곡 유리다리",
+  "name_local": "张家界大峡谷玻璃桥",
+  "region": "후난성",
+  "strength": "medium",
+  "existing_ids": [
+   "nature-zjj-03"
+  ],
+  "match_by": "alias",
+  "signal": "여행사 패키지의 대표 상품.",
+  "evidence": [
+   "https://www.tripstore.kr/blog/%EC%9E%A5%EA%B0%80%EA%B3%84-%EC%9E%90%EC%9C%A0%EC%97%AC%ED%96%89-%EC%9D%BC%EC%A0%95-%EA%B2%BD%EB%B9%84"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "백두산 천지(북파·서파)",
+  "name_local": "长白山天池",
+  "region": "지린성",
+  "strength": "strong",
+  "existing_ids": [
+   "nature-cbs-01",
+   "nature-cbs-02"
+  ],
+  "match_by": "alias",
+  "signal": "하나투어 7~8월 중국 1위 목적지의 핵심. 북파는 차량 접근이 쉬워 인기.",
+  "evidence": [
+   "https://www.ddaily.co.kr/page/view/2026070815205058768",
+   "https://www.news.cn/travel/20250217/093b71991fbf467c8ca08c9a65de9af3/c.html"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "cn",
+  "name_ko": "이도백하 자작나무 숲 트레킹",
+  "name_local": "二道白河桦树林",
+  "region": "지린성",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "하나투어 신상품 북파 자작나무 트레킹.",
+  "evidence": [
+   "https://www.ddaily.co.kr/page/view/2026070815205058768"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "용정(윤동주 생가·명동촌·일송정)",
+  "name_local": "龙井/明东村/一松亭",
+  "region": "지린성",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "연길 거점 한국인 코스 단골, 단 일부 현장 접근 제한 가능.",
+  "evidence": [
+   "https://www.waug.com/ko/activities/138127",
+   "https://m.cafe.daum.net/Caravan0/tNCE/1"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "도문 두만강 국경",
+  "name_local": "图们江边境",
+  "region": "지린성",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "신화사가 두만강 국경 풍경을 연변 관광으로 소개.",
+  "evidence": [
+   "https://www.news.cn/travel/20250217/093b71991fbf467c8ca08c9a65de9af3/c.html"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "하얼빈 빙설대세계/빙등제",
+  "name_local": "哈尔滨冰雪大世界",
+  "region": "헤이룽장성",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "한국 여행사가 겨울 수요 증가 확인, 장관 발언 관광객 약 300만.",
+  "evidence": [
+   "https://www.heraldk.com/article/2026011221504305222",
+   "https://v.daum.net/v/20250214154438811?f=p"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "안중근 의사 기념관(하얼빈역)",
+  "name_local": "安重根义士纪念馆",
+  "region": "헤이룽장성",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "헤럴드가 하얼빈 수요 요인으로 안중근 의거지를 언급.",
+  "evidence": [
+   "https://www.heraldk.com/article/2026011221504305222",
+   "https://www.tripstore.kr/blog/%ED%95%98%EC%96%BC%EB%B9%88-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%AA%85%EC%86%8C-%EC%BD%94%EC%8A%A4-%EA%B0%80%EC%9D%B4%EB%93%9C"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "홍야동(훙야둥)",
+  "name_local": "洪崖洞",
+  "region": "충칭시",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "브런치 블로그와 한국 언론에서 사이버펑크 야경으로 언급.",
+  "evidence": [
+   "https://brunch.co.kr/@qrssa/5165",
+   "https://www.edaily.co.kr/News/Read?newsId=04592006645482704&mediaCodeNo=257"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "장강 케이블카",
+  "name_local": "长江索道",
+  "region": "충칭시",
+  "strength": "medium",
+  "existing_ids": [],
+  "match_by": null,
+  "signal": "호텔스닷컴 및 블로그 언급.",
+  "evidence": [
+   "https://v.daum.net/v/20250816174800741"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "cn",
+  "name_ko": "청두 자이언트 판다 번식연구기지",
+  "name_local": "成都大熊猫繁育研究基地",
+  "region": "쓰촨성",
+  "strength": "strong",
+  "existing_ids": [
+   "cd-panda-base"
+  ],
+  "match_by": "alias",
+  "signal": "트립닷컴 2026 Global 100, 4.6점, 한국 언론 판다 여행 보도.",
+  "evidence": [
+   "https://kr.trip.com/travel-guide/destination/chengdu-104/",
+   "https://v.daum.net/v/20250615070806358"
+  ],
+  "reason": "strength_strong"
+ },
+ {
+  "country": "cn",
+  "name_ko": "병마용(진시황릉)",
+  "name_local": "秦始皇兵马俑",
+  "region": "산시성",
+  "strength": "medium",
+  "existing_ids": [
+   "xa-terracotta"
+  ],
+  "match_by": "alias",
+  "signal": "트립스토어 시안 패키지에서 병마용·진시황릉 포함, 브런치 순위.",
+  "evidence": [
+   "https://brunch.co.kr/@qrssa/5165",
+   "https://www.tripstore.kr/packages/xian/massage"
+  ],
+  "reason": "strength_medium"
+ },
+ {
+  "country": "kr",
+  "name_ko": "사천바다케이블카·통영케이블카",
+  "name_local": "",
+  "region": "경상남도",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-gyeongnam-sacheon-sea-cable-car"
+  ],
+  "match_by": "name",
+  "signal": "사천바다케이블카 100선 신규 선정; 500 순위 297위, 통영 269위",
+  "evidence": [
+   "https://www.hankyung.com/article/202502256921K"
+  ],
+  "reason": "balance_fill"
+ },
+ {
+  "country": "kr",
+  "name_ko": "욕지도·남해 독일마을·창녕 우포늪",
+  "name_local": "",
+  "region": "경상남도",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-gyeongnam-upo-wetland"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 욕지도 88위, 독일마을 115위, 우포늪 142위 (독일마을·우포늪 100선)",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "balance_fill"
+ },
+ {
+  "country": "kr",
+  "name_ko": "국립아시아문화전당·무등산국립공원",
+  "name_local": "",
+  "region": "광주광역시",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-gwangju-mudeungsan",
+   "kr-gwangju-asia-culture-center"
+  ],
+  "match_by": "name",
+  "signal": "100선 목록에 포함; 야놀자 상위 300에는 광주 지점 없음",
+  "evidence": [
+   "http://www.heraldk.com/2025/06/30/%ed%95%9c%ea%b5%ad%ea%b4%80%ea%b4%91-100%ec%84%a0-%eb%b3%b4%eb%8b%88-%eb%aa%bb%ea%b0%80%eb%b3%b8%eb%8d%b0-%eb%a7%8e%ec%9d%80-%ec%9a%b0%eb%a6%ac%eb%82%98%eb%9d%bc-%e2%80%9c%ec%98%ac%ec%97%ac%eb%a6%84"
+  ],
+  "reason": "balance_fill"
+ },
+ {
+  "country": "kr",
+  "name_ko": "한밭수목원·유성온천·수통골·장태산자연휴양림",
+  "name_local": "",
+  "region": "대전광역시",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-daejeon-jangtaesan-forest"
+  ],
+  "match_by": "name",
+  "signal": "500 순위 한밭수목원 114위, 유성온천 120위, 수통골 199위; 장태산 100선",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "balance_fill"
+ },
+ {
+  "country": "kr",
+  "name_ko": "국립세종수목원",
+  "name_local": "",
+  "region": "세종특별자치시",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-sejong-national-arboretum"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 136위; 100선 선정",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "balance_fill"
+ },
+ {
+  "country": "kr",
+  "name_ko": "간절곶",
+  "name_local": "",
+  "region": "울산광역시",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-ulsan-ganjeolgot"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 76위",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "balance_fill"
+ },
+ {
+  "country": "kr",
+  "name_ko": "대왕암공원·영남알프스·일산해수욕장",
+  "name_local": "",
+  "region": "울산광역시",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-ulsan-daewangam-park"
+  ],
+  "match_by": "name",
+  "signal": "대왕암공원·영남알프스 100선, 일산해수욕장 500 순위 182위",
+  "evidence": [
+   "https://www.wikitree.co.kr/articles/1019917"
+  ],
+  "reason": "balance_fill"
+ },
+ {
+  "country": "kr",
+  "name_ko": "태화강 국가정원",
+  "name_local": "",
+  "region": "울산광역시",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-ulsan-taehwagang-garden"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 105위; 100선 선정; 봄꽃축제 27만(2026)",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://m.go.seoul.co.kr/news/2026/06/15/20260615022002"
+  ],
+  "reason": "balance_fill"
+ },
+ {
+  "country": "kr",
+  "name_ko": "선재도·강화 전등사·교동도",
+  "name_local": "",
+  "region": "인천광역시",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-incheon-jeondeungsa"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 선재도 86위, 전등사 130위; 교동도 100선",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "balance_fill"
+ },
+ {
+  "country": "kr",
+  "name_ko": "지리산 노고단·광양 매화마을·소록도·목포 해상케이블카",
+  "name_local": "",
+  "region": "전라남도",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-jeonnam-gwangyang-maehwa-village"
+  ],
+  "match_by": "name",
+  "signal": "500 순위 노고단 77위, 매화마을 87위, 소록도 100위, 목포케이블카 260위",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "balance_fill"
+ },
+ {
+  "country": "kr",
+  "name_ko": "선운사·내소사·광한루원·변산반도·내장산·마이산",
+  "name_local": "",
+  "region": "전북특별자치도",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-jeonbuk-seonunsa",
+   "kr-jeonbuk-naesosa",
+   "kr-jeonbuk-naejangsan"
+  ],
+  "match_by": "name",
+  "signal": "500 순위 선운사 110위, 내소사 173위, 광한루원 174위, 변산반도 273위, 마이산 탑사 278위; 광한루원·남원관광단지·내장산·마이산·변산반도 100선",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr",
+   "https://www.hankyung.com/article/202502256921K"
+  ],
+  "reason": "balance_fill"
+ },
+ {
+  "country": "kr",
+  "name_ko": "아산 현충사·천안 독립기념관·서산 해미읍성",
+  "name_local": "",
+  "region": "충청남도",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-chungnam-haemieupseong",
+   "kr-chungnam-independence-hall",
+   "kr-chungnam-hyeonchungsa"
+  ],
+  "match_by": "name",
+  "signal": "100선 선정(현충사 신규); 해미읍성 500 순위 135위",
+  "evidence": [
+   "https://www.hankyung.com/article/202502256921K"
+  ],
+  "reason": "balance_fill"
+ },
+ {
+  "country": "kr",
+  "name_ko": "천리포수목원",
+  "name_local": "",
+  "region": "충청남도",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-chungnam-chollipo-arboretum"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 93위",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "balance_fill"
+ },
+ {
+  "country": "kr",
+  "name_ko": "단양(도담삼봉·만천하스카이워크·단양강 잔도)",
+  "name_local": "",
+  "region": "충청북도",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-chungbuk-danyang-parent"
+  ],
+  "match_by": "name",
+  "signal": "500 순위 도담삼봉 165위, 만천하스카이워크 239위; 100선 3곳",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "balance_fill"
+ },
+ {
+  "country": "kr",
+  "name_ko": "보은 속리산·법주사",
+  "name_local": "",
+  "region": "충청북도",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-chungbuk-beopjusa"
+  ],
+  "match_by": "name",
+  "signal": "법주사 500 순위 215위, 100선; 보은 외지인 방문 18% 증가",
+  "evidence": [
+   "https://biz.heraldcorp.com/article/10478349"
+  ],
+  "reason": "balance_fill"
+ },
+ {
+  "country": "kr",
+  "name_ko": "제천 의림지",
+  "name_local": "",
+  "region": "충청북도",
+  "strength": "weak",
+  "existing_ids": [
+   "kr-chungbuk-uirimji"
+  ],
+  "match_by": "name",
+  "signal": "한국관광지500 71위",
+  "evidence": [
+   "https://www.yanolja-research.com/insight/view/640?lang=kr"
+  ],
+  "reason": "balance_fill"
+ }
+]

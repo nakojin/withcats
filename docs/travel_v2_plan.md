@@ -105,7 +105,8 @@ OSM Nominatim으로 8곳(국가별 2~3곳)을 시험했다. 8곳 모두 좌표�
 | v1.1 일본 jp-east 운영정보 28곳 | 완료 | `5687cb1` |
 | P0 스키마·검증기 | 진행 중 | `travel-common/` |
 | P1 좌표 | 진행 중 | 526곳, OSM Nominatim |
-| Tier A 후보 조사 | 진행 중 | 웹검색 |
+| Tier A 후보 조사 | 완료 | 한·일·중 웹검색, `travel-common/research/` |
+| Tier A 초안 | 검토 대기 | 133항목(기존 91곳·신규 49곳), `travel-common/tiers/TIER_A_DRAFT.md` |
 | P2 이후 | 대기 | Tier A 확정 후 |
 
 ## 10. 오픈 이슈

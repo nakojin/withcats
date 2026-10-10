@@ -1,0 +1,2312 @@
+{
+ "regions": [
+  {
+   "name_ko": "도쿄",
+   "name_local": "東京",
+   "prefecture_ko": "도쿄도",
+   "signal": "Korean accommodation nights ranked 1st among prefectures in 2025 (about 3.68M nights, JTA survey via press); 2nd by Korean arrivals by airport (Haneda+Narita about 2.16M); Agoda 2025 Korean search ranking #1",
+   "evidence": [
+    {
+     "url": "https://www.heraldk.com/article/2026092321205483258",
+     "what": "JTA 2025 accommodation survey: Tokyo about 3.68M Korean nights, top of the prefectures; top-5 prefectures hold over 70% of Korean nights",
+     "year": "2025"
+    },
+    {
+     "url": "https://view.nate.com/fun/view/384607/",
+     "what": "e-Stat port/airport arrivals of Koreans: Tokyo (Haneda+Narita) about 2.16M, 2nd (blog compilation of official data)",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.hankyung.com/article/202512166494K",
+     "what": "Agoda accommodation-search data of Koreans: Tokyo 1st among all overseas cities",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.heraldk.com/article/2026011421445406477",
+     "what": "MyRealTrip 2025: Tokyo 4th in flights, 2nd in Japan (3rd overall) in tours/tickets",
+     "year": "2025"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "오사카",
+   "name_local": "大阪",
+   "prefecture_ko": "오사카부",
+   "signal": "No.1 by Korean arrivals by airport in 2025 (Kansai airport+Osaka port about 2.49M); about 2.84M Korean nights (3rd); MyRealTrip 2025 #1 Japan city for tours/tickets and accommodation; Osaka Tourism Bureau 2024 estimate about 2.64M Korean visitors (secondary source)",
+   "evidence": [
+    {
+     "url": "https://view.nate.com/fun/view/384607/",
+     "what": "Kansai/Osaka entries about 2.485M Korean arrivals, 1st (e-Stat based compilation)",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.heraldk.com/article/2026092321205483258",
+     "what": "JTA 2025: Osaka about 2.84M Korean nights, among top-5 prefectures",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.heraldk.com/article/2026011421445406477",
+     "what": "MyRealTrip 2025: Osaka #1 Japanese city for tours/tickets and accommodation, 3rd in flights",
+     "year": "2025"
+    },
+    {
+     "url": "https://saitoshika-west.com/blog-entry-9414.html",
+     "what": "Blog quoting Osaka Tourism Bureau 2024 estimate: Korea about 2.64M visitors to Osaka, 2nd after China (weak, secondary)",
+     "year": "2024"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "후쿠오카",
+   "name_local": "福岡",
+   "prefecture_ko": "후쿠오카현",
+   "signal": "2nd in Korean accommodation nights (about 2.88M, 36.8% of foreign nights); about 2.07M Korean arrivals via Fukuoka airport/Hakata port; MyRealTrip 2025 #1 Japan city in flight bookings; Agoda 2025 #2",
+   "evidence": [
+    {
+     "url": "https://www.heraldk.com/article/2026092321205483258",
+     "what": "JTA 2025: Fukuoka about 2.88M Korean nights, Korean share 36.8%",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.heraldk.com/article/2026011421445406477",
+     "what": "MyRealTrip 2025: Fukuoka ranked highest of Japanese cities in flight bookings, 5th in tours/tickets overall",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.hankyung.com/article/202512166494K",
+     "what": "Agoda 2025 Korean search ranking: Fukuoka 2nd",
+     "year": "2025"
+    },
+    {
+     "url": "https://view.nate.com/fun/view/384607/",
+     "what": "Fukuoka airport+Hakata port about 2.07M Korean arrivals, 3rd",
+     "year": "2025"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "홋카이도(삿포로)",
+   "name_local": "北海道・札幌",
+   "prefecture_ko": "홋카이도",
+   "signal": "4th in Korean nights (about 2.37M in 2025); Korea 2nd foreign market by nights in Hokkaido; New Chitose about 0.82M Korean arrivals; Sapporo in Agoda 2025 top 10",
+   "evidence": [
+    {
+     "url": "https://www.nikkei.com/article/DGXZQOFC104KJ0Q6A810C2000000/",
+     "what": "Hokkaido 2025 foreign nights: Taiwan 2.40M, Korea 2.37M, China 1.99M",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.heraldk.com/article/2026092321205483258",
+     "what": "Hokkaido about 2.375M Korean nights, within top-5 prefectures",
+     "year": "2025"
+    },
+    {
+     "url": "https://view.nate.com/fun/view/384607/",
+     "what": "Sapporo (New Chitose) about 818k Korean arrivals, 4th",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.hankyung.com/article/202512166494K",
+     "what": "Agoda: Sapporo 8th in Korean overseas searches",
+     "year": "2025"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "오키나와",
+   "name_local": "沖縄",
+   "prefecture_ko": "오키나와현",
+   "signal": "5th in Korean nights (about 1.15M); Naha about 0.50M Korean arrivals; Klook rental-car bookings in Naha up 250%; Korea among Okinawa's top foreign markets",
+   "evidence": [
+    {
+     "url": "https://www.heraldk.com/article/2026092321205483258",
+     "what": "JTA 2025: Okinawa about 1.15M Korean nights, 5th prefecture",
+     "year": "2025"
+    },
+    {
+     "url": "https://view.nate.com/fun/view/384607/",
+     "what": "Naha airport about 502k Korean arrivals, 5th",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.segye.com/newsView/20251021500650",
+     "what": "Klook Jan-Sep 2025: Naha rental-car bookings up 250% y/y",
+     "year": "2025"
+    },
+    {
+     "url": "https://ryukyushimpo.jp/economics/entry-5147674.html",
+     "what": "Okinawa 2025 foreign visitors: Taiwan top; Korea in top group (Korea figure not seen)",
+     "year": "2025"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "교토",
+   "name_local": "京都",
+   "prefecture_ko": "교토부",
+   "signal": "3rd on Travie's list of Japanese cities most often stamped in Korean passports; standard Osaka day trip; Kyoto is tightening tourist charges due to overtourism; no Korea-specific stat found",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Kyoto ranked 3rd in Korean-passport top-10 Japanese destinations (editorial, no dataset)",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.heraldk.com/article/2026022514493324890",
+     "what": "Korean press: Kyoto raising lodging tax and tourist bus fares; many Koreans go (no Korea numbers)",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "All-nationality 2025 visit rate: Kyoto 3rd (not Korea-specific)",
+     "year": "2025"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "나고야(아이치)",
+   "name_local": "名古屋",
+   "prefecture_ko": "아이치현",
+   "signal": "7th on Travie's Korean list; about 348k Korean arrivals at Chubu airport; 3rd most-searched travel destination by Koreans on Google Trends 2025; MyRealTrip flagged as fast-growing",
+   "evidence": [
+    {
+     "url": "https://view.nate.com/fun/view/384607/",
+     "what": "Chubu Centrair about 348k Korean arrivals, 6th city",
+     "year": "2025"
+    },
+    {
+     "url": "https://m.view.nate.com/travel/view/350441/",
+     "what": "Google Trends 2025 Korean searches: Nagoya 3rd overall travel destination",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.heraldk.com/article/2026011421445406477",
+     "what": "MyRealTrip named Nagoya among rapidly growing 2025 destinations",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Aichi 7th in Korean-passport list",
+     "year": "2025"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "유후인·벳푸(오이타)",
+   "name_local": "由布院・別府",
+   "prefecture_ko": "오이타현",
+   "signal": "Oita has Korean share 38.9% of foreign nights (highest in Kyushu); Yufuin is a repeated onsen-town pick on Korean-oriented lists",
+   "evidence": [
+    {
+     "url": "https://www.heraldk.com/article/2026092321205483258",
+     "what": "2025 Korean nights share: Oita 38.9%, Fukuoka 36.8%, Kagoshima 34.3%, Saga 34.2%",
+     "year": "2025"
+    },
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Yufuin boosted by Korean dramas/travel shows (qualitative)",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Yufuin as one of 10 recommended Japan places on Korean travel blog",
+     "year": "2025"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "마쓰야마(에히메)",
+   "name_local": "松山",
+   "prefecture_ko": "에히메현",
+   "signal": "Ehime has the highest Korean share of nights among all 47 prefectures (42.4%); Matsuyama #1 on Incheon small-city route passengers Q3 2025; Korea 56% of foreign visitors to Matsuyama city 2025; Google Trends 4th",
+   "evidence": [
+    {
+     "url": "https://www.heraldk.com/article/2026092321205483258",
+     "what": "Ehime Korean nights share 42.4%, highest in Japan",
+     "year": "2025"
+    },
+    {
+     "url": "https://m.view.nate.com/travel/view/334352/",
+     "what": "Q3 2025 Incheon small-city routes: Matsuyama 1st with 50,861 pax (+8.7%)",
+     "year": "2025"
+    },
+    {
+     "url": "https://m.view.nate.com/travel/view/350441/",
+     "what": "Google Trends 2025 Korean searches: Matsuyama 4th",
+     "year": "2025"
+    },
+    {
+     "url": "https://yamatogokoro.jp/report/55490/",
+     "what": "Matsuyama reached 12th in Triple app popular city ranking (company data)",
+     "year": "2024"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "구마모토",
+   "name_local": "熊本",
+   "prefecture_ko": "구마모토현",
+   "signal": "Korea back to 1st foreign market in 2025 (485k nights, +37.3%); Incheon pax +61.3% in Q3 2025; new Busan route",
+   "evidence": [
+    {
+     "url": "https://kumanichi.com/articles/1966975",
+     "what": "2025 Kumamoto foreign nights 1.763M; Korea 485k, up 37.3%, back to 1st",
+     "year": "2025"
+    },
+    {
+     "url": "https://m.view.nate.com/travel/view/334352/",
+     "what": "Kumamoto 39,815 Incheon pax Q3 2025 (+61.3%); 2nd incl. Busan",
+     "year": "2025"
+    },
+    {
+     "url": "https://data.bodik.jp/dataset/f1a5af5f-96c6-4cc8-b3cd-c7fc929b6dfa/resource/f55a7eb3-5825-4a7d-b369-29a02044c4eb/download/20253.pdf",
+     "what": "City document: more Seoul flights and new Busan route lifted Korean share",
+     "year": "2025"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "사가",
+   "name_local": "佐賀",
+   "prefecture_ko": "사가현",
+   "signal": "Korean share of foreign nights 34.2%; Modetour Saga bookings up 145% Jan-Aug 2026; Hanatour earlier cited Saga +309% after direct flights",
+   "evidence": [
+    {
+     "url": "https://www.heraldk.com/article/2026092321205483258",
+     "what": "Saga Korean nights share 34.2% (2025)",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.newstravel.co.kr/news/article.html?no=27645",
+     "what": "Modetour: Saga reservations +145% Jan-Aug 2026; Karatsu, Imari, Takeo, Ureshino, Sasebo, Yufuin, Huis Ten Bosch named",
+     "year": "2026"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "가고시마",
+   "name_local": "鹿児島",
+   "prefecture_ko": "가고시마현",
+   "signal": "Korean share of foreign nights 34.3%; Air Busan and Jeju Air operate routes with increased flights",
+   "evidence": [
+    {
+     "url": "https://www.heraldk.com/article/2026092321205483258",
+     "what": "Kagoshima Korean nights share 34.3% (2025)",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.msn.com/ko-kr/news/other/4%EB%B6%84%EA%B8%B0%EC%97%90-%ED%95%AD%EA%B3%B5%ED%8E%B8-%EB%8A%98%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%86%8C%EB%8F%84%EC%8B%9C-%EC%97%AC%ED%96%89%EC%A7%80-%EA%B0%80%EA%B3%A0%EC%8B%9C%EB%A7%88-%ED%95%98%EC%BD%94%EB%8B%A4%ED%85%8C/ar-AA2dMAMt",
+     "what": "Air Busan / Jeju Air route expansion to Kagoshima (seen in search snippet)",
+     "year": "2025"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "쓰시마(나가사키)",
+   "name_local": "対馬",
+   "prefecture_ko": "나가사키현",
+   "signal": "About 266k Korean arrivals via Izuhara/Hitakatsu ports in 2025; Hanatour's top repurchased planned product was 2-day Tsushima",
+   "evidence": [
+    {
+     "url": "https://view.nate.com/fun/view/384607/",
+     "what": "Tsushima ports about 266k Korean arrivals, 7th",
+     "year": "2025"
+    },
+    {
+     "url": "https://m.view.nate.com/travel/view/350471/",
+     "what": "Hanatour Jan-Nov 2025: Tsushima 2-day is the most repurchased product",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.easytripcafe.com/%EC%9D%BC%EB%B3%B8-%EA%B4%80%EA%B4%91%EC%A7%80-%EB%B2%A0%EC%8A%A4%ED%8A%B8/",
+     "what": "Blog lists Tsushima (about 1h ferry from Busan) as Korean favorite",
+     "year": "2025"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "나가사키·사세보",
+   "name_local": "長崎・佐世保",
+   "prefecture_ko": "나가사키현",
+   "signal": "Named as a repeat-visit Kyushu area; Huis Ten Bosch and Sasebo featured in Modetour small-city Kyushu push; no Korea numbers",
+   "evidence": [
+    {
+     "url": "https://www.lifepepper.co.jp/korea/korea-inbound-points/",
+     "what": "Marketing firm lists Nagasaki among regions seeing repeat Korean visitors",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.newstravel.co.kr/news/article.html?no=27645",
+     "what": "Sasebo and Huis Ten Bosch named in Modetour Kyushu promotion",
+     "year": "2026"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "다카마쓰(가가와)",
+   "name_local": "高松",
+   "prefecture_ko": "가가와현",
+   "signal": "4th on Incheon small-city ranking Q3 2025 (no regional-airport figure given); Jin Air and Air Seoul direct flights; Kagawa Korean share 17.6%",
+   "evidence": [
+    {
+     "url": "https://m.view.nate.com/travel/view/334352/",
+     "what": "Takamatsu 3rd in Q3 2025 small-city ranking text",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.heraldk.com/article/2026092321205483258",
+     "what": "Kagawa Korean nights share 17.6%",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.vogue.co.kr/2025/02/21/%ec%a7%81%ed%95%ad%ec%9c%bc%eb%a1%9c-%eb%96%a0%eb%82%98%eb%8a%94-%ec%9d%bc%eb%b3%b8-%ec%86%8c%eb%8f%84%ec%8b%9c-4/",
+     "what": "Vogue Korea: direct flights, Ritsurin Park, Sanuki udon (seen in search result)",
+     "year": "2025"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "히로시마",
+   "name_local": "広島",
+   "prefecture_ko": "히로시마현",
+   "signal": "Ranked 4th in Q3 2025 Incheon small-city route ranking",
+   "evidence": [
+    {
+     "url": "https://m.view.nate.com/travel/view/334352/",
+     "what": "Hiroshima in top-5 Incheon regional-route ranking Q3 2025",
+     "year": "2025"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "시즈오카·후지노미야",
+   "name_local": "静岡・富士宮",
+   "prefecture_ko": "시즈오카현",
+   "signal": "Shizuoka Incheon pax 47,711 (+70.4%) Q3 2025; Klook Fujinomiya bookings up 38x Jan-Sep 2025",
+   "evidence": [
+    {
+     "url": "https://m.view.nate.com/travel/view/334352/",
+     "what": "Shizuoka 2nd in Q3 2025 Incheon small-city routes",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.segye.com/newsView/20251021500650",
+     "what": "Klook: Fujinomiya bookings 38x y/y",
+     "year": "2025"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "하코네·요코하마(가나가와)",
+   "name_local": "箱根・横浜",
+   "prefecture_ko": "가나가와현",
+   "signal": "Kanagawa 5th in all-nationality visit rate 2025; Triple app counts Hakone/Yokohama/Kamakura in Tokyo-area trips; Fuji-Hakone tours prominent on MyRealTrip Japan page",
+   "evidence": [
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "All-nationality 2025: Kanagawa 5th",
+     "year": "2025"
+    },
+    {
+     "url": "https://yamatogokoro.jp/report/55490/",
+     "what": "Triple app: Hakone, Yokohama, Kamakura part of Tokyo-area Korean trips",
+     "year": "2024"
+    },
+    {
+     "url": "https://www.myrealtrip.com/",
+     "what": "Fuji/Hakone bus tours listed among top Japan products",
+     "year": "2026"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "지바(도쿄 디즈니 리조트)",
+   "name_local": "千葉",
+   "prefecture_ko": "지바현",
+   "signal": "Tokyo Disney Resort tops Trip.com Korean-language attraction list; Disney passports highlighted on MyRealTrip Japan",
+   "evidence": [
+    {
+     "url": "https://guidablejobs.jp/contents/how-to-recruit/8125/",
+     "what": "Top-2 spots in Trip.com Korean ratings are Tokyo Disneyland and DisneySea",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.myrealtrip.com/",
+     "what": "Disneyland & DisneySea 1-day passport in top Japan products",
+     "year": "2026"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "고베(효고)",
+   "name_local": "神戸",
+   "prefecture_ko": "효고현",
+   "signal": "9th on Travie Korean list; Korean Air started Incheon-Kobe in 2025; Rakuten Travel high-booking small city",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Hyogo (Kobe) 9th in Korean-passport list",
+     "year": "2025"
+    },
+    {
+     "url": "https://honichi.com/news/2026/02/10/inbound-korea-2025/",
+     "what": "Korean Air Kobe-Incheon route began 2025",
+     "year": "2025"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "나라",
+   "name_local": "奈良",
+   "prefecture_ko": "나라현",
+   "signal": "10th on Travie Korean list; usually a Kyoto/Osaka day trip; MyRealTrip sells Nara/Kyoto day bus tours from Osaka",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Nara 10th in Korean-passport list",
+     "year": "2025"
+    },
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Nara deer paired with Kyoto trips",
+     "year": "2025"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "나가노(마쓰모토·하쿠바)",
+   "name_local": "長野",
+   "prefecture_ko": "나가노현",
+   "signal": "8th on Travie Korean list; Karuizawa and Matsumoto cited as small-city picks",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Nagano 8th in Korean-passport list",
+     "year": "2025"
+    },
+    {
+     "url": "https://inbound-lab.com/news/popular_japanese_spots_among_koreans/",
+     "what": "Matsumoto named as rising Korean small-city destination",
+     "year": "2025"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "가나자와(이시카와)",
+   "name_local": "金沢",
+   "prefecture_ko": "이시카와현",
+   "signal": "Named repeatedly as rising small-city destination; Korean Air Komatsu route expanded",
+   "evidence": [
+    {
+     "url": "https://inbound-lab.com/news/popular_japanese_spots_among_koreans/",
+     "what": "Kanazawa named among rising Korean small-city choices",
+     "year": "2025"
+    },
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Kanazawa (Kenrokuen, Higashi Chaya) as calmer Kyoto alternative",
+     "year": "2025"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "미야자키",
+   "name_local": "宮崎",
+   "prefecture_ko": "미야자키현",
+   "signal": "Economy Talk reports bookings +139% (2026); named as rising small city",
+   "evidence": [
+    {
+     "url": "http://www.economytalk.kr/news/articleView.html?idxno=424311",
+     "what": "Miyazaki bookings up 139%, resort-style travel",
+     "year": "2026"
+    },
+    {
+     "url": "https://inbound-lab.com/news/popular_japanese_spots_among_koreans/",
+     "what": "Miyazaki named as rising Korean destination",
+     "year": "2025"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "니가타",
+   "name_local": "新潟",
+   "prefecture_ko": "니가타현",
+   "signal": "Bookings +200% on sake/rice food tourism (2026 report); Korean Air Niigata route daily",
+   "evidence": [
+    {
+     "url": "http://www.economytalk.kr/news/articleView.html?idxno=424311",
+     "what": "Niigata bookings +200%",
+     "year": "2026"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "아오모리",
+   "name_local": "青森",
+   "prefecture_ko": "아오모리현",
+   "signal": "Listed as one of 10 recommended Japan places on a Korean travel blog; no data",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Aomori (Nebuta Museum, A-Factory) among 10 listed",
+     "year": "2025"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "와카야마",
+   "name_local": "和歌山",
+   "prefecture_ko": "와카야마현",
+   "signal": "Kumano Kodo and Shirahama Onsen mentioned as Korean-popular; qualitative only",
+   "evidence": [
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Wakayama named among surprising Korean favorites",
+     "year": "2025"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "도쿠시마",
+   "name_local": "徳島",
+   "prefecture_ko": "도쿠시마현",
+   "signal": "Korean nights share 23.1% in 2025; Shikoku highlighted by Hanatour as growing",
+   "evidence": [
+    {
+     "url": "https://www.heraldk.com/article/2026092321205483258",
+     "what": "Tokushima Korean share 23.1% (2025)",
+     "year": "2025"
+    },
+    {
+     "url": "https://m.view.nate.com/travel/view/350471/",
+     "what": "Hanatour 2025: Shikoku small-city travel grew noticeably",
+     "year": "2025"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "기타큐슈",
+   "name_local": "北九州",
+   "prefecture_ko": "후쿠오카현",
+   "signal": "Named with Yufuin and Beppu in Triple's Fukuoka-area trips",
+   "evidence": [
+    {
+     "url": "https://yamatogokoro.jp/report/55490/",
+     "what": "Triple app: Fukuoka-area trips include Yufuin, Beppu, Kitakyushu",
+     "year": "2024"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "하코다테",
+   "name_local": "函館",
+   "prefecture_ko": "홋카이도",
+   "signal": "New Jeju Air Incheon route 2025; recurrent small-city feature in Korean media",
+   "evidence": [
+    {
+     "url": "https://honichi.com/news/2026/02/10/inbound-korea-2025/",
+     "what": "Jeju Air started Hakodate-Incheon in 2025",
+     "year": "2025"
+    },
+    {
+     "url": "http://www.economytalk.kr/news/articleView.html?idxno=424311",
+     "what": "Hakodate cited for atmosphere and night view",
+     "year": "2026"
+    }
+   ],
+   "strength": "weak"
+  }
+ ],
+ "attractions": [
+  {
+   "name_ko": "유니버설 스튜디오 재팬",
+   "name_local": "ユニバーサル・スタジオ・ジャパン",
+   "region_ko": "오사카",
+   "prefecture_ko": "오사카부",
+   "category": "테마파크",
+   "signal": "In Trip.com Korean-rating top 5; highest foreign visitation of Japanese attractions; ticket/express pass items top MyRealTrip Osaka list",
+   "evidence": [
+    {
+     "url": "https://guidablejobs.jp/contents/how-to-recruit/8125/",
+     "what": "3rd in Trip.com Korean ratings; about half of foreign-language reviews in Korean/English/Chinese"
+    },
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Named Osaka highlight"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "도톤보리",
+   "name_local": "道頓堀",
+   "region_ko": "오사카",
+   "prefecture_ko": "오사카부",
+   "category": "쇼핑거리",
+   "signal": "Appears on nearly every Korean-facing Osaka list",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Osaka highlight"
+    },
+    {
+     "url": "https://www.lifepepper.co.jp/korea/korea-inbound-points/",
+     "what": "Photo-caption icon of Korean trips"
+    },
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Listed with Glico sign"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "오사카성",
+   "name_local": "大阪城",
+   "region_ko": "오사카",
+   "prefecture_ko": "오사카부",
+   "category": "성",
+   "signal": "Named in three Korean/Japanese lists",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Osaka highlight"
+    },
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Listed first-tier Osaka spot"
+    },
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "All-nationality list highlight"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "신사이바시",
+   "name_local": "心斎橋",
+   "region_ko": "오사카",
+   "prefecture_ko": "오사카부",
+   "category": "쇼핑거리",
+   "signal": "Food/shopping stroll paired with Dotonbori",
+   "evidence": [
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Cited with Dotonbori for Korean visitors"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "아베노 하루카스 300 전망대",
+   "name_local": "あべのハルカス300",
+   "region_ko": "오사카",
+   "prefecture_ko": "오사카부",
+   "category": "전망대",
+   "signal": "Listed in MyRealTrip Osaka top products",
+   "evidence": [
+    {
+     "url": "https://www.myrealtrip.com/offers/116114",
+     "what": "Search result shows Harukas 300 ticket on MyRealTrip Osaka list (position uncertain)"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "오사카 가이유칸",
+   "name_local": "海遊館",
+   "region_ko": "오사카",
+   "prefecture_ko": "오사카부",
+   "category": "수족관",
+   "signal": "Korean blog Osaka list",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Listed under Osaka"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "덴포잔 대관람차",
+   "name_local": "天保山大観覧車",
+   "region_ko": "오사카",
+   "prefecture_ko": "오사카부",
+   "category": "놀이시설",
+   "signal": "Korean blog Osaka list",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Listed under Osaka"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "우메다(우메다 공원 일대)",
+   "name_local": "梅田",
+   "region_ko": "오사카",
+   "prefecture_ko": "오사카부",
+   "category": "도심/쇼핑",
+   "signal": "Trip.com Korean blog Osaka list",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Umeda listed under Osaka"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "오사카·간사이 엑스포 2025 부지",
+   "name_local": "大阪・関西万博",
+   "region_ko": "오사카",
+   "prefecture_ko": "오사카부",
+   "category": "이벤트(종료)",
+   "signal": "Marketing firm says Expo 2025 boosted Osaka popularity among Koreans; event ended Oct 2025",
+   "evidence": [
+    {
+     "url": "https://www.lifepepper.co.jp/korea/korea-inbound-points/",
+     "what": "Expo credited with raising Osaka popularity"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "도쿄 디즈니랜드",
+   "name_local": "東京ディズニーランド",
+   "region_ko": "도쿄",
+   "prefecture_ko": "지바현",
+   "category": "테마파크",
+   "signal": "No.1 in Trip.com Korean ratings; Disney 1-day passport in MyRealTrip Japan top list",
+   "evidence": [
+    {
+     "url": "https://guidablejobs.jp/contents/how-to-recruit/8125/",
+     "what": "1st of Korean-popular attractions"
+    },
+    {
+     "url": "https://www.myrealtrip.com/",
+     "what": "Disney passport among top Japan products"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "도쿄 디즈니씨",
+   "name_local": "東京ディズニーシー",
+   "region_ko": "도쿄",
+   "prefecture_ko": "지바현",
+   "category": "테마파크",
+   "signal": "2nd in Trip.com Korean ratings; Fantasy Springs opened June 2024",
+   "evidence": [
+    {
+     "url": "https://guidablejobs.jp/contents/how-to-recruit/8125/",
+     "what": "2nd of Korean-popular attractions"
+    },
+    {
+     "url": "https://www.myrealtrip.com/",
+     "what": "Disney passport among top Japan products"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "워너브라더스 스튜디오 투어 도쿄(해리포터)",
+   "name_local": "ワーナー ブラザース ス튜디오ツアー東京",
+   "region_ko": "도쿄",
+   "prefecture_ko": "도쿄도",
+   "category": "테마시설",
+   "signal": "4th in Trip.com Korean ratings; Harry Potter studio ticket 2nd on MyRealTrip Japan product list",
+   "evidence": [
+    {
+     "url": "https://guidablejobs.jp/contents/how-to-recruit/8125/",
+     "what": "4th among Korean-popular attractions"
+    },
+    {
+     "url": "https://www.myrealtrip.com/",
+     "what": "Product list position 2"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "시부야 스크램블 교차로",
+   "name_local": "渋谷スクランブル交差点",
+   "region_ko": "도쿄",
+   "prefecture_ko": "도쿄도",
+   "category": "명소/거리",
+   "signal": "Named across Korean lists",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Tokyo highlight"
+    },
+    {
+     "url": "https://en.travie.com/news/articleView.html?idxno=188",
+     "what": "Photo-caption"
+    },
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "All-nationality list"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "시부야 스크램블 스퀘어/시부야 스카이",
+   "name_local": "渋谷スクランブルスクエア・SHIBUYA SKY",
+   "region_ko": "도쿄",
+   "prefecture_ko": "도쿄도",
+   "category": "전망대",
+   "signal": "Trip.com Korean blog and KKday recommended",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Scramble Square listed under Tokyo"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "도쿄 스카이트리",
+   "name_local": "東京スカイツリー",
+   "region_ko": "도쿄",
+   "prefecture_ko": "도쿄도",
+   "category": "전망대",
+   "signal": "5th in Trip.com Korean ratings",
+   "evidence": [
+    {
+     "url": "https://guidablejobs.jp/contents/how-to-recruit/8125/",
+     "what": "5th among Korean-popular attractions"
+    },
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Tokyo list"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "센소지·아사쿠사",
+   "name_local": "浅草寺",
+   "region_ko": "도쿄",
+   "prefecture_ko": "도쿄도",
+   "category": "사찰",
+   "signal": "Appears in Korean and general lists",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Listed under Tokyo"
+    },
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Asakusa area named"
+    },
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Tokyo #1 highlight"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "도쿄 타워",
+   "name_local": "東京タワー",
+   "region_ko": "도쿄",
+   "prefecture_ko": "도쿄도",
+   "category": "전망대",
+   "signal": "Named in three Korean lists",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Tokyo highlight"
+    },
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Tokyo list"
+    },
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Tokyo list"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "지브리 미술관(미타카)",
+   "name_local": "三鷹の森ジブリ美術館",
+   "region_ko": "도쿄",
+   "prefecture_ko": "도쿄도",
+   "category": "미술관",
+   "signal": "Korean blog Tokyo list",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Listed under Tokyo"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "우에노 공원",
+   "name_local": "上野公園",
+   "region_ko": "도쿄",
+   "prefecture_ko": "도쿄도",
+   "category": "공원",
+   "signal": "Korean blog Tokyo list",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Listed under Tokyo"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "오다이바",
+   "name_local": "お台場",
+   "region_ko": "도쿄",
+   "prefecture_ko": "도쿄도",
+   "category": "베이에어리어",
+   "signal": "Odaiba fireworks cited in Travie Tokyo entry",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Tokyo highlight"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "나카메구로·다이칸야마",
+   "name_local": "中目黒・代官山",
+   "region_ko": "도쿄",
+   "prefecture_ko": "도쿄도",
+   "category": "카페/거리",
+   "signal": "Cited for cafe/shopping stroll",
+   "evidence": [
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Named as Korean-favored Tokyo areas"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "기요스미시라카와 카페 거리",
+   "name_local": "清澄白河",
+   "region_ko": "도쿄",
+   "prefecture_ko": "도쿄도",
+   "category": "카페/거리",
+   "signal": "Triple example of repeat-visitor back-alley trend",
+   "evidence": [
+    {
+     "url": "https://yamatogokoro.jp/report/55490/",
+     "what": "Cafe hopping cited as Korean trend (company data)"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "도에이 아라카와선(도덴)",
+   "name_local": "都電荒川線",
+   "region_ko": "도쿄",
+   "prefecture_ko": "도쿄도",
+   "category": "교통/명소",
+   "signal": "Triple example of back-alley trend",
+   "evidence": [
+    {
+     "url": "https://yamatogokoro.jp/report/55490/",
+     "what": "Cited as repeat-visitor Tokyo example"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "신주쿠 교엔",
+   "name_local": "新宿御苑",
+   "region_ko": "도쿄",
+   "prefecture_ko": "도쿄도",
+   "category": "공원",
+   "signal": "Tripadvisor top list (all nationalities)",
+   "evidence": [
+    {
+     "url": "https://www.tripadvisor.com/TravelersChoice-ThingsToDo-cTopAttractions-g294232",
+     "what": "Seen in search result for top-rated attractions"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "후지산·가와구치코",
+   "name_local": "富士山・河口湖",
+   "region_ko": "도쿄 근교",
+   "prefecture_ko": "야마나시현",
+   "category": "자연",
+   "signal": "Fuji day-tour products fill 5 of 12 listed Japan products on MyRealTrip page",
+   "evidence": [
+    {
+     "url": "https://www.myrealtrip.com/",
+     "what": "Multiple Mt Fuji tours with Korean guide on Japan product list"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "후지노미야(후지산 시즈오카측)",
+   "name_local": "富士宮",
+   "region_ko": "시즈오카",
+   "prefecture_ko": "시즈오카현",
+   "category": "자연",
+   "signal": "Klook bookings up 38x",
+   "evidence": [
+    {
+     "url": "https://www.segye.com/newsView/20251021500650",
+     "what": "Klook Jan-Sep 2025 38x growth"
+    },
+    {
+     "url": "http://www.madclub.co.kr/news/articleView.html?idxno=9383",
+     "what": "Fujinomiya favored by Korean Gen Z"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "하코네 오와쿠다니",
+   "name_local": "大涌谷",
+   "region_ko": "하코네",
+   "prefecture_ko": "가나가와현",
+   "category": "온천/자연",
+   "signal": "Day-tour product",
+   "evidence": [
+    {
+     "url": "https://www.myrealtrip.com/",
+     "what": "Fuji + Hakone Owakudani day trip product"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "아시노코(해상 도리이)",
+   "name_local": "芦ノ湖",
+   "region_ko": "하코네",
+   "prefecture_ko": "가나가와현",
+   "category": "호수",
+   "signal": "Korean-language tour guide route",
+   "evidence": [
+    {
+     "url": "https://livejapan.com/ko/in-tokyo/in-pref-fuji_mountain/in-mount_fuji/activity-day_tours/ac0130631/",
+     "what": "Seen in search result"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "요코하마 차이나타운",
+   "name_local": "横浜中華街",
+   "region_ko": "요코하마",
+   "prefecture_ko": "가나가와현",
+   "category": "거리",
+   "signal": "All-nationality highlight; Triple Yokohama",
+   "evidence": [
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Kanagawa highlight"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "나리타산 신쇼지",
+   "name_local": "成田山新勝寺",
+   "region_ko": "나리타",
+   "prefecture_ko": "지바현",
+   "category": "사찰",
+   "signal": "All-nationality highlight",
+   "evidence": [
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Chiba highlight"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "후시미 이나리 타이샤",
+   "name_local": "伏見稲荷大社",
+   "region_ko": "교토",
+   "prefecture_ko": "교토부",
+   "category": "신사",
+   "signal": "Top-rated in Tripadvisor (all nationalities); Kyoto highlight",
+   "evidence": [
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Kyoto highlight"
+    },
+    {
+     "url": "https://www.tripadvisor.com/TravelersChoice-ThingsToDo-cTopAttractions-g294232",
+     "what": "Seen as Tripadvisor top"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "기요미즈데라",
+   "name_local": "清水寺",
+   "region_ko": "교토",
+   "prefecture_ko": "교토부",
+   "category": "사찰",
+   "signal": "Kyoto highlight on Korean magazine and others",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Kiyomizu approach cited"
+    },
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Kyoto highlight"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "아라시야마 대나무숲",
+   "name_local": "嵐山竹林",
+   "region_ko": "교토",
+   "prefecture_ko": "교토부",
+   "category": "자연",
+   "signal": "Kyoto highlight in two Travie articles",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Kyoto highlight"
+    },
+    {
+     "url": "https://en.travie.com/news/articleView.html?idxno=188",
+     "what": "Kyoto highlight"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "긴카쿠지(금각사)",
+   "name_local": "金閣寺",
+   "region_ko": "교토",
+   "prefecture_ko": "교토부",
+   "category": "사찰",
+   "signal": "Kyoto highlight",
+   "evidence": [
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Kyoto highlight"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "니시혼간지",
+   "name_local": "西本願寺",
+   "region_ko": "교토",
+   "prefecture_ko": "교토부",
+   "category": "사찰",
+   "signal": "Named by Travie",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Kyoto highlight"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "기모노 체험(교토 시내)",
+   "name_local": "着物レンタル",
+   "region_ko": "교토",
+   "prefecture_ko": "교토부",
+   "category": "체험",
+   "signal": "Popular with Korean couples/women",
+   "evidence": [
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Qualitative"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "나라 공원(사슴)",
+   "name_local": "奈良公園",
+   "region_ko": "나라",
+   "prefecture_ko": "나라현",
+   "category": "공원",
+   "signal": "Named by several lists",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Nara highlight"
+    },
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Deer day trip"
+    },
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Nara highlight"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "도다이지",
+   "name_local": "東大寺",
+   "region_ko": "나라",
+   "prefecture_ko": "나라현",
+   "category": "사찰",
+   "signal": "Nara highlight",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Great Buddha cited"
+    },
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Nara highlight"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "고베 모토마치",
+   "name_local": "元町",
+   "region_ko": "고베",
+   "prefecture_ko": "효고현",
+   "category": "쇼핑거리",
+   "signal": "Travie Kobe entry",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Hyogo highlight"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "고베 기타노 이진칸 지구",
+   "name_local": "北野異人館",
+   "region_ko": "고베",
+   "prefecture_ko": "효고현",
+   "category": "역사지구",
+   "signal": "Travie Kobe entry",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Hyogo highlight"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "고베 하버랜드 야경",
+   "name_local": "神戸ハーバーランド",
+   "region_ko": "고베",
+   "prefecture_ko": "효고현",
+   "category": "야경",
+   "signal": "Travie Kobe entry",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Harbor night view cited"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "아리마 온천",
+   "name_local": "有馬温泉",
+   "region_ko": "고베",
+   "prefecture_ko": "효고현",
+   "category": "온천",
+   "signal": "Named in two Travie articles",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Hyogo highlight"
+    },
+    {
+     "url": "https://en.travie.com/news/articleView.html?idxno=188",
+     "what": "Hyogo highlight"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "다자이후 텐만구",
+   "name_local": "太宰府天満宮",
+   "region_ko": "후쿠오카",
+   "prefecture_ko": "후쿠오카현",
+   "category": "신사",
+   "signal": "Named across Travie and all-nationality list",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Fukuoka highlight"
+    },
+    {
+     "url": "https://en.travie.com/news/articleView.html?idxno=188",
+     "what": "Fukuoka highlight"
+    },
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Fukuoka #7 highlight"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "나카스 포장마차(야타이)",
+   "name_local": "中洲屋台",
+   "region_ko": "후쿠오카",
+   "prefecture_ko": "후쿠오카현",
+   "category": "먹거리거리",
+   "signal": "Named in Travie and Wanjeon",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Fukuoka highlight"
+    },
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Yatai street food"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "캐널시티 하카타",
+   "name_local": "キャナルシティ博多",
+   "region_ko": "후쿠오카",
+   "prefecture_ko": "후쿠오카현",
+   "category": "쇼핑",
+   "signal": "Trip.com blog and all-nationality list",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Fukuoka list"
+    },
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Fukuoka highlight"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "후쿠오카 타워",
+   "name_local": "福岡タワー",
+   "region_ko": "후쿠오카",
+   "prefecture_ko": "후쿠오카현",
+   "category": "전망대",
+   "signal": "Trip.com blog",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Fukuoka list"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "모모치 해변공원",
+   "name_local": "百道浜",
+   "region_ko": "후쿠오카",
+   "prefecture_ko": "후쿠오카현",
+   "category": "해변",
+   "signal": "Two Korean blogs",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Fukuoka list"
+    },
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Fukuoka list"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "오호리 공원",
+   "name_local": "大濠公園",
+   "region_ko": "후쿠오카",
+   "prefecture_ko": "후쿠오카현",
+   "category": "공원",
+   "signal": "Trip.com blog",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Fukuoka list"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "덴진 지하상가",
+   "name_local": "天神地下街",
+   "region_ko": "후쿠오카",
+   "prefecture_ko": "후쿠오카현",
+   "category": "쇼핑거리",
+   "signal": "Two lists",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Fukuoka list"
+    },
+    {
+     "url": "https://en.travie.com/news/articleView.html?idxno=188",
+     "what": "Tenjin arcades"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "이토시마",
+   "name_local": "糸島",
+   "region_ko": "후쿠오카",
+   "prefecture_ko": "후쿠오카현",
+   "category": "해변/드라이브",
+   "signal": "Travie Fukuoka entry",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Itoshima beach cited"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "유후인 킨린코 호수 일대",
+   "name_local": "由布院 金鱗湖",
+   "region_ko": "유후인",
+   "prefecture_ko": "오이타현",
+   "category": "온천마을",
+   "signal": "Drama/travel show exposure",
+   "evidence": [
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Kinrin Lake and retro street"
+    },
+    {
+     "url": "https://www.newstravel.co.kr/news/article.html?no=27645",
+     "what": "Yufuin in Modetour Kyushu push"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "유노츠보 거리",
+   "name_local": "湯の坪街道",
+   "region_ko": "유후인",
+   "prefecture_ko": "오이타현",
+   "category": "쇼핑거리",
+   "signal": "Korean blog",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Yunotsubo listed"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "벳푸 온천",
+   "name_local": "別府温泉",
+   "region_ko": "벳푸",
+   "prefecture_ko": "오이타현",
+   "category": "온천",
+   "signal": "Named in Triple app Fukuoka trips and lifepepper",
+   "evidence": [
+    {
+     "url": "https://yamatogokoro.jp/report/55490/",
+     "what": "Beppu in Fukuoka-area trips"
+    },
+    {
+     "url": "https://www.lifepepper.co.jp/korea/korea-inbound-points/",
+     "what": "Beppu cited"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "구마모토성",
+   "name_local": "熊本城",
+   "region_ko": "구마모토",
+   "prefecture_ko": "구마모토현",
+   "category": "성",
+   "signal": "Korean blog list; Kumamoto Korean growth",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Listed"
+    },
+    {
+     "url": "https://kumanichi.com/articles/1966975",
+     "what": "Korea 1st foreign market 2025"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "아소산",
+   "name_local": "阿蘇山",
+   "region_ko": "구마모토",
+   "prefecture_ko": "구마모토현",
+   "category": "자연",
+   "signal": "Korean blog",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Listed"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "하우스텐보스",
+   "name_local": "ハウステンボス",
+   "region_ko": "사세보",
+   "prefecture_ko": "나가사키현",
+   "category": "테마파크",
+   "signal": "Named in Modetour Kyushu push",
+   "evidence": [
+    {
+     "url": "https://www.newstravel.co.kr/news/article.html?no=27645",
+     "what": "Named"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "우레시노 온천",
+   "name_local": "嬉野温泉",
+   "region_ko": "사가",
+   "prefecture_ko": "사가현",
+   "category": "온천",
+   "signal": "Modetour and Khan",
+   "evidence": [
+    {
+     "url": "https://www.newstravel.co.kr/news/article.html?no=27645",
+     "what": "Named in Saga promo"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "가라쓰",
+   "name_local": "唐津",
+   "region_ko": "사가",
+   "prefecture_ko": "사가현",
+   "category": "성/해안",
+   "signal": "Modetour Saga promo",
+   "evidence": [
+    {
+     "url": "https://www.newstravel.co.kr/news/article.html?no=27645",
+     "what": "Named"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "도고 온천",
+   "name_local": "道後温泉",
+   "region_ko": "마쓰야마",
+   "prefecture_ko": "에히메현",
+   "category": "온천",
+   "signal": "Honkan reopened fully July 2024; Korean blog list; Korea share 42.4% Ehime",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Listed"
+    },
+    {
+     "url": "https://www.pref.ehime.jp/uploaded/attachment/166549.pdf",
+     "what": "Honkan fully reopened 2024"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "마쓰야마성",
+   "name_local": "松山城",
+   "region_ko": "마쓰야마",
+   "prefecture_ko": "에히메현",
+   "category": "성",
+   "signal": "Korean blog",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Listed"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "리쓰린 공원",
+   "name_local": "栗林公園",
+   "region_ko": "다카마쓰",
+   "prefecture_ko": "가가와현",
+   "category": "정원",
+   "signal": "Vogue Korea direct-flight article",
+   "evidence": [
+    {
+     "url": "https://www.vogue.co.kr/2025/02/21/%ec%a7%81%ed%95%ad%ec%9c%bc%eb%a1%9c-%eb%96%a0%eb%82%98%eb%8a%94-%ec%9d%bc%eb%b3%b8-%ec%86%8c%eb%8f%84%ec%8b%9c-4/",
+     "what": "Seen in search result"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "다카마쓰성(다마모성)",
+   "name_local": "高松城",
+   "region_ko": "다카마쓰",
+   "prefecture_ko": "가가와현",
+   "category": "성",
+   "signal": "Korean blog",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Listed"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "사누키 우동 투어",
+   "name_local": "讃岐うどん",
+   "region_ko": "가가와",
+   "prefecture_ko": "가가와현",
+   "category": "먹거리",
+   "signal": "Promoted by Korean YouTubers",
+   "evidence": [
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Qualitative"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "삿포로 눈축제",
+   "name_local": "さっぽろ雪まつり",
+   "region_ko": "삿포로",
+   "prefecture_ko": "홋카이도",
+   "category": "축제",
+   "signal": "Named across Korean lists",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Hokkaido highlight"
+    },
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Sapporo list"
+    },
+    {
+     "url": "https://www.easytripcafe.com/%EC%9D%BC%EB%B3%B8-%EA%B4%80%EA%B4%91%EC%A7%80-%EB%B2%A0%EC%8A%A4%ED%8A%B8/",
+     "what": "Hokkaido list"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "오타루 운하",
+   "name_local": "小樽運河",
+   "region_ko": "오타루",
+   "prefecture_ko": "홋카이도",
+   "category": "운하/거리",
+   "signal": "Several lists",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Hokkaido highlight"
+    },
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Otaru named"
+    },
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Hokkaido highlight"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "비에이·후라노 꽃밭",
+   "name_local": "美瑛・富良野",
+   "region_ko": "비에이/후라노",
+   "prefecture_ko": "홋카이도",
+   "category": "자연",
+   "signal": "Travie and all-nationality list",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Hokkaido highlight"
+    },
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Furano highlight"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "니세코",
+   "name_local": "ニセコ",
+   "region_ko": "니세코",
+   "prefecture_ko": "홋카이도",
+   "category": "스키/자연",
+   "signal": "Gen Z Klook survey and Travie",
+   "evidence": [
+    {
+     "url": "http://www.madclub.co.kr/news/articleView.html?idxno=9383",
+     "what": "Niseko favored by Korean Gen Z"
+    },
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Hokkaido highlight"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "삿포로 오도리 공원",
+   "name_local": "大通公園",
+   "region_ko": "삿포로",
+   "prefecture_ko": "홋카이도",
+   "category": "공원",
+   "signal": "All-nationality highlight",
+   "evidence": [
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Hokkaido highlight"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "시로히게 폭포",
+   "name_local": "白ひげの滝",
+   "region_ko": "비에이",
+   "prefecture_ko": "홋카이도",
+   "category": "자연",
+   "signal": "Trip.com Korean blog",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Sapporo list"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "하코다테 야경",
+   "name_local": "函館山夜景",
+   "region_ko": "하코다테",
+   "prefecture_ko": "홋카이도",
+   "category": "야경",
+   "signal": "Economy Talk and Travie caption",
+   "evidence": [
+    {
+     "url": "http://www.economytalk.kr/news/articleView.html?idxno=424311",
+     "what": "Night view"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "오키나와 추라우미 수족관",
+   "name_local": "美ら海水族館",
+   "region_ko": "오키나와 본섬",
+   "prefecture_ko": "오키나와현",
+   "category": "수족관",
+   "signal": "Four lists",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Okinawa highlight"
+    },
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Okinawa list"
+    },
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Okinawa highlight"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "국제거리(나하)",
+   "name_local": "国際通り",
+   "region_ko": "나하",
+   "prefecture_ko": "오키나와현",
+   "category": "쇼핑거리",
+   "signal": "Three lists",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Okinawa highlight"
+    },
+    {
+     "url": "https://en.travie.com/news/articleView.html?idxno=188",
+     "what": "Okinawa highlight"
+    },
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Okinawa highlight"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "슈리성",
+   "name_local": "首里城",
+   "region_ko": "나하",
+   "prefecture_ko": "오키나와현",
+   "category": "성",
+   "signal": "Four lists",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Okinawa highlight"
+    },
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Ryukyu heritage"
+    },
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Okinawa highlight"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "아메리칸 빌리지(차탄)",
+   "name_local": "アメリカンビレッジ",
+   "region_ko": "차탄",
+   "prefecture_ko": "오키나와현",
+   "category": "쇼핑/먹거리",
+   "signal": "Three lists",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Okinawa highlight"
+    },
+    {
+     "url": "https://en.travie.com/news/articleView.html?idxno=188",
+     "what": "Okinawa highlight"
+    },
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Chatan listed"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "미야코지마",
+   "name_local": "宮古島",
+   "region_ko": "미야코지마",
+   "prefecture_ko": "오키나와현",
+   "category": "해변/자연",
+   "signal": "Jin Air route launched May 2024; Triple searches surged",
+   "evidence": [
+    {
+     "url": "https://yamatogokoro.jp/report/55490/",
+     "what": "Jin Air launch and search surge"
+    },
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Okinawa highlight"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "파인애플 파크(나고)",
+   "name_local": "ナゴパイナップルパーク",
+   "region_ko": "나고",
+   "prefecture_ko": "오키나와현",
+   "category": "테마시설",
+   "signal": "Two Korean blogs",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Okinawa list"
+    },
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Okinawa list"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "게라마 제도",
+   "name_local": "ケラマ諸島",
+   "region_ko": "오키나와",
+   "prefecture_ko": "오키나와현",
+   "category": "해양",
+   "signal": "Korean blog",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Kerama Blue"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "나고야성",
+   "name_local": "名古屋城",
+   "region_ko": "나고야",
+   "prefecture_ko": "아이치현",
+   "category": "성",
+   "signal": "Several lists",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Aichi highlight"
+    },
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Nagoya list"
+    },
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Aichi highlight"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "오스 상점가",
+   "name_local": "大須商店街",
+   "region_ko": "나고야",
+   "prefecture_ko": "아이치현",
+   "category": "쇼핑거리",
+   "signal": "Three lists",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Aichi highlight"
+    },
+    {
+     "url": "https://en.travie.com/news/articleView.html?idxno=188",
+     "what": "Aichi highlight"
+    },
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Nagoya list"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "지브리 파크",
+   "name_local": "ジブリパーク",
+   "region_ko": "나가쿠테",
+   "prefecture_ko": "아이치현",
+   "category": "테마파크",
+   "signal": "Cited as Nagoya interest driver",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Interest since 2022 opening"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "레고랜드 재팬",
+   "name_local": "レゴランド・ジャパン",
+   "region_ko": "나고야",
+   "prefecture_ko": "아이치현",
+   "category": "테마파크",
+   "signal": "Travie x2, Trip.com",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Aichi highlight"
+    },
+    {
+     "url": "https://kr.trip.com/blog/japan-travel-destination-recommendation/",
+     "what": "Nagoya list"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "아쓰타 신궁",
+   "name_local": "熱田神宮",
+   "region_ko": "나고야",
+   "prefecture_ko": "아이치현",
+   "category": "신사",
+   "signal": "All-nationality highlight",
+   "evidence": [
+    {
+     "url": "https://www.giken.co.jp/column/inbound-tourist-ranking-2026/",
+     "what": "Aichi highlight"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "도요타 자동차 박물관",
+   "name_local": "トヨタ博物館",
+   "region_ko": "나가쿠테",
+   "prefecture_ko": "아이치현",
+   "category": "박물관",
+   "signal": "Travie Aichi entry",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Aichi highlight"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "지고쿠다니 야생원숭이공원",
+   "name_local": "地獄谷野猿公苑",
+   "region_ko": "나가노",
+   "prefecture_ko": "나가노현",
+   "category": "자연",
+   "signal": "Two Travie articles",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Nagano highlight"
+    },
+    {
+     "url": "https://en.travie.com/news/articleView.html?idxno=188",
+     "what": "Nagano highlight"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "젠코지",
+   "name_local": "善光寺",
+   "region_ko": "나가노",
+   "prefecture_ko": "나가노현",
+   "category": "사찰",
+   "signal": "Two Travie",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Nagano highlight"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "하쿠바",
+   "name_local": "白馬",
+   "region_ko": "나가노",
+   "prefecture_ko": "나가노현",
+   "category": "스키/자연",
+   "signal": "Two Travie",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Nagano highlight"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "노자와 온천",
+   "name_local": "野沢温泉",
+   "region_ko": "나가노",
+   "prefecture_ko": "나가노현",
+   "category": "온천/스키",
+   "signal": "Travie",
+   "evidence": [
+    {
+     "url": "https://www.travie.com/news/articleView.html?idxno=54774",
+     "what": "Nagano highlight"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "가루이자와",
+   "name_local": "軽井沢",
+   "region_ko": "나가노",
+   "prefecture_ko": "나가노현",
+   "category": "휴양지",
+   "signal": "Wanjeon",
+   "evidence": [
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Named"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "마쓰모토성",
+   "name_local": "松本城",
+   "region_ko": "마쓰모토",
+   "prefecture_ko": "나가노현",
+   "category": "성",
+   "signal": "Inbound-lab rising small city",
+   "evidence": [
+    {
+     "url": "https://inbound-lab.com/news/popular_japanese_spots_among_koreans/",
+     "what": "Matsumoto named"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "겐로쿠엔",
+   "name_local": "兼六園",
+   "region_ko": "가나자와",
+   "prefecture_ko": "이시카와현",
+   "category": "정원",
+   "signal": "Wanjeon",
+   "evidence": [
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Named"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "히가시 차야 거리",
+   "name_local": "ひがし茶屋街",
+   "region_ko": "가나자와",
+   "prefecture_ko": "이시카와현",
+   "category": "역사지구",
+   "signal": "Wanjeon",
+   "evidence": [
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Named"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "구마노 고도",
+   "name_local": "熊野古道",
+   "region_ko": "와카야마",
+   "prefecture_ko": "와카야마현",
+   "category": "순례길",
+   "signal": "Wanjeon",
+   "evidence": [
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Named"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "시라하마 온천",
+   "name_local": "白浜温泉",
+   "region_ko": "와카야마",
+   "prefecture_ko": "와카야마현",
+   "category": "온천",
+   "signal": "Wanjeon",
+   "evidence": [
+    {
+     "url": "https://wanjeon.tv-aichi.co.jp/277-article/",
+     "what": "Named"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "네부타의 집 와랏세",
+   "name_local": "ねぶたの家 ワ・ラッセ",
+   "region_ko": "아오모리",
+   "prefecture_ko": "아오모리현",
+   "category": "박물관",
+   "signal": "Korean blog",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Aomori listed"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "A-Factory(아오모리)",
+   "name_local": "A-FACTORY",
+   "region_ko": "아오모리",
+   "prefecture_ko": "아오모리현",
+   "category": "쇼핑/먹거리",
+   "signal": "Korean blog",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9D%BC%EB%B3%B8%ED%95%98%EB%A9%B4-%EA%BC%AD-%EA%B0%80%EB%B4%90%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-best-10",
+     "what": "Aomori listed"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "쓰시마 이즈하라 항구 일대",
+   "name_local": "厳原",
+   "region_ko": "쓰시마",
+   "prefecture_ko": "나가사키현",
+   "category": "소도시/자연",
+   "signal": "Izuhara/Hitakatsu ports about 266k Korean arrivals 2025",
+   "evidence": [
+    {
+     "url": "https://view.nate.com/fun/view/384607/",
+     "what": "Port arrivals data"
+    }
+   ],
+   "strength": "medium"
+  }
+ ],
+ "notes": "No official per-prefecture Korean visit-rate table (JTA 인바운드 소비동향조사 Table 6-1) could be opened; the PDF/Excel was not readable via fetch. The closest institutional signal is the 2025 JTA accommodation-night breakdown for Korean guests, which I only saw second-hand in Herald Economy (2026-09-23): Tokyo about 3.68M, Fukuoka about 2.88M, Osaka about 2.84M, Hokkaido about 2.38M, Okinawa about 1.15M nights (top 5 over 70% of Korean nights); Kyushu Korean share 35.8% (Oita 38.9, Fukuoka 36.8, Kagoshima 34.3, Saga 34.2); Ehime 42.4% highest in Japan. Arrival-by-airport figures (Osaka 2.49M, Tokyo 2.16M, Fukuoka 2.07M, Sapporo 0.82M, Naha 0.50M, Nagoya 0.35M, Tsushima 0.27M, Kumamoto 0.14M, Matsuyama 0.13M) come from a Daum/Nate blog compiling e-Stat, so treat as secondary; port/airport counts understate Fukuoka (Kitakyushu, Saga, Shimonoseki entries) and rank Osaka above Tokyo, whereas nights rank Tokyo first and Fukuoka above Osaka. Platform signals: MyRealTrip 2025 (Fukuoka top Japan city in flights, Osaka top in tours/tickets and accommodation); Agoda search 2025 (Tokyo, Fukuoka, Osaka top 3, Sapporo 8th); Skyscanner H1 flight searches (Fukuoka 2nd) were seen only in a search summary. National totals: 2025 Korean arrivals 9,459,6xx (+7.3%; one search snippet said +8.3%, treat 7.3% as correct per several outlets); 2026 Jan-Aug 7.42M (+21.2%). Attraction-level evidence is weak overall: there is no Korean-specific visitor-count table per attraction; the best items are Trip.com Korean-rating top 5 (Disneyland, DisneySea, USJ, Warner Bros Studio Tour Tokyo, Skytree) as relayed by a recruiting-site article of uncertain method, MyRealTrip homepage product order (single snapshot), and editorial lists (Travie, Trip.com blog, Tripstore) with no stated methodology. Many entries are qualitative blog/editorial mentions or all-nationality lists (giken.co.jp, Tripadvisor); I marked them weak or medium accordingly. Several fetches were paywalled or blocked (Nikkei details, honichi member sections, Tripadvisor 403, KKday 403, sikdorakuniv 403), so Klook/KKday/Triple full rankings, Kyoto and Hiroshima Korean-specific counts, and Nagasaki/Kagoshima/Hakodate numbers are missing. Klook survey (Korea Gen Z likes Fujinomiya and Niseko) is a stated-preference survey, not bookings. A Kumanichi headline mentions a July 2026 Kumamoto earthquake that sharply cut inbound visits to Kumamoto city; I did not verify details, so check before prioritizing Kumamoto. Kyoto is imposing tourist surcharges (lodging tax up to 10,000 yen, higher bus fares for non-residents) per Herald Economy 2026-02, which may affect trip patterns. Korean small-city interest (Matsuyama, Kumamoto, Shizuoka, Takamatsu, Hiroshima, Saga) is growing quickly but from a small base compared with Tokyo/Osaka/Fukuoka. Suggested Tier A candidates: Tokyo, Osaka, Fukuoka, Hokkaido (Sapporo/Otaru), Okinawa, Kyoto, Nagoya, Yufuin/Beppu, plus Matsuyama/Kumamoto as emerging."
+}

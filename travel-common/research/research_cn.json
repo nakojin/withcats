@@ -1,0 +1,1732 @@
+{
+ "regions": [
+  {
+   "name_ko": "상하이",
+   "name_local": "上海",
+   "province_ko": "상하이시",
+   "already_covered": true,
+   "signal": "2025년 상하이 방문 한국인 약 90.9만 명(+103.6%)으로 상하이 최대 입국 시장(신화사). 하나투어 2026년 1~2월 기준 중국 도시 1위, 상반기 예약 +71%. NOL유니버스 기준 중국행 수요의 거의 절반, 한국발 약 50만 명(2026.1~5월, 성장률 약 20%). 아고다 한국인 수요 순위 29위→12위.",
+   "evidence": [
+    {
+     "url": "https://www.news.cn/local/20260123/d43b16e3130948e4ae501a06efca9c58/c.html",
+     "what": "2025년 방문 한국인 약 90.9만 명, 전년 대비 103.6% 증가, 상하이 최대 입국 시장",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.heraldk.com/article/2026011221504305222",
+     "what": "한 여행사 기준 2025년 순위(장가계, 홍콩, 칭다오, 상하이)에서 2026년 상하이 1위로 역전, 1분기 중국 예약 +40~87%",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.newsspace.kr/news/article.html?no=14682",
+     "what": "하나투어: 상하이 상반기 예약 +71%, 도시 목적지 1위",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.koreajoongangdaily.com/business/short-flights-cheap-tickets-boost-demand-for-travel-to-china-amid-high-oil-prices-weak-won/12614505",
+     "what": "NOL유니버스 기준 상하이 노선 수요 약 +77%, 중국 여행 수요의 거의 절반",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.hankyung.com/article/202601090924g",
+     "what": "아고다 한국인 수요 29위→12위(최고 상승), 이재명 대통령 방중 직후 참좋은여행 상하이 패키지 +394%",
+     "year": "2026"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "칭다오",
+   "name_local": "青岛",
+   "province_ko": "산둥성",
+   "already_covered": true,
+   "signal": "2025년 1~11월 칭다오 공항 입국 한국인 35.6만 명(+56.5%), 한국이 최대 시장. 트립닷컴 금요일 출발 주말여행 예약 중 칭다오 30% 이상(중국 도시 1위). 모두투어 2024 겨울 중국 예약 1위(28%). 한국발 약 35만 명(2026.1~5월).",
+   "evidence": [
+    {
+     "url": "https://cn.chinadaily.com.cn/a/202512/25/WS694c9da3a310942cc4998714.html",
+     "what": "2025.1~11월 칭다오 공항 입국 한국인 약 35.6만 명, +56.48%, 1위 시장",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.hankyung.com/article/202506258175g",
+     "what": "트립닷컴 주말(금~일) 항공 예약에서 칭다오가 중국 도시 중 30% 이상, 옌타이 8.5%",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.dailian.co.kr/news/view/1425784/",
+     "what": "모두투어 2024 겨울 중국 예약 비중 1위 28%",
+     "year": "2024"
+    },
+    {
+     "url": "https://www.edaily.co.kr/News/Read?newsId=04592006645482704&mediaCodeNo=257",
+     "what": "한국발 약 35만 명(2026.1~5월)",
+     "year": "2026"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "장가계(장자제)",
+   "name_local": "张家界",
+   "province_ko": "후난성",
+   "already_covered": true,
+   "signal": "하나투어 연간 기준 중국 노선 압도적 1위(여름만 백두산이 앞섬). 2025년 이후에도 한국이 장가계 최대 입국 시장. 한국발 승객 +62.7%(2026.1~5월). 2025.1~2월 장가계 입국 외국인 10.6만 중 한국인 4.6만(43%).",
+   "evidence": [
+    {
+     "url": "https://www.newsspace.kr/news/article.html?no=14682",
+     "what": "하나투어: 연중 수요의 기반, 연간 1위로 서술",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.yicai.com/news/103184948.html",
+     "what": "한국이 여전히 장가계 최대 입국 시장, 유럽·미주는 +260%",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.edaily.co.kr/News/Read?newsId=04592006645482704&mediaCodeNo=257",
+     "what": "한국발 장가계 승객 +62.7%",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.koreatimes.co.kr/amp/business/others/20260806/korean-airlines-expand-china-routes-as-travel-rebound-spreads-beyond-major-cities",
+     "what": "이스타항공 대구발 장가계 2026.9.1 취항 예정",
+     "year": "2026"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "연변(연길)·백두산",
+   "name_local": "延边/长白山",
+   "province_ko": "지린성",
+   "already_covered": true,
+   "signal": "하나투어 2026년 7~8월 중국 노선 1위, 예약 +37%로 장가계의 약 2.6배. 연길공항 춘절 입국 외국인 중 한국인 88.1%. 금~일 주말 단기여행지로 부상.",
+   "evidence": [
+    {
+     "url": "https://www.ddaily.co.kr/page/view/2026070815205058768",
+     "what": "백두산 7~8월 예약 +37%, 장가계 수요 2.6배, 연간 수요의 약 40%가 7~8월",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.news.cn/travel/20250217/093b71991fbf467c8ca08c9a65de9af3/c.html",
+     "what": "연길공항 입국 외국인 중 한국 국적 88.1%, 금~일 2박3일 주말여행 패턴",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.newsspace.kr/news/article.html?no=14682",
+     "what": "하나투어 여름 순위 1위",
+     "year": "2026"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "베이징",
+   "name_local": "北京",
+   "province_ko": "베이징시",
+   "already_covered": true,
+   "signal": "한국발 약 30만 명(2026.1~5월), 성장률은 약 20%로 성숙 단계. 중국관광청 서울 설문(보도)에서 상하이·베이징·장가계·칭다오가 인기 지역. 클룩 중국 상위 3개 도시에 포함(중앙데일리).",
+   "evidence": [
+    {
+     "url": "https://www.edaily.co.kr/News/Read?newsId=04592006645482704&mediaCodeNo=257",
+     "what": "한국발 베이징 약 30만 명, 약 20% 성장",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671631.shtml",
+     "what": "서울 중국관광청 2,600명 설문 보도: 상하이, 베이징, 장가계, 칭다오가 인기 목적지",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.koreajoongangdaily.com/business/short-flights-cheap-tickets-boost-demand-for-travel-to-china-amid-high-oil-prices-weak-won/12614505",
+     "what": "베이징이 클룩 중국 상위 3개 도시",
+     "year": "2026"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "충칭",
+   "name_local": "重庆",
+   "province_ko": "충칭시",
+   "already_covered": false,
+   "signal": "한국발 승객 +69.1%(2026.1~5월). 클룩 중국 상위 3개 도시. 호텔스닷컴 한국인 검색 6개월 +305%(최고). 아시아나가 인천-충칭 매일 운항(2026.3.29~). 2030 세대 중심으로 부상.",
+   "evidence": [
+    {
+     "url": "https://www.edaily.co.kr/News/Read?newsId=04592006645482704&mediaCodeNo=257",
+     "what": "충칭 승객 +69.1%, 야경·마라탕·훠궈 등이 SNS 확산 요인",
+     "year": "2026"
+    },
+    {
+     "url": "https://v.daum.net/v/20250816174800741",
+     "what": "호텔스닷컴 한국인 검색 +305%, 조천문시장/장강 케이블카/량몐 언급",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.koreajoongangdaily.com/business/short-flights-cheap-tickets-boost-demand-for-travel-to-china-amid-high-oil-prices-weak-won/12614505",
+     "what": "클룩 상위 3개 도시, 20~40대 관심",
+     "year": "2026"
+    },
+    {
+     "url": "https://v.daum.net/v/20260730110409198",
+     "what": "30대 직장인 단체 방문 사례, 기성 인기 대도시로 분류",
+     "year": "2026"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "청두",
+   "name_local": "成都",
+   "province_ko": "쓰촨성",
+   "already_covered": true,
+   "signal": "한국발 승객 +46.1%(2026.1~5월). 아시아나 인천-청두 매일 운항. 판다 투어와 쓰촨 음식으로 20~40대 수요. 서울신문에서 한국 크리에이터 방문 도시로 언급.",
+   "evidence": [
+    {
+     "url": "https://www.edaily.co.kr/News/Read?newsId=04592006645482704&mediaCodeNo=257",
+     "what": "청두 승객 +46.1%, 판다·쓰촨요리 콘텐츠",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.etoday.co.kr/news/view/2495502",
+     "what": "아시아나 인천-청두 일 1회(2025 여름 노선 확대 기사)",
+     "year": "2025"
+    },
+    {
+     "url": "https://m.seoul.co.kr/news/2026/04/27/20260427500124",
+     "what": "크리에이터 콘텐츠로 상하이·선전·청두가 주목",
+     "year": "2026"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "하얼빈",
+   "name_local": "哈尔滨",
+   "province_ko": "헤이룽장성",
+   "already_covered": false,
+   "signal": "여행사 취재상 겨울 빙등제·안중근 의거지로 수요 크게 증가(한 여행사 1분기 중국 예약 +87% 중 언급). 제주항공 하얼빈 노선 예약률 20.9% 상승 보도. 정량 한국인 통계는 미확인.",
+   "evidence": [
+    {
+     "url": "https://www.heraldk.com/article/2026011221504305222",
+     "what": "겨울 하얼빈 빙등제 여행이 크게 늘었고 안중근 의거지와 연결된다고 서술",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.edaily.co.kr/News/Read?newsId=04592006645482704&mediaCodeNo=257",
+     "what": "하얼빈이 케이카(취날) 설 연휴 외국인 인기 도시 상위권(한국인 한정 아님)",
+     "year": "2026"
+    },
+    {
+     "url": "https://v.daum.net/v/20250214154438811?f=p",
+     "what": "문체부 장관 발언: 빙등제 기간 관광객 약 300만 명",
+     "year": "2025"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "윈난성(쿤밍·리장·다리)",
+   "name_local": "云南(昆明/丽江/大理)",
+   "province_ko": "윈난성",
+   "already_covered": false,
+   "signal": "하나투어 2026년 여름 중국 5위 지역(패키지·접근성 제약 있어 성장 여지). 모두투어 2024 겨울 중국 예약 3위(리장·쿤밍 13%).",
+   "evidence": [
+    {
+     "url": "https://www.newsspace.kr/news/article.html?no=14682",
+     "what": "하나투어 여름 5위 윈난성",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.dailian.co.kr/news/view/1425784/",
+     "what": "모두투어 2024 겨울 리장·쿤밍 13%로 3위",
+     "year": "2024"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "샤먼",
+   "name_local": "厦门",
+   "province_ko": "푸젠성",
+   "already_covered": false,
+   "signal": "모두투어 2024 겨울 중국 예약 4위(11%). 대한항공이 샤먼을 레저 노선으로 확대 중. 서울신문·다음 기사에서 신흥 도시로 언급.",
+   "evidence": [
+    {
+     "url": "https://www.dailian.co.kr/news/view/1425784/",
+     "what": "모두투어 2024 겨울 4위 11%",
+     "year": "2024"
+    },
+    {
+     "url": "https://www.koreatimes.co.kr/amp/business/others/20260806/korean-airlines-expand-china-routes-as-travel-rebound-spreads-beyond-major-cities",
+     "what": "대한항공이 베이징·상하이 외 장가계·샤먼·정저우 레저 노선 확대",
+     "year": "2026"
+    },
+    {
+     "url": "https://v.daum.net/v/20260730110409198",
+     "what": "신흥 인기 도시로 샤먼 소개(섬, 구시가지, 카페)",
+     "year": "2026"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "웨이하이·옌타이",
+   "name_local": "威海/烟台",
+   "province_ko": "산둥성",
+   "already_covered": false,
+   "signal": "트립닷컴 주말 예약에서 옌타이 8.5%(전체 4위 도시). 제주항공 인천-웨이하이 주 3회로 증편. 산둥성 상반기 한국인 약 21만 명이 면비자로 입국(칭다오 포함 합계). 웨이하이는 정량 한국인 통계 미확인.",
+   "evidence": [
+    {
+     "url": "https://www.hankyung.com/article/202506258175g",
+     "what": "옌타이 8.5%, 펑라이각·창다오 등 소개",
+     "year": "2025"
+    },
+    {
+     "url": "https://www.etoday.co.kr/news/view/2495502",
+     "what": "제주항공 웨이하이 주 3회, 칭다오 재개",
+     "year": "2025"
+    },
+    {
+     "url": "https://m.dzplus.dzng.com/share/general/0/NEWS2286042DEUKYKTETVEWT",
+     "what": "검색결과 요약: 산둥성 상반기 입국 한국인 약 21만 명(웨이하이 400명 단체 사례)",
+     "year": "2025"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "광저우",
+   "name_local": "广州",
+   "province_ko": "광둥성",
+   "already_covered": false,
+   "signal": "한중 항공 협정 증편 시 상하이와 함께 증편 기대 도시. 서울신문 등에서 신흥 도시(딤섬, 주강 야경)로 소개. 정량 데이터 없음.",
+   "evidence": [
+    {
+     "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671631.shtml",
+     "what": "주 70회 증편 합의, 상하이·광저우 증편 기대, 부산·청주 등 10개 도시 주 14회 추가",
+     "year": "2026"
+    },
+    {
+     "url": "https://v.daum.net/v/20260730110409198",
+     "what": "신흥 도시로 광저우 소개",
+     "year": "2026"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "선전",
+   "name_local": "深圳",
+   "province_ko": "광둥성",
+   "already_covered": false,
+   "signal": "한국 크리에이터 콘텐츠(자율주행 택시, BYD 택시)로 주목. 한중 항공 증편 대상 도시에 포함(광저우·충칭·선전). 통계 없음.",
+   "evidence": [
+    {
+     "url": "https://m.seoul.co.kr/news/2026/04/27/20260427500124",
+     "what": "크리에이터가 선전 자율주행 택시 소개",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671631.shtml",
+     "what": "광저우·충칭·선전 포함 노선 증편 보도",
+     "year": "2026"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "시안",
+   "name_local": "西安",
+   "province_ko": "산시성(섬서)",
+   "already_covered": true,
+   "signal": "제주항공 제주-시안 2026.5 재개(주 2회). 서울신문·브런치에서 역사 도시로 소개. 하나투어 상위 5 순위에는 없음.",
+   "evidence": [
+    {
+     "url": "https://www.etoday.co.kr/news/view/2495502",
+     "what": "제주항공 제주-시안 노선 재개",
+     "year": "2025"
+    },
+    {
+     "url": "https://v.daum.net/v/20260730110409198",
+     "what": "시안을 역사와 현대가 이어진 도시로 소개",
+     "year": "2026"
+    },
+    {
+     "url": "https://brunch.co.kr/@qrssa/5165",
+     "what": "2026 중국 인기 여행지 블로그 순위 5번째",
+     "year": "2026"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "구이린·양숴",
+   "name_local": "桂林/阳朔",
+   "province_ko": "광시좡족자치구",
+   "already_covered": true,
+   "signal": "제주항공 인천-계림 2025.10.1 신규(주 4회). 한국인 방문 통계는 미확인. 트립닷컴 한국어 판매 상품 다수.",
+   "evidence": [
+    {
+     "url": "https://www.etoday.co.kr/news/view/2495502",
+     "what": "제주항공 인천-계림 주 4회 신규",
+     "year": "2025"
+    },
+    {
+     "url": "https://kr.trip.com/things-to-do/detail/35842536/",
+     "what": "트립닷컴 한국어 이강 크루즈 상품 노출",
+     "year": "2026"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "하이난(싼야·하이커우)",
+   "name_local": "海南(三亚)",
+   "province_ko": "하이난성",
+   "already_covered": true,
+   "signal": "브런치 2026 블로그 순위에 하이난 포함. 직항 4.5시간·전세기 위주, 여행사 블로그 수준.",
+   "evidence": [
+    {
+     "url": "https://brunch.co.kr/@qrssa/5165",
+     "what": "하이난 9위로 야룽완, 원숭이섬, 난산사 소개",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.tripstore.kr/blog/%ED%95%98%EC%9D%B4%EB%82%9C-%EA%B3%B5%ED%95%AD-%EC%8B%BC%EC%95%BC-%ED%95%98%EC%9D%B4%EC%BB%A4%EC%9A%B0-%EB%B9%84%EA%B5%90-%EB%A6%AC%EC%A1%B0%ED%8A%B8-%EC%9D%B4%EB%8F%99",
+     "what": "싼야 직항·전세기 안내(검색 결과 요약)",
+     "year": "2026"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "푸저우",
+   "name_local": "福州",
+   "province_ko": "푸젠성",
+   "already_covered": false,
+   "signal": "한국발 승객 +76.3%(2026.1~5월)로 최고 성장률. 대한항공 인천-푸저우 주 3→4회 증편. 절대 규모는 불명.",
+   "evidence": [
+    {
+     "url": "https://www.edaily.co.kr/News/Read?newsId=04592006645482704&mediaCodeNo=257",
+     "what": "푸저우 승객 +76.3%",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.etoday.co.kr/news/view/2495502",
+     "what": "대한항공 푸저우 주 4회로 증편",
+     "year": "2025"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "지난",
+   "name_local": "济南",
+   "province_ko": "산둥성",
+   "already_covered": false,
+   "signal": "한국발 승객 +69.4%(2026.1~5월). 절대 규모와 관광 요인 미확인.",
+   "evidence": [
+    {
+     "url": "https://www.edaily.co.kr/News/Read?newsId=04592006645482704&mediaCodeNo=257",
+     "what": "지난 승객 +69.4%",
+     "year": "2026"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "대련",
+   "name_local": "大连",
+   "province_ko": "랴오닝성",
+   "already_covered": false,
+   "signal": "모두투어 겨울 상품 목록 도시, 아시아나가 대련 노선 증편. 한국인 통계 미확인.",
+   "evidence": [
+    {
+     "url": "https://www.dailian.co.kr/news/view/1425784/",
+     "what": "모두투어가 상하이·베이징·칭다오·대련 등 겨울 상품 기획",
+     "year": "2024"
+    },
+    {
+     "url": "https://www.etoday.co.kr/news/view/2495502",
+     "what": "아시아나 대련·장춘·창사 증편",
+     "year": "2025"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "후이저우(안후이)·황산",
+   "name_local": "徽州/黄山",
+   "province_ko": "안후이성",
+   "already_covered": false,
+   "signal": "안후이성이 한국 관광객 유치 홍보. 정량 데이터 없음(중국 측 홍보 기사).",
+   "evidence": [
+    {
+     "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671631.shtml",
+     "what": "후이저우 문화권이 한국인 방문객 유치 중",
+     "year": "2026"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "창사",
+   "name_local": "长沙",
+   "province_ko": "후난성",
+   "already_covered": false,
+   "signal": "아시아나 증편 도시, 다음 기사에서 신흥지로 짧게 언급.",
+   "evidence": [
+    {
+     "url": "https://www.etoday.co.kr/news/view/2495502",
+     "what": "아시아나 창사 증편",
+     "year": "2025"
+    },
+    {
+     "url": "https://v.daum.net/v/20260730110409198",
+     "what": "창사 간략 언급",
+     "year": "2026"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "항저우·쑤저우",
+   "name_local": "杭州/苏州",
+   "province_ko": "저장성/장쑤성",
+   "already_covered": true,
+   "signal": "중앙데일리가 항저우를 신규 노선 확보 소도시로 언급. 상하이발 당일 근교 투어 수요. 한국인 단독 통계는 없음.",
+   "evidence": [
+    {
+     "url": "https://www.koreajoongangdaily.com/business/short-flights-cheap-tickets-boost-demand-for-travel-to-china-amid-high-oil-prices-weak-won/12614505",
+     "what": "항저우 신규 노선",
+     "year": "2026"
+    },
+    {
+     "url": "https://kr.trip.com/tourism/suzhou-11/",
+     "what": "졸정원이 트립닷컴 쑤저우 추천 2위(검색결과 요약)",
+     "year": "2026"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "후룬베이얼·카슈가르·신장",
+   "name_local": "呼伦贝尔/喀什/新疆",
+   "province_ko": "네이멍구/신장",
+   "already_covered": false,
+   "signal": "하나투어가 신규 자유여행 상품으로 후룬베이얼과 카슈가르 언급, 모두투어가 2026.8 신장 기획전 5종 출시. 아직 신규 개척 단계.",
+   "evidence": [
+    {
+     "url": "https://www.ddaily.co.kr/page/view/2026070815205058768",
+     "what": "하나투어 신규 지역 후룬베이얼·카슈가르",
+     "year": "2026"
+    },
+    {
+     "url": "https://www.youthdaily.co.kr/mobile/article.html?no=225250",
+     "what": "모두투어 실크로드/신장 기획전(검색결과 요약)",
+     "year": "2026"
+    }
+   ],
+   "strength": "weak"
+  }
+ ],
+ "attractions": [
+  {
+   "name_ko": "와이탄(외탄)",
+   "name_local": "外滩",
+   "region_ko": "상하이",
+   "province_ko": "상하이시",
+   "category": "전망/야경",
+   "signal": "트립.베스트 인기 관광지·나이트라이프 1위, 트립닷컴 4.8점(리뷰 15.7만), 2026 Global 100.",
+   "evidence": [
+    {
+     "url": "https://www.heraldk.com/2025/01/23/%e2%80%98%ec%83%81%ed%95%98%ec%9d%b4-%ec%83%81%ed%95%98%ec%9d%b4-%ed%8a%b8%ec%9c%84%ec%8a%a4%ed%8a%b8%e2%80%99-%ec%b2%ab-%ec%97%ac%ed%96%89-%ed%81%b0-%eb%a7%8c%ec%a1%b1-%ed%95%ab%ed%81%b4%eb%a6%bd/",
+     "what": "트립.베스트 관광지·나이트라이프 1위"
+    },
+    {
+     "url": "https://kr.trip.com/things-to-do/experiences/thonon-attractions/",
+     "what": "평점 4.8, 2026 Global 100"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "상하이 디즈니랜드",
+   "name_local": "上海迪士尼乐园",
+   "region_ko": "상하이",
+   "province_ko": "상하이시",
+   "category": "테마파크",
+   "signal": "트립닷컴 4.7점(리뷰 30.9만), 클룩 설 연휴 인기 상품에 상하이 디즈니랜드 포함(중국 유일).",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/things-to-do/experiences/thonon-attractions/",
+     "what": "평점 4.7, 리뷰 약 30.9만, Global 100"
+    },
+    {
+     "url": "https://www.heraldk.com/article/2026021017032519002",
+     "what": "클룩 인기 상품 중 중국 유일 항목"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "예원(위위안)",
+   "name_local": "豫园",
+   "region_ko": "상하이",
+   "province_ko": "상하이시",
+   "category": "정원/유적",
+   "signal": "트립닷컴 상하이 글로벌 추천 3위, 여러 한국 블로그 필수 코스, 와이탄 연계 투어 다수.",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/things-to-do/experiences/thonon-attractions/",
+     "what": "상하이 추천 명소 3위 표기"
+    },
+    {
+     "url": "https://kr.trip.com/guide/info/travel-trends.html",
+     "what": "트립닷컴 가이드가 상하이 대표 명소로 소개"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "난징루 보행가",
+   "name_local": "南京路步行街",
+   "region_ko": "상하이",
+   "province_ko": "상하이시",
+   "category": "쇼핑",
+   "signal": "헤럴드 상하이 코스에서 인민광장-와이탄 쇼핑 거리로 소개.",
+   "evidence": [
+    {
+     "url": "http://www.heraldk.com/2025/01/23/%e2%80%98%ec%83%81%ed%95%98%ec%9d%b4-%ec%83%81%ed%95%98%ec%9d%b4-%ed%8a%b8%ec%9c%84%ec%8a%a4%ed%8a%b8%e2%80%99-%ec%b2%ab-%ec%97%ac%ed%96%89-%ed%81%b0-%eb%a7%8c%ec%a1%b1-%ed%95%ab%ed%81%b4%eb%a6%bd",
+     "what": "쇼핑·식사 보행가"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "신천지",
+   "name_local": "新天地",
+   "region_ko": "상하이",
+   "province_ko": "상하이시",
+   "category": "거리/카페",
+   "signal": "트립닷컴 가이드와 여행사 블로그 모두 20~30대 대상 코스로 소개, 인근에 임시정부 청사.",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/guide/info/travel-trends.html",
+     "what": "상하이 주요 명소로 신천지 소개"
+    },
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%83%81%ED%95%98%EC%9D%B4-%EA%B4%80%EA%B4%91-%ED%95%B5%EC%8B%AC-%EC%BD%94%EC%8A%A4-%EC%9D%BC%EC%A0%95",
+     "what": "브런치 코스, 임시정부 청사 인근"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "대한민국 임시정부 상하이 청사",
+   "name_local": "大韩民国临时政府旧址",
+   "region_ko": "상하이",
+   "province_ko": "상하이시",
+   "category": "역사/유적",
+   "signal": "2026.1 대통령 방중 때 방문 보도 후 관심 상승.",
+   "evidence": [
+    {
+     "url": "https://www.hankyung.com/article/202601090924g",
+     "what": "대통령 방문 기사에서 상하이 대표 한국사 명소로 언급"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "동방명주 / 황푸강 야경 유람선",
+   "name_local": "东方明珠/黄浦江游船",
+   "region_ko": "상하이",
+   "province_ko": "상하이시",
+   "category": "전망/야경",
+   "signal": "트립닷컴 Global 100 야경 필수, 와이탄·예원 결합 상품 다수(와그).",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/things-to-do/experiences/thonon-attractions/",
+     "what": "야경 필수 코스 표기"
+    },
+    {
+     "url": "https://www.waug.com/activities/151681",
+     "what": "예원+황푸강 유람선 상품"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "우캉루·우캉맨션(프랑스 조계지)",
+   "name_local": "武康路/武康大楼",
+   "region_ko": "상하이",
+   "province_ko": "상하이시",
+   "category": "거리/건축",
+   "signal": "호텔스닷컴 한국인 검색 설명에서 상하이 대표로 언급, 헤럴드 코스에도 등장.",
+   "evidence": [
+    {
+     "url": "https://v.daum.net/v/20250816174800741",
+     "what": "우캉루 가로수길 언급"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "티엔즈팡",
+   "name_local": "田子坊",
+   "region_ko": "상하이",
+   "province_ko": "상하이시",
+   "category": "거리/쇼핑",
+   "signal": "호텔스닷컴 기사와 트립스토어 블로그 모두 언급.",
+   "evidence": [
+    {
+     "url": "https://v.daum.net/v/20250816174800741",
+     "what": "티엔즈팡 골목 소개"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "상하이타워 전망대",
+   "name_local": "上海中心大厦观光厅",
+   "region_ko": "상하이",
+   "province_ko": "상하이시",
+   "category": "전망",
+   "signal": "트립.베스트 명소 11위.",
+   "evidence": [
+    {
+     "url": "http://www.heraldk.com/2025/01/23/%e2%80%98%ec%83%81%ed%95%98%ec%9d%b4-%ec%83%81%ed%95%98%ec%9d%b4-%ed%8a%b8%ec%9c%84%ec%8a%a4%ed%8a%b8%e2%80%99-%ec%b2%ab-%ec%97%ac%ed%96%89-%ed%81%b0-%eb%a7%8c%ec%a1%b1-%ed%95%ab%ed%81%b4%eb%a6%bd",
+     "what": "트립.베스트 11위"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "하이창 해양공원",
+   "name_local": "上海海昌海洋公园",
+   "region_ko": "상하이",
+   "province_ko": "상하이시",
+   "category": "테마파크",
+   "signal": "트립.베스트 4위, 트립닷컴 상하이 가이드 대표 이미지.",
+   "evidence": [
+    {
+     "url": "http://www.heraldk.com/2025/01/23/%e2%80%98%ec%83%81%ed%95%98%ec%9d%b4-%ec%83%81%ed%95%98%ec%9d%b4-%ed%8a%b8%ec%9c%84%ec%8a%a4%ed%8a%b8%e2%80%99-%ec%b2%ab-%ec%97%ac%ed%96%89-%ed%81%b0-%eb%a7%8c%ec%a1%b1-%ed%95%ab%ed%81%b4%eb%a6%bd",
+     "what": "트립.베스트 4위"
+    },
+    {
+     "url": "https://kr.trip.com/travel-guide/destination/shanghai-2/",
+     "what": "가이드 대표 명소 4곳 중 하나"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "상하이 천문관(플래니타리움)",
+   "name_local": "上海天文馆",
+   "region_ko": "상하이",
+   "province_ko": "상하이시",
+   "category": "박물관/과학관",
+   "signal": "트립.베스트 7위.",
+   "evidence": [
+    {
+     "url": "http://www.heraldk.com/2025/01/23/%e2%80%98%ec%83%81%ed%95%98%ec%9d%b4-%ec%83%81%ed%95%98%ec%9d%b4-%ed%8a%b8%ec%9c%84%ec%8a%a4%ed%8a%b8%e2%80%99-%ec%b2%ab-%ec%97%ac%ed%96%89-%ed%81%b0-%eb%a7%8c%ec%a1%b1-%ed%95%ab%ed%81%b4%eb%a6%bd",
+     "what": "트립.베스트 7위"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "레고랜드 상하이",
+   "name_local": "上海乐高乐园",
+   "region_ko": "상하이",
+   "province_ko": "상하이시",
+   "category": "테마파크",
+   "signal": "트립닷컴 상하이 가이드 대표 이미지 4곳 중 하나(순위 근거 약함).",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/travel-guide/destination/shanghai-2/",
+     "what": "가이드 대표 명소 표기"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "주자자오 수향마을",
+   "name_local": "朱家角",
+   "region_ko": "상하이 근교",
+   "province_ko": "상하이시",
+   "category": "수향마을",
+   "signal": "와그 한국어 투어 상품(평점 4.8, 리뷰 9건) 존재.",
+   "evidence": [
+    {
+     "url": "https://www.waug.com/ko/areas/74/categories/134931",
+     "what": "주가각 수향마을+서커스+유람선 상품 4.8점"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "졸정원(줘정위안)",
+   "name_local": "拙政园",
+   "region_ko": "쑤저우",
+   "province_ko": "장쑤성",
+   "category": "정원/유적",
+   "signal": "트립닷컴 쑤저우 추천 2위, 2026 Asia 100 표기.",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/tourism/suzhou-11/",
+     "what": "쑤저우 추천 2위"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "한산사",
+   "name_local": "寒山寺",
+   "region_ko": "쑤저우",
+   "province_ko": "장쑤성",
+   "category": "사찰",
+   "signal": "졸정원 연계 트립닷컴 상품에 포함.",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/things-to-do/detail/105880100/",
+     "what": "졸정원·한산사 묶음 상품"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "서호",
+   "name_local": "西湖",
+   "region_ko": "항저우",
+   "province_ko": "저장성",
+   "category": "자연/유적",
+   "signal": "여행사 항저우·쑤저우 4박5일 코스의 중심(블로그 수준).",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%91%A4%EC%A0%80%EC%9A%B0-%ED%95%AD%EC%A0%80%EC%9A%B0-%EC%88%98%ED%96%A5%EB%A7%88%EC%9D%84-%EC%84%9C%ED%98%B8-%EB%8F%99%EC%84%A0-%EB%B9%84%EA%B5%90",
+     "what": "서호 유람선·송성가무쇼 코스"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "영은사",
+   "name_local": "灵隐寺",
+   "region_ko": "항저우",
+   "province_ko": "저장성",
+   "category": "사찰",
+   "signal": "서호 코스와 자주 묶임.",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%91%A4%EC%A0%80%EC%9A%B0-%ED%95%AD%EC%A0%80%EC%9A%B0-%EC%88%98%ED%96%A5%EB%A7%88%EC%9D%84-%EC%84%9C%ED%98%B8-%EB%8F%99%EC%84%A0-%EB%B9%84%EA%B5%90",
+     "what": "서호 일정 병행"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "칭다오 맥주박물관",
+   "name_local": "青岛啤酒博物馆",
+   "region_ko": "칭다오",
+   "province_ko": "산둥성",
+   "category": "박물관/체험",
+   "signal": "트립닷컴 AI 추천 1위, 평점 4.8(리뷰 4.5만), 모두투어·중국 매체 모두 대표 명소로 언급.",
+   "evidence": [
+    {
+     "url": "https://www.hankyung.com/article/202506258175g",
+     "what": "트립닷컴 AI 추천 1위"
+    },
+    {
+     "url": "https://www.dailian.co.kr/news/view/1425784/",
+     "what": "모두투어 겨울 칭다오 대표 명소"
+    },
+    {
+     "url": "https://cn.chinadaily.com.cn/a/202512/25/WS694c9da3a310942cc4998714.html",
+     "what": "중국 매체 칭다오 입국 관광 핵심 체험"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "잔교",
+   "name_local": "栈桥",
+   "region_ko": "칭다오",
+   "province_ko": "산둥성",
+   "category": "랜드마크",
+   "signal": "모두투어 겨울 상품 대표 명소, 트립닷컴 목록 포함.",
+   "evidence": [
+    {
+     "url": "https://www.dailian.co.kr/news/view/1425784/",
+     "what": "모두투어 겨울 주요 명소"
+    },
+    {
+     "url": "https://kr.trip.com/travel-guide/destination/qingdao-5/",
+     "what": "칭다오 가이드(검색결과 요약에서 잔교 포함)"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "팔대관",
+   "name_local": "八大关",
+   "region_ko": "칭다오",
+   "province_ko": "산둥성",
+   "category": "거리/건축",
+   "signal": "모두투어 및 호텔스닷컴 기사 모두 언급.",
+   "evidence": [
+    {
+     "url": "https://www.dailian.co.kr/news/view/1425784/",
+     "what": "모두투어 겨울 주요 명소"
+    },
+    {
+     "url": "https://v.daum.net/v/20250816174800741",
+     "what": "호텔스닷컴 기사: 바다관로 별장"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "노산(라오산)",
+   "name_local": "崂山",
+   "region_ko": "칭다오",
+   "province_ko": "산둥성",
+   "category": "자연",
+   "signal": "트립닷컴 4.6점(리뷰 2.3만).",
+   "evidence": [
+    {
+     "url": "https://www.hankyung.com/article/202506258175g",
+     "what": "도교 명산으로 소개"
+    },
+    {
+     "url": "https://kr.trip.com/travel-guide/destination/qingdao-5/",
+     "what": "가이드 대표 명소 2번째"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "칭다오 극지해양세계",
+   "name_local": "青岛极地海洋世界",
+   "region_ko": "칭다오",
+   "province_ko": "산둥성",
+   "category": "수족관",
+   "signal": "트립닷컴 4.6점, 리뷰 약 6만.",
+   "evidence": [
+    {
+     "url": "https://www.hankyung.com/article/202506258175g",
+     "what": "트립닷컴 명소로 소개"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "칭다오 해저세계",
+   "name_local": "青岛海底世界",
+   "region_ko": "칭다오",
+   "province_ko": "산둥성",
+   "category": "수족관",
+   "signal": "트립닷컴 4.6점.",
+   "evidence": [
+    {
+     "url": "https://www.hankyung.com/article/202506258175g",
+     "what": "시내 수족관으로 소개"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "5.4광장",
+   "name_local": "五四广场",
+   "region_ko": "칭다오",
+   "province_ko": "산둥성",
+   "category": "광장/랜드마크",
+   "signal": "브런치 블로그와 여행 가이드에서 대표 코스.",
+   "evidence": [
+    {
+     "url": "https://brunch.co.kr/@qrssa/5165",
+     "what": "칭다오 대표 명소"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "소어산 공원",
+   "name_local": "小鱼山",
+   "region_ko": "칭다오",
+   "province_ko": "산둥성",
+   "category": "전망",
+   "signal": "호텔스닷컴 기사에서 칭다오 핵심으로 언급.",
+   "evidence": [
+    {
+     "url": "https://v.daum.net/v/20250816174800741",
+     "what": "소어산 공원 소개"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "칭다오 판타와일드 드림랜드",
+   "name_local": "青岛方特梦幻王国",
+   "region_ko": "칭다오",
+   "province_ko": "산둥성",
+   "category": "테마파크",
+   "signal": "트립닷컴 칭다오 가이드 대표 이미지.",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/travel-guide/destination/qingdao-5/",
+     "what": "대표 명소 4곳 중 하나"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "올림픽 요트센터 연인방파제",
+   "name_local": "奥帆中心情人坝",
+   "region_ko": "칭다오",
+   "province_ko": "산둥성",
+   "category": "해안",
+   "signal": "중국 매체가 외국인이 모이는 장소로 소개.",
+   "evidence": [
+    {
+     "url": "https://cn.chinadaily.com.cn/a/202512/25/WS694c9da3a310942cc4998714.html",
+     "what": "외국 관광객 집결지"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "자금성(고궁박물원)",
+   "name_local": "故宫博物院",
+   "region_ko": "베이징",
+   "province_ko": "베이징시",
+   "category": "유적",
+   "signal": "와그 베이징 상품에서 자금성 가이드 투어 다수, 트립닷컴 가이드 1번째 명소.",
+   "evidence": [
+    {
+     "url": "https://www.waug.com/ko/areas/87/categories/all",
+     "what": "천안문+자금성 투어 평점 5.0, 리뷰 107"
+    },
+    {
+     "url": "https://kr.trip.com/travel-guide/destination/beijing-1/",
+     "what": "가이드 대표 명소 1번째"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "만리장성(바다링·무톈위)",
+   "name_local": "八达岭长城/慕田峪长城",
+   "region_ko": "베이징",
+   "province_ko": "베이징시",
+   "category": "유적/전망",
+   "signal": "와그 베이징 최상위 상품이 만리장성+이화원 근교 투어(4.9, 리뷰 109), 트립닷컴 가이드에 바다링.",
+   "evidence": [
+    {
+     "url": "https://www.waug.com/ko/areas/87/categories/all",
+     "what": "만리장성·이화원 일일 투어 리뷰 최다"
+    },
+    {
+     "url": "https://kr.trip.com/travel-guide/destination/beijing-1/",
+     "what": "바다링 대표 명소"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "구베이커우·쓰마타이 장성(야간)",
+   "name_local": "古北口/司马台长城",
+   "region_ko": "베이징",
+   "province_ko": "베이징시",
+   "category": "유적/야경",
+   "signal": "와그 한국어 가이드 야경 투어 5.0점(리뷰 56)과 케이블카 상품 4.9점(리뷰 45).",
+   "evidence": [
+    {
+     "url": "https://www.waug.com/ko/areas/87/categories/all",
+     "what": "야간 장성 상품 평점·리뷰"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "이화원",
+   "name_local": "颐和园",
+   "region_ko": "베이징",
+   "province_ko": "베이징시",
+   "category": "정원/유적",
+   "signal": "장성 투어와 묶여 가장 많이 판매.",
+   "evidence": [
+    {
+     "url": "https://www.waug.com/ko/areas/87/categories/all",
+     "what": "무톈위+이화원 상품 다수"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "천안문 광장",
+   "name_local": "天安门广场",
+   "region_ko": "베이징",
+   "province_ko": "베이징시",
+   "category": "광장/랜드마크",
+   "signal": "와그에서 천안문+자금성 투어 리뷰 107개.",
+   "evidence": [
+    {
+     "url": "https://www.waug.com/ko/areas/87/categories/all",
+     "what": "천안문·자금성 가이드 투어"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "천단공원",
+   "name_local": "天坛",
+   "region_ko": "베이징",
+   "province_ko": "베이징시",
+   "category": "유적",
+   "signal": "시티버스 투어 구성(4.8, 리뷰 19).",
+   "evidence": [
+    {
+     "url": "https://www.waug.com/ko/areas/87/categories/all",
+     "what": "시티 투어에 포함"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "경산공원",
+   "name_local": "景山公园",
+   "region_ko": "베이징",
+   "province_ko": "베이징시",
+   "category": "전망/공원",
+   "signal": "자금성 지식투어 상품에 결합.",
+   "evidence": [
+    {
+     "url": "https://www.waug.com/ko/areas/87/categories/all",
+     "what": "자금성·경산공원 투어"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "유니버설 스튜디오 베이징",
+   "name_local": "北京环球度假区",
+   "region_ko": "베이징",
+   "province_ko": "베이징시",
+   "category": "테마파크",
+   "signal": "트립닷컴 가이드 대표 명소, 와그 입장권, 브런치 블로그 언급.",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/travel-guide/destination/beijing-1/",
+     "what": "대표 명소 3번째"
+    },
+    {
+     "url": "https://www.waug.com/ko/areas/87/categories/all",
+     "what": "입장권 상품"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "중국국가박물관",
+   "name_local": "中国国家博物馆",
+   "region_ko": "베이징",
+   "province_ko": "베이징시",
+   "category": "박물관",
+   "signal": "트립닷컴 가이드 대표 명소 4번째(근거 약함).",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/travel-guide/destination/beijing-1/",
+     "what": "대표 이미지"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "베이징 서커스 공연",
+   "name_local": "朝阳剧场/金面具杂技",
+   "region_ko": "베이징",
+   "province_ko": "베이징시",
+   "category": "공연",
+   "signal": "와그 상품 다수(소수 리뷰).",
+   "evidence": [
+    {
+     "url": "https://www.waug.com/ko/areas/87/categories/all",
+     "what": "서커스 관람권 다수"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "천문산(톈먼산)",
+   "name_local": "天门山",
+   "region_ko": "장가계",
+   "province_ko": "후난성",
+   "category": "자연/케이블카",
+   "signal": "신화사가 한국인 관광객 체험 보도, 브런치·트립스토어 필수 코스.",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9E%A5%EA%B0%80%EA%B3%84-%EC%9E%90%EC%9C%A0%EC%97%AC%ED%96%89-%EC%9D%BC%EC%A0%95-%EA%B2%BD%EB%B9%84",
+     "what": "케이블카·유리잔도 소개"
+    },
+    {
+     "url": "https://brunch.co.kr/@qrssa/5165",
+     "what": "장가계 대표 명소"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "원가계(위안자제)",
+   "name_local": "袁家界",
+   "region_ko": "장가계",
+   "province_ko": "후난성",
+   "category": "자연",
+   "signal": "하나투어·모두투어 패키지 핵심, 아바타 이미지로 유명.",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9E%A5%EA%B0%80%EA%B3%84-%EC%9E%90%EC%9C%A0%EC%97%AC%ED%96%89-%EC%9D%BC%EC%A0%95-%EA%B2%BD%EB%B9%84",
+     "what": "326m 엘리베이터와 석주"
+    },
+    {
+     "url": "https://brunch.co.kr/@qrssa/5165",
+     "what": "장가계 대표 명소"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "장가계 대협곡 유리다리",
+   "name_local": "张家界大峡谷玻璃桥",
+   "region_ko": "장가계",
+   "province_ko": "후난성",
+   "category": "자연/체험",
+   "signal": "여행사 패키지의 대표 상품.",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9E%A5%EA%B0%80%EA%B3%84-%EC%9E%90%EC%9C%A0%EC%97%AC%ED%96%89-%EC%9D%BC%EC%A0%95-%EA%B2%BD%EB%B9%84",
+     "what": "유리다리와 협곡 트레킹"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "십리화랑",
+   "name_local": "十里画廊",
+   "region_ko": "장가계",
+   "province_ko": "후난성",
+   "category": "자연",
+   "signal": "모노레일로 이동, 걷기 적은 코스.",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%9E%A5%EA%B0%80%EA%B3%84-%EC%9E%90%EC%9C%A0%EC%97%AC%ED%96%89-%EC%9D%BC%EC%A0%95-%EA%B2%BD%EB%B9%84",
+     "what": "모노레일 코스"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "황룡동굴",
+   "name_local": "黄龙洞",
+   "region_ko": "장가계",
+   "province_ko": "후난성",
+   "category": "자연/동굴",
+   "signal": "모두투어·브런치 일정 포함.",
+   "evidence": [
+    {
+     "url": "https://brunch.co.kr/@qrssa/5165",
+     "what": "장가계 대표 명소"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "보봉호 유람선",
+   "name_local": "宝峰湖",
+   "region_ko": "장가계",
+   "province_ko": "후난성",
+   "category": "자연",
+   "signal": "모두투어 부산발 패키지 포함.",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/packages/zhangjiajie/modetour/from-busan",
+     "what": "패키지 구성(검색 결과 요약)"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "백두산 천지(북파·서파)",
+   "name_local": "长白山天池",
+   "region_ko": "연변",
+   "province_ko": "지린성",
+   "category": "자연",
+   "signal": "하나투어 7~8월 중국 1위 목적지의 핵심. 북파는 차량 접근이 쉬워 인기.",
+   "evidence": [
+    {
+     "url": "https://www.ddaily.co.kr/page/view/2026070815205058768",
+     "what": "예약 +37%, 장가계의 2.6배"
+    },
+    {
+     "url": "https://www.news.cn/travel/20250217/093b71991fbf467c8ca08c9a65de9af3/c.html",
+     "what": "천지 등정이 연변 핵심 관광"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "이도백하 자작나무 숲 트레킹",
+   "name_local": "二道白河桦树林",
+   "region_ko": "연변",
+   "province_ko": "지린성",
+   "category": "자연/트레킹",
+   "signal": "하나투어 신상품 북파 자작나무 트레킹.",
+   "evidence": [
+    {
+     "url": "https://www.ddaily.co.kr/page/view/2026070815205058768",
+     "what": "북파 자작나무 트레킹 코스"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "용정(윤동주 생가·명동촌·일송정)",
+   "name_local": "龙井/明东村/一松亭",
+   "region_ko": "연변",
+   "province_ko": "지린성",
+   "category": "역사",
+   "signal": "연길 거점 한국인 코스 단골, 단 일부 현장 접근 제한 가능.",
+   "evidence": [
+    {
+     "url": "https://www.waug.com/ko/activities/138127",
+     "what": "와그 연길 상품(검색결과 요약)"
+    },
+    {
+     "url": "https://m.cafe.daum.net/Caravan0/tNCE/1",
+     "what": "2026.9 일정에서 일송정 차창 관람으로 대체"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "도문 두만강 국경",
+   "name_local": "图们江边境",
+   "region_ko": "연변",
+   "province_ko": "지린성",
+   "category": "국경/전망",
+   "signal": "신화사가 두만강 국경 풍경을 연변 관광으로 소개.",
+   "evidence": [
+    {
+     "url": "https://www.news.cn/travel/20250217/093b71991fbf467c8ca08c9a65de9af3/c.html",
+     "what": "두만강 국경 풍경"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "백두산 유리호텔·고구려 유적·단둥 페리",
+   "name_local": "长白山玻璃酒店/高句丽遗址/丹东",
+   "region_ko": "연변/단둥",
+   "province_ko": "지린성/랴오닝성",
+   "category": "숙박/역사",
+   "signal": "하나투어 신상품 구성.",
+   "evidence": [
+    {
+     "url": "https://www.ddaily.co.kr/page/view/2026070815205058768",
+     "what": "신상품 구성 항목"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "중앙대가",
+   "name_local": "中央大街",
+   "region_ko": "하얼빈",
+   "province_ko": "헤이룽장성",
+   "category": "거리",
+   "signal": "블로그·여행사 코스에서 일관되게 1순위.",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%ED%95%98%EC%96%BC%EB%B9%88-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%AA%85%EC%86%8C-%EC%BD%94%EC%8A%A4-%EA%B0%80%EC%9D%B4%EB%93%9C",
+     "what": "러시아풍 보행자 거리"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "성 소피아 성당",
+   "name_local": "圣索菲亚大教堂",
+   "region_ko": "하얼빈",
+   "province_ko": "헤이룽장성",
+   "category": "건축",
+   "signal": "여행사 블로그 대표 랜드마크.",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%ED%95%98%EC%96%BC%EB%B9%88-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%AA%85%EC%86%8C-%EC%BD%94%EC%8A%A4-%EA%B0%80%EC%9D%B4%EB%93%9C",
+     "what": "비잔틴 양식 랜드마크"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "하얼빈 빙설대세계/빙등제",
+   "name_local": "哈尔滨冰雪大世界",
+   "region_ko": "하얼빈",
+   "province_ko": "헤이룽장성",
+   "category": "계절 축제",
+   "signal": "한국 여행사가 겨울 수요 증가 확인, 장관 발언 관광객 약 300만.",
+   "evidence": [
+    {
+     "url": "https://www.heraldk.com/article/2026011221504305222",
+     "what": "겨울 빙등제 수요 급증"
+    },
+    {
+     "url": "https://v.daum.net/v/20250214154438811?f=p",
+     "what": "문체부 장관 발언"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "안중근 의사 기념관(하얼빈역)",
+   "name_local": "安重根义士纪念馆",
+   "region_ko": "하얼빈",
+   "province_ko": "헤이룽장성",
+   "category": "역사",
+   "signal": "헤럴드가 하얼빈 수요 요인으로 안중근 의거지를 언급.",
+   "evidence": [
+    {
+     "url": "https://www.heraldk.com/article/2026011221504305222",
+     "what": "안중근 의거지 연계"
+    },
+    {
+     "url": "https://www.tripstore.kr/blog/%ED%95%98%EC%96%BC%EB%B9%88-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%AA%85%EC%86%8C-%EC%BD%94%EC%8A%A4-%EA%B0%80%EC%9D%B4%EB%93%9C",
+     "what": "역사 탐방 코스"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "731부대 유적지",
+   "name_local": "侵华日军第七三一部队遗址",
+   "region_ko": "하얼빈",
+   "province_ko": "헤이룽장성",
+   "category": "역사",
+   "signal": "역사 탐방 일정 포함(블로그 수준).",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%ED%95%98%EC%96%BC%EB%B9%88-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%AA%85%EC%86%8C-%EC%BD%94%EC%8A%A4-%EA%B0%80%EC%9D%B4%EB%93%9C",
+     "what": "역사 탐방 코스"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "송화강·태양도 공원",
+   "name_local": "松花江/太阳岛",
+   "region_ko": "하얼빈",
+   "province_ko": "헤이룽장성",
+   "category": "자연/공원",
+   "signal": "블로그 수준 코스.",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/blog/%ED%95%98%EC%96%BC%EB%B9%88-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%AA%85%EC%86%8C-%EC%BD%94%EC%8A%A4-%EA%B0%80%EC%9D%B4%EB%93%9C",
+     "what": "산책 코스"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "홍야동(훙야둥)",
+   "name_local": "洪崖洞",
+   "region_ko": "충칭",
+   "province_ko": "충칭시",
+   "category": "야경/건축",
+   "signal": "브런치 블로그와 한국 언론에서 사이버펑크 야경으로 언급.",
+   "evidence": [
+    {
+     "url": "https://brunch.co.kr/@qrssa/5165",
+     "what": "충칭 대표 명소"
+    },
+    {
+     "url": "https://www.edaily.co.kr/News/Read?newsId=04592006645482704&mediaCodeNo=257",
+     "what": "사이버펑크 풍 야경"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "장강 케이블카",
+   "name_local": "长江索道",
+   "region_ko": "충칭",
+   "province_ko": "충칭시",
+   "category": "체험",
+   "signal": "호텔스닷컴 및 블로그 언급.",
+   "evidence": [
+    {
+     "url": "https://v.daum.net/v/20250816174800741",
+     "what": "호텔스닷컴 기사 언급"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "조천문 시장",
+   "name_local": "朝天门",
+   "region_ko": "충칭",
+   "province_ko": "충칭시",
+   "category": "시장/전망",
+   "signal": "호텔스닷컴 기사 언급.",
+   "evidence": [
+    {
+     "url": "https://v.daum.net/v/20250816174800741",
+     "what": "조천문 시장 소개"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "양쯔강 싼샤(삼협) 크루즈",
+   "name_local": "长江三峡",
+   "region_ko": "충칭/이창",
+   "province_ko": "충칭시/후베이성",
+   "category": "자연/크루즈",
+   "signal": "클룩 기사 사진 설명에서 부상 지역으로 언급, 제주항공 이창 취항 예정.",
+   "evidence": [
+    {
+     "url": "https://www.heraldk.com/article/2026021017032519002",
+     "what": "클룩 기사 캡션"
+    },
+    {
+     "url": "https://www.koreatimes.co.kr/amp/business/others/20260806/korean-airlines-expand-china-routes-as-travel-rebound-spreads-beyond-major-cities",
+     "what": "진에어 이창 취항(9.17)"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "청두 자이언트 판다 번식연구기지",
+   "name_local": "成都大熊猫繁育研究基地",
+   "region_ko": "청두",
+   "province_ko": "쓰촨성",
+   "category": "동물/자연",
+   "signal": "트립닷컴 2026 Global 100, 4.6점, 한국 언론 판다 여행 보도.",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/travel-guide/destination/chengdu-104/",
+     "what": "가이드 1번째 명소"
+    },
+    {
+     "url": "https://v.daum.net/v/20250615070806358",
+     "what": "푸바오 후 판다 여행지 부상(검색결과 요약)"
+    }
+   ],
+   "strength": "strong"
+  },
+  {
+   "name_ko": "두장옌",
+   "name_local": "都江堰",
+   "region_ko": "청두",
+   "province_ko": "쓰촨성",
+   "category": "유적",
+   "signal": "트립닷컴 가이드 대표 명소.",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/travel-guide/destination/chengdu-104/",
+     "what": "가이드 2번째"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "칭청산",
+   "name_local": "青城山",
+   "region_ko": "청두",
+   "province_ko": "쓰촨성",
+   "category": "자연",
+   "signal": "트립닷컴 가이드 대표 명소.",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/travel-guide/destination/chengdu-104/",
+     "what": "가이드 3번째"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "두보초당",
+   "name_local": "杜甫草堂",
+   "region_ko": "청두",
+   "province_ko": "쓰촨성",
+   "category": "유적",
+   "signal": "트립닷컴 가이드 대표 명소.",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/travel-guide/destination/chengdu-104/",
+     "what": "가이드 4번째"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "무후사·진리거리",
+   "name_local": "武侯祠/锦里",
+   "region_ko": "청두",
+   "province_ko": "쓰촨성",
+   "category": "유적/거리",
+   "signal": "브런치 블로그 코스.",
+   "evidence": [
+    {
+     "url": "https://brunch.co.kr/@qrssa/5165",
+     "what": "청두 대표 명소"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "병마용(진시황릉)",
+   "name_local": "秦始皇兵马俑",
+   "region_ko": "시안",
+   "province_ko": "산시성",
+   "category": "유적",
+   "signal": "트립스토어 시안 패키지에서 병마용·진시황릉 포함, 브런치 순위.",
+   "evidence": [
+    {
+     "url": "https://brunch.co.kr/@qrssa/5165",
+     "what": "시안 대표 명소"
+    },
+    {
+     "url": "https://www.tripstore.kr/packages/xian/massage",
+     "what": "병마용 포함 패키지(검색결과 요약)"
+    }
+   ],
+   "strength": "medium"
+  },
+  {
+   "name_ko": "시안 성벽",
+   "name_local": "西安城墙",
+   "region_ko": "시안",
+   "province_ko": "산시성",
+   "category": "유적",
+   "signal": "블로그 코스.",
+   "evidence": [
+    {
+     "url": "https://brunch.co.kr/@qrssa/5165",
+     "what": "성벽 투어"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "이강 크루즈(구이린~양숴)",
+   "name_local": "漓江",
+   "region_ko": "구이린",
+   "province_ko": "광시좡족자치구",
+   "category": "자연/크루즈",
+   "signal": "트립닷컴 한국어 판매 상품 다수.",
+   "evidence": [
+    {
+     "url": "https://kr.trip.com/things-to-do/detail/35842536/",
+     "what": "한국어 이강 크루즈 상품"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "야룽완 / 원숭이섬 / 난산사",
+   "name_local": "亚龙湾/南湾猴岛/南山寺",
+   "region_ko": "하이난(싼야)",
+   "province_ko": "하이난성",
+   "category": "휴양",
+   "signal": "브런치 블로그 수준, 야룽완 호캉스 상품은 여행사 블로그.",
+   "evidence": [
+    {
+     "url": "https://brunch.co.kr/@qrssa/5165",
+     "what": "하이난 대표 명소"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "광저우타워·사몐섬",
+   "name_local": "广州塔/沙面岛",
+   "region_ko": "광저우",
+   "province_ko": "광둥성",
+   "category": "전망/거리",
+   "signal": "브런치 블로그 순위.",
+   "evidence": [
+    {
+     "url": "https://brunch.co.kr/@qrssa/5165",
+     "what": "광저우 대표 명소"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "구랑위·푸젠 토루",
+   "name_local": "鼓浪屿/福建土楼",
+   "region_ko": "샤먼",
+   "province_ko": "푸젠성",
+   "category": "섬/세계유산",
+   "signal": "트립스토어 부산발 샤먼 패키지 구성.",
+   "evidence": [
+    {
+     "url": "https://www.tripstore.kr/packages/xiamen/from-busan/3-nights-4-days",
+     "what": "샤먼 3박4일 상품(검색결과 요약)"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "옥룡설산 / 리장 고성",
+   "name_local": "玉龙雪山/丽江古城",
+   "region_ko": "리장",
+   "province_ko": "윈난성",
+   "category": "자연/유산",
+   "signal": "모두투어 겨울 리장 유네스코 소개, 한국 패키지에 옥룡설산 포함.",
+   "evidence": [
+    {
+     "url": "https://www.dailian.co.kr/news/view/1425784/",
+     "what": "리장 UNESCO 소개"
+    },
+    {
+     "url": "https://www.tripstore.kr/blog/%EC%BF%A4%EB%B0%8D-%EB%A6%AC%EC%9E%A5-%EC%97%B0%EA%B3%84-%EC%97%AC%ED%96%89-%EA%B0%80%EC%9D%B4%EB%93%9C",
+     "what": "쿤밍·리장 연계 가이드(검색결과 요약)"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "펑라이각 / 창다오",
+   "name_local": "蓬莱阁/长岛",
+   "region_ko": "옌타이",
+   "province_ko": "산둥성",
+   "category": "유적/섬",
+   "signal": "트립닷컴 주말 여행 기사에서 옌타이 명소로 소개.",
+   "evidence": [
+    {
+     "url": "https://www.hankyung.com/article/202506258175g",
+     "what": "옌타이 대표 명소 목록"
+    }
+   ],
+   "strength": "weak"
+  },
+  {
+   "name_ko": "후이저우 고건축·황산 일대",
+   "name_local": "徽州古城/黄山",
+   "region_ko": "후이저우/황산",
+   "province_ko": "안후이성",
+   "category": "유적/자연",
+   "signal": "안후이성이 한국 관광객 대상 홍보한다는 중국 보도.",
+   "evidence": [
+    {
+     "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671631.shtml",
+     "what": "후이저우 문화권 홍보"
+    }
+   ],
+   "strength": "weak"
+  }
+ ],
+ "notes": "[한계와 충돌] 1) 중국 문화관광부·한국관광공사의 도시별 한국인 방문 공식 통계는 찾지 못했다. 가장 정량적인 자료는 상하이(2025년 한국인 90.9만 명)·칭다오(1~11월 35.6만 명)·장가계(2025년 1~2월 4.6만 명)·연길(공항 입국 외국인 중 한국 88.1%) 지자체 발표, 국토부 항공정보포털 기반 노선별 여객(edaily, 2026.1~5월), 하나투어·모두투어 단일 사 예약 순위다. 2) 순위가 출처별로 다르다. 한 여행사의 2025년 순위는 장가계, 홍콩, 칭다오, 상하이였고 2026년은 상하이, 칭다오, 장가계로 바뀌었다. 하나투어는 여름철만 백두산이 1위이고 연간은 장가계가 1위라고 설명한다. 모두투어 2024 겨울은 칭다오, 장가계, 리장·쿤밍, 샤먼 순. 3) 전체 방중 한국인 수 불일치: 2025년 약 315.8만(중국 본토+홍콩·마카오 기준 보도)~317만(야놀자리서치 잠정) vs kr.trip.com 가이드의 394만(+24%)은 근거 불명이므로 사용하지 않는 편이 안전하다. 4) 서울 중국관광청 2,600명 설문은 중국신문망 보도로만 확인했고 원문은 열지 못했다. 5) 마이리얼트립 순위는 찾지 못했다. 클룩은 설 연휴 중국 트래픽 +83%, 중국 상위 3개 도시에 베이징·충칭이 포함된다는 보도(중앙데일리) 수준이며 상하이 디즈니 외 중국 어트랙션 순위는 없다. 트립닷컴 평점·Global 100은 한국어 사이트 표기를 검색 결과 요약으로 확인했으며 한국인만의 순위는 아니다. 6) 어트랙션 항목 중 weak는 대부분 여행사 블로그(트립스토어)·브런치·트립닷컴 가이드 이미지 캡션 수준이다. 와그 베이징 데이터는 상품 리뷰 수 기반이라 인기 지표로는 약하다. 7) WebSearch 도구가 요약 형태로 결과를 반환해, 일부 URL(tripstore, waug, kr.trip.com 일부, youthdaily, dzplus, kukinews)은 직접 본문을 열어보지 못하고 검색 결과 요약에서만 확인했다. 8) 가능성 있는 Tier A 후보 정리: 이미 커버된 허브 중 상하이·칭다오·장가계·베이징·연길/백두산·청두는 강한 근거가 있다. 신규로는 충칭(근거 강함)이 가장 우선, 하얼빈·윈난·샤먼·웨이하이/옌타이는 중간, 광저우·선전·푸저우·지난·대련·후이저우는 약함. 시안·구이린·싼야·항저우·쑤저우는 기존 커버 허브이나 정량 근거가 약하다. [입국·비자] 중국이 2024.11부터 한국 일반여권자에게 무비자(체류 최장 30일)를 시행했다고 중국신문망 기사가 밝혔고, 아시아나 관련 보도(검색 결과 요약)는 올해 말까지 연장으로 소개했다. 한국 내 상황은 출발 전 외교부 공지 확인이 필요하다. 항공: 한중 운수권 주 70회 증대 합의(중국신문망, 중앙데일리 주 608→664회 증편 서술)."
+}
