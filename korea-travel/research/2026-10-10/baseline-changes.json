@@ -1,0 +1,282 @@
+[
+  {
+    "path": "korea-travel/01_서울/N서울타워(남산).md",
+    "status": "official_core_reviewed",
+    "change": "전망대 평일 시작을 기존 10:30에서 공식 10:00으로 정정. 출처가 제3자였던 케이블카 금액·막차와 오래된 버스 번호는 현재 안내에서 제외. 추가 심화검증: 장소별 관찰 포인트와 실제 동선·이용 조건을 공식 원문으로 보강."
+  },
+  {
+    "path": "korea-travel/01_서울/경복궁.md",
+    "status": "official_core_reviewed",
+    "change": "기사·블로그 기반 관람료를 공식 기준으로 교체. 계절 시간과 휴궁 예외를 보완. 확인되지 않은 행사 일정은 현재 운영 안내에서 제외. 추가 심화검증: 장소별 관찰 포인트와 실제 동선·이용 조건을 공식 원문으로 보강."
+  },
+  {
+    "path": "korea-travel/01_서울/북촌한옥마을.md",
+    "status": "official_core_reviewed",
+    "change": "언론 추정치에서 종로구 공식 시행일·범위로 교체. ‘상시 개방’ 및 ‘17시 이전이면 북촌 전체 이용’처럼 오해할 수 있는 표현을 정리."
+  },
+  {
+    "path": "korea-travel/01_서울/성수동.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/01_서울/창덕궁.md",
+    "status": "official_core_reviewed",
+    "change": "공식 관람시간·교통·후원 예매 시작일을 확정. 공식 확인 전의 2027 요금 변경 예고·결제수단 단정은 현재 본문에서 제외. 추가 심화검증: 장소별 관찰 포인트와 실제 동선·이용 조건을 공식 원문으로 보강."
+  },
+  {
+    "path": "korea-travel/01_서울/한강공원.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/02_인천경기/강화도.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/02_인천경기/두물머리.md",
+    "status": "official_core_reviewed",
+    "change": "합류 지형과 산책 소재만 공식 기사로 확인. 12~20분 소요·무료주차·세미원 5천원 등의 미확인 운영 숫자는 현재 본문에서 분리."
+  },
+  {
+    "path": "korea-travel/02_인천경기/수원화성.md",
+    "status": "official_core_reviewed",
+    "change": "기존 ‘수원화성’ 출처 링크가 실은 화성행궁 페이지였음을 바로잡고 두 시설을 구분. 공식 관람시간·요금을 확정. 추가 심화검증: 장소별 관찰 포인트와 실제 동선·이용 조건을 공식 원문으로 보강."
+  },
+  {
+    "path": "korea-travel/02_인천경기/아침고요수목원.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/02_인천경기/에버랜드.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/02_인천경기/인천 차이나타운·개항장.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/02_인천경기/임진각·DMZ.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/02_인천경기/한국민속촌.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/03_강원/강릉 경포·안목.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/03_강원/남이섬.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/03_강원/대관령 양떼목장.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/03_강원/설악산.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/03_강원/속초.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/03_강원/추암 촛대바위.md",
+    "status": "official_core_reviewed",
+    "change": "촛대바위·해암정·출렁다리 연계를 공식 본문으로 확인. 서로 상이한 다리 시간과 번지 추정은 제외."
+  },
+  {
+    "path": "korea-travel/04_충청/공주·부여 백제역사유적지구.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/04_충청/단양.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/04_충청/대전.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/04_충청/보령 대천해수욕장.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/04_충청/속리산 법주사.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/04_충청/태안 안면도.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/05_전라/남원 광한루원.md",
+    "status": "official_core_reviewed",
+    "change": "과거 기사 기반 18시 무료·주차료·폐장시간을 현재 안내에서 분리. 정원 구성과 춘향전 연계를 공식 기사로 보강."
+  },
+  {
+    "path": "korea-travel/05_전라/담양.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/05_전라/목포.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/05_전라/보성 녹차밭.md",
+    "status": "official_core_reviewed",
+    "change": "보성군 전체 차밭과 특정 유료 시설 대한다원을 구분. 과거 가격·시간은 현행으로 승격하지 않고 보류."
+  },
+  {
+    "path": "korea-travel/05_전라/순천만습지·국가정원.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/05_전라/여수.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/05_전라/전주한옥마을.md",
+    "status": "official_core_reviewed",
+    "change": "상반된 경기전 계절시간을 공식 한옥마을 표기로 정리. 상위 관광지구와 유료 개별 시설을 분리. 추가 심화검증: 장소별 관찰 포인트와 실제 동선·이용 조건을 공식 원문으로 보강."
+  },
+  {
+    "path": "korea-travel/05_전라/청산도.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/06_경북대구/경주 대릉원·동궁과 월지.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/06_경북대구/경주 불국사·석굴암.md",
+    "status": "official_core_reviewed",
+    "change": "시설별 시간·주차 충돌을 보류하고 복합 상위 문서로 명확화. 역사·건축 핵심만 원문으로 검증."
+  },
+  {
+    "path": "korea-travel/06_경북대구/대구 근대골목·김광석길.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/06_경북대구/안동 하회마을.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/06_경북대구/영주 부석사.md",
+    "status": "official_core_reviewed",
+    "change": "관람 포인트를 공공 역사기관 원문으로 보강. 2013년 버스 번호와 후기 주차료는 현행 안내에서 제외. 추가 심화검증: 장소별 관찰 포인트와 실제 동선·이용 조건을 공식 원문으로 보강."
+  },
+  {
+    "path": "korea-travel/06_경북대구/울릉도·독도.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/06_경북대구/포항 호미곶.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/07_경남부산울산/감천문화마을.md",
+    "status": "official_core_reviewed",
+    "change": "막연한 상시개방·예약불필요를 시설별 확인으로 수정. 안내센터·전망대·박물관·공방 특성을 운영기관 원문으로 보완."
+  },
+  {
+    "path": "korea-travel/07_경남부산울산/거제.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/07_경남부산울산/광안리·광안대교.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/07_경남부산울산/남해.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/07_경남부산울산/부산 해운대.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/07_경남부산울산/울산 대왕암공원.md",
+    "status": "official_core_reviewed",
+    "change": "150m/303m 충돌을 공식 303m로 정정. 불확실한 주차료를 보류. 다리 운영과 공원 전체 이용을 분리."
+  },
+  {
+    "path": "korea-travel/07_경남부산울산/태종대.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/07_경남부산울산/통영.md",
+    "status": "pending_official_review",
+    "change": "미검증 운영·요금·예약·교통 단정을 독자용 본문에서 분리하고 원래 자료와 출처를 보관본에 보존."
+  },
+  {
+    "path": "korea-travel/08_제주/만장굴.md",
+    "status": "official_core_reviewed",
+    "change": "17:00/17:10 입장마감 충돌을 관광공사 현재 웹페이지 17:00으로 정리. 용암석주·공개구간·준비물 공식 확인. 공식 확인이 없던 재개방 날짜는 보류."
+  },
+  {
+    "path": "korea-travel/08_제주/섭지코지.md",
+    "status": "official_core_reviewed",
+    "change": "고성리/신양리 충돌을 공식 표기 고성리로 정리. 상업시설 운영시간은 해안 전체 안내와 분리. 추가 심화검증: 장소별 관찰 포인트와 실제 동선·이용 조건을 공식 원문으로 보강."
+  },
+  {
+    "path": "korea-travel/08_제주/성산일출봉.md",
+    "status": "official_core_reviewed",
+    "change": "공식 확인 전 5,000원/2,500원 값은 보류. 공식 웹페이지에서 읽은 계절 시간·휴무·무료/유료 구간 구분으로 교체. 추가 심화검증: 장소별 관찰 포인트와 실제 동선·이용 조건을 공식 원문으로 보강."
+  },
+  {
+    "path": "korea-travel/08_제주/우도.md",
+    "status": "official_core_reviewed",
+    "change": "서로 충돌한 배 운임·막배·버스 번호를 현행 안내에서 제외. 섬 전체와 하위 명소의 중복 집계를 막는 상위 여행권으로 분류. 추가 심화검증: 장소별 관찰 포인트와 실제 동선·이용 조건을 공식 원문으로 보강."
+  },
+  {
+    "path": "korea-travel/08_제주/천지연폭포.md",
+    "status": "official_core_reviewed",
+    "change": "도로명 주소·현재 관람시간·입장료를 공식 원문으로 확정. 확인되지 않은 조명 교체·재개장 날짜와 주차 무료 단정은 제외. 추가 심화검증: 장소별 관찰 포인트와 실제 동선·이용 조건을 공식 원문으로 보강."
+  },
+  {
+    "path": "korea-travel/08_제주/한라산.md",
+    "status": "official_core_reviewed",
+    "change": "확인되지 않은 예약 적용구간·오픈 날짜와 통제 재개방 날짜를 보류. 공식 페이지 내부 시간표 불일치를 숨기지 않고 기록."
+  },
+  {
+    "path": "korea-travel/08_제주/협재해수욕장.md",
+    "status": "official_core_reviewed",
+    "change": "공식 지번 2497-1로 정리. 종료된 2026년 여름 시즌을 현행 수영시간처럼 보이지 않게 과거 정보로 구분. 추가 심화검증: 장소별 관찰 포인트와 실제 동선·이용 조건을 공식 원문으로 보강."
+  }
+]

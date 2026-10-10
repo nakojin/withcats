@@ -1,0 +1,11 @@
+{
+  "status": "pass",
+  "original_destination_documents": 56,
+  "rewritten_with_official_core_sources": 21,
+  "independent_core_records": 18,
+  "official_core_pending_documents": 35,
+  "original_file_paths_preserved": true,
+  "original_content_provenance_preserved": true,
+  "current_operational_claims_not_universally_verified": true,
+  "network_used_by_validation": false
+}

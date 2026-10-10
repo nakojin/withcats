@@ -1,0 +1,35 @@
+{
+  "checked_at": "2026-10-10",
+  "input": "korea-travel-research-20261010/central/extension2-batch1-20.json",
+  "sha256": "9cdb1afb65689817d73a06dc7922e5207950b2f7e4015b4add078abc720d98ae",
+  "scope": "20개 내용 검토와 5개 항목 공식 원문 표본 재열람",
+  "sample_results": [
+    {
+      "id": "kr-chungnam-seaqrium",
+      "result": "pass",
+      "finding": "어린이 135cm 이하·보호자 동반·당일 현장발권을 운영기관 본문 확인"
+    },
+    {
+      "id": "kr-chungbuk-handok-medicine-museum",
+      "result": "pass",
+      "finding": "2층 한국전시·일산문고,1층 국제전시·독일약국·플레밍 연구실과 생명갤러리 확인"
+    },
+    {
+      "id": "kr-chungnam-janggoksa",
+      "result": "pass",
+      "finding": "상하대웅전·범종루 통나무 밥그릇 청양군 본문 확인"
+    },
+    {
+      "id": "kr-chungnam-modeoksa",
+      "result": "pass",
+      "finding": "사당·고택·장서각 청양군 본문 확인"
+    },
+    {
+      "id": "kr-chungnam-kohwun-botanical-garden",
+      "result": "pass",
+      "finding": "주제원·온실·전망대 슬라이드·우천/점심 미운행 KTO기사 본문 확인"
+    }
+  ],
+  "material_errors_found": [],
+  "publication_caution": "표본 검증이며 전20의 모든 운영 조건을 확정한 것이 아니다. 진행 중인 확장50 전체와 구분한다."
+}

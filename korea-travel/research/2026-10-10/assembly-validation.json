@@ -1,0 +1,35 @@
+{
+  "status": "pass",
+  "checks": [
+    "original_65_paths_preserved",
+    "original_65_contents_archived_exactly",
+    "unique_record_ids_names_and_paths",
+    "required_record_fields_and_source_dates",
+    "editorial_season_labels",
+    "new_price_and_hour_values_unset_reservation_notes_attributed",
+    "reader_document_local_links",
+    "catalog_counts_match_files",
+    "final_qa_input_hashes",
+    "seven_depth_patches_applied",
+    "BOK_held_and_excluded"
+  ],
+  "counts": {
+    "original_destination_documents": 56,
+    "original_paths_preserved": 65,
+    "baseline_reviewed_documents": 21,
+    "baseline_independent_counted_records": 18,
+    "baseline_reference_only_records": 3,
+    "baseline_pending_documents": 35,
+    "new_detailed_records": 265,
+    "depth_held_records": 1,
+    "new_eligible_records": 264,
+    "verified_core_records": 286,
+    "counted_destination_or_visit_area_records": 282,
+    "total_destination_documents": 321,
+    "priority_depth_followup_records": 1
+  },
+  "internal_links_checked": 727,
+  "errors": [],
+  "network_used": false,
+  "limit": "구조·수량·필드 검증. 관광사실·외부링크의 실시간 네트워크 재검증 아님."
+}

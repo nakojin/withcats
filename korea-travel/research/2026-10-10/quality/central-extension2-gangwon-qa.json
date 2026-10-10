@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-10-10",
+  "input": "korea-travel-research-20261010/central/extension2-gangwon-15.json",
+  "sha256": "2e28171ab7662a37cec8ee8a479832fe5252dbc4cadce609a3821902b065e355",
+  "scope": "15개 읽기 검토;3개 운영·접근 핵심 주장 공식 웹 원문 표본 재열람",
+  "sample_results": [
+    {
+      "id": "kr-gangwon-hantan-cliff-trail",
+      "result": "pass",
+      "finding": "드르니 내리막/순담 오르막 및 주말 셔틀 안내 실제 KTO 본문 확인. 당일 재확인 문구 적절"
+    },
+    {
+      "id": "kr-gangwon-gossi-cave",
+      "result": "pass",
+      "finding": "500m 공개,출입구 동일,안전모,7세미만 무료발권,식품·반려동물 금지 운영기관 실제 본문 확인"
+    },
+    {
+      "id": "kr-gangwon-baekdamsa",
+      "result": "pass",
+      "finding": "백담계곡 일반차량 통행 금지 KTO 실제 본문 확인. 계곡 깊이와 종주시간 같은 위험한 일반화는 원고에 채택하지 않음"
+    }
+  ],
+  "material_errors_found": [],
+  "publication_caution": "전15의 운영 조건을 전수 확정한 것은 아니며 추가2차50의 일부만 검토한 보고서."
+}

@@ -1,0 +1,76 @@
+{
+  "checked_at": "2026-10-10",
+  "scope": "south extension50 content reviewed;6 official original web spotchecks; combined snapshot includes central extension2 first20 only",
+  "sample_results": [
+    {
+      "id": "kr-gyeongnam-sacheon-sea-cable-car",
+      "result": "pass",
+      "finding": "대방·초양·각산3정류장 및 일반/투명캐빈 운영기관 원문 확인"
+    },
+    {
+      "id": "kr-busan-un-memorial-cemetery",
+      "result": "pass",
+      "finding": "추모관·기념관·추모명비·무명용사길 원문 확인"
+    },
+    {
+      "id": "kr-daegu-daegyeonsa",
+      "result": "pass",
+      "finding": "삼층석탑·고산입지·봄 참꽃·전기차 접근 KTO 본문 확인; 현재 운행 확정하지 않음"
+    },
+    {
+      "id": "kr-jeonnam-piramseowon",
+      "result": "pass",
+      "finding": "확연루·청절당·경장각·우동사 및 전학후묘 장성군 본문 확인"
+    },
+    {
+      "id": "kr-jeonnam-naro-space-science-museum",
+      "result": "pass",
+      "finding": "로켓·인공위성·체험·야외모형 원문 확인; 실제 발사장 출입으로 확대하지 않음"
+    },
+    {
+      "id": "kr-jeonnam-purple-islands",
+      "result": "pass",
+      "finding": "퍼플교·둘레길·간조 갯벌 KTO 본문 확인"
+    },
+    {
+      "id": "kr-jeonbuk-gangcheonsan",
+      "result": "pass_after_enrichment",
+      "finding": "요청3개 심화 수정 완료 후 수정본과 새 공식 원문을 독립 재열람 확인했다. 강천산 현수교 계단, 광주호 제3생태연못 경사와 구체 데크, 반디랜드 온실·아쿠아존·촬영 및 대여 제한 반영."
+    },
+    {
+      "id": "kr-gwangju-gwangjuho-eco-park",
+      "result": "pass_after_enrichment",
+      "finding": "요청3개 심화 수정 완료 후 수정본과 새 공식 원문을 독립 재열람 확인했다. 강천산 현수교 계단, 광주호 제3생태연못 경사와 구체 데크, 반디랜드 온실·아쿠아존·촬영 및 대여 제한 반영."
+    },
+    {
+      "id": "kr-jeonbuk-bandi-land",
+      "result": "pass_after_enrichment",
+      "finding": "요청3개 심화 수정 완료 후 수정본과 새 공식 원문을 독립 재열람 확인했다. 강천산 현수교 계단, 광주호 제3생태연못 경사와 구체 데크, 반디랜드 온실·아쿠아존·촬영 및 대여 제한 반영."
+    }
+  ],
+  "material_errors_found": [],
+  "depth_note": "요청3개 심화 수정 완료 후 수정본과 새 공식 원문을 독립 재열람 확인했다. 강천산 현수교 계단, 광주호 제3생태연못 경사와 구체 데크, 반디랜드 온실·아쿠아존·촬영 및 대여 제한 반영.",
+  "counts": {
+    "total_research_records": 256,
+    "held_for_depth_review": 1,
+    "baseline_parent_references": 3,
+    "original_unverified_baseline_documents": 35,
+    "fully_publication_ready_certified": 0
+  },
+  "count_caution": "연구 레코드 개수이며 독립 물리 장소의 전수집계가 아님. 공개 직전 요금·시간·예약과 전체 문장 전수 검증을 인증한 수치는 아니다.",
+  "duplicate_ids": [],
+  "duplicate_exact_names": [],
+  "input_sha256": {
+    "baseline-reviewed-records.json": "e13a2b40b925da5feaf4b2ce9cb9b5c234c99669ac722b4927cecefea6ce8525",
+    "central/central-ready-records-depth-final.json": "55492cd3703dfb708aa29f4057ba4ca5dae3c95d8ff1efa83445d804a23d1cfe",
+    "central/extension-records.json": "452bae64124066a4396dc6a13794cc93cfb8dddcb22e723007a3e358ef126743",
+    "central/extension2-batch1-20.json": "9cdb1afb65689817d73a06dc7922e5207950b2f7e4015b4add078abc720d98ae",
+    "south/places.json": "368706c37608490e53f8af332c4c2040128926ed243c69d63e93c6a835913bd8",
+    "south/extension-records.json": "48b73680b8f73a4091c270f8ee18410238d173459fbde8f050632b08ede63311"
+  },
+  "depth_followup_resolved": [
+    "kr-jeonbuk-gangcheonsan",
+    "kr-gwangju-gwangjuho-eco-park",
+    "kr-jeonbuk-bandi-land"
+  ]
+}

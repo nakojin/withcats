@@ -1,0 +1,151 @@
+{
+  "checked_at": "2026-10-10",
+  "scope": "Independent exact-ID/name dedup across all final research records, baseline-name relationship review, and ten risk/diversity-selected source spot checks. This is not an exhaustive new primary-source reread of all166records.",
+  "files": [
+    {
+      "path": "baseline-reviewed-records.json",
+      "count": 21,
+      "sha256": "e13a2b40b925da5feaf4b2ce9cb9b5c234c99669ac722b4927cecefea6ce8525"
+    },
+    {
+      "path": "central/central-ready-records.json",
+      "count": 75,
+      "sha256": "8a82988eae5a227b94101114f0b2aabd3c05427e177ccec602ddde38cc0f66b4"
+    },
+    {
+      "path": "south/places.json",
+      "count": 70,
+      "sha256": "368706c37608490e53f8af332c4c2040128926ed243c69d63e93c6a835913bd8"
+    }
+  ],
+  "counts": {
+    "baseline_documents": 56,
+    "baseline_official_core_reviewed": 21,
+    "baseline_official_review_pending": 35,
+    "new_detail_records": 145,
+    "official_core_research_records": 166,
+    "legacy_parent_records_excluded_from_independent_count": 3,
+    "place_or_visit_area_record_count_under_existing_flags": 163,
+    "physical_unique_attraction_count": null,
+    "fully_publication_ready_certified_count": 0,
+    "fully_publication_ready_note": "Zero certified by this QA, not a claim that all records are unusable: 166 are research-ready core records with partial/pending operations, not fully checked final site copy. Retain partial-verification notices; do not present them as fully operationally verified."
+  },
+  "exact_duplicates": {
+    "id": [],
+    "name_ko": []
+  },
+  "existing_content_relationships": [
+    {
+      "id": "kr-gangwon-ojukheon",
+      "baseline_path": "korea-travel/03_강원/강릉 경포·안목.md",
+      "relation": "existing_summary_named_place"
+    },
+    {
+      "id": "kr-gangwon-gyeongpodae",
+      "baseline_path": "korea-travel/03_강원/강릉 경포·안목.md",
+      "relation": "existing_summary_named_place"
+    },
+    {
+      "id": "kr-daejeon-jangtaesan-forest",
+      "baseline_path": "korea-travel/04_충청/대전.md",
+      "relation": "existing_summary_named_place"
+    },
+    {
+      "id": "kr-gyeonggi-semiwon",
+      "baseline_path": "korea-travel/02_인천경기/두물머리.md",
+      "relation": "previously_mentioned_nearby_place"
+    },
+    {
+      "id": "kr-ulsan-ganjeolgot",
+      "baseline_path": "korea-travel/07_경남부산울산/울산 대왕암공원.md",
+      "relation": "previously_mentioned_nearby_place"
+    },
+    {
+      "id": "kr-gyeongbuk-sosu-seowon",
+      "baseline_path": "korea-travel/06_경북대구/영주 부석사.md",
+      "relation": "previously_mentioned_nearby_place"
+    },
+    {
+      "id": "kr-gyeongbuk-byeongsan-seowon",
+      "baseline_path": "korea-travel/06_경북대구/안동 하회마을.md",
+      "relation": "previously_mentioned_nearby_place"
+    },
+    {
+      "id": "kr-jeonnam-naganeupseong",
+      "baseline_path": "korea-travel/05_전라/순천만습지·국가정원.md",
+      "relation": "previously_mentioned_nearby_place"
+    }
+  ],
+  "counting_warning": "145 means newly structured detail records, not145 previously unknown places. At least8 were already named in baseline article bodies. Composite visit areas count once each;163 is an editorial record count with mixed granularity, not a census of physical attractions.",
+  "source_spot_checks": [
+    {
+      "id": "kr-gangwon-glacier-museum-of-art",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593808",
+      "result": "core_supported",
+      "notes": "본문의 빙하형 반사 건축·수변·원주 주소 확인."
+    },
+    {
+      "id": "kr-chungbuk-cheongju-national-museum",
+      "url": "https://cheongju.museum.go.kr/www/selectBbsNttView.do?bbsNo=1&key=482&nttNo=12343",
+      "result": "core_supported",
+      "notes": "메인 배너의 재현 불안정 문제를 세부 공지 실제 열람으로 해결. 2026-09-29~12-27 미술실·금관실 휴실, 고고실 관람 가능, 12-29 재개관 예정 확인."
+    },
+    {
+      "id": "kr-chungnam-ami-art-museum",
+      "url": "https://www.dangjin.go.kr/prog/tursmCn/tour/sub04_05_01/view.do?cntno=96",
+      "result": "core_supported",
+      "notes": "폐교 활용·돌담·덩굴·잔디 운동장·야외 조각과 설치미술 확인. 소장 작품 수는 본문 내부에서200/700으로 달라 채택하지 않는 것이 적절."
+    },
+    {
+      "id": "kr-chungbuk-yukgeori-market",
+      "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=220",
+      "result": "core_supported",
+      "notes": "장소명·청주 지역·농산물과 간식 확인. 최초 레코드가 일반적1줄이라 상세 보강 권고를 중앙 담당에게 전달."
+    },
+    {
+      "id": "kr-seoul-jeongdong-observatory",
+      "url": "https://english.visitseoul.net/area/2024-jdobservatory/ENPmxn1fp",
+      "result": "core_supported",
+      "notes": "기존 기획기사 URL 재열람 실패. 개별 공식 페이지 실제 열람해13층·옛 정동사진·3호기 전용엘리베이터 확인 후 별도패치 전달."
+    },
+    {
+      "id": "kr-jeju-sanbangsan",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=94909",
+      "result": "core_supported",
+      "notes": "남서부 해안 산방산·산방굴사 불상·봄 들판 경관 확인. 정상 자유등산을 주장하지 않은 점 적절."
+    },
+    {
+      "id": "kr-jeonbuk-chaeseokgang",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110874",
+      "result": "core_supported",
+      "notes": "퇴적층·바다와 절벽 경관 확인. 책 비유는 편집 묘사이며 원문 층리 내용과 일치.24시간 안내를 조위 무관 접근허용으로 사용하지 않은 점 적절."
+    },
+    {
+      "id": "kr-gyeongnam-hwangmaesan",
+      "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=79930",
+      "result": "core_supported",
+      "notes": "소나무·철쭉·바위산·정상에서 합천호/산악 조망 및 악천후 통제 가능성 확인."
+    },
+    {
+      "id": "kr-jeonnam-wando-arboretum",
+      "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=78533",
+      "result": "core_supported",
+      "notes": "상록활엽수·전문소원·온실·전망대 다도해 조망 확인. 최대/유일/약효 표현 미채택 적절. 행정명칭 변경 표기는 게시 전 별도 확인 대상."
+    },
+    {
+      "id": "kr-ulsan-bangudae-petroglyphs",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=90261",
+      "result": "core_supported",
+      "notes": "바다·육지 동물/사냥 장면 및 반구천 맥락 확인. 현장 가까이 진입하거나 수위와 무관한 관찰을 보장하지 않은 점 적절."
+    }
+  ],
+  "limitations": [
+    "Not all operating times, prices, booking conditions or transport were checked.",
+    "Recommended season is an editorial inference unless explicitly attributed; blooms/weather/views are not guaranteed.",
+    "Image presence or source page access does not grant image reuse rights.",
+    "No tourism API or tourism MCP was used in this enrichment and QA pass.",
+    "Existing raw originals remain in baseline-before-review.json; reworked research is not a deletion of historical notes."
+  ],
+  "final_status": "pass_for_research_integration_with_disclosures_not_full_publication_certification",
+  "snapshot_status": "superseded_for_counts_by_central-extension-qa.json; source spotchecks and relationship findings remain valid"
+}

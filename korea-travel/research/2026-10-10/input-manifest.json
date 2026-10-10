@@ -1,0 +1,35 @@
+{
+  "inputs": [
+    {
+      "path": "baseline-reviewed-records.json",
+      "count": 21,
+      "sha256": "e13a2b40b925da5feaf4b2ce9cb9b5c234c99669ac722b4927cecefea6ce8525"
+    },
+    {
+      "path": "central/central-ready-records-depth-final.json",
+      "count": 75,
+      "sha256": "55492cd3703dfb708aa29f4057ba4ca5dae3c95d8ff1efa83445d804a23d1cfe"
+    },
+    {
+      "path": "central/extension-records.json",
+      "count": 20,
+      "sha256": "452bae64124066a4396dc6a13794cc93cfb8dddcb22e723007a3e358ef126743"
+    },
+    {
+      "path": "central/extension2-records.json",
+      "count": 50,
+      "sha256": "2d49ad43ce5d61b0da8264fc95d7c84814f190c5f2d8eb1e1bdf9e3368ae2202"
+    },
+    {
+      "path": "south/places.json",
+      "count": 70,
+      "sha256": "368706c37608490e53f8af332c4c2040128926ed243c69d63e93c6a835913bd8"
+    },
+    {
+      "path": "south/extension-records.json",
+      "count": 50,
+      "sha256": "48b73680b8f73a4091c270f8ee18410238d173459fbde8f050632b08ede63311"
+    }
+  ],
+  "excluded": "Intermediate partial batches and duplicate exports are not inputs. All final records and sources are preserved in catalog.json."
+}

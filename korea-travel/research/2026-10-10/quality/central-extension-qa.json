@@ -1,0 +1,72 @@
+{
+  "checked_at": "2026-10-10",
+  "scope": "central extension 20: all records structure/readability reviewed; 7 high-signal original-source spotchecks",
+  "sample_results": [
+    {
+      "id": "kr-gyeonggi-odusan-observatory",
+      "url": "https://jmd.co.kr/information/info01.asp",
+      "finding": "공식 관람안내에 민간인통제구역 및 관람시간 준수 명시를 확인",
+      "result": "pass",
+      "method": "official_web_original_opened_and_read"
+    },
+    {
+      "id": "kr-gyeonggi-national-arboretum",
+      "url": "https://reservenew.kna.go.kr/intro",
+      "finding": "자가용 차량 사전예약·미예약 차량 진입불가 확인. 보행 입장까지 예약필수로 확대하지 않은 문구 적절",
+      "result": "pass",
+      "method": "official_web_original_opened_and_read"
+    },
+    {
+      "id": "kr-gangwon-gangchon-rail-park",
+      "url": "https://en.railpark.co.kr/course/gimyujeong/intro",
+      "finding": "김유정 편도·중간휴게소·낭만열차·셔틀 귀환과 북한강 전망 확인",
+      "result": "pass",
+      "method": "official_web_original_opened_and_read"
+    },
+    {
+      "id": "kr-chungnam-sinduri-sand-dunes",
+      "url": "https://taean.go.kr/tour/sub03_06_02.do",
+      "finding": "A 1.2km/C 4.0km, 초종용·순비기·곰솔·억새골 코스 확인",
+      "result": "pass",
+      "method": "official_web_original_opened_and_read"
+    },
+    {
+      "id": "kr-chungnam-independence-hall",
+      "url": "https://search1.i815.or.kr/2018/tour/explain.do?agree=P&mode=L",
+      "finding": "2026 독립운동전시해설의 3.5mm 유선 이어폰·무선불가 실제 안내 확인",
+      "result": "pass",
+      "method": "official_web_original_opened_and_read"
+    },
+    {
+      "id": "kr-seoul-national-aviation-museum",
+      "url": "https://www.aviation.or.kr/index.do",
+      "finding": "1층 역사·2층 산업·3층 생활 및 유료체험·주차부족 확인",
+      "result": "pass",
+      "method": "official_web_original_opened_and_read"
+    },
+    {
+      "id": "kr-seoul-national-contemporary-history-museum",
+      "url": "https://www.much.go.kr/MUCH/contents/M02020300000.do",
+      "finding": "스무살·어제의 식탁·직업찾기·패션 체험 원문 확인",
+      "result": "pass",
+      "method": "official_web_original_opened_and_read"
+    }
+  ],
+  "material_errors_found": [],
+  "snapshot_counts": {
+    "baseline": 21,
+    "central_first": 75,
+    "central_extension": 20,
+    "south_first": 70,
+    "combined_research_records": 186,
+    "note": "south extension in progress is excluded. This is not a fully publication-ready or census count."
+  },
+  "duplicate_id_values": [],
+  "duplicate_exact_name_values": [],
+  "input_sha256": {
+    "central/extension-records.json": "452bae64124066a4396dc6a13794cc93cfb8dddcb22e723007a3e358ef126743",
+    "central/central-ready-records.json": "0670032943da2188c1c4bcd2d7cb79a32361c307729d3f5f2be2bb9f8610436f",
+    "south/places.json": "368706c37608490e53f8af332c4c2040128926ed243c69d63e93c6a835913bd8",
+    "baseline-reviewed-records.json": "e13a2b40b925da5feaf4b2ce9cb9b5c234c99669ac722b4927cecefea6ce8525"
+  }
+}

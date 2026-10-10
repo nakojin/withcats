@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kr-gangwon-ojukheon",
+    "baseline_path": "korea-travel/03_강원/강릉 경포·안목.md",
+    "relation": "existing_summary_named_place"
+  },
+  {
+    "id": "kr-gangwon-gyeongpodae",
+    "baseline_path": "korea-travel/03_강원/강릉 경포·안목.md",
+    "relation": "existing_summary_named_place"
+  },
+  {
+    "id": "kr-daejeon-jangtaesan-forest",
+    "baseline_path": "korea-travel/04_충청/대전.md",
+    "relation": "existing_summary_named_place"
+  },
+  {
+    "id": "kr-gyeonggi-semiwon",
+    "baseline_path": "korea-travel/02_인천경기/두물머리.md",
+    "relation": "previously_mentioned_nearby_place"
+  },
+  {
+    "id": "kr-ulsan-ganjeolgot",
+    "baseline_path": "korea-travel/07_경남부산울산/울산 대왕암공원.md",
+    "relation": "previously_mentioned_nearby_place"
+  },
+  {
+    "id": "kr-gyeongbuk-sosu-seowon",
+    "baseline_path": "korea-travel/06_경북대구/영주 부석사.md",
+    "relation": "previously_mentioned_nearby_place"
+  },
+  {
+    "id": "kr-gyeongbuk-byeongsan-seowon",
+    "baseline_path": "korea-travel/06_경북대구/안동 하회마을.md",
+    "relation": "previously_mentioned_nearby_place"
+  },
+  {
+    "id": "kr-jeonnam-naganeupseong",
+    "baseline_path": "korea-travel/05_전라/순천만습지·국가정원.md",
+    "relation": "previously_mentioned_nearby_place"
+  }
+]

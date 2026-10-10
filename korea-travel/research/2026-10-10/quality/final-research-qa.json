@@ -1,0 +1,56 @@
+{
+  "checked_at": "2026-10-10",
+  "scope": "Final frozen research snapshot: baseline21, central145, south120. Structure and exact duplicate checks are exhaustive; original-source factual review is a documented sample, not every fact in every record.",
+  "input_counts": {
+    "baseline-reviewed-records.json": 21,
+    "central/central-ready-records-depth-final.json": 75,
+    "central/extension-records.json": 20,
+    "central/extension2-records.json": 50,
+    "south/places.json": 70,
+    "south/extension-records.json": 50
+  },
+  "counts": {
+    "research_records_total": 286,
+    "core_research_integration_ready_excluding_parents_and_depth_hold": 282,
+    "baseline_parent_reference_records": 3,
+    "held_for_depth_review": 1,
+    "original_baseline_documents_unverified": 35,
+    "fully_publication_ready_operationally_certified": 0
+  },
+  "held_ids": [
+    "kr-sejong-bok-art-center"
+  ],
+  "parent_ids": [
+    "kr-gyeonggi-suwon-hwaseong",
+    "kr-jeonbuk-jeonju-hanok-village",
+    "kr-gyeongbuk-bulguksa-seokguram-group"
+  ],
+  "duplicate_ids": [],
+  "duplicate_exact_names": [],
+  "missing_highlights_ids": [],
+  "missing_visit_tips_ids": [],
+  "sample_qa_reports": [
+    "independent-qa.json",
+    "central-extension-qa.json",
+    "central-extension2-batch1-qa.json",
+    "central-extension2-gangwon-qa.json",
+    "central-extension2-final15-qa.json",
+    "south-extension-qa.json"
+  ],
+  "interpretation": [
+    "신규 상세 연구 레코드는265개이나 BOK1개는 상세 콘텐츠 근거 부족으로 보류.",
+    "연구용 수록 가능282개는 기존18개+신규264개이며 상위참고3개는 별도 보존.",
+    "복합 방문권·단지 단위가 포함되므로282개를 전수 검증된 독립 물리 장소라고 부르지 않는다.",
+    "35개 미검증 기존 문서는 역사적 원본을 보존한 것이며 검증 장소수에 더하지 않는다.",
+    "추천계절·동선 조언은 편집판단 표시 유지. 운영null은 무료/예약불필요라는 뜻이 아니다.",
+    "완전 출판 검증0은 이용 불가가 아니라 현재 일정의 모든 요금·시간·예약을 전수 인증하지 않았음을 뜻한다."
+  ],
+  "input_sha256": {
+    "baseline-reviewed-records.json": "e13a2b40b925da5feaf4b2ce9cb9b5c234c99669ac722b4927cecefea6ce8525",
+    "central/central-ready-records-depth-final.json": "55492cd3703dfb708aa29f4057ba4ca5dae3c95d8ff1efa83445d804a23d1cfe",
+    "central/extension-records.json": "452bae64124066a4396dc6a13794cc93cfb8dddcb22e723007a3e358ef126743",
+    "central/extension2-records.json": "2d49ad43ce5d61b0da8264fc95d7c84814f190c5f2d8eb1e1bdf9e3368ae2202",
+    "south/places.json": "368706c37608490e53f8af332c4c2040128926ed243c69d63e93c6a835913bd8",
+    "south/extension-records.json": "48b73680b8f73a4091c270f8ee18410238d173459fbde8f050632b08ede63311"
+  }
+}

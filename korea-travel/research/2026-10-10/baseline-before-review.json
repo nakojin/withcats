@@ -1,0 +1,10 @@
+{
+  "source_commit": "b741d8cd567f891f987f89fe3e6ba7b94156f6ae",
+  "warning": "2026-10-09 기존 조사 자료. 현행 검증 사실로 사용하지 말 것.",
+  "original_file_count": 65,
+  "parts": [
+    "baseline-original-part-01.json",
+    "baseline-original-part-02.json"
+  ],
+  "note": "각 parts 파일의 files 배열을 순서대로 합치면 원본65경로와 원문이 완전히 복원된다. 일부 운영값은 과거 자료이므로 현행 안내로 쓰지 않는다."
+}

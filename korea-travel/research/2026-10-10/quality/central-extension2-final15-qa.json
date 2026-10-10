@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-10-10",
+  "scope": "마지막 경기·인천15 내용 검토;3개 공식 운영 원문 표본 재열람",
+  "sample_results": [
+    {
+      "id": "kr-gyeonggi-daebu-haesolgil",
+      "result": "pass",
+      "finding": "안산시 코스표7코스 미개통·보행불가 및1/2/6-2코스 특징 확인"
+    },
+    {
+      "id": "kr-gyeonggi-aegibong-peace-eco-park",
+      "result": "pass",
+      "finding": "신분증·민통구역·드론/군사시설 촬영 제한 운영기관 본문 확인"
+    },
+    {
+      "id": "kr-incheon-yeongjong-seaside-railbike",
+      "result": "pass",
+      "finding": "우천 운행·기상 사유 취소에도 환불규정 적용·출발시각 미도착시 환불불가 운영자 안내 확인"
+    }
+  ],
+  "material_errors_found": []
+}
