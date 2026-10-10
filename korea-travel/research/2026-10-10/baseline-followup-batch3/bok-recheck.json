@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-10-10",
+  "id": "kr-sejong-bok-art-center",
+  "status": "held_unchanged",
+  "attempts": [
+    {
+      "url": "https://pf.kakao.com/_ciRxbxb",
+      "result": "열기 응답은 있었으나 본문0줄. 검색요약만으로 시설상세검증하지 않음"
+    },
+    {
+      "url": "http://www.bokartcenter.co.kr/",
+      "result": "HTTPS 리다이렉트 뒤 timeout"
+    },
+    {
+      "url": "https://www.culture.go.kr/localperform/amateur/perform/view.do?menuNo=400013&pageIndex=20&pblprfrSn=3103",
+      "result": "cache miss, 원문 미확인"
+    }
+  ],
+  "decision": "연구용집계 제외를 유지. 공연일·좌석·주차·주소를 검색요약만으로 확정하지 않음."
+}

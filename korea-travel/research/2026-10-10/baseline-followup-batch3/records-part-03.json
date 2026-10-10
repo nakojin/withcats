@@ -1,0 +1,558 @@
+[
+  {
+    "id": "kr-gangwon-seoraksan-parent",
+    "name_ko": "설악산",
+    "region": "강원",
+    "locality": "설악산 외설악 중심 탐방권",
+    "type": [
+      "부모관광권",
+      "국립공원",
+      "산악전망"
+    ],
+    "highlights": [
+      "권금성 케이블카는 소공원에서 외설악 바위 능선을 보며 올라가는 방식이다. 도착 뒤에는 성터 주변 경관과 속초·동해 방향 조망을 살핀다.",
+      "울산바위·비룡폭포·금강굴·대청봉 등은 국립공원공단이 서로 다른 탐방코스로 안내한다. 한 곳을 들르는 짧은 관광과 정상 산행을 구분해야 한다.",
+      "내설악·남설악·외설악으로 나뉘는 넓은 산악권이다. 외설악 소개에 나온 주소나 시간을 모든 들머리에 적용하지 않는다."
+    ],
+    "recommended_season": {
+      "text": "가을 단풍 또는 늦봄 신록, 맑고 통제가 없는 날",
+      "reason": "운영기관이 소개하는 계절 경관을 근거로 한 추천. 2026 단풍 절정 날짜는 확인하지 않았다.",
+      "basis": "editorial_recommendation_based_on_verified_features"
+    },
+    "visit_tips": [
+      "탐방 전 국립공원공단의 입산시간지정제·탐방로 통제정보를 확인한다. 검색 페이지의 실시간 정상 표시는 방문일 보장이 아니다.",
+      "케이블카는 사전예약 없이 당일 현장구매이며 왕복권만 판매한다. 권금성에서 걸어서 하산하는 코스로 계획하면 안 된다.",
+      "케이블카 전용주차장은 없고 운영사는 신흥사 유료주차장을 안내한다. 케이블카 요금과 주차요금을 별도로 계산한다."
+    ],
+    "operational": {
+      "notes": [
+        "케이블카 공식 일반 왕복요금: 중학생 이상 16,000원, 37개월~초등학생 12,000원, 36개월 미만 무료(2026-10-10 페이지 확인).",
+        "당일 운행시간은 현장·기상에 따라 바뀐다. 조회 시 실시간 운행시간이 확인중 상태여서 당일 정상 운행이나 막차는 확정하지 않았다."
+      ]
+    },
+    "unverified_items": [
+      "울산바위 코스 최신 거리·소요시간 및 예약 조건",
+      "국립공원·문화재구역 입장료와 개별 주차장 현행 요금",
+      "방문일 탐방로 통제·케이블카 운행 여부"
+    ],
+    "sources": [
+      {
+        "url": "https://www.knps.or.kr/front/portal/visit/visitCourseSubMain.do?menuNo=7020093&parkId=120400",
+        "title": "국립공원공단 설악산 탐방코스",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "탐방코스 구분, 입산시간·통제 확인 필요"
+      },
+      {
+        "url": "https://www.sorakcablecar.co.kr/",
+        "title": "설악케이블카 공식 소개",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "권금성 경관, 계절별 경관, 현장구매·왕복 원칙"
+      },
+      {
+        "url": "https://www.sorakcablecar.co.kr/guide",
+        "title": "설악케이블카 공식 이용안내",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "16,000원·12,000원 요금, 예약·주차·기상 조건"
+      },
+      {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110699",
+        "title": "한국관광공사 외설악",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "내·남·외설악 구분과 산악 경관만 사용. 오래된 요금으로 보이는 수치와 일괄 입산시간은 채택하지 않음"
+      }
+    ],
+    "record_status": "verified_core_operational_partial",
+    "verification_status": "verified",
+    "baseline_path": "korea-travel/03_강원/설악산.md",
+    "document_path": "korea-travel/03_강원/설악산.md",
+    "path": "korea-travel/03_강원/설악산.md",
+    "count_as_independent": false,
+    "relation_type": "parent_reference",
+    "relation_note": "넓은 국립공원 부모 탐방권. 기존 백담사 등 구성 목적지와 별도 중복 가산하지 않는다.",
+    "related_catalog_ids": [
+      "kr-gangwon-baekdamsa"
+    ],
+    "record_origin": "baseline_followup",
+    "addition_kind": "baseline_reverification",
+    "editorial_region": "03_강원"
+  },
+  {
+    "id": "kr-chungbuk-danyang-parent",
+    "name_ko": "단양",
+    "region": "충북",
+    "locality": "단양군 단양읍·적성면 관광권",
+    "type": [
+      "부모관광권",
+      "강변",
+      "동굴",
+      "전망"
+    ],
+    "highlights": [
+      "도담삼봉은 강 가운데 솟은 세 봉우리로 석회암 지형이 빚은 풍경을 본다. 강가에서의 조망과 석문 방향 계단길은 관람 방식이 다르다.",
+      "만천하스카이워크에서는 유리바닥 아래 강과 절벽, 단양 시가지·소백산 방향의 넓은 전망을 비교한다. 짚와이어·알파인코스터는 전망대와 구별되는 체험이다.",
+      "고수동굴은 종유석·석순·동굴진주 등 석회동굴 생성물을 관찰하는 장소다. 강변과 전망대의 큰 풍경을 본 뒤 작은 지질 구조로 시선을 바꿀 수 있다."
+    ],
+    "recommended_season": {
+      "text": "맑은 봄·가을 낮",
+      "reason": "야외 강변과 높은 전망대 시야를 함께 즐기려는 편집 추천. 비·눈·안개 때에는 전망시설 운영을 확인한다.",
+      "basis": "editorial_recommendation_based_on_verified_features"
+    },
+    "visit_tips": [
+      "만천하는 단양읍이 아닌 적성면 옷바위길 10, 고수동굴은 단양읍 고수동굴길 8이다. 기존의 모두 단양읍이라는 표기를 바로잡았다.",
+      "도담삼봉·만천하·고수동굴을 모두 도보로 가까운 곳으로 생각하지 않는다. 강변 일정과 동굴 일정을 나누고 각각 이동편을 정한다.",
+      "전망대와 레저 기구는 이용조건이 다르다. 눈·비·안개 때 중단 가능성이 있어 고소공포가 있거나 보행이 어려운 동행은 대체 일정을 준비한다."
+    ],
+    "operational": {
+      "notes": [
+        "한국관광공사 고수동굴 페이지는 09:00~17:00, 연중무휴, 성인 11,000원·청소년 7,000원·어린이 5,000원을 표기한다. 운영사 홈페이지는 이번 열람에서 시간초과되어 방문일 최종 확인은 남는다.",
+        "만천하 공식 관광정보는 여름 09:00~18:00·겨울 09:00~17:00, 매표 1시간 전 마감을 안내하지만 계절별 적용 월과 시설별 시간이 명확하지 않다. 이번 문서에서 10월 마감시간을 확정하지 않는다."
+      ]
+    },
+    "unverified_items": [
+      "만천하 현행 요금·정기휴무·계절 적용 월·체험별 신체 조건",
+      "고수동굴 최종 입장마감·온라인 할인",
+      "도담삼봉 유람선 및 황포돛배 현행 운항"
+    ],
+    "sources": [
+      {
+        "url": "https://access.visitkorea.or.kr/cos/detail.do?cotId=62fdd082-e4d8-41ff-b5a8-2b3665fcd008",
+        "title": "한국관광공사 열린관광 단양",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "도담삼봉 지형·석문 계단, 만천하 전망 및 날씨 조건. 2023 기사 운영 수치 제외"
+      },
+      {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=587&vcontsId=34487",
+        "title": "한국관광공사 만천하스카이워크",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "적성면 주소, 유리 전망대·레저시설, 계절 시간 표기"
+      },
+      {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=110916",
+        "title": "한국관광공사 고수동굴",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "동굴 생성물, 주소·관광정보 페이지 시간 및 요금"
+      }
+    ],
+    "record_status": "verified_core_operational_partial",
+    "verification_status": "verified",
+    "baseline_path": "korea-travel/04_충청/단양.md",
+    "document_path": "korea-travel/04_충청/단양.md",
+    "path": "korea-travel/04_충청/단양.md",
+    "count_as_independent": false,
+    "relation_type": "parent_reference",
+    "relation_note": "군 단위 부모 관광권이며 도담삼봉·만천하·고수동굴을 새 독립 레코드로 분할하지 않는다.",
+    "related_catalog_ids": [],
+    "record_origin": "baseline_followup",
+    "addition_kind": "baseline_reverification",
+    "editorial_region": "04_충청"
+  },
+  {
+    "id": "kr-chungbuk-beopjusa",
+    "name_ko": "속리산 법주사",
+    "region": "충북",
+    "locality": "보은군 속리산면 법주사로 405",
+    "type": [
+      "사찰",
+      "불교건축"
+    ],
+    "highlights": [
+      "팔상전의 다층 목조 형태를 먼저 보고 대웅보전과 비교하면 사찰 안 목조건축의 규모와 형태 차이가 잘 보인다.",
+      "큰 금동미륵대불과 쌍사자석등·석연지는 서로 다른 재료와 크기의 불교 조형물이다. 큰 불상만 보고 지나치기보다 석조물의 세부를 살피는 관람이 좋다.",
+      "속리산 산자락의 법주사는 현재도 수행과 예불이 이어지는 사찰이다. 템플스테이에서는 사찰 안내·예불·명상 같은 활동을 소개한다."
+    ],
+    "recommended_season": {
+      "text": "봄·가을 낮",
+      "reason": "사찰 마당과 산자락을 걸으며 건축을 보기 편한 시기를 택한 편집 추천. 단풍 절정이나 특정 행사일은 미확인이다.",
+      "basis": "editorial_recommendation_based_on_verified_features"
+    },
+    "visit_tips": [
+      "법주사 관람과 문장대 산행은 체력·장비·입산시간이 다른 일정이다. 사찰 방문만으로 산행 준비가 되었다고 보지 않는다.",
+      "예불과 수행을 방해하지 않도록 전각 출입·신발·촬영 안내를 따른다. 수행공간과 생활공간을 관광 동선으로 임의 해석하지 않는다.",
+      "템플스테이는 일반 경내 관람과 별도 프로그램이다. 희망 날짜의 구성·예약·참가비를 프로그램 페이지에서 확인한다."
+    ],
+    "operational": {
+      "notes": [
+        "공식 템플스테이 소개에서 법주사 주소와 주요 건축·조형물, 체험형·휴식형 프로그램 존재를 확인했다. 일반관람 요금이나 주차료를 프로그램 요금으로 대체하지 않았다."
+      ]
+    },
+    "unverified_items": [
+      "일반 관람료 현행 징수 여부·주차요금",
+      "일반 경내 및 성보박물관 방문일 운영시간",
+      "문장대 최신 통제·코스 거리",
+      "템플스테이 선택일 참가비·예약 가능 여부"
+    ],
+    "sources": [
+      {
+        "url": "https://www.templestay.com/en/MI000000000000000019/temple/introView.do?templeId=Beopjusa",
+        "title": "한국불교문화사업단 템플스테이 법주사",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "주소, 팔상전·대웅보전·미륵대불·쌍사자석등·석연지, 템플스테이 성격"
+      }
+    ],
+    "record_status": "verified_core_operational_partial",
+    "verification_status": "verified",
+    "baseline_path": "korea-travel/04_충청/속리산 법주사.md",
+    "document_path": "korea-travel/04_충청/속리산 법주사.md",
+    "path": "korea-travel/04_충청/속리산 법주사.md",
+    "count_as_independent": true,
+    "relation_type": "destination",
+    "relation_note": "속리산은 위치를 나타내는 수식어이고 본 문서 핵심 대상은 법주사 한 사찰이다. 문장대·정이품송·테마파크는 별도 가산하지 않는다.",
+    "related_catalog_ids": [],
+    "record_origin": "baseline_followup",
+    "addition_kind": "baseline_reverification",
+    "editorial_region": "04_충청"
+  },
+  {
+    "id": "kr-jeonnam-mokpo-parent",
+    "name_ko": "목포",
+    "region": "전라",
+    "locality": "목포시 원도심·유달산·해상 전망권",
+    "type": [
+      "부모관광권",
+      "근대역사",
+      "항구"
+    ],
+    "highlights": [
+      "목포근대역사관 1관의 옛 일본영사관 건물은 항구도시의 근대사를 살피는 출발점이다. 외관과 전시를 구분하여 관람 계획을 잡는다.",
+      "유달산의 노적봉·대학루·조각공원은 바위와 도시 전망을 서로 다른 높이에서 보는 지점이다. 노적봉의 이순신 이야기는 역사적 사실 확정과 구별되는 전승으로 읽는다.",
+      "보리마당·시화마을의 언덕 골목과 해상케이블카는 목포의 항구·바다를 다른 각도로 보여준다. 골목 산책과 탑승 체험을 하루에 무리하게 모두 넣지 않아도 된다."
+    ],
+    "recommended_season": {
+      "text": "봄·가을의 맑은 낮, 전망은 해질녘 전후",
+      "reason": "언덕길 도보 이동의 부담과 해상 조망을 고려한 편집 추천. 해질녘 탑승 가능 여부는 당일 운행표를 확인한다.",
+      "basis": "editorial_recommendation_based_on_verified_features"
+    },
+    "visit_tips": [
+      "역사관 건물과 언덕 골목을 보는 원도심 일정, 케이블카 탑승 일정은 따로 정한다. 역사문화공간 전체에 하나의 개방시간이 있는 것은 아니다.",
+      "시화마을은 생활 골목이므로 큰 소리·집 안 촬영을 피하고 오르막에 맞는 신발을 준비한다.",
+      "케이블카는 방문일 운행과 승강장·귀환 방향을 확인한 뒤 원도심 코스에 연결한다. 검색 후기의 여름 막차를 가을 일정에 적용하지 않는다."
+    ],
+    "operational": {
+      "notes": [
+        "목포시 사이트는 이번 본문 열람에서 시간초과가 발생하여 한국관광공사의 공식 여행 본문으로 경관·동선을 확인했다. 2018년 기사에 있는 운영시간·요금·버스번호는 현행 안내에서 제외했다."
+      ]
+    },
+    "unverified_items": [
+      "케이블카 현행 요금·계절/요일별 시간·휴무",
+      "근대역사관 1·2관 방문일 운영 및 2관 재개관 여부",
+      "시티투어·대중교통 노선·주차료"
+    ],
+    "sources": [
+      {
+        "url": "https://access.visitkorea.or.kr/cos/detail.do?cotId=526461ce-fe98-43b4-91ac-a122b22eb09c",
+        "title": "한국관광공사 목포 열린관광 코스",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "유달산·노적봉·조각공원·역사관 건물과 골목 지형. 2018 운영정보 제외"
+      },
+      {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=289747",
+        "title": "한국관광공사 Mokpo & the West Coast",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "근대역사관 1관·보리마당/시화마을·해상케이블카 연계와 경관"
+      }
+    ],
+    "record_status": "verified_core_operational_partial",
+    "verification_status": "verified",
+    "baseline_path": "korea-travel/05_전라/목포.md",
+    "document_path": "korea-travel/05_전라/목포.md",
+    "path": "korea-travel/05_전라/목포.md",
+    "count_as_independent": false,
+    "relation_type": "parent_reference",
+    "relation_note": "도시 부모 관광권. 유달산·역사관·케이블카 등 구성요소의 개별 수량을 늘리지 않는다.",
+    "related_catalog_ids": [],
+    "record_origin": "baseline_followup",
+    "addition_kind": "baseline_reverification",
+    "editorial_region": "05_전라"
+  },
+  {
+    "id": "kr-jeonnam-cheongsando-parent",
+    "name_ko": "청산도",
+    "region": "전라",
+    "locality": "완도군 청산면 청산도",
+    "type": [
+      "부모관광권",
+      "섬",
+      "걷기"
+    ],
+    "highlights": [
+      "청산도는 돌담길·유채꽃·푸른 바다의 풍경을 걸어서 살피는 섬이다. 슬로길 전체 42.195km는 짧은 단일 산책 코스의 길이가 아니다.",
+      "구들장논은 경사지 농경의 특징을 보여주는 중요한 풍경이다. 바다 사진뿐 아니라 사람이 섬에서 살아온 방식에 시선을 두면 여행이 풍성해진다.",
+      "서편제길과 유채꽃 포토존, 달빛 걷기는 2026 슬로걷기축제에 소개된 내용이다. 축제 프로그램이 연중 운영된다고 가정하지 않는다."
+    ],
+    "recommended_season": {
+      "text": "봄 유채꽃 풍경을 원하는 때",
+      "reason": "공식 축제 소개에서 봄꽃·걷기 풍경을 확인했다. 2026 축제는 4월 1~30일로 종료되었으며 내년 일정과 개화 절정은 별도다.",
+      "basis": "editorial_recommendation_based_on_verified_features"
+    },
+    "visit_tips": [
+      "슬로길 전체 완주보다 체류시간·걷기 능력에 맞는 구간을 고른다. 선착장 귀환 여유를 먼저 남기고 일정을 짜는 편집 제안이다.",
+      "논과 돌담마을은 주민 생활·농경 공간이다. 꽃밭이나 논 안으로 들어가지 말고 정해진 길에서 감상한다.",
+      "입도·귀항 배편, 승선 절차, 결항 공지를 출발 전 확인한다. 기존 서로 다른 운임과 소요시간을 평균내어 안내하지 않는다."
+    ],
+    "operational": {
+      "notes": [
+        "한국관광공사 공식 소개는 2007년 아시아 최초 슬로시티 지정과 구들장논을 설명한다.",
+        "2026 슬로걷기축제 공식 관광정보의 일정은 2026-04-01~04-30이다. 종료된 행사로 기록하며 현재 참가 가능한 행사로 안내하지 않는다."
+      ]
+    },
+    "unverified_items": [
+      "완도↔청산도 선박 시간표·운임·차량 도선료·예약절차",
+      "섬내 버스와 구간별 최신 통제",
+      "슬로길 코스별 길이 및 2027 축제 일정"
+    ],
+    "sources": [
+      {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=103614",
+        "title": "한국관광공사 청산도 슬로시티",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "섬 위치와 슬로시티 지정 연도, 구들장논"
+      },
+      {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91703",
+        "title": "한국관광공사 2026 청산도슬로걷기축제",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "돌담·유채꽃·슬로길 총길이, 프로그램과 종료 일정"
+      }
+    ],
+    "record_status": "verified_core_operational_partial",
+    "verification_status": "verified",
+    "baseline_path": "korea-travel/05_전라/청산도.md",
+    "document_path": "korea-travel/05_전라/청산도.md",
+    "path": "korea-travel/05_전라/청산도.md",
+    "count_as_independent": false,
+    "relation_type": "parent_reference",
+    "relation_note": "섬 전체의 부모 관광권. 슬로길 각 코스·꽃밭·마을을 개별 명소로 늘려 집계하지 않는다.",
+    "related_catalog_ids": [],
+    "record_origin": "baseline_followup",
+    "addition_kind": "baseline_reverification",
+    "editorial_region": "05_전라"
+  },
+  {
+    "id": "kr-gyeongbuk-andong-hahoe-village",
+    "name_ko": "안동 하회마을",
+    "region": "경북",
+    "locality": "안동시 풍천면 하회리",
+    "type": [
+      "역사마을",
+      "세계유산"
+    ],
+    "highlights": [
+      "기와집·초가·정사·종가가 함께 남아 있어 조선시대 씨족마을의 공간 구성을 살필 수 있다. 집 한 채보다 길과 집들의 배치를 함께 보는 관람이 어울린다.",
+      "낙동강이 마을을 감싸 흐르는 지형이 하회라는 이름의 배경이다. 강과 마을을 따로 보지 않고 정자·고택 주변 풍경까지 묶어 본다.",
+      "별신굿탈놀이와 하회탈은 건축 외에 살아 있는 전통문화를 이해하는 열쇠다. 부용대·옥연정사·병산서원은 안동 공식 하회마을 코스의 연계 후보다."
+    ],
+    "recommended_season": {
+      "text": "봄·가을 낮",
+      "reason": "마을길과 강변을 걷기에 편한 시기를 택한 편집 추천이다. 탈춤이나 줄불놀이 공연일을 보장하지 않는다.",
+      "basis": "editorial_recommendation_based_on_verified_features"
+    },
+    "visit_tips": [
+      "주민이 살아가는 마을이므로 열린 관람구역과 사유공간을 구별하고 문이 열려 있어도 임의로 들어가지 않는다.",
+      "안동관광은 하회마을 주차와 셔틀버스를 무료로 안내한다. 셔틀 배차·막차는 방문일 확인하며 관람 종료 직전 도착하지 않도록 한다.",
+      "부용대·병산서원을 연계할 때는 마을 입장과 동일 동선·동일 표로 이용하는 시설이라고 가정하지 않는다. 공연 목적이라면 당일 공연 장소·시간부터 확인한다."
+    ],
+    "operational": {
+      "notes": [
+        "안동관광 관람시간표: 4~9월 09:00~17:30, 10~3월 09:00~16:30, 연중무휴. 별도 입장마감 여부는 표에서 구분되지 않아 단정하지 않는다.",
+        "일반 개인 관람료는 성인 5,000원·청소년/군인 2,500원·어린이 1,500원. 페이지상 연령은 성인 19~64세·청소년 13~18세·어린이 7~12세, 감면은 증빙 및 적용조건 확인."
+      ]
+    },
+    "unverified_items": [
+      "별도 입장마감 시각",
+      "방문일 셔틀 배차·막차",
+      "하회별신굿탈놀이·선유줄불놀이 현행 일정·요금·예약"
+    ],
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1324/",
+        "title": "UNESCO 한국의 역사마을 하회와 양동",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "씨족마을 구성과 유교적 배치, 자연 경관"
+      },
+      {
+        "url": "https://new.tourandong.com/public/sub1/sub1.cshtml?seq=196",
+        "title": "안동관광 하회마을 코스·상세",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "하회 지명·주민 전통·고택과 주변 연계"
+      },
+      {
+        "url": "https://new.tourandong.com/public/sub5/sub2.cshtml",
+        "title": "안동관광 관람요금",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "개인요금·연령 조건·주차 및 셔틀 무료"
+      },
+      {
+        "url": "https://new.tourandong.com/public/sub5/sub2_2.cshtml",
+        "title": "안동관광 관람시간",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "하회마을 행의 월별 시간·연중무휴"
+      }
+    ],
+    "record_status": "verified_core_operational_partial",
+    "verification_status": "verified",
+    "baseline_path": "korea-travel/06_경북대구/안동 하회마을.md",
+    "document_path": "korea-travel/06_경북대구/안동 하회마을.md",
+    "path": "korea-travel/06_경북대구/안동 하회마을.md",
+    "count_as_independent": true,
+    "relation_type": "destination",
+    "relation_note": "명명된 역사마을 단일 방문지로 1건. 마을 안 고택·공연·인근 부용대를 각각 가산하지 않는다.",
+    "related_catalog_ids": [],
+    "record_origin": "baseline_followup",
+    "addition_kind": "baseline_reverification",
+    "editorial_region": "06_경북대구"
+  },
+  {
+    "id": "kr-gyeongnam-geoje-parent",
+    "name_ko": "거제",
+    "region": "경남",
+    "locality": "거제시 도장포·외도 등 해안 관광권",
+    "type": [
+      "부모관광권",
+      "해안",
+      "정원"
+    ],
+    "highlights": [
+      "외도 보타니아의 비너스가든은 조각과 식재를 함께 배치한 해상 정원이다. 사랑의 언덕 전망에서는 정원 구성을 위에서 살펴볼 수 있다.",
+      "도장포 바람의 언덕은 풍차와 푸른 바다가 만나는 풍경이 중심이다. 바람의 언덕 길은 우제봉 전망대·해금강 쪽으로 이어지는 연계 산책 후보다.",
+      "해금강 해상 경관은 육지에서 보는 해안과 다른 시선을 제공한다. 외도 입도 상품과 해금강을 함께 둘러보는 유람선 상품을 구별해 고른다."
+    ],
+    "recommended_season": {
+      "text": "봄·가을, 해상 기상이 안정적인 맑은 날",
+      "reason": "공식 거제 걷기 기사에서 봄 산책을 소개하며, 정원·해안 조망을 함께 즐기려는 편집 추천이다.",
+      "basis": "editorial_recommendation_based_on_verified_features"
+    },
+    "visit_tips": [
+      "외도 선착장 선택과 출항·귀항 시각을 먼저 확정한다. 한 선착장 상품의 운항시간이나 운임을 다른 항구에 적용하지 않는다.",
+      "외도 입장료와 배삯은 별도 항목이다. 유람선 상품에 입장료가 포함되는지 예약 화면에서 확인한다.",
+      "바람의 언덕 짧은 관람과 우제봉까지 이어지는 길 전체 걷기는 다르다. 신발·바람막이를 준비하고 해상 기상이 나쁘면 육상 일정으로 조정한다."
+    ],
+    "operational": {
+      "notes": [
+        "한국관광공사 외도 페이지: 일반 개인 입장료 성인 11,000원·청소년 8,000원·어린이 5,000원. 스페인어 공식 페이지는 배삯 별도를 명시한다.",
+        "외도 관광정보에는 여름 08:00~19:00·겨울 08:30~17:00로 표기되지만 적용 월과 실제 배편이 별도이므로 특정 날짜의 입도 가능시간으로 확정하지 않는다."
+      ]
+    },
+    "unverified_items": [
+      "외도 선착장별 운임·배편·실제 입도 가능시간",
+      "바람의 언덕 주차요금·통제",
+      "포로수용소 유적공원 현행 운영·요금·휴무"
+    ],
+    "sources": [
+      {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110753",
+        "title": "한국관광공사 외도 보타니아",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "비너스가든·사랑의 언덕·입장료·계절 시간"
+      },
+      {
+        "url": "https://spanish.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=109637",
+        "title": "한국관광공사 외도 보타니아 스페인어",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "입장료와 배삯 별도 조건"
+      },
+      {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=223677",
+        "title": "한국관광공사 거제 봄 걷기 여행",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "바람의 언덕·우제봉 연계, 해금강·외도 여행 성격. 과거 운임·배편 제외"
+      }
+    ],
+    "record_status": "verified_core_operational_partial",
+    "verification_status": "verified",
+    "baseline_path": "korea-travel/07_경남부산울산/거제.md",
+    "document_path": "korea-travel/07_경남부산울산/거제.md",
+    "path": "korea-travel/07_경남부산울산/거제.md",
+    "count_as_independent": false,
+    "relation_type": "parent_reference",
+    "relation_note": "거제시·거제도 부모 관광권. 외도·바람의 언덕·해금강을 새 독립 수량으로 분할하지 않는다.",
+    "related_catalog_ids": [],
+    "record_origin": "baseline_followup",
+    "addition_kind": "baseline_reverification",
+    "editorial_region": "07_경남부산울산"
+  },
+  {
+    "id": "kr-busan-haeundae-parent",
+    "name_ko": "부산 해운대",
+    "region": "부산",
+    "locality": "해운대구 해변·미포 해안 관광권",
+    "type": [
+      "부모관광권",
+      "해변",
+      "관광열차"
+    ],
+    "highlights": [
+      "해운대 해변은 약 1.5km 백사장과 도시의 숙박·먹거리 시설이 만나는 해안이다. 모래사장 산책과 여름 해수욕은 이용 조건을 구별한다.",
+      "동백섬은 해변 주변 연계 후보로 공식 관광정보가 소개한다. 누리마루 실내 관람을 넣을 때에는 공원 산책과 별도로 운영일을 확인한다.",
+      "블루라인파크 해변열차는 미포·송정 사이 정거장을 고르며 해안을 보는 방식이다. 스카이캡슐을 함께 이용하려면 별도 상품·구간을 확인한다."
+    ],
+    "recommended_season": {
+      "text": "봄·가을 해안 산책, 여름은 공식 해수욕 운영기간",
+      "reason": "도시 해안의 산책과 물놀이 목적을 나누어 추천했다. 2026 개장일은 확인되지 않아 종전 기사 날짜를 채택하지 않았다.",
+      "basis": "editorial_recommendation_based_on_verified_features"
+    },
+    "visit_tips": [
+      "해변열차 1회권은 한 번 내리면 사용이 끝난다. 왕복 또는 중간 하차를 원하면 2회권·모든역권 조건을 비교한다.",
+      "미포와 송정 종점에서는 모두 내려야 하고 그 하차도 횟수에 포함된다. 모든역권도 같은 역에서 두 번 탑승할 수 있는 무제한권은 아니다.",
+      "바다 산책·동백섬·열차를 모두 넣을 때에는 열차 예약시간과 귀환 동선을 먼저 잡는다. 해수욕 가능 여부는 해변 현장 안전 안내를 따른다."
+    ],
+    "operational": {
+      "notes": [
+        "블루라인파크 공식 해변열차 1인 요금: 1회 8,000원·2회 12,000원·모든역 16,000원. 편도 탑승은 약 25분 안내이며 대기시간은 별도다.",
+        "한국관광공사 해운대 페이지는 해변 입장 무료, 부대시설 이용료 별도를 안내한다. 해변 무료와 열차·물놀이 시설 무료를 혼동하지 않는다."
+      ]
+    },
+    "unverified_items": [
+      "해수욕장 개장·수영시간·물놀이 통제",
+      "스카이캡슐 단독 요금·계절별 시간·방문일 예약",
+      "누리마루 현행 운영·휴관",
+      "대중교통 노선·주차료"
+    ],
+    "sources": [
+      {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053",
+        "title": "한국관광공사 해운대해수욕장",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "백사장·도시 시설·동백섬 연계·무료 입장과 부대시설 구분"
+      },
+      {
+        "url": "https://www.bluelinepark.com/beachTramFare.do",
+        "title": "블루라인파크 공식 해변열차 요금",
+        "accessed_at": "2026-10-10",
+        "verification": "official_page_read",
+        "supports": "1·2회/모든역 요금과 하차·재탑승 제한, 편도 시간"
+      }
+    ],
+    "record_status": "verified_core_operational_partial",
+    "verification_status": "verified",
+    "baseline_path": "korea-travel/07_경남부산울산/부산 해운대.md",
+    "document_path": "korea-travel/07_경남부산울산/부산 해운대.md",
+    "path": "korea-travel/07_경남부산울산/부산 해운대.md",
+    "count_as_independent": false,
+    "relation_type": "parent_reference",
+    "relation_note": "해운대 해변과 주변 여러 시설을 묶은 부모 관광권. 해변열차·동백섬을 각각 새 명소 수로 가산하지 않는다.",
+    "related_catalog_ids": [],
+    "record_origin": "baseline_followup",
+    "addition_kind": "baseline_reverification",
+    "editorial_region": "07_경남부산울산"
+  }
+]

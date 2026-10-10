@@ -1,0 +1,34 @@
+{
+  "documents": 11,
+  "verified_core": 11,
+  "held": 0,
+  "parent_reference": 9,
+  "independent": 2,
+  "source_count": 27,
+  "originals_preserved": true,
+  "source_method": "web search + official webpage open/find/click only; no tourism MCP or API",
+  "checks": [
+    "11 exact assigned paths",
+    "unique IDs; no catalog ID collision",
+    "3 highlights and 3 tips each",
+    "official sources each have date and supports",
+    "all improved Markdown files exist"
+  ],
+  "material_corrections": [
+    "만천하는 단양읍 아닌 적성면",
+    "하회마을 공식 시간표 17:30/16:30",
+    "설악케이블카 왕복 성인 16,000원/소인 12,000원",
+    "해변열차 1회 8,000원",
+    "마니산 공지 07시와 푸터 09시 충돌 명시",
+    "2026 청산도 축제 4/1~4/30 종료 명시"
+  ],
+  "access_limits": [
+    "강원관광 커피거리 502: 한국관광공사 열린관광 본문으로 확인",
+    "목포 문화관광 시간초과: 한국관광공사 공식 코스 사용, 2018 운영값 제외",
+    "완도 상세 URL 오류: 한국관광공사 섬·2026 축제 본문으로 확인",
+    "고수동굴 운영사 시간초과: 한국관광공사 시간/요금은 출처 귀속하고 운영사 최종확인 남김",
+    "만천하 군청 페이지 본문 부족: 한국관광공사 주소·경관으로 확인",
+    "외도·거제 관광 사이트 시간초과: 한국관광공사 영문/스페인어 웹 본문으로 확인"
+  ],
+  "operational_caution": "verified means core attraction identity/content; outstanding fares, schedules, seasonal control and reservation conditions remain explicitly unverified."
+}

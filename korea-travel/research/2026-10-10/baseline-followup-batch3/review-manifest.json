@@ -1,0 +1,359 @@
+{
+  "base_commit": "7437c5de3d0509a6ce283f52baaf0a19944c6a52",
+  "inputs": [
+    {
+      "path": "baseline-followup/group1/records.json",
+      "count": 12,
+      "sha256": "735071b225bce6316e87d7d13016a4937d9ac8b520a52a3f86a56465989fb505"
+    },
+    {
+      "path": "baseline-followup/group2/records.json",
+      "count": 12,
+      "sha256": "f849359ef5648db3ae7c3849bc14429db92704651be2f782fb3a1310ad3c5339"
+    },
+    {
+      "path": "baseline-followup/group3/records.json",
+      "count": 11,
+      "sha256": "77bb97c5633f84f78730aea2b18eb0477dfdb6e5093281eb39643c77dfef7cbb"
+    }
+  ],
+  "record_parts": [
+    "records-part-01.json",
+    "records-part-02.json",
+    "records-part-03.json"
+  ],
+  "results": [
+    {
+      "path": "korea-travel/01_서울/성수동.md",
+      "id": "kr-seoul-seongsu-overview",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "기존 도시·섬·복합 방문권의 부모 참고문서. 구성 장소와 중복하여 독립 명소 수에 가산하지 않음.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/02_인천경기/아침고요수목원.md",
+      "id": "kr-gyeonggi-morning-calm-garden",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": true,
+      "relation_note": "단일 명명된 목적지 1건. 내부 시설은 별도 가산하지 않음.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/02_인천경기/임진각·DMZ.md",
+      "id": "kr-gyeonggi-imjingak-dmz-overview",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "기존 도시·섬·복합 방문권의 부모 참고문서. 구성 장소와 중복하여 독립 명소 수에 가산하지 않음.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/03_강원/남이섬.md",
+      "id": "kr-gangwon-namiseom",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": true,
+      "relation_note": "단일 명명된 목적지 1건. 내부 시설은 별도 가산하지 않음.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/03_강원/속초.md",
+      "id": "kr-gangwon-sokcho-overview",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "기존 도시·섬·복합 방문권의 부모 참고문서. 구성 장소와 중복하여 독립 명소 수에 가산하지 않음.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/04_충청/대전.md",
+      "id": "kr-daejeon-overview",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "기존 도시·섬·복합 방문권의 부모 참고문서. 구성 장소와 중복하여 독립 명소 수에 가산하지 않음.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/04_충청/태안 안면도.md",
+      "id": "kr-chungnam-anmyeondo-overview",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "기존 도시·섬·복합 방문권의 부모 참고문서. 구성 장소와 중복하여 독립 명소 수에 가산하지 않음.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/05_전라/순천만습지·국가정원.md",
+      "id": "kr-jeonnam-suncheon-bay-garden-overview",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "기존 도시·섬·복합 방문권의 부모 참고문서. 구성 장소와 중복하여 독립 명소 수에 가산하지 않음.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/06_경북대구/경주 대릉원·동궁과 월지.md",
+      "id": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "기존 도시·섬·복합 방문권의 부모 참고문서. 구성 장소와 중복하여 독립 명소 수에 가산하지 않음.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/06_경북대구/울릉도·독도.md",
+      "id": "kr-gyeongbuk-ulleung-dokdo-overview",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "기존 도시·섬·복합 방문권의 부모 참고문서. 구성 장소와 중복하여 독립 명소 수에 가산하지 않음.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/07_경남부산울산/광안리·광안대교.md",
+      "id": "kr-busan-gwangalli-bridge-overview",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "기존 도시·섬·복합 방문권의 부모 참고문서. 구성 장소와 중복하여 독립 명소 수에 가산하지 않음.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/07_경남부산울산/태종대.md",
+      "id": "kr-busan-taejongdae",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": true,
+      "relation_note": "단일 명명된 목적지 1건. 내부 시설은 별도 가산하지 않음.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/01_서울/한강공원.md",
+      "id": "kr-seoul-hangang-parks-reference",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "여러 지점의 동선을 설명하는 부모 관광권 참고문서. 구성 명소를 개별 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/02_인천경기/에버랜드.md",
+      "id": "kr-gyeonggi-everland",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": true,
+      "relation_note": "기존 단일 목적지 문서를 같은 경로로 보강. 내부 시설은 별도 명소로 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/02_인천경기/한국민속촌.md",
+      "id": "kr-gyeonggi-korean-folk-village",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": true,
+      "relation_note": "기존 단일 목적지 문서를 같은 경로로 보강. 내부 시설은 별도 명소로 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/03_강원/대관령 양떼목장.md",
+      "id": "kr-gangwon-daegwallyeong-yangtte-ranch",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": true,
+      "relation_note": "기존 단일 목적지 문서를 같은 경로로 보강. 내부 시설은 별도 명소로 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/04_충청/공주·부여 백제역사유적지구.md",
+      "id": "kr-chungnam-baekje-gongju-buyeo-reference",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "여러 지점의 동선을 설명하는 부모 관광권 참고문서. 구성 명소를 개별 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/04_충청/보령 대천해수욕장.md",
+      "id": "kr-chungnam-daecheon-beach",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": true,
+      "relation_note": "기존 단일 목적지 문서를 같은 경로로 보강. 내부 시설은 별도 명소로 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/05_전라/담양.md",
+      "id": "kr-jeolla-damyang-reference",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "여러 지점의 동선을 설명하는 부모 관광권 참고문서. 구성 명소를 개별 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/05_전라/여수.md",
+      "id": "kr-jeolla-yeosu-reference",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "여러 지점의 동선을 설명하는 부모 관광권 참고문서. 구성 명소를 개별 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/06_경북대구/대구 근대골목·김광석길.md",
+      "id": "kr-daegu-modern-alleys-kim-reference",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "여러 지점의 동선을 설명하는 부모 관광권 참고문서. 구성 명소를 개별 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/06_경북대구/포항 호미곶.md",
+      "id": "kr-gyeongbuk-pohang-homigot",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": true,
+      "relation_note": "기존 단일 목적지 문서를 같은 경로로 보강. 내부 시설은 별도 명소로 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/07_경남부산울산/남해.md",
+      "id": "kr-gyeongnam-namhae-reference",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "여러 지점의 동선을 설명하는 부모 관광권 참고문서. 구성 명소를 개별 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/07_경남부산울산/통영.md",
+      "id": "kr-gyeongnam-tongyeong-reference",
+      "status": "verified_core_operational_pending",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "여러 지점의 동선을 설명하는 부모 관광권 참고문서. 구성 명소를 개별 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/02_인천경기/강화도.md",
+      "id": "kr-incheon-ganghwa-parent",
+      "status": "verified_core_operational_partial",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "강화도·주변 섬을 포괄하는 부모 문서. 기존 부근리 고인돌·전등사·강화루지·교동 대룡시장과 별도 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/02_인천경기/인천 차이나타운·개항장.md",
+      "id": "kr-incheon-chinatown-open-port-parent",
+      "status": "verified_core_operational_partial",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "차이나타운과 개항장 여러 시설을 잇는 부모 관광권이며 구성 박물관을 새 명소 수로 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/03_강원/강릉 경포·안목.md",
+      "id": "kr-gangwon-gangneung-gyeongpo-anmok-parent",
+      "status": "verified_core_operational_partial",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "복합 부모 관광권. 기존 경포대·오죽헌 개별 레코드와 중복 집계하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/03_강원/설악산.md",
+      "id": "kr-gangwon-seoraksan-parent",
+      "status": "verified_core_operational_partial",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "넓은 국립공원 부모 탐방권. 기존 백담사 등 구성 목적지와 별도 중복 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/04_충청/단양.md",
+      "id": "kr-chungbuk-danyang-parent",
+      "status": "verified_core_operational_partial",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "군 단위 부모 관광권이며 도담삼봉·만천하·고수동굴을 새 독립 레코드로 분할하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/04_충청/속리산 법주사.md",
+      "id": "kr-chungbuk-beopjusa",
+      "status": "verified_core_operational_partial",
+      "official_core_confirmed": true,
+      "count_as_independent": true,
+      "relation_note": "속리산은 위치를 나타내는 수식어이고 본 문서 핵심 대상은 법주사 한 사찰이다. 문장대·정이품송·테마파크는 별도 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/05_전라/목포.md",
+      "id": "kr-jeonnam-mokpo-parent",
+      "status": "verified_core_operational_partial",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "도시 부모 관광권. 유달산·역사관·케이블카 등 구성요소의 개별 수량을 늘리지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/05_전라/청산도.md",
+      "id": "kr-jeonnam-cheongsando-parent",
+      "status": "verified_core_operational_partial",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "섬 전체의 부모 관광권. 슬로길 각 코스·꽃밭·마을을 개별 명소로 늘려 집계하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/06_경북대구/안동 하회마을.md",
+      "id": "kr-gyeongbuk-andong-hahoe-village",
+      "status": "verified_core_operational_partial",
+      "official_core_confirmed": true,
+      "count_as_independent": true,
+      "relation_note": "명명된 역사마을 단일 방문지로 1건. 마을 안 고택·공연·인근 부용대를 각각 가산하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/07_경남부산울산/거제.md",
+      "id": "kr-gyeongnam-geoje-parent",
+      "status": "verified_core_operational_partial",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "거제시·거제도 부모 관광권. 외도·바람의 언덕·해금강을 새 독립 수량으로 분할하지 않는다.",
+      "existing_catalog_id": null
+    },
+    {
+      "path": "korea-travel/07_경남부산울산/부산 해운대.md",
+      "id": "kr-busan-haeundae-parent",
+      "status": "verified_core_operational_partial",
+      "official_core_confirmed": true,
+      "count_as_independent": false,
+      "relation_note": "해운대 해변과 주변 여러 시설을 묶은 부모 관광권. 해변열차·동백섬을 각각 새 명소 수로 가산하지 않는다.",
+      "existing_catalog_id": null
+    }
+  ],
+  "counts": {
+    "original_destination_documents": 56,
+    "original_paths_preserved": 65,
+    "baseline_reviewed_documents": 56,
+    "baseline_independent_counted_records": 28,
+    "baseline_reference_only_records": 28,
+    "baseline_pending_documents": 0,
+    "new_detailed_records": 265,
+    "depth_held_records": 1,
+    "new_eligible_records": 264,
+    "verified_core_records": 321,
+    "counted_destination_or_visit_area_records": 292,
+    "total_destination_documents": 321,
+    "priority_depth_followup_records": 1,
+    "baseline_followup_confirmed_documents": 35,
+    "baseline_followup_added_destination_documents": 0
+  }
+}

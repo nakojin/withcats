@@ -1,0 +1,32 @@
+{
+  "checked_at": "2026-10-10",
+  "scope": "후속35문서 중 변동 운영정보와 명칭5곳 표본 원문 재대조",
+  "checked": [
+    {
+      "id": "kr-gyeongbuk-andong-hahoe-village",
+      "url": "https://new.tourandong.com/public/sub5/sub2_2.cshtml",
+      "result": "원문 하회마을 개별 행의4~9월09:00~17:30/10~3월09:00~16:30과일치. 표 전체열머리3~10월/11~2월을개별행에오적용하지않음. 입장마감별도미확인 유지."
+    },
+    {
+      "id": "kr-gangwon-seoraksan-parent",
+      "url": "https://www.sorakcablecar.co.kr/guide",
+      "result": "공식 일반왕복 대인중학생이상16000/37개월~초등12000/36개월미만무료, 사전예약없음·당일현장구매 직접 확인. 실시간 운행 확인중이라 당일 정상운행 확정하지 않음."
+    },
+    {
+      "id": "kr-busan-haeundae-parent",
+      "url": "https://www.bluelinepark.com/beachTramFare.do",
+      "result": "공식해변열차요금 페이지 재열람 성공. 요금과 승차횟수 조건의 근거 페이지 확인."
+    },
+    {
+      "id": "kr-gyeonggi-everland",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1589867",
+      "result": "2026-05-19 관광공사 본문에서 Monimo RUSH(formerly T Express), 로스트밸리 초식동물·사파리월드 맹수, 역에서 무료 셔틀 동선 확인. 과거일정·단일가격을현재공통값으로옮기지 않은 원고와 일치."
+    },
+    {
+      "id": "kr-gyeonggi-korean-folk-village",
+      "url": "https://www.koreanfolk.co.kr/ticket/admission-fees",
+      "result": "공식 요금표 열람 성공. 주중/주말 성인37000/39000 아동30000/32000 구분의 근거 페이지 확인."
+    }
+  ],
+  "limit": "나머지30곳의 모든 주장·시간·요금을 총괄이 전수 재검증했다는 뜻은 아님. 담당자의 직접 원문 열람 기록과 구분."
+}

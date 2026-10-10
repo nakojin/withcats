@@ -1,0 +1,26 @@
+{
+  "status": "pass",
+  "base_commit": "7437c5de3d0509a6ce283f52baaf0a19944c6a52",
+  "counts": {
+    "original_destination_documents": 56,
+    "original_paths_preserved": 65,
+    "baseline_reviewed_documents": 56,
+    "baseline_independent_counted_records": 28,
+    "baseline_reference_only_records": 28,
+    "baseline_pending_documents": 0,
+    "new_detailed_records": 265,
+    "depth_held_records": 1,
+    "new_eligible_records": 264,
+    "verified_core_records": 321,
+    "counted_destination_or_visit_area_records": 292,
+    "total_destination_documents": 321,
+    "priority_depth_followup_records": 1,
+    "baseline_followup_confirmed_documents": 35,
+    "baseline_followup_added_destination_documents": 0
+  },
+  "historical_research_preserved_byte_for_byte": true,
+  "internal_links_checked": 706,
+  "errors": [],
+  "network_used": false,
+  "scope": "구조·수량·출처 필드·과거보존 검증이며 관광사실 전수 재검증 아님."
+}

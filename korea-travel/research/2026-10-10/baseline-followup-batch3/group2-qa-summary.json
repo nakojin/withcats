@@ -1,0 +1,12 @@
+{
+  "reviewed_documents": 12,
+  "verified_core": 12,
+  "held": 0,
+  "count_as_independent": 5,
+  "parent_reference": 7,
+  "unique_official_source_urls": 22,
+  "verification_date": "2026-10-10",
+  "method": "웹검색 후 공식 웹페이지 본문 열람. 관광 API/MCP 미사용. 국문 껍데기 페이지는 근거에서 제외하고 공식 다국어 본문 활용.",
+  "remaining": "방문일 운영·변동예약·명시된 상충 항목은 각 문서에 보류.",
+  "qa": "12 assignment paths and unique IDs checked; 2–3 highlights and 2–3 tips; originals untouched; no push."
+}
