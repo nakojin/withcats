@@ -1,0 +1,801 @@
+[
+ {
+  "key": "east-sh-03",
+  "name_ko": "난징둥루 보행거리",
+  "name_local": "南京路步行街",
+  "admin_region": "상하이시 황푸구",
+  "address": "上海市黄浦区南京东路299号",
+  "description": "난징루 보행거리는 상하이 황푸구에서 서쪽 시짱중루부터 동쪽 와이탄 쪽 중산둥이루까지 이어지는 1,033m 길이의 상업 거리입니다. 1999년 9월 20일 완공되었고 도로 폭은 18~28m입니다. 현대식 건물과 유럽풍 옛 건물이 함께 서 있어 세로형 간판과 네온 불빛이 특히 밤에 눈길을 끕니다. 거리는 0시부터 24시까지 열려 있고 쇼핑몰은 보통 10:00~22:00에 영업합니다. 지하철 2·10호선 난징둥루역이 가깝습니다. 신세계청 등 이 거리 상가에서는 외국 카드 POS 단말기 업그레이드가 완료된 것으로 공식 발표되었습니다. 무허가 노점과 스케이트보드·롤러스케이트 이용은 금지됩니다.",
+  "highlights": [
+   "서쪽 시짱중루에서 동쪽 와이탄 쪽 중산둥이루까지 1,033m 구간",
+   "지하철 2·10호선 난징둥루역 인근",
+   "거리는 0:00~24:00 개방, 쇼핑몰은 10:00~22:00",
+   "현대식 건물과 유럽풍 옛 건물이 섞인 풍경, 밤의 세로 간판과 네온",
+   "신세계청의 외국 카드 POS 단말기 업그레이드 완료(2023년 공지)"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "난징루 보행거리의 주소는 상하이시 황푸구 난징둥루 299호이다.",
+    "value": "上海市黄浦区南京东路299号",
+    "evidence": "上海市黄浦区南京东路299号南京路步行街",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+      "type": "government",
+      "page_updated": "2025-04-17"
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "보행거리는 서쪽 시짱중루에서 동쪽 중산둥이루(와이탄)까지 이어진다.",
+    "value": null,
+    "evidence": "西起西藏中路，东至中山东一路外滩",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+      "type": "government",
+      "page_updated": "2025-04-17"
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "location",
+    "text": "보행거리의 전체 길이는 1,033m이다.",
+    "value": "1033 m",
+    "evidence": "全长1033米",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+      "type": "government",
+      "page_updated": "2025-04-17"
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "description",
+    "text": "도로 폭은 18~28m이다.",
+    "value": "18-28 m",
+    "evidence": "路幅宽18—28米",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+      "type": "government",
+      "page_updated": "2025-04-17"
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "description",
+    "text": "보행거리는 1999년 9월 20일에 완공되었다.",
+    "value": "1999-09-20",
+    "evidence": "建成于1999年9月20日",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+      "type": "government",
+      "page_updated": "2025-04-17"
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "access",
+    "text": "가장 가까운 지하철역은 2·10호선 난징둥루역이다.",
+    "value": "Line 2/10 Nanjing East Road",
+    "evidence": "轨道交通2/10号线 南京东路站",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+      "type": "government",
+      "page_updated": "2025-04-17"
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "거리는 0:00~24:00 개방된다고 안내되어 있다.",
+    "value": "00:00-24:00",
+    "evidence": "0:00-24:00，商场营业时间：10:00-22:00",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+      "type": "government",
+      "page_updated": "2025-04-17"
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "hours",
+    "text": "거리 내 쇼핑몰 영업시간은 10:00~22:00이다.",
+    "value": "10:00-22:00",
+    "evidence": "商场营业时间：10:00-22:00",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+      "type": "government",
+      "page_updated": "2025-04-17"
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "description",
+    "text": "현대식 건물과 유럽풍 옛 건물이 함께 서 있고, 세로 간판과 네온 불빛이 밤에 특히 눈에 띈다.",
+    "value": null,
+    "evidence": "现代建筑与欧式老建筑并存；竖招牌、霓虹灯夜晚尤为醒目",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+      "type": "government",
+      "page_updated": "2025-04-17"
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "location",
+    "text": "관리 규정상 '보행거리'는 동쪽 중산둥이루, 서쪽 시짱중루 사이 난징둥루 구간과 양쪽 건물까지 포함한 구역이며, 더 넓은 '보행가구'는 동쪽 중산둥이루, 서쪽 황허루, 남쪽 주장루 등으로 둘러싸인 구역이다.",
+    "value": null,
+    "evidence": "东至中山东一路、西至西藏中路的南京东路路段，南北至两侧建筑物在内的区域",
+    "sources": [
+     {
+      "url": "https://www.shanghai.gov.cn/nw12344/20220127/4d4d52f387ea43909221b0f7c82dbfe9.html",
+      "type": "government",
+      "page_updated": "2022-01-27"
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "caution",
+    "text": "보행가구 구역에서는 무허가로 노점을 열어 물건을 파는 행위가 금지된다.",
+    "value": null,
+    "evidence": "擅自设摊经营，兜售物品",
+    "sources": [
+     {
+      "url": "https://www.shanghai.gov.cn/nw12344/20220127/4d4d52f387ea43909221b0f7c82dbfe9.html",
+      "type": "government",
+      "page_updated": "2022-01-27"
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "caution",
+    "text": "보행가구 구역의 도로에서 스케이트보드나 롤러스케이트 같은 활주 기구를 쓰는 것이 금지된다.",
+    "value": null,
+    "evidence": "在道路上使用滑板、旱冰鞋等滑行工具",
+    "sources": [
+     {
+      "url": "https://www.shanghai.gov.cn/nw12344/20220127/4d4d52f387ea43909221b0f7c82dbfe9.html",
+      "type": "government",
+      "page_updated": "2022-01-27"
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "caution",
+    "text": "보행가구 구역에서는 큰 소리로 방송하는 확성기 광고와 영업용 전단 배포도 금지된다.",
+    "value": null,
+    "evidence": "散发经营性宣传品；使用高音广播喇叭",
+    "sources": [
+     {
+      "url": "https://www.shanghai.gov.cn/nw12344/20220127/4d4d52f387ea43909221b0f7c82dbfe9.html",
+      "type": "government",
+      "page_updated": "2022-01-27"
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "payment",
+    "text": "난징루 보행거리의 신세계청(新世界城)에 있는 외국 카드 POS 단말기가 모두 업그레이드를 마쳤다고 2023년에 공지되었다.",
+    "value": null,
+    "evidence": "南京路步行街新世界城所有外卡POS机均已完成升级",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/wlyw/20231106/781e20eb51f64849ad604cee30f89a70.html",
+      "type": "government",
+      "page_updated": "2023-11-04"
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "payment",
+    "text": "상하이시는 결제 체계를 '큰 금액은 카드, 작은 금액은 QR, 현금은 최후 보루'로 둔다는 방침을 밝혔다(시 전체 정책).",
+    "value": null,
+    "evidence": "大额刷卡、小额扫码、现金兜底",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/wlyw/20231106/781e20eb51f64849ad604cee30f89a70.html",
+      "type": "government",
+      "page_updated": "2023-11-04"
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "fees",
+    "reason": "공식 페이지에 요금 항목이 없어 무료라고 명시된 근거를 찾지 못했다."
+   },
+   {
+    "field": "parking",
+    "reason": "공식 출처에서 보행거리 주변 주차 정보를 찾지 못했다."
+   },
+   {
+    "field": "duration",
+    "reason": "공식 출처에 권장 소요시간이 없다."
+   },
+   {
+    "field": "closed_days",
+    "reason": "공식 페이지는 개방 시간만 적고 휴무일은 적지 않았다."
+   },
+   {
+    "field": "reservation",
+    "reason": "공식 출처에 예약·실명/여권 등록 관련 안내가 없다(개방형 거리라 해당 안내 자체가 없음)."
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내·오디오가이드에 대한 공식 정보를 찾지 못했다."
+   },
+   {
+    "field": "payment",
+    "reason": "거리 전체 단위의 현금·카드·모바일 결제 가능 여부 공식 안내는 없고, 신세계청 외국 카드 POS 업그레이드 공지(2023-11, 12개월 이상 경과 stale_source)만 확인됨."
+   },
+   {
+    "field": "access",
+    "reason": "역에서 거리까지 도보 시간은 공식 출처에 없다. 황푸구 정부 사이트(shhuangpu.gov.cn) 등은 이 환경에서 내용을 읽지 못했다(official_unreachable)."
+   }
+  ]
+ },
+ {
+  "key": "east-sh-04",
+  "name_ko": "신톈디",
+  "name_local": "新天地",
+  "admin_region": "상하이시 황푸구",
+  "address": "上海市黄浦区太仓路181弄",
+  "description": "신톈디는 상하이 황푸구 타이창루 181농에 있는 스쿠먼(石库门) 건축 거리입니다. 북쪽 타이창루, 남쪽 싱예루, 서쪽 마당루, 동쪽 황피난루로 둘러싸인 구역으로, 거리 길이는 412m입니다. 20세기 초 스쿠먼 건물의 외관을 살리면서 식당과 상점, 문화 공간으로 쓰고 있으며 국가급 관광레저 거리로 지정되었습니다. 구역은 24시간 열려 있고, 컨시어지 데스크는 10:00~22:00 운영합니다. 지하철 10·13호선 신톈디역과 1호선 황피난루역을 이용할 수 있으며, 거리 상가 전반에서 외국 카드 결제가 가능하다고 공식 발표되었습니다. 패션쇼와 부티크 마켓 등 행사도 열립니다.",
+  "highlights": [
+   "20세기 초 스쿠먼 건축에 현대 상업 시설을 결합한 거리",
+   "지하철 10·13호선 신톈디역, 1호선 황피난루역 이용",
+   "구역 24시간 개방, 컨시어지 10:00~22:00",
+   "거리 상가 전반에서 외국 카드 결제 가능(2025년 공식 발표)",
+   "국가급 관광레저 거리, 패션쇼·마켓 등 행사 개최"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "신톈디의 주소는 황푸구 타이창루 181농이다.",
+    "value": "Lane 181 Taicang Road, Huangpu",
+    "evidence": "Lane 181 Taicang Road, Huangpu district",
+    "sources": [
+     {
+      "url": "https://english.shanghai.gov.cn/en-SpecialtyShoppingAreas/20231207/521159f5af35430ab1641004f5c68d03.html",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "신톈디는 황푸구에 있으며 북쪽 타이창루, 남쪽 싱예루, 서쪽 마당루, 동쪽 황피난루로 둘러싸여 있다.",
+    "value": null,
+    "evidence": "北至太仓路，南至兴业路，西至马当路，东至黄陂南路",
+    "sources": [
+     {
+      "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+      "type": "government",
+      "page_updated": "2025-07-07"
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "신톈디 거리의 길이는 412m이다.",
+    "value": "412 m",
+    "evidence": "街长412米",
+    "sources": [
+     {
+      "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+      "type": "government",
+      "page_updated": "2025-07-07"
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "지하철 10·13호선 신톈디역과 1호선 황피난루역(South Huangpi Road)이 가깝다.",
+    "value": "Line 10/13 Xintiandi; Line 1 South Huangpi Road",
+    "evidence": "Xintiandi Station on Metro Lines 10/13; South Huangpi Road Station on Metro Line 1",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/en/shopping/xintiandi-cbd-001664/",
+      "type": "government",
+      "page_updated": "2025-10-21"
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "parking",
+    "text": "신톈디 일대 주차 공간이 661면으로 확충되었다고 소개된다.",
+    "value": "661 spaces",
+    "evidence": "661个停车位",
+    "sources": [
+     {
+      "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+      "type": "government",
+      "page_updated": "2025-07-07"
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "hours",
+    "text": "신톈디 구역은 24시간 연중무휴로 열려 있다고 안내된다.",
+    "value": "24/7",
+    "evidence": "Open 24/7",
+    "sources": [
+     {
+      "url": "https://english.shanghai.gov.cn/en-SpecialtyShoppingAreas/20231207/521159f5af35430ab1641004f5c68d03.html",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "상하이시 문화관광 사이트의 신톈디 쇼핑 항목에는 운영시간이 10:00~22:00로 적혀 있다.",
+    "value": "10:00-22:00",
+    "evidence": "Opening Hours: 10:00-22:00",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/en/shopping/xintiandi-cbd-001664/",
+      "type": "government",
+      "page_updated": "2025-10-21"
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "language",
+    "text": "운영사 신톈디의 컨시어지 데스크(신톈디, 광장, 시상, 후빈다오)는 10:00~22:00에 응대하며 신톈디 대표 데스크 전화는 021-6311 2288이다.",
+    "value": "021-6311 2288",
+    "evidence": "服务热线：021-6311 2288 接待时间：10:00-22:00",
+    "sources": [
+     {
+      "url": "https://www.xintiandi.com/project/xintiandi-shanghai/",
+      "type": "operator",
+      "page_updated": "2025-09-11"
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "payment",
+    "text": "신톈디 거리 전체 상가에서 외국 카드 결제가 가능하다고 공식 발표되었다.",
+    "value": null,
+    "evidence": "全街区商户覆盖外卡支付",
+    "sources": [
+     {
+      "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+      "type": "government",
+      "page_updated": "2025-07-07"
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "description",
+    "text": "신톈디는 20세기 초 스쿠먼 건축의 모습을 살리면서 현대적 상업 기능을 더한 복합 지구이다.",
+    "value": null,
+    "evidence": "保留了上海20世纪初特色的石库门建筑并在商业项目中注入风尚元素",
+    "sources": [
+     {
+      "url": "https://www.xintiandi.com/project/xintiandi-shanghai/",
+      "type": "operator",
+      "page_updated": "2025-09-11"
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "description",
+    "text": "상하이 신톈디의 총 건축면적은 609,000㎡이다.",
+    "value": "609,000 sqm",
+    "evidence": "总建筑面积 609,000 平方米",
+    "sources": [
+     {
+      "url": "https://www.xintiandi.com/project/xintiandi-shanghai/",
+      "type": "operator",
+      "page_updated": "2025-09-11"
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "description",
+    "text": "신톈디는 2023년 12월 27일 문화관광부의 제3차 국가급 관광레저 거리 목록에 포함되었다.",
+    "value": "2023-12-27",
+    "evidence": "third batch of national-level tourism leisure street blocks",
+    "sources": [
+     {
+      "url": "https://english.shanghai.gov.cn/en-HeritageZones/20240104/292e9fb43eec407783af83e547e61281.html",
+      "type": "government",
+      "page_updated": "2025-09-01"
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "highlight",
+    "text": "거리에서 패션쇼, 부티크 마켓, 창작 워크숍, 음악·와인 축제가 열린다.",
+    "value": null,
+    "evidence": "fashion shows, boutique markets, creative workshops, and music and wine festivals",
+    "sources": [
+     {
+      "url": "https://english.shanghai.gov.cn/en-HeritageZones/20240104/292e9fb43eec407783af83e547e61281.html",
+      "type": "government",
+      "page_updated": "2025-09-01"
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "description",
+    "text": "운영사는 신톈디가 포브스 선정 세계 문화 랜드마크 20곳과 세계은행의 도시재생 대표 사례에 올랐다고 소개한다.",
+    "value": null,
+    "evidence": "福布斯全球 20 大文化地标 世界银行全球 URBAN RENEWAL 经典案例",
+    "sources": [
+     {
+      "url": "https://www.xintiandi.com/project/xintiandi-shanghai/",
+      "type": "operator",
+      "page_updated": "2025-09-11"
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "description",
+    "text": "신톈디 거리의 식당 입점 업체는 26곳이고 식음 영업 면적은 24,000㎡이다.",
+    "value": "26 merchants; 24,000 sqm",
+    "evidence": "现有餐饮商户26家；餐饮经营面积24000平方米",
+    "sources": [
+     {
+      "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+      "type": "government",
+      "page_updated": "2025-07-07"
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "hours.conflict",
+    "reason": "공식 영어 정부 페이지(https://english.shanghai.gov.cn/en-SpecialtyShoppingAreas/20231207/521159f5af35430ab1641004f5c68d03.html)는 24/7, 상하이시 문화관광 사이트 쇼핑 항목(https://www.meet-in-shanghai.net/en/shopping/xintiandi-cbd-001664/)은 10:00-22:00. 개방 구역과 상가 영업시간의 차이일 수 있으나 공식 설명 없음."
+   },
+   {
+    "field": "description.conflict",
+    "reason": "개장 시점이 출처마다 다르다: 시 정부 기사는 '2000年10月1日'(https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html), 운영사는 2001년 선보임(https://www.xintiandi.com/about-xintiandi/). 그래서 개장 연도를 설명에 쓰지 않았다."
+   },
+   {
+    "field": "fees",
+    "reason": "공식 출처에 입장료 항목이 없어 무료라고 명시된 근거를 찾지 못했다."
+   },
+   {
+    "field": "closed_days",
+    "reason": "공식 출처에 정기 휴무 안내가 없다(상가별 상이)."
+   },
+   {
+    "field": "duration",
+    "reason": "공식 출처에 권장 소요시간이 없다."
+   },
+   {
+    "field": "reservation",
+    "reason": "개방형 거리라 예약 안내가 없다. 공식 출처에서 예약·실명 등록 규정을 찾지 못했다."
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내·오디오가이드는 공식 출처에서 확인하지 못했다. 운영사 사이트는 중국어/영어만 제공."
+   },
+   {
+    "field": "parking",
+    "reason": "주차 요금과 주차장 위치는 공식 출처에서 찾지 못했다(주차면 수만 확인)."
+   },
+   {
+    "field": "access",
+    "reason": "역에서 도보 시간은 공식 출처에 없다. 운영사 xintiandi.com 프로젝트 페이지에는 주소·교통 정보가 없다."
+   },
+   {
+    "field": "caution",
+    "reason": "공식 출처에서 혼잡 시기·금지 사항을 찾지 못했다."
+   }
+  ]
+ },
+ {
+  "key": "east-sh-08",
+  "name_ko": "우캉루 역사거리",
+  "name_local": "武康路",
+  "admin_region": "상하이시 쉬후이구",
+  "address": "上海市徐汇区武康路",
+  "description": "우캉루는 상하이 쉬후이구 헝푸(衡复) 역사문화풍모구에 있는 가로수길로, 우캉루-안푸루 거리는 길이 1.5km로 안내됩니다. 길이 만나는 다섯 갈래 교차로에는 1924년에 지어진 우캉빌딩(淮海中路1850号)이 있으며, 주거용 건물이라 내부는 공개되지 않습니다. 거리는 하루 종일 개방됩니다. 우캉루 393호 갑(甲)의 관광안내센터는 일요일부터 금요일 9:00~17:00, 토요일과 법정 공휴일 9:00~20:30에 열고 짐 보관 서비스를 제공합니다. 지하철 교통대학역에서 우캉빌딩 사이 상점에서도 짐 보관이 가능합니다.",
+  "highlights": [
+   "헝푸 역사문화풍모구 안의 우캉루-안푸루 거리, 길이 1.5km",
+   "1924년 완공된 우캉빌딩, 내부는 비공개이며 외관 감상",
+   "거리는 하루 종일 개방",
+   "우캉루 관광안내센터(393호 갑), 짐 보관 시간당 2~4위안",
+   "교통대학역~우캉빌딩 구간 상점 짐 보관 하루 10~20위안"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "우캉루-안푸루 거리는 상하이시 쉬후이구에 있다.",
+    "value": "上海市徐汇区",
+    "evidence": "上海市徐汇区",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/tourism-and-leisure-district/wukang-roadanfu-road-block-582543/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "description",
+    "text": "우캉루-안푸루 거리는 쉬후이구 헝푸 역사문화풍모구 안에 있고 전체 길이는 1.5km로 안내된다.",
+    "value": "1.5 km",
+    "evidence": "全长1.5公里",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/tourism-and-leisure-district/wukang-roadanfu-road-block-582543/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "hours",
+    "text": "우캉루-안푸루 거리는 하루 종일 개방된다.",
+    "value": "all day",
+    "evidence": "全天开放",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/tourism-and-leisure-district/wukang-roadanfu-road-block-582543/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "location",
+    "text": "우캉빌딩의 주소는 화이하이중루 1850호이다.",
+    "value": "淮海中路1850号",
+    "evidence": "武康大樓 淮海中路1850號",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/tc/shanghai-citywalk-route-recommendation/roam-the-city-walk-on-wukang-road-699518/",
+      "type": "government",
+      "page_updated": "2024-10-27"
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "caution",
+    "text": "우캉빌딩은 주민 거주 건물이라 내부는 일반에 공개되지 않는다.",
+    "value": null,
+    "evidence": "居民住宅，不對外開放",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/tc/shanghai-citywalk-route-recommendation/roam-the-city-walk-on-wukang-road-699518/",
+      "type": "government",
+      "page_updated": "2024-10-27"
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "description",
+    "text": "우캉빌딩은 1924년 다섯 갈래 길이 만나는 교차로에서 완공되었다.",
+    "value": "1924",
+    "evidence": "1924年，武康大楼在五条马路交会处落成",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/wbzx/20220627/ca2550ff9a7c4646b58668e4bec959c4.html",
+      "type": "government",
+      "page_updated": "2022-06-27"
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "location",
+    "text": "우캉빌딩이 있는 교차로에서 화이하이중루, 우캉루, 싱궈루, 톈핑루, 위칭루가 만난다.",
+    "value": null,
+    "evidence": "淮海中路、余庆路、天平路、兴国路和武康路交会处",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/wbzx/20220627/ca2550ff9a7c4646b58668e4bec959c4.html",
+      "type": "government",
+      "page_updated": "2022-06-27"
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "location",
+    "text": "우캉루 관광안내센터의 주소는 쉬후이구 우캉루 393호 갑(甲)이다.",
+    "value": "武康路393号甲",
+    "evidence": "上海市徐汇区武康路393号甲",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/gqfc/20260223/89afcd3c4e3c410ab793679a9c788ae5.html",
+      "type": "government",
+      "page_updated": "2026-02-23"
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "hours",
+    "text": "우캉루 관광안내센터는 일요일~금요일 9:00~17:00, 토요일과 법정 공휴일 9:00~20:30에 운영한다.",
+    "value": "Sun-Fri 09:00-17:00; Sat & holidays 09:00-20:30",
+    "evidence": "周日至周五9:00—17:00；周六及法定节假日9:00—20:30",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/gqfc/20260223/89afcd3c4e3c410ab793679a9c788ae5.html",
+      "type": "government",
+      "page_updated": "2026-02-23"
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "tip",
+    "text": "우캉루 관광안내센터 전화번호는 021-64335000이다.",
+    "value": "021-64335000",
+    "evidence": "021-64335000",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/gqfc/20260223/89afcd3c4e3c410ab793679a9c788ae5.html",
+      "type": "government",
+      "page_updated": "2026-02-23"
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "tip",
+    "text": "관광안내센터의 짐 보관 요금은 가방 크기에 따라 시간당 2~4위안이다.",
+    "value": "2-4 CNY/hour",
+    "evidence": "2 to 4 yuan per hour, depending on bag size",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/gqfc/20260223/89afcd3c4e3c410ab793679a9c788ae5.html",
+      "type": "government",
+      "page_updated": "2026-02-23"
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "caution",
+    "text": "관광안내센터 짐은 17:00 전에 찾아야 하며 폐관 후에는 센터에 들어갈 수 없고 장기 보관은 지원되지 않는다.",
+    "value": null,
+    "evidence": "17:00前取件；不支持长期寄存",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/gqfc/20260223/89afcd3c4e3c410ab793679a9c788ae5.html",
+      "type": "government",
+      "page_updated": "2026-02-23"
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "tip",
+    "text": "지하철 교통대학역에서 우캉빌딩 사이 구간 상점들이 짐 보관을 제공하며 가방 하나당 크기에 따라 하루 10~20위안이다.",
+    "value": "10-20 CNY/day",
+    "evidence": "一个箱子根据大小存一天10—20元",
+    "sources": [
+     {
+      "url": "https://www.shanghai.gov.cn/nw4411/20240627/e2f1197c66194f7bafc8e6dc4537d554.html",
+      "type": "government",
+      "page_updated": "2024-06-27"
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "tip",
+    "text": "우캉빌딩 인근 쑹칭링 고거 기념관(화이하이중루 1843호)은 화~일 9:00~17:00이며 16:30부터 입장이 중지된다.",
+    "value": "Tue-Sun 09:00-17:00 (last entry 16:30)",
+    "evidence": "週二至週日，9:00-17:00（16:30起停止入場）",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/tc/shanghai-citywalk-route-recommendation/roam-the-city-walk-on-wukang-road-699518/",
+      "type": "government",
+      "page_updated": "2024-10-27"
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "tip",
+    "text": "바진 고거(우캉루 113호)는 수리 중이라 공개되지 않는다고 안내된다(2024-10 기준).",
+    "value": null,
+    "evidence": "房屋修繕中，不對外開放",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/tc/shanghai-citywalk-route-recommendation/roam-the-city-walk-on-wukang-road-699518/",
+      "type": "government",
+      "page_updated": "2024-10-27"
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "hours.conflict",
+    "reason": "관광안내센터 평일 운영 요일이 다르다. 2026-02-23 쉬후이 발표(https://whlyj.sh.gov.cn/gqfc/20260223/89afcd3c4e3c410ab793679a9c788ae5.html)와 시티워크 B·C 루트는 일~금, A 루트(https://www.meet-in-shanghai.net/tc/shanghai-citywalk-route-recommendation/roam-the-city-walk-on-wukang-road-699518/)는 월~금. 설명에는 최신 2026-02 발표만 사용."
+   },
+   {
+    "field": "access",
+    "reason": "가까운 지하철역과 도보 시간을 공식 출처에서 확인하지 못했다(공식 페이지에 역 정보 없음). 우캉빌딩 입구 광장 위치는 톈핑루-화이하이중루 교차로(english.shanghai.gov.cn 2024-04-22)."
+   },
+   {
+    "field": "parking",
+    "reason": "공식 출처에 주차 정보가 없다."
+   },
+   {
+    "field": "duration",
+    "reason": "공식 출처에 권장 소요시간이 없다."
+   },
+   {
+    "field": "closed_days",
+    "reason": "거리는 '全天开放'만 안내되고 정기 휴무 정보는 없다."
+   },
+   {
+    "field": "fees",
+    "reason": "공식 페이지에 요금 항목이 없어 무료라고 명시된 근거를 찾지 못했다."
+   },
+   {
+    "field": "reservation",
+    "reason": "거리 방문에 예약 안내는 공식 출처에 없다. 2026-02 쉬후이 발표에도 예약 언급 없음."
+   },
+   {
+    "field": "payment",
+    "reason": "거리 단위 결제 수단(외국 카드·현금·모바일) 공식 안내를 찾지 못했다."
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내는 공식 출처에서 확인하지 못했다. 쉬후이구 정부 사이트 메인(xuhui.gov.cn)은 열렸으나 관련 안내는 없었다."
+   },
+   {
+    "field": "location",
+    "reason": "우캉루 자체의 도로 길이는 공식 출처에서 확인하지 못했다(1.5km는 안푸루 포함 거리 기준). 도로명 번지는 없고 도로 이름만 주소로 씀."
+   }
+  ]
+ }
+]

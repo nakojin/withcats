@@ -354,14 +354,14 @@
   {
    "id": "kr-busan-gamcheon-culture-village",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "감천문화마을",
     "local": "감천문화마을"
    },
    "admin_region": "부산광역시",
    "city": "부산 사하구 감내2로 203(안내센터) 일대",
-   "address": null,
+   "address": "부산광역시 사하구 감내2로 203 (감천동, 마을안내센터)",
    "coord": {
     "lat": 35.096337,
     "lng": 129.00879,
@@ -371,116 +371,515 @@
     "confidence": "high",
     "osm": "way/382693934"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "한국전쟁 피란민과 1950년대 태극도 신앙촌 주민이 정착하며 형성된 부산 사하구의 산비탈 마을로, 천마산 자락을 따라 계단식 주택이 이어진다.",
+   "description": "한국전쟁 피란민과 1950년대 태극도 신앙촌 주민이 정착하며 형성된 부산 사하구의 산비탈 마을로, 천마산 자락을 따라 계단식 주택이 이어진다. 마을안내센터(감내2로 203)에서는 골목투어 지도 판매, 물품 보관소, 마을 해설사 소개를 이용할 수 있다. 사하구 추천 코스는 안내센터에서 하늘마루·작은박물관 등을 거치는 40분 왕복 코스와 1시간 20분 코스가 있다. 2026년 8월 1일 특별관리지역으로 고시되었고 시행일은 2027년 1월 1일이다. 2027년 1월 1일부터 주거 밀집지역은 09:00~18:00에만 방문할 수 있으며, 10인 이상 단체는 방문객 지도를 의무 구입해야 한다. 주민이 사는 마을이므로 일상을 존중해야 한다.",
+   "highlights": [
+    "계단식 주거지가 이어지는 피란민 산복마을",
+    "마을안내센터에서 골목투어 지도 판매·물품 보관·해설사 소개",
+    "40분 왕복 코스와 1시간 20분 알짜·스탬프 코스",
+    "2026.8.1 특별관리지역 고시, 2027.1.1 시행",
+    "2027.1.1부터 주거 밀집지역 방문 시간 09:00~18:00",
+    "대형버스 사전 예약제, 감내2로 관광객 탑승차량 통행 제한"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "감천문화마을은 한국전쟁 때 피란민이 정착하며 형성된 산복마을로, 근현대사의 흔적과 주민의 삶이 남아 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro1",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "1950년대 태극도 신앙촌이 조성되면서 오늘날의 마을 모습이 갖추어졌고, 천마산 자락을 따라 계단식 주거지가 이어진다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro1",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "뒷집의 햇빛과 조망을 배려해 지은 독특한 마을 구조가 이곳만의 경관과 공동체 문화를 보여준다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro1",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "마을안내센터는 관광정보와 편의공간을 제공하며 골목투어 지도 판매, 물품 보관소 운영, 마을 해설사 소개를 한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro2",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "하늘마루는 부산항과 감천항을 함께 내려다보는 전망대 겸 전시 안내관이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro2",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "작은박물관에서는 주민이 모은 옛 사진과 생활용품, 2009년 마을미술프로젝트부터 이어진 마을 조성 과정을 볼 수 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro2",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "입주작가 공방은 총 9곳(도자기, 천연염색, 생태공예, 서양화, 카툰, 판화, 회화 2곳, 설치예술)이며, 방문을 원하면 사전에 연락하라고 안내한다.",
+      "verdict": "corrected",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro2",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "마을안내센터의 주소는 부산광역시 사하구 감내2로 203(감천동)이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://eulsukdo.saha.go.kr/tour/contents.do?mId=0101010000",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "대중교통은 시내버스 61번과 마을버스 서구2, 서구2-2, 사하구1, 사하구1-1을 안내한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro4",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "지하철 1호선 토성역 6번 출구(부산대병원)에서 마을버스 서구2, 서구2-2, 사하구1-1로 환승한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro4",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "지하철 1호선 자갈치역 1번 출구(충무시장 정류장)에서도 같은 마을버스(서구2, 서구2-2, 사하구1-1)로 환승한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro4",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "관광객 탑승 차량(택시 포함)은 감내2로에서 통행이 제한되며, 제한 시간은 09:00~18:00, 구간은 안내센터 입구에서 추억의 그림자 포토존까지 약 1km다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공영 주차장은 두 곳이다. 사하구 옥천로 130 부산교육역사관 지하(78면)와 사하구 감내1로175번길 5(40면)이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro4",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공식 안내는 주차장이 부족하니 대중교통을 이용하라고 권하고, 대형버스는 예약시스템으로 사전 예약해야 한다고 적는다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro4",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "마을 홈페이지에는 주차 예약 메뉴가 있으며, 방문일·시간·차량 대수·인원을 선택해 예약하고 기본 이용 시간은 90분이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/page/user/group-tour-reservation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "한국관광공사 영문 안내는 주차가 가능하며 무료라고 표기한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "duration": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "사하구 추천 메인도로 왕복 코스는 마을안내센터에서 바다포토존까지 40분 걸린다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://eulsukdo.saha.go.kr/tour/contents.do?mId=0101010000",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "알짜 코스와 스탬프 코스는 각각 1시간 20분이 걸린다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://eulsukdo.saha.go.kr/tour/contents.do?mId=0101010000",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "hours": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "마을안내센터 운영시간은 09:00~18:00이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro4",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "특별관리지역 주거 밀집지역은 방문 시간이 09:00~18:00이며 시행일은 2027년 1월 1일이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "마을 홈페이지 안내센터는 09:00~18:00(연중무휴), 한국관광공사 영문 페이지(english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894)는 Open 24 hr로 표기해 서로 다름. 비짓부산(visitbusan.net)은 503/접속 불가로 확인하지 못함"
+     ]
     },
     "closed_days": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "마을안내센터는 연중무휴다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro4",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "마을 전체의 정기 휴무는 안내센터 연중무휴 외에 공식 문구 없음"
+     ]
     },
     "fees": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "한국관광공사 영문 안내는 요금을 무료(Free)로 표기한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "마을 공식 페이지(gamcheon.or.kr)와 사하구 페이지에 입장료 문구가 없고 무료 명시는 한국관광공사 영문 1곳뿐임. 운영자·관리기관의 무료 명시는 찾지 못함"
+     ]
     },
     "reservation": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "대형버스는 사전 예약제를 실시한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "체험 프로그램은 운영시간이 시작 기준 09:00~16:00이고 전화(051-291-1444)로 접수하며 당일 예약은 안 되고 당월부터 3개월 이내까지 예약할 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/page/user/program",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "payment": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "체험 프로그램은 예약일 3일 전까지 전액 환불, 2일 전~1일 전은 50% 환불이며 당일 취소나 무단 불참은 환불이 제한될 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/page/user/refund",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "방문객 지도·기념품 현장 결제 수단(현금·카드·모바일)을 공식 페이지에서 찾지 못함"
+     ]
     },
     "language": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "마을 공식 사이트와 소개 PDF는 한국어, 영어, 중국어, 일본어를 제공한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro1",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "해설사·오디오가이드의 언어 지원 여부를 공식 페이지에서 찾지 못함"
+     ]
     },
     "caution": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "2026년 8월 1일 특별관리지역으로 지정·고시되었고 시행일은 2027년 1월 1일이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "10인 이상 단체 방문객은 방문객 지도를 의무 구입해야 하며 2026년 8월 1일부터 시행 중이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "통행 제한 위반 과태료는 2028년 1월 1일부터 부과하며 2026년 8월 1일부터 2027년 12월 31일까지는 계도 기간이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "불법 주정차, 무단 투기, 소음, 사생활 침해 행위를 관리한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "마을 공지는 드론 촬영을 금지한다(No drones).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "주민이 실제로 사는 마을이므로 일상을 존중하고 서로 배려해 달라고 안내한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro1",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "The KTO English page (72894) lists 'Operating hours: Open 24 hr' and 'Holiday: N/A (Open all year round)'. The official special management area PDF limits residential-area visits to 09:00~18:00 from 2027.1.1, and the 09:00~18:00 hours on intro4 are for the 안내센터 only",
+    "KTO says 'Parking Available (Free)', but the official site runs a paid parking reservation (90분 기본, overtime 30분당 1,000원). No fee is given for the two public lots",
+    "The Saha-gu tour page (source for c23/c24) was last updated 2025-02-05, more than 12 months ago (stale_source)",
+    "The no-drones notice (c21) is dated 2022.10.17, more than 12 months ago",
+    "Not found: base parking fee amount (shows 0원 until options are chosen), entry fee from an official operator page (only KTO says Free), Korean guide or audio guide"
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "kr-busan-gwangalli-bridge-overview",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "광안리·광안대교",
     "local": "광안리·광안대교"
    },
    "admin_region": "부산광역시",
    "city": "부산 수영구 광안해변로 일대",
-   "address": null,
+   "address": "부산광역시 수영구 광안해변로 219 (광안동) / 광안대교: 부산광역시 해운대구 수영강변대로 203",
    "coord": {
     "lat": 35.150888,
     "lng": 129.116781,
@@ -490,71 +889,341 @@
     "confidence": "high",
     "osm": "way/107642460"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "광안리해수욕장은 부산 수영구에 있는 길이 약 1.4km, 폭 25~110m의 해변으로, 해변 너머로 광안대교가 펼쳐진다.",
+   "description": "광안리해수욕장은 부산 수영구에 있는 길이 약 1.4km, 폭 25~110m의 해변으로, 해변 너머로 광안대교가 펼쳐진다. 해변은 연중무휴 24시간 열려 있고 입장료는 무료다. 광안대교는 수영구 남천동에서 해운대구 우동 센텀시티까지 7.4km를 잇는 국내 최장 해상 이중 교량으로, 수천 개의 LED 조명이 계절에 따라 달라지는 야간 조명을 연출한다. 매주 토요일 저녁 해변에서는 드론 약 1,100대가 하늘을 수놓는 광안리 M 드론 라이트쇼가 무료로 열린다. 서핑과 패들보드 같은 해양 레저를 즐길 수 있고 해변을 따라 카페와 식당이 모여 있다.",
+   "highlights": [
+    "길이 약 1.4km 해변과 광안대교 야경",
+    "광안대교는 7.4km, 국내 최장 해상 이중 교량",
+    "매주 토요일 광안리 M 드론 라이트쇼(무료)",
+    "해변 24시간 개방, 입장료 무료",
+    "서핑·패들보드 등 해양 레저와 해변 카페·식당"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "해변은 해운대해수욕장 서쪽에 있으며 길이 1.4km, 폭 25~110m이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111074",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "여름에는 해수욕과 서핑·패들보드 같은 해양 레저를 즐길 수 있고, 해변을 따라 카페와 맛집이 밀집해 있으며 공연·축제·드론쇼가 열린다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=8bb0d877-5238-423d-8b3e-4f2dff0066da",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "광안대교는 국내에서 가장 긴 해상 이중(2층) 교량이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91002",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "수천 개의 LED 조명이 밤마다 계절에 따라 달라지는 조명 연출을 한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91002",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "광안리 M 드론 라이트쇼는 매주 토요일 저녁 광안리 해변에서 열리며 드론 1,100대가 하루 두 차례 공연한다. 명절·새해 카운트다운 등 특별한 날에는 최대 3,000대로 커진다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194990",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "저녁에 광안대교의 조명이 빛나는 모습을 보러 오는 사람이 많다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111074",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "광안대교 문의처는 부산시설공단 +82-51-780-0077이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91002",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "드론쇼 공식 사이트는 gwangallimdrone.co.kr, 문의는 +82-51-610-4882이며 주최는 부산광역시 수영구이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194990",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "무장애 정보: 광안리해수욕장 출입구는 턱이 없어 휠체어 접근이 가능하고, 장애인 화장실과 여자화장실 내 기저귀교환대가 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=8bb0d877-5238-423d-8b3e-4f2dff0066da",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "광안리해수욕장 주소는 부산광역시 수영구 광안해변로 219 (광안동)이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=8bb0d877-5238-423d-8b3e-4f2dff0066da",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111074",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "광안대교는 수영구 남천동에서 해운대구 우동 센텀시티까지 7.4km 이상 이어진다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91002",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "광안대교의 한국관광공사 등록 주소는 부산광역시 해운대구 수영강변대로 203이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91002",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "한국관광공사 영문 안내는 주차 가능, 10분당 300원이라고 적고 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111074",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "광안대교에는 주차 시설이 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91002",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "가장 가까운 역·도보 시간의 공식 페이지를 직접 열지 못했다. 검색 요약상 부산시 교통정보(https://www.busan.go.kr/traffic/ahgwanganri)에 '2호선 광안역 5번 출구 도보 13분, 버스 42·62번'이 있으나 접속 실패(www.busan.go.kr). 검증자가 확인해야 한다."
+     ]
     },
     "duration": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "드론쇼는 회당 약 12분이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194990",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "해변·광안대교 권장 소요시간에 대한 공식 안내가 없다."
+     ]
     },
     "hours": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "광안리해수욕장은 24시간 상시 개방된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=8bb0d877-5238-423d-8b3e-4f2dff0066da",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111074",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "광안대교는 24시간 운영(개방)으로 안내된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91002",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "드론쇼 공연 시각은 3~9월 20:00·22:00, 10~2월 19:00·21:00이며 날씨에 따라 바뀔 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194990",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "광안대교 경관조명 점등 시각은 공단 페이지(https://www.bisco.or.kr/gwanganbridge/facil/facil03/facil03_1/index.asp)를 열지 못했고 검색 요약상 2013년경 자료라 오래되었다.",
+      "드론쇼 10~2월 시각: 열람한 한국관광공사 페이지는 19:00·21:00(vcontsId=194990). 검색 요약상 다른 한국관광공사 페이지는 17:00·21:00, 크루즈 페이지는 토·일 공연으로 적혀 있어 직접 확인되지 않았다. 또 같은 페이지에서 회당 12분과 '약 10분'이 혼재한다."
+     ]
     },
     "closed_days": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "휴무일 없이 연중무휴이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=8bb0d877-5238-423d-8b3e-4f2dff0066da",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "fees": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "광안리해수욕장 이용은 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111074",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "드론쇼 관람은 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194990",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "reservation": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "해변·드론쇼 관람 예약 필요 여부에 대한 공식 안내가 없다."
      },
      "partial_gaps": []
     },
@@ -562,8 +1231,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "입장·드론쇼가 무료여서 결제 대상이 없고, 주차 결제수단은 확인하지 못했다."
      },
      "partial_gaps": []
     },
@@ -571,8 +1240,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "한국어 안내 서비스에 관한 공식 안내를 찾지 못했다. 드론쇼 공식 사이트는 검색 요약상 한국어 전용이라 한다."
      },
      "partial_gaps": []
     },
@@ -580,26 +1249,33 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "해수욕 개장기간·안전수칙은 수영구청 공지에 있다고 하나(부산시 교통정보 페이지 문구, 검색 요약) 접속 실패로 확인하지 못했다."
      },
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "Drone show winter times: KTO article 228475 (2025, stale) says October-February 17:00 & 21:00. KTO 194990 and the official site notice say 19:00 & 21:00. Use 19:00 & 21:00.",
+    "Drone show contact: KTO 194990 lists +82-51-610-4882. The official site gwangallimdrone.co.kr lists 수영구청 관광스포츠과 051-610-6518, 6514.",
+    "Drone show duration: KTO 194990 says about 12 min in the intro but about 10 min in 'Average time spent'. The official site says 매회 12분 내외.",
+    "KTO 194990 shows 'Event period 2026-01-01 ~ 2026-01-01', which looks like broken metadata.",
+    "Gwangan Station exit: KTO article 228475 (stale) says exit 3 or 5. The official drone site says exit 3 only.",
+    "Bridge toll and pedestrian access were not looked up (lookup budget was spent on access and drone items)."
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "kr-busan-haedong-yonggungsa",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "해동용궁사",
     "local": "해동용궁사"
    },
    "admin_region": "부산광역시",
    "city": "기장군 기장읍 용궁길 86",
-   "address": null,
+   "address": "부산광역시 기장군 기장읍 용궁길 86",
    "coord": {
     "lat": 35.188434,
     "lng": 129.222976,
@@ -609,71 +1285,261 @@
     "confidence": "high",
     "osm": "way/382701819"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "해동용궁사는 부산광역시 기장군 기장읍 용궁길 86의 해안에 자리한 사찰로, 대부분의 한국 사찰이 산에 있는 것과 달리 바닷가에 있다는 점이 특징이다.",
+   "description": "해동용궁사는 부산광역시 기장군 기장읍 용궁길 86의 해안에 자리한 사찰로, 대부분의 한국 사찰이 산에 있는 것과 달리 바닷가에 있다는 점이 특징이다. 1376년 고려 시대 나옹대사가 창건했고 임진왜란 때 소실된 뒤 1930년대 초 통도사의 운강이 중창했다. 1974년 정암 스님이 꿈에서 흰옷의 관세음보살이 용을 타고 오르는 모습을 보고 절 이름을 해동용궁사로 바꾸었다. 대웅전 옆 굴법당의 미륵 석불은 득남불로 불리며 대웅전 앞에는 사사자 석탑이 있다. 입장은 무료이고 주차가 가능하며 문의 전화는 051-722-7744이다.",
+   "highlights": [
+    "산이 아닌 바닷가에 자리한 사찰",
+    "1376년 나옹대사가 창건, 1974년 현재 이름으로 변경",
+    "굴법당의 미륵 석불은 득남불로 불림",
+    "대웅전 앞 사사자 석탑",
+    "입장 무료, 연중 개방(운영시간은 공식 출처 간 차이 있음)"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "해동용궁사는 1376년 고려의 나옹대사가 창건했고 임진왜란 때 소실된 뒤 1930년대 초 통도사의 운강이 중창했다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=2116b628-ded9-42c2-b17e-99d17b5b65e4",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "1974년 정암 스님이 백일기도 중 흰옷의 관세음보살이 용을 타고 승천하는 꿈을 꾸어 절 이름을 해동용궁사로 바꾸었다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=2116b628-ded9-42c2-b17e-99d17b5b65e4",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "대부분의 한국 사찰이 산에 있는 것과 달리 바닷가에 자리한 사찰이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=108618",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "대웅전 옆 굴법당(미륵전)의 미륵좌상 석불은 득남불로 불리며, 대웅전 앞에는 사사자 석탑이 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=2116b628-ded9-42c2-b17e-99d17b5b65e4",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "현존 건물로 대웅전, 굴법당, 용왕당(용궁단), 범종각, 요사채가 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=2116b628-ded9-42c2-b17e-99d17b5b65e4",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "문의 전화는 051-722-7744이고 사찰 누리집은 www.yongkungsa.or.kr 이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=108618",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "기장군 문화관광 사이트는 해동용궁사를 기장권역 추천 역사 코스(오랑대, 죽성리 해송 등과 함께)로 소개하며, 시랑대는 해동용궁사와 인접하다고 설명한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gijang.go.kr/tour/index.gijang?menuCd=DOM_000000306002004000",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       },
+       {
+        "url": "https://www.gijang.go.kr/tour/index.gijang?menuCd=DOM_000000306001001000",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "가까운 관광안내소는 기장역사 2층(기장읍 차성로288번길 86)이며 09:00~18:00(13:00~14:00 휴게), 신정·명절 당일 휴무, 문의 051-709-4077이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gijang.go.kr/tour/index.gijang?menuCd=DOM_000000310008002000",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "해동용궁사의 도로명 주소는 부산광역시 기장군 기장읍 용궁길 86이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=108618",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://www.gijang.go.kr/tour/index.gijang?menuCd=DOM_000000306001001000",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "주차가 가능하다고 안내되어 있다(요금은 해당 페이지에 없음).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=108618",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "장애인 주차구역이 5대 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=6e8a6f87-f917-4424-9a26-87e92435f3bd",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "가까운 역·정류장, 도보·차량 시간을 공식 페이지에서 찾지 못함(VISITKOREA에 정보 없음, 기장군 페이지에 교통 안내 없음)."
+     ]
     },
     "duration": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 소요시간 안내 없음."
      },
      "partial_gaps": []
     },
     "hours": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "VISITKOREA 무장애 관광정보 페이지(수정일 2026-08-18)에는 이용시간이 04:30~20:30으로 안내되어 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=6e8a6f87-f917-4424-9a26-87e92435f3bd",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "공식 출처끼리 다름: VISITKOREA 영문 04:30-19:20(입장 마감 18:50) https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=108618 vs VISITKOREA 무장애 관광정보 04:30~20:30(수정일 2026-08-18) https://access.visitkorea.or.kr/ms/detail.do?cotId=6e8a6f87-f917-4424-9a26-87e92435f3bd. 사찰 누리집(yongkungsa.or.kr)은 접속 실패로 대조 불가."
+     ]
     },
     "closed_days": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "휴무일 없이 연중무휴로 안내되어 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=6e8a6f87-f917-4424-9a26-87e92435f3bd",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=108618",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "fees": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "입장료는 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=108618",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "reservation": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "참배·방문 예약 필요 여부 공식 확인 불가."
      },
      "partial_gaps": []
     },
@@ -681,44 +1547,62 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "입장 무료이며, 주차·매점 결제 수단 공식 확인 불가."
      },
      "partial_gaps": []
     },
     "language": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "기장군은 외국인 관광객을 위해 1330 관광통역전화를 안내한다. 전화는 8개 국어(한국어·영어·일본어·중국어는 24시간 연중무휴, 러시아어·베트남어·태국어·말레이·인도네시아어는 08:00~19:00), 실시간 문자채팅은 한국어·영어·일본어·중국어로 24시간 이용할 수 있다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gijang.go.kr/tour/index.gijang?menuCd=DOM_000000310008003000",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "사찰 자체의 한국어 외 안내·오디오가이드 여부 확인 불가."
+     ]
     },
     "caution": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "혼잡 시기·계단/경사 등 주의사항, 복장 규정을 공식 페이지에서 찾지 못함."
      },
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "Hours conflict between official sources. The english.visitkorea page 108618 (no update date shown) says 04:30-19:20 with last admission 18:50. The access.visitkorea page (수정일 2026-08-18) and the korean.visitkorea JSON say 04:30~20:30. The newer Korean sources should take priority, but the operator site yongkungsa.or.kr returned 503 (curl), so this could not be settled",
+    "korean.visitkorea JSON has detail.tel=033-738-3588 (a Gangwon area code, looks wrong) next to telNo/infoCenter=051-722-7744. Use 051-722-7744",
+    "Accessibility: the korean.visitkorea static HTML shows '장애인 화장실 없음 / 장애인 전용 주차구역 없음'. This is placeholder template text and was ignored. The access.visitkorea page (2026.08.18) gives 장애인 주차 5대 and 장애인 화장실 있음",
+    "Lookups for unconfirmed items: yongkungsa.or.kr returned 503. The Gijang course page (WebFetch) has only the address and a directions link. Access, parking fee, duration, payment and caution are still unconfirmed",
+    "운영시간: 영문 VISITKOREA(갱신일 없음) 04:30-19:20 vs 무장애·국문 VISITKOREA(2026-08-18) 04:30~20:30. 사찰 누리집 접속 불가로 미확정, 방문 전 확인 필요"
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "kr-busan-haeundae-parent",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "부산 해운대",
     "local": "부산 해운대"
    },
    "admin_region": "부산광역시",
    "city": "해운대구 해변·미포 해안 관광권",
-   "address": null,
+   "address": "부산광역시 해운대구 해운대해변로 264",
    "coord": {
     "lat": 35.1629,
     "lng": 129.1638,
@@ -728,71 +1612,240 @@
     "confidence": "high",
     "osm": "relation/4062934"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "해운대해수욕장은 부산을 대표하는 해변으로, 길이 약 1.5km, 폭 30~50m의 백사장이 얕은 수심의 만을 따라 이어져 해수욕에 알맞다.",
+   "description": "해운대해수욕장은 부산을 대표하는 해변으로, 길이 약 1.5km, 폭 30~50m의 백사장이 얕은 수심의 만을 따라 이어져 해수욕에 알맞다. 한국관광공사는 여름마다 국내에서 가장 많은 인파가 몰리는 곳이라고 소개한다. 주소는 부산광역시 해운대구 해운대해변로 264이며 입장료는 무료이고 연중무휴다. 지하철 2호선 해운대역에서 3번 또는 5번 출구로 나가 걸어서 약 5분이다. 해마다 정월 대보름 달맞이 축제와 겨울 북극곰수영대회, 모래 작품전, 부산 바다 축제가 열리며, 가까이에 동백섬, 오륙도, 아쿠아리움, 요트경기장, 벡스코, 달맞이고개가 있다.",
+   "highlights": [
+    "길이 약 1.5km, 폭 30~50m의 백사장과 얕은 만",
+    "입장료 무료, 연중무휴",
+    "지하철 2호선 해운대역 3·5번 출구에서 도보 약 5분",
+    "정월 대보름 달맞이 축제·북극곰수영대회·모래 작품전·부산 바다 축제",
+    "동백섬·오륙도·아쿠아리움·벡스코·달맞이고개가 가까움"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "백사장은 길이 약 1.5km, 폭 30~50m이며 얕은 만이어서 해수욕에 알맞다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "여름마다 국내에서 가장 많은 인파가 몰리는 곳이며, 부산을 대표하는 명소로 소개된다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=36f54304-e9a8-4615-9226-eb749bf6ce75",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "매년 정월 대보름 달맞이 축제, 겨울 북극곰수영대회, 모래 작품전, 부산 바다 축제 등이 열린다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=36f54304-e9a8-4615-9226-eb749bf6ce75",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "주변에 동백섬, 오륙도, 아쿠아리움, 요트경기장, 벡스코, 달맞이고개가 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=36f54304-e9a8-4615-9226-eb749bf6ce75",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "1층 관광안내소에서 신분증을 맡기면 휠체어를 빌릴 수 있고, 장애인 화장실은 관광안내소 옆 송림공원 인근에 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "해변을 따라 난 무장애길 중 두 곳의 휠체어 경사로와 목재 데크길로 모래사장까지 휠체어 이동이 가능하고, 장애인 보조견 동반도 가능하다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "해운대해수욕장의 주소는 부산광역시 해운대구 해운대해변로 264이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "지하철 2호선 해운대역에서 3번 또는 5번 출구로 나가 걸어서 약 5분이다(2025년 시즌 기사 기준).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=228475",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "해운대해수욕장에는 주차가 가능하다고 안내된다(요금은 미확인).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "장애인 주차장은 광장주차장에 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "버스 노선은 해운대구청 오시는길 페이지(https://www.haeundae.go.kr/tour/index.do?menuCd=DOM_000000302001003000)에 있다고 하나 직접 열지 못했다. 해운대역 출구 번호도 구청 자료(5번 출구 도보 8분 추정)와 관광 자료(3·5번 출구 도보 약 5분)가 검색 요약상 달라 확인이 필요하다.",
+      "지하철 도보 시간: 한국관광공사 영문 기사는 3·5번 출구 도보 약 5분(https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=228475), 해운대구청은 5번 출구 도보 8분(검색 요약, 직접 열람 실패, 위 구청 URL)."
+     ]
     },
     "duration": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 안내에 권장 소요시간이 없다."
      },
      "partial_gaps": []
     },
     "hours": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "한국관광공사 무장애 정보에는 이용시간이 매년 6월~9월 09:00~18:00로 적혀 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "2026년 개장기간(검색 요약: 6/26~9/15, 09:00~18:00)은 https://www.haeundae.go.kr/tour/index.do?menuCd=DOM_000000302001002000 에 있다고 하나 직접 열지 못했다. 한국관광공사 영문 기사(vcontsId=228475)의 개장기간은 2025년 값(6/21~9/14)이라 오래되었다."
+     ]
     },
     "closed_days": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "휴무일 없이 연중무휴이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "fees": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "해운대해수욕장 입장료는 무료이다. 시설별 요금은 시설마다 다르다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "reservation": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "입장 예약에 관한 공식 안내가 없다(요금 무료, 상시 개방 해변). 단체 행사·시설별 예약은 확인하지 못했다."
      },
      "partial_gaps": []
     },
@@ -800,32 +1853,49 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "입장 무료라 결제 대상이 없고, 시설별 결제수단은 공식 안내에 없다."
      },
      "partial_gaps": []
     },
     "language": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "해운대관광안내소 문의 전화는 051-749-5700이다(한국어 안내 여부는 명시 없음).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "한국어 안내·외국어 지원 여부는 관광안내소 페이지에서 확인하지 못했다. 문의처가 051-749-5700(무장애 페이지)과 +82-51-749-7611(영문 페이지)로 두 가지로 적혀 있다."
+     ]
     },
     "caution": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "해수욕 시즌 안전수칙·혼잡 시기는 해운대구청 이용안내 페이지에 있다고 하나 직접 열지 못했다. 한국관광공사는 여름 최대 인파만 언급한다."
      },
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "c2 source (KTO article 228475, 2025-07-04, last updated June 2025) is a stale_source. The only swimming-season dates found are for 2025 (Jun 21-Sep 14, 2025); there are no 2026 dates.",
+    "The korean.visitkorea.or.kr page (36f54304) has a 무장애여행 panel saying 장애인 화장실 없음, 장애인 전용 주차구역 없음 and 휠체어 대여 없음. access.visitkorea.or.kr (updated 2026-09-10) says all three are available. The panel may be a static template default.",
+    "Two different contact numbers: the English KTO page has +82-51-749-7611 and the accessibility page has 051-749-5700 (해운대관광안내소).",
+    "Lookups for parking fee, swimming season and bus failed: sunnfun.haeundae.go.kr and haeundae.go.kr/tour both failed to connect (curl 000). Nothing was found."
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "kr-busan-huinnyeoul-village",
@@ -5224,14 +6294,14 @@
   {
    "id": "kr-chungnam-daecheon-beach",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "보령 대천해수욕장",
     "local": "보령 대천해수욕장"
    },
    "admin_region": "충청남도",
    "city": "충남 보령시 머드로 123 일대",
-   "address": null,
+   "address": "충청남도 보령시 머드로 123",
    "coord": {
     "lat": 36.31134,
     "lng": 126.51272,
@@ -5241,35 +6311,171 @@
     "confidence": "high",
     "osm": "way/591698660"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "대천해수욕장은 충청남도 보령시 머드로 123 일대에 있는 서해안 최대 해변으로, 백사장 길이 3.5km에 폭 100m이며 경사가 완만하고 모래가 깨끗하다.",
+   "description": "대천해수욕장은 충청남도 보령시 머드로 123 일대에 있는 서해안 최대 해변으로, 백사장 길이 3.5km에 폭 100m이며 경사가 완만하고 모래가 깨끗하다. 노을광장과 머드광장 두 구역으로 나뉘고 다보도 너머로 지는 노을이 특히 아름답다. 해마다 보령머드축제가 열리며, 해변 끝의 보령머드체험관에서는 머드 사우나, 머드 온돌방, 머드팩, 머드 마사지를 할 수 있다. 대천 집트렉과 바다 위 레일바이크인 스카이바이크도 즐길 수 있고, 주차와 화장실이 마련되어 있다. 문의 전화는 041-930-6810이다.",
+   "highlights": [
+    "서해안 최대 해수욕장, 백사장 길이 3.5km 폭 100m",
+    "다보도 너머로 지는 노을이 특히 아름다움",
+    "노을광장과 머드광장 두 구역, 해마다 보령머드축제",
+    "해변 끝 보령머드체험관에서 머드 사우나·머드팩·머드 마사지",
+    "대천 집트렉과 스카이바이크(바다 위 레일바이크)"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "서해안에서 가장 큰 해수욕장으로, 백사장 길이 3.5km, 폭 100m이며 경사가 완만하고 모래가 깨끗하다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "다보도 너머로 지는 노을이 특히 아름답다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "해변은 노을광장과 머드광장 두 구역으로 나뉘며, 해마다 보령머드축제가 열린다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "해변 끝의 보령머드체험관에서 머드 사우나, 머드 온돌방, 머드팩, 머드 마사지를 이용할 수 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "대천 집트렉과, 대천해변과 대천항 위를 지나는 바다 위 레일바이크 스카이바이크가 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "해수욕장 시설로 화장실이 안내되어 있고 문의 전화는 +82-41-930-6810(보령시 해수욕장경영과)이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       },
+       {
+        "url": "https://access.visitkorea.or.kr/opentour/detail.do?cotId=7d7bd27c-9d19-443b-adb6-6867c21e15dc",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "공식 누리집으로 daecheonbeach.kr 와 보령 문화관광 사이트(brcn.go.kr/tour.do)가 안내되어 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://access.visitkorea.or.kr/opentour/detail.do?cotId=7d7bd27c-9d19-443b-adb6-6867c21e15dc",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "해변에는 장애인 주차장과 장애인 화장실, 촉지형 종합안내판, 점자가이드북 등이 갖춰져 있으며 열린관광지로 소개되어 있다.",
+      "verdict": "corrected",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://access.visitkorea.or.kr/opentour/detail.do?cotId=7d7bd27c-9d19-443b-adb6-6867c21e15dc",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "대천해수욕장의 도로명 주소는 충청남도 보령시 머드로 123이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "주차가 가능하다고 안내되어 있다(주차 요금·면수는 해당 페이지에 없음).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "가까운 역·정류장, 도보·차량 시간을 공식 페이지에서 찾지 못함. 보령시청/beach.brcn.go.kr/daecheonbeach.kr 접속이 계속 실패(연결 거부·503)."
+     ]
     },
     "duration": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 소요시간 안내 없음."
      },
      "partial_gaps": []
     },
@@ -5277,8 +6483,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "해수욕장 개장 기간·이용시간 공식 확인 불가(비공식 기사만 있고 연도별로 다름)."
      },
      "partial_gaps": []
     },
@@ -5286,8 +6492,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 확인 불가."
      },
      "partial_gaps": []
     },
@@ -5295,8 +6501,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "해수욕장 입장료 무료 여부를 명시한 공식 문구를 찾지 못해 무료로 단정하지 않음."
      },
      "partial_gaps": []
     },
@@ -5304,8 +6510,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 확인 불가."
      },
      "partial_gaps": []
     },
@@ -5313,8 +6519,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 확인 불가."
      },
      "partial_gaps": []
     },
@@ -5322,8 +6528,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "한국어 안내 외 외국어 안내·1330 연계 등 해수욕장 자체 정보 확인 불가."
      },
      "partial_gaps": []
     },
@@ -5331,14 +6537,18 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "수영 가능 시기, 안전 수칙, 혼잡 시기를 보령시 공식 페이지에서 확인하지 못함."
      },
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "The access.visitkorea 열린관광지 page was last modified 2024.07.02, more than 12 months ago (stale_source). Its fees, hours and opening period are absent",
+    "daecheonbeach.kr is run by (사)대천관광협회 (an association, not the city). It says the beach has 3 zones (시민탑광장·머드광장·분수광장), while VISITKOREA and the access page say 2 zones (노을광장·머드광장). The directions page shows train fares (새마을 17,400원, 무궁화 11,700원) that look stale. Fares were left out of the suggested claim; mark basis as operator/association",
+    "brcn.go.kr/tour.do: curl connection reset, unreachable. Lookups used: brcn.go.kr plus daecheonbeach.kr. Parking fee, opening period/hours, safety rules and fees are still unconfirmed"
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "kr-chungnam-ganworam",
@@ -11173,14 +12383,14 @@
   {
    "id": "kr-gangwon-gyeongpodae",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "경포대",
     "local": "경포대"
    },
    "admin_region": "강원특별자치도",
    "city": "강릉시 경포로 365",
-   "address": null,
+   "address": "강원특별자치도 강릉시 경포로 365 (저동)",
    "coord": {
     "lat": 37.794754,
     "lng": 128.896357,
@@ -11190,71 +12400,252 @@
     "confidence": "high",
     "osm": "way/468962074"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "경포대는 강릉 경포호 북쪽 언덕에 선 누각으로 관동팔경의 하나이며 국가지정문화재 보물 제2046호다.",
+   "description": "경포대는 강릉 경포호 북쪽 언덕에 선 누각으로 관동팔경의 하나이며 국가지정문화재 보물 제2046호다. 높은 곳에 있어 경포호수와 경포대해수욕장을 함께 내려다볼 수 있고, 율곡 이이가 열 살에 지었다는 경포대부와 숙종의 어제시 등이 걸려 있다. 입장료와 시설이용료가 없고 상시 이용할 수 있으며 주차도 무료다. 해가 바뀌는 1월 1일에는 일출을 보려는 사람이 많아 인근 숙박을 미리 잡으라는 안내가 있다. 장애인 전용 주차 4면이 있으나 주출입구는 계단이라 휠체어 출입이 어렵다.",
+   "highlights": [
+    "관동팔경의 하나이자 보물 제2046호 누각",
+    "경포호수와 경포대해수욕장을 함께 조망",
+    "입장료 무료, 연중 상시 개방, 무료 주차",
+    "율곡 이이의 경포대부, 숙종 어제시 등 현판 글 감상",
+    "1월 1일 일출 시즌에는 숙박 사전 예약 권장"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "경포대는 관동팔경의 하나로 경포호 북쪽 언덕에 있는 누각이며 국가지정문화재 보물 제2046호이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       },
+       {
+        "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "고려 충숙왕 13년에 창건된 것으로 전해지며, 이후 한 차례 이건과 여러 차례 중수 기록이 남아 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "비교적 높은 곳에 지어져 경포호수와 경포대해수욕장을 조망할 수 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "누각 내부에는 숙종의 어제시, 율곡 이이가 10세에 지었다는 경포대부, 조하망의 상량문 등 여러 글이 게시되어 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "경포해수욕장 일대는 1월 1일 일출을 보려는 방문객이 많아 숙박을 미리 예약해 두라고 안내한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "경포대 문의 전화는 033-640-5119이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "주변 관광지로 경포호와 경포해수욕장이 있고, 경포호와 인접한 초당동의 초당두부를 강릉 별미로 추천한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "경포대의 주소는 강릉시 경포로 365이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "경포대에는 주차가 가능하고 주차요금은 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "주출입구 근처 지상주차장에 장애인 전용 주차구역이 4면 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "버스 노선, 가장 가까운 정류장, 도보 시간을 안내하는 강릉시 또는 관광공사의 정적 공식 페이지를 열지 못했다. bis.gn.go.kr 공지는 검색 결과에서 제목만 확인했고 본문은 열지 못했다."
+     ]
     },
     "duration": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 페이지에 권장 관람 소요시간이 없다."
      },
      "partial_gaps": []
     },
     "hours": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "경포대는 시간 제한 없이 상시 이용할 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "closed_days": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "경포대는 정기 휴무 없이 연중 개방한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "fees": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "경포대 입장료는 무료이며 별도 시설이용료도 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "reservation": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 페이지에 예약 관련 언급이 없다. 상시 개방 무료 시설이라 필요 여부는 명시되지 않았다."
      },
      "partial_gaps": []
     },
@@ -11262,8 +12653,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "입장료가 없고 결제 수단 안내도 없다."
      },
      "partial_gaps": []
     },
@@ -11271,23 +12662,37 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "한국어 안내 설명이나 오디오가이드 여부를 적은 공식 페이지를 찾지 못했다."
      },
      "partial_gaps": []
     },
     "caution": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "주출입구는 계단으로 이어져 휠체어로 들어가기 어렵고, 장애인 화장실은 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "gn.go.kr (no update date shown) says 장애인편의 없음. visitkorea access page (updated 2026-03-11) lists 장애인 전용 주차 4면 and 장애인 화장실 있음. Treat the gn line as stale and follow visitkorea.",
+    "gn.go.kr gives the address as 강원도 강릉시 경포로 365, a name used before 강원특별자치도 (2023). This looks like a stale source; record 강원도 as former_region.",
+    "gn.go.kr contradicts itself on size: 소개 says 정면 6칸·측면 5칸, 관광팁 says 정면 다섯 칸·측면 5칸. No claim uses this."
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "kr-gangwon-hantan-cliff-trail",
@@ -22386,14 +23791,14 @@
   {
    "id": "kr-gyeonggi-namhansanseong",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "남한산성",
     "local": "남한산성"
    },
    "admin_region": "경기도",
    "city": "광주시 남한산성면 산성리",
-   "address": null,
+   "address": "경기도 광주시 남한산성면 남한산성로 731 (경기도남한산성세계유산센터, 지번 산성리 158-1)",
    "coord": {
     "lat": 37.479137,
     "lng": 127.180159,
@@ -22403,71 +23808,308 @@
     "confidence": "high",
     "osm": "node/2668229479"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "남한산성은 약 12.4km의 성곽이 남아 있는 산성으로 2014년 6월 제38차 유네스코 세계유산위원회에서 세계유산으로 등재되었다.",
+   "description": "남한산성은 약 12.4km의 성곽이 남아 있는 산성으로 2014년 6월 제38차 유네스코 세계유산위원회에서 세계유산으로 등재되었다. 주장성 터 위에 조선 인조 4년(1626)에 대대적으로 쌓았다. 남한산성 입장요금은 2007년 1월 1일부터 없으며, 남한산성행궁만 어른 2,000원을 받고 월요일은 쉰다. 경기도민과 65세 이상, 6세 이하는 행궁이 무료다. 성내 남문·로터리·중앙·센터 주차장은 유료이고 20:00~09:00는 무료이다. 공휴일에는 도로 혼잡과 주차난이 심해 대중교통이 권장된다.",
+   "highlights": [
+    "성곽 약 12.4km, 2014년 유네스코 세계유산 등재",
+    "산성 입장은 2007년부터 무료, 행궁만 유료(어른 2,000원)",
+    "행궁 하절기 10:00~18:00, 동절기 10:00~17:00, 월요일 휴궁",
+    "경기도민·만 65세 이상·만 6세 이하·한복 착용자 행궁 무료",
+    "탐방로 5개 코스(약 3km~7.7km, 1시간~3시간 20분)",
+    "남한산성 역사문화관 무료 (10:00~18:00, 월요일 휴관)"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "남한산성은 2014년 6월 제38차 유네스코 세계유산위원회에서 등재가 결정되었고 성곽 길이는 약 12.4km이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1263&menuId=3473",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "신라 문무왕 672년 주장성 터를 이용했고, 조선 인조 4년(1626)에 대대적으로 쌓았다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1263&menuId=3473",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "문의는 남한산성세계유산센터 031-8008-5155이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "남한산성세계유산센터의 도로명 주소는 경기도 광주시 남한산성면 남한산성로 731이고 지번은 산성리 158-1이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1287&menuId=3515",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "남한산성 역사문화관 주소는 경기도 광주시 남한산성면 남한산성로 812이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/bbs/boardView.do?bsIdx=765&bIdx=110883248&page=1&menuId=3503&bcIdx=",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "자가용 기준 경기광주IC에서 약 18분(10.41km), 양재IC에서 약 37분(17.43km), 모란역에서 약 26분(9.7km)이다 (출처 갱신 2024-10-23).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1287&menuId=3515",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "성내 주차장(남문, 로타리, 중앙, 센터)은 유료이고, 광주 방면 동문·하행선·검복리1·2·불당리·농산물·오전리·광지원 주차장은 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1287&menuId=3515",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "유료 주차요금은 후불이며 1000cc 이상 승용차는 평일 3,000원, 공휴일 5,000원, 경차·1000cc 미만 승용차는 평일 1,500원, 공휴일 2,500원이다. 20:00~09:00와 30분 이내 출차는 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "주차요금 무료 대상에 장애인(자동차 표지), 전통의복 착용자, 18세 미만 자녀 3명 이상 가족, 친환경 자동차가 포함되고, 18세 미만 자녀 2명 이상 가족은 50% 감면된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "버스 노선과 정류장은 대중교통 메뉴를 열지 못해 확인하지 못했다. 지하철 도보 안내는 2024-10 갱신본이다."
+     ]
     },
     "duration": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "탐방로 1코스 약 3.8km 1시간 20분, 2코스 약 3km 1시간, 3코스 약 5.7km 2시간, 4코스 약 3.8km 1시간 20분, 5코스 약 7.7km 3시간 20분이다 (출처 갱신 2024-10-24).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1280&menuId=3494",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "행궁만의 권장 관람시간은 없고 탐방로 코스별 시간만 확인했다. 탐방로 페이지는 2024-10-24 갱신(12개월 이상 경과, stale_source)이다."
+     ]
     },
     "hours": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "남한산성행궁 관람시간은 하절기(4~10월) 10:00~18:00, 동절기(11~3월) 10:00~17:00이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "남한산성 역사문화관은 10:00~18:00(입장마감 17:30)에 운영한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/bbs/boardView.do?bsIdx=765&bIdx=110883248&page=1&menuId=3503&bcIdx=",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "closed_days": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "행궁은 매주 월요일이 휴궁일이며(공휴일 제외), 매표는 관람 종료 30분 전까지 가능하다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "역사문화관은 매주 월요일(공휴일 제외)과 1월 1일, 설날, 추석 당일에 휴관한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/bbs/boardView.do?bsIdx=765&bIdx=110883248&page=1&menuId=3503&bcIdx=",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "fees": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "남한산성 입장요금은 2007년 1월 1일부로 폐지되어 산성 출입은 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "남한산성행궁 관람료는 어른(만 19~64세) 2,000원, 청소년(만 7~18세) 1,000원이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "30인 이상 단체는 어른 1,600원, 청소년 800원이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "행궁은 만 6세 이하, 만 65세 이상(신분증), 경기도민(신분증), 장애인과 보호자 1인(장애인등록증), 한복 등 전통의복 착용자(상하의 모두), 군인(예비군 제외) 등이 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "역사문화관 관람료는 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/bbs/boardView.do?bsIdx=765&bIdx=110883248&page=1&menuId=3503&bcIdx=",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "reservation": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "관람 및 주차 안내 페이지에 행궁 입장 예약 언급이 없다. 역사문화관 게시물에도 예약 내용이 없다."
      },
      "partial_gaps": []
     },
@@ -22475,8 +24117,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "행궁 매표소와 주차장의 결제 수단(카드, 현금, 모바일)을 적은 문구가 없다. 주차요금은 후불이라는 표기만 있다."
      },
      "partial_gaps": []
     },
@@ -22484,23 +24126,35 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "문화유산해설 페이지(갱신 2024-07-03, 12개월 이상 경과, stale_source)에는 영어·중국어·일본어 해설이 전화 예약 031-746-2845이고 코로나19로 중단 중이라는 문구가 있어 현행 운영 여부를 확인하지 못했다. 한국어 해설과 오디오가이드는 확인하지 못했다."
      },
      "partial_gaps": []
     },
     "caution": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "공휴일에는 남한산성 내 도로가 매우 혼잡하고 주차 공간이 부족해 대중교통 이용이 권장된다 (출처 갱신 2024-10-23).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1287&menuId=3515",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "Stale sources (last updated more than 12 months ago): ciIdx=1287 directions and caution (2024-10-23), ciIdx=1280 trail courses (2024-10-24), ciIdx=1263 heritage overview (2024-03-19). The fee and hours page ciIdx=1274 is current (2026-09-10). The transit page ciIdx=1286 (2025-10-29) is just under 12 months old."
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "kr-gyeonggi-national-arboretum",
@@ -23457,14 +25111,14 @@
   {
    "id": "kr-gyeonggi-suwon-hwaseong",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "수원화성",
     "local": "수원화성"
    },
    "admin_region": "경기도",
    "city": "수원시 장안구 영화동 320-2 일원; 화성행궁은 팔달구 정조로 825",
-   "address": null,
+   "address": "수원화성: 경기도 수원시 장안구 영화동 320-2 일원 / 화성행궁: 경기도 수원시 팔달구 정조로 825",
    "coord": {
     "lat": 37.286788,
     "lng": 127.011437,
@@ -23474,71 +25128,439 @@
     "confidence": "high",
     "osm": "node/1791243454"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "수원화성은 정조 18년(1794)에 쌓기 시작해 1796년에 완공한 성곽으로 1997년 유네스코 세계문화유산이 되었다.",
+   "description": "수원화성은 정조 18년(1794)에 쌓기 시작해 1796년에 완공한 성곽으로 1997년 유네스코 세계문화유산이 되었다. 성곽 자체는 개방형이라 야간에도 볼 수 있고 무료다. 성 안의 화성행궁은 09:00~18:00에 열며 어른 개인 2,000원을 받고, 연중무휴다. 2026년에는 5월 1일부터 11월 1일까지 금~일요일과 공휴일에 18:00~21:30 야간개장을 하고 입장은 21:00에 마감한다. 화성행궁과 연무대에는 24시간 운영하는 카드 전용 주차장이 있다. 매달 마지막 주 수요일 문화가 있는 날은 화성행궁이 무료다.",
+   "highlights": [
+    "성곽은 개방형이며 입장 무료, 야간 관람 가능",
+    "화성행궁은 09:00~18:00, 연중무휴, 어른 2,000원",
+    "금~일요일·공휴일 야간개장 (2026.5.1~11.1, 18:00~21:30)",
+    "한복 착용자와 65세 이상, 6세 이하는 행궁 무료",
+    "화성행궁·연무대 주차장 24시간 운영, 카드 결제 전용",
+    "한국관광공사 오디 오디오가이드로 수원화성·화성행궁 해설 청취"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "수원화성은 정조 18년(1794)에 공사를 시작해 1796년 완공했고 정약용이 설계했으며, 1997년 유네스코 세계문화유산으로 지정되었다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "화성행궁은 576칸 규모로 국내 최대의 행궁이며 1996년 복원 공사를 시작해 2003년 일반에 공개했다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "성 안팎 문화관광해설사 안내소가 화성행궁, 팔달문, 서장대, 장안문 등 여러 곳에 있고 10:00~17:00에 운영한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.swcf.or.kr/?p=8",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "문의는 수원문화재단 031-290-3600이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.swcf.or.kr/?p=8",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "수원화성의 공식 주소는 수원시 장안구 영화동 320-2 일원이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "화성행궁의 주소는 수원시 팔달구 정조로 825(남창동)이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://www.swcf.or.kr/?p=68",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "서울 잠실역에서는 직행버스 1007번을 타고 화성행궁·여민각 정류장에서 내려 도보 약 5분이면 화성행궁에 닿는다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=68",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "수원역 4번 출구 앞(노보텔 정류장)에서 시내버스 11·13번을 타고 화성행궁·수원성지 정류장에서 내려 도보 약 5분이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=68",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "강남역에서는 직행버스 3000번을 타고 팔달문 정류장에서 내려 도보 약 5분이면 화성행궁이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=68",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "화성행궁 주차장은 수원시 팔달구 행궁로 18에 있고 24시간 운영하며 카드 결제 전용이다. 총 212면이며 대형차량은 주차할 수 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=69",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "연무대 주차장은 수원시 팔달구 매향동 3-17에 있고 24시간 운영하며 카드 결제 전용이다. 대형 17면을 포함해 총 122면이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=69",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "성곽 주변에 화홍문·장안동·연무동·남수동 공영주차장이 있으며 화성행궁·연무대 주차장과 함께 유료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://www.swcf.or.kr/?p=69",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "장애인 주차장은 화성행궁 3면, 연무대 6면이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=8",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "가장 가까운 전철역과 도보 시간은 공식 페이지에서 찾지 못했다. 버스 환승 안내만 확인했다."
+     ]
     },
     "duration": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "official_unreachable",
+      "note": "공식 페이지에 전체 성곽 또는 행궁의 권장 소요시간이 없다. 수원시 관광 사이트 코스 페이지(성곽길 60/90/120/180분)는 curl이 연결 오류로 열리지 않았고 WebFetch에서는 60분 코스 소개 문구만 나왔다."
      },
      "partial_gaps": []
     },
     "hours": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "수원화성 성곽은 개방형이라 연중 상시 관람할 수 있고 야간 관람도 가능하다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://www.swcf.or.kr/?p=8",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "화성행궁 관람시간은 1~12월 09:00~18:00이며 입장 마감은 관람시간 1시간 전이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=8",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "2026년 야간개장은 5월 1일(금)부터 11월 1일(일)까지 매주 금~일요일과 공휴일 18:00~21:30이며 입장 마감은 21:00이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=392",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://www.swcf.or.kr/?p=8",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "closed_days": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "수원화성 성곽은 연중무휴이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "화성행궁은 연중무휴이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=8",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "fees": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "수원화성 성곽 관람은 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://www.swcf.or.kr/?p=8",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "화성(행궁 및 화령전) 개인 요금은 어른 2,000원, 군인·청소년 1,500원, 어린이 1,000원이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=8",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "20인 이상 단체 요금은 어른 1,500원, 군인·청소년 1,200원, 어린이 800원이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=8",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "화성행궁, 수원화성박물관, 수원박물관 3종 통합관람권은 개인 어른 4,000원, 군인·청소년 2,500원, 어린이 1,000원이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=8",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "매달 마지막 주 수요일 문화가 있는 날에는 화성행궁이 무료이나 야간개장은 제외된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=8",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "한복(개량한복 포함) 착용자, 65세 이상(신분증), 6세 이하 취학 전 아동, 장애인복지법상 해당자(중증은 동행 1인 포함)는 관람료가 전액 면제된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=8",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "수원시민 대상 감면도 있다: 두 자녀 이상 동반한 다자녀가정은 전액 면제(수원시민 한정), 수원시 청년(19~39세)은 매주 금요일 면제.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=8",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "야간개장 입장료는 어른 2,000원, 청소년·군인 1,500원, 어린이 1,000원이며 한복 착용자, 만 6세 이하, 만 65세 이상은 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=392",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "reservation": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "일반 입장은 예약 안내가 없다. 문화관광해설은 단체 20인 이상 온라인 신청, 현장은 4인 이상으로 안내하나 해당 페이지(swcf.or.kr/?p=404)에 코로나19 시절 문구가 남아 있어 최신 여부를 확인하지 못했다."
      },
      "partial_gaps": []
     },
@@ -23546,32 +25568,89 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "행궁 매표소의 결제 수단(카드, 현금, 모바일)을 적은 공식 문구를 찾지 못했다. 주차장은 카드 결제 전용만 확인했다."
      },
      "partial_gaps": []
     },
     "language": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "수원 종합 관광안내소(수원역 4번 출구 근처, 09:00~18:00)는 영어·중국어·일본어 통역이 가능하다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=8",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "한국관광공사가 만든 오디오가이드 앱 오디(Odii)에 수원화성과 화성행궁 해설이 들어 있고, 수원화성 리플렛은 한국어·영어·중국어·일본어로 내려받을 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=67",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "행궁 현장 한국어 해설 프로그램의 현행 운영 여부는 확인하지 못했다. 한국어는 리플렛과 오디오가이드로만 확인했다."
+     ]
     },
     "caution": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "수원화성문화제(10.4~10.11) 기간에는 야간개장 운영이 바뀔 수 있고, 야간개장 기간은 재단 사정에 따라 변경될 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://www.swcf.or.kr/?p=8",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "화성행궁에는 위험물, 주류, 텐트·돗자리 등 야영용품, 취사도구, 반려동물(장애인 보조견 제외), 확성기 등을 가지고 들어갈 수 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.swcf.or.kr/?p=8",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "화성행궁 보수정비공사로 미로한정(사주문 포함), 경룡관 등 일부 구역 관람이 제한되었고 공사기간이 2025.11.17~2026.5.3 예정으로 표기되었다. 이미 지난 기간이며 종료 확인 문구를 찾지 못했다."
+     ]
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "suwon.go.kr 화성행궁 page (수정일 2026-06-05) says 576칸 in its intro and 567칸 in a later section. c28 uses 576.",
+    "Disabled parking at 화성행궁: swcf ?p=8 says 3면, swcf ?p=69 says 장애인 5면 (연무대 6면 on both).",
+    "swcf ?p=8 and ?p=404 give different addresses for the same guide booths: 장안문 is 장안동 1-1 vs 정조로905번길 16, 화홍문 is 북수동 33-4 vs 수원천로 377. No claim uses these."
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "kr-gyeonggi-uiwang-railpark",
@@ -24718,14 +26797,14 @@
   {
    "id": "kr-gyeongnam-jinjuseong",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "진주성",
     "local": "진주성"
    },
    "admin_region": "경상남도",
    "city": "진주시 남강로 626",
-   "address": null,
+   "address": "경상남도 진주시 남강로 626",
    "coord": {
     "lat": 35.188817,
     "lng": 128.077604,
@@ -24735,71 +26814,263 @@
     "confidence": "high",
     "osm": "way/560496516"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "진주성은 경상남도 진주시 남강로 626에 있는 성곽으로, 1379년 왜구의 침입을 막기 위해 확장되었고 임진왜란(1592~1598) 중 두 차례 전투를 겪었다.",
+   "description": "진주성은 경상남도 진주시 남강로 626에 있는 성곽으로, 1379년 왜구의 침입을 막기 위해 확장되었고 임진왜란(1592~1598) 중 두 차례 전투를 겪었다. 성 안에는 촉석루, 국립진주박물관, 승전 기념비, 야외무대, 카페 등이 있으며 남강을 내려다본다. 한복 체험과 남강 뱃놀이도 즐길 수 있다. 3~10월에는 05:00~23:00, 11~2월에는 05:00~22:00에 열려 있고 연중무휴이며, 개인 입장료는 성인 2,000원, 청소년 1,000원, 어린이 600원이다. 만 65세 이상과 6세 이하는 무료이고 성 주변 주차장은 소형차 기준 첫 30분 500원이다.",
+   "highlights": [
+    "1379년 왜구 방어를 위해 확장된 성곽으로 임진왜란 때 두 차례 전투가 벌어진 곳",
+    "성 안에 촉석루, 국립진주박물관, 승전 기념비, 야외무대, 카페가 있음",
+    "남강을 내려다보는 경관과 한복 체험, 남강 뱃놀이",
+    "3~10월 05:00~23:00, 11~2월 05:00~22:00 이용 가능(연중무휴)",
+    "65세 이상·6세 이하 무료, 성 안 국립진주박물관 관람은 무료"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "진주성은 고대에 처음 축조되어 1379년 왜구 침입을 막으려고 확장되었고, 임진왜란(1592~1598) 중 두 차례 전투가 벌어졌다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "성 안에는 촉석루, 국립진주박물관, 승전 기념비, 야외무대, 카페가 있고 남강을 내려다본다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "방문객은 한복 체험을 하거나 남강에서 배를 탈 수 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "진주성 문의 전화는 +82-55-749-5171이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "성 안 촉석루는 별도 운영시간 09:00~18:00으로 안내되어 있어 성곽 개방시간과 다르다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "성 안 국립진주박물관 관람은 무료이며 09:00~18:00(입장 마감 17:30), 매주 월요일(월요일이 공휴일이면 다음 첫 평일)과 1월 1일, 설·추석 당일은 휴관한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=21f2f7aa-5ed6-4121-9d00-596444fbe174",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "성 안 의기사·의암 구역에 장애인 전용 주차 1면, 경사로, 장애인 화장실, 휠체어 대여(13대)가 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=bab49ec5-4bff-483e-b3de-3658da2796d0",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "진주성의 도로명 주소는 경상남도 진주시 남강로 626이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "주차가 가능하다. 촉석문 앞(소형차만), 공북문, 보건소, 진주성 관광버스 전용 주차장 등 4곳이 안내되어 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "주차 요금은 소형차 첫 30분 500원에 추가 10분마다 200원, 대형차 첫 30분 1,000원에 추가 10분마다 400원이며, 관광버스 전용 구역 주차는 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "가까운 버스 정류장·도보 시간 등 대중교통 접근 정보를 공식 페이지에서 찾지 못함. jinju.go.kr 에 접속이 계속 실패하여(연결 실패/503) 확인 불가."
+     ]
     },
     "duration": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 안내 소요시간을 찾지 못함."
      },
      "partial_gaps": []
     },
     "hours": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "진주성은 3~10월에는 05:00~23:00, 11~2월에는 05:00~22:00에 이용할 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "야간 입장료 무료라는 설명은 비공식 사이트에만 있어 제외."
+     ]
     },
     "closed_days": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "진주성은 정기 휴무일 없이 연중 개방한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "fees": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "진주성 개인 입장료는 성인 2,000원, 청소년 1,000원, 어린이 600원이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "30명 이상 단체는 성인 1,400원, 청소년 600원, 어린이 400원이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "6세 이하 미취학 아동과 65세 이상은 입장료가 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "reservation": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "입장 예약 여부 공식 확인 불가. 문화관광해설 사전 예약제는 비공식 검색 요약에만 있어 근거로 쓰지 않음."
      },
      "partial_gaps": []
     },
@@ -24807,32 +27078,47 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "매표소 결제 수단(카드·현금) 공식 안내를 찾지 못함."
      },
      "partial_gaps": []
     },
     "language": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "한국관광공사 1330 여행안내 전화는 한국어, 영어, 일본어, 중국어로 문의할 수 있다. 진주성 자체 한국어 오디오가이드 여부는 확인되지 않았다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "진주성 자체의 한국어 해설·오디오가이드 여부는 공식 페이지에서 찾지 못함(1330만 확인)."
+     ]
     },
     "caution": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 주의사항·혼잡 시기 안내를 찾지 못함. 2026 진주남강유등축제 기간(10.3~10.18) 입장료·운영은 공식 페이지에서 직접 확인하지 못함."
      },
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "jinju.go.kr (www.jinju.go.kr/jinjuseong/index.web) could not be reached: curl connection reset 4 times, WebFetch 503. Access, duration, reservation, payment, caution and night_fee are still unconfirmed",
+    "86040 is a 촉석루 page and gives 09:00-18:00. The fortress itself is open 05:00-23:00/22:00 (75199 and the 의기사 page). This is not a contradiction, but the guide should keep the two hours separate. 86040 shows no update date, so its staleness cannot be checked"
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "kr-gyeongnam-junam-reservoir",
@@ -25789,14 +28075,14 @@
   {
    "id": "kr-gyeongnam-tongdosa",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "양산 통도사",
     "local": "양산 통도사"
    },
    "admin_region": "경상남도",
    "city": "양산시 하북면 통도사로 108",
-   "address": null,
+   "address": "경상남도 양산시 하북면 통도사로 108 (우 50501)",
    "coord": {
     "lat": 35.48786,
     "lng": 129.06429,
@@ -25806,104 +28092,390 @@
     "confidence": "high",
     "osm": "way/472095264"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "양산 통도사는 영축총림이자 세계문화유산으로 소개되는 사찰이다.",
+   "description": "양산 통도사는 영축총림이자 세계문화유산으로 소개되는 사찰이다. 금강계단에 부처님 진신사리가 모셔져 있어 대웅전에는 불상이 없다. 가람은 금강계단이 있는 상로전과 중로전·하로전의 세 구역으로 나뉘며, 일주문부터 본격적인 경내가 시작되고 배치는 동서로 길다. 개방 시간은 08:30~17:30이고 새벽예불에 참여하면 04시부터 들어갈 수 있다. 입장료는 2023년 5월 4일부터 무료이며 주차비는 차종별로 따로 받는다. 금강계단은 정해진 날의 11시~14시에만 참배할 수 있고 비가 오면 열지 않는다.",
+   "highlights": [
+    "입장료 무료(2023년 5월 4일부터)",
+    "금강계단에 진신사리를 모셔 대웅전에 불상이 없음",
+    "상로전·중로전·하로전 세 구역으로 이뤄진 가람",
+    "개방 08:30~17:30, 새벽예불 참여 시 04시부터 입장",
+    "금강계단 참배는 지정일 11:00~14:00, 우천 시 미개방",
+    "제1주차장 인근 카페·한식당 등 편의시설"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "가람은 법당을 중심으로 상로전·중로전·하로전 세 구역으로 나뉘고, 상로전에는 금강계단, 중로전에는 해장보각, 하로전에는 극락보전 등이 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501_01",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "'영축산통도사' 편액이 걸린 일주문에서부터 본격적인 경내가 시작되고, 가람 배치는 동서로 길게 이루어져 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501_01",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "공식 사이트는 통도사를 세계문화유산 영축총림 통도사로 소개한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://tongdosa.or.kr/",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "구룡지는 자장스님이 구룡소의 용들을 승천시키고 못을 메워 절을 창건했다고 전하는 유적으로 상로전 구역에 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501_01",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "제1주차장에는 다정카페, 다정한식 등이 있고, 성보박물관·일주문 옆에는 한송정, 한송매점, 산중다원(전통차·단팥죽) 등이 있다고 안내한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01402",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "10월에는 18일 약사재일, 19일 개산대재, 31일 자비도량참법기도 등 연중 행사가 공지되어 있어 방문 전 행사 일정을 확인할 수 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://tongdosa.or.kr/bbs/board.php?bo_table=menu03304",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "통도사 주소는 경상남도 양산시 하북면 통도사로 108(우편번호 50501)이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "종무소 연락처는 전화 055-382-7182, 055-381-1442, 이메일 tongdosa@tongdosa.or.kr이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01401",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "승용차는 부산·창원 방향에서 경부고속도로 통도사 하이패스 나들목, 서울·대구·울산 방향에서 통도사 IC를 이용한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "부산에서는 동부시외버스터미널(노포동)에서 신평(통도사)행을 타고 신평터미널에서 내린다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "울산 태화강역에서는 1723번(신평터미널 방면) 버스를 타며, 첫차 6시 25분, 배차 간격 35~40분이라고 안내한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "경주에서는 시외버스터미널에서 통도사 인터체인지를 거치는 부산행 버스를 타고 통도사에서 내린다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "주차비는 경차 3,000원, 중소형(17인승 미만) 6,000원, 대형(17인승 이상) 15,000원이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "주차비 면제 대상은 해당 연도 회비를 낸 전국 신도증 소지자와 통도사 신도증 소지자, 그리고 '장애인 주차가능' 스티커 부착 복지카드 대상자 차량이다(주차불가 스티커 차량은 50% 부과).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "신평터미널에서 경내까지 도보·택시 시간은 공식 문장이 모호(교통편 페이지가 KTX울산역 기준 13번 버스 30분, 택시 25분으로 적었으나 구간 표기 불명확)해 사용하지 않음."
+     ]
     },
     "duration": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 사이트에 권장 관람 소요시간 안내를 찾지 못함."
      },
      "partial_gaps": []
     },
     "hours": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "개방 시간은 08:30~17:30이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "새벽예불에 참여하면 04시부터 입장할 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "금강계단 참배 가능 시간은 오전 11시~오후 2시이며, 입장 가능일은 음력 1~3일, 15일, 18일, 24일이다. 비가 오거나 바닥이 젖어 있으면 열지 않는다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "closed_days": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "성보박물관은 공사 후 재개관 예정이며 2026년 12월 준공 예정이라 현재 관람이 어렵다고 안내한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "정기 휴무일 안내 없음(개방시간만 안내). 성보박물관 공사(c10)와 금강계단 참배 제한(c9)만 확인."
+     ]
     },
     "fees": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "입장료는 2023년 5월 4일부터 무료다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "reservation": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "일반 경내 방문에 사전 예약이 필요하다는 안내는 없음. 기도접수·템플스테이는 별도 사이트(online.tongdosa.or.kr, templestay.tongdosa.or.kr)에서 접수하나 이번에 상세 확인하지 않음."
      },
      "partial_gaps": []
     },
     "payment": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "단체 새벽예불 참여자의 주차료는 현금 결제 또는 계좌 입금으로 낼 수 있고, 입금 후 회계실(055-382-7187)에 확인 전화를 해야 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "입장료가 무료여서 해당 없음. 일반 승용차 주차비의 결제수단(카드·현금)은 공식 안내에 없음(단체 새벽예불만 현금·입금, c14)."
+     ]
     },
     "language": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "통도사는 템플스테이 영문 안내 페이지(https://tongdosa.or.kr/eng/)를 운영하며 영어로 사찰을 소개한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/eng/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "한국어 오디오가이드·한국어 해설 프로그램 유무는 공식 페이지에서 확인하지 못함. 영어 안내 페이지만 확인(c22)."
+     ]
     },
     "caution": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "금강계단에는 부처님 진신사리가 봉안되어 있어 대웅전에는 불상이 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "금강계단에서는 합장한 상태로 묵언하며 천천히 오른쪽(시계방향)으로 탑돌이를 3번 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "Two official pages on the temple layout disagree. menu01501 says 중로전 is led by 대광명전 and 하로전 is centred on 영산전. menu01501_01 says 중로전 is led by 해장보각 and lists 하로전 as 극락보전·영산전 등. The description's '해장보각 중심의 중로전' follows only menu01501_01.",
+    "The English page (/eng/) is undated and may be stale. It still promotes the Tongdosa Museum, which the Korean page says is closed until construction is finished (planned 2026-12). Its Busan bus details are not on the Korean page.",
+    "The museum entry (c10) is a future plan ('2026년 12월 준공예정') and must be re-checked after December 2026."
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "kr-gyeongnam-tongyeong-reference",
@@ -26614,113 +29186,356 @@
   {
    "id": "kr-incheon-chinatown-open-port-parent",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "인천 차이나타운·개항장",
     "local": "인천 차이나타운·개항장"
    },
    "admin_region": "인천광역시",
    "city": "인천 제물포구 차이나타운·개항장 일대",
-   "address": null,
+   "address": "인천광역시 제물포구 차이나타운로26번길 12-17",
    "coord": null,
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "인천 차이나타운은 1883년 인천항 개항 뒤 1884년 이 지역이 청나라 치외법권 지역으로 지정되면서 생겨났고, 화교의 한국 정착 역사가 담겨 있다.",
+   "description": "인천 차이나타운은 1883년 인천항 개항 뒤 1884년 이 지역이 청나라 치외법권 지역으로 지정되면서 생겨났고, 화교의 한국 정착 역사가 담겨 있다. 우뚝 솟은 패루를 지나 경사진 길을 약 300m 걸으면 길이 T자형으로 나뉘고, 홍등과 복원된 중국식 근대건축물이 눈길을 끈다. 지금은 대부분 중국 음식점이며 짜장면, 공갈빵, 월병이 대표 먹거리다. 이어지는 개항장 거리에는 청·일 조계지 경계계단과 서양식 근대 건축물, 인천개항박물관, 짜장면박물관 등이 있고, 인천역에서 출발하는 1시간 걷기 코스도 안내된다. 문화관광해설사 해설은 예약하면 들을 수 있다.",
+   "highlights": [
+    "1884년 청나라 치외법권 지역으로 지정되며 생겨난 화교 정착 역사의 거리",
+    "패루를 지나 약 300m 걸으면 T자형으로 갈라지는 중국풍 거리",
+    "짜장면·공갈빵·월병이 대표 먹거리",
+    "개항장 거리에서 청·일 조계지 경계계단과 서양식 근대 건축물 관람",
+    "인천역에서 한중문화관까지 이어지는 개항 누리길 1시간 코스",
+    "예약하면 문화관광해설사 해설을 들으며 도보 관광"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "차이나타운은 1883년 인천항 개항 후 1884년 이 지역이 청의 치외법권 지역으로 지정되면서 생겨났고, 화교의 한국 정착 역사를 담고 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "패루를 지나 경사진 길을 300m 걸으면 길이 T자형으로 나뉘며, 치파오를 입은 화교 상인, 홍등, 최근 복원된 중국식 근대건축물이 보인다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "지금 거리는 대부분 중국 음식점이며 짜장면, 공갈빵, 월병이 대표 먹거리다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "개항누리길에서는 청·일 조계지 경계계단과 당시 지은 서양식 건축물, 인천개항박물관, 인천아트플랫폼, 차이나타운, 짜장면박물관 등을 만날 수 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "개항장 거리는 출입구까지 턱이 없어 휠체어 접근이 가능한 무장애 관광지로 등록되어 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "인천 차이나타운의 인천 관광 포털(itour) 등록 주소는 인천 제물포구 차이나타운로26번길 12-17이며 전화번호는 032-777-1330이다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "한국관광공사 영문 안내는 인천 차이나타운 주소를 인천광역시 제물포구 차이나타운로59번길 20으로 적고 있다(c1과 표기 지점이 다름).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=105442",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "개항장 거리는 인천광역시 제물포구 관동1가 일대로 등록되어 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "인천시는 2026년 7월 1일부터 기존 중구 내륙과 동구를 제물포구로 통합 개편했다고 안내한다. 따라서 현재 행정구역은 제물포구이고 이전 표기는 중구다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.incheon.go.kr/IC010601/2187729",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "한국관광공사는 개항 누리길 1시간 코스를 인천역에서 출발해 차이나타운, 삼국지벽화거리, 자유공원, 제물포구락부, 인천근대건축전시관을 지나 한중문화관에서 끝나는 도보 코스로 소개한다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "인천 차이나타운에는 유료 주차장이 있고 장애인 전용 주차칸이 따로 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "개항장 거리 항목은 주차 안내가 불가능으로 등록되어 있어 거리 자체에는 주차할 수 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "인천역 출구·도보 시간에 대한 공식(itour) 문장은 확인하지 못함. 한국관광공사 개항 누리길 코스가 인천역에서 시작한다는 사실(c5)만 확인."
+     ]
     },
     "duration": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "개항 누리길은 소요 시간별 3개 코스가 있고 그중 인천역~한중문화관 코스가 1시간 코스다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "차이나타운 단독 소요시간 공식 안내 없음. 인천역 출발 1시간 코스만 확인(c6)."
+     ]
     },
     "hours": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "개항장 거리는 이용 시간이 상시 개방으로 등록되어 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "한국관광공사 영문 페이지는 개항 누리길 1시간 코스의 운영시간을 10:00~17:00, 휴일을 월요일로 적고, 투어 가이드(해설)는 예약이 필요하다고 표시한다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "개항장 거리는 itour(https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209)에서 상시 개방·연중무휴, 한국관광공사 개항 누리길 페이지(https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369)에서 10:00~17:00·월요일 휴일로 적혀 값이 다름. 후자는 해설 서비스 기준일 가능성이 있으나 페이지에 명시되지 않음. 차이나타운 상점·식당 영업시간은 개별 업소별이라 공식 통합 안내 없음."
+     ]
     },
     "closed_days": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "개항장 거리는 휴무일이 연중무휴로 등록되어 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "차이나타운 전체의 정기 휴무 공식 안내 없음(개항장 거리 연중무휴 c8, 해설 월요일 휴무 c9 참고)."
+     ]
     },
     "fees": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "차이나타운·개항장 거리 모두 공식 페이지에 입장료 항목이 없고 무료라는 명시 문장도 확인하지 못함. 개별 시설(박물관 등)은 별도 확인 필요."
      },
      "partial_gaps": []
     },
     "reservation": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "개항장 거리에서는 인천 문화관광해설사 해설을 예약하면 들으며 도보 관광을 할 수 있다. 일반 방문에 예약이 필요하다는 안내는 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "일반 방문 예약 여부를 명시한 공식 문장 없음. 해설사 해설만 예약(c12)."
+     ]
     },
     "payment": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "결제수단 관련 공식 안내 없음(업소별)."
      },
      "partial_gaps": []
     },
     "language": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "관광통역안내전화 1330은 한국어·영어·일본어·중국어를 지원한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "한국어 오디오가이드·한국어 안내 시설에 대한 공식 안내는 별도로 없음. 1330 통역전화만 확인(c13)."
+     ]
     },
     "caution": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "차이나타운은 반려견 동반이 가능하지만 목줄 착용과 배설물 처리용 봉투를 갖춘 이용객에 한해 허용된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "Official address sources disagree. itour gives 차이나타운로26번길 12-17 (modified 2026-03-03). The KTO English page gives 차이나타운로59번길 20. Both are now listed as claims; pick one as the main address.",
+    "KTO page vcontsId=34369 lists 10:00~17:00 with Mondays closed. itour 개항장 거리 (modified 2026-09-22) lists 상시 개방 and 연중무휴. The KTO page also links the old Jung-gu website (icjg.go.kr, which did not respond), and its English address (269 Jemullyang-ro) differs from its Korean address (제물량로218번길 3). It shows no update date and may be stale.",
+    "ic-chinatown.co.kr is the homepage listed on itour, but it says it is run by a citizen ('시민이 운영'). It still uses the old 중구 names and directions such as 인천역 1번 출구 150m. It is not a primary source and its admin names are stale.",
+    "incheon.go.kr page 2187729 describes the 2026-07-01 reorganisation in the future tense, so it was written before the change took effect."
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "kr-incheon-eurwangni-beach",
@@ -27867,71 +30682,226 @@
   {
    "id": "kr-incheon-wolmi-culture-street",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "월미문화의거리",
     "local": "월미문화의거리"
    },
    "admin_region": "인천광역시",
    "city": "중구",
-   "address": null,
+   "address": "인천광역시 제물포구 월미로 252 (북성동1가)",
    "coord": null,
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "월미문화의거리는 인천 월미도에 있는 보행자 전용 거리로, 차량 출입 시간을 제외하면 차량 진입이 통제된다.",
+   "description": "월미문화의거리는 인천 월미도에 있는 보행자 전용 거리로, 차량 출입 시간을 제외하면 차량 진입이 통제된다. 초상화를 그려 주는 길거리 화가들이 나와 있고 앉아 쉴 벤치가 있어 작은 쉼터 같은 분위기다. 거리 안의 월미 달빛음악분수는 5월 1일부터 10월 31일까지 운영하며 매주 월요일은 정기 점검을 한다. 저녁에는 음악에 맞춰 6~7가지 빛의 분수 쇼가 펼쳐져 낮보다 밤 모습이 더 좋다고 소개된다. 같은 월미도에 월미공원 전망대와 월미테마파크가 있다. 이용 시간은 09:00~18:00, 연중무휴로 안내되며 입구에 턱이 없어 휠체어 접근이 가능하다.",
+   "highlights": [
+    "차량 출입 시간을 제외하고 차량이 통제되는 보행자 전용 거리",
+    "초상화를 그려 주는 길거리 화가와 벤치가 있는 작은 쉼터 분위기",
+    "월미 달빛음악분수(5/1~10/31, 월요일 정기점검)",
+    "저녁에 6~7가지 빛의 분수 쇼, 밤 관람이 더 낫다고 안내",
+    "월미공원 전망대에서 인천항 일대 조망"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "길거리 화가들이 초상화를 그려 주고 앉아 쉴 벤치가 있는 작은 쉼터 같은 거리다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "월미공원 월미 전망대에서는 인천항 일대 전경을 볼 수 있고, 월미테마파크에는 다양한 놀이기구가 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "음악분수는 저녁에 음악에 맞춰 6~7가지 빛의 쇼가 펼쳐져 낮보다 밤에 보는 편이 더 멋지다고 소개된다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "출입구까지 턱이 없어 휠체어 접근이 가능하고, 인근 월미전통공원 안내소에서 휠체어를 빌릴 수 있으며 장애인 화장실이 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "월미문화의거리의 공식 관광 포털 주소는 인천광역시 제물포구 월미로 252(북성동1가)이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "인천시는 2026년 7월 1일부터 기존 중구 내륙과 동구를 제물포구로 통합했다고 안내한다. 현재 표기는 제물포구, 이전 표기는 중구다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.incheon.go.kr/IC010601/2187729",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "인천역(차이나타운)에서 2번 버스를 타고 월미도(시티투어) 정거장에서 내리는 대중교통 안내가 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "월미문화의거리 항목의 주차 안내는 불가능으로 등록되어 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "같은 페이지의 무장애 정보에는 월미도 제2공영주차장에 장애인 주차 3대가 있다고 적혀 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "가장 가까운 지하철역·도보 시간은 공식 페이지에 없음. 버스 안내(c3)만 확인."
+     ]
     },
     "duration": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "소요시간 공식 안내 없음."
      },
      "partial_gaps": []
     },
     "hours": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "이용 시간은 09:00~18:00으로 등록되어 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "달빛음악분수의 일일 공연 시각은 공식 페이지에 없음(저녁이라고만 안내)."
+     ]
     },
     "closed_days": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "휴무일은 연중무휴로 등록되어 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "거리 안 월미 달빛음악분수는 5월 1일부터 10월 31일까지 운영하고 매주 월요일은 정기 점검을 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "차량 출입이 허용되는 시간대는 명시되어 있지 않음."
+     ]
     },
     "fees": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 페이지에 입장료 항목이 없고 무료라는 명시 문장을 확인하지 못함."
      },
      "partial_gaps": []
     },
@@ -27939,8 +30909,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "예약 필요 여부 공식 안내 없음."
      },
      "partial_gaps": []
     },
@@ -27948,32 +30918,69 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "결제수단 공식 안내 없음."
      },
      "partial_gaps": []
     },
     "language": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "관광통역안내전화 1330과 인천종합관광안내소 032-832-3031이 안내되어 있다. itour 사이트는 영어·일본어·중국어 버전도 제공한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "한국어 외 안내판·오디오가이드 유무는 공식 안내 없음(1330 통역전화만 확인)."
+     ]
     },
     "caution": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "월미도 문화의 거리는 보행자 전용 도로로, 차량 출입 시간을 제외하고는 차량 출입이 통제된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "보조견 동반이 가능하다고 안내되어 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "The same page lists hours of 09:00~18:00, yet says the fountain show runs in the evening. The fountain's show times are not given. Today is 10-11, so the fountain season (until 10/31) ends soon.",
+    "The same page gives parking as 불가능 but also lists 3 disabled spaces at 월미도 제2공영주차장. The general public parking there (fees) is not confirmed."
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "kr-incheon-yeongjong-seaside-railbike",
@@ -38107,14 +41114,14 @@
   {
    "id": "kr-seoul-changdeokgung",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "창덕궁",
     "local": "창덕궁"
    },
    "admin_region": "서울특별시",
    "city": "서울 종로구 율곡로 99",
-   "address": null,
+   "address": "서울특별시 종로구 율곡로 99 (03072)",
    "coord": {
     "lat": 37.582387,
     "lng": 126.991701,
@@ -38124,104 +41131,536 @@
     "confidence": "high",
     "osm": "way/789965985"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "창덕궁은 1405년 태종 때 지어진 조선의 궁궐로, 임진왜란 뒤 1610년(광해군 2년)에 다시 지어져 약 270년 동안 조선의 왕궁으로 쓰였다.",
+   "description": "창덕궁은 1405년 태종 때 지어진 조선의 궁궐로, 임진왜란 뒤 1610년(광해군 2년)에 다시 지어져 약 270년 동안 조선의 왕궁으로 쓰였다. 서울에서 두 번째로 유네스코 세계유산에 오른 곳이며, 주변 자연환경과 어우러진 배치가 뛰어나 동아시아 궁궐 건축사에서 대표 궁궐로 꼽혔다. 관람은 인정전과 낙선재를 도는 궁궐전각 관람(약 60분, 약 1km)과 해설사가 이끄는 후원(왕실정원) 특별관람(약 90분, 약 2.5km)으로 나뉜다. 후원은 부용지, 애련지, 연경당, 관람지, 옥류천을 지나며 회당 100명으로 제한된다. 매주 월요일은 휴관한다.",
+   "highlights": [
+    "서울 두 번째 유네스코 세계유산, 1405년 창건",
+    "궁궐전각 관람 약 60분(약 1km), 인정전·낙선재 등",
+    "후원(왕실정원) 해설사 동행 특별관람 약 90분(약 2.5km)",
+    "후원은 회당 100명 제한, 온라인 예매 6일 전 10시부터",
+    "지하철 3호선 안국역 3번 출구 도보 5분, 매주 월요일 휴관"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "1405년 태종 때 지어졌고 임진왜란 뒤 1610년(광해군 2년)에 재건되어 약 270년 동안 조선의 왕궁으로 쓰였다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitseoul.net/attractions/changdeokgung%20palace%20_/296",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "서울에서 두 번째로 유네스코 세계유산에 올랐고, 동아시아 궁궐 건축사에서의 아름다움과 자연환경과의 배치가 뛰어나 대표 궁궐로 선정되었다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitseoul.net/attractions/changdeokgung%20palace%20_/296",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "후원(왕실정원)은 부용지, 애련지, 연경당, 관람지, 옥류천을 지나는 코스이며 창덕궁의 약 60%를 차지한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitseoul.net/attractions/changdeokgung%20palace%20_/296",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       },
+       {
+        "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide2.jsp&mn=NS_01_25",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "짐은 돈화문 안쪽 왼편 물품보관소에 맡길 수 있고, 24개월 이하 유아용 유모차와 휠체어(각 10대·6대)는 돈화문 안쪽 왼편 초소에서 무료로 빌릴 수 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=/watch_info/palacesCdgConvInst.jsp&mn=NS_01_25",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "궁궐전각 일반 관람은 인정전과 낙선재를 중심으로 하는 기본 코스이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitseoul.net/attractions/changdeokgung%20palace%20_/296",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "금·토·일에는 심화 해설 '창덕궁 깊이보기'가 있다: 궐내각사는 10:30, 낙선재는 14:30이며 사전 예약과 현장 참여가 모두 가능하다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide1.jsp&mn=NS_01_25",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "창덕궁 문의 전화는 02-3668-2300이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitseoul.net/attractions/changdeokgung%20palace%20_/296",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "창덕궁 주소는 서울 종로구 율곡로 99이고 우편번호는 03072이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=/watch_info/palacesCdgDstWay.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://english.visitseoul.net/attractions/changdeokgung%20palace%20_/296",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "지하철 3호선 안국역 3번 출구에서 도보 5분이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=/watch_info/palacesCdgDstWay.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "종로3가역(1·3·5호선) 6번 출구에서 도보 10분이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=/watch_info/palacesCdgDstWay.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "버스는 간선 109·151·162·171·172·272·601, 지선 7025, 순환 90S투어·91S투어, 공항 6011, 마을 종로01·종로12가 안내된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=/watch_info/palacesCdgDstWay.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "duration": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "궁궐전각 관람은 약 60분, 약 1km 코스이다(돈화문-금천교-궐내각사-인정전-선정전-희정당-대조전-낙선재).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide1.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "후원(왕실정원) 관람은 약 90분, 약 2.5km이며 7~8월과 12~2월에는 약 70분으로 줄여 운영한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide2.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "hours": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "궁궐전각 관람시간은 2~5월·9~10월 09:00~18:00(입장마감 17:00), 6~8월 09:00~18:30(입장마감 17:30), 11~1월 09:00~17:30(입장마감 16:30)이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide1.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://english.visitseoul.net/attractions/changdeokgung%20palace%20_/296",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "후원 한국어 해설 관람은 2~11월 10:00~15:00 매시 정각, 3~10월은 16:00 회차가 추가된다(방문 시점 10월은 16:00까지).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide2.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://english.visitseoul.net/area/2024-cdggarden/ENPl8f5md",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "후원 관람시간 표가 같은 페이지(https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide2.jsp&mn=NS_01_25) 안에서 서로 다르다: 월별 목록은 3~6월 10:00-17:30(입장마감 16:00) 등, 표는 6~8월 10:00~18:00(16:30), 12~1월 10:00~16:30(15:00). 해설 회차 시각(c9)만 확정값으로 쓴다.",
+      "Visit Seoul 후원 페이지(https://english.visitseoul.net/area/2024-cdggarden/ENPl8f5md)는 한국어 해설이 11~2월 10:00~15:00, 3~10월 10:00~16:00 매시라 하고 영어 12~2월은 '14:3'에서 잘려 있다. 국가유산청은 2월·11월도 15시까지(11~2월과 세부 일치하지 않음)라 월 경계는 확인 필요."
+     ]
     },
     "closed_days": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "정기 휴관일은 매주 월요일이다. 월요일이 공휴일이면 개방하고, 그 공휴일 다음의 첫 비공휴일이 휴관일이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide1.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://english.visitseoul.net/area/2024-cdggarden/ENPl8f5md",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "fees": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "궁궐전각 입장료는 내국인 대인(만25~64세) 3,000원, 외국인 대인(만19~64세) 3,000원이며 유료 10인 이상 단체는 2,400원이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide1.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://english.visitseoul.net/attractions/changdeokgung%20palace%20_/296",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "궁궐전각 외국인 소인(만7~18세) 요금은 1,500원(유료 10인 이상 단체 1,200원)이며, 내국인 만7~24세는 무료이다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide1.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "무료 대상은 내국인 만6세 이하, 만7~24세, 만65세 이상, 한복 착용자, 매월 마지막 수요일(문화가 있는 날) 등이다. 외국인도 만6세 이하, 만65세 이상, 한복 착용자는 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide1.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "만65세 이상·만24세 이하 내국인은 정문 신분증 인식기(주민등록증·운전면허증만 가능)로 티켓 없이 입장할 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide1.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "후원(왕실정원) 특별관람료는 성인(만19세 이상) 5,000원, 소인(만7~18세) 2,500원이며 궁궐전각 관람권을 별도로 사야 한다. 전각 요금은 내국인 만25~64세·외국인 만19~64세 3,000원, 외국인 소인 1,500원이고 내국인 만24세 이하와 만65세 이상은 무료이다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide2.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://english.visitseoul.net/area/2024-cdggarden/ENPl8f5md",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "궁궐 통합관람권은 10,000원이며 구매일로부터 3개월간 쓸 수 있고 각 궁 1회 한정이다(국가유산청 창덕궁 페이지 기준).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide1.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "통합관람권: 국가유산청 창덕궁 페이지는 10,000원/3개월(https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide1.jsp&mn=NS_01_25). 검색 요약상 궁능유적본부 요금 페이지(https://royal.cha.go.kr/ROYAL/contents/R703000000.do)는 6,000원/6개월이라는데 직접 열지 못했다. 구입 전 확인 필요."
+     ]
     },
     "reservation": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "후원은 해설사 인솔 하의 제한관람으로 회당 100명(온라인 예매 50명, 현장 발권 50명), 선착순이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide2.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://english.visitseoul.net/area/2024-cdggarden/ENPl8f5md",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "후원 온라인 예매는 관람희망일 6일 전 오전 10시부터 하루 전까지 선착순이며 1인당 10명까지 가능하다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide2.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "청소년(초·중·고) 단체는 관람희망일 하루 전까지 홈페이지로 신청해야 하며 예매는 180일 전부터 가능하다. 통합관람권을 사도 후원은 당일 매표소에서 현장 구매표로 교환해야 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide1.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "예매 사이트의 공식 주소·절차는 열람한 국가유산청 페이지에서 확인되지 않았다. Visit Seoul은 '통합예약서비스'로만 적고 있고 창덕궁 사이트(cdg.go.kr)는 접속 실패."
+     ]
     },
     "payment": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "매표소 결제수단(현금·카드·모바일)이 열람한 공식 페이지에 없다."
      },
      "partial_gaps": []
     },
     "language": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "후원 외국어 해설은 영어 3~11월 10:30·11:30·14:30·15:30(12~2월은 15:30 제외), 중국어 화·목·토 12:30, 일본어 수·금·일 13:30이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide2.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "궁궐전각 무료 해설은 한국어 11~2월 9:30·11:30·13:30·15:30, 3~10월은 16:30 추가이며 영어 10:15·13:15, 중국어(화·목·토) 10:00, 일본어(수·금·일) 11:00, 러시아어(수) 10:45이다. 소요 약 50분, 집결지는 돈화문 안쪽 안내도 앞이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide1.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "음성안내기는 한국어·영어·일본어·중국어로 3,000원에 빌릴 수 있고, 후원은 제외된 전각 지역용이다. 돈화문 밖 왼편 안내데스크에서 신분증을 맡기고 빌리며 건물 번호를 직접 입력하는 방식이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=/watch_info/palacesCdgConvInst.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "한국어 안내는 한국어 해설·음성안내기로 확인되나(c11, c12), 국가유산청 페이지 갱신일은 표시되지 않았다."
+     ]
     },
     "caution": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "후원은 입장시간을 지키지 않으면 입장과 관람권 교환·환불이 안 된다. 궁궐 입구에서 후원 입구까지 15분 넘게 걸리므로 시작 최소 20분 전에 돈화문으로 입장해야 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide2.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "후원은 개별 관람이 불가하고 가이드 인솔 관람만 가능하다. 외국어 해설 회차에는 내국인이 참여할 수 없고, 외국인 동반 시에만 내국인 최대 2명이 입장할 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide2.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "창덕궁 전 구역이 금연이고 음식물, 주류, 돗자리·텐트·그늘막, 취사도구 반입이 금지되며 안내견 외 애완동물은 출입할 수 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=/watch_info/palacesCdgViewRule.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "해설 중 동영상 촬영·녹음은 문화재해설사의 사전 승인 없이는 할 수 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=/watch_info/palacesCdgViewRule.jsp&mn=NS_01_25",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "The cha.go.kr Guide1 URL timed out on curl twice (WebFetch not tried). The identical path on www.khs.go.kr (국가유산청) opened and was used. cha.go.kr pages carry khs.go.kr branding, so source URLs should be updated to khs.go.kr.",
+    "Visit Seoul Secret Garden page (edited 2026-09-09) lists Korean tours as Nov-Feb 10:00-15:00. The official page lists Korean tours for Feb-Nov only (no Dec-Jan rows), although its hours table includes Dec-Jan (entry closes 15:00). The difference is minor.",
+    "Parking and payment: not found on any official page opened (official pages and royal.khs.go.kr)."
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "kr-seoul-craft-museum",
@@ -39648,6 +43087,304 @@
     "The FAQ API pagination has shifted. Several cited pageIndex values no longer contain the cited item (c7, c12–c15, c18, c21, c25). Cite the item, not the page number",
     "The HTML pages are a JS-rendered SPA. They were verified from the official JS bundle served by adventure.lotteworld.com and from the official JSON APIs",
     "Base ticket prices (fees.base_price) were not reachable: the price API was not found in 2 lookups"
+   ],
+   "last_verified": "2026-10-11"
+  },
+  {
+   "id": "kr-seoul-myeongdong",
+   "tier": "A",
+   "status": "verified",
+   "names": {
+    "ko": "명동",
+    "local": "명동"
+   },
+   "admin_region": "서울특별시 중구",
+   "city": null,
+   "address": "서울특별시 중구 명동2가 일대",
+   "coord": null,
+   "summary": "서울 중구의 대표 쇼핑 거리로, 서울 공식 관광 사이트는 쇼핑의 메카이자 상업·금융·문화의 중심지로 소개한다.",
+   "description": "서울 중구의 대표 쇼핑 거리로, 서울 공식 관광 사이트는 쇼핑의 메카이자 상업·금융·문화의 중심지로 소개한다. 중구청은 약 1km 거리에 눈스퀘어, 롯데백화점, 신세계백화점 등 대형 쇼핑센터와 국내외 브랜드 매장이 모여 있다고 설명한다. 거리 노점과 일반 매장이 섞여 있고 한국 화장품 매장이 많다. 지하철 4호선 명동역 5~10번 출구가 접근 지점이며 매일 열리지만 운영 시간은 점포마다 다르다. 상인들이 영어·중국어·일본어로도 응대한다고 안내하며, 한국관광공사 1330 여행 핫라인은 한국어를 포함한 4개 언어로 상담한다.",
+   "highlights": [
+    "약 1km 거리에 대형 쇼핑센터와 국내외 브랜드 집중",
+    "한국 화장품 매장이 많은 K-뷰티 쇼핑 거리",
+    "거리 노점과 일반 매장이 섞인 구성",
+    "지하철 4호선 명동역 5~10번 출구",
+    "영어·중국어·일본어 응대 상인",
+    "돈가스·칼국수 식당이 많은 지역"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "서울 공식 관광 사이트는 명동을 서울의 쇼핑 메카이자 상업·금융·문화의 중심지로, 낮 시간 인구가 150만~200만 명이라고 소개한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "거리 노점과 일반 매장이 섞여 있고 한국 화장품 매장이 많다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "약 1km 길이의 거리에 눈스퀘어, 롯데백화점, 신세계백화점 등 대형 쇼핑센터와 국내외 브랜드 매장이 모여 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.junggu.seoul.kr/english/content.do?cmsid=14885",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "한국관광공사는 남대문·동대문과 달리 명동에 디자이너 브랜드가 많이 입점해 있다고 설명한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88011",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "명동에는 돈가스와 칼국수를 내는 식당이 많다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88011",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "문의 전화는 다산콜 +82-2-120(서울 공식 관광 사이트)과 +82-2-778-0333(한국관광공사 페이지)이 안내된다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       },
+       {
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88011",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
+   "guide": {
+    "location": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "명동은 서울특별시 중구 명동2가 일대에 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.junggu.seoul.kr/english/content.do?cmsid=14885",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88011",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "지하철 4호선 명동역 5~10번 출구가 접근 지점으로 안내된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "두 주요 거리 중 하나는 4호선 명동역에서, 다른 하나는 을지로의 롯데백화점에서 시작해 블록 중앙에서 만난다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88011",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "공식 안내 소요시간 없음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "매일 운영하며 영업시간은 점포마다 다르다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "명동지하쇼핑센터 운영시간 안내(09:00~22:00, 통로 24시간)는 검색 요약으로만 확인했고 해당 페이지를 직접 열어 확인하지 못함"
+     ]
+    },
+    "closed_days": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "서울 공식 관광 사이트는 명동을 매일 연다(Open daily)고 표기하며, 영업시간은 점포마다 다르다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "공식 페이지에 거리 자체의 입장료 유무를 무료로 명시한 문구가 없어 무료로 단정하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "거리 자체는 예약 대상이 아닌 것으로 보이나 공식 문구가 없어 확인 불가"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "점포별로 달라 공식 일괄 안내를 찾지 못함"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "중구청은 명동 상인들이 영어뿐 아니라 중국어와 일본어로도 응대하며, 명동 거리가 다양한 언어 서비스를 제공한다고 안내한다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.junggu.seoul.kr/english/content.do?cmsid=14885",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "한국관광공사 1330 여행 핫라인(+82-2-1330)은 한국어, 영어, 일본어, 중국어로 상담한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88011",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "일본·중국의 황금연휴(봄)에는 일본·중국 관광객이 몰려 붐빈다고 서울 공식 관광 사이트가 적는다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "소매치기·호객·혼잡 시간대 등 공식 안전 안내 문구를 찾지 못함(황금연휴 혼잡 언급만 확인)"
+     ]
+    }
+   },
+   "conflicts": [
+    "The official sources give different representative addresses: Jung-gu says 명동2가 (no road address), KTO says 을지로 66 and 명동2가, Visit Seoul says 명동8길 27",
+    "Not found: fees, parking, duration, reservation, payment, underground hours, extra cautions. tour.junggu.seoul.kr did not respond (curl 000)"
    ],
    "last_verified": "2026-10-11"
   },

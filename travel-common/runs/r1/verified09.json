@@ -1,0 +1,411 @@
+{
+ "places": [
+  {
+   "key": "kr-incheon-chinatown-open-port-parent",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "corrected",
+     "corrected_text": "인천 차이나타운의 인천 관광 포털(itour) 등록 주소는 인천 제물포구 차이나타운로26번길 12-17이며 전화번호는 032-777-1330이다.",
+     "note": "Address and phone match the page. The page does not say this address is the 패루 location, so the record's address field '(패루, …)' is also unsupported. Page last modified 2026-03-03."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "KTO EN page: '20 Chinatown-ro 59beon-gil, Jemulpo-gu' / 인천광역시 제물포구 차이나타운로59번길 20"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "주소 인천광역시 제물포구 관동1가; last modified 2026-09-22"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says the change takes effect 2026-07-01 and that 기존 중구내륙과 동구 become 제물포구. It is worded in the future tense, written before the change."
+    },
+    {
+     "cid": "c5",
+     "verdict": "corrected",
+     "corrected_text": "한국관광공사는 개항 누리길 1시간 코스를 인천역에서 출발해 차이나타운, 삼국지벽화거리, 자유공원, 제물포구락부, 인천근대건축전시관을 지나 한중문화관에서 끝나는 도보 코스로 소개한다.",
+     "note": "Page says 'Incheon Modern Architecture Museum', not 인천근대박물관"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'three different courses varying by time with one hour course…'"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "이용시간 상시 개방"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "휴무일 연중무휴"
+    },
+    {
+     "cid": "c9",
+     "verdict": "corrected",
+     "corrected_text": "한국관광공사 영문 페이지는 개항 누리길 1시간 코스의 운영시간을 10:00~17:00, 휴일을 월요일로 적고, 투어 가이드(해설)는 예약이 필요하다고 표시한다.",
+     "note": "The values match the page. The collector's guess that these hours are 'for the guide service' is not on the page, so it is removed. This conflicts with itour c7/c8."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "주차 있음(유료); 장애인 전용 별도 주차칸 있음"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page shows 주차 안내: 불가능. That the street itself has no parking is the collector's reading."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'인천문화 관광해설사가 있어 예약하면 해설을 들으며 도보 관광'"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1330 Travel Hotline (Korean, English, Japanese, Chinese)"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "애완동물 동반가능 – 개목줄·비닐봉지 구비 시"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "출입구까지 턱이 없어 휠체어 접근 가능; tagged #무장애관광"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1883 개항, 1884 청 치외법권"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "패루·300m·T자형·치파오·홍등·복원 근대건축물"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "현재는 거의 중국 음식점; 짜장면·공갈빵·월병"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "경계계단, 서양식 건축물, 개항박물관, 아트플랫폼, 짜장면박물관"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [],
+   "conflicts": [
+    "Official address sources disagree. itour gives 차이나타운로26번길 12-17 (modified 2026-03-03). The KTO English page gives 차이나타운로59번길 20. Both are now listed as claims; pick one as the main address.",
+    "KTO page vcontsId=34369 lists 10:00~17:00 with Mondays closed. itour 개항장 거리 (modified 2026-09-22) lists 상시 개방 and 연중무휴. The KTO page also links the old Jung-gu website (icjg.go.kr, which did not respond), and its English address (269 Jemullyang-ro) differs from its Korean address (제물량로218번길 3). It shows no update date and may be stale.",
+    "ic-chinatown.co.kr is the homepage listed on itour, but it says it is run by a citizen ('시민이 운영'). It still uses the old 중구 names and directions such as 인천역 1번 출구 150m. It is not a primary source and its admin names are stale.",
+    "incheon.go.kr page 2187729 describes the 2026-07-01 reorganisation in the future tense, so it was written before the change took effect."
+   ]
+  },
+  {
+   "key": "kr-incheon-wolmi-culture-street",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page title is '월미문화의거리 & 달빛음악분수'; last modified 2026-07-01"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Same city page as Chinatown c4"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "인천역(차이나타운) 2번 버스, 월미도(시티투어) 정거장 하차"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "09:00~18:00"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "연중무휴"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "5/1~10/31, 매주 월요일 정기점검"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "주차 안내 불가능"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "장애인 주차장 있음(3대/월미도 제2공영주차장)"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "보행자 전용, 차량 출입시간 외 통제"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "6~7가지 빛의 분수 쇼, 밤이 더 멋짐"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "월미전통공원 안내소 휠체어 대여, 장애인 화장실 있음"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "보조견 동반가능"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "초상화 화가, 벤치, 작은 쉼터"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "월미 전망대 인천항 전경, 월미테마파크 놀이기구"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1330 and 032-832-3031 in the footer; English, 日本語 and 中文 switches in the header"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [],
+   "conflicts": [
+    "The same page lists hours of 09:00~18:00, yet says the fountain show runs in the evening. The fountain's show times are not given. Today is 10-11, so the fountain season (until 10/31) ends soon.",
+    "The same page gives parking as 불가능 but also lists 3 disabled spaces at 월미도 제2공영주차장. The general public parking there (fees) is not confirmed."
+   ]
+  },
+  {
+   "key": "kr-gyeongnam-tongdosa",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Footer: (우)50501 경상남도 양산시 하북면 통도사로 108"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "menu01401: 055-382-7182, 381-1442, tongdosa@tongdosa.or.kr"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "하이패스 나들목 / 통도사 IC"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "동부시외버스터미널(노포동) → 신평터미널"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1723번, 첫차 6시25분, 배차 35~40분"
+    },
+    {
+     "cid": "c6",
+     "verdict": "corrected",
+     "corrected_text": "경주에서는 시외버스터미널에서 통도사 인터체인지를 거치는 부산행 버스를 타고 통도사에서 내린다.",
+     "note": "Page wording is '부산행 통도사 인터체인지 승차 → 통도사 하차'. It does not say to get off at the IC."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "개방시간 08시30분~17시30분"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "새벽예불 동참 시 04시부터"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "음 1~3일, 15일, 18일, 24일; 11~14시; 우천·젖은 바닥 미개방"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'공사 완료 후 재개관, 2026년 12월 준공예정'"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2023년 5월 4일부터 무료"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "3,000 / 6,000 / 15,000원"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Exemptions and the 50% rule match"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "현금결제 또는 입금, 회계실 055-382-7187"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "금강계단 참배안내"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "합장·묵언·오른쪽 탑돌이 3번"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches menu01501_01. The sibling page menu01501 differs (see conflicts)."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'영축산통도사' 편액 일주문; 동서로 긴 배치"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Homepage: '세계문화유산 / 영축총림통도사'"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "구룡지 in the 상로전 section"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "다정카페·다정한식 제1주차장; 한송정·한송매점·산중다원 성보박물관·일주문 옆"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "/eng/ is an English Templestay site that introduces the temple and its cultural assets"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The cited URL is the dharma-video board (밝은마음따뜻한법문영상). The October schedule is in the site-wide scrolling banner on it: 10/18 약사재일, 10/19 개산대재, 10/31 자비도량참법기도. Better cited from the 연중행사 page."
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "access",
+     "text": "KTX 울산(통도사)역에서 13번 시내버스를 타면 신평터미널까지 약 30분, 택시로는 약 25분 걸리며, 터미널에서 택시나 보행로로 통도사에 갈 수 있다.",
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105"
+    },
+    {
+     "field": "access",
+     "text": "통도사 영문 안내는 부산 노포 버스터미널에서 통도사행 버스가 06:30~21:00에 20분 간격으로 다니며 약 25분 걸린다고 적고 있다.",
+     "url": "https://tongdosa.or.kr/eng/?core=5"
+    }
+   ],
+   "conflicts": [
+    "Two official pages on the temple layout disagree. menu01501 says 중로전 is led by 대광명전 and 하로전 is centred on 영산전. menu01501_01 says 중로전 is led by 해장보각 and lists 하로전 as 극락보전·영산전 등. The description's '해장보각 중심의 중로전' follows only menu01501_01.",
+    "The English page (/eng/) is undated and may be stale. It still promotes the Tongdosa Museum, which the Korean page says is closed until construction is finished (planned 2026-12). Its Busan bus details are not on the Korean page.",
+    "The museum entry (c10) is a future plan ('2026년 12월 준공예정') and must be re-checked after December 2026."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 57,
+  "verified": 53,
+  "corrected": 4,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "I opened every cited URL directly with curl and judged only the visible text, with comments and scripts stripped. Three itour or incheon.go.kr pages needed retries after the connection reset.",
+   "Corrections: Chinatown c1 (not stated to be the 패루 location), c5 (the course passes 인천근대건축전시관), c9 (collector's guess removed); Tongdosa c6 (Gyeongju bus wording).",
+   "Chinatown has two different official addresses (itour 26번길 12-17 vs KTO 59번길 20) and different hours (상시 개방 vs 10:00~17:00, Monday closed). One main value needs to be chosen.",
+   "The collector's unconfirmed items stay open: fees and payment for Chinatown and Wolmi, fountain show times, visit duration, and Korean audio guide. My lookups found no official values. icjg.go.kr did not respond, and ic-chinatown.co.kr is citizen-run (secondary) and still uses old 중구 names.",
+   "Page modification dates: itour Chinatown 2026-03-03, 개항장 거리 2026-09-22, Wolmi 2026-07-01. The KTO pages and Tongdosa pages show no update date."
+  ]
+ }
+}

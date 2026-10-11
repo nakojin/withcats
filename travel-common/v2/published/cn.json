@@ -592,14 +592,14 @@
   {
    "id": "bj-mutianyu",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "무톈위 만리장성",
     "local": "慕田峪长城"
    },
    "admin_region": "베이징시",
    "city": "베이징",
-   "address": null,
+   "address": "北京市怀柔区渤海镇慕田峪村",
    "coord": {
     "lat": 40.434515,
     "lng": 116.560575,
@@ -609,104 +609,508 @@
     "confidence": "high",
     "osm": "way/756859585"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "무톈위 만리장성은 베이징시 화이러우구 무톈위촌에 있으며, 현재 1~20호 적루 구간이 개방됩니다.",
+   "description": "무톈위 만리장성은 베이징시 화이러우구 무톈위촌에 있으며, 현재 1~20호 적루 구간이 개방됩니다. 입장권은 30일 전부터 실명으로 예약하고, 신분증이나 여권 원본을 들고 가야 합니다. 외국인은 예약할 때 쓴 여권 원본으로 검표구를 통과합니다. 성수기(3월 16일~11월 15일)에는 평일 7:30~18:00, 주말 7:30~18:30에 열고 비수기에는 8:00~17:30에 엽니다. 매표는 폐장 1시간 전, 검표는 30분 전에 끝납니다. 검표구에서 셔틀버스 승강장까지는 약 3km이고, 케이블카 종점은 해발 640m의 14호 적루 부근입니다. 야간 개장 때는 10~15호 구간만 개방됩니다.",
+   "highlights": [
+    "현재 1~20호 적루 구간만 개방 (야간 개장 때는 10~15호 구간)",
+    "30일 전부터 실명 예약, 외국인은 예약한 여권 원본으로 입장",
+    "성수기 평일 7:30~18:00, 주말 7:30~18:30 / 비수기 8:00~17:30",
+    "케이블카 종점은 해발 640m의 14호 적루 부근",
+    "18세 이하 중국 국적 미성년자는 성곽 입장권 무료, 키 1.2m 이하는 셔틀·케이블카 무료"
+   ],
+   "details": {
+    "tip": [
+     {
+      "text": "문의 전화는 티켓 010-61626928, 단체 010-61626022, 불만 접수 010-61626873, 구조 010-61626537이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.mutianyugreatwall.com/cndetailcon1941",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "입장 지점은 베이징시 화이러우구 무톈위촌의 경구 입구와 셔틀버스 승강장이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "운영사 연락처 페이지가 밝힌 주소는 베이징시 화이러우구 보하이진 무톈위촌이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cndetailcon1941",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "셔틀버스 승강장은 검표구에서 약 3km 거리이며, 셔틀버스는 별도 요금이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "케이블카 종점은 해발 640m의 14호 적루(장성 중간 지점)에 있고, 15호 적루와 젠커우 장성 방면으로 이어지는 길목이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cndetailcon1101",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "케이블카 티켓 구매자는 북쪽 검표구로만 입장하고, 곤돌라(索道)·슬라이드 티켓 구매자는 슬라이드 검표구로만 입장한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "경구에 들어오는 차량은 직원의 지시에 따라 지정된 장소에 세워야 하며 아무 데나 주차하면 안 된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "셔틀버스는 경구 내 공공교통이며, 관광객 차량은 산 위로 올라갈 수 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cndetailcon2366",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "교통선(cnTraffic) 페이지는 이미지로만 제공되어 대중교통 노선·역·소요시간 텍스트를 확인하지 못함."
+     ]
     },
     "duration": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 페이지에 소요시간 안내 없음."
      },
      "partial_gaps": []
     },
     "hours": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "성수기(3월 16일~11월 15일) 운영시간은 평일 7:30~18:00, 토·일 7:30~18:30이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "비수기(11월 16일~다음 해 3월 15일) 운영시간은 8:00~17:30이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "매표는 폐장 1시간 전에, 검표는 폐장 30분 전에 끝난다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "케이블카 운영시간은 성수기 평일 7:30~18:00, 주말 7:30~18:30, 비수기 8:00~17:30이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "주간에는 1~20호 적루 구간이, 야간에는 10~15호 적루 구간이 개방된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "closed_days": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "정기 휴무일에 관한 공식 안내를 찾지 못함. 기상·행사에 따른 임시 폐쇄만 공고됨."
      },
      "partial_gaps": []
     },
     "fees": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "키 1.2m 이상, 6세 초과~18세 이하의 외국 국적 미성년자는 할인 입장권 대상이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "18세 이하 중국 국적(홍콩·마카오·대만 포함) 미성년자는 보호자 동반 시 성곽 입장이 무료다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "유효한 장애인증 소지자와, 베이징통-양로조잔카 등 유효 증명서를 가진 60세 이상 노인은 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "그 밖의 할인 대상은 베이징 외 지역 60세 이상 노인(노인표), 18세 초과~25세 이하 중국 국적 재학 대학 본과생(성인 교육기관 제외), 군관증·사병증 등을 가진 현역군인과 퇴역군인 우대증 소지자, 사회보장금 수령증 소지자, 본인 소방원증·소방간부증 소지자와 응급구조 인원이다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "셔틀버스와 케이블카는 키 1.2m 이하 어린이만 무료이고 1.2m 초과는 정가이며, 어린이·노인·장애인 할인은 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "무료·할인 정책은 성곽 입장권에만 적용되며 셔틀버스, 케이블카, 곤돌라, 슬라이드 등 다른 시설은 제외된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "케이블카와 곤돌라·슬라이드는 서로 다른 회사 운영이라 표가 호환되지 않으며, 케이블카 왕복권 구매자는 올라간 길로 되돌아와야 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "성곽 입장권, 셔틀버스, 케이블카, 곤돌라·슬라이드의 구체적 금액이 공식 페이지 본문에 없음(티켓은 예약 시스템에서만 표시되어 확인 불가).",
+      "외지 60세 이상 노인 우대: 游览须知는 노인표 구매(https://www.mutianyugreatwall.com/cnInformation), 2021년 구매 FAQ는 반값표(https://www.mutianyugreatwall.com/cndetailcon2366). FAQ는 2021-03-01 갱신으로 오래됨(stale_source)이라 반값 여부는 확정하지 않음."
+     ]
     },
     "reservation": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "입장권은 실명제 사전 예약이며 30일 전부터 예약할 수 있고, 증명서(신분증, 외국인 영주증, 여권) 1개당 하루 1장만 살 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "예약할 때 실제 휴대폰 번호, 이름, 증명서 번호를 입력해야 하며, 구매 후 교환 없이 신분증 원본으로 입장한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "홍콩·마카오·대만 통행증이나 외국 여권으로 예약한 경우 교환 없이 예약에 쓴 증명서 원본을 해당 검표구에 보여 주고 입장한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "신분증이 없거나 분실·훼손된 경우 예약 때 받은 전자 QR코드를 검표구에서 스캔하거나 매표 서비스센터 창구에서 입장 증명을 받는다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "검표 전 예약표는 방문 예정일 24시 전까지 구매 플랫폼에서 환불·일자 변경할 수 있고, 그 시한을 넘기면 환불·변경이 되지 않으며 입장도 불가하다. 환불은 신청 후 7영업일 이내 원래 결제 수단으로 돌아온다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "payment": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "전망대 망원경은 위챗으로 QR코드를 스캔해 결제하면 앱 설치 없이 쓸 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cndetailcon1103",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "외국 발행 카드, 현금 사용 가능 여부 및 알리페이·위챗페이 외 결제수단이 공식 페이지에 없음."
+     ]
     },
     "language": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "공식 사이트 상단에 중국어와 English 전환 메뉴가 표시된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "한국어 안내·오디오가이드 유무가 공식 페이지에 없음. 영어 전환 메뉴만 표시됨."
+     ]
     },
     "caution": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "경구 내 흡연, 불 사용, 인화성 물질 반입, 반려동물 동반은 금지된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "성벽에 낙서·새기기·붙이기·걸기를 하면 안 되고, 성가퀴(垛口)에 올라가거나 뛰어다니면 안 된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "번개·비·눈·우박·안개·강풍 등 악천후에는 경구가 임시로 전부 또는 일부 폐쇄되므로 경구 공고를 확인해야 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "현재 경구는 1~20호 적루 구간만 개방하고 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "고소공포증, 고혈압, 심장병 등이 있거나 건강 상태가 높은 곳에 맞지 않는 사람은 케이블카 탑승을 권하지 않으며, 술에 취한 사람은 탑승할 수 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "천둥·번개가 칠 때는 전화를 걸거나 받지 말라고 안내한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.mutianyugreatwall.com/cnInformation",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "Ticket phone numbers: cnInformation section 7 lists 票务咨询电话 61626894 / 61626505转869 and a cable-car rescue line 61626849. The page footer and cndetailcon1941 list 票务 010-61626928",
+    "Seniors: cndetailcon2366 (2021, stale) says seniors 60+ from outside Beijing pay half price online. The current cnInformation says only 老年票 with no amount. Do not publish 'half price' from the stale page",
+    "Booking: cndetailcon2366 (2021) says 买票时无需预约 (purchase counts as the booking). The current cnInformation requires 实名制预约购票 up to 30 days ahead",
+    "Stale sources (>12 months): cndetailcon1941 (2021-01-21), cndetailcon2366 (2021-03-01), cndetailcon1103 (2017-05-13), cndetailcon1101 (2024-05-01)",
+    "Unconfirmed items after 2 lookups: no ticket prices (cnTickets loads no price text). Access/transport: cnTraffic has no text content. Not found: duration, closed days, coordinates, Korean-language guide"
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "bj-palace",
@@ -7944,14 +8348,14 @@
   {
    "id": "nature-zjj-01",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "장자제 국가삼림공원·우링위안 핵심 관광구",
     "local": "张家界国家森林公园／武陵源核心景区"
    },
    "admin_region": "후난성",
    "city": "장자제 우링위안구",
-   "address": null,
+   "address": "湖南省张家界市武陵源区",
    "coord": {
     "lat": 29.050289,
     "lng": 110.478616,
@@ -7961,26 +8365,43 @@
     "confidence": "medium",
     "osm": "way/573098921"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
+   "summary": "우링위안 핵심 경구는 후난성 장자제시 우링위안구에 있는 5A급 경구입니다.",
+   "description": "우링위안 핵심 경구는 후난성 장자제시 우링위안구에 있는 5A급 경구입니다. 입장권은 1인당 165위안이며 연속 4일간 유효해서 며칠에 걸쳐 둘러볼 수 있습니다. 성수기와 비수기 구분 없이 같은 가격이고, 이 가격에는 교통수단 요금이 포함되지 않습니다.",
+   "highlights": [
+    "입장권 1인당 165위안",
+    "한 번 입장하면 연속 4일간 유효",
+    "성수기·비수기 구분 없이 같은 가격",
+    "가격에 교통수단 요금은 포함되지 않음"
+   ],
    "details": {},
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "우링위안 핵심 경구는 후난성 정부 관리 가격 경구 목록에서 장자제시 소속 5A급 경구로 올라 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://fgw.hunan.gov.cn/fgw/jgzc11/202507/t20250724_33748635.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "도로명 주소·좌표를 공식 출처에서 확인하지 못함. 장자제시 정부(zjj.gov.cn)와 우링위안 관리 사이트가 열리지 않음(official_unreachable). 주소 필드는 입력받은 행정구역 수준만 표기함."
+     ]
     },
     "access": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "official_unreachable",
+      "note": "입구(우링위안문·장자제문 등), 가까운 정류장, 환경보호차·케이블카 접근 정보를 공식 출처에서 확인하지 못함(official_unreachable)."
      },
      "partial_gaps": []
     },
@@ -7988,8 +8409,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "소요시간 공식 안내 없음."
      },
      "partial_gaps": []
     },
@@ -7997,8 +8418,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "official_unreachable",
+      "note": "운영시간·입장 마감 공식 안내를 열지 못함(official_unreachable)."
      },
      "partial_gaps": []
     },
@@ -8006,26 +8427,92 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "official_unreachable",
+      "note": "정기 휴무 공식 안내 없음(official_unreachable)."
      },
      "partial_gaps": []
     },
     "fees": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "우링위안 핵심 경구 입장권은 1인당 165위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://fgw.hunan.gov.cn/fgw/jgzc11/202507/t20250724_33748635.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "입장권은 연속 4일간 유효하다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://fgw.hunan.gov.cn/fgw/jgzc11/202507/t20250724_33748635.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202412/t20241211_33522988.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "165위안에는 교통수단 요금이 포함되지 않는다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://fgw.hunan.gov.cn/fgw/jgzc11/202507/t20250724_33748635.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "성수기·비수기 구분 없이 같은 가격이 적용되는 통일 가격이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202412/t20241211_33522988.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "이 가격안은 2024년 11월 29일 청문회에서 참가자 27명이 모두 동의했고 성 발개위가 채택했다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202412/t20241211_33522988.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "우링위안 핵심 경구에만 적용되는 무료·반값 대상은 2025년 시행 문서 원문을 열지 못해 확정하지 못함(2020년 통지 湘发改价费规〔2020〕722号는 첨부 문서로만 제공). 후난성 경구 일반 규정(14세 미만·65세 이상 무료 등)은 이 경구에 적용된다고 해당 페이지가 명시하지 않아 제외.",
+      "환경보호차·케이블카·백룡엘리베이터 등 교통수단 요금은 시 발개위/zjj.gov.cn 문서에 있으나 접속 불가(official_unreachable)."
+     ]
     },
     "reservation": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "official_unreachable",
+      "note": "실명·시간대 예약, 일일 입장 제한, 외국인 여권 예약 방법을 공식 출처에서 확인하지 못함(official_unreachable). 비공식 기사에만 언급됨."
      },
      "partial_gaps": []
     },
@@ -8033,8 +8520,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "official_unreachable",
+      "note": "외국 카드·현금 사용 가능 여부 공식 안내 없음(official_unreachable)."
      },
      "partial_gaps": []
     },
@@ -8042,8 +8529,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "official_unreachable",
+      "note": "한국어 안내 유무 공식 안내 없음(official_unreachable)."
      },
      "partial_gaps": []
     },
@@ -8051,26 +8538,30 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "official_unreachable",
+      "note": "혼잡 시기·안전 수칙 공식 안내를 찾지 못함(official_unreachable)."
      },
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "Stale sources: the hearing notice (2024-12-11) and the 2025 list (2025-07-24) are both more than 12 months old. No newer official page was found",
+    "Within 2 lookups, only secondary sources were found for the transport fee (e.g. a 2026 article citing a 236 CNY ticket + eco-bus combo). They are not official and are not suggested",
+    "Still unconfirmed: hours, eco-bus fare, discounts, reservation, payment, language"
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "nature-zjj-02",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "천문산",
     "local": "天门山国家森林公园"
    },
    "admin_region": "후난성",
    "city": "장자제 융딩구",
-   "address": null,
+   "address": "湖南省张家界市",
    "coord": {
     "lat": 29.045984,
     "lng": 110.480881,
@@ -8080,26 +8571,43 @@
     "confidence": "medium",
     "osm": "relation/13042332"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
+   "summary": "천문산(톈먼산)은 후난성 장자제시에 있는 5A급 경구입니다.",
+   "description": "천문산(톈먼산)은 후난성 장자제시에 있는 5A급 경구입니다. 입장권 정부지도가격은 2025년 8월 1일부터 1인당 72위안이며 자원유상사용료가 포함됩니다. 14세 미만 어린이, 65세 이상 노인, 장애인, 현역군인 등은 유효한 증명서를 보여 주면 입장이 무료이고, 14세 이상 18세 미만 청소년, 60세 이상 65세 미만 노인, 전일제 대학 본과 이하 재학생은 반값입니다. 보험은 선택 사항이라 원하는 사람만 별도 창구에서 삽니다.",
+   "highlights": [
+    "입장권 1인당 72위안 (자원유상사용료 포함)",
+    "14세 미만·65세 이상·장애인·현역군인 등은 입장 무료",
+    "청소년(14~17세), 60~64세 노인, 전일제 본과 이하 재학생은 반값",
+    "보험은 선택 사항, 원하는 사람만 별도 창구에서 구매"
+   ],
    "details": {},
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "천문산 경구는 후난성 정부 관리 가격 경구 목록에서 장자제시 소속 5A급 경구로 올라 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://fgw.hunan.gov.cn/fgw/jgzc11/202507/t20250724_33748635.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "도로명 주소·행정구(융딩구) 표기와 좌표를 공식 페이지에서 확인하지 못함. 장자제시 정부(zjj.gov.cn)와 천문산 운영사 공식 사이트가 열리지 않음(official_unreachable)."
+     ]
     },
     "access": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "official_unreachable",
+      "note": "역·정류장, 케이블카 노선별 접근 방법을 공식 출처에서 확인하지 못함(official_unreachable). 운영사 공식 사이트와 도시 정부 사이트에 접속 불가."
      },
      "partial_gaps": []
     },
@@ -8107,8 +8615,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "소요시간 공식 안내 없음."
      },
      "partial_gaps": []
     },
@@ -8116,8 +8624,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "official_unreachable",
+      "note": "운영시간·입장 마감을 운영사 공식 출처에서 확인하지 못함(official_unreachable). 언론 재게재 기사에는 케이블카 운행·판매 시간이 있으나 공식 페이지가 아니어서 제외함."
      },
      "partial_gaps": []
     },
@@ -8125,44 +8633,129 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "official_unreachable",
+      "note": "정기 휴무일 공식 안내 없음(official_unreachable)."
      },
      "partial_gaps": []
     },
     "fees": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "천문산 경구 입장권의 정부지도가격은 1인당 72위안이며 자원유상사용료가 포함된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "이 입장권 가격 통지는 2025년 8월 1일부터 시행되며 유효기간은 5년이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "14세 미만 어린이, 65세 이상 노인, 장애인, 현역군인과 그 가족, 열사 유가족 등, 장애군인, 군 퇴직 간부는 유효 증명서를 제시하면 입장권이 무료다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "14세 이상 18세 미만 미성년자, 60세 이상 65세 미만 노인, 전일제 대학 본과 이하 재학생은 유효 증명서를 제시하면 반값 입장권을 살 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "경구 내 종교 활동 장소의 같은 종교 성직자와 근무자는 유효 증명서로 해당 장소에 갈 때 입장료가 면제된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "경구는 눈에 띄는 곳에 입장권 가격과 우대 범위를 공시해야 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "케이블카·천문동 쾌속 케이블카 요금은 시 발개위 문서가 필요하나 zjj.gov.cn에 접속할 수 없음(official_unreachable). 입장권 72위안에는 케이블카가 포함되는지 공식 문구가 없음.",
+      "입장권 금액: 성 발개위 2025년 정부 관리 가격 목록(문서 日期 2025-04-03)은 62위안(https://fgw.hunan.gov.cn/fgw/jgzc11/202507/t20250724_33748635.html), 2025-08-25 통지(湘发改价费〔2025〕517号)는 2025-08-01부터 72위안(http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html). 후자가 나중에 시행되어 72위안을 채택함."
+     ]
     },
     "reservation": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "official_unreachable",
+      "note": "실명·시간대 예약, 외국인(여권) 예매 방법을 공식 출처에서 확인하지 못함(official_unreachable). 비공식 예약대행 사이트만 확인됨."
      },
      "partial_gaps": []
     },
     "payment": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "경구는 입장권을 팔면서 보험료를 대신 걷으면 안 되며, 보험을 자발적으로 사려는 관광객에게는 별도 요금 창구를 마련해야 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "외국 카드·현금·모바일 결제 가능 여부 공식 안내 없음(official_unreachable)."
+     ]
     },
     "language": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "official_unreachable",
+      "note": "한국어 안내·오디오가이드 유무 공식 안내 없음(official_unreachable)."
      },
      "partial_gaps": []
     },
@@ -8170,14 +8763,20 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "케이블카 상단 구간 개조 공사 중단·천문동 쾌속 케이블카 점검(10월 8~12일) 같은 운행 변동은 언론 재게재 기사에만 있고 운영사 공식 공고를 열지 못해 확정하지 못함. 방문 전 운영사 공지 확인 필요."
      },
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "Ticket price: the Hunan 2025 government-priced scenic area list (湘发改价费〔2025〕204号, dated 2025-04-03, posted 2025-07-24) shows 天门山景区 at 62 CNY. The later notice 517号, effective 2025-08-01, sets 72 CNY. 72 is current",
+    "Stale sources: both Hunan DRC pages are more than 12 months old (2025-07-24 and 2025-08-25). The notice is still within its 5-year validity",
+    "name_local '天门山国家森林公园' differs from the official name in the sources, '天门山景区'",
+    "The suggested hours and access claims come from Hunan Daily (新湖南, provincial state media) reposts marked 来源：张家界天门山景区. They are not the operator's own site; the official Tianmen site was not found within 2 lookups",
+    "Still unconfirmed: cableway and package prices, reservation, payment, language, closed days, duration"
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "nature-zjj-03",

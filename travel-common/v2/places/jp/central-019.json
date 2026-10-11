@@ -2,7 +2,7 @@
  "id": "central-019",
  "country": "jp",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "나고야성·혼마루어전",
   "local": "名古屋城・本丸御殿"
@@ -10,7 +10,7 @@
  "admin_region": "아이치",
  "former_region": null,
  "city": "나고야시",
- "address": null,
+ "address": "〒460-0031 愛知県名古屋市中区本丸1番1号",
  "coord": {
   "lat": 35.184982,
   "lng": 136.899698,
@@ -21,93 +21,764 @@
   "osm": "relation/15970225"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "1615년 도쿠가와 이에야스가 지은 나고야성은 국가 특별사적이며, 복원된 혼마루어전과 중요문화재 건축물, 정원, 석벽, 사계절 꽃나무를 볼 수 있다.",
+ "description": "1615년 도쿠가와 이에야스가 지은 나고야성은 국가 특별사적이며, 복원된 혼마루어전과 중요문화재 건축물, 정원, 석벽, 사계절 꽃나무를 볼 수 있다. 혼마루어전은 2018년 완성된 복원 건물로 금빛 장벽화와 화려한 장식이 이어지며 입장 시 신발을 벗어야 하고 플래시 없이 촬영할 수 있다. 현재 천수각 안에는 들어갈 수 없지만 성 입장은 가능하다. 개원 시간은 9:00~16:30이고 혼마루어전은 16:00까지 입장하며, 입장료는 2026년 10월 1일부터 성인 1,000엔, 중학생 이하 무료다. 지하철 메이조선 나고야성역 7번 출구에서 도보 약 5분이고 성 전체를 보는 데 약 1시간~1시간 30분이 걸린다.",
+ "highlights": [
+  "복원된 혼마루어전의 장벽화와 장식을 감상하며 2018년 완성 모습을 본다",
+  "천수각은 입장 불가이나 중요문화재 건축물, 정원, 석벽, 약 900그루 벚나무를 즐길 수 있다",
+  "입장료 성인 1,000엔(2026년 10월 1일부터), 중학생 이하 무료",
+  "지하철 나고야성역 7번 출구에서 도보 약 5분",
+  "성 전체 관람 약 1시간~1시간 30분, 한국어 공식 사이트 제공"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c7",
+    "r1-b15-c8",
+    "r1-b15-c9",
+    "r1-b15-c10",
+    "r1-b15-c11",
+    "r1-b15-c12"
+   ],
+   "gap": null
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c13"
+   ],
+   "gap": null
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c14",
+    "r1-b15-c15",
+    "r1-b15-c16"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "혼마루어전 입관 시간 9:00~16:00 외 계절별 연장 시간은 공식 페이지에 없음. 정문·동문 개문 시간 별도 기재 없음.",
+     "detail": "hours",
+     "run": "r1-b15"
+    }
+   ]
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c17"
+   ],
+   "gap": null
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c19",
+    "r1-b15-c20",
+    "r1-b15-c21",
+    "r1-b15-c22"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "충돌 아님: 요금 개정(2026-10-01 시행, 이전 500엔). 구 요금이 FAQ에 '一般500円'로 병기되어 있으므로 반영 시 현행 1,000엔 사용.",
+     "detail": "fees.conflict",
+     "run": "r1-b15"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c23"
+   ],
+   "gap": null
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c24"
+   ],
+   "gap": null
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c25"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "혼마루어전 음성 가이드(20개 지점)의 지원 언어와 한국어 유무는 해당 공식 페이지 본문에서 확인되지 않음. 한국어 관광 안내 유무도 불명.",
+     "detail": "language",
+     "run": "r1-b15"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c18",
+    "r1-b15-c26",
+    "r1-b15-c27",
+    "r1-b15-c28"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b15-c1",
+   "field": "location",
+   "text": "주소는 〒460-0031 아이치현 나고야시 나카구 혼마루 1번 1호이다.",
+   "original_text": null,
+   "value": "〒460-0031 愛知県名古屋市中区本丸1番1号",
+   "verdict": "verified",
+   "verify_note": "Footer of info/: 〒460-0031 名古屋市中区本丸1番1号.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c2",
+   "field": "description",
+   "text": "나고야성은 1615년 도쿠가와 이에야스가 세웠고, 성으로서 처음 국보로 지정되었으나 전쟁으로 소실된 뒤 현재는 국가 특별사적이다.",
+   "original_text": null,
+   "value": "1615",
+   "verdict": "verified",
+   "verify_note": "Home page: built by 徳川家康 in 1615; 城郭として国宝第一号; lost in the war; 国の特別史跡.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c3",
+   "field": "highlight",
+   "text": "혼마루어전은 1615년 완성된 번주의 거처이자 정청으로, 1945년 공습으로 소실된 뒤 복원되어 2018년 완성되었다.",
+   "original_text": null,
+   "value": "2018",
+   "verdict": "verified",
+   "verify_note": "honmarugoten: completed 1615, lost in the 1945 air raid, restoration completed 2018.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c4",
+   "field": "highlight",
+   "text": "혼마루어전은 방마다 천장, 란마, 장식 금구, 장벽화의 구성이 다르며, 현관은 금지 바탕의 '죽림표호도' 장벽화로 꾸며져 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "honmarugoten: 玄関 has gold-ground 竹林豹虎図.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c5",
+   "field": "highlight",
+   "text": "성내에는 천수각 외에도 혼마루어전, 중요문화재 건축물, 정원, 석벽, 사계절 꽃과 나무가 있으며 벚나무는 약 900그루, 매화는 약 70그루이다.",
+   "original_text": null,
+   "value": "벚나무 약 900, 매화 약 70",
+   "verdict": "verified",
+   "verify_note": "FAQ: about 900 cherry trees and about 70 plum trees.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/faq/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c6",
+   "field": "highlight",
+   "text": "천수각 등불은 매일 일몰부터 오후 11시까지 켜지며, 매월 8일은 오후 9시 30분까지이고 절전 캠페인으로 일찍 꺼질 수 있다.",
+   "original_text": null,
+   "value": "일몰~23:00",
+   "verdict": "verified",
+   "verify_note": "FAQ: on the 8th of each month (環境デー) lights go off at 21:30; may go off earlier for the ライトダウンキャンペーン.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/faq/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c7",
+   "field": "access",
+   "text": "지하철 메이조선 '나고야성'역 7번 출구에서 도보 5분이다.",
+   "original_text": null,
+   "value": "도보 5분",
+   "verdict": "verified",
+   "verify_note": "Matches access/.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c8",
+   "field": "access",
+   "text": "메이테쓰 세토선 '히가시오오테'역에서는 도보 15분이고, 시영버스 사카에13계통 '나고야성 정문앞' 정류장이 있다.",
+   "original_text": null,
+   "value": "도보 15분",
+   "verdict": "verified",
+   "verify_note": "Meitetsu 東大手 15 min on foot; city bus 栄13号系統 to 名古屋城正門前.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c9",
+   "field": "access",
+   "text": "나고야역에서 지하철로 약 15분(환승 1회), 관광루트버스 메구루로 약 20분, 차로 약 15분이다. 주부국제공항(센트레아)에서는 철도로 약 45분(환승 1회)이다.",
+   "original_text": null,
+   "value": "역 15분 / 메구루 20분 / 공항 45분",
+   "verdict": "verified",
+   "verify_note": "Matches the FAQ.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/faq/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c10",
+   "field": "parking",
+   "text": "정문 앞 주차장은 보통차 308대, 30분 이내마다 250엔이며 이용 가능 시간은 8:45~21:30(1월 2일~12월 28일)이다.",
+   "original_text": null,
+   "value": "308대 / 250엔/30분 / 8:45~21:30",
+   "verdict": "verified",
+   "verify_note": "Matches access/.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c11",
+   "field": "parking",
+   "text": "니노마루 히가시 주차장은 보통차 123대, 30분 이내마다 250엔이며 이용 가능 시간은 8:30~22:30(1월 2일~12월 28일)이다.",
+   "original_text": null,
+   "value": "123대 / 250엔/30분 / 8:30~22:30",
+   "verdict": "verified",
+   "verify_note": "Matches access/.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c12",
+   "field": "parking",
+   "text": "대형차 야간 주차를 제외하면 주차장 예약 제도는 없고 선착순이다.",
+   "original_text": "대형차를 제외한 주차장 예약 제도는 없고 선착순이다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "FAQ: 大型車の夜間宿泊以外での駐車場の予約制度はありません. The exception is overnight large vehicles, not all large vehicles.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/faq/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c13",
+   "field": "duration",
+   "text": "혼마루어전을 포함해 성내 전체를 천천히 보는 데 약 1시간~1시간 30분이 걸린다.",
+   "original_text": null,
+   "value": "약 1시간~1시간 30분",
+   "verdict": "verified",
+   "verify_note": "info/ and FAQ: about 1h to 1h30.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c14",
+   "field": "hours",
+   "text": "개원 시간은 9:00~16:30이며, 혼마루어전과 니시노마루 고쿠라조호칸의 입장은 16:00까지이다.",
+   "original_text": null,
+   "value": "9:00~16:30 (혼마루어전 입장 16:00까지)",
+   "verdict": "verified",
+   "verify_note": "Matches info/.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c15",
+   "field": "hours",
+   "text": "혼마루어전 입구까지는 정문·동문에서 도보 약 10분 걸리므로 입장하려면 16시까지 어전 입구에 도착해야 한다.",
+   "original_text": null,
+   "value": "도보 약 10분",
+   "verdict": "verified",
+   "verify_note": "Matches info/.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c16",
+   "field": "hours",
+   "text": "혼마루어전 입관 시간은 9:00~16:00이다.",
+   "original_text": null,
+   "value": "9:00~16:00",
+   "verdict": "verified",
+   "verify_note": "honmarugoten: 入館時間 9:00-16:00.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c17",
+   "field": "closed_days",
+   "text": "휴원일은 12월 29일~31일과 1월 1일(4일간)이며 행사 등으로 바뀔 수 있다.",
+   "original_text": null,
+   "value": "12/29~1/1",
+   "verdict": "verified",
+   "verify_note": "Matches info/.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c18",
+   "field": "caution",
+   "text": "천수각이 폐관 중이어서 천수각 등 안에는 들어갈 수 없지만, 성 입장은 가능하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "FAQ and home: 本日開園 (天守閣等の中には入れません).",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/faq/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c19",
+   "field": "fees",
+   "text": "관람료는 2026년 10월 1일부터 개인 성인 1,000엔이고 중학생 이하는 무료다. 나고야시 거주 65세 이상은 300엔이다.",
+   "original_text": null,
+   "value": "성인 1,000엔 / 중학생 이하 무료 / 시내 65세 이상 300엔",
+   "verdict": "verified",
+   "verify_note": "fee/: changed on 令和8年10月1日 (2026-10-01), already in effect.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/fee/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c20",
+   "field": "fees",
+   "text": "30명 이상 단체는 성인 900엔, 100명 이상 단체는 800엔이다. 도쿠가와엔 공통권은 성인 1,040엔(현금만), 정기권(1년)은 성인 4,000엔이다.",
+   "original_text": null,
+   "value": "900/800엔 / 공통권 1,040엔 / 정기권 4,000엔",
+   "verdict": "verified",
+   "verify_note": "Matches fee/.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/fee/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c21",
+   "field": "fees",
+   "text": "혼마루어전 입관료는 무료이나 나고야성 관람료는 별도로 필요하다.",
+   "original_text": null,
+   "value": "어전 무료(성 관람료 별도)",
+   "verdict": "verified",
+   "verify_note": "honmarugoten: 入館料無料, 名古屋城観覧料が必要.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c22",
+   "field": "fees",
+   "text": "장애인 수첩 등 소지자와 보호자(필요 시 2명까지)는 관람료가 무료이며 개찰구에서 수첩을 제시한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "fee/: holder plus carers (up to 2 if needed); show the card at the gate. Only cards issued under Japanese law count.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/fee/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c23",
+   "field": "reservation",
+   "text": "단체 관람에는 사전 예약이 필요 없다.",
+   "original_text": "성 입장과 단체 관람에 사전 예약은 필요 없다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "The FAQ only says groups need no booking (団体予約は必要ですか→必要ありません). It says nothing on individual booking, and fee/ links to WEB tickets.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/faq/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c24",
+   "field": "payment",
+   "text": "입장권 창구에서 일본 엔 현금과 신용카드(VISA, Mastercard, JCB, 은련, AMEX, Diners, Discover), 교통계 IC, iD·QUICPay, PayPay, Alipay, WeChat Pay 등 캐시리스 결제를 쓸 수 있다. 도쿠가와엔 공통권은 현금만 가능하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "fee/: the listed payment methods are present; the 徳川園 joint ticket is cash only.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/fee/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c25",
+   "field": "language",
+   "text": "공식 사이트에 한국어 페이지가 있다(개원 정보와 입장 대기 시간 안내 포함).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "/ko/ shows 개원 정보 and the current 혼마루어전 waiting time.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/ko/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c26",
+   "field": "caution",
+   "text": "혼마루어전은 입구에서 신발을 벗어야 하고, 장벽화 보호를 위해 플래시 촬영만 금지되며 촬영 자체는 가능하다. 음식과 흡연은 불가하고 큰 짐은 어전 안 무료 사물함에 맡긴다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "honmarugoten and FAQ agree. The page also bans mobile phone use inside the palace, which is not in the claim.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/faq/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c27",
+   "field": "caution",
+   "text": "어전 내부는 조명을 줄여 복원했으며 냉난방 설비와 화장실이 없으므로 컨디션에 주의해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches honmarugoten.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c28",
+   "field": "caution",
+   "text": "반려동물은 리드를 하면 성내 입장이 되나 혼마루어전·니시노마루 고쿠라조호칸 등 건물 안은 금지이다(보조견 제외).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches the FAQ.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/faq/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c29",
+   "field": "tip",
+   "text": "정문·동문에 코인로커가 있고, 들어가지 않는 짐은 정문 종합안내소에서 1개 300엔에 맡길 수 있다. 휠체어는 정문·동문 개찰구에서 빌릴 수 있다(예약 불가).",
+   "original_text": null,
+   "value": "짐 1개 300엔",
+   "verdict": "verified",
+   "verify_note": "Matches the FAQ.",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/faq/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-s1",
+   "field": "language",
+   "text": "공식 사이트에 혼마루어전 음성 가이드(웹, 20개 지점)와 해설 PDF가 있으며, 이용 시 이어폰 사용을 요청한다. 페이지에 지원 언어는 표시되어 있지 않다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/castle_guide/voiceguide/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-s2",
+   "field": "caution",
+   "text": "혼마루어전 안에서는 휴대전화를 사용할 수 없고 맨발·스타킹 차림은 비치된 슬리퍼로 갈아신어야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b15",
+   "text": "No conflict on fees. fee/, home and FAQ ('一般500円（令和8年10月1日以降は1,000円）') agree that 1,000 yen applies from 2026-10-01. No sources are stale."
+  }
+ ],
  "legacy": {
   "source": "japan-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -179,6 +850,32 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b15",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 29,
+    "verdicts": {
+     "verified": 27,
+     "corrected": 2,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 2
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b15"
  }
 }

@@ -2,7 +2,7 @@
  "id": "WEST-026",
  "country": "jp",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "다자이후 덴만구",
   "local": "太宰府天満宮"
@@ -10,7 +10,7 @@
  "admin_region": "후쿠오카",
  "former_region": null,
  "city": "다자이후시",
- "address": null,
+ "address": "〒818-0195 福岡県太宰府市宰府4丁目7-1",
  "coord": {
   "lat": 33.61943,
   "lng": 130.421366,
@@ -21,93 +21,1062 @@
   "osm": "way/666220512"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "다자이후 덴만구는 후쿠오카현 다자이후시에 있는 신사입니다.",
+ "description": "다자이후 덴만구는 후쿠오카현 다자이후시에 있는 신사입니다. 경내 입장은 무료이고, 10월 현재 6시 30분에 문을 열어 19시에 닫습니다. 2026년 9월 19일부터 약 3년 반 만에 본전 정면 참배가 다시 열렸습니다. 경내에는 하룻밤 사이 교토에서 날아왔다고 전해지는 비매화, 마음 심 자 모양 연못에 걸린 다리, 수령 1,500년이 넘는 큰 녹나무, 신의 사자인 소 동상 11기가 있습니다. 매화는 약 200품종 6,000그루가 2월부터 3월 초에 절정이고, 보물전에서는 국보 한원 등 약 1만 점의 문화재를 소장합니다. 니시테쓰 다자이후역에서 걸어서 5분 정도입니다.",
+ "highlights": [
+  "입장 무료, 10월 현재 6:30~19:00 개방",
+  "2026-09-19부터 본전 정면 참배 재개(약 3년 반 만)",
+  "비매화·큰 녹나무(수령 1,500년 이상, 국가 천연기념물)·소 동상 11기",
+  "매화 약 200품종 6,000그루(2월~3월 초), 꽃창포 약 30,000그루(5월 하순~6월 상순)",
+  "보물전에 문화재 약 1만 점 소장, 국보 한원 포함",
+  "10월은 특별 수험 합격 기원 대제 기간, 10/18에 대제"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b13-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b13-c2",
+    "r1-b13-c3",
+    "r1-b13-c4",
+    "r1-b13-c5",
+    "r1-b13-c6",
+    "r1-b13-c7",
+    "r1-b13-c8",
+    "r1-b13-c9",
+    "r1-b13-c10"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "하카타 버스터미널~다자이후역 직행버스 소요시간이 같은 access 페이지 안에서 '約40分'(공공 교통 항목)과 '約45分'(하카타역 출발 항목)로 다르다. URL: https://www.dazaifutenmangu.or.jp/access",
+     "detail": "access.conflict",
+     "run": "r1-b13"
+    }
+   ]
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b13-c27"
+   ],
+   "gap": null
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b13-c11",
+    "r1-b13-c12",
+    "r1-b13-c13",
+    "r1-b13-c14",
+    "r1-b13-c15",
+    "r1-b13-c16",
+    "r1-b13-c21"
+   ],
+   "gap": null
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b13-c17",
+    "r1-b13-c22"
+   ],
+   "gap": null
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b13-c18",
+    "r1-b13-c19",
+    "r1-b13-c20"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "기원(初穂料) 금액은 조사한 페이지에서 확인하지 못했다.",
+     "detail": "fees.prayer",
+     "run": "r1-b13"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b13-c23",
+    "r1-b13-c24"
+   ],
+   "gap": null
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b13-c25"
+   ],
+   "gap": null
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b13-c26"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 오디오 가이드 유무는 공식 페이지에서 확인하지 못했다.",
+     "detail": "language.audio_guide",
+     "run": "r1-b13"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b13-c28",
+    "r1-b13-c29",
+    "r1-b13-c30"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "혼잡 시기 안내는 정월(교통 규제 12/31 23:00~1/1 18:00, 1/2~3 9:00~18:00)만 FAQ에 있으며 2026년 11월 이후 최신 안내는 확인하지 못했다.",
+     "detail": "caution.crowd",
+     "run": "r1-b13"
+    }
+   ]
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b13-c1",
+   "field": "location",
+   "text": "다자이후 덴만구의 주소는 〒818-0195 후쿠오카현 다자이후시 사이후 4초메 7-1이다.",
+   "original_text": null,
+   "value": "818-0195 福岡県太宰府市宰府4丁目7-1",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/access",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c2",
+   "field": "access",
+   "text": "니시테쓰 후츠카이치역에서 니시테쓰 다자이후선 다자이후역까지 전철로 약 6분이다.",
+   "original_text": null,
+   "value": "약 6분",
+   "verdict": "verified",
+   "verify_note": "관광열차 旅人 항목과 二日市駅 출발 항목 모두 약 6분",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/access",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c3",
+   "field": "access",
+   "text": "니시테쓰 다자이후역에서 내려 도보 5분이다.",
+   "original_text": null,
+   "value": "도보 5분",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/access",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c4",
+   "field": "access",
+   "text": "후쿠오카(텐진)역에서 니시테쓰 전철로 후츠카이치역 환승해 다자이후역까지 약 35분이다.",
+   "original_text": null,
+   "value": "약 35분",
+   "verdict": "verified",
+   "verify_note": "西鉄電車約35分",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/access",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c5",
+   "field": "access",
+   "text": "후쿠오카 공항 국제선 터미널에서 직행 버스 '타비토(旅人)'로 다자이후역까지 약 25분이며, 예약 없이 탈 수 있다.",
+   "original_text": null,
+   "value": "약 25분",
+   "verdict": "verified",
+   "verify_note": "太宰府観光バス 旅人, 予約不要",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/access",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c6",
+   "field": "access",
+   "text": "니시테쓰 후츠카이치역~다자이후역 구간에서 관광 열차 '타비토'가 예약·특별 요금 없이 운행된다.",
+   "original_text": null,
+   "value": "예약 불필요, 추가요금 없음",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/access",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c7",
+   "field": "access",
+   "text": "자동차로는 규슈 자동차도 다자이후 IC에서 약 15분(약 6km)이다.",
+   "original_text": null,
+   "value": "약 15분, 약 6km",
+   "verdict": "verified",
+   "verify_note": "筑紫野IC 약 20분, 水城IC 약 15분도 있음",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/access",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c8",
+   "field": "parking",
+   "text": "근처 주차장으로 다자이후 주차센터(8시~17시)가 있으며 참배길을 걸어 도보 7분이다. 대형버스·마이크로버스 23대, 승용차 850대, 오토바이 15대를 수용한다.",
+   "original_text": null,
+   "value": "승용차 850대 / 대형·마이크로 23대 / 오토바이 15대",
+   "verdict": "verified",
+   "verify_note": "주소 太宰府市宰府1丁目12-8, 승용차 요금 표기 없음",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/access",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c9",
+   "field": "parking",
+   "text": "혼잡기 정체 때는 '고조(五条)' 교차로 방면 외에서의 입고를 거절할 수 있고, 대형버스는 사전 연락이 필요하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/access",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c10",
+   "field": "parking",
+   "text": "50cc 이상 오토바이는 다자이후 주차센터(도보 7분)를 유료 250엔에 이용할 수 있고, 자전거·원동기 자전거는 니시테쓰 다자이후역 주륜장(무료)을 이용한다.",
+   "original_text": null,
+   "value": "오토바이 250 JPY, 자전거 무료",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/faq",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c11",
+   "field": "hours",
+   "text": "개문 시각은 춘분 날부터 6:00, 추분 날부터 6:30이다.",
+   "original_text": null,
+   "value": "춘분~ 06:00 / 추분~ 06:30",
+   "verdict": "verified",
+   "verify_note": "omairi에서 확인. 두 번째 URL(access)에는 참배 시간이 없음",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/omairi",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/access",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c12",
+   "field": "hours",
+   "text": "폐문 시각은 4~5월·9~11월 19:00, 6~8월 19:30, 12~3월 18:30이다.",
+   "original_text": null,
+   "value": "4-5·9-11월 19:00 / 6-8월 19:30 / 12-3월 18:30",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/omairi",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c13",
+   "field": "hours",
+   "text": "조사 시점(2026-10-11)에는 임시 참배 시간 안내가 없다고 공지되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "現在、臨時参拝時間のご案内はございません",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/omairi",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c14",
+   "field": "hours",
+   "text": "아침 참배(朝拝)는 매일 8:30부터 누구나 참석할 수 있으나 신사 사정으로 하지 않는 날도 있다.",
+   "original_text": null,
+   "value": "08:30",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/omairi",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c15",
+   "field": "hours",
+   "text": "기원 접수 시간은 9:00~16:30이며 제전 등에 따라 바뀔 수 있다(1월 1~3일은 24시간 접수).",
+   "original_text": "기원 접수 시간은 8:45경~17:00경이며 제전 등에 따라 바뀔 수 있다.",
+   "value": "08:45경-17:00경",
+   "verdict": "outdated",
+   "verify_note": "FAQ에는 8:45頃~17:00頃이 남아 있음. 2026-05-17 공지(archives/1866)와 kigan/juken 페이지는 9:00~16:30",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/faq",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c16",
+   "field": "hours",
+   "text": "2026년 5월 17일 이후 기원제는 세이신칸 기시키덴(誠心館 儀式殿)에서 열리며 기원 시간은 9:00~16:30이다.",
+   "original_text": null,
+   "value": "09:00-16:30",
+   "verdict": "verified",
+   "verify_note": "企業・団体은 사전 전화 필요(092-922-8225, 9~16시)",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/archives/1866",
+     "type": "official",
+     "page_updated": "2026-05-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c17",
+   "field": "closed_days",
+   "text": "한국어 공식 FAQ는 다자이후 덴만구가 일 년 내내 운영된다고 안내한다(시기별 운영 시간만 다름).",
+   "original_text": null,
+   "value": "연중 운영",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/kr/plan/faq/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c18",
+   "field": "fees",
+   "text": "다자이후 덴만구는 입장료가 없어 무료로 본전을 참배하고 경내를 산책할 수 있다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/kr/plan/faq/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c19",
+   "field": "fees",
+   "text": "보물전 관람료는 개인 기준 일반 500엔, 대학생·고등학생 200엔, 중학생·소학생 100엔이다.",
+   "original_text": null,
+   "value": "500/200/100 JPY",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden",
+     "type": "official",
+     "page_updated": "2023-03-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c20",
+   "field": "fees",
+   "text": "보물전 단체(30명 이상) 요금은 일반 400엔, 대학생·고등학생 100엔, 중학생·소학생 50엔이다.",
+   "original_text": null,
+   "value": "400/100/50 JPY",
+   "verdict": "verified",
+   "verify_note": "단체 방문 시 사전 연락 요청",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden",
+     "type": "official",
+     "page_updated": "2023-03-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c21",
+   "field": "hours",
+   "text": "보물전은 9:00~16:30(입관 16:00까지)이다.",
+   "original_text": null,
+   "value": "09:00-16:30, 입관 16:00",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden",
+     "type": "official",
+     "page_updated": "2023-03-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c22",
+   "field": "closed_days",
+   "text": "보물전은 월요일이 휴관이며(공휴일·대체 휴일이면 개관), 전시 교체로 임시 휴관할 수 있다.",
+   "original_text": null,
+   "value": "월요일",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden",
+     "type": "official",
+     "page_updated": "2023-03-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c23",
+   "field": "reservation",
+   "text": "개인 기원(ご祈願)은 예약이 필요 없고 누문 안 기원 접수소에서 신청한다.",
+   "original_text": null,
+   "value": "예약 불필요",
+   "verdict": "verified",
+   "verify_note": "FAQ와 archives/1866 모두 楼門内の祈願受付所",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/faq",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c24",
+   "field": "reservation",
+   "text": "무료 가이드 서비스는 예약제이다.",
+   "original_text": null,
+   "value": "예약제",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/faq",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c25",
+   "field": "payment",
+   "text": "보물전과 경내 입구의 안내소는 신용카드로 결제할 수 있고, 그 밖의 부적 판매소 등은 현금만 받는다.",
+   "original_text": null,
+   "value": "보물전·안내소 카드 가능, 그 외 현금",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/kr/plan/faq/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c26",
+   "field": "language",
+   "text": "공식 사이트에 한국어 페이지가 있고, 경내에서는 영어·한국어·번체·간체·프랑스어·태국어 팸플릿을 준비해 두었다.",
+   "original_text": null,
+   "value": "한국어 사이트·팸플릿",
+   "verdict": "verified",
+   "verify_note": "FAQ: 英語・韓国語・繁体語・簡体語・フランス語・タイ語 팸플릿, /kr/ 페이지 열림",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/faq",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/kr/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c27",
+   "field": "duration",
+   "text": "공식 한국어 FAQ는 경내와 박물관을 여유 있게 보려면 하루 일정을 잡으라고 권한다.",
+   "original_text": null,
+   "value": "종일(하루)",
+   "verdict": "verified",
+   "verify_note": "조건부 권고: 경내와 박물관·찻집·참배길 상점까지 여유 있게 보려면 종일",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/kr/plan/faq/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c28",
+   "field": "caution",
+   "text": "2024년 4월 1일부터 반려동물을 데리고 누문·회랑 안에 들어가는 것을 삼가야 한다(안내견·청도견·개조견 제외).",
+   "original_text": null,
+   "value": "2024-04-01부터",
+   "verdict": "verified",
+   "verify_note": "令和6年4月1日부터",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/faq",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c29",
+   "field": "caution",
+   "text": "본전 안 촬영과 삼각대 등으로 같은 자리에서 오래 찍는 것은 금지이며, 누문 안에서는 다른 참배객에게 폐가 되지 않게 촬영해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "드론·라이브 방송·상업 촬영도 금지",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/faq",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c30",
+   "field": "caution",
+   "text": "흡연은 규슈국립박물관행 에스컬레이터 입구 부근과 휴게소의 지정 장소에서만 가능하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/faq",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c31",
+   "field": "tip",
+   "text": "경내에는 코인로커가 없어 니시테쓰 다자이후역이나 다자이후칸을 이용해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/faq",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c32",
+   "field": "tip",
+   "text": "휠체어는 무료로 빌릴 수 있으며 사무소 또는 안내소에서 신청한다. 단차 없는 경로는 지도에 파란 선으로 표시된다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "경내 화장실 5곳 모두 휠체어 대응",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/keidaiannai/wheelchair",
+     "type": "official",
+     "page_updated": "2023-03-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c33",
+   "field": "description",
+   "text": "2026년 9월 19일부터 약 3년 반 만에 본전 정면 참배가 재개되었다.",
+   "original_text": null,
+   "value": "2026-09-19",
+   "verdict": "verified",
+   "verify_note": "令和8年9月19日 공지, 令和5年春부터 중단됐던 정면 참배 재개",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/archives/1980",
+     "type": "official",
+     "page_updated": "2026-09-19",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c34",
+   "field": "highlight",
+   "text": "비매화(飛梅)는 도읍에서 미치자네를 그리워해 하룻밤 사이 다자이후로 날아왔다고 전해지는 어신목으로, 본전을 향해 오른쪽에 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/keidaiannai",
+     "type": "official",
+     "page_updated": "2023-03-23",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c35",
+   "field": "highlight",
+   "text": "경내에는 소 동상(神牛) 11기가 봉납되어 있다.",
+   "original_text": null,
+   "value": "11기",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/faq",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c36",
+   "field": "highlight",
+   "text": "큰 녹나무(大樟)는 수령 1,500년이 넘고 국가 천연기념물로 지정되어 있다.",
+   "original_text": null,
+   "value": "1,500년 이상",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/keidaiannai",
+     "type": "official",
+     "page_updated": "2023-03-23",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c37",
+   "field": "highlight",
+   "text": "마음 심(心) 자 모양의 연못 '심자지'에 놓인 세 개의 다리는 각각 과거·현재·미래를 뜻한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/keidaiannai",
+     "type": "official",
+     "page_updated": "2023-03-23",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c38",
+   "field": "highlight",
+   "text": "경내에는 약 200품종 6,000그루의 매화가 있고 예년 2월~3월 초가 절정이다.",
+   "original_text": null,
+   "value": "약 200품종 6,000그루",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/faq",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c39",
+   "field": "highlight",
+   "text": "꽃창포는 창포 연못에 약 55품종 30,000그루가 피며 예년 5월 하순~6월 상순이 절정이다.",
+   "original_text": null,
+   "value": "약 55품종 30,000그루",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/faq",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c40",
+   "field": "highlight",
+   "text": "보물전은 미치자네 관련 문화재 약 1만 점을 소장하고 국보 '한원(翰苑)' 등을 갖추고 있다.",
+   "original_text": null,
+   "value": "약 1만 점",
+   "verdict": "verified",
+   "verify_note": "약 1만 점은 keidaiannai, 국보 翰苑은 houmotsuden 페이지",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/keidaiannai",
+     "type": "official",
+     "page_updated": "2023-03-23",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden",
+     "type": "official",
+     "page_updated": "2023-03-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c41",
+   "field": "tip",
+   "text": "10월 1~31일은 '특별 수험 합격 기원 대제' 기간이며, 10월 18일(일)에 10시·14시 두 차례 대제를 올린다. 기간 중 수험 합격 기원을 신청하면 한정 부적·에마 등을 받는다.",
+   "original_text": null,
+   "value": "10/18 10:00·14:00",
+   "verdict": "verified",
+   "verify_note": "2026년 대제는 仮殿에서 10시·14시, 올해부터 2회. 授与品은 お札・お守り・絵馬・掛け襟",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/archives/1807",
+     "type": "official",
+     "page_updated": "2026-10-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-s1",
+   "field": "fees.prayer",
+   "text": "수험 합격 기원의 초穂료(하쓰호료)는 10,000엔·8,000엔·6,000엔이며 단체는 10,000엔부터이다. 10월 대제 기간에만 받는 특별 수험 합격 기원은 20,000엔·15,000엔·8,000엔이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/kigan/juken",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-s2",
+   "field": "caution.crowd",
+   "text": "정월에는 후쿠오카현 경찰 지도로 임시 교통 규제가 있다(12월 31일 23시~1월 1일 18시, 1월 2·3일 9시~18시). 대중교통 이용을 권한다. 1월 4~6일은 기업 업무 시작 기원으로 붐빈다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/faq",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-s3",
+   "field": "access.conflict",
+   "text": "한국어 공식 FAQ는 덴진에서 30분, 하카타에서 45분이라고 안내한다. 일본어 액세스 페이지는 후쿠오카(텐진)역에서 약 35분, 하카타 버스터미널에서 직행버스 약 40분이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.dazaifutenmangu.or.jp/kr/plan/faq/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b13",
+   "text": "기원 접수 시간: FAQ는 8:45頃~17:00頃, archives/1866(2026-05-17)와 kigan/juken은 9:00~16:30. 최신 값인 9:00~16:30을 따라야 함(c15 outdated)."
+  },
+  {
+   "run": "r1-b13",
+   "text": "단체 기원 예약: kigan/juken은 '個人祈願・団体祈願ともにご予約は受け付けておりません', archives/1866은 기업·단체는 반드시 사전 전화 문의."
+  },
+  {
+   "run": "r1-b13",
+   "text": "한국어 FAQ(/kr/plan/faq/, 갱신일 표기 없음): 덴진 30분과 하카타 버스 45분이 일본어 액세스 페이지(35분/40분)와 다름. '다자이후 텐만구에는 주차장이 없습니다'라고 하지만 일본어 액세스 페이지는 太宰府駐車センター(850대, 문의 메일 @dazaifutenmangu.or.jp)를 근처 주차장으로 안내함."
+  },
+  {
+   "run": "r1-b13",
+   "text": "FAQ(일본어)에 令和8年 정월 안내가 그대로 남아 있음(일부 시기 지난 내용). 또 FAQ와 kigan/juken은 10월 18일 대제를 '御本殿にて'로 적었지만 2026년 공지(archives/1807)는 '仮殿にて'."
+  },
+  {
+   "run": "r1-b13",
+   "text": "parking.fee: 공식 페이지에서 승용차 요금을 찾지 못함. 검색에는 비공식 정보 사이트(odekake7.net)만 나와 근거로 쓰지 않음. language.audio_guide: 공식 페이지에서 오디오 가이드 안내를 찾지 못함."
+  }
+ ],
  "legacy": {
   "source": "japan-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -175,6 +1144,46 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b13",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 41,
+    "verdicts": {
+     "verified": 40,
+     "corrected": 0,
+     "outdated": 1,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.fee",
+   "note": "다자이후 주차센터의 승용차 요금이 공식 access 페이지에 없다(오토바이 250엔만 FAQ에 있음).",
+   "run": "r1-b13"
+  },
+  {
+   "topic": "stale_source",
+   "note": "보물전·휠체어 안내 페이지의 갱신일이 2023년이다(12개월 이상 경과). 최신 요금은 현장 확인이 필요하다.",
+   "run": "r1-b13"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "다자이후 덴만구는 스가와라노 미치자네를 모신 전국 덴만구의 총본궁이며 학문의 신으로 알려져 있습니다. (사이트 헤더·내비에 全国天満宮総本宮·学問の神様 표기는 있으나 뒷받침하는 claim이 없음)",
+   "보물전에 도서·미술 등 약 1만 점 소장: c40은 '문화재 약 1만 점'만 뒷받침하고 '도서·미술'은 뒷받침하지 않음"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b13"
  }
 }

@@ -2,7 +2,7 @@
  "id": "kr-busan-gamcheon-culture-village",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "감천문화마을",
   "local": "감천문화마을"
@@ -10,7 +10,7 @@
  "admin_region": "부산광역시",
  "former_region": null,
  "city": "부산 사하구 감내2로 203(안내센터) 일대",
- "address": null,
+ "address": "부산광역시 사하구 감내2로 203 (감천동, 마을안내센터)",
  "coord": {
   "lat": 35.096337,
   "lng": 129.00879,
@@ -21,93 +21,873 @@
   "osm": "way/382693934"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "한국전쟁 피란민과 1950년대 태극도 신앙촌 주민이 정착하며 형성된 부산 사하구의 산비탈 마을로, 천마산 자락을 따라 계단식 주택이 이어진다.",
+ "description": "한국전쟁 피란민과 1950년대 태극도 신앙촌 주민이 정착하며 형성된 부산 사하구의 산비탈 마을로, 천마산 자락을 따라 계단식 주택이 이어진다. 마을안내센터(감내2로 203)에서는 골목투어 지도 판매, 물품 보관소, 마을 해설사 소개를 이용할 수 있다. 사하구 추천 코스는 안내센터에서 하늘마루·작은박물관 등을 거치는 40분 왕복 코스와 1시간 20분 코스가 있다. 2026년 8월 1일 특별관리지역으로 고시되었고 시행일은 2027년 1월 1일이다. 2027년 1월 1일부터 주거 밀집지역은 09:00~18:00에만 방문할 수 있으며, 10인 이상 단체는 방문객 지도를 의무 구입해야 한다. 주민이 사는 마을이므로 일상을 존중해야 한다.",
+ "highlights": [
+  "계단식 주거지가 이어지는 피란민 산복마을",
+  "마을안내센터에서 골목투어 지도 판매·물품 보관·해설사 소개",
+  "40분 왕복 코스와 1시간 20분 알짜·스탬프 코스",
+  "2026.8.1 특별관리지역 고시, 2027.1.1 시행",
+  "2027.1.1부터 주거 밀집지역 방문 시간 09:00~18:00",
+  "대형버스 사전 예약제, 감내2로 관광객 탑승차량 통행 제한"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b11-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b11-c5",
+    "r1-b11-c6",
+    "r1-b11-c7",
+    "r1-b11-c8",
+    "r1-b11-c9",
+    "r1-b11-c10",
+    "r1-b11-c11",
+    "r1-b11-c17"
+   ],
+   "gap": null
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b11-c23",
+    "r1-b11-c24"
+   ],
+   "gap": null
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b11-c12",
+    "r1-b11-c14"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "마을 홈페이지 안내센터는 09:00~18:00(연중무휴), 한국관광공사 영문 페이지(english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894)는 Open 24 hr로 표기해 서로 다름. 비짓부산(visitbusan.net)은 503/접속 불가로 확인하지 못함",
+     "detail": "hours.conflict",
+     "run": "r1-b11"
+    }
+   ]
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b11-c13"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "마을 전체의 정기 휴무는 안내센터 연중무휴 외에 공식 문구 없음",
+     "detail": "closed_days",
+     "run": "r1-b11"
+    }
+   ]
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b11-c30"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "마을 공식 페이지(gamcheon.or.kr)와 사하구 페이지에 입장료 문구가 없고 무료 명시는 한국관광공사 영문 1곳뿐임. 운영자·관리기관의 무료 명시는 찾지 못함",
+     "detail": "fees",
+     "run": "r1-b11"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b11-c19",
+    "r1-b11-c28"
+   ],
+   "gap": null
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b11-c29"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "방문객 지도·기념품 현장 결제 수단(현금·카드·모바일)을 공식 페이지에서 찾지 못함",
+     "detail": "payment",
+     "run": "r1-b11"
+    }
+   ]
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b11-c31"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "해설사·오디오가이드의 언어 지원 여부를 공식 페이지에서 찾지 못함",
+     "detail": "language.korean_guide",
+     "run": "r1-b11"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b11-c15",
+    "r1-b11-c16",
+    "r1-b11-c18",
+    "r1-b11-c20",
+    "r1-b11-c21",
+    "r1-b11-c22"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b11-c1",
+   "field": "location",
+   "text": "마을안내센터의 주소는 부산광역시 사하구 감내2로 203(감천동)이다.",
+   "original_text": null,
+   "value": "부산광역시 사하구 감내2로 203",
+   "verdict": "verified",
+   "verify_note": "gamcheon.or.kr footer and Saha page both give 감내2로 203(감천동)",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://eulsukdo.saha.go.kr/tour/contents.do?mId=0101010000",
+     "type": "government",
+     "page_updated": "2025-02-05",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c2",
+   "field": "description",
+   "text": "감천문화마을은 한국전쟁 때 피란민이 정착하며 형성된 산복마을로, 근현대사의 흔적과 주민의 삶이 남아 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "intro1",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro1",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c3",
+   "field": "description",
+   "text": "1950년대 태극도 신앙촌이 조성되면서 오늘날의 마을 모습이 갖추어졌고, 천마산 자락을 따라 계단식 주거지가 이어진다.",
+   "original_text": null,
+   "value": "1950년대",
+   "verdict": "verified",
+   "verify_note": "intro1",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro1",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c4",
+   "field": "description",
+   "text": "뒷집의 햇빛과 조망을 배려해 지은 독특한 마을 구조가 이곳만의 경관과 공동체 문화를 보여준다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "intro1",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro1",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c5",
+   "field": "access",
+   "text": "대중교통은 시내버스 61번과 마을버스 서구2, 서구2-2, 사하구1, 사하구1-1을 안내한다.",
+   "original_text": null,
+   "value": "시내버스 61, 마을버스 서구2·서구2-2·사하구1·사하구1-1",
+   "verdict": "verified",
+   "verify_note": "intro4",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro4",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c6",
+   "field": "access",
+   "text": "지하철 1호선 토성역 6번 출구(부산대병원)에서 마을버스 서구2, 서구2-2, 사하구1-1로 환승한다.",
+   "original_text": null,
+   "value": "1호선 토성역 6번 출구",
+   "verdict": "verified",
+   "verify_note": "intro4",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro4",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c7",
+   "field": "access",
+   "text": "지하철 1호선 자갈치역 1번 출구(충무시장 정류장)에서도 같은 마을버스(서구2, 서구2-2, 사하구1-1)로 환승한다.",
+   "original_text": null,
+   "value": "1호선 자갈치역 1번 출구",
+   "verdict": "verified",
+   "verify_note": "intro4",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro4",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c8",
+   "field": "parking",
+   "text": "공영 주차장은 두 곳이다. 사하구 옥천로 130 부산교육역사관 지하(78면)와 사하구 감내1로175번길 5(40면)이다.",
+   "original_text": null,
+   "value": "78면 / 40면",
+   "verdict": "verified",
+   "verify_note": "intro4 gives 78면 and 40면; no fees shown",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro4",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c9",
+   "field": "parking",
+   "text": "공식 안내는 주차장이 부족하니 대중교통을 이용하라고 권하고, 대형버스는 예약시스템으로 사전 예약해야 한다고 적는다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "intro4",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro4",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c10",
+   "field": "parking",
+   "text": "마을 홈페이지에는 주차 예약 메뉴가 있으며, 방문일·시간·차량 대수·인원을 선택해 예약하고 기본 이용 시간은 90분이다.",
+   "original_text": null,
+   "value": "기본 90분",
+   "verdict": "verified",
+   "verify_note": "The detail page (/group-tour-reservation/detail/3) also lists an overtime charge and requires travel agency and guide fields, so it looks aimed at groups and buses",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/group-tour-reservation",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c11",
+   "field": "parking",
+   "text": "한국관광공사 영문 안내는 주차가 가능하며 무료라고 표기한다.",
+   "original_text": null,
+   "value": "Available (Free)",
+   "verdict": "verified",
+   "verify_note": "KTO page says 'Available (Free)'. This conflicts with the paid parking reservation on the official site",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c12",
+   "field": "hours",
+   "text": "마을안내센터 운영시간은 09:00~18:00이다.",
+   "original_text": null,
+   "value": "09:00-18:00",
+   "verdict": "verified",
+   "verify_note": "intro4: 09:00 ~ 18:00",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro4",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c13",
+   "field": "closed_days",
+   "text": "마을안내센터는 연중무휴다.",
+   "original_text": null,
+   "value": "연중무휴",
+   "verdict": "verified",
+   "verify_note": "intro4: (연중무휴)",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro4",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c14",
+   "field": "hours",
+   "text": "특별관리지역 주거 밀집지역은 방문 시간이 09:00~18:00이며 시행일은 2027년 1월 1일이다.",
+   "original_text": null,
+   "value": "09:00-18:00",
+   "verdict": "verified",
+   "verify_note": "Image-only PDF (2 pages), checked visually. 2027.1.1 is the general effective date",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c15",
+   "field": "caution",
+   "text": "2026년 8월 1일 특별관리지역으로 지정·고시되었고 시행일은 2027년 1월 1일이다.",
+   "original_text": null,
+   "value": "고시 2026-08-01 / 시행 2027-01-01",
+   "verdict": "verified",
+   "verify_note": "PDF p1",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c16",
+   "field": "caution",
+   "text": "10인 이상 단체 방문객은 방문객 지도를 의무 구입해야 하며 2026년 8월 1일부터 시행 중이다.",
+   "original_text": null,
+   "value": "10인 이상",
+   "verdict": "verified",
+   "verify_note": "PDF p1: (2026.8.1.시행)",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c17",
+   "field": "access",
+   "text": "관광객 탑승 차량(택시 포함)은 감내2로에서 통행이 제한되며, 제한 시간은 09:00~18:00, 구간은 안내센터 입구에서 추억의 그림자 포토존까지 약 1km다.",
+   "original_text": null,
+   "value": "09:00-18:00, 약 1km",
+   "verdict": "verified",
+   "verify_note": "PDF p2, zone D",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c18",
+   "field": "caution",
+   "text": "통행 제한 위반 과태료는 2028년 1월 1일부터 부과하며 2026년 8월 1일부터 2027년 12월 31일까지는 계도 기간이다.",
+   "original_text": null,
+   "value": "2028-01-01",
+   "verdict": "verified",
+   "verify_note": "PDF p2: 계도기간 26.8.1~27.12.31",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c19",
+   "field": "reservation",
+   "text": "대형버스는 사전 예약제를 실시한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "PDF p1",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c20",
+   "field": "caution",
+   "text": "불법 주정차, 무단 투기, 소음, 사생활 침해 행위를 관리한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "PDF p1",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c21",
+   "field": "caution",
+   "text": "마을 공지는 드론 촬영을 금지한다(No drones).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Notice title on the home page, dated 2022.10.17 (stale)",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/",
+     "type": "operator",
+     "page_updated": "2022-10-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c22",
+   "field": "caution",
+   "text": "주민이 실제로 사는 마을이므로 일상을 존중하고 서로 배려해 달라고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "intro1",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro1",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c23",
+   "field": "duration",
+   "text": "사하구 추천 메인도로 왕복 코스는 마을안내센터에서 바다포토존까지 40분 걸린다.",
+   "original_text": null,
+   "value": "40분",
+   "verdict": "verified",
+   "verify_note": "Saha page last updated 2025-02-05 (stale)",
+   "sources": [
+    {
+     "url": "https://eulsukdo.saha.go.kr/tour/contents.do?mId=0101010000",
+     "type": "government",
+     "page_updated": "2025-02-05",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c24",
+   "field": "duration",
+   "text": "알짜 코스와 스탬프 코스는 각각 1시간 20분이 걸린다.",
+   "original_text": null,
+   "value": "1시간 20분",
+   "verdict": "verified",
+   "verify_note": "Same stale Saha page",
+   "sources": [
+    {
+     "url": "https://eulsukdo.saha.go.kr/tour/contents.do?mId=0101010000",
+     "type": "government",
+     "page_updated": "2025-02-05",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c25",
+   "field": "highlight",
+   "text": "마을안내센터는 관광정보와 편의공간을 제공하며 골목투어 지도 판매, 물품 보관소 운영, 마을 해설사 소개를 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "intro2",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro2",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c26",
+   "field": "highlight",
+   "text": "하늘마루는 부산항과 감천항을 함께 내려다보는 전망대 겸 전시 안내관이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "intro2 (the view also includes 용두산)",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro2",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c27",
+   "field": "highlight",
+   "text": "작은박물관에서는 주민이 모은 옛 사진과 생활용품, 2009년 마을미술프로젝트부터 이어진 마을 조성 과정을 볼 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "intro2",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro2",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c28",
+   "field": "reservation",
+   "text": "체험 프로그램은 운영시간이 시작 기준 09:00~16:00이고 전화(051-291-1444)로 접수하며 당일 예약은 안 되고 당월부터 3개월 이내까지 예약할 수 있다.",
+   "original_text": null,
+   "value": "09:00-16:00, 3개월 이내",
+   "verdict": "verified",
+   "verify_note": "program page",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/program",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c29",
+   "field": "payment",
+   "text": "체험 프로그램은 예약일 3일 전까지 전액 환불, 2일 전~1일 전은 50% 환불이며 당일 취소나 무단 불참은 환불이 제한될 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "refund page. The content is a refund rule, not payment",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/refund",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c30",
+   "field": "fees",
+   "text": "한국관광공사 영문 안내는 요금을 무료(Free)로 표기한다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "KTO page: Fees Free",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c31",
+   "field": "language",
+   "text": "마을 공식 사이트와 소개 PDF는 한국어, 영어, 중국어, 일본어를 제공한다.",
+   "original_text": null,
+   "value": "ko/en/zh/ja",
+   "verdict": "verified",
+   "verify_note": "intro1 has KO/EN/ZH/JA text and a PDF for each",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro1",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-c32",
+   "field": "tip",
+   "text": "입주작가 공방은 총 9곳(도자기, 천연염색, 생태공예, 서양화, 카툰, 판화, 회화 2곳, 설치예술)이며, 방문을 원하면 사전에 연락하라고 안내한다.",
+   "original_text": "입주작가 공방은 총 9곳이고 방문을 원하면 사전 연락(051-204-1444)을 하라고 안내한다.",
+   "value": "9곳",
+   "verdict": "corrected",
+   "verify_note": "The 공방 section gives no phone number. 051-204-1444 is the 안내센터 number",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/intro2",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-s1",
+   "field": "parking.fee",
+   "text": "감천문화마을 홈페이지 주차 예약은 기본 이용시간 90분 기준으로 요금을 계산하며, 초과 시 차량 1대당 30분마다 1,000원이 추가된다. 방문 인원 1명당 지도 1개가 필수로 포함된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/group-tour-reservation/detail/3",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-s2",
+   "field": "payment",
+   "text": "주차 예약 결제수단은 무통장 입금, 신용카드, 실시간 계좌이체다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/group-tour-reservation/detail/3",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  },
+  {
+   "cid": "r1-b11-s3",
+   "field": "reservation",
+   "text": "주차 예약은 당일 예약이 불가하며 당월부터 3개월 이내까지 가능하다. 여행사명·가이드명·가이드 연락처 입력이 필수다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/group-tour-reservation/detail/3",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b11"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b11",
+   "text": "The KTO English page (72894) lists 'Operating hours: Open 24 hr' and 'Holiday: N/A (Open all year round)'. The official special management area PDF limits residential-area visits to 09:00~18:00 from 2027.1.1, and the 09:00~18:00 hours on intro4 are for the 안내센터 only"
+  },
+  {
+   "run": "r1-b11",
+   "text": "KTO says 'Parking Available (Free)', but the official site runs a paid parking reservation (90분 기본, overtime 30분당 1,000원). No fee is given for the two public lots"
+  },
+  {
+   "run": "r1-b11",
+   "text": "The Saha-gu tour page (source for c23/c24) was last updated 2025-02-05, more than 12 months ago (stale_source)"
+  },
+  {
+   "run": "r1-b11",
+   "text": "The no-drones notice (c21) is dated 2022.10.17, more than 12 months ago"
+  },
+  {
+   "run": "r1-b11",
+   "text": "Not found: base parking fee amount (shows 0원 until options are chosen), entry fee from an official operator page (only KTO says Free), Korean guide or audio guide"
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -160,6 +940,41 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b11",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 32,
+    "verdicts": {
+     "verified": 31,
+     "corrected": 1,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.fee",
+   "note": "공영주차장 요금은 마을 공식 페이지에 없음. 한국관광공사 영문은 무료로 표기하나 마을 주차 예약 페이지의 요금은 로그인 없이 확인되지 않았고 비짓부산은 열리지 않아 대조 못함",
+   "run": "r1-b11"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'주거 밀집지역은 09:00~18:00에만 방문하도록 운영하며' is written as a current rule, but per the PDF it takes effect on 2027-01-01 (c14). It should state the effective date",
+   "'주거 밀집지역 방문 시간 09:00~18:00' needs the effective date 2027.1.1 (c14)"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b11"
  }
 }

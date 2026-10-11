@@ -2,7 +2,7 @@
  "id": "kr-busan-gwangalli-bridge-overview",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "광안리·광안대교",
   "local": "광안리·광안대교"
@@ -10,7 +10,7 @@
  "admin_region": "부산광역시",
  "former_region": null,
  "city": "부산 수영구 광안해변로 일대",
- "address": null,
+ "address": "부산광역시 수영구 광안해변로 219 (광안동) / 광안대교: 부산광역시 해운대구 수영강변대로 203",
  "coord": {
   "lat": 35.150888,
   "lng": 129.116781,
@@ -21,93 +21,667 @@
   "osm": "way/107642460"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "광안리해수욕장은 부산 수영구에 있는 길이 약 1.4km, 폭 25~110m의 해변으로, 해변 너머로 광안대교가 펼쳐진다.",
+ "description": "광안리해수욕장은 부산 수영구에 있는 길이 약 1.4km, 폭 25~110m의 해변으로, 해변 너머로 광안대교가 펼쳐진다. 해변은 연중무휴 24시간 열려 있고 입장료는 무료다. 광안대교는 수영구 남천동에서 해운대구 우동 센텀시티까지 7.4km를 잇는 국내 최장 해상 이중 교량으로, 수천 개의 LED 조명이 계절에 따라 달라지는 야간 조명을 연출한다. 매주 토요일 저녁 해변에서는 드론 약 1,100대가 하늘을 수놓는 광안리 M 드론 라이트쇼가 무료로 열린다. 서핑과 패들보드 같은 해양 레저를 즐길 수 있고 해변을 따라 카페와 식당이 모여 있다.",
+ "highlights": [
+  "길이 약 1.4km 해변과 광안대교 야경",
+  "광안대교는 7.4km, 국내 최장 해상 이중 교량",
+  "매주 토요일 광안리 M 드론 라이트쇼(무료)",
+  "해변 24시간 개방, 입장료 무료",
+  "서핑·패들보드 등 해양 레저와 해변 카페·식당"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b02-c1",
+    "r1-b02-c9",
+    "r1-b02-c10"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b02-c5",
+    "r1-b02-c14"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "가장 가까운 역·도보 시간의 공식 페이지를 직접 열지 못했다. 검색 요약상 부산시 교통정보(https://www.busan.go.kr/traffic/ahgwanganri)에 '2호선 광안역 5번 출구 도보 13분, 버스 42·62번'이 있으나 접속 실패(www.busan.go.kr). 검증자가 확인해야 한다.",
+     "detail": "access",
+     "run": "r1-b02"
+    }
+   ]
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b02-c18"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "해변·광안대교 권장 소요시간에 대한 공식 안내가 없다.",
+     "detail": "duration",
+     "run": "r1-b02"
+    }
+   ]
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b02-c2",
+    "r1-b02-c13",
+    "r1-b02-c17"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "광안대교 경관조명 점등 시각은 공단 페이지(https://www.bisco.or.kr/gwanganbridge/facil/facil03/facil03_1/index.asp)를 열지 못했고 검색 요약상 2013년경 자료라 오래되었다.",
+     "detail": "hours.lighting",
+     "run": "r1-b02"
+    },
+    {
+     "reason": "conflicting_sources",
+     "note": "드론쇼 10~2월 시각: 열람한 한국관광공사 페이지는 19:00·21:00(vcontsId=194990). 검색 요약상 다른 한국관광공사 페이지는 17:00·21:00, 크루즈 페이지는 토·일 공연으로 적혀 있어 직접 확인되지 않았다. 또 같은 페이지에서 회당 12분과 '약 10분'이 혼재한다.",
+     "detail": "hours.conflict",
+     "run": "r1-b02"
+    }
+   ]
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b02-c3"
+   ],
+   "gap": null
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b02-c4",
+    "r1-b02-c19"
+   ],
+   "gap": null
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "해변·드론쇼 관람 예약 필요 여부에 대한 공식 안내가 없다."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "입장·드론쇼가 무료여서 결제 대상이 없고, 주차 결제수단은 확인하지 못했다."
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내 서비스에 관한 공식 안내를 찾지 못했다. 드론쇼 공식 사이트는 검색 요약상 한국어 전용이라 한다."
    }
   },
   "caution": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "해수욕 개장기간·안전수칙은 수영구청 공지에 있다고 하나(부산시 교통정보 페이지 문구, 검색 요약) 접속 실패로 확인하지 못했다."
    }
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b02-c1",
+   "field": "location",
+   "text": "광안리해수욕장 주소는 부산광역시 수영구 광안해변로 219 (광안동)이다.",
+   "original_text": null,
+   "value": "부산광역시 수영구 광안해변로 219",
+   "verdict": "verified",
+   "verify_note": "Both pages give 광안해변로 219 (광안동).",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=8bb0d877-5238-423d-8b3e-4f2dff0066da",
+     "type": "national_tourism",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111074",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c2",
+   "field": "hours",
+   "text": "광안리해수욕장은 24시간 상시 개방된다.",
+   "original_text": null,
+   "value": "상시 개방 (24시간)",
+   "verdict": "verified",
+   "verify_note": "Accessibility page: 상시 개방. English page: Open 24 hr.",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=8bb0d877-5238-423d-8b3e-4f2dff0066da",
+     "type": "national_tourism",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111074",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c3",
+   "field": "closed_days",
+   "text": "휴무일 없이 연중무휴이다.",
+   "original_text": null,
+   "value": "연중무휴",
+   "verdict": "verified",
+   "verify_note": "The page says 연중무휴.",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=8bb0d877-5238-423d-8b3e-4f2dff0066da",
+     "type": "national_tourism",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c4",
+   "field": "fees",
+   "text": "광안리해수욕장 이용은 무료이다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "Fees: Free.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111074",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c5",
+   "field": "parking",
+   "text": "한국관광공사 영문 안내는 주차 가능, 10분당 300원이라고 적고 있다.",
+   "original_text": null,
+   "value": "10분당 300원",
+   "verdict": "verified",
+   "verify_note": "Page: Available (300 won for every 10 minutes).",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111074",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c6",
+   "field": "description",
+   "text": "해변은 해운대해수욕장 서쪽에 있으며 길이 1.4km, 폭 25~110m이다.",
+   "original_text": null,
+   "value": "1.4km / 25~110m",
+   "verdict": "verified",
+   "verify_note": "Page: west of Haeundae, 1.4 km long, 25~110 m wide.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111074",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c7",
+   "field": "description",
+   "text": "여름에는 해수욕과 서핑·패들보드 같은 해양 레저를 즐길 수 있고, 해변을 따라 카페와 맛집이 밀집해 있으며 공연·축제·드론쇼가 열린다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches the accessibility page description.",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=8bb0d877-5238-423d-8b3e-4f2dff0066da",
+     "type": "national_tourism",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c8",
+   "field": "tip",
+   "text": "저녁에 광안대교의 조명이 빛나는 모습을 보러 오는 사람이 많다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Page: many people come in the evening for the bridge lights.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111074",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c9",
+   "field": "location",
+   "text": "광안대교는 수영구 남천동에서 해운대구 우동 센텀시티까지 7.4km 이상 이어진다.",
+   "original_text": null,
+   "value": "7.4km",
+   "verdict": "verified",
+   "verify_note": "Page: stretches over 7.4 km from 남천동 to 센텀시티 in 우동.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91002",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c10",
+   "field": "location",
+   "text": "광안대교의 한국관광공사 등록 주소는 부산광역시 해운대구 수영강변대로 203이다.",
+   "original_text": null,
+   "value": "부산광역시 해운대구 수영강변대로 203",
+   "verdict": "verified",
+   "verify_note": "Page gives 수영강변대로 203.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91002",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c11",
+   "field": "description",
+   "text": "광안대교는 국내에서 가장 긴 해상 이중(2층) 교량이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Page: the longest bi-level bridge over the ocean in Korea.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91002",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c12",
+   "field": "highlight",
+   "text": "수천 개의 LED 조명이 밤마다 계절에 따라 달라지는 조명 연출을 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Page: thousands of LEDs, lighting changes with the seasons.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91002",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c13",
+   "field": "hours",
+   "text": "광안대교는 24시간 운영(개방)으로 안내된다.",
+   "original_text": null,
+   "value": "24시간",
+   "verdict": "verified",
+   "verify_note": "Page: Open 24 hr.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91002",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c14",
+   "field": "parking",
+   "text": "광안대교에는 주차 시설이 없다.",
+   "original_text": null,
+   "value": "주차 불가",
+   "verdict": "verified",
+   "verify_note": "Page: Parking Not available.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91002",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c15",
+   "field": "tip",
+   "text": "광안대교 문의처는 부산시설공단 +82-51-780-0077이다.",
+   "original_text": null,
+   "value": "+82-51-780-0077",
+   "verdict": "verified",
+   "verify_note": "Page lists +82-51-780-0077 and website bisco.or.kr.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91002",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c16",
+   "field": "highlight",
+   "text": "광안리 M 드론 라이트쇼는 매주 토요일 저녁 광안리 해변에서 열리며 드론 1,100대가 하루 두 차례 공연한다. 명절·새해 카운트다운 등 특별한 날에는 최대 3,000대로 커진다.",
+   "original_text": null,
+   "value": "1,100대 / 특별 공연 최대 3,000대",
+   "verdict": "verified",
+   "verify_note": "Page: 1,100 drones, two shows, up to 3,000 drones on occasions such as Chuseok and New Year countdown.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194990",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c17",
+   "field": "hours",
+   "text": "드론쇼 공연 시각은 3~9월 20:00·22:00, 10~2월 19:00·21:00이며 날씨에 따라 바뀔 수 있다.",
+   "original_text": null,
+   "value": "3~9월 20:00,22:00 / 10~2월 19:00,21:00 (토)",
+   "verdict": "verified",
+   "verify_note": "Matches 194990. The official site notice also confirms 동절기(10~2월) 19시·21시.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194990",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c18",
+   "field": "duration",
+   "text": "드론쇼는 회당 약 12분이다.",
+   "original_text": null,
+   "value": "약 12분",
+   "verdict": "verified",
+   "verify_note": "The intro and the official site say about 12 minutes, but the page's 'Average time spent' field says about 10 min.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194990",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c19",
+   "field": "fees",
+   "text": "드론쇼 관람은 무료이다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "Fees: Free.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194990",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c20",
+   "field": "tip",
+   "text": "드론쇼 공식 사이트는 gwangallimdrone.co.kr, 문의는 +82-51-610-4882이며 주최는 부산광역시 수영구이다.",
+   "original_text": null,
+   "value": "+82-51-610-4882",
+   "verdict": "verified",
+   "verify_note": "The cited page matches. The official site gives different contact numbers; see conflicts.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194990",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c21",
+   "field": "tip",
+   "text": "무장애 정보: 광안리해수욕장 출입구는 턱이 없어 휠체어 접근이 가능하고, 장애인 화장실과 여자화장실 내 기저귀교환대가 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Step-free entrance, accessible toilet, baby-changing table in the women's toilet.",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=8bb0d877-5238-423d-8b3e-4f2dff0066da",
+     "type": "national_tourism",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-s1",
+   "field": "access",
+   "text": "지하철 2호선 광안역 3번 출구 또는 금련산역 3번 출구에서 걸어서 약 10분이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.gwangallimdrone.co.kr/contact",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-s2",
+   "field": "access",
+   "text": "버스 41·49·38·42·51·62·83·83-1·108-1번을 타고 광안리해수욕장 정류장에서 내려 걸어서 약 3분이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.gwangallimdrone.co.kr/contact",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-s3",
+   "field": "parking",
+   "text": "주변 공영주차장으로 광안리해수욕장 공영주차장(남천바다로33번길 75), 민락해변공원, 민락매립지, 민락수변공원 제1·제2, 수변어린이공원 공영주차장이 있으며, 드론쇼 날에는 대중교통 이용이 권장된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.gwangallimdrone.co.kr/contact",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-s4",
+   "field": "hours",
+   "text": "광안리 M 드론라이트쇼 동절기(10~2월) 공연시간은 19시·21시이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.gwangallimdrone.co.kr/notice/gwanganri-m-deuronraiteusyo-dongjeolgi-gongyeonsigan-byeongyeongannae-2",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b02",
+   "text": "Drone show winter times: KTO article 228475 (2025, stale) says October-February 17:00 & 21:00. KTO 194990 and the official site notice say 19:00 & 21:00. Use 19:00 & 21:00."
+  },
+  {
+   "run": "r1-b02",
+   "text": "Drone show contact: KTO 194990 lists +82-51-610-4882. The official site gwangallimdrone.co.kr lists 수영구청 관광스포츠과 051-610-6518, 6514."
+  },
+  {
+   "run": "r1-b02",
+   "text": "Drone show duration: KTO 194990 says about 12 min in the intro but about 10 min in 'Average time spent'. The official site says 매회 12분 내외."
+  },
+  {
+   "run": "r1-b02",
+   "text": "KTO 194990 shows 'Event period 2026-01-01 ~ 2026-01-01', which looks like broken metadata."
+  },
+  {
+   "run": "r1-b02",
+   "text": "Gwangan Station exit: KTO article 228475 (stale) says exit 3 or 5. The official drone site says exit 3 only."
+  },
+  {
+   "run": "r1-b02",
+   "text": "Bridge toll and pedestrian access were not looked up (lookup budget was spent on access and drone items)."
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -242,6 +816,53 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b02",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 21,
+    "verdicts": {
+     "verified": 21,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 4
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.conflict",
+   "note": "한국관광공사 영문 안내(https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111074)는 10분당 300원. 수영구청 공영주차장 안내(https://www.suyeong.go.kr/tour/index.suyeong?menuCd=DOM_000001106004000000)는 검색 요약상 54면, 24시간, 6~9월 10분당 500원(1급지)·10월~5월 평일 300원(2급지)이라 직접 열람 실패로 확정하지 못했다.",
+   "run": "r1-b02"
+  },
+  {
+   "topic": "bridge.toll_and_pedestrian",
+   "note": "광안대교 통행료·보행 가능 여부는 부산시설공단(https://www.bisco.or.kr/gwanganbridge/)을 열지 못했다. 검색 요약상 스마트톨링(2025.2.1~)과 구버전 요금표만 보이며 보행 관련 내용은 찾지 못했다.",
+   "run": "r1-b02"
+  },
+  {
+   "topic": "accessibility.conflict",
+   "note": "무장애 페이지(https://access.visitkorea.or.kr/ms/detail.do?cotId=8bb0d877-5238-423d-8b3e-4f2dff0066da)는 휠체어 접근·장애인 화장실 있음, 일반 상세(https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=98763dd6-119d-4e32-910e-a40652334bda)는 '장애인 화장실 없음·단차 있음'. 갱신일(2026-09-10)이 있는 무장애 페이지를 따랐다.",
+   "run": "r1-b02"
+  },
+  {
+   "topic": "official_site_unreachable",
+   "note": "visitbusan.net(인증서 오류/503), suyeong.go.kr, busan.go.kr, bisco.or.kr 모두 이 환경에서 열리지 않아 한국관광공사 페이지로 대체했다.",
+   "run": "r1-b02"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b02"
  }
 }

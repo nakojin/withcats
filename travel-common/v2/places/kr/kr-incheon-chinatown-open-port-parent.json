@@ -2,7 +2,7 @@
  "id": "kr-incheon-chinatown-open-port-parent",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "인천 차이나타운·개항장",
   "local": "인천 차이나타운·개항장"
@@ -10,96 +10,547 @@
  "admin_region": "인천광역시",
  "former_region": null,
  "city": "인천 제물포구 차이나타운·개항장 일대",
- "address": null,
+ "address": "인천광역시 제물포구 차이나타운로26번길 12-17",
  "coord": null,
  "coord_note": "좌표 검증 대기 (geocode confidence: none)",
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "인천 차이나타운은 1883년 인천항 개항 뒤 1884년 이 지역이 청나라 치외법권 지역으로 지정되면서 생겨났고, 화교의 한국 정착 역사가 담겨 있다.",
+ "description": "인천 차이나타운은 1883년 인천항 개항 뒤 1884년 이 지역이 청나라 치외법권 지역으로 지정되면서 생겨났고, 화교의 한국 정착 역사가 담겨 있다. 우뚝 솟은 패루를 지나 경사진 길을 약 300m 걸으면 길이 T자형으로 나뉘고, 홍등과 복원된 중국식 근대건축물이 눈길을 끈다. 지금은 대부분 중국 음식점이며 짜장면, 공갈빵, 월병이 대표 먹거리다. 이어지는 개항장 거리에는 청·일 조계지 경계계단과 서양식 근대 건축물, 인천개항박물관, 짜장면박물관 등이 있고, 인천역에서 출발하는 1시간 걷기 코스도 안내된다. 문화관광해설사 해설은 예약하면 들을 수 있다.",
+ "highlights": [
+  "1884년 청나라 치외법권 지역으로 지정되며 생겨난 화교 정착 역사의 거리",
+  "패루를 지나 약 300m 걸으면 T자형으로 갈라지는 중국풍 거리",
+  "짜장면·공갈빵·월병이 대표 먹거리",
+  "개항장 거리에서 청·일 조계지 경계계단과 서양식 근대 건축물 관람",
+  "인천역에서 한중문화관까지 이어지는 개항 누리길 1시간 코스",
+  "예약하면 문화관광해설사 해설을 들으며 도보 관광"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c1",
+    "r1-b09-c2",
+    "r1-b09-c3",
+    "r1-b09-c4"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c5",
+    "r1-b09-c10",
+    "r1-b09-c11"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "인천역 출구·도보 시간에 대한 공식(itour) 문장은 확인하지 못함. 한국관광공사 개항 누리길 코스가 인천역에서 시작한다는 사실(c5)만 확인.",
+     "detail": "access",
+     "run": "r1-b09"
+    }
+   ]
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c6"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "차이나타운 단독 소요시간 공식 안내 없음. 인천역 출발 1시간 코스만 확인(c6).",
+     "detail": "duration.visit",
+     "run": "r1-b09"
+    }
+   ]
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c7",
+    "r1-b09-c9"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "개항장 거리는 itour(https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209)에서 상시 개방·연중무휴, 한국관광공사 개항 누리길 페이지(https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369)에서 10:00~17:00·월요일 휴일로 적혀 값이 다름. 후자는 해설 서비스 기준일 가능성이 있으나 페이지에 명시되지 않음. 차이나타운 상점·식당 영업시간은 개별 업소별이라 공식 통합 안내 없음.",
+     "detail": "hours.conflict",
+     "run": "r1-b09"
+    }
+   ]
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c8"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "차이나타운 전체의 정기 휴무 공식 안내 없음(개항장 거리 연중무휴 c8, 해설 월요일 휴무 c9 참고).",
+     "detail": "closed_days",
+     "run": "r1-b09"
+    }
+   ]
   },
   "fees": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "차이나타운·개항장 거리 모두 공식 페이지에 입장료 항목이 없고 무료라는 명시 문장도 확인하지 못함. 개별 시설(박물관 등)은 별도 확인 필요."
    }
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c12"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "일반 방문 예약 여부를 명시한 공식 문장 없음. 해설사 해설만 예약(c12).",
+     "detail": "reservation",
+     "run": "r1-b09"
+    }
+   ]
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "결제수단 관련 공식 안내 없음(업소별)."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c13"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 오디오가이드·한국어 안내 시설에 대한 공식 안내는 별도로 없음. 1330 통역전화만 확인(c13).",
+     "detail": "language",
+     "run": "r1-b09"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c14"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b09-c1",
+   "field": "location",
+   "text": "인천 차이나타운의 인천 관광 포털(itour) 등록 주소는 인천 제물포구 차이나타운로26번길 12-17이며 전화번호는 032-777-1330이다.",
+   "original_text": "인천 차이나타운의 공식 관광 포털 등록 주소는 인천 제물포구 차이나타운로26번길 12-17(패루 위치)이며 문의 전화는 032-777-1330이다.",
+   "value": "인천 제물포구 차이나타운로26번길 12-17 / 032-777-1330",
+   "verdict": "corrected",
+   "verify_note": "Address and phone match the page. The page does not say this address is the 패루 location, so the record's address field '(패루, …)' is also unsupported. Page last modified 2026-03-03.",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008",
+     "type": "government",
+     "page_updated": "2026-03-03",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c2",
+   "field": "location",
+   "text": "한국관광공사 영문 안내는 인천 차이나타운 주소를 인천광역시 제물포구 차이나타운로59번길 20으로 적고 있다(c1과 표기 지점이 다름).",
+   "original_text": null,
+   "value": "인천광역시 제물포구 차이나타운로59번길 20",
+   "verdict": "verified",
+   "verify_note": "KTO EN page: '20 Chinatown-ro 59beon-gil, Jemulpo-gu' / 인천광역시 제물포구 차이나타운로59번길 20",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=105442",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c3",
+   "field": "location",
+   "text": "개항장 거리는 인천광역시 제물포구 관동1가 일대로 등록되어 있다.",
+   "original_text": null,
+   "value": "인천광역시 제물포구 관동1가",
+   "verdict": "verified",
+   "verify_note": "주소 인천광역시 제물포구 관동1가; last modified 2026-09-22",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209",
+     "type": "government",
+     "page_updated": "2026-09-22",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c4",
+   "field": "location",
+   "text": "인천시는 2026년 7월 1일부터 기존 중구 내륙과 동구를 제물포구로 통합 개편했다고 안내한다. 따라서 현재 행정구역은 제물포구이고 이전 표기는 중구다.",
+   "original_text": null,
+   "value": "제물포구 (former: 중구)",
+   "verdict": "verified",
+   "verify_note": "Page says the change takes effect 2026-07-01 and that 기존 중구내륙과 동구 become 제물포구. It is worded in the future tense, written before the change.",
+   "sources": [
+    {
+     "url": "https://www.incheon.go.kr/IC010601/2187729",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c5",
+   "field": "access",
+   "text": "한국관광공사는 개항 누리길 1시간 코스를 인천역에서 출발해 차이나타운, 삼국지벽화거리, 자유공원, 제물포구락부, 인천근대건축전시관을 지나 한중문화관에서 끝나는 도보 코스로 소개한다.",
+   "original_text": "한국관광공사는 개항 누리길 1시간 코스를 인천역에서 출발해 차이나타운, 삼국지벽화거리, 자유공원, 제물포구락부, 인천근대박물관을 지나 한중문화관에서 끝나는 도보 코스로 소개한다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "Page says 'Incheon Modern Architecture Museum', not 인천근대박물관",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c6",
+   "field": "duration",
+   "text": "개항 누리길은 소요 시간별 3개 코스가 있고 그중 인천역~한중문화관 코스가 1시간 코스다.",
+   "original_text": null,
+   "value": "1시간(개항 누리길 1시간 코스)",
+   "verdict": "verified",
+   "verify_note": "'three different courses varying by time with one hour course…'",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c7",
+   "field": "hours",
+   "text": "개항장 거리는 이용 시간이 상시 개방으로 등록되어 있다.",
+   "original_text": null,
+   "value": "상시 개방",
+   "verdict": "verified",
+   "verify_note": "이용시간 상시 개방",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209",
+     "type": "government",
+     "page_updated": "2026-09-22",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c8",
+   "field": "closed_days",
+   "text": "개항장 거리는 휴무일이 연중무휴로 등록되어 있다.",
+   "original_text": null,
+   "value": "연중무휴",
+   "verdict": "verified",
+   "verify_note": "휴무일 연중무휴",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209",
+     "type": "government",
+     "page_updated": "2026-09-22",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c9",
+   "field": "hours",
+   "text": "한국관광공사 영문 페이지는 개항 누리길 1시간 코스의 운영시간을 10:00~17:00, 휴일을 월요일로 적고, 투어 가이드(해설)는 예약이 필요하다고 표시한다.",
+   "original_text": "한국관광공사 영문 페이지는 개항 누리길 코스의 운영시간을 10:00~17:00, 휴일을 월요일로 적고 해설(투어 가이드)은 예약이 필요하다고 표시한다. 거리 자체의 상시 개방 정보(c7, c8)와 달라 해설 서비스 기준으로 보인다.",
+   "value": "10:00~17:00, 월요일 휴무(해설 서비스 기준 추정, 예약 필요)",
+   "verdict": "corrected",
+   "verify_note": "The values match the page. The collector's guess that these hours are 'for the guide service' is not on the page, so it is removed. This conflicts with itour c7/c8.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c10",
+   "field": "parking",
+   "text": "인천 차이나타운에는 유료 주차장이 있고 장애인 전용 주차칸이 따로 있다.",
+   "original_text": null,
+   "value": "유료 주차 있음",
+   "verdict": "verified",
+   "verify_note": "주차 있음(유료); 장애인 전용 별도 주차칸 있음",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008",
+     "type": "government",
+     "page_updated": "2026-03-03",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c11",
+   "field": "parking",
+   "text": "개항장 거리 항목은 주차 안내가 불가능으로 등록되어 있어 거리 자체에는 주차할 수 없다.",
+   "original_text": null,
+   "value": "주차 불가능(개항장 거리)",
+   "verdict": "verified",
+   "verify_note": "Page shows 주차 안내: 불가능. That the street itself has no parking is the collector's reading.",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209",
+     "type": "government",
+     "page_updated": "2026-09-22",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c12",
+   "field": "reservation",
+   "text": "개항장 거리에서는 인천 문화관광해설사 해설을 예약하면 들으며 도보 관광을 할 수 있다. 일반 방문에 예약이 필요하다는 안내는 없다.",
+   "original_text": null,
+   "value": "해설사 해설만 예약",
+   "verdict": "verified",
+   "verify_note": "'인천문화 관광해설사가 있어 예약하면 해설을 들으며 도보 관광'",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209",
+     "type": "government",
+     "page_updated": "2026-09-22",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c13",
+   "field": "language",
+   "text": "관광통역안내전화 1330은 한국어·영어·일본어·중국어를 지원한다.",
+   "original_text": null,
+   "value": "1330 (ko/en/ja/zh)",
+   "verdict": "verified",
+   "verify_note": "1330 Travel Hotline (Korean, English, Japanese, Chinese)",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c14",
+   "field": "caution",
+   "text": "차이나타운은 반려견 동반이 가능하지만 목줄 착용과 배설물 처리용 봉투를 갖춘 이용객에 한해 허용된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "애완동물 동반가능 – 개목줄·비닐봉지 구비 시",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008",
+     "type": "government",
+     "page_updated": "2026-03-03",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c15",
+   "field": "tip",
+   "text": "개항장 거리는 출입구까지 턱이 없어 휠체어 접근이 가능한 무장애 관광지로 등록되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "출입구까지 턱이 없어 휠체어 접근 가능; tagged #무장애관광",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209",
+     "type": "government",
+     "page_updated": "2026-09-22",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c16",
+   "field": "description",
+   "text": "차이나타운은 1883년 인천항 개항 후 1884년 이 지역이 청의 치외법권 지역으로 지정되면서 생겨났고, 화교의 한국 정착 역사를 담고 있다.",
+   "original_text": null,
+   "value": "1883 개항 / 1884 치외법권 지정",
+   "verdict": "verified",
+   "verify_note": "1883 개항, 1884 청 치외법권",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008",
+     "type": "government",
+     "page_updated": "2026-03-03",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c17",
+   "field": "description",
+   "text": "패루를 지나 경사진 길을 300m 걸으면 길이 T자형으로 나뉘며, 치파오를 입은 화교 상인, 홍등, 최근 복원된 중국식 근대건축물이 보인다.",
+   "original_text": null,
+   "value": "약 300m",
+   "verdict": "verified",
+   "verify_note": "패루·300m·T자형·치파오·홍등·복원 근대건축물",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008",
+     "type": "government",
+     "page_updated": "2026-03-03",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c18",
+   "field": "highlight",
+   "text": "지금 거리는 대부분 중국 음식점이며 짜장면, 공갈빵, 월병이 대표 먹거리다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "현재는 거의 중국 음식점; 짜장면·공갈빵·월병",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008",
+     "type": "government",
+     "page_updated": "2026-03-03",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c19",
+   "field": "highlight",
+   "text": "개항누리길에서는 청·일 조계지 경계계단과 당시 지은 서양식 건축물, 인천개항박물관, 인천아트플랫폼, 차이나타운, 짜장면박물관 등을 만날 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "경계계단, 서양식 건축물, 개항박물관, 아트플랫폼, 짜장면박물관",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209",
+     "type": "government",
+     "page_updated": "2026-09-22",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b09",
+   "text": "Official address sources disagree. itour gives 차이나타운로26번길 12-17 (modified 2026-03-03). The KTO English page gives 차이나타운로59번길 20. Both are now listed as claims; pick one as the main address."
+  },
+  {
+   "run": "r1-b09",
+   "text": "KTO page vcontsId=34369 lists 10:00~17:00 with Mondays closed. itour 개항장 거리 (modified 2026-09-22) lists 상시 개방 and 연중무휴. The KTO page also links the old Jung-gu website (icjg.go.kr, which did not respond), and its English address (269 Jemullyang-ro) differs from its Korean address (제물량로218번길 3). It shows no update date and may be stale."
+  },
+  {
+   "run": "r1-b09",
+   "text": "ic-chinatown.co.kr is the homepage listed on itour, but it says it is run by a citizen ('시민이 운영'). It still uses the old 중구 names and directions such as 인천역 1번 출구 150m. It is not a primary source and its admin names are stale."
+  },
+  {
+   "run": "r1-b09",
+   "text": "incheon.go.kr page 2187729 describes the 2026-07-01 reorganisation in the future tense, so it was written before the change took effect."
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -173,6 +624,38 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b09",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 19,
+    "verdicts": {
+     "verified": 16,
+     "corrected": 3,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 0
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.fee",
+   "note": "주차 요금 금액·위치는 공식 페이지에 없음(유료라고만 표기).",
+   "run": "r1-b09"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b09"
  }
 }

@@ -1,0 +1,406 @@
+{
+ "places": [
+  {
+   "key": "bj-mutianyu",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "cnInformation: 入园地点：北京市怀柔区慕田峪村慕田峪长城景区入口和摆渡车站台"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "cndetailcon1941: 长城地址 北京市怀柔区渤海镇慕田峪村. Page dated 2021-01-21 (stale >12 months), but the address matches cnInformation"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "摆渡车服务区站距离门票检票口大约三公里; 自行购买摆渡车票"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "游览须知 item 8"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "cndetailcon2366 FAQ is dated 2021-03-01 (stale, more than 5 years old). Text matches"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "cndetailcon1101 (2024-05-01): 缆车终点海拔640米，长城中段（14号楼）, the best route to 箭扣 and No. 15 tower"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "检票须知 item 1"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "cnInformation and the homepage 景区开放时间 box agree"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "淡季 11/16-3/15, 8:00-17:30"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "提前一个小时停止售票，提前半个小时停止检票"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "缆车运营时间 is the same as the park hours"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "日场1-20号/夜场10-15号. The page gives no night-session dates or hours, and the homepage shows a 2026-08-25 night-tour cancellation notice, so night opening is irregular. The text must not imply nightly operation"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "优惠门票 (1)"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "需成年人陪护; ID-card entry, otherwise 户口本/医保卡 checked by hand"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "免费门票 (2)(3)"
+    },
+    {
+     "cid": "c16",
+     "verdict": "corrected",
+     "corrected_text": "그 밖의 할인 대상은 베이징 외 지역 60세 이상 노인(노인표), 18세 초과~25세 이하 중국 국적 재학 대학 본과생(성인 교육기관 제외), 군관증·사병증 등을 가진 현역군인과 퇴역군인 우대증 소지자, 사회보장금 수령증 소지자, 본인 소방원증·소방간부증 소지자와 응급구조 인원이다.",
+     "note": "The page says 18周岁以上至25周岁（含）, excludes 成人院校, and lists the military categories differently from the claim"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "摆渡车及缆车 1.2m(含)以下免费; no discounts for children, seniors or disabled visitors"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "备注(1)"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "备注(4)"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "购票说明 item 1; also on the homepage 景区购票公告"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "内容概述 and homepage"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "检票须知 item 4"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "检票须知 item 6"
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "退票与改签; refund within 7 working days; refund enquiries on 400-632-9662"
+    },
+    {
+     "cid": "c25",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "2021년 FAQ(오래된 출처)로 현행 실명 예약제 안내와 어긋나 공개 보류(검증자 권고, 병합 시 처리). 원 노트: The text matches cndetailcon2366, but that page is dated 2021-03-01 (stale). Its line 买票时无需预约 conflicts in wording with the current 实名制预约购票 rule. Recommend not publishing the named channels (WeChat, Meituan, Ctrip) until a current official source confirms them"
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "cndetailcon1103 is dated 2017-05-13 (stale). Treat as low value"
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The homepage header shows 中文 | English"
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "游览须知 item 5"
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "游览须知 item 6"
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "游览须知 item 7. The homepage lists several temporary closures in July and August 2026"
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "内容概述. A 2026-05-26 notice also announces restoration work on part of the wall between towers 16 and 17"
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page lists 饮酒过度，神智不清者 as 不予乘车 and health conditions as 不宜乘坐"
+    },
+    {
+     "cid": "c33",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "雷雨天气，不要接打电话"
+    },
+    {
+     "cid": "c34",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page 1941 is dated 2021, but the numbers match the current site footer. cnInformation lists other ticket lines; see conflicts"
+    }
+   ],
+   "unsupported_in_description": [
+    "야간에는 10~15호 구간만 열립니다: the section is supported, but no night dates or hours are given and night tours are sometimes cancelled. State that night opening is irregular/event-based"
+   ],
+   "unsupported_in_highlights": [
+    "현재 1~20호 적루 구간만 개방 (야간은 10~15호 구간): same issue, no night operating period stated"
+   ],
+   "suggested_claims": [
+    {
+     "field": "caution",
+     "text": "2026년 5월 26일부터 16~17호 적루 사이 일부 성벽에서 문화재 보수 공사가 진행 중이며, 16호 적루 안쪽은 정상 통행할 수 있다.",
+     "url": "https://www.mutianyugreatwall.com/cndetailcon3364"
+    },
+    {
+     "field": "caution",
+     "text": "2026년 7~8월에 기상 등으로 임시 폐쇄가 여러 차례 있었으므로 방문 전 경구 공고(景区公告)를 확인한다.",
+     "url": "https://www.mutianyugreatwall.com/"
+    },
+    {
+     "field": "fees",
+     "text": "무료 대상(18세 이하 중국 국적 미성년자, 베이징 60세 이상 노인 등)이 사전 예약하지 못한 경우 매표 서비스센터 창구에서 무료입장권을 받는다(1.2m 이하 어린이 제외).",
+     "url": "https://www.mutianyugreatwall.com/cnInformation"
+    },
+    {
+     "field": "tip",
+     "text": "명신편(엽서) 입장권은 관람 후 매표 서비스센터 창구에서 주문 정보로 기념 엽서를 받을 수 있고, 일반 전자 입장권에는 엽서가 없다.",
+     "url": "https://www.mutianyugreatwall.com/cnInformation"
+    }
+   ],
+   "conflicts": [
+    "Ticket phone numbers: cnInformation section 7 lists 票务咨询电话 61626894 / 61626505转869 and a cable-car rescue line 61626849. The page footer and cndetailcon1941 list 票务 010-61626928",
+    "Seniors: cndetailcon2366 (2021, stale) says seniors 60+ from outside Beijing pay half price online. The current cnInformation says only 老年票 with no amount. Do not publish 'half price' from the stale page",
+    "Booking: cndetailcon2366 (2021) says 买票时无需预约 (purchase counts as the booking). The current cnInformation requires 实名制预约购票 up to 30 days ahead",
+    "Stale sources (>12 months): cndetailcon1941 (2021-01-21), cndetailcon2366 (2021-03-01), cndetailcon1103 (2017-05-13), cndetailcon1101 (2024-05-01)",
+    "Unconfirmed items after 2 lookups: no ticket prices (cnTickets loads no price text). Access/transport: cnTraffic has no text content. Not found: duration, closed days, coordinates, Korean-language guide"
+   ]
+  },
+  {
+   "key": "nature-zjj-02",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "湘发改价费〔2025〕517号: 政府指导价调整为72元/人次（含资源有偿使用费）"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "自2025年8月1日起正式执行，有效期5年"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Also encourages discounts for veterans"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "半票 groups as stated"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Religious personnel exemption"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Item 3"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Item 4"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2025 list row 10: 天门山景区, 张家界市永定区, 5A. That same row gives the price as 62 (superseded; see conflicts)"
+    }
+   ],
+   "unsupported_in_description": [
+    "후난성 정부 관리 가격 목록에 올라 있습니다: administrative detail, not useful to travellers",
+    "이 가격은 2025년 8월 1일부터 시행되었고 유효기간은 5년입니다: administrative; keep at most as the price's effective period",
+    "경구는 입장권을 팔면서 보험료를 대신 걷을 수 없고: regulatory obligation on the operator. Rephrase as '보험은 선택 사항, 별도 창구' if kept",
+    "Missing context: 72위안 is the government-guided entry price only. The scenic area actually sells cableway package tickets (A/B/C lines); no verified claim covers what travellers actually pay"
+   ],
+   "unsupported_in_highlights": [
+    "후난성 정부 관리 가격 목록에 오른 5A급 경구: not useful to travellers",
+    "입장권과 함께 보험료를 대신 걷지 못하며 보험은 별도 창구에서 자율 구매: operator-regulation wording"
+   ],
+   "suggested_claims": [
+    {
+     "field": "location",
+     "text": "천문산 경구의 소재지는 후난성 장자제시 융딩구(永定区)다.",
+     "url": "https://fgw.hunan.gov.cn/fgw/jgzc11/202507/t20250724_33748635.html"
+    },
+    {
+     "field": "hours",
+     "text": "2026년 3월 21일부터 매표 시간은 7:30~16:00, 탑승 운영은 8:00부터다.",
+     "url": "https://m.voc.com.cn/rmt/article/16078535.html"
+    },
+    {
+     "field": "access",
+     "text": "2026년 3월 20일부터 톈먼둥 쾌속 케이블카(天门洞快线索道)가 운행을 재개해 왕복 케이블카 A·B·C선 투어가 운영되며, 편도 케이블카 1·2선은 계속 중단되었다. 결빙·짙은 안개·폭우 때는 A·B선이 C선 경로로 임시 변경된다.",
+     "url": "https://m.voc.com.cn/rmt/article/16078535.html"
+    }
+   ],
+   "conflicts": [
+    "Ticket price: the Hunan 2025 government-priced scenic area list (湘发改价费〔2025〕204号, dated 2025-04-03, posted 2025-07-24) shows 天门山景区 at 62 CNY. The later notice 517号, effective 2025-08-01, sets 72 CNY. 72 is current",
+    "Stale sources: both Hunan DRC pages are more than 12 months old (2025-07-24 and 2025-08-25). The notice is still within its 5-year validity",
+    "name_local '天门山国家森林公园' differs from the official name in the sources, '天门山景区'",
+    "The suggested hours and access claims come from Hunan Daily (新湖南, provincial state media) reposts marked 来源：张家界天门山景区. They are not the operator's own site; the official Tianmen site was not found within 2 lookups",
+    "Still unconfirmed: cableway and package prices, reservation, payment, language, closed days, duration"
+   ]
+  },
+  {
+   "key": "nature-zjj-01",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2025 list row 11: 武陵源核心景区, 165"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "连续4日有效 on both pages"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "不含交通工具"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Hearing notice: 取消淡旺季价格，实行统一价格. The 2025 list also marks 是否区分淡旺季 as 否"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2024-11-29 hearing, 27 participants unanimous, DRC 予以采纳"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "张家界市武陵源区, 5A"
+    }
+   ],
+   "unsupported_in_description": [
+    "'장자제 국가삼림공원과 우링위안 핵심 관광구': the sources name only 武陵源核心景区; they do not say 张家界国家森林公园 is the same ticket area",
+    "'환경보호차 등은 따로 계산': the source says only 不含交通工具 and does not name 환경보호차 or give its price",
+    "2024년 11월 후난성 발개위가 주관한 가격 청문회에서 27명의 참가자가 이 가격안에 모두 동의했습니다: administrative, not useful to travellers. Also inaccurate: the hearing was organised by the Zhangjiajie DRC on the provincial DRC's behalf",
+    "입장권을 사기 전에 교통수단 비용을 따로 확인하는 것이 좋습니다: advice with no backing figure"
+   ],
+   "unsupported_in_highlights": [
+    "후난성 정부 관리 가격 목록에 오른 5A급 경구: not useful to travellers"
+   ],
+   "suggested_claims": [],
+   "conflicts": [
+    "Stale sources: the hearing notice (2024-12-11) and the 2025 list (2025-07-24) are both more than 12 months old. No newer official page was found",
+    "Within 2 lookups, only secondary sources were found for the transport fee (e.g. a 2026 article citing a 236 CNY ticket + eco-bus combo). They are not official and are not suggested",
+    "Still unconfirmed: hours, eco-bus fare, discounts, reservation, payment, language"
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 48,
+  "verified": 47,
+  "corrected": 1,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "All cited pages opened with curl. fgw.hunan.gov.cn over https failed with TLS error 35; the http URL worked",
+   "Mutianyu: ticket prices and transport were not obtainable from the official site (cnTickets and cnTraffic have no text content). Night-session hours and dates are not published; night tours were cancelled on 2026-08-25",
+   "Tianmenshan: the official price is 72 CNY (from 2025-08-01). The 62 CNY in the 2025 list is superseded. The 72 CNY entry price does not show what visitors pay for the cableway packages",
+   "Several Mutianyu supporting pages are 2017-2021 (stale); the FAQ page 2366 contradicts current rules on booking and senior pricing",
+   "Description/highlight sentences on government price-list status, hearings and operator insurance obligations are administrative; recommend removing them"
+  ]
+ }
+}

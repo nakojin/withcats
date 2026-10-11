@@ -2,7 +2,7 @@
  "id": "kr-gangwon-gyeongpodae",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "경포대",
   "local": "경포대"
@@ -10,7 +10,7 @@
  "admin_region": "강원특별자치도",
  "former_region": null,
  "city": "강릉시 경포로 365",
- "address": null,
+ "address": "강원특별자치도 강릉시 경포로 365 (저동)",
  "coord": {
   "lat": 37.794754,
   "lng": 128.896357,
@@ -21,93 +21,420 @@
   "osm": "way/468962074"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "경포대는 강릉 경포호 북쪽 언덕에 선 누각으로 관동팔경의 하나이며 국가지정문화재 보물 제2046호다.",
+ "description": "경포대는 강릉 경포호 북쪽 언덕에 선 누각으로 관동팔경의 하나이며 국가지정문화재 보물 제2046호다. 높은 곳에 있어 경포호수와 경포대해수욕장을 함께 내려다볼 수 있고, 율곡 이이가 열 살에 지었다는 경포대부와 숙종의 어제시 등이 걸려 있다. 입장료와 시설이용료가 없고 상시 이용할 수 있으며 주차도 무료다. 해가 바뀌는 1월 1일에는 일출을 보려는 사람이 많아 인근 숙박을 미리 잡으라는 안내가 있다. 장애인 전용 주차 4면이 있으나 주출입구는 계단이라 휠체어 출입이 어렵다.",
+ "highlights": [
+  "관동팔경의 하나이자 보물 제2046호 누각",
+  "경포호수와 경포대해수욕장을 함께 조망",
+  "입장료 무료, 연중 상시 개방, 무료 주차",
+  "율곡 이이의 경포대부, 숙종 어제시 등 현판 글 감상",
+  "1월 1일 일출 시즌에는 숙박 사전 예약 권장"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c5",
+    "r1-b08-c6"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "버스 노선, 가장 가까운 정류장, 도보 시간을 안내하는 강릉시 또는 관광공사의 정적 공식 페이지를 열지 못했다. bis.gn.go.kr 공지는 검색 결과에서 제목만 확인했고 본문은 열지 못했다.",
+     "detail": "access",
+     "run": "r1-b08"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 권장 관람 소요시간이 없다."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c2"
+   ],
+   "gap": null
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c3"
+   ],
+   "gap": null
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c4"
+   ],
+   "gap": null
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 예약 관련 언급이 없다. 상시 개방 무료 시설이라 필요 여부는 명시되지 않았다."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "입장료가 없고 결제 수단 안내도 없다."
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내 설명이나 오디오가이드 여부를 적은 공식 페이지를 찾지 못했다."
    }
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c7"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b08-c1",
+   "field": "location",
+   "text": "경포대의 주소는 강릉시 경포로 365이다.",
+   "original_text": null,
+   "value": "강원특별자치도 강릉시 경포로 365 (저동)",
+   "verdict": "verified",
+   "verify_note": "visitkorea access page (수정일 2026.03.11) gives 강원특별자치도 강릉시 경포로 365 (저동). gn.go.kr gives the same street address under the old name 강원도.",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+     "type": "national_tourism",
+     "page_updated": "2026-03-11",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c2",
+   "field": "hours",
+   "text": "경포대는 시간 제한 없이 상시 이용할 수 있다.",
+   "original_text": null,
+   "value": "상시",
+   "verdict": "verified",
+   "verify_note": "gn: 상시이용 가능. visitkorea: 상시 개방.",
+   "sources": [
+    {
+     "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+     "type": "national_tourism",
+     "page_updated": "2026-03-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c3",
+   "field": "closed_days",
+   "text": "경포대는 정기 휴무 없이 연중 개방한다.",
+   "original_text": null,
+   "value": "연중무휴",
+   "verdict": "verified",
+   "verify_note": "visitkorea: 연중무휴. gn: 연중개방.",
+   "sources": [
+    {
+     "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+     "type": "national_tourism",
+     "page_updated": "2026-03-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c4",
+   "field": "fees",
+   "text": "경포대 입장료는 무료이며 별도 시설이용료도 없다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "gn: 입장료 무료, 시설이용료 없음.",
+   "sources": [
+    {
+     "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c5",
+   "field": "parking",
+   "text": "경포대에는 주차가 가능하고 주차요금은 무료이다.",
+   "original_text": null,
+   "value": "무료 주차",
+   "verdict": "verified",
+   "verify_note": "gn: 주차가능, 무료주차.",
+   "sources": [
+    {
+     "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c6",
+   "field": "parking",
+   "text": "주출입구 근처 지상주차장에 장애인 전용 주차구역이 4면 있다.",
+   "original_text": null,
+   "value": "4면",
+   "verdict": "verified",
+   "verify_note": "visitkorea: 장애인 전용 주차구역, 주출입구 근처 지상주차장, 4면.",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+     "type": "national_tourism",
+     "page_updated": "2026-03-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c7",
+   "field": "caution",
+   "text": "주출입구는 계단으로 이어져 휠체어로 들어가기 어렵고, 장애인 화장실은 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "visitkorea says this. It also says the approach to the entrance has no step and a wheelchair can reach it.",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+     "type": "national_tourism",
+     "page_updated": "2026-03-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c8",
+   "field": "description",
+   "text": "경포대는 관동팔경의 하나로 경포호 북쪽 언덕에 있는 누각이며 국가지정문화재 보물 제2046호이다.",
+   "original_text": null,
+   "value": "보물 제2046호",
+   "verdict": "verified",
+   "verify_note": "visitkorea has all parts. gn confirms 보물 제2046호.",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+     "type": "national_tourism",
+     "page_updated": "2026-03-11",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c9",
+   "field": "description",
+   "text": "고려 충숙왕 13년에 창건된 것으로 전해지며, 이후 한 차례 이건과 여러 차례 중수 기록이 남아 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "visitkorea: 고려 충숙왕 13년 창건, 한차례 이건, 수차례 중수 기록.",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+     "type": "national_tourism",
+     "page_updated": "2026-03-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c10",
+   "field": "highlight",
+   "text": "비교적 높은 곳에 지어져 경포호수와 경포대해수욕장을 조망할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "gn 관광팁 section.",
+   "sources": [
+    {
+     "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c11",
+   "field": "highlight",
+   "text": "누각 내부에는 숙종의 어제시, 율곡 이이가 10세에 지었다는 경포대부, 조하망의 상량문 등 여러 글이 게시되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "visitkorea 기본정보 section.",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+     "type": "national_tourism",
+     "page_updated": "2026-03-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c12",
+   "field": "tip",
+   "text": "경포해수욕장 일대는 1월 1일 일출을 보려는 방문객이 많아 숙박을 미리 예약해 두라고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "gn 관광가이드 section.",
+   "sources": [
+    {
+     "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c13",
+   "field": "tip",
+   "text": "경포대 문의 전화는 033-640-5119이다.",
+   "original_text": null,
+   "value": "033-640-5119",
+   "verdict": "verified",
+   "verify_note": "Both pages give 033-640-5119.",
+   "sources": [
+    {
+     "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c14",
+   "field": "tip",
+   "text": "주변 관광지로 경포호와 경포해수욕장이 있고, 경포호와 인접한 초당동의 초당두부를 강릉 별미로 추천한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "gn 관광가이드 section.",
+   "sources": [
+    {
+     "url": "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b08",
+   "text": "gn.go.kr (no update date shown) says 장애인편의 없음. visitkorea access page (updated 2026-03-11) lists 장애인 전용 주차 4면 and 장애인 화장실 있음. Treat the gn line as stale and follow visitkorea."
+  },
+  {
+   "run": "r1-b08",
+   "text": "gn.go.kr gives the address as 강원도 강릉시 경포로 365, a name used before 강원특별자치도 (2023). This looks like a stale source; record 강원도 as former_region."
+  },
+  {
+   "run": "r1-b08",
+   "text": "gn.go.kr contradicts itself on size: 소개 says 정면 6칸·측면 5칸, 관광팁 says 정면 다섯 칸·측면 5칸. No claim uses this."
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -202,6 +529,38 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b08",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 14,
+    "verdicts": {
+     "verified": 14,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 0
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.detail",
+   "note": "주차장 위치와 주차 면수는 공식 페이지에 없고, 장애인 4면만 확인했다.",
+   "run": "r1-b08"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b08"
  }
 }

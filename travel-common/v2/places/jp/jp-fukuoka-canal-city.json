@@ -1,0 +1,850 @@
+{
+ "id": "jp-fukuoka-canal-city",
+ "country": "jp",
+ "tier": "A",
+ "status": "verified",
+ "names": {
+  "ko": "캐널시티 하카타",
+  "local": "キャナルシティ博多"
+ },
+ "admin_region": "후쿠오카현 후쿠오카시 하카타구",
+ "former_region": null,
+ "city": null,
+ "address": "〒812-0018 福岡県福岡市博多区住吉1丁目2",
+ "coord": null,
+ "coord_note": "좌표 수집 대기",
+ "summary": "캐널시티 하카타는 후쿠오카시 하카타구 스미요시에 있는 복합 상업시설로, 연중무휴로 운영됩니다.",
+ "description": "캐널시티 하카타는 후쿠오카시 하카타구 스미요시에 있는 복합 상업시설로, 연중무휴로 운영됩니다. 쇼핑은 10:00부터 21:00까지, 레스토랑은 11:00부터 23:00까지가 기본 영업시간이며 일부 점포는 다를 수 있습니다. 지하 1층 선플라자에서는 10:00부터 22:00까지 음악에 맞춰 분수 쇼가 열리고, 밤에는 약 2,500인치 규모의 3D 프로젝션 매핑 쇼 캐널 아쿠아파노라마가 매일 무료로 상연됩니다. 지하철 나나쿠마선 구시다 신사마에역에서 걸어서 약 3분이고, 하카타역에서는 도보 약 10분입니다. 1층 종합 인포메이션에는 외국어 대응이 가능한 직원이 있고, 면세 절차와 코인로커, 무료 Wi-Fi도 이용할 수 있습니다.",
+ "highlights": [
+  "연중무휴, 쇼핑 10:00~21:00 / 레스토랑 11:00~23:00",
+  "B1F 선플라자 분수 쇼(10:00~22:00)",
+  "밤마다 무료 3D 프로젝션 매핑 '캐널 아쿠아파노라마'",
+  "지하철 구시다 신사마에역 도보 약 3분, 하카타역 도보 약 10분",
+  "24시간 운영 주차장(1,300대)과 면세·코인로커·무료 Wi-Fi"
+ ],
+ "checklist": {
+  "location": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c1",
+    "r1-b18-c29"
+   ],
+   "gap": null
+  },
+  "access": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c2",
+    "r1-b18-c3",
+    "r1-b18-c4",
+    "r1-b18-c5",
+    "r1-b18-c6",
+    "r1-b18-c7",
+    "r1-b18-c8",
+    "r1-b18-c9",
+    "r1-b18-c10",
+    "r1-b18-c11",
+    "r1-b18-c12"
+   ],
+   "gap": null
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 소요시간 안내가 없음."
+   }
+  },
+  "hours": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c13",
+    "r1-b18-c14"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "분수 쇼 정확한 회차표는 기간별로 바뀌어 고정 정보로 쓰지 않음.",
+     "detail": "hours.fountain_schedule",
+     "run": "r1-b18"
+    }
+   ]
+  },
+  "closed_days": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c15"
+   ],
+   "gap": null
+  },
+  "fees": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c18"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "시설 입장료 여부를 직접 명시한 문장은 없음(아쿠아파노라마만 무료로 명시). 개별 점포·극장·영화 요금은 각 시설 페이지에 별도.",
+     "detail": "fees.entry",
+     "run": "r1-b18"
+    }
+   ]
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "시설 이용에 예약이 필요한지에 대한 공식 기재가 없음(영화·극장은 별도 시설 페이지)."
+   }
+  },
+  "payment": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c24"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "시설 전체의 결제 수단(카드·교통카드·QR 등)을 명시한 공식 페이지를 찾지 못함. 점포별로 다를 수 있음.",
+     "detail": "payment",
+     "run": "r1-b18"
+    }
+   ]
+  },
+  "language": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c20"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내·한국어 직원 유무는 공식 페이지에 명시되지 않음(외국어 대응 직원이 있다는 기재만 있음).",
+     "detail": "language.korean",
+     "run": "r1-b18"
+    }
+   ]
+  },
+  "caution": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c19",
+    "r1-b18-c27"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "2026-03-01자 이벤트 페이지에 일부 연출 장비 불량 안내가 있었으나 현재 해소 여부 미확인. 8/31~10/16 낮 분수 쇼 시각표(10:00부터 매시 정각, 마지막 17:30)가 있고 야간 시각표는 이 확인에서 읽지 못함.",
+     "detail": "caution.aquapanorama",
+     "run": "r1-b18"
+    }
+   ]
+  }
+ },
+ "claims": [
+  {
+   "cid": "r1-b18-c1",
+   "field": "location",
+   "text": "주소는 〒812-0018 후쿠오카현 후쿠오카시 하카타구 스미요시 1초메 2이다.",
+   "original_text": null,
+   "value": "〒812-0018 福岡県福岡市博多区住吉1丁目2",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c2",
+   "field": "access",
+   "text": "JR 하카타역·지하철 하카타역에서 걸어서 약 10분이다.",
+   "original_text": null,
+   "value": "도보 약 10분",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c3",
+   "field": "access",
+   "text": "지하철 나나쿠마선 구시다 신사마에역에서 걸어서 약 3분이다.",
+   "original_text": null,
+   "value": "도보 약 3분",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c4",
+   "field": "access",
+   "text": "구시다 신사마에역 1번 출구에서 걸어서 약 3분이면 캐널시티 노스빌딩에 닿는다.",
+   "original_text": null,
+   "value": "1번 출구 도보 약 3분",
+   "verdict": "verified",
+   "verify_note": "Exit ① about 3 min to North Building",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c5",
+   "field": "access",
+   "text": "JR 하카타역 하카타구치에서 하카타 에키마에 거리를 따라 도보 약 7분 직진한 뒤 '하카타 경찰서 입구' 교차로를 건너 왼쪽으로 돌면 비즈니스센터 빌딩·캐널시티 후쿠오카 워싱턴 호텔 쪽에 닿는다.",
+   "original_text": "JR 하카타역 하카타구치에서 하카타 에키마에 거리를 따라 도보 약 7분 직진하면 된다.",
+   "value": "도보 약 7분",
+   "verdict": "corrected",
+   "verify_note": "Route continues after the 7-min straight walk: cross the intersection and turn left",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c6",
+   "field": "access",
+   "text": "니시테쓰 버스의 '후쿠오카 도심 150엔 버스' 구역(하카타역·구라모토·덴진·야쿠인에키마에)에서는 어느 니시테쓰 버스를 타도 운임이 150엔이며, 승차 정류장과 노선에 따라 내리는 정류장이 다르다.",
+   "original_text": "세이부 니시테쓰 버스의 '후쿠오카 도심 150엔 버스' 구역(하카타역·구라모토·덴진·야쿠인에키마에)에서는 어느 니시테쓰 버스든 운임이 150엔이다.",
+   "value": "150엔",
+   "verdict": "corrected",
+   "verify_note": "Page says 西鉄バス (Nishitetsu); 'Seibu' (세이부) is wrong",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c7",
+   "field": "parking",
+   "text": "직영 주차장 '캐널시티 파킹'은 연중무휴 24시간 운영하며 수용 대수는 1,300대이다.",
+   "original_text": null,
+   "value": "1,300대 / 24시간",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/access/parking",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c8",
+   "field": "parking",
+   "text": "캐널시티 파킹 요금은 종일 30분당 200엔이며 30분 단위로 정산한다(연말연시 등에는 요금이 바뀔 수 있다).",
+   "original_text": null,
+   "value": "200엔/30분",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/access/parking",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c9",
+   "field": "parking",
+   "text": "지상 주차장의 높이 제한은 2.0m 미만(일부 차실 1.9m 미만), 지하 주차장은 2.1m 미만(일부 차실 2.0m 미만)이다.",
+   "original_text": null,
+   "value": "지상 2.0m / 지하 2.1m",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/access/parking",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c10",
+   "field": "parking",
+   "text": "인접한 '파크 스미요시'(130대)는 24시간 운영하며 평일 30분당 100엔, 토·일·공휴일 20분당 100엔이고 높이 제한은 2.3m 미만이다.",
+   "original_text": null,
+   "value": "평일 100엔/30분, 휴일 100엔/20분",
+   "verdict": "verified",
+   "verify_note": "Also on page: weekday long-stay cap of 700 yen up to 10 h (for stays of 3.5 h or more); monthly-contract cars may block entry",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/access/parking",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c11",
+   "field": "parking",
+   "text": "점포 한 곳에서 2,500엔(세금 포함) 이상 이용하면 주차 1시간 서비스를 받을 수 있다(OPA 제외 점포 기준, 점포당 1회).",
+   "original_text": null,
+   "value": "2,500엔 이상 / 1시간",
+   "verdict": "verified",
+   "verify_note": "Cinema, theatre and TAITO STATION are excluded; receipts from several shops cannot be combined",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/access/parking",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c12",
+   "field": "parking",
+   "text": "유나이티드 시네마 캐널시티 13에서 영화 한 편을 보면 주차 3시간 서비스를 받는다.",
+   "original_text": null,
+   "value": "3시간",
+   "verdict": "verified",
+   "verify_note": "Must show parking ticket when buying the movie ticket",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/access/parking",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c13",
+   "field": "hours",
+   "text": "쇼핑 점포의 기본 영업시간은 10:00~21:00이며 일부 점포는 다르다.",
+   "original_text": null,
+   "value": "10:00-21:00",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/service/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c14",
+   "field": "hours",
+   "text": "레스토랑의 기본 영업시간은 11:00~23:00이다.",
+   "original_text": null,
+   "value": "11:00-23:00",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/service/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c15",
+   "field": "closed_days",
+   "text": "시설은 연중무휴이며, 점포마다 정기 휴무일이 있을 수 있다.",
+   "original_text": null,
+   "value": "연중무휴",
+   "verdict": "verified",
+   "verify_note": "'基本的に定休日はありません'; service page: 年中無休",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/foreign_visitors/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c16",
+   "field": "highlight",
+   "text": "지하 1층 선플라자에서 매일 10:00~22:00 음악에 맞춘 분수 쇼가 열린다.",
+   "original_text": null,
+   "value": "10:00-22:00",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/foreign_visitors/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c17",
+   "field": "highlight",
+   "text": "밤에는 약 2,500인치 규모 3D 프로젝션 매핑, 워터 스크린, 음향·조명을 더한 '캐널 아쿠아파노라마'가 열린다.",
+   "original_text": null,
+   "value": "약 2,500인치",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/foreign_visitors/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c18",
+   "field": "fees",
+   "text": "아쿠아파노라마는 매일 밤 무료로 상연된다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "'毎晩無料で上演'",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/foreign_visitors/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c19",
+   "field": "caution",
+   "text": "분수 쇼·아쿠아파노라마는 이벤트, 날씨, 점검 등으로 중단될 수 있고 상연 일정은 예고 없이 바뀔 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Both pages state it",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/foreign_visitors/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.canalcity.co.jp/event/detail/40",
+     "type": "operator",
+     "page_updated": "2026-03-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c20",
+   "field": "language",
+   "text": "센터워크 1층 종합 인포메이션에는 외국어 대응이 가능한 직원이 있다(대응 언어는 명시되지 않음).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/foreign_visitors/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c21",
+   "field": "tip",
+   "text": "종합 인포메이션(센터워크 1F, 10:00~21:00)에서는 관내 안내, 유모차·휠체어·필담 보드 대여, 구매 상품 택배 접수, 티켓 판매를 한다.",
+   "original_text": "종합 인포메이션(센터워크 1F, 10:00~21:00)에서 유모차·휠체어·필담 보드 대여와 짐 배송 접수 안내를 한다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "Page says お買物商品の宅配受付 (home delivery of purchases), not luggage delivery",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/service/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c22",
+   "field": "tip",
+   "text": "코인로커는 센터워크 2F·B1F, 사우스빌딩 B2F, 이스트빌딩 1F에 있고 이용 시간은 7:00~AM0:30, 요금은 1일(1회) 400엔부터이며 최대 3일까지 이용할 수 있다.",
+   "original_text": null,
+   "value": "400엔~1,300엔/일, 최대 3일",
+   "verdict": "verified",
+   "verify_note": "400~1,000 yen per locker location, 400~1,300 yen at Center Walk B1F; East Bldg 1F available 24 h via the bike-parking entrance",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/service/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c23",
+   "field": "tip",
+   "text": "관내 공용 통로에서 무료 Wi-Fi(SSID CANAL_CITY_Wi-Fi)를 쓸 수 있다.",
+   "original_text": null,
+   "value": "CANAL_CITY_Wi-Fi",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/service/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c24",
+   "field": "payment",
+   "text": "센터워크 B1F의 세븐은행 ATM(7:00~24:00)에서는 해외 금융기관이 발행한 신용카드·현금카드로 현금을 인출할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/service/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c25",
+   "field": "tip",
+   "text": "면세 절차는 구매 당일 면세 카운터(10:00~21:30, 관내 PIE VAT 가맹점 구매액이 일반물품·소모품 각각 5,000엔(세금 별도) 이상)나 점포 안(단일 점포 구매액이 일반물품·소모품 각각 5,000엔(세금 별도) 이상)에서 할 수 있으며, 일정 조건을 갖추면 일반물품과 소모품을 합산할 수 있다.",
+   "original_text": "면세 절차는 면세 카운터(구매 당일 10:00~21:30)나 점포 내에서 할 수 있으며, 단일 점포 구매액이 일반물품·소모품 각각 5,000엔(세금 별도) 이상이어야 한다.",
+   "value": "5,000엔(세별) 이상",
+   "verdict": "corrected",
+   "verify_note": "Counter threshold applies to PIE VAT member-shop purchases, not a single shop; combining is allowed under conditions",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/service/tax_free",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c26",
+   "field": "tip",
+   "text": "면세 카운터 환급 방법은 은행 송금, 신용카드·체크카드, WeChat, PayPal 중에서 고르며, 면세 수수료로 대상 상품 금액의 1.5%가 부과되고 환급률은 8.5%이며 환급액의 4.25%가 송금 수수료로 공제된다.",
+   "original_text": "면세 카운터 환급 방법은 은행 송금, 신용카드·체크카드, WeChat, PayPal 중에서 선택하며, 면세 수수료로 대상 상품 금액의 1.5%가 부과된다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "Page also states the 8.5% refund rate and the 4.25% remittance fee",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/service/tax_free",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c27",
+   "field": "caution",
+   "text": "해외로의 배송 서비스는 이용할 수 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/foreign_visitors/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c28",
+   "field": "tip",
+   "text": "분실물은 인포메이션 서비스 센터(전화 +81 92-282-2525, 10:00~21:00)로 직접 전화해야 하며 이메일은 받지 않는다.",
+   "original_text": null,
+   "value": "+81 92-282-2525",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/foreign_visitors/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c29",
+   "field": "location",
+   "text": "캐널시티 하카타에는 그랜드 하얏트 후쿠오카와 캐널시티·후쿠오카 워싱턴 호텔이 직결되어 있고, 관내에 유나이티드 시네마 캐널시티 13이 있다.",
+   "original_text": "복합시설 안에 유나이티드 시네마, 크래프티아 극장, 그랜드 하얏트 후쿠오카, 캐널시티·후쿠오카 워싱턴 호텔이 연결되어 있다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "FAQ body names only the two hotels as directly connected plus the cinema; Craftia Theater appears only in the site nav",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/faq/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-s1",
+   "field": "ops.hours",
+   "text": "2026년 8월 31일~10월 16일 상연 일정: 분수 쇼는 10:00~22:00 사이 정시·30분에 열리고, 캐널 아쿠아파노라마는 19:00·21:00(GUNDAM SCRAMBLE in FUKUOKA, 약 10분)과 20:00(Imagination, 약 5분)에 상연한다. 10월 17일 이후 일정은 정해지는 대로 공지한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/event/detail/40",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-s2",
+   "field": "caution",
+   "text": "캐널 아쿠아파노라마는 현재 일부 연출 장비 고장으로 일부 영상이 정상적으로 표시되지 않는다고 공지되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/event/detail/40",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-s3",
+   "field": "tip",
+   "text": "면세는 여권과 신용카드 명의가 다르거나 법인카드로 결제하면 받을 수 없고, 자동화·안면인식 게이트로 입국해 입국 도장이 없으면 면세가 불가하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.canalcity.co.jp/service/tax_free",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b18",
+   "text": "The foreign_visitors page still says Ramen Stadium is temporarily closed with a renewal opening on 4月17日(金), which is stale text."
+  },
+  {
+   "run": "r1-b18",
+   "text": "The highlight '밤마다 무료 3D 프로젝션 매핑' is backed by c17/c18, but the official event page currently reports an equipment fault affecting some visuals."
+  },
+  {
+   "run": "r1-b18",
+   "text": "The posted show schedule runs only to 2026-10-16; later dates are TBA, so any schedule text must carry that date range."
+  },
+  {
+   "run": "r1-b18",
+   "text": "No Korean-language page found (/ko/ and /kr/ return 404), so language.korean stays unconfirmed."
+  }
+ ],
+ "legacy": null,
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": [
+   {
+    "run": "r1-b18",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 29,
+    "verdicts": {
+     "verified": 23,
+     "corrected": 6,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b18"
+ }
+}

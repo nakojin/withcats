@@ -1,0 +1,495 @@
+{
+ "id": "jp-tokyo-shibuya-scramble",
+ "country": "jp",
+ "tier": "A",
+ "status": "verified",
+ "names": {
+  "ko": "시부야 스크램블 교차로",
+  "local": "渋谷スクランブル交差点"
+ },
+ "admin_region": "도쿄도 시부야구",
+ "former_region": null,
+ "city": null,
+ "address": "東京都渋谷区道玄坂下（渋谷駅前）",
+ "coord": null,
+ "coord_note": "좌표 수집 대기",
+ "summary": "시부야 스크램블 교차로는 도쿄를 대표하는 랜드마크로, 여러 방향에서 한꺼번에 사람들이 건너는 모습으로 유명합니다.",
+ "description": "시부야 스크램블 교차로는 도쿄를 대표하는 랜드마크로, 여러 방향에서 한꺼번에 사람들이 건너는 모습으로 유명합니다. 시부야역 하치코 출구 바로 앞에 있어 JR, 긴자선, 게이오 이노카시라선, 도큐 도요코선 등으로 쉽게 닿을 수 있고, 관람은 무료입니다. 도쿄 관광 공식 사이트는 한 번에 1,000명 이상이 건넌다고 소개하며, 일본정부관광국은 가장 붐빌 때 2분마다 1,000~2,500명이 건넌다고 안내합니다. 교차로를 내려다보려면 QFRONT 빌딩의 스타벅스가 추천되고, 역 안 JR선과 게이오 이노카시라선 개찰구 사이는 사람이 덜 몰리는 전망 지점입니다. 건너편 센터가이에는 상점과 식당이 모여 있습니다. 시부야역 주변 지정 구역에서는 18시부터 다음 날 5시까지 길거리 음주가 금지되니 주의하세요.",
+ "highlights": [
+  "시부야역 하치코 출구 바로 앞, 이용 무료",
+  "한 번에 1,000명 이상이 건너는 다방향 횡단",
+  "QFRONT 빌딩 스타벅스에서 내려다보는 전망",
+  "역 안 JR선과 게이오 이노카시라선 개찰구 사이의 덜 붐비는 전망 지점",
+  "건너편 센터가이에서 쇼핑·식사 연계",
+  "18시~다음 날 5시 역 주변 지정 구역 길거리 음주 금지"
+ ],
+ "checklist": {
+  "location": {
+   "status": "filled",
+   "claims": [
+    "r1-b17-c1",
+    "r1-b17-c2"
+   ],
+   "gap": null
+  },
+  "access": {
+   "status": "filled",
+   "claims": [
+    "r1-b17-c3",
+    "r1-b17-c4"
+   ],
+   "gap": null
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 권장 소요시간이 없음."
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공공 도로라 공식 페이지에 이용 시간이 적혀 있지 않음."
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 휴무 정보가 없음."
+   }
+  },
+  "fees": {
+   "status": "filled",
+   "claims": [
+    "r1-b17-c5"
+   ],
+   "gap": null
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 예약 관련 언급이 없음."
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 결제 관련 언급이 없음(관람 무료로만 표기)."
+   }
+  },
+  "language": {
+   "status": "filled",
+   "claims": [
+    "r1-b17-c13"
+   ],
+   "gap": null
+  },
+  "caution": {
+   "status": "filled",
+   "claims": [
+    "r1-b17-c11",
+    "r1-b17-c12"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "할로윈·연말 혼잡 규제는 이번 조사에서 공식 페이지로 확인하지 못함.",
+     "detail": "caution.halloween",
+     "run": "r1-b17"
+    },
+    {
+     "reason": "not_in_official_source",
+     "note": "음주 금지 구역에 스크램블 교차로가 포함되는지는 구청의 구역 지도(별도 이미지)로 확인하지 못함.",
+     "detail": "caution.alcohol_area",
+     "run": "r1-b17"
+    }
+   ]
+  }
+ },
+ "claims": [
+  {
+   "cid": "r1-b17-c1",
+   "field": "location",
+   "text": "도쿄 관광 공식 사이트는 이 교차로의 소재지를 도쿄도 시부야구 도겐자카시타(道玄坂下) 시부야 크로싱으로 표기한다.",
+   "original_text": null,
+   "value": "Dogenzakashita, Shibuya Crossing, Shibuya City, Tokyo",
+   "verdict": "verified",
+   "verify_note": "GO TOKYO page shows 'Dogenzakashita, Shibuya Crossing, Shibuya City, Tokyo' (updated 2026-02-12)",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/spot/78/",
+     "type": "government",
+     "page_updated": "2026-02-12",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b17"
+  },
+  {
+   "cid": "r1-b17-c2",
+   "field": "location",
+   "text": "일본정부관광국은 교차로가 시부야역 하치코 출구 바로 앞에 있다고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "JNTO: 'located directly outside Shibuya Station's Hachiko exit'",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/2177/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b17"
+  },
+  {
+   "cid": "r1-b17-c3",
+   "field": "access",
+   "text": "JR선, 지하철 긴자선, 게이오 이노카시라선, 도큐 도요코선이 시부야역에 정차하는 노선으로 안내된다.",
+   "original_text": null,
+   "value": [
+    "JR",
+    "Ginza",
+    "Keio Inokashira",
+    "Tokyu Toyoko"
+   ],
+   "verdict": "verified",
+   "verify_note": "How to Get There lists the JR Line, Ginza Line, Keio Inokashira Line and Tokyu Toyoko Line",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/spot/78/",
+     "type": "government",
+     "page_updated": "2026-02-12",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b17"
+  },
+  {
+   "cid": "r1-b17-c4",
+   "field": "access",
+   "text": "JR 야마노테선으로 시부야역에서 내리면 되고, JR 사이쿄선·쇼난신주쿠라인, 도큐 덴엔토시선, 도쿄메트로 한조몬선·후쿠토신선도 시부야역에 선다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "JNTO also lists the Keio Inokashira, Tokyu Toyoko and Ginza lines",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/2177/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b17"
+  },
+  {
+   "cid": "r1-b17-c5",
+   "field": "fees",
+   "text": "도쿄 관광 공식 사이트가 이 명소에 '무료(Free)' 키워드를 붙여 두었으며, 교차로 관람에 요금이 들지 않는다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "Has the keyword 'Free' (KR page: 무료 액티비티)",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/spot/78/",
+     "type": "government",
+     "page_updated": "2026-02-12",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b17"
+  },
+  {
+   "cid": "r1-b17-c6",
+   "field": "description",
+   "text": "도쿄 관광 공식 사이트는 이 교차로를 한 번에 1,000명 이상이 건너는 다방향 교차로이자 도쿄의 상징적 랜드마크로 소개한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'upwards of 1,000 people... iconic landmark'",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/spot/78/",
+     "type": "government",
+     "page_updated": "2026-02-12",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b17"
+  },
+  {
+   "cid": "r1-b17-c7",
+   "field": "description",
+   "text": "일본정부관광국은 가장 붐빌 때 2분마다 약 1,000~2,500명이 이 교차로를 건넌다고 추정한다.",
+   "original_text": null,
+   "value": "1,000~2,500명/2분",
+   "verdict": "verified",
+   "verify_note": "'estimated 1,000 to 2,500 people... every two minutes'",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/2177/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b17"
+  },
+  {
+   "cid": "r1-b17-c8",
+   "field": "description",
+   "text": "교차로 건너편의 센터가이에는 수백 개의 상점·바·식당이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'Center Gai... hundreds of shops, bars and restaurants'",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/spot/78/",
+     "type": "government",
+     "page_updated": "2026-02-12",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b17"
+  },
+  {
+   "cid": "r1-b17-c9",
+   "field": "tip",
+   "text": "교차로 바로 위층의 스타벅스(QFRONT 빌딩)에서 인파를 내려다보며 사진을 찍을 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "GO TOKYO: 'Starbucks directly above'; JNTO: 'Starbucks in the QFRONT building'",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/2177/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.gotokyo.org/en/spot/78/",
+     "type": "government",
+     "page_updated": "2026-02-12",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b17"
+  },
+  {
+   "cid": "r1-b17-c10",
+   "field": "tip",
+   "text": "역 안에서 JR선과 게이오 이노카시라선 입구 사이는 상대적으로 사람이 덜 몰리는 조망 지점이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'less-trafficked vantage point... between the JR lines and the Keio Inokashira Line entrance'",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/2177/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b17"
+  },
+  {
+   "cid": "r1-b17-c11",
+   "field": "caution",
+   "text": "시부야구는 2024년 10월 1일부터 18시~다음 날 5시 사이 길·공원 등 공공장소의 음주를 연중 금지하며, 금지 구역도 넓혔다.",
+   "original_text": null,
+   "value": "18:00~05:00, 연중",
+   "verdict": "verified",
+   "verify_note": "Effective 2024-10-01: drinking in public places banned year-round 18:00-05:00 and the banned area was widened. Page updated 2025-08-22",
+   "sources": [
+    {
+     "url": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html",
+     "type": "government",
+     "page_updated": "2025-08-22",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b17"
+  },
+  {
+   "cid": "r1-b17-c12",
+   "field": "caution",
+   "text": "구는 길거리 음주 금지 안내문을 한국어 PDF로도 제공한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Link to the '路上飲酒禁止（韓国語）' PDF is present",
+   "sources": [
+    {
+     "url": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html",
+     "type": "government",
+     "page_updated": "2025-08-22",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b17"
+  },
+  {
+   "cid": "r1-b17-c13",
+   "field": "language",
+   "text": "도쿄 관광 공식 사이트는 이 명소 안내를 한국어 사이트로도 제공한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Korean page (lang=ko) for spot 78 exists",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/kr/spot/78/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b17"
+  },
+  {
+   "cid": "r1-b17-s1",
+   "field": "caution",
+   "text": "시부야구는 길거리 음주 금지 구역 밖에서도 구 전역에 '민폐 길거리 음주 제로 선언'을 내걸고 길거리 음주를 줄이는 데 힘쓰고 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b17"
+  },
+  {
+   "cid": "r1-b17-s2",
+   "field": "caution",
+   "text": "구가 후원하는 행사나 정내회·상점회 행사는 날짜·시간·구역을 정해 음주 제한이 해제될 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b17"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b17",
+   "text": "Shibuya City ordinance page was last updated 2025-08-22, which is more than 12 months old (stale_source). A search result mentions that an amendment adding fines was put to the ward assembly in December 2024. I did not open that page and have not confirmed whether it passed."
+  },
+  {
+   "run": "r1-b17",
+   "text": "caution.halloween: 2 searches found no official Shibuya City notice for Halloween 2026. The only official Halloween notice found is from 2023 (stale). The ordinance page mentions Halloween only as background."
+  },
+  {
+   "run": "r1-b17",
+   "text": "caution.alcohol_area: the boundary of the banned area is shown only as a map image. It has no text description, so it cannot be put into a claim."
+  }
+ ],
+ "legacy": null,
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": [
+   {
+    "run": "r1-b17",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 13,
+    "verdicts": {
+     "verified": 13,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 2
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "address",
+   "note": "공식 페이지에는 번지까지 적힌 도로명 주소가 없고 '도겐자카시타 시부야 크로싱'으로만 표기되어 있어 번지는 확정하지 않음.",
+   "run": "r1-b17"
+  },
+  {
+   "topic": "parking",
+   "note": "공식 페이지에 전용 주차장 정보가 없음.",
+   "run": "r1-b17"
+  },
+  {
+   "topic": "stale_source",
+   "note": "일본정부관광국 페이지(japan.travel/en/spot/2177/)는 갱신일이 표시되지 않아 최신성을 확인하지 못함.",
+   "run": "r1-b17"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b17"
+ }
+}

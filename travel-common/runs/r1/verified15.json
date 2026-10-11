@@ -1,0 +1,623 @@
+{
+ "places": [
+  {
+   "key": "WEST-041",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Footer of info/15 gives the 首里城公園管理センター address 〒903-0815 那覇市首里金城町1-2."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "guide/ says it was the political, diplomatic and cultural centre, and that its building style blends Chinese and Japanese castle-building and its stonework led to World Cultural Heritage registration."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "guide/: 守礼門・園比屋武御嶽石門・円覚寺跡などの文化財が点在."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "guide/: 那覇市内を一望できる展望台「西のアザナ」."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "guide/: 奉神門で毎朝の開門時に御開門式."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access/9751: 首里駅から守礼門まで徒歩約15分."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "About 27 min from 那覇空港駅; adult 360 yen, child 180 yen."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "那覇バス7・8, 首里駅前→首里城前, 守礼門まで徒歩1分."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Airport about 10km, 40-60 min; 国際通り about 4km, 15-25 min."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "info/15 and access/192 agree. Opening hours changed on 2026-07-01."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access/192 gives the small-car fee and card brands. Fee revised on 2026-04-01 (令和8年4月1日)."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access/192: 一般車両は事前予約不可; private car parks may be suggested when full."
+    },
+    {
+     "cid": "c13",
+     "verdict": "corrected",
+     "corrected_text": "주차장은 버스·승용차 겸용이며 50~116대 규모다(계절과 버스 주차에 따라 조정). 특히 오전에는 만차가 되기 쉬워 모노레일·노선버스 등 대중교통 이용을 권한다.",
+     "note": "The 'directly connected to 首里杜館' part is not on the cited qa/ or access/9751 pages. It does appear on access/192 (駐車場は首里杜館と直結), which could be cited instead."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "info/15 lists 4 gates. qa/ lists only 3 for the free area (omits 継世門); see conflicts."
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches info/15."
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "info/15: 2026年11月22日(日) 公園全域休園・休場."
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Free area from 11:15, paid area from 12:00, 正殿 public opening 12:00."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "info/14: current fees valid through 2026-11-21."
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "info/14 and ticket_guide: tax-included new fees apply to entry from 2026-11-23. The effective date is in the text."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches info/14."
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Original public ID required (運転免許証・健康保険証・マイナンバーカード等)."
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Holder plus 1 carer free; ゆいレール 1-day or 2-day pass gets the group fee."
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "qa/: no extra charge to see 正殿. ticket_guide: annual pass 2,000 yen general and 1,500 yen resident adult, from 11/23."
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "qa/: 30-minute date-and-time slots. ticket_guide: on sale from 2026-09-01 13:00 (2nd release 10/1 13:00 for 11/23-12/31 entries)."
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "ticket_guide: sold from 1 month ahead until 15 min before last entry, on the web or at the window that day."
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches ticket_guide."
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access/192: 完全事前予約制, booking closes 2 days before the visit."
+    },
+    {
+     "cid": "c28",
+     "verdict": "corrected",
+     "corrected_text": "당일권은 고후쿠문(広福門) 매표소와 온라인 티켓으로 살 수 있다. 창구와 공원 내 시설에서 신용카드, 교통계 IC 등 전자머니, PayPay·Alipay·WeChat Pay 등 QR 결제를 쓸 수 있다(일부 시설 제외).",
+     "note": "広福門 is rendered wrongly as '히로후쿠문'. A Japanese word ('園内') was left in the Korean text. The payment details themselves are correct."
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "ticket_guide: about 90-120 min from 首里杜館 including 正殿 interior."
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "info/19: audio for some spots in Japanese, English, Chinese and Korean; free, no install. A 한국어 language link is on the site."
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "info/1315: no bringing in or flying drones."
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "info/1315: 城壁内全面禁煙, plus the banned-items list."
+    },
+    {
+     "cid": "c33",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "info/1315: no pets inside buildings or in the paid area; assistance dogs allowed everywhere. Small pets such as rabbits are also allowed in the park."
+    },
+    {
+     "cid": "c34",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches qa/."
+    },
+    {
+     "cid": "c35",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Footer: TEL 098-886-2020, phone hours 8:00-18:00."
+    }
+   ],
+   "unsupported_in_description": [
+    "'국영 공원' is not on any cited page. info/1315 refers to '県営首里城公園' instead.",
+    "'현재 요금은 개인 성인 400엔이다' gives no effective dates. The 400 yen fee ends on 2026-11-21, and from 2026-11-23 the adult fee is 1,000 yen (c18/c19). Both dates need to be stated."
+   ],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "ops.closed_days",
+     "text": "공식 FAQ의 휴원일 항목에는 정기 휴원일 없이 2026년 11월 22일(일) 임시 휴원·휴장만 안내되어 있다.",
+     "url": "https://oki-park.jp/shurijo/qa/"
+    },
+    {
+     "field": "ops.reservation",
+     "text": "예약 없이 당일 정전 내부 관람은 예약 틀에 빈자리가 있을 때만 가능하며(당일 시간대 15분 전까지 웹 또는 고후쿠문 창구), 무료 입장 대상자와 연간 패스 소지자도 미취학 아동을 빼고는 예약해야 한다.",
+     "url": "https://oki-park.jp/shurijo/ticket_guide/"
+    },
+    {
+     "field": "caution",
+     "text": "혼잡 예상은 8:30~11:00 매우 혼잡, 12:00~14:00과 17:00 이후 비교적 한산하며, 정전 안에서는 신발을 벗어야 한다.",
+     "url": "https://oki-park.jp/shurijo/ticket_guide/"
+    }
+   ],
+   "conflicts": [
+    "Official vs official: info/15 lists the free-area gates as 歓会門・木曳門・久慶門・継世門. qa/ lists only 歓会門・木曳門・久慶門.",
+    "No conflict on fees. info/14, ticket_guide and qa/ agree on the 11/21 to 11/23 fee change.",
+    "Recent changes, not stale: parking fees were revised on 2026-04-01 and parking hours on 2026-07-01. No source is older than 12 months."
+   ]
+  },
+  {
+   "key": "central-019",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Footer of info/: 〒460-0031 名古屋市中区本丸1番1号."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Home page: built by 徳川家康 in 1615; 城郭として国宝第一号; lost in the war; 国の特別史跡."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "honmarugoten: completed 1615, lost in the 1945 air raid, restoration completed 2018."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "honmarugoten: 玄関 has gold-ground 竹林豹虎図."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ: about 900 cherry trees and about 70 plum trees."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ: on the 8th of each month (環境デー) lights go off at 21:30; may go off earlier for the ライトダウンキャンペーン."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches access/."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Meitetsu 東大手 15 min on foot; city bus 栄13号系統 to 名古屋城正門前."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the FAQ."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches access/."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches access/."
+    },
+    {
+     "cid": "c12",
+     "verdict": "corrected",
+     "corrected_text": "대형차 야간 주차를 제외하면 주차장 예약 제도는 없고 선착순이다.",
+     "note": "FAQ: 大型車の夜間宿泊以外での駐車場の予約制度はありません. The exception is overnight large vehicles, not all large vehicles."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "info/ and FAQ: about 1h to 1h30."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches info/."
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches info/."
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "honmarugoten: 入館時間 9:00-16:00."
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches info/."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ and home: 本日開園 (天守閣等の中には入れません)."
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "fee/: changed on 令和8年10月1日 (2026-10-01), already in effect."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches fee/."
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "honmarugoten: 入館料無料, 名古屋城観覧料が必要."
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "fee/: holder plus carers (up to 2 if needed); show the card at the gate. Only cards issued under Japanese law count."
+    },
+    {
+     "cid": "c23",
+     "verdict": "corrected",
+     "corrected_text": "단체 관람에는 사전 예약이 필요 없다.",
+     "note": "The FAQ only says groups need no booking (団体予約は必要ですか→必要ありません). It says nothing on individual booking, and fee/ links to WEB tickets."
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "fee/: the listed payment methods are present; the 徳川園 joint ticket is cash only."
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "/ko/ shows 개원 정보 and the current 혼마루어전 waiting time."
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "honmarugoten and FAQ agree. The page also bans mobile phone use inside the palace, which is not in the claim."
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches honmarugoten."
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the FAQ."
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the FAQ."
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "language",
+     "text": "공식 사이트에 혼마루어전 음성 가이드(웹, 20개 지점)와 해설 PDF가 있으며, 이용 시 이어폰 사용을 요청한다. 페이지에 지원 언어는 표시되어 있지 않다.",
+     "url": "https://www.nagoyajo.city.nagoya.jp/info/castle_guide/voiceguide/"
+    },
+    {
+     "field": "caution",
+     "text": "혼마루어전 안에서는 휴대전화를 사용할 수 없고 맨발·스타킹 차림은 비치된 슬리퍼로 갈아신어야 한다.",
+     "url": "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/"
+    }
+   ],
+   "conflicts": [
+    "No conflict on fees. fee/, home and FAQ ('一般500円（令和8年10月1日以降は1,000円）') agree that 1,000 yen applies from 2026-10-01. No sources are stale."
+   ]
+  },
+  {
+   "key": "new:jp-osaka-usj",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access/car (page JSON): 〒554-0031 고노하나구 사쿠라지마 2-1-33."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "/web/ko/kr/ is a JS shell. The site's own JSON (contentdata/usj/ko/kr/index.html) has the movie-themed rides, character shows and Super Nintendo World."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page lists '우메다역/오사카역에서' 11 min and the other times."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Itami about 35 min, Kansai about 65 min."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches access/car."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "About 2,800 cars; fee varies by date; preferred section +1,000 yen, first come first served, no booking."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Large vehicles 6,000 yen, about 80 spaces, book 4 days ahead. Motorbikes 51cc+ 1,000 yen, about 60 spaces."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the parking page."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the parking page."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Hours API: 2026-10-11 08:00-22:00. The park-hour page says hours may change without notice."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches park-hour2."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "tickets: 입장권에는 파크 입장과 모든 어트랙션 이용이 포함. FAQ: no entry-only ticket."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "tickets/ also says prices are in a calendar on travel-agency sites."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches tickets/."
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the FAQ."
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the FAQ callout."
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the FAQ."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "tickets/: '한국 판매 대리점 링크 페이지'."
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Parking page Information Center block: operators English only, 9:00-17:00. The automated voice menu is Japanese (press 2)."
+    },
+    {
+     "cid": "c20",
+     "verdict": "corrected",
+     "corrected_text": "연간 스튜디오 패스 외 입장권으로는 재입장할 수 없다.",
+     "note": "The FAQ says only that re-entry is not allowed. The parking-user warning was added by the collector."
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the FAQ."
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "tickets/: QR codes on resold tickets are disabled."
+    },
+    {
+     "cid": "c23",
+     "verdict": "corrected",
+     "corrected_text": "휠체어는 정문 입장 후 오른쪽 대여 카운터에서 1대 500엔(비과세), 유모차(1인용)는 1,100엔(세금 포함)에 빌릴 수 있다. 휠체어는 예약을 받지 않고, 유모차는 예약이 필요 없다. 유모차는 생후 1~48개월 대상이며 수량이 한정되어 있다.",
+     "note": "The page says wheelchairs cannot be booked and strollers need no booking. The original applied 'cannot be booked' to both."
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ covers the lockers; park-hour2 covers the app wait times."
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "ops.closed_days",
+     "text": "공식 영업시간 데이터상 2026년 10월 11~30일은 매일 영업하며(휴무일 없음), 대부분 8:00~22:00이고 10월 25일은 8:30~21:30이다.",
+     "url": "https://mobile-service.usj.co.jp/api/venues/10251/Hours?endDate=2026-10-31"
+    },
+    {
+     "field": "ops.fees",
+     "text": "한국어 공식 사이트는 입장권 가격을 직접 표시하지 않으며, 입장일별 가격 캘린더는 여행사(판매 대리점) 사이트에서 확인하도록 안내한다.",
+     "url": "https://www.usj.co.jp/contentdata/usj/ko/kr/tickets/index.html"
+    }
+   ],
+   "conflicts": [
+    "No conflicts between official sources. Page JSON RevisionDates run from 2026-02-03 to 2026-07-30, all within 12 months. Hours and closed days come only from the app API, which covers dates up to 10/31."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 88,
+  "verified": 82,
+  "corrected": 6,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "All cited URLs were fetched with curl and returned 200. USJ pages are JS shells, so they were judged from the site's own contentdata JSON. /web/ko/kr/ was checked through contentdata/usj/ko/kr/index.html.",
+   "WEST-041: the description's fee sentence must give the dates: 400 yen until 2026-11-21 and 1,000 yen adult from 2026-11-23. Also, '국영 공원' is unsupported.",
+   "WEST-041: the description and highlights do not mention the full-park closure on 2026-11-22 (c16) or the Dec-Mar hours. Consider adding them because the 正殿 opening will draw visitors.",
+   "central-019: the fee revision took effect on 2026-10-01 and is stated correctly.",
+   "new:jp-osaka-usj: there is no official duration. Access by train and car is covered (c3-c5), so the collector's 'access' unconfirmed item is resolved."
+  ]
+ }
+}

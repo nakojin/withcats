@@ -1,0 +1,668 @@
+{
+ "places": [
+  {
+   "key": "new:jp-tokyo-shibuya-scramble",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "GO TOKYO page shows 'Dogenzakashita, Shibuya Crossing, Shibuya City, Tokyo' (updated 2026-02-12)"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO: 'located directly outside Shibuya Station's Hachiko exit'"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "How to Get There lists the JR Line, Ginza Line, Keio Inokashira Line and Tokyu Toyoko Line"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO also lists the Keio Inokashira, Tokyu Toyoko and Ginza lines"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Has the keyword 'Free' (KR page: 무료 액티비티)"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'upwards of 1,000 people... iconic landmark'"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'estimated 1,000 to 2,500 people... every two minutes'"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Center Gai... hundreds of shops, bars and restaurants'"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "GO TOKYO: 'Starbucks directly above'; JNTO: 'Starbucks in the QFRONT building'"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'less-trafficked vantage point... between the JR lines and the Keio Inokashira Line entrance'"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Effective 2024-10-01: drinking in public places banned year-round 18:00-05:00 and the banned area was widened. Page updated 2025-08-22"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Link to the '路上飲酒禁止（韓国語）' PDF is present"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Korean page (lang=ko) for spot 78 exists"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "caution",
+     "text": "시부야구는 길거리 음주 금지 구역 밖에서도 구 전역에 '민폐 길거리 음주 제로 선언'을 내걸고 길거리 음주를 줄이는 데 힘쓰고 있다.",
+     "url": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html"
+    },
+    {
+     "field": "caution",
+     "text": "구가 후원하는 행사나 정내회·상점회 행사는 날짜·시간·구역을 정해 음주 제한이 해제될 수 있다.",
+     "url": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html"
+    }
+   ],
+   "conflicts": [
+    "Shibuya City ordinance page was last updated 2025-08-22, which is more than 12 months old (stale_source). A search result mentions that an amendment adding fines was put to the ward assembly in December 2024. I did not open that page and have not confirmed whether it passed.",
+    "caution.halloween: 2 searches found no official Shibuya City notice for Halloween 2026. The only official Halloween notice found is from 2023 (stale). The ordinance page mentions Halloween only as background.",
+    "caution.alcohol_area: the boundary of the banned area is shown only as a map image. It has no text description, so it cannot be put into a claim."
+   ]
+  },
+  {
+   "key": "new:jp-tokyo-skytree",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1-1-2 Oshiage, Sumida-ku, Tokyo 131-0045"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Standing 634 meters tall'"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Tembo Deck 340/345/350, Tembo Galleria 445/450"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Floor 340 glass floor"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Anyone can experience it with just the admission fee to the Tembo Deck'"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "350 Tembo Deck: 'on clear days you can even spot Mt. Fuji'"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'the air is clearer from November to February'"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Approx. 8 min + approx. 3 min"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Route table says approx. 3 min, but the same page's intro says 'about a 5-minute ride from Asakusa' (see conflicts)"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Approx. 39 min"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Approx. 49 min"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Skytree Shuttle described as a direct bus"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Approx. 25-35 minutes"
+    },
+    {
+     "cid": "c15",
+     "verdict": "corrected",
+     "corrected_text": "도쿄 스카이트리 타운의 동쪽(지하 주차장)과 서쪽(입체 주차장) 두 곳에 유료 주차장이 있다.",
+     "note": "The page says east and west of TOKYO SKYTREE TOWN, not of the tower"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "7:30-23:00 (entry until 22:00)"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "450 yen (tax incl.) per 30 min"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "5.0m or less"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1.9m or less"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2.1m or less"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2.3t or less"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Observation deck tickets are not eligible for the parking discount"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Checked against window.calendarData on the page. 2026-10-11 is 9:00-22:30. Hours are only listed through 2026-12-31, so the text must state that period"
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "最終入場はクローズ時間の１時間前"
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "営業時間は予告なく変更する場合がございます"
+    },
+    {
+     "cid": "c27",
+     "verdict": "corrected",
+     "corrected_text": "공식 영업 캘린더에는 2026년 10월 1일~12월 31일 모든 날짜에 영업시간이 적혀 있고, 2027년 1월 1일 칸에는 영업시간이 표시되지 않는다(휴무·점검 여부는 문구로 안내되지 않음).",
+     "note": "2027-01-01 has only the CSS class is-maintenance and an empty label. No visible 'maintenance' text is rendered"
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Adult (15+) from 3,000 yen, child (6-14) from 1,500 yen. Price for the visit date is shown on the web booking site"
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Adult from 1,800 yen, child from 900 yen"
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1,400 yen / 700 yen"
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "5歳以下の幼児、6歳以下の未就学児無料"
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "+500 yen per ticket at the 4F counter or ticket machines. Tembo Galleria tickets have no counter fee"
+    },
+    {
+     "cid": "c33",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "中学生まではこども料金、高校生以上は大人料金"
+    },
+    {
+     "cid": "c34",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Ticket page and FAQ (floor 350 machines) both say this"
+    },
+    {
+     "cid": "c35",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ adds that waits can still happen depending on crowds and elevator operation"
+    },
+    {
+     "cid": "c36",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'This item is not for sale. Please choose your preferred time slot'"
+    },
+    {
+     "cid": "c37",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Up to eight people"
+    },
+    {
+     "cid": "c38",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c39",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'less than 30 days before'"
+    },
+    {
+     "cid": "c40",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'We do not offer priority admission'"
+    },
+    {
+     "cid": "c41",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c42",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c43",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c44",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Shop, café and restaurant each list cash (JPY only), cards, e-money and QR payments"
+    },
+    {
+     "cid": "c45",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c46",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c47",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "ja/en/zh-CN/zh-TW/ko/fr/es/de"
+    },
+    {
+     "cid": "c48",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c49",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c50",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c51",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c52",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c53",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c54",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c55",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    }
+   ],
+   "unsupported_in_description": [
+    "'영업시간은 날짜별로 다르며 9시 또는 10시에 열어 22시(일부 날은 22시 30분)에 닫고' — c24 backs this, but the text gives no period. The calendar only lists hours for 2026-10-01 to 2026-12-31, so add '2026년 10~12월 기준'.",
+    "'미리 사면 현장 매표 줄을 피할 수 있습니다' — the FAQ also warns that waits can still happen depending on crowds and elevators (not contradicted; caveat missing)."
+   ],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "closed_days",
+     "text": "공식 영업 캘린더(2026년 10월 1일~12월 31일)에는 정기 휴무일 없이 매일 영업시간이 표시되어 있다.",
+     "url": "https://www.tokyo-skytree.jp/open-hours/"
+    },
+    {
+     "field": "parking",
+     "text": "주차 가능 차량은 최저 지상고 15cm 초과여야 한다.",
+     "url": "https://www.tokyo-skytree.jp/en/access/car/"
+    },
+    {
+     "field": "parking",
+     "text": "높이 2.1m를 넘는 복지 차량(리프트 장착 왜건)은 도쿄 스카이트리 타운 주차장을 이용할 수 없다.",
+     "url": "https://www.tokyo-skytree.jp/en/access/car/"
+    },
+    {
+     "field": "reservation",
+     "text": "단체 버스 주차장은 사전 예약제이며 예약 없는 차량은 들어갈 수 없다(승용차는 일반 주차장 이용).",
+     "url": "https://www.tokyo-skytree.jp/en/faq/"
+    },
+    {
+     "field": "fees",
+     "text": "입장권 가격은 날짜마다 달라 방문일 가격은 웹 예약 사이트에서 확인해야 한다.",
+     "url": "https://www.tokyo-skytree.jp/ticket/"
+    }
+   ],
+   "conflicts": [
+    "The public-transport page intro says Asakusa is 'about a 5-minute ride', but its route table says Asakusa to TOKYO SKYTREE Station is 'Approximately 3 minutes' (same official page).",
+    "Hours calendar only covers dates through 2026-12-31 (2027-01-01 is blank). Hours need re-checking from January 2027.",
+    "Unconfirmed after 2 lookups: 4F counter payment methods (payment.counter) and audio guide (language.audio_guide). Not found on the official FAQ, 4F floor page or admission page."
+   ]
+  },
+  {
+   "key": "new:jp-yamanashi-fuji-kawaguchiko",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page, but the page is stale (Last-Modified 2013-12-01)"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'southeastern Yamanashi near the border with Shizuoka'"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'easiest to access from Tokyo'"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'On a still, clear day... perfect mirror image'"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Winter is the best time to see Mt. Fuji clearly'"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Tenjoyama Park on the Kachi Kachi Ropeway... southeast corner of the lake'"
+    },
+    {
+     "cid": "c8",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "출처가 2013년 페이지(오래된 출처)이고 현행 공식 출처로 확인되지 않아 공개 보류(병합 시 처리). 원 노트: Matches the page text, but source is stale (2013). JNTO only confirms Shinjuku-Otsuki is about 1 hour and does not give a total time"
+    },
+    {
+     "cid": "c9",
+     "verdict": "outdated",
+     "corrected_text": "신주쿠 고속버스터미널에서 고속버스를 타면 가와구치코역까지 2시간 조금 못 되게 걸린다.",
+     "note": "'Shinjuku Station West Exit' comes from a stale page (2013). The current JNTO page says the bus leaves from the Shinjuku Expressway Bus Terminal and takes 'just under 2 hours'"
+    },
+    {
+     "cid": "c10",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "출처가 2013년 페이지(오래된 출처)이고 현행 공식 출처로 확인되지 않아 공개 보류(병합 시 처리). 원 노트: Matches the page text, but source is stale (2013)"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JR Rail Pass not accepted (Fuji Kyuko section)"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Footer: 一般社団法人富士河口湖町観光連盟. Language menu includes 한국어"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Mt. Fuji is currently closed. The 2026 Climbing Season has ended.' Closed sections: Yoshida, Subashiri, Gotemba 5th station to summit; Fujinomiya 6th station to summit"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Yoshida July 1st - September 10th (described as 'typically')"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page notes that only the Fujinomiya Trail, during certain periods, applies from the 6th station"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Road Act Art. 46; imprisonment up to six months or fine up to 300,000 yen"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording matches the page"
+    },
+    {
+     "cid": "c18",
+     "verdict": "corrected",
+     "corrected_text": "등산 시즌 중 시즈오카현 쪽 등산로(후지노미야·고텐바·스바시리)의 등산료(Hiking Fee)는 나이와 관계없이 1인 4,000엔 정액이며, 장애인 수첩 소지자나 학교 수업으로 입산하는 사람은 사전 신청하면 면제될 수 있다. 이전의 '후지산 보전 협력금'은 2025년도부터 등산료로 통합되었다.",
+     "note": "The 4,000 yen flat-rate answer is in the Shizuoka-side FAQ section. The Yoshida-side fee amount is not shown on this page. The 협력금 was merged into the Hiking Fee from FY2025, so the label '입산 협력금' is out of date"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Reservations and registrations can be made via the web system. *This is not a reservation for a mountain hut.'"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Plenty of cash and 100-yen coins (for mountain huts and toilets)'"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Tip of 100-300 yen; pay in small change with 100-yen coins"
+    },
+    {
+     "cid": "c22",
+     "verdict": "corrected",
+     "corrected_text": "후지산 등산 공식 사이트에는 시즌 외 등산의 위험을 알리는 한국어 영상이 올라와 있다(한국어 전용 페이지는 제공되지 않음).",
+     "note": "The /kr link exists only inside an HTML comment (not visible), and the URL returns 404"
+    }
+   ],
+   "unsupported_in_description": [
+    "'아오키가하라 숲 등이 모여 있습니다' — this comes only from the stale Yamanashi page; no claim was made for it.",
+    "'신주쿠에서는 주오 고속버스로 약 1시간 50분' — contradicts c9 as corrected (now from the Shinjuku Expressway Bus Terminal, just under 2 hours).",
+    "'전철로 약 2시간 10분' — c8 rests only on a stale source (2013) and no current official source confirms the total time."
+   ],
+   "unsupported_in_highlights": [
+    "'신주쿠에서 주오 고속버스 약 1시간 50분' — contradicts c9 as corrected (departure point and wording)."
+   ],
+   "suggested_claims": [
+    {
+     "field": "access",
+     "text": "고속버스는 신주쿠 고속버스터미널에서 출발해 가와구치코역까지 2시간 조금 못 되게 걸린다.",
+     "url": "https://www.japan.travel/en/spot/1329/"
+    },
+    {
+     "field": "caution",
+     "text": "후지카와구치코 단풍 축제는 11월 1일부터 한 달간 호수 북쪽 연안에서 열린다.",
+     "url": "https://www.japan.travel/en/spot/1329/"
+    },
+    {
+     "field": "tip",
+     "text": "4월 중순 후지카와구치코 벚꽃 축제 때는 북쪽 연안 벚나무에 밤 조명을 밝힌다.",
+     "url": "https://www.japan.travel/en/spot/1329/"
+    },
+    {
+     "field": "ops.payment",
+     "text": "(등산 시즌 중) 요시다 루트 등산료는 온라인에서 주요 신용카드·PayPay로, 현장에서는 카드·은련·알리페이+·위챗페이·PayPay 등으로 낼 수 있다.",
+     "url": "https://www.fujisan-climb.jp/en/faq"
+    }
+   ],
+   "conflicts": [
+    "Yamanashi Tourism Organization page (yamanashi-kankou.jp/smp/en/fujikawaguchiko/) has HTTP Last-Modified 2013-12-01, so it is stale_source (more than 12 months). c1, c8, c9 and c10 rely on it. On the bus departure point it differs from the current JNTO page (Shinjuku Station West Exit vs Shinjuku Expressway Bus Terminal).",
+    "The page also contradicts itself: 'Otsuki -> Kawaguchiko about 1h50 by Fuji Kyuko' vs 'Shinjuku -> Kawaguchiko about 2h10'.",
+    "fujisan-climb.jp FAQ still shows the Yoshida hotline hours as 'April 27th to September 10th, 2020' (stale text).",
+    "fujisan.ne.jp/access: the transport details are not in page text (map images only), so the lookup for access.local found nothing.",
+    "Unconfirmed lake-area items (hours, fees, parking, duration, reservation): not found on official pages. A public lake area has no single operator."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 90,
+  "verified": 85,
+  "corrected": 4,
+  "outdated": 1,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "Skytree opening hours are a date-specific calendar covering 2026-10-01 to 2026-12-31. The description and highlights must state that period, and the hours need re-checking from January 2027.",
+   "Fuji climbing items (season, closure, fee, payment) are seasonal. c13 states 2026 explicitly; c18 and the payment suggestion apply only during the climbing season (7/1 to 9/10).",
+   "Yamanashi tourism source is stale (2013). Fuji access times should be re-sourced from a current official page.",
+   "Shibuya City ordinance page was last updated 2025-08-22 (more than 12 months). Check whether a fine amendment was later passed.",
+   "No official Halloween 2026 notice found for Shibuya after 2 lookups.",
+   "Skytree 4F counter payment methods and audio guide: still unconfirmed after 2 lookups."
+  ]
+ }
+}

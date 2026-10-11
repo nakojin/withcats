@@ -2,7 +2,7 @@
  "id": "WEST-041",
  "country": "jp",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "슈리성공원",
   "local": "首里城公園"
@@ -10,7 +10,7 @@
  "admin_region": "오키나와",
  "former_region": null,
  "city": "나하시",
- "address": null,
+ "address": "〒903-0815 沖縄県那覇市首里金城町1-2",
  "coord": {
   "lat": 26.217434,
   "lng": 127.719103,
@@ -21,93 +21,933 @@
   "osm": "way/380509890"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "류큐 왕국의 정치·외교·문화 중심지였던 슈리성을 품은 공원으로, 성터는 세계문화유산으로 등록되어 있다.",
+ "description": "류큐 왕국의 정치·외교·문화 중심지였던 슈리성을 품은 공원으로, 성터는 세계문화유산으로 등록되어 있다. 공원 안에는 슈레이문, 소노히얀우타키 석문, 엔카쿠지 터 같은 문화재가 흩어져 있고, 정전 주변에는 나하 시내를 한눈에 내려다보는 전망대 니시노아자나가 있다. 봉신문에서는 매일 아침 개문 때 어개문식이 열린다. 유료 구역은 4~11월 8:30~19:00(입장 마감 18:30)에 열며, 개인 성인 요금은 2026년 11월 21일까지 400엔이고 11월 23일 입장분부터 1,000엔이다. 11월 22일은 공원 전체가 휴원한다. 복원된 정전 내부는 2026년 11월 23일부터 일반 공개되고, 날짜와 시간을 지정한 사전 예약이 필요하다. 유이레일 슈리역에서 슈레이문까지 도보 약 15분이며 공원은 대중교통 이용을 권한다.",
+ "highlights": [
+  "세계문화유산에 등록된 류큐 왕국의 성터와 슈레이문 등 문화재를 한 공원에서 둘러본다",
+  "정전 주변 전망대 니시노아자나에서 나하 시내를 한눈에 조망한다",
+  "매일 아침 봉신문 개문 때 어개문식이 열린다",
+  "복원된 정전 내부는 2026년 11월 23일 일반 공개, 날짜·시간 지정 사전 예약제",
+  "유이레일 슈리역에서 슈레이문까지 도보 약 15분, 공원은 대중교통 이용 권장"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c1"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "관광 방문 입구(守礼門) 기준 좌표/주소는 공식 페이지에 없고 관리센터 주소만 확인.",
+     "detail": "location",
+     "run": "r1-b15"
+    }
+   ]
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c6",
+    "r1-b15-c7",
+    "r1-b15-c8",
+    "r1-b15-c9",
+    "r1-b15-c10",
+    "r1-b15-c11",
+    "r1-b15-c12",
+    "r1-b15-c13"
+   ],
+   "gap": null
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c29"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "소요 시간 안내는 정전 내부 공개(11/23) 후 기준이며 현재(정전 비공개) 기간의 소요 시간은 공식 페이지에 없음.",
+     "detail": "duration",
+     "run": "r1-b15"
+    }
+   ]
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c14",
+    "r1-b15-c15"
+   ],
+   "gap": null
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c16",
+    "r1-b15-c17"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "공식 휴원일 페이지에는 2026-11-22와 11-23 임시 휴원만 있고 정기 휴무일 기재가 없어 정기 휴무는 확인하지 못함.",
+     "detail": "closed_days",
+     "run": "r1-b15"
+    }
+   ]
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c18",
+    "r1-b15-c19",
+    "r1-b15-c20",
+    "r1-b15-c21",
+    "r1-b15-c22",
+    "r1-b15-c23"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "충돌 아님: 요금이 2026-11-23 입장분부터 개정됨(현행 400엔, 개정 1,000엔). 반영 시 시점 명시 필요.",
+     "detail": "fees.conflict",
+     "run": "r1-b15"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c24",
+    "r1-b15-c25",
+    "r1-b15-c26",
+    "r1-b15-c27"
+   ],
+   "gap": null
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c28"
+   ],
+   "gap": null
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c30"
+   ],
+   "gap": null
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b15-c31",
+    "r1-b15-c32",
+    "r1-b15-c33",
+    "r1-b15-c34"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b15-c1",
+   "field": "location",
+   "text": "관리센터 주소는 〒903-0815 오키나와현 나하시 슈리킨조초 1-2이다.",
+   "original_text": null,
+   "value": "〒903-0815 沖縄県那覇市首里金城町1-2",
+   "verdict": "verified",
+   "verify_note": "Footer of info/15 gives the 首里城公園管理センター address 〒903-0815 那覇市首里金城町1-2.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/15/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c2",
+   "field": "description",
+   "text": "슈리성은 류큐 왕국의 정치·외교·문화 중심지였고, 중국과 일본의 축성 문화를 융합한 건축 양식과 석조 기술의 가치를 인정받아 세계문화유산에 등록되었다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "guide/ says it was the political, diplomatic and cultural centre, and that its building style blends Chinese and Japanese castle-building and its stonework led to World Cultural Heritage registration.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c3",
+   "field": "highlight",
+   "text": "공원 안에는 슈레이문, 소노히얀우타키 석문, 엔카쿠지 터 등의 문화재가 흩어져 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "guide/: 守礼門・園比屋武御嶽石門・円覚寺跡などの文化財が点在.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c4",
+   "field": "highlight",
+   "text": "정전 주변에는 나하 시내를 한눈에 내려다볼 수 있는 전망대 니시노아자나가 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "guide/: 那覇市内を一望できる展望台「西のアザナ」.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c5",
+   "field": "highlight",
+   "text": "봉신문에서는 매일 아침 개문 때 어개문식(우케조)이 실시된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "guide/: 奉神門で毎朝の開門時に御開門式.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c6",
+   "field": "access",
+   "text": "가장 가까운 역은 유이레일 슈리역이며, 슈리역에서 슈레이문까지 도보 약 15분이다.",
+   "original_text": null,
+   "value": "도보 약 15분",
+   "verdict": "verified",
+   "verify_note": "access/9751: 首里駅から守礼門まで徒歩約15分.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/access/9751/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c7",
+   "field": "access",
+   "text": "나하공항역에서 슈리역까지 유이레일로 약 27분, 요금은 어른 360엔·어린이 180엔이다.",
+   "original_text": null,
+   "value": "약 27분 / 360엔·180엔",
+   "verdict": "verified",
+   "verify_note": "About 27 min from 那覇空港駅; adult 360 yen, child 180 yen.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/access/9751/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c8",
+   "field": "access",
+   "text": "슈리역 앞에서 나하버스 7·8번(슈리성시타마치선)을 타고 '슈리성마에'에서 내리면 슈레이문까지 도보 약 1분이다.",
+   "original_text": null,
+   "value": "도보 약 1분",
+   "verdict": "verified",
+   "verify_note": "那覇バス7・8, 首里駅前→首里城前, 守礼門まで徒歩1分.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/access/9751/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c9",
+   "field": "access",
+   "text": "택시는 나하공항에서 약 10km(약 40~60분), 고쿠사이도리에서 약 4km(약 15~25분)이며 도로 상황에 따라 달라진다.",
+   "original_text": null,
+   "value": "공항 40~60분 / 고쿠사이도리 15~25분",
+   "verdict": "verified",
+   "verify_note": "Airport about 10km, 40-60 min; 国際通り about 4km, 15-25 min.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/access/9751/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c10",
+   "field": "parking",
+   "text": "주차장(슈이무칸 P1·P2)은 4~11월 8:30~19:30, 12~3월 8:30~18:30에 열며 주차 시간은 3시간 이내를 요청한다.",
+   "original_text": null,
+   "value": "4~11월 8:30~19:30 / 12~3월 8:30~18:30",
+   "verdict": "verified",
+   "verify_note": "info/15 and access/192 agree. Opening hours changed on 2026-07-01.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/15/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c11",
+   "field": "parking",
+   "text": "소형차 주차 요금은 처음 60분 500엔, 이후 30분마다 250엔, 최대 1,000엔이며 현금과 신용카드(JCB, VISA, Mastercard, AMEX, Diners Club)로 낼 수 있다.",
+   "original_text": null,
+   "value": "500엔/60분, +250엔/30분, 최대 1,000엔",
+   "verdict": "verified",
+   "verify_note": "access/192 gives the small-car fee and card brands. Fee revised on 2026-04-01 (令和8年4月1日).",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/access/192/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c12",
+   "field": "parking",
+   "text": "일반 차량은 사전 예약이 불가하며 당일 빈자리 상황에 따라 이용한다. 만차일 때는 주변 민간 주차장을 안내받을 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "access/192: 一般車両は事前予約不可; private car parks may be suggested when full.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/access/192/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c13",
+   "field": "parking",
+   "text": "주차장은 버스·승용차 겸용이며 50~116대 규모다(계절과 버스 주차에 따라 조정). 특히 오전에는 만차가 되기 쉬워 모노레일·노선버스 등 대중교통 이용을 권한다.",
+   "original_text": "주차장은 버스·승용차 겸용이며 50~116대 규모이고, 슈이무칸과 직결되어 있다. 오전에는 만차가 되기 쉬워 모노레일·노선버스 이용을 권한다.",
+   "value": "50~116대",
+   "verdict": "corrected",
+   "verify_note": "The 'directly connected to 首里杜館' part is not on the cited qa/ or access/9751 pages. It does appear on access/192 (駐車場は首里杜館と直結), which could be cited instead.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/qa/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://oki-park.jp/shurijo/access/9751/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c14",
+   "field": "hours",
+   "text": "무료 구역(환회문·목예문·구경문·계세문)은 4~11월 8:00~19:30, 12~3월 8:00~18:30에 연다.",
+   "original_text": null,
+   "value": "4~11월 8:00~19:30 / 12~3월 8:00~18:30",
+   "verdict": "verified",
+   "verify_note": "info/15 lists 4 gates. qa/ lists only 3 for the free area (omits 継世門); see conflicts.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/15/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c15",
+   "field": "hours",
+   "text": "유료 구역(봉신문·세호전·히가시노아자나)은 4~11월 8:30~19:00(입장 마감 18:30), 12~3월 8:30~18:00(입장 마감 17:30)이다.",
+   "original_text": null,
+   "value": "4~11월 8:30~19:00 (마감 18:30) / 12~3월 8:30~18:00 (마감 17:30)",
+   "verdict": "verified",
+   "verify_note": "Matches info/15.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/15/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c16",
+   "field": "closed_days",
+   "text": "2026년 11월 22일(일)은 공원 전체가 휴원·휴장한다.",
+   "original_text": null,
+   "value": "2026-11-22",
+   "verdict": "verified",
+   "verify_note": "info/15: 2026年11月22日(日) 公園全域休園・休場.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/15/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c17",
+   "field": "closed_days",
+   "text": "2026년 11월 23일은 정전 오프닝 행사로 무료 구역은 11:15부터, 유료 구역은 12:00부터 열며 정전 일반 공개도 정오에 시작한다.",
+   "original_text": null,
+   "value": "2026-11-23 무료 11:15~ / 유료 12:00~",
+   "verdict": "verified",
+   "verify_note": "Free area from 11:15, paid area from 12:00, 正殿 public opening 12:00.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/15/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c18",
+   "field": "fees",
+   "text": "2026년 11월 21일까지의 유료 구역 개인(20명 미만) 요금은 어른 400엔, 고등학생 300엔, 초·중학생 160엔이고 6세 미만은 무료다.",
+   "original_text": null,
+   "value": "400/300/160엔, 6세 미만 무료",
+   "verdict": "verified",
+   "verify_note": "info/14: current fees valid through 2026-11-21.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/14/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c19",
+   "field": "fees",
+   "text": "2026년 11월 23일 입장분부터 개인 요금이 어른 1,000엔, 고등학생 760엔, 초·중학생 370엔으로 개정되며 6세 미만은 무료다(세금 포함).",
+   "original_text": null,
+   "value": "1,000/760/370엔",
+   "verdict": "verified",
+   "verify_note": "info/14 and ticket_guide: tax-included new fees apply to entry from 2026-11-23. The effective date is in the text.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/14/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c20",
+   "field": "fees",
+   "text": "단체(20명 이상) 요금은 현재 어른 320엔·고등학생 240엔·초중학생 120엔이며, 11월 23일부터 800엔·610엔·300엔이 된다.",
+   "original_text": null,
+   "value": "현재 320/240/120엔 → 800/610/300엔",
+   "verdict": "verified",
+   "verify_note": "Matches info/14.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/14/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c21",
+   "field": "fees",
+   "text": "오키나와현 거주 70세 이상은 입장 무료이며 창구에서 운전면허증·건강보험증 등 공적 증명서 원본을 제시해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Original public ID required (運転免許証・健康保険証・マイナンバーカード等).",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/14/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c22",
+   "field": "fees",
+   "text": "장애인 수첩 소지자는 본인과 보호자 1명까지 무료이며, 유이레일 1일·2일 승차권을 제시하면 단체 요금이 적용된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Holder plus 1 carer free; ゆいレール 1-day or 2-day pass gets the group fee.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/14/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c23",
+   "field": "fees",
+   "text": "정전 내부 관람에 추가 요금은 없으며 유료 구역 입장료만 내면 된다. 연간 패스포트는 일반 어른 2,000엔, 현민 어른 1,500엔(11월 23일 입장분부터)이다.",
+   "original_text": null,
+   "value": "추가 요금 없음 / 연패스 2,000엔·1,500엔",
+   "verdict": "verified",
+   "verify_note": "qa/: no extra charge to see 正殿. ticket_guide: annual pass 2,000 yen general and 1,500 yen resident adult, from 11/23.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/qa/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://oki-park.jp/shurijo/ticket_guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c24",
+   "field": "reservation",
+   "text": "정전 내부는 2026년 11월 23일 일반 공개되며, 30분 단위 날짜·시간 지정 사전 예약제다. 개인 예약 입장권은 2026년 9월 1일 13:00부터 판매 중이다.",
+   "original_text": null,
+   "value": "2026-11-23 공개",
+   "verdict": "verified",
+   "verify_note": "qa/: 30-minute date-and-time slots. ticket_guide: on sale from 2026-09-01 13:00 (2nd release 10/1 13:00 for 11/23-12/31 entries).",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/qa/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://oki-park.jp/shurijo/ticket_guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c25",
+   "field": "reservation",
+   "text": "정전 내부를 보지 않는 입장권은 예약이 필요 없으며, 입장 예정일 1개월 전부터 마지막 입장 15분 전까지 웹 또는 당일 창구에서 살 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "ticket_guide: sold from 1 month ahead until 15 min before last entry, on the web or at the window that day.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/ticket_guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c26",
+   "field": "reservation",
+   "text": "예약 시간대 목안은 모노레일 이용 시 슈리역 도착 예정 시각 40~50분 후, 자가용은 공원 주변 도착 예정 시각 30~50분 후이다.",
+   "original_text": null,
+   "value": "모노레일 40~50분 후 / 차 30~50분 후",
+   "verdict": "verified",
+   "verify_note": "Matches ticket_guide.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/ticket_guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c27",
+   "field": "reservation",
+   "text": "버스 주차장은 예약 시스템을 통한 완전 사전 예약제이며, 예약은 이용 2일 전까지 해야 한다.",
+   "original_text": null,
+   "value": "2일 전까지",
+   "verdict": "verified",
+   "verify_note": "access/192: 完全事前予約制, booking closes 2 days before the visit.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/access/192/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c28",
+   "field": "payment",
+   "text": "당일권은 고후쿠문(広福門) 매표소와 온라인 티켓으로 살 수 있다. 창구와 공원 내 시설에서 신용카드, 교통계 IC 등 전자머니, PayPay·Alipay·WeChat Pay 등 QR 결제를 쓸 수 있다(일부 시설 제외).",
+   "original_text": "당일권은 히로후쿠문 매표소와 온라인 티켓으로 살 수 있다. 창구·園内 시설에서 신용카드, 교통계 IC 등 전자머니, PayPay·Alipay·WeChat Pay 등 QR 결제가 가능하다(일부 시설 제외).",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "広福門 is rendered wrongly as '히로후쿠문'. A Japanese word ('園内') was left in the Korean text. The payment details themselves are correct.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/14/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c29",
+   "field": "duration",
+   "text": "슈이무칸에서 정전 내부 관람을 포함한 전체 소요 시간은 혼잡에 따라 약 90~120분이다.",
+   "original_text": null,
+   "value": "약 90~120분",
+   "verdict": "verified",
+   "verify_note": "ticket_guide: about 90-120 min from 首里杜館 including 正殿 interior.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/ticket_guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c30",
+   "field": "language",
+   "text": "공식 사이트에 한국어 페이지가 있고, 공식 웹앱 '슈리성 앱'의 일부 사적 스폿에서 일·영·중·한 4개 언어 음성 해설을 스마트폰으로 들을 수 있다(무료, 설치 불필요).",
+   "original_text": null,
+   "value": "일/영/중/한",
+   "verdict": "verified",
+   "verify_note": "info/19: audio for some spots in Japanese, English, Chinese and Korean; free, no install. A 한국어 language link is on the site.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/19/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c31",
+   "field": "caution",
+   "text": "공원 안에서는 드론 반입·비행이 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "info/1315: no bringing in or flying drones.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/1315/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c32",
+   "field": "caution",
+   "text": "성벽 안은 전면 금연이고, 자전거·킥보드·스케이트보드류와 불꽃놀이, 총검류 모조품 등의 반입은 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "info/1315: 城壁内全面禁煙, plus the banned-items list.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/1315/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c33",
+   "field": "caution",
+   "text": "소형견·고양이류는 리드를 하거나 케이지에 넣으면 공원에 들어갈 수 있으나 건물 안과 유료 구역에는 동반할 수 없다(보조견 제외).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "info/1315: no pets inside buildings or in the paid area; assistance dogs allowed everywhere. Small pets such as rabbits are also allowed in the park.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/1315/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c34",
+   "field": "caution",
+   "text": "휠체어·지팡이 대여는 무료이며 예약은 받지 않는다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "Matches qa/.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/qa/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-c35",
+   "field": "tip",
+   "text": "공원 관리센터 전화는 098-886-2020이며 전화 접수 시간은 8:00~18:00이다.",
+   "original_text": null,
+   "value": "098-886-2020",
+   "verdict": "verified",
+   "verify_note": "Footer: TEL 098-886-2020, phone hours 8:00-18:00.",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/info/15/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-s1",
+   "field": "ops.closed_days",
+   "text": "공식 FAQ의 휴원일 항목에는 정기 휴원일 없이 2026년 11월 22일(일) 임시 휴원·휴장만 안내되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/qa/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-s2",
+   "field": "ops.reservation",
+   "text": "예약 없이 당일 정전 내부 관람은 예약 틀에 빈자리가 있을 때만 가능하며(당일 시간대 15분 전까지 웹 또는 고후쿠문 창구), 무료 입장 대상자와 연간 패스 소지자도 미취학 아동을 빼고는 예약해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/ticket_guide/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  },
+  {
+   "cid": "r1-b15-s3",
+   "field": "caution",
+   "text": "혼잡 예상은 8:30~11:00 매우 혼잡, 12:00~14:00과 17:00 이후 비교적 한산하며, 정전 안에서는 신발을 벗어야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/ticket_guide/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b15"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b15",
+   "text": "Official vs official: info/15 lists the free-area gates as 歓会門・木曳門・久慶門・継世門. qa/ lists only 歓会門・木曳門・久慶門."
+  },
+  {
+   "run": "r1-b15",
+   "text": "No conflict on fees. info/14, ticket_guide and qa/ agree on the 11/21 to 11/23 fee change."
+  },
+  {
+   "run": "r1-b15",
+   "text": "Recent changes, not stale: parking fees were revised on 2026-04-01 and parking hours on 2026-07-01. No source is older than 12 months."
+  }
+ ],
  "legacy": {
   "source": "japan-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -183,6 +1023,35 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b15",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 35,
+    "verdicts": {
+     "verified": 33,
+     "corrected": 2,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'국영 공원' is not on any cited page. info/1315 refers to '県営首里城公園' instead.",
+   "'현재 요금은 개인 성인 400엔이다' gives no effective dates. The 400 yen fee ends on 2026-11-21, and from 2026-11-23 the adult fee is 1,000 yen (c18/c19). Both dates need to be stated."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b15"
  }
 }

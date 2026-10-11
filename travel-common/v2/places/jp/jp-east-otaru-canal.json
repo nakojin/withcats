@@ -2,7 +2,7 @@
  "id": "jp-east-otaru-canal",
  "country": "jp",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "오타루 운하",
   "local": "小樽運河"
@@ -10,7 +10,7 @@
  "admin_region": "홋카이도",
  "former_region": null,
  "city": "오타루시",
- "address": null,
+ "address": "小樽市港町5 小樽運河 (〒047-0007)",
  "coord": {
   "lat": 43.202535,
   "lng": 141.000355,
@@ -21,93 +21,536 @@
   "osm": "way/562432317"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "오타루 운하는 바다를 매립해 만든 운하로 1923년(다이쇼 12년)에 완성되었습니다.",
+ "description": "오타루 운하는 바다를 매립해 만든 운하로 1923년(다이쇼 12년)에 완성되었습니다. 전체 길이는 1,140m이고, 도도 린코선 쪽 구간은 폭 20m, 원래 모습을 간직한 북운하는 40m입니다. 1986년에 일부가 매립되어 폭의 절반은 도로, 나머지는 산책로와 공원이 되었으며 산책로에는 가스등 63기가 있습니다. 해가 지면 가스등이 켜지고 돌 창고가 조명을 받아 낮과 다른 분위기가 납니다. 연중 산책할 수 있고 JR 오타루역에서 도보 약 10분(시 안내는 8분)입니다. 겨울에는 오타루 유키아카리노미치 행사가 열립니다.",
+ "highlights": [
+  "1923년 완성, 전체 길이 1,140m의 매립식 운하라 완만하게 휘어 있음",
+  "산책로의 가스등 63기, 해 질 녘부터 24:00까지 점등",
+  "돌 창고는 일몰부터 22:30까지 조명을 받음",
+  "연중 산책 가능, JR 오타루역에서 도보 약 8~10분",
+  "겨울에는 오타루 유키아카리노미치 행사 개최"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c2",
+    "r1-b14-c3",
+    "r1-b14-c4",
+    "r1-b14-c5",
+    "r1-b14-c8",
+    "r1-b14-c9"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "JR 오타루역에서 운하까지 도보: 관광협회는 약 10분(https://otaru.gr.jp/tourist/otarucanal), 오타루시는 8분(https://www.city.otaru.lg.jp/docs/2020100900367/).",
+     "detail": "access.conflict",
+     "run": "r1-b14"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 소요시간 안내 없음."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c6",
+    "r1-b14-c7"
+   ],
+   "gap": null
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "관광협회가 연중 산책 가능이라고만 적고 별도 휴무 항목은 없음. 휴무 없음이라는 명시 문장은 확인 못 함."
    }
   },
   "fees": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 입장료 언급이 없어 무료라고 명시된 근거를 찾지 못함."
    }
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "산책로 이용에 예약이 필요한지 공식 언급 없음(운하 크루즈는 별도 운영자 페이지 미확인)."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "해당 없음 또는 공식 언급 없음(크루즈 요금·결제 미확인)."
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내는 오타루 관광협회 사이트에서 확인되지 않음. 영어 사이트 VisitOtaru 링크만 있음."
    }
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c10",
+    "r1-b14-c11"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b14-c1",
+   "field": "location",
+   "text": "오타루 운하의 주소는 오타루시 미나토마치 5(우편번호 047-0007)이다.",
+   "original_text": null,
+   "value": "小樽市港町5",
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://otaru.gr.jp/tourist/otarucanal",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c2",
+   "field": "access",
+   "text": "오타루 관광협회 안내는 JR 오타루역에서 도보 약 10분이다.",
+   "original_text": null,
+   "value": "10 min walk",
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://otaru.gr.jp/tourist/otarucanal",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c3",
+   "field": "access",
+   "text": "오타루시 안내는 JR 오타루역에서 도보 8분이다.",
+   "original_text": null,
+   "value": "8 min walk",
+   "verdict": "verified",
+   "verify_note": "The city page shows 更新日 2024-01-29, more than 12 months ago (stale_source).",
+   "sources": [
+    {
+     "url": "https://www.city.otaru.lg.jp/docs/2020100900367/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c4",
+   "field": "access",
+   "text": "삿포로에서 쾌속 에어포트로 오타루까지 최단 32분, 신치토세 공항에서 최단 75분이다.",
+   "original_text": null,
+   "value": "32 min / 75 min",
+   "verdict": "verified",
+   "verify_note": "Rapid Airport train.",
+   "sources": [
+    {
+     "url": "https://otaru.gr.jp/access",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c5",
+   "field": "access",
+   "text": "일반도로 이용 시 자동차로 삿포로→오타루 약 1시간 20분(국도 5호선), 신치토세 공항→오타루 약 2시간 30분이다(구글맵 측정, 도로 상황에 따라 변동).",
+   "original_text": "자동차로 삿포로에서 오타루까지 약 1시간 20분, 신치토세 공항에서 약 2시간 30분이다(구글맵 기준, 교통에 따라 변동).",
+   "value": "80 min / 150 min",
+   "verdict": "corrected",
+   "verify_note": "The page says these times are for general roads (一般道路). Expressway times are not given in the page text.",
+   "sources": [
+    {
+     "url": "https://otaru.gr.jp/access",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c6",
+   "field": "hours",
+   "text": "운하는 연중 산책할 수 있다.",
+   "original_text": null,
+   "value": "year-round",
+   "verdict": "verified",
+   "verify_note": "The listing says 定休日: 通年散策可能 (open for walking all year).",
+   "sources": [
+    {
+     "url": "https://otaru.gr.jp/tourist/otarucanal",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c7",
+   "field": "hours",
+   "text": "산책로 가스등은 일몰~24:00 점등, 돌 창고 조명은 일몰~22:30이며, 오타루 유키아카리노미치 기간에는 가스등이 15:00부터 켜진다.",
+   "original_text": null,
+   "value": "sunset-24:00; sunset-22:30",
+   "verdict": "verified",
+   "verify_note": "The North Canal path lights work on a light sensor (Jun-Aug 18:00-04:00).",
+   "sources": [
+    {
+     "url": "https://otaru.gr.jp/tourist/otarucanal",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c8",
+   "field": "parking",
+   "text": "오타루 관광주차장(제1·제2)은 24시간 운영하는 게이트식이며 제1 89대, 제2 178대(오토바이 23대)이다. 요금은 60분 300엔, 24시까지 하루 최대 1,000엔이다.",
+   "original_text": null,
+   "value": "300 JPY/60min, max 1,000 JPY",
+   "verdict": "verified",
+   "verify_note": "Gate-type operation since 2024-03-25; same fee on weekends and holidays. The page is dated 2024-04-20 (stale).",
+   "sources": [
+    {
+     "url": "https://otaru.gr.jp/citizen/parking-information",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c9",
+   "field": "parking",
+   "text": "오타루 사카이마치도리 상점가 주차장(미나토마치 7-7)은 9:00~19:00(계절에 따라 변동), 1시간 300엔·하루 최대 1,000엔이며 운하까지 도보 약 5분이다.",
+   "original_text": null,
+   "value": "300 JPY/h, max 1,000 JPY",
+   "verdict": "verified",
+   "verify_note": "Fees: 600 yen within 2 hours, 900 yen within 3 hours. About 3 minutes' walk to Sakaimachi street.",
+   "sources": [
+    {
+     "url": "https://otaru.gr.jp/citizen/parking-information",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c10",
+   "field": "caution",
+   "text": "주차장 요금판은 2024-04-01에 확인된 내용이며 운영자별로 시간·요금이 달라질 수 있으니 방문 전 확인이 필요하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://otaru.gr.jp/citizen/parking-information",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c11",
+   "field": "caution",
+   "text": "대표 사진 명소인 아사쿠사바시 거리공원은 낮에 관광객이 많아 붐빈다.",
+   "original_text": "낮에는 관광객이 많아 붐비며, 특히 사진 명소인 아사쿠사바시 거리공원 주변이 그렇다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "The page says only that the Asakusabashi spot is busy in the daytime. It does not say the whole canal is crowded.",
+   "sources": [
+    {
+     "url": "https://otaru.gr.jp/tourist/otarucanal",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c12",
+   "field": "description",
+   "text": "운하는 1923년(다이쇼 12년)에 완성되었고 바다를 매립해 만들어서 완만하게 휘어 있다.",
+   "original_text": null,
+   "value": "1923",
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://www.city.otaru.lg.jp/docs/2020100900367/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://otaru.gr.jp/tourist/otarucanal",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c13",
+   "field": "description",
+   "text": "운하의 전체 길이는 1,140m이고 도도 린코선 쪽 구간은 폭 20m, 북운하는 원래대로 40m이다.",
+   "original_text": null,
+   "value": "1,140 m; 20 m; 40 m",
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://www.city.otaru.lg.jp/docs/2020100900367/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://otaru.gr.jp/tourist/otarucanal",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c14",
+   "field": "description",
+   "text": "1986년(쇼와 61년)에 운하 일부가 매립되어 폭의 절반은 도로, 나머지는 산책로와 공원이 되었다.",
+   "original_text": null,
+   "value": "1986",
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://www.city.otaru.lg.jp/docs/2020100900367/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c15",
+   "field": "description",
+   "text": "산책로에는 가스등이 63기 있고, 해 질 녘 가스등과 돌 창고 조명이 낮과 다른 분위기를 만든다.",
+   "original_text": null,
+   "value": "63",
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://www.city.otaru.lg.jp/docs/2020100900367/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c16",
+   "field": "highlight",
+   "text": "겨울에 운하에서 오타루 유키아카리노미치 행사가 열린다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://www.city.otaru.lg.jp/docs/2020100900367/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c17",
+   "field": "tip",
+   "text": "운하 근처에 사카이마치도리 상점가, 옛 일본은행 오타루지점, 옛 데미야선 철로가 걸어서 갈 수 있는 거리에 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://otaru.gr.jp/tourist/otarucanal",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-s1",
+   "field": "ops.closed_days",
+   "text": "정기 휴일 없이 연중 산책할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://otaru.gr.jp/tourist/otarucanal",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-s2",
+   "field": "highlight",
+   "text": "제28회 오타루 유키아카리노미치는 2026년 2월 7일~14일에 열렸으며, 2027년 일정은 공식 사이트에서 확인되지 않았다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://otaru.gr.jp/category/tourist/2026otaruyukiakarinomiti28",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-s3",
+   "field": "ops.hours",
+   "text": "북운하 산책로 가스등은 광센서로 점등·소등되며 6~8월에는 18:00~다음 날 4:00에 켜진다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://otaru.gr.jp/tourist/otarucanal",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b14",
+   "text": "Walking time from JR Otaru Station: about 10 minutes on the tourism association page versus 8 minutes on the city page (updated 2024-01-29, more than 12 months ago)."
+  },
+  {
+   "run": "r1-b14",
+   "text": "The parking page is dated 2024-04-20 and its fee boards were checked 2024-04-01. That is more than 12 months old, so parking fees c8 and c9 need rechecking."
+  },
+  {
+   "run": "r1-b14",
+   "text": "The yukiakarinomichi.org site could not be reached. Walking time from the first parking lot was not found."
+  }
+ ],
  "legacy": {
   "source": "japan-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -191,6 +634,50 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b14",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 17,
+    "verdicts": {
+     "verified": 15,
+     "corrected": 2,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.walk_firstlot",
+   "note": "관광주차장 제1·제2에서 운하까지 도보 시간이 공식 페이지에 없음.",
+   "run": "r1-b14"
+  },
+  {
+   "topic": "yukiakari_dates",
+   "note": "유키아카리노미치 올해 일정은 확인한 시 페이지에 없음.",
+   "run": "r1-b14"
+  },
+  {
+   "topic": "page_updated",
+   "note": "인용 페이지 대부분 갱신일 표기 없음.",
+   "run": "r1-b14"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'하역 효율을 높이기 위해 쓰였습니다' is on the page but no claim covers the canal's purpose."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b14"
  }
 }

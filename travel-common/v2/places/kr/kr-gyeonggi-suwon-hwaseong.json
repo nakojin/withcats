@@ -2,7 +2,7 @@
  "id": "kr-gyeonggi-suwon-hwaseong",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "수원화성",
   "local": "수원화성"
@@ -10,7 +10,7 @@
  "admin_region": "경기도",
  "former_region": null,
  "city": "수원시 장안구 영화동 320-2 일원; 화성행궁은 팔달구 정조로 825",
- "address": null,
+ "address": "수원화성: 경기도 수원시 장안구 영화동 320-2 일원 / 화성행궁: 경기도 수원시 팔달구 정조로 825",
  "coord": {
   "lat": 37.286788,
   "lng": 127.011437,
@@ -21,93 +21,916 @@
   "osm": "node/1791243454"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "수원화성은 정조 18년(1794)에 쌓기 시작해 1796년에 완공한 성곽으로 1997년 유네스코 세계문화유산이 되었다.",
+ "description": "수원화성은 정조 18년(1794)에 쌓기 시작해 1796년에 완공한 성곽으로 1997년 유네스코 세계문화유산이 되었다. 성곽 자체는 개방형이라 야간에도 볼 수 있고 무료다. 성 안의 화성행궁은 09:00~18:00에 열며 어른 개인 2,000원을 받고, 연중무휴다. 2026년에는 5월 1일부터 11월 1일까지 금~일요일과 공휴일에 18:00~21:30 야간개장을 하고 입장은 21:00에 마감한다. 화성행궁과 연무대에는 24시간 운영하는 카드 전용 주차장이 있다. 매달 마지막 주 수요일 문화가 있는 날은 화성행궁이 무료다.",
+ "highlights": [
+  "성곽은 개방형이며 입장 무료, 야간 관람 가능",
+  "화성행궁은 09:00~18:00, 연중무휴, 어른 2,000원",
+  "금~일요일·공휴일 야간개장 (2026.5.1~11.1, 18:00~21:30)",
+  "한복 착용자와 65세 이상, 6세 이하는 행궁 무료",
+  "화성행궁·연무대 주차장 24시간 운영, 카드 결제 전용",
+  "한국관광공사 오디 오디오가이드로 수원화성·화성행궁 해설 청취"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c1",
+    "r1-b08-c2"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c18",
+    "r1-b08-c19",
+    "r1-b08-c20",
+    "r1-b08-c21",
+    "r1-b08-c22",
+    "r1-b08-c23",
+    "r1-b08-c24"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "가장 가까운 전철역과 도보 시간은 공식 페이지에서 찾지 못했다. 버스 환승 안내만 확인했다.",
+     "detail": "access.subway",
+     "run": "r1-b08"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "official_unreachable",
+    "note": "공식 페이지에 전체 성곽 또는 행궁의 권장 소요시간이 없다. 수원시 관광 사이트 코스 페이지(성곽길 60/90/120/180분)는 curl이 연결 오류로 열리지 않았고 WebFetch에서는 60분 코스 소개 문구만 나왔다."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c3",
+    "r1-b08-c6",
+    "r1-b08-c14"
+   ],
+   "gap": null
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c5",
+    "r1-b08-c7"
+   ],
+   "gap": null
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c4",
+    "r1-b08-c8",
+    "r1-b08-c9",
+    "r1-b08-c10",
+    "r1-b08-c11",
+    "r1-b08-c12",
+    "r1-b08-c13",
+    "r1-b08-c15"
+   ],
+   "gap": null
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "일반 입장은 예약 안내가 없다. 문화관광해설은 단체 20인 이상 온라인 신청, 현장은 4인 이상으로 안내하나 해당 페이지(swcf.or.kr/?p=404)에 코로나19 시절 문구가 남아 있어 최신 여부를 확인하지 못했다."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "행궁 매표소의 결제 수단(카드, 현금, 모바일)을 적은 공식 문구를 찾지 못했다. 주차장은 카드 결제 전용만 확인했다."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c25",
+    "r1-b08-c26"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "행궁 현장 한국어 해설 프로그램의 현행 운영 여부는 확인하지 못했다. 한국어는 리플렛과 오디오가이드로만 확인했다.",
+     "detail": "language.korean_guide",
+     "run": "r1-b08"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c16",
+    "r1-b08-c17"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "화성행궁 보수정비공사로 미로한정(사주문 포함), 경룡관 등 일부 구역 관람이 제한되었고 공사기간이 2025.11.17~2026.5.3 예정으로 표기되었다. 이미 지난 기간이며 종료 확인 문구를 찾지 못했다.",
+     "detail": "caution.construction",
+     "run": "r1-b08"
+    }
+   ]
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b08-c1",
+   "field": "location",
+   "text": "수원화성의 공식 주소는 수원시 장안구 영화동 320-2 일원이다.",
+   "original_text": null,
+   "value": "수원시 장안구 영화동 320-2 일원",
+   "verdict": "verified",
+   "verify_note": "suwon.go.kr (수정일 2026-06-16) gives 장안구 영화동 320-2 일원. Read via WebFetch because curl to suwon.go.kr failed at the proxy.",
+   "sources": [
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c2",
+   "field": "location",
+   "text": "화성행궁의 주소는 수원시 팔달구 정조로 825(남창동)이다.",
+   "original_text": null,
+   "value": "수원시 팔달구 정조로 825",
+   "verdict": "verified",
+   "verify_note": "swcf ?p=68: 수원시 팔달구 정조로 825 (남창동). suwon.go.kr agrees.",
+   "sources": [
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.swcf.or.kr/?p=68",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c3",
+   "field": "hours",
+   "text": "수원화성 성곽은 개방형이라 연중 상시 관람할 수 있고 야간 관람도 가능하다.",
+   "original_text": null,
+   "value": "상시",
+   "verdict": "verified",
+   "verify_note": "swcf ?p=8: 1~12월 상시, 개방형이며 야간 관람 가능. suwon.go.kr agrees.",
+   "sources": [
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c4",
+   "field": "fees",
+   "text": "수원화성 성곽 관람은 무료이다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "swcf ?p=8 and suwon.go.kr: 무료.",
+   "sources": [
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c5",
+   "field": "closed_days",
+   "text": "수원화성 성곽은 연중무휴이다.",
+   "original_text": null,
+   "value": "연중무휴",
+   "verdict": "verified",
+   "verify_note": "suwon.go.kr: 연중무휴.",
+   "sources": [
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c6",
+   "field": "hours",
+   "text": "화성행궁 관람시간은 1~12월 09:00~18:00이며 입장 마감은 관람시간 1시간 전이다.",
+   "original_text": null,
+   "value": "09:00-18:00, 입장마감 17:00",
+   "verdict": "verified",
+   "verify_note": "swcf ?p=8: 09:00~18:00, 입장마감은 관람시간 1시간 전.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c7",
+   "field": "closed_days",
+   "text": "화성행궁은 연중무휴이다.",
+   "original_text": null,
+   "value": "연중무휴",
+   "verdict": "verified",
+   "verify_note": "swcf ?p=8 and suwon.go.kr (수정일 2026-06-05): 연중무휴.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c8",
+   "field": "fees",
+   "text": "화성(행궁 및 화령전) 개인 요금은 어른 2,000원, 군인·청소년 1,500원, 어린이 1,000원이다.",
+   "original_text": null,
+   "value": "2000/1500/1000 KRW",
+   "verdict": "verified",
+   "verify_note": "2,000/1,500/1,000원. swcf and suwon.go.kr match.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c9",
+   "field": "fees",
+   "text": "20인 이상 단체 요금은 어른 1,500원, 군인·청소년 1,200원, 어린이 800원이다.",
+   "original_text": null,
+   "value": "1500/1200/800 KRW",
+   "verdict": "verified",
+   "verify_note": "Group of 20 or more: 1,500/1,200/800원.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c10",
+   "field": "fees",
+   "text": "화성행궁, 수원화성박물관, 수원박물관 3종 통합관람권은 개인 어른 4,000원, 군인·청소년 2,500원, 어린이 1,000원이다.",
+   "original_text": null,
+   "value": "4000/2500/1000 KRW",
+   "verdict": "verified",
+   "verify_note": "Combined ticket for 3 sites, individual: 4,000/2,500/1,000원.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c11",
+   "field": "fees",
+   "text": "매달 마지막 주 수요일 문화가 있는 날에는 화성행궁이 무료이나 야간개장은 제외된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "swcf ?p=8: free on last Wednesday of the month, 야간개장 excluded.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c12",
+   "field": "fees",
+   "text": "한복(개량한복 포함) 착용자, 65세 이상(신분증), 6세 이하 취학 전 아동, 장애인복지법상 해당자(중증은 동행 1인 포함)는 관람료가 전액 면제된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "swcf ?p=8 면제 및 감면 table.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c13",
+   "field": "fees",
+   "text": "수원시민 대상 감면도 있다: 두 자녀 이상 동반한 다자녀가정은 전액 면제(수원시민 한정), 수원시 청년(19~39세)은 매주 금요일 면제.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Multi-child families: Suwon residents only. Suwon youth: Fridays only, from 2024-09-01.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c14",
+   "field": "hours",
+   "text": "2026년 야간개장은 5월 1일(금)부터 11월 1일(일)까지 매주 금~일요일과 공휴일 18:00~21:30이며 입장 마감은 21:00이다.",
+   "original_text": null,
+   "value": "18:00-21:30, 입장마감 21:00",
+   "verdict": "verified",
+   "verify_note": "swcf ?p=392 and ?p=8: 2026.5.1~11.1, 금~일·공휴일, 18:00~21:30, 입장마감 21:00.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=392",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c15",
+   "field": "fees",
+   "text": "야간개장 입장료는 어른 2,000원, 청소년·군인 1,500원, 어린이 1,000원이며 한복 착용자, 만 6세 이하, 만 65세 이상은 무료이다.",
+   "original_text": null,
+   "value": "2000/1500/1000 KRW",
+   "verdict": "verified",
+   "verify_note": "?p=392 also lists registered disabled people as free (grades 1~3 with one carer, grades 4~6 alone).",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=392",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c16",
+   "field": "caution",
+   "text": "수원화성문화제(10.4~10.11) 기간에는 야간개장 운영이 바뀔 수 있고, 야간개장 기간은 재단 사정에 따라 변경될 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "suwon.go.kr (via WebFetch) mentions the festival dates 10.4~10.11. swcf: 기간은 재단 사정에 따라 변경될 수 있음. The festival window ends today (2026-10-11), so this caution expires now.",
+   "sources": [
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c17",
+   "field": "caution",
+   "text": "화성행궁에는 위험물, 주류, 텐트·돗자리 등 야영용품, 취사도구, 반려동물(장애인 보조견 제외), 확성기 등을 가지고 들어갈 수 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "swcf ?p=8 입장제한 list.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c18",
+   "field": "parking",
+   "text": "화성행궁 주차장은 수원시 팔달구 행궁로 18에 있고 24시간 운영하며 카드 결제 전용이다. 총 212면이며 대형차량은 주차할 수 없다.",
+   "original_text": null,
+   "value": "212면",
+   "verdict": "verified",
+   "verify_note": "swcf ?p=69: 행궁로 18 (남창동 38-6), 24시간, 카드결제 전용, 총 212면, 대형 불가.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=69",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c19",
+   "field": "parking",
+   "text": "연무대 주차장은 수원시 팔달구 매향동 3-17에 있고 24시간 운영하며 카드 결제 전용이다. 대형 17면을 포함해 총 122면이다.",
+   "original_text": null,
+   "value": "122면",
+   "verdict": "verified",
+   "verify_note": "swcf ?p=69: 매향동 3-17, 24시간, 카드결제 전용, 대형 17면, 122면.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=69",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c20",
+   "field": "parking",
+   "text": "성곽 주변에 화홍문·장안동·연무동·남수동 공영주차장이 있으며 화성행궁·연무대 주차장과 함께 유료이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "All lots charge, but the four public lots give the first 60 minutes free (see suggested claim).",
+   "sources": [
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.swcf.or.kr/?p=69",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c21",
+   "field": "parking",
+   "text": "장애인 주차장은 화성행궁 3면, 연무대 6면이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "swcf ?p=8 편의시설: 화성행궁 3면, 연무대 6면. ?p=69 instead lists 장애인 5면 at 화성행궁 (see conflicts).",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c22",
+   "field": "access",
+   "text": "서울 잠실역에서는 직행버스 1007번을 타고 화성행궁·여민각 정류장에서 내려 도보 약 5분이면 화성행궁에 닿는다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "swcf ?p=68.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=68",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c23",
+   "field": "access",
+   "text": "수원역 4번 출구 앞(노보텔 정류장)에서 시내버스 11·13번을 타고 화성행궁·수원성지 정류장에서 내려 도보 약 5분이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "swcf ?p=68.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=68",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c24",
+   "field": "access",
+   "text": "강남역에서는 직행버스 3000번을 타고 팔달문 정류장에서 내려 도보 약 5분이면 화성행궁이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "swcf ?p=68.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=68",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c25",
+   "field": "language",
+   "text": "수원 종합 관광안내소(수원역 4번 출구 근처, 09:00~18:00)는 영어·중국어·일본어 통역이 가능하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "swcf ?p=8: 덕영대로 924, 09:00~18:00, 영어·중국어·일본어 통역 가능.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c26",
+   "field": "language",
+   "text": "한국관광공사가 만든 오디오가이드 앱 오디(Odii)에 수원화성과 화성행궁 해설이 들어 있고, 수원화성 리플렛은 한국어·영어·중국어·일본어로 내려받을 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "swcf ?p=67: Odii audio guide made by 한국관광공사. Leaflet download in 한국어, English, 中國語, 日本語.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=67",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c27",
+   "field": "description",
+   "text": "수원화성은 정조 18년(1794)에 공사를 시작해 1796년 완공했고 정약용이 설계했으며, 1997년 유네스코 세계문화유산으로 지정되었다.",
+   "original_text": null,
+   "value": "1794-1796, 1997",
+   "verdict": "verified",
+   "verify_note": "suwon.go.kr via WebFetch: 1794~1796, 정약용 설계, 1997 UNESCO.",
+   "sources": [
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c28",
+   "field": "description",
+   "text": "화성행궁은 576칸 규모로 국내 최대의 행궁이며 1996년 복원 공사를 시작해 2003년 일반에 공개했다.",
+   "original_text": null,
+   "value": "576칸",
+   "verdict": "verified",
+   "verify_note": "The suwon.go.kr intro says 576칸, but a later section of the same page says 567칸 (see conflicts). Restoration started 1996, opened 2003.",
+   "sources": [
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c29",
+   "field": "highlight",
+   "text": "성 안팎 문화관광해설사 안내소가 화성행궁, 팔달문, 서장대, 장안문 등 여러 곳에 있고 10:00~17:00에 운영한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "swcf ?p=8 lists 8 해설 안내소, each open 10:00~17:00.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c30",
+   "field": "tip",
+   "text": "문의는 수원문화재단 031-290-3600이다.",
+   "original_text": null,
+   "value": "031-290-3600",
+   "verdict": "verified",
+   "verify_note": "swcf ?p=8: 031-290-3600.",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=8",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-s1",
+   "field": "parking.fee",
+   "text": "화성행궁·연무대 주차장 요금은 소형차 기준 최초 30분 900원, 이후 10분마다 400원, 1일 주차권 14,000원이다. 화홍문·장안동·연무동·남수동 공영주차장은 최초 60분 무료이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=69",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-s2",
+   "field": "access.subway",
+   "text": "수원역(1호선·분당선) 또는 매교역(분당선)에서 시내버스를 타고 화성행궁 정류장에서 내려 도보 약 5분이다. 매교역은 7번 출구에서 112·25·25-2·25-5번을 탄다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=68",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-s3",
+   "field": "language.korean_guide",
+   "text": "문화관광해설사의 한국어 해설은 10:00·11:00·13:30·14:30·15:30에 진행한다. 현장 신청은 4인 이상이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=404",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-s4",
+   "field": "reservation",
+   "text": "20인 이상 단체 해설은 온라인으로 예약하며 방문일 7일 전에 마감한다. 예약이 몰리는 날은 현장 신청이 안 될 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=404",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-s5",
+   "field": "payment",
+   "text": "화성행궁·연무대 주차장은 카드 결제만 받는다. 야간개장 표는 화성행궁 매표소에서 판다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.swcf.or.kr/?p=69",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b08",
+   "text": "suwon.go.kr 화성행궁 page (수정일 2026-06-05) says 576칸 in its intro and 567칸 in a later section. c28 uses 576."
+  },
+  {
+   "run": "r1-b08",
+   "text": "Disabled parking at 화성행궁: swcf ?p=8 says 3면, swcf ?p=69 says 장애인 5면 (연무대 6면 on both)."
+  },
+  {
+   "run": "r1-b08",
+   "text": "swcf ?p=8 and ?p=404 give different addresses for the same guide booths: 장안문 is 장안동 1-1 vs 정조로905번길 16, 화홍문 is 북수동 33-4 vs 수원천로 377. No claim uses these."
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -174,6 +997,38 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b08",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 30,
+    "verdicts": {
+     "verified": 30,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 5
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.fee",
+   "note": "swcf.or.kr/?p=69의 요금표(소형 최초 30분 900원, 10분마다 400원, 1일 14,000원)는 2025.1.1 조례 개정으로 요금이 바뀔 예정이라는 문구가 함께 있어 현행 금액인지 확인되지 않았다.",
+   "run": "r1-b08"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b08"
  }
 }

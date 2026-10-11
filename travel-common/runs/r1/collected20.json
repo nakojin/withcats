@@ -1,0 +1,1495 @@
+[
+ {
+  "key": "east-qd-05",
+  "name_ko": "칭다오맥주박물관",
+  "name_local": "青岛啤酒博物馆",
+  "admin_region": "산둥성 칭다오시",
+  "address": "青岛市登州路56号",
+  "description": "칭다오맥주박물관은 칭다오 맥주가 태어난 덩저우로 56호, 1903년 독일식 공업 건물군에 자리한 맥주 테마 박물관입니다. 국가 1급 박물관으로 3만여 점의 문물을 다루고, 유리 벽 너머로 현대식 생산 라인을 내려다볼 수 있습니다. VR 양조 체험과 개인 맞춤 라벨 맥주도 마련돼 있습니다. 기본 입장권은 성인 60위안, 학생 50위안, 60~69세 30위안이며 A관·B관 관람에 생맥주 2잔과 맥주콩이 포함됩니다. 입장권은 위챗 공식 계정이나 OTA에서 실명으로 미리 예약하고, 입장할 때 신분증 원본이나 구매 QR코드로 확인합니다. 지하철 1·2호선 타이둥역에서 걸어서 갈 수 있습니다.",
+  "highlights": [
+   "1903년 독일식 공업 건물군을 그대로 쓰는 맥주 박물관",
+   "국가 1급 박물관, 3만여 점의 문물 소장",
+   "유리 벽 너머로 현대식 생산 라인을 내려다보는 전망",
+   "VR 양조 체험과 개인 맞춤 라벨 맥주",
+   "기본권(성인 60위안)에 A관·B관 관람과 맥주 2잔·맥주콩 포함"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "박물관은 청도맥주가 태어난 곳인 덩저우로(登州路) 56호에 있다.",
+    "value": "登州路56号",
+    "evidence": "青岛啤酒博物馆坐落于青岛啤酒诞生地——登州路56号",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "description",
+    "text": "박물관은 1903년에 지어진 독일식 공업 건물군을 그대로 활용하고 있다.",
+    "value": "1903",
+    "evidence": "以1903年德式工业建筑群为载体的百年厂房",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "지하철 1·2호선 타이둥(台东)역 A출구에서 타이둥1로를 따라 서쪽으로 80m, 이어 웨이하이로-덩저우로를 따라 남쪽으로 550m 걸어간다.",
+    "value": "80m + 550m",
+    "evidence": "台东站A口，沿台东一路向西80米，沿威海路-登州路向南550米",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790373016308297729?viewName=newJiaotongDetail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "지하철 1호선 광라오로(广饶路)역 C출구에서 옌안로를 따라 동쪽으로 200m, 퉁산로를 따라 북쪽으로 300m, 덩저우로를 따라 동쪽으로 150m 걸어간다.",
+    "value": "200m + 300m + 150m",
+    "evidence": "广饶路站C口，沿延安路向东200米，沿通山路向北300米",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790373016308297729?viewName=newJiaotongDetail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "지하철 2호선 리진로(利津路)역 C출구에서 닝하이로를 따라 남쪽으로 400m, 덩저우로를 따라 서쪽으로 300m 걸어간다.",
+    "value": "400m + 300m",
+    "evidence": "利津路站C口，沿宁海路向南400米，沿登州路向西300米",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790373016308297729?viewName=newJiaotongDetail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "access",
+    "text": "205·217·221·464번 버스는 '칭다오맥주박물관(青岛啤酒博物馆)' 정류장에 선다.",
+    "value": "205, 217, 221, 464",
+    "evidence": "205路、217路、221路、464路青岛啤酒博物馆站",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790373016308297729?viewName=newJiaotongDetail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "5월 1일~6월 30일, 9월 1일~10월 31일에는 08:00~18:30에 열고 17:30에 입장을 마감한다.",
+    "value": "08:00-18:30 (last entry 17:30)",
+    "evidence": "5月1日至6月30日、9月1日至10月31日08:00-18:30(17:30停止入场)",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "hours",
+    "text": "1월 1일~4월 30일, 11월 1일~12월 31일에는 08:30~17:30에 열고 16:30에 입장을 마감한다.",
+    "value": "08:30-17:30 (last entry 16:30)",
+    "evidence": "1月1日至4月30日08:30-17:30(16:30停止入场)",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "hours",
+    "text": "7월 1일~8월 31일에는 07:30~19:30에 열고 18:30에 입장을 마감한다.",
+    "value": "07:30-19:30 (last entry 18:30)",
+    "evidence": "7月1日至8月31日07:30-19:30(18:30停止入场)",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "fees",
+    "text": "4월 1일~10월 31일 기간의 기본 입장권(A관 역사관+B관 양조공정관)은 성인 60위안, 학생 50위안, 노인 30위안이며 생맥주 0.15L 2잔과 맥주콩 한 봉지가 포함된다.",
+    "value": "성인 60 / 학생 50 / 노인 30 CNY",
+    "evidence": "成人（60元/人）、学生（50元/人）、老年（30元/人）",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "fees",
+    "text": "70세 이상 노인은 신분증을 제시하면 무료이며, 60~69세는 성인권 반값 우대(노인권)를 받는다.",
+    "value": "70+ 무료 / 60-69 반값",
+    "evidence": "70周岁（含）以上凭身份证（以证件日期为准）",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "fees",
+    "text": "신장 1.4m(포함) 이하 어린이는 무료이며 성인이 동반해야 입장할 수 있다.",
+    "value": "1.4m 이하 무료",
+    "evidence": "1.4米（含）以下儿童需成人陪同方可入园",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "fees",
+    "text": "장애인(장애인증+신분증), 현역·퇴직 군인, 소방 인력 등은 안내데스크에서 정보를 등록하고 표를 교환하면 무료이다.",
+    "value": "무료 대상: 장애인, 현역·퇴직 군인, 소방 인력 등",
+    "evidence": "凭残疾证及身份证到前台登记信息并换票",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "fees",
+    "text": "학생권은 학생증과 신분증을 제시하는 만 23세 이하 전일제 본과 이하 학생이 살 수 있다.",
+    "value": "23세 이하 학생",
+    "evidence": "年龄23岁（含）以下，可以购买学生票",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "fees",
+    "text": "여러 종류 맥주를 맛보는 시음 패키지(A관+B관, 맥주 6종 각 0.15L와 맥주콩)는 1인 128위안이다.",
+    "value": "128 CNY",
+    "evidence": "多品种品鉴套票： 1) 128元/人",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "fees",
+    "text": "개인 맞춤 맥주 패키지(A관+B관, 생맥주 2잔과 맞춤 맥주 1병 포함)는 1인 90위안이다.",
+    "value": "90 CNY",
+    "evidence": "定制啤酒套票： 1) 90元/人",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "fees",
+    "text": "중국어 해설은 10명 이하 한 팀에 150위안이며, 10명을 넘으면 1인당 15위안이 추가된다.",
+    "value": "150 CNY/팀(10명 이하), +15 CNY/인",
+    "evidence": "150元/团（10人以内）",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "fees",
+    "text": "외국어 해설은 10명 이하 한 팀에 200위안이며, 10명을 넘으면 1인당 20위안이 추가된다.",
+    "value": "200 CNY/팀(10명 이하), +20 CNY/인",
+    "evidence": "外语讲解服务： 1) 200元/团（10人以内）",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "fees",
+    "text": "셀프 가이드 기기는 대당 15위안이며 일회용 이어폰이 함께 제공된다.",
+    "value": "15 CNY",
+    "evidence": "自助导览机讲解服务： 1) 15元/台",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "duration",
+    "text": "해설 서비스(중국어·외국어)는 전 과정이 약 50분이다.",
+    "value": "약 50분",
+    "evidence": "讲解全程约50分钟",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "reservation",
+    "text": "위챗 공식 계정 '青岛啤酒博物馆'을 팔로우한 뒤 '购票指南 > 预约购票'에서 실명으로 입장권을 예약하거나, OTA에서 '青岛啤酒博物馆'을 검색해 예약한다.",
+    "value": "위챗 공식 계정 / OTA 실명 예약",
+    "evidence": "点击“购票指南”>>“预约购票”，实名预约门票",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "reservation",
+    "text": "입장 때는 구매 증빙 원본(본인 2세대 신분증, 구매 QR코드 등)으로 확인하며, 관내에서 여러 번 검표하므로 신분증이나 구매 QR코드를 미리 꺼내 둔다.",
+    "value": "신분증 원본 또는 QR코드",
+    "evidence": "馆内需多次检票，请您提前出示身份证或购票二维码检票",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+      "type": "official",
+      "page_updated": null
+     },
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "reservation",
+    "text": "박물관은 실명 예약제로 입장권을 판매하므로 예약할 때 실명 정보를 정확히 입력해야 한다.",
+    "value": "실명 예약제",
+    "evidence": "我馆实行实名预约制购票，购票时请您正确填写实名信息",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "reservation",
+    "text": "VIP 입장권(1인 269위안)은 2일 전에 예약해야 한다.",
+    "value": "2일 전 예약",
+    "evidence": "VIP门票：【需提前2天预约】",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "language",
+    "text": "외국어 해설 서비스(10명 이하 200위안)를 이용할 수 있다.",
+    "value": "외국어 해설 있음",
+    "evidence": "外语讲解服务",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "caution",
+    "text": "미성년자는 음주를 삼가고, 몸이 불편한 사람은 의사의 지시를 따르라고 안내한다.",
+    "value": null,
+    "evidence": "建议未成年人请勿饮酒，身体不适者请遵医嘱",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "caution",
+    "text": "귀중품은 각자 잘 보관하라고 안내한다.",
+    "value": null,
+    "evidence": "请您妥善保管好您的贵重物品",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "description",
+    "text": "독일 점령기의 옛 문서 등 3만여 점의 문물을 볼 수 있다.",
+    "value": "30000+",
+    "evidence": "德占时期的老档案等30000余件文物",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "description",
+    "text": "박물관은 국가 1급 박물관, 국가 AAAA급 관광지로 소개된다.",
+    "value": "국가 1급 박물관 / AAAA",
+    "evidence": "国家AAAA级旅游景区 … 国家一级博物馆",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "highlight",
+    "text": "유리 벽 너머로 '등대공장'이라 불리는 현대식 생산 라인을 내려다볼 수 있다.",
+    "value": null,
+    "evidence": "透过玻璃幕墙俯瞰“灯塔工厂”智能化生产线",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "highlight",
+    "text": "VR 양조 실험실에서 맥아 비율을 직접 조합해 보고, 개인 맞춤 라벨을 인쇄한 맥주를 만들 수 있다.",
+    "value": null,
+    "evidence": "VR酿造实验室让人化身酿酒师调配麦芽比例",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c32",
+    "field": "tip",
+    "text": "티켓 문의 고객센터 전화는 400-169-1903이다.",
+    "value": "400-169-1903",
+    "evidence": "客服电话:400-169-1903",
+    "sources": [
+     {
+      "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "hours.conflict",
+    "reason": "홈페이지 첫 화면은 '每周一至周日 08:30-17:30, 16:30 입장 마감'(https://www.tsingtaomuseum.com/)이라고 쓰지만, 참관 안내 페이지는 계절별로 07:30~19:30 / 08:00~18:30 / 08:30~17:30을 안내한다(https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail). 10월 기준 값은 참관 안내(c7)를 쓰되 방문 전 재확인 필요."
+   },
+   {
+    "field": "fees.conflict",
+    "reason": "무료 어린이 기준이 참관 안내 페이지에서는 '1.4米（含）以下'(https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail), 티켓 페이지에서는 '140CM以下'(https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail)로 달리 표기되어 140cm 포함 여부가 확정되지 않는다. 또한 티켓 가격표는 '4월 1일~10월 31일' 기간 기준이며 11~3월 가격은 해당 페이지에 없다."
+   },
+   {
+    "field": "closed_days",
+    "reason": "공식 페이지에 정기 휴관일이나 임시 휴관 안내가 없다(홈페이지는 월~일 개관 시간만 표기)."
+   },
+   {
+    "field": "parking",
+    "reason": "공식 페이지에 주차장 위치·요금 정보가 없다."
+   },
+   {
+    "field": "duration",
+    "reason": "전체 관람 소요시간에 대한 공식 안내가 없다(해설 서비스 50분만 있음)."
+   },
+   {
+    "field": "payment",
+    "reason": "입장권 구매·현장 결제 수단(해외 카드·현금 가능 여부)에 대한 공식 안내를 찾지 못했다."
+   },
+   {
+    "field": "reservation",
+    "reason": "외국인 여권으로 예약·입장하는 방법은 공식 페이지에 없다(신분증 기준 안내만 확인됨). 위챗 계정 이용 불가 시 대안도 확인하지 못했다."
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내·한국어 오디오가이드 여부는 공식 페이지에서 확인하지 못했다. 2025-04-18 '多语种系统上线' 소식 페이지(https://www.tsingtaomuseum.com/articleTitleCus/1913101834158571522?viewName=newDetail)는 본문이 비어 있다."
+   },
+   {
+    "field": "location.district",
+    "reason": "공식 페이지에 구(区) 단위 주소 표기가 없어 '덩저우로 56호'까지만 기재했다."
+   }
+  ]
+ },
+ {
+  "key": "bj-palace",
+  "name_ko": "고궁박물원(자금성)",
+  "name_local": "故宫博物院",
+  "admin_region": "베이징시",
+  "address": "北京市景山前街4号 (4 Jingshan Qianjie, Beijing 100009)",
+  "description": "고궁박물원은 베이징 한복판에 있는 명·청 시대 궁궐로, 남북 961m, 동서 753m에 면적 72만㎡에 이릅니다. 관람은 남쪽 오문(午门)으로 들어가 북쪽 신무문이나 동화문으로 나가는 일방통행입니다. 월요일은 법정 공휴일을 제외하고 휴관하며, 4~10월에는 8:30에 입장을 시작해 16:00에 입장을 마감하고 17:00에 닫습니다. 입장권은 4~10월 60위안, 11~3월 40위안이고 당일권은 팔지 않으므로 관람 7일 전 20:00부터 공식 채널로 실명 예약해야 합니다. 외국인은 여권으로 예약하며 같은 증명서로 하루 한 장만 예약됩니다. 전용 주차장이 없으니 지하철 1호선 톈안먼둥·톈안먼시역을 이용하세요.",
+  "highlights": [
+   "남북 961m, 동서 753m, 면적 72만㎡의 명·청 궁궐 단지",
+   "오문으로 들어가 신무문·동화문으로 나가는 일방통행 관람",
+   "4~10월 입장권 60위안, 11~3월 40위안(보물관·시계관은 각 10위안)",
+   "관람 7일 전 20:00부터 실명 예약, 외국인은 여권 사용",
+   "지하철 1호선 톈안먼둥·톈안먼시역에서 접근, 전용 주차장 없음"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "주소는 베이징 징산 첸지에(景山前街) 4호(우편번호 100009)이다.",
+    "value": "4 Jingshan Qianjie, Beijing 100009",
+    "evidence": "The Palace Museum 4 Jingshan Qianjie Beijing 100009 China",
+    "sources": [
+     {
+      "url": "https://intl.dpm.org.cn/visit.html?l=en",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "description",
+    "text": "고궁박물원은 베이징 도심에 있고 남쪽으로 톈안먼을 지나 접근하며, 남북 961m, 동서 753m, 면적 72만㎡이다.",
+    "value": "961m x 753m, 720,000㎡",
+    "evidence": "961 meters from north to south and 753 meters from east to west",
+    "sources": [
+     {
+      "url": "https://intl.dpm.org.cn/visit.html?l=en",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "관람객은 모두 남문인 오문(午门)으로 들어가 남에서 북으로 한 방향으로 관람하며, 끝나면 북문인 신무문이나 동문인 동화문으로 나온다.",
+    "value": "입구 午门 / 출구 神武门·东华门",
+    "evidence": "观众一律由午门进入故宫。参观结束后，可以由神武门或东华门离开故宫",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "오문 근처 정류장은 '톈안먼둥(天安门东)'과 '톈안먼시(天安门西)'이며 지하철 1호선과 여러 버스가 선다.",
+    "value": "天安门东 / 天安门西, 지하철 1호선",
+    "evidence": "午门周边的公共交通车站：天安门东 … 1号地铁线",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "톈안먼에서 단문을 거쳐 오문에 이르는 통로는 화~일요일 8:00~16:00에 통행할 수 있고, 월요일 휴관일에는 종일 지날 수 없다(실제 개방은 현장 공고 기준).",
+    "value": "화~일 8:00-16:00",
+    "evidence": "通行时间周二至周日，8:00-16:00；周一闭馆日全天不可通行",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "access",
+    "text": "동화문은 왕푸징 상업가에서 동안문대가를 따라 서쪽으로 800m 걸어가면 닿고, 서화문은 창안제에서 난창제를 따라 북쪽으로 600m 가면 닿는다.",
+    "value": "동화문 800m / 서화문 600m",
+    "evidence": "沿东安门大街西行800米可以到达",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "parking",
+    "text": "고궁박물원에는 전용 주차장이 없고, 가장 가까운 공영 주차장은 징산 후가(景山后街)에 있으나 주차 면수가 적다.",
+    "value": "전용 주차장 없음",
+    "evidence": "故宫博物院没有专用停车场，最近的公共停车场在景山后街，车位有限",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "hours",
+    "text": "성수기(4월 1일~10월 31일)에는 8:30에 입장을 시작하고 16:00에 입장을 마감하며 17:00에 문을 닫는다. 보물관·시계관은 16:10에 입장을 마감한다.",
+    "value": "8:30 / 입장마감 16:00 (보물관·시계관 16:10) / 폐관 17:00",
+    "evidence": "开放入馆时间： 8:30 停止入馆时间： 16:00 … 闭馆时间： 17:00",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "hours",
+    "text": "비수기(11월 1일~3월 31일)에는 8:30에 입장을 시작하고 15:30에 입장을 마감하며 16:30에 문을 닫는다. 보물관·시계관은 15:40에 입장을 마감한다.",
+    "value": "8:30 / 입장마감 15:30 (보물관·시계관 15:40) / 폐관 16:30",
+    "evidence": "停止入馆时间： 15:30 珍宝馆、钟表馆停止入馆时间： 15:40 闭馆时间： 16:30",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "closed_days",
+    "text": "법정 공휴일을 제외하고 연중 월요일은 종일 휴관한다.",
+    "value": "월요일(법정 공휴일 제외)",
+    "evidence": "除法定节假日外， 故宫博物院全年实行周一全天闭馆的措施",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "fees",
+    "text": "대문표(입장권)는 성수기(4월 1일~10월 31일) 60위안, 비수기(11월 1일~3월 31일) 40위안이다.",
+    "value": "성수기 60 / 비수기 40 CNY",
+    "evidence": "旺季，大门票60元/人； … 淡季，大门票40元/人",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "fees",
+    "text": "보물관(珍宝馆)과 시계관(钟表馆) 입장권은 각각 10위안이다.",
+    "value": "각 10 CNY",
+    "evidence": "珍宝馆门票：10元/人； 钟表馆门票：10元/人",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "fees",
+    "text": "만 18세 미만 중국 국적자(홍콩·마카오·대만 거주민과 영주권 외국인 포함)는 무료이나 예약은 해야 하며, 만 14세 미만은 성인 1명이 최대 3명까지 동반할 수 있다.",
+    "value": "18세 미만 무료(예약 필요)",
+    "evidence": "未满18周岁的中国公民（含港澳台居民及获得永久居留权的外国人）免费参观，但须预约",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "fees",
+    "text": "만 18세 이상 본과 이하 학생은 학생권을 사며 성수기·비수기 모두 20위안이고, 학생증이나 학교 소개서가 필요하다.",
+    "value": "학생 20 CNY",
+    "evidence": "淡旺季均为20元/人。检票时需出示学生证、学校介绍信等有效身份证明",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "fees",
+    "text": "만 60세 이상은 유효한 신분증 원본을 제시하면 입장권이 반값이다(성수기 30위안, 비수기 20위안).",
+    "value": "성수기 30 / 비수기 20 CNY",
+    "evidence": "门票半价优惠。即旺季30元/人；淡季20元/人",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "fees",
+    "text": "장애인(장애인증)과 현역 군인·소방구조 인력은 무료이며, 장애인 보호자는 우대가 없고 예약해야 한다.",
+    "value": "무료",
+    "evidence": "残疾人凭本人残疾证件，免费参观。陪护人不享受优惠，须预约",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "reservation",
+    "text": "실명제로 운영하며 당일권은 팔지 않는다. 입장권은 관람 7일 전 20:00부터 예약할 수 있고 당일에만 유효하다.",
+    "value": "관람 7일 전 20:00 오픈",
+    "evidence": "故宫博物院不售当日票 … 于参观7日前20:00开售，门票限参观当日有效",
+    "sources": [
+     {
+      "url": "https://ticket.dpm.org.cn/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "reservation",
+    "text": "외국인(중국 본토 외 관광객)은 홍콩·마카오 통행증, 대만 통행증, 거주증, 외국인 영주증 또는 여권으로 예약·검표하며, 같은 증명서로 하루에 한 장만 예약할 수 있다.",
+    "value": "여권 가능, 증명서당 1일 1장",
+    "evidence": "非中国内地观众请使用 … 外国人永久居留身份证、护照订票、检票",
+    "sources": [
+     {
+      "url": "https://ticket.dpm.org.cn/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "reservation",
+    "text": "공식 채널은 위챗 '故宫博物院' 미니프로그램이며, 박물관은 어떤 제3자에게도 입장권 대리 판매를 위임하지 않았다고 밝힌다.",
+    "value": "위챗 '故宫博物院' 미니프로그램",
+    "evidence": "请务必通过官方渠道“故宫博物院”小程序预约门票及展览",
+    "sources": [
+     {
+      "url": "https://ticket.dpm.org.cn/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "reservation",
+    "text": "예약은 오전·오후 두 시간대로 나뉜다. 오전 예약자는 늦어도 12:00까지, 오후 예약자는 빨라야 11:00부터 검표할 수 있다.",
+    "value": "오전 ~12:00 / 오후 11:00~",
+    "evidence": "预约上午时段的观众最迟检票时间为当日12:00，预约下午时段的观众最早检票时间为当日11:00",
+    "sources": [
+     {
+      "url": "https://ticket.dpm.org.cn/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "reservation",
+    "text": "입장 때는 예약에 쓴 증명서 원본을 지참해 오문에서 검표하며, 얼굴 인식 장비를 보조로 써서 실명을 확인한다(얼굴 정보는 저장하지 않는다고 안내).",
+    "value": "증명서 원본 + 얼굴 인식",
+    "evidence": "观众务必携带预约时使用的有效证件原件检票入院",
+    "sources": [
+     {
+      "url": "https://ticket.dpm.org.cn/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "reservation",
+    "text": "구매한 입장권은 사용 후 환불이 안 되며, 미사용 표는 관람 전날 24:00까지 원래 예약 채널에서 환불하면 노쇼로 치지 않는다. 그 후(당일 포함) 환불은 노쇼 1회로 계산된다.",
+    "value": "환불 마감 전날 24:00",
+    "evidence": "可于参观前一日24:00前通过原订票渠道退票，不计爽约",
+    "sources": [
+     {
+      "url": "https://ticket.dpm.org.cn/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "reservation",
+    "text": "180일 안에 노쇼가 3회 쌓이면 3회째 다음 날부터 60일 동안 입장권·전시 예약을 할 수 없다.",
+    "value": "180일 3회 → 60일 제한",
+    "evidence": "180日内累计爽约3次，从第3次爽约的次日起，60日内将无法预约",
+    "sources": [
+     {
+      "url": "https://ticket.dpm.org.cn/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "reservation",
+    "text": "무영전 도자관(武英殿陶瓷馆)과 각종 특별·임시 전시는 따로 사전 예약이 필요하다.",
+    "value": "별도 예약",
+    "evidence": "参观武英殿陶瓷馆及各特展、临展须提前预约",
+    "sources": [
+     {
+      "url": "https://ticket.dpm.org.cn/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "language",
+    "text": "공식 사이트는 영어·스페인어·러시아어·일본어·프랑스어·번체 중국어 버전을 제공하며 한국어 버전은 목록에 없다.",
+    "value": "English, Español, Русский, 日本語, Français, 繁体中文",
+    "evidence": "English Español Русский язык 日本語 Français 繁体中文",
+    "sources": [
+     {
+      "url": "https://intl.dpm.org.cn/visit.html?l=en",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "language",
+    "text": "안내 지도에 음성 가이드(语音导览器)와 해설 서비스 위치가 표시된다.",
+    "value": null,
+    "evidence": "服务设施 餐饮 观众服务处 … 语音导览器 讲解",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "duration",
+    "text": "공식 추천 코스는 2시간 코스, 반나절 코스, 하루 코스로 나뉜다.",
+    "value": "2시간 / 반나절 / 하루",
+    "evidence": "推荐路线 两小时游 … 半日游 … 一日游",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "caution",
+    "text": "2026-09-01~10-31 연희궁(延禧宫)은 보호 조사로 닫히며 11월 1일 다시 개방된다.",
+    "value": "11/1 재개방",
+    "evidence": "9月1日至10月31日对延禧宫进行保护性勘察，11月1日重新开放",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "caution",
+    "text": "태화문(太和门)은 8월 3일부터 공사로 봉쇄된다고 공고되었다.",
+    "value": "2026-08-03부터",
+    "evidence": "太和门将于8月3日起封闭施工",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "caution",
+    "text": "고건축관·청동기관·무비관은 '임시 폐쇄(暂闭)'로 표시되어 있다.",
+    "value": "古建馆, 青铜器馆, 武备馆",
+    "evidence": "古建馆（暂闭） 青铜器馆（暂闭） … 武备馆（暂闭）",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "caution",
+    "text": "고궁은 세계 최대급 목조 궁전 건물군이라 화재 위험이 크므로 금연이며, 반려동물 반입과 전시장 안 플래시·삼각대 촬영이 금지된다.",
+    "value": null,
+    "evidence": "请勿吸烟 … 请勿携带宠物进院参观 … 请勿使用闪光灯和三脚架拍照",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c32",
+    "field": "caution",
+    "text": "혼잡할 때는 직원의 안내에 따라 질서 있게 관람하고, 소매치기와 호객·상품 권유에 주의하라고 안내한다. 길을 잃으면 경운문 안쪽 서남쪽 방송실로 가면 된다.",
+    "value": "고궁 파출소 010-65131882",
+    "evidence": "如果您与亲友在参观中走失，可到景运门内西南侧的广播室通知他们",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c33",
+    "field": "tip",
+    "text": "입장권 문의 고객센터는 400-950-1925이며 연중무휴 08:00~20:00에 운영된다.",
+    "value": "400-950-1925, 08:00-20:00",
+    "evidence": "客服电话: 400-950-1925 工作时间: 08:00-20:00(全年无休)",
+    "sources": [
+     {
+      "url": "https://ticket.dpm.org.cn/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c34",
+    "field": "description",
+    "text": "공식 영문 사이트는 고궁을 유네스코 세계유산인 명·청 황궁으로 소개한다.",
+    "value": "UNESCO World Heritage",
+    "evidence": "Explore the UNESCO world heritage: the imperial palace of the Ming and Qing dynasties",
+    "sources": [
+     {
+      "url": "https://intl.dpm.org.cn/index.html?l=en",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c35",
+    "field": "description",
+    "text": "궁성은 높이 10m의 성벽과 폭 52m의 해자로 둘러싸여 있다.",
+    "value": "성벽 10m / 해자 52m",
+    "evidence": "Ten-meter-high walls and a fifty-two-meter -wide moat surround the palace",
+    "sources": [
+     {
+      "url": "https://intl.dpm.org.cn/visit.html?l=en",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c36",
+    "field": "tip",
+    "text": "입장권 가격표는 '2002년 베이징시 물가국 문서'에 근거해 정해졌다고 공식 페이지에 표기되어 있다.",
+    "value": null,
+    "evidence": "本院门票价格根据北京市物价局京价（收）字 [2002] 284、336号文件制定",
+    "sources": [
+     {
+      "url": "https://www.dpm.org.cn/Visit.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "payment",
+    "reason": "입장권 결제 수단(해외 카드, 현금, 알리페이·위챗페이)과 현장 매표소 결제 가능 여부를 공식 페이지에서 확인하지 못했다."
+   },
+   {
+    "field": "language.korean",
+    "reason": "한국어 안내·한국어 오디오가이드 제공 여부를 공식 페이지에서 확인하지 못했다. 공식 사이트 언어 목록에 한국어가 없다."
+   },
+   {
+    "field": "admin_region.district",
+    "reason": "공식 페이지에 구(区) 단위 주소 표기가 없어 '베이징시'까지만 기재했다."
+   },
+   {
+    "field": "hours.conflict",
+    "reason": "영문 페이지(https://intl.dpm.org.cn/visit.html?l=en)는 폐관 시각을 17:00/16:30과 입장마감 16:00/15:30으로 중문 페이지(https://www.dpm.org.cn/Visit.html)와 동일하게 안내하므로 충돌은 없다. 다만 영문 페이지는 저작권 표기가 2023년으로 오래되어 영문 측 '일일 4만 명 제한' 문구는 현재 유효한지 확인하지 못해 제외했다."
+   },
+   {
+    "field": "stale_source",
+    "reason": "https://ticket.dpm.org.cn/ 페이지에 과거 코로나 방역(72시간 핵산 음성 증명) 안내 팝업이 남아 있다. 현행 규정으로 보기 어려워 제외했다."
+   }
+  ]
+ },
+ {
+  "key": "bj-badaling",
+  "name_ko": "바다링 만리장성",
+  "name_local": "八达岭长城",
+  "admin_region": "베이징시 옌칭구",
+  "address": "北京市延庆区八达岭长城景区",
+  "description": "바다링 만리장성은 베이징 옌칭구에 있는 만리장성 구간으로, 수도의 북쪽을 지키는 요충지여서 '북문쇄약(北门锁钥)'이라 불렸고 1987년 유네스코 세계유산에 올랐습니다. 개방 구간은 북12루부터 남7.5루까지, 길이 3,741m입니다. 성수기(4~10월)에는 매일 6:30~16:30, 비수기(11~3월)에는 7:30~16:00에 엽니다. 입장권은 실명제 사전 예약이 원칙이고 현장 구매도 병행합니다. 북쪽 공중 케이블카는 8분, 남쪽 지상 케이블카는 6분이면 높은 구간에 오르며, 두 노선 모두 왕복 140위안, 편도 100위안입니다. 자가용은 지정 주차장에 세운 뒤 무료 셔틀로 이동합니다.",
+  "highlights": [
+   "'북문쇄약'이라 불린 요충지, 1987년 유네스코 세계유산 등재",
+   "개방 구간은 북12루~남7.5루, 길이 3,741m",
+   "성수기 6:30~16:30, 비수기 7:30~16:00 매일 개방",
+   "북쪽 케이블카 8분, 남쪽 지상 케이블카 6분(왕복 140위안, 편도 100위안)",
+   "실명제 사전 예약이 원칙이며 현장 구매도 병행"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "바다링 만리장성은 베이징시 옌칭구에 있다(공식 안내의 경내 주소는 '北京市延庆区八达岭长城景区').",
+    "value": "北京市延庆区",
+    "evidence": "位于北京市延庆区，是八达岭长城的西南延伸段",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+      "type": "official",
+      "page_updated": null
+     },
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnJczn&limit=20&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "자가용은 징짱(G6) 또는 징리(G7) 고속도로로 접근해 안내판과 직원의 지시에 따라 지정 주차장에 세운 뒤 무료 셔틀로 경내에 들어간다.",
+    "value": "G6 / G7 + 무료 셔틀",
+    "evidence": "停放到指定停车场后，换乘免费客运接驳车进入景区",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexLineRouter&limit=20&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "대중교통은 버스 919·880·877번, 교외 철도 S2선, 징장(京张) 고속철도로 갈 수 있으며 운행 상황은 철도 부문 공고를 따른다.",
+    "value": "919 / 880 / 877, S2, 京张高铁",
+    "evidence": "公交919路、880路、877路抵达景区，也可乘坐市郊S2线和京张高铁",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexLineRouter&limit=20&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "국경절·중추절 기간에는 '장성버스'가 매일 9시 국가도서관 지하철역 C출구에서 출발하고, 15:30에 장성서점 앞에서 돌아오며 왕복 80위안(입장권 별도)이다. 이 기간 한정 안내이다.",
+    "value": "왕복 80 CNY, 9:00 출발 / 15:30 귀환",
+    "evidence": "“长城巴士”直通车在国庆中秋期间每日9点从国家图书馆地铁站C口准时发车",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexLineRouter&limit=20&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "징장 고속철도 바다링창청역은 북선 케이블카 하부역에서 100m, 교외철도 S2선 바다링역은 남선 지상 케이블카에서 300m 거리이다.",
+    "value": "100m / 300m",
+    "evidence": "京张高铁八达岭长城站距离北线索道仅100米",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "hours",
+    "text": "성수기(4월 1일~10월 31일)에는 매일 6:30~16:30에 개방한다.",
+    "value": "6:30-16:30",
+    "evidence": "【旺季】每年4月1日至10月31日，每日6:30-16:30开放",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "비수기(11월 1일~다음 해 3월 31일)에는 매일 7:30~16:00에 개방한다.",
+    "value": "7:30-16:00",
+    "evidence": "【淡季】每年11月1日至次年3月31日，每日7:30-16:00开放",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "description",
+    "text": "개방 구간은 북12루(北十二楼)부터 남7.5루(南七楼半)까지이다.",
+    "value": "北十二楼-南七楼半",
+    "evidence": "八达岭长城开放北十二楼至南七楼半",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "description",
+    "text": "대외 개방 길이는 3,741m이고 성대(城台)와 장대(墙台)가 21개이다.",
+    "value": "3,741m, 21",
+    "evidence": "八达岭长城对外开放长度为3741米，有城台、墙台21座",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "description",
+    "text": "수도를 지키는 중요한 관문이라 '북문쇄약(北门锁钥)'으로 불렸다.",
+    "value": "北门锁钥",
+    "evidence": "素有“北门锁钥”之称，是扼守京畿，护卫京城的重要关隘",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "description",
+    "text": "1961년 전국중점문물보호단위, 1987년 유네스코 세계유산 목록에 올랐다.",
+    "value": "1961 / 1987",
+    "evidence": "1987年被联合国教科文组织列入“世界遗产名录”",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "reservation",
+    "text": "입장권은 위챗 공식 계정 '长城内外旅游'·'八达岭长城', 공식 웹사이트, '长城内外' 온라인 판매 시스템에서 실명제로 예약 구매한다.",
+    "value": "실명제 예약 구매",
+    "evidence": "进行实名制预约购票",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "reservation",
+    "text": "바다링·수이관·구장성 세 구간은 실명제 예약 구매와 현장 구매를 함께 운영하며, 미리 인터넷으로 예약하길 권한다. 7~8월, 청명절, 노동절, 단오, 중추절, 국경절 등 성수기에도 같다.",
+    "value": "예약 + 현장 구매 병행",
+    "evidence": "实行实名制预约购票与现场购票，倡议游客提前在网站预约购票",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexCcNotice&limit=30&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "reservation",
+    "text": "예약 사이트는 '长城内外旅游' 미니프로그램이며, 제3자 플랫폼으로 메이퇀, 씨트립, 뤼마마, 퉁청, 페이주, 가오더 지도가 안내된다. 매표 문의는 4008180088이다.",
+    "value": "4008180088",
+    "evidence": "门票预约网站：长城内外旅游小程序 第三方预约平台：美团、携程",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexCcNotice&limit=30&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "fees",
+    "text": "북선 공중 케이블카와 남선 지상 케이블카 요금은 왕복 140위안, 편도 100위안이고 키 1.2m 이하 어린이는 무료이다. 두 노선 표는 서로 통용된다.",
+    "value": "왕복 140 / 편도 100 CNY",
+    "evidence": "双程票140元/人单程票100元/人 1.2米以下儿童免费",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "hours",
+    "text": "북선 케이블카는 성수기(4~10월) 8:00~16:30, 비수기(11~3월) 9:00~16:00에 운행한다. 구체 시간은 '长城内外旅游' 공식 계정에서 확인하라고 안내한다.",
+    "value": "성수기 8:00-16:30 / 비수기 9:00-16:00",
+    "evidence": "旺季（4月份-10月份）早8:00—晚16:30",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "hours",
+    "text": "남선 지상 케이블카는 성수기 9:00~16:30, 비수기 9:00~16:00에 운행하며, 비수기에 남선이 멈추면 북선 케이블카를 이용하라고 안내한다.",
+    "value": "성수기 9:00-16:30 / 비수기 9:00-16:00",
+    "evidence": "淡季南线地面缆车停运时请游客选择乘坐北线空中索道",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "duration",
+    "text": "북선 공중 케이블카를 타면 8분 만에 '하오한포(好汉坡)' 북8루에 도착한다.",
+    "value": "8분",
+    "evidence": "乘坐北线空中索道8分钟可直达“好汉坡”",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "duration",
+    "text": "남선 지상 케이블카를 타면 6분 만에 남4루(南四楼)에 도착한다.",
+    "value": "6분",
+    "evidence": "游客乘坐缆车6分钟可直达“南四楼”",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "language",
+    "text": "공식 웹사이트에 한국어·영어·일본어·러시아어 버전이 있고 한국어로 관광지·서비스 소개가 제공된다.",
+    "value": "한국어 웹사이트 있음",
+    "evidence": "bdlKrGrouping 韩文 / 관광지 / 서비스",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/siteIndex/siteConfig?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteType=bdlInfWebSite",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "language",
+    "text": "관광지 서비스센터는 북문쇄약 서쪽 200m에 있고 전동·수동 휠체어, 유모차, 지팡이 대여를 안내하며 무료 와이파이 등 서비스를 제공한다.",
+    "value": null,
+    "evidence": "位于北门锁钥西侧200米处",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnFwzx&limit=20&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "caution",
+    "text": "미개방 구간에 들어가거나 성가퀴에 오르거나 뛰어다니거나 반려동물을 데리고 들어가면 안 되며, 성벽에 낙서·부착·걸기도 금지된다.",
+    "value": null,
+    "evidence": "不要到未开放区域游览，不要携带宠物进入景区，不要攀爬长城垛口、猛跑打闹",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "caution",
+    "text": "경내에서는 화기 사용과 흡연이 금지되며 인화·폭발·위험물 반입이 금지된다. 번개가 칠 때는 통화하지 말라고 안내한다.",
+    "value": null,
+    "evidence": "请您不要在景区内使用明火。不要吸烟",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "caution",
+    "text": "번개·눈비·우박·안개·폭우·강풍 등 악천후나 자연재해로 설비 안전 운행이 어려우면 관광지가 임시 또는 부분 폐쇄될 수 있다.",
+    "value": null,
+    "evidence": "景区将临时关闭或部分关闭，请及时关注景区公告信息",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "caution",
+    "text": "노약자와 환자는 능력에 맞게 무리하지 말고, 장사꾼의 물건은 사지 말고 소지품을 잘 보관하라고 안내한다.",
+    "value": null,
+    "evidence": "老年人及患病游客量力而行",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "tip",
+    "text": "관광지 문의 010-69122222, 긴급 구조 010-69121090, 신고 010-69121477 또는 110이다.",
+    "value": "010-69122222 / 010-69121090",
+    "evidence": "紧急救助：010-69121090 报警电话：010-69121477或110",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "access",
+    "text": "세계 사이트 안내에 따라 남4루는 남쪽 구간에서 가장 높은 지점이며 해발 803.6m이다.",
+    "value": "803.6m",
+    "evidence": "南四楼为南峰长城地势最高处，海拔 803.6米",
+    "sources": [
+     {
+      "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "fees",
+    "reason": "바다링 장성 본 입장료(성인·학생·노인·무료 대상)는 공식 사이트 API 페이지에서 찾지 못했다(케이블카 요금만 확인). 공식 사이트의 '외국인 구매(外籍人购票)' 채널 페이지도 내용이 비어 있다."
+   },
+   {
+    "field": "reservation.foreign",
+    "reason": "외국인의 여권 예약·입장 방법은 공식 페이지에 없다(공식 '外籍人购票' 채널 bdlCnIndexforeignerBuyTicket 내용이 비어 있음)."
+   },
+   {
+    "field": "payment",
+    "reason": "현장 결제 수단(해외 카드·현금·모바일 결제) 가능 여부를 공식 페이지에서 확인하지 못했다."
+   },
+   {
+    "field": "parking",
+    "reason": "주차 요금은 공식 페이지에 없다. 2026년 이전 연휴 보도에 유료·무료 주차장이 함께 있다고만 나오며 현재 요금은 확인하지 못했다."
+   },
+   {
+    "field": "closed_days",
+    "reason": "정기 휴무일 언급이 없다(개방 시간은 '每日'로 표기). 악천후 임시 폐쇄만 안내되어 있다(c24)."
+   },
+   {
+    "field": "duration",
+    "reason": "장성 전체 관람에 걸리는 시간에 대한 공식 안내가 없다(케이블카 탑승 시간만 확인)."
+   },
+   {
+    "field": "language.onsite",
+    "reason": "현지 한국어 해설·음성 가이드 제공 여부는 공식 페이지에서 확인하지 못했다(한국어는 웹사이트 소개 페이지만 확인)."
+   },
+   {
+    "field": "address",
+    "reason": "도로명 주소(번지) 표기는 공식 페이지에 없고 '北京市延庆区八达岭长城景区'까지만 확인했다."
+   },
+   {
+    "field": "phone.conflict",
+    "reason": "매표 문의 전화 운영시간이 페이지마다 다르다. 구매 안내 페이지 bdlCnGpzn은 010-69121474 9:00-17:00, 예약 구매 페이지 bdlCnIndexBuyTicket은 9:00-16:30이며(퇴표 문의도 9:00-17:00 vs 8:30-17:30) 둘 다 같은 API(http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=...)에서 확인된다. 운영시간은 쓰지 않았다."
+   },
+   {
+    "field": "source_note",
+    "reason": "공식 사이트(www.badaling.cn)는 자바스크립트 렌더링 사이트라 사이트가 쓰는 공개 JSON API(http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=...&siteChannelCode=...)를 인용했다. m_code는 http://www.badaling.cn/site-init/get-default 가 반환하는 값이며 바뀔 수 있다. 개별 글의 게시일은 2024-11이지만 수정 시각이 2026-10으로 갱신돼 있어 page_updated는 비웠다."
+   }
+  ]
+ }
+]

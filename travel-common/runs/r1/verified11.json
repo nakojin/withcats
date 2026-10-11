@@ -1,0 +1,586 @@
+{
+ "places": [
+  {
+   "key": "kr-busan-gamcheon-culture-village",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "gamcheon.or.kr footer and Saha page both give 감내2로 203(감천동)"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intro1"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intro1"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intro1"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intro4"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intro4"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intro4"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intro4 gives 78면 and 40면; no fees shown"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intro4"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The detail page (/group-tour-reservation/detail/3) also lists an overtime charge and requires travel agency and guide fields, so it looks aimed at groups and buses"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "KTO page says 'Available (Free)'. This conflicts with the paid parking reservation on the official site"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intro4: 09:00 ~ 18:00"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intro4: (연중무휴)"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Image-only PDF (2 pages), checked visually. 2027.1.1 is the general effective date"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "PDF p1"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "PDF p1: (2026.8.1.시행)"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "PDF p2, zone D"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "PDF p2: 계도기간 26.8.1~27.12.31"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "PDF p1"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "PDF p1"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Notice title on the home page, dated 2022.10.17 (stale)"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intro1"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Saha page last updated 2025-02-05 (stale)"
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Same stale Saha page"
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intro2"
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intro2 (the view also includes 용두산)"
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intro2"
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "program page"
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "refund page. The content is a refund rule, not payment"
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "KTO page: Fees Free"
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intro1 has KO/EN/ZH/JA text and a PDF for each"
+    },
+    {
+     "cid": "c32",
+     "verdict": "corrected",
+     "corrected_text": "입주작가 공방은 총 9곳(도자기, 천연염색, 생태공예, 서양화, 카툰, 판화, 회화 2곳, 설치예술)이며, 방문을 원하면 사전에 연락하라고 안내한다.",
+     "note": "The 공방 section gives no phone number. 051-204-1444 is the 안내센터 number"
+    }
+   ],
+   "unsupported_in_description": [
+    "'주거 밀집지역은 09:00~18:00에만 방문하도록 운영하며' is written as a current rule, but per the PDF it takes effect on 2027-01-01 (c14). It should state the effective date"
+   ],
+   "unsupported_in_highlights": [
+    "'주거 밀집지역 방문 시간 09:00~18:00' needs the effective date 2027.1.1 (c14)"
+   ],
+   "suggested_claims": [
+    {
+     "field": "parking.fee",
+     "text": "감천문화마을 홈페이지 주차 예약은 기본 이용시간 90분 기준으로 요금을 계산하며, 초과 시 차량 1대당 30분마다 1,000원이 추가된다. 방문 인원 1명당 지도 1개가 필수로 포함된다.",
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/group-tour-reservation/detail/3"
+    },
+    {
+     "field": "payment",
+     "text": "주차 예약 결제수단은 무통장 입금, 신용카드, 실시간 계좌이체다.",
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/group-tour-reservation/detail/3"
+    },
+    {
+     "field": "reservation",
+     "text": "주차 예약은 당일 예약이 불가하며 당월부터 3개월 이내까지 가능하다. 여행사명·가이드명·가이드 연락처 입력이 필수다.",
+     "url": "https://www.gamcheon.or.kr/gamcheon/page/user/group-tour-reservation/detail/3"
+    }
+   ],
+   "conflicts": [
+    "The KTO English page (72894) lists 'Operating hours: Open 24 hr' and 'Holiday: N/A (Open all year round)'. The official special management area PDF limits residential-area visits to 09:00~18:00 from 2027.1.1, and the 09:00~18:00 hours on intro4 are for the 안내센터 only",
+    "KTO says 'Parking Available (Free)', but the official site runs a paid parking reservation (90분 기본, overtime 30분당 1,000원). No fee is given for the two public lots",
+    "The Saha-gu tour page (source for c23/c24) was last updated 2025-02-05, more than 12 months ago (stale_source)",
+    "The no-drones notice (c21) is dated 2022.10.17, more than 12 months ago",
+    "Not found: base parking fee amount (shows 0원 until options are chosen), entry fee from an official operator page (only KTO says Free), Korean guide or audio guide"
+   ]
+  },
+  {
+   "key": "new:kr-seoul-myeongdong",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Jung-gu and KTO both say 명동2가. KTO road address is 을지로 66; Visit Seoul lists 명동8길 27"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Visit Seoul: Line 4 Exits 5-10"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "KTO intro"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Open daily (Hours vary by store)"
+    },
+    {
+     "cid": "c5",
+     "verdict": "corrected",
+     "corrected_text": "서울 공식 관광 사이트는 명동을 매일 연다(Open daily)고 표기하며, 영업시간은 점포마다 다르다.",
+     "note": "The page says nothing about regular or per-store closing days. That part was inference"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Daytime population of 1.5-2 million"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Visit Seoul"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Jung-gu"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "KTO"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "KTO: dongaseu and kalguksu"
+    },
+    {
+     "cid": "c11",
+     "verdict": "corrected",
+     "corrected_text": "중구청은 명동 상인들이 영어뿐 아니라 중국어와 일본어로도 응대하며, 명동 거리가 다양한 언어 서비스를 제공한다고 안내한다.",
+     "note": "On the page, 'It offers a variety of language services' refers to the street, not specifically to cosmetics shops"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "KTO"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Golden Week in spring"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "+82-2-120 and +82-2-778-0333 both shown"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "location",
+     "text": "서울 공식 관광 사이트는 명동 대표 주소를 서울 중구 명동8길 27(우편번호 04536)로 표기한다.",
+     "url": "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067"
+    },
+    {
+     "field": "location",
+     "text": "한국관광공사는 명동 도로명 주소를 서울 중구 을지로 66으로 표기한다.",
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88011"
+    }
+   ],
+   "conflicts": [
+    "The official sources give different representative addresses: Jung-gu says 명동2가 (no road address), KTO says 을지로 66 and 명동2가, Visit Seoul says 명동8길 27",
+    "Not found: fees, parking, duration, reservation, payment, underground hours, extra cautions. tour.junggu.seoul.kr did not respond (curl 000)"
+   ]
+  },
+  {
+   "key": "WEST-042",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Address is on the hours page. The access page confirms it is inside 해양박공원"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access page"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access page"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access page"
+    },
+    {
+     "cid": "c5",
+     "verdict": "corrected",
+     "corrected_text": "해양박공원 주차장 9곳은 모두 무료다. 북쪽 주차 구역(P7)이나 북문 앞 주차 구역(P6)이 가장 편리하다.",
+     "note": "The FAQ calls P7 '북쪽 주차 구역' and names P7 and P6 as the most convenient. It does not call P7 the 북게이트 입체주차장"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access page"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "hours page"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Period has passed. There was also a 7월 4일-only extension to 23:00"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Period has passed"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "hours page"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Home page notice dated 2026.05.25; FAQ"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "hours page (Off/Peak season)"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "info page"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "info page"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "info page, including 한국 장애인 복지카드"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "info page"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ"
+    },
+    {
+     "cid": "c20",
+     "verdict": "corrected",
+     "corrected_text": "입장권은 수족관 입장권 판매소와 웹사이트(アソビュー)에서 살 수 있고, 단체 티켓과 연간이용권은 판매소에서만 판다. 매표소에서 신분증이나 학생증 제시를 요청받을 수 있다. 당일에 한해 재입장이 가능하며 재입장 시 입구에서 입장권을 제시한다.",
+     "note": "The hand stamp text sits only in an HTML comment. The visible page says to show the ticket"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ"
+    },
+    {
+     "cid": "c22",
+     "verdict": "corrected",
+     "corrected_text": "매표소, 레스토랑 '이노', 모든 상점(기념품점)에서 신용카드를 쓸 수 있다.",
+     "note": "The Korean card table with 'Ocean Blue ×' is inside an HTML comment. The visible English list linked from the FAQ marks Ocean Blue cafe as accepting VISA/Master/AMEX/JCB/Diners"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ: 유람차 현금지불"
+    },
+    {
+     "cid": "c24",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "The tablet interpretation section is entirely inside an HTML comment on the service page and not visible"
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ wifi"
+    },
+    {
+     "cid": "c26",
+     "verdict": "corrected",
+     "corrected_text": "각 수조 해설을 들을 수 있는 음성 가이드를 무료로 제공하며, 스마트폰으로 재생하고 관내에서는 이어폰으로 이용한다.",
+     "note": "The audio-device rental and reservation text is in an HTML comment"
+    },
+    {
+     "cid": "c27",
+     "verdict": "corrected",
+     "corrected_text": "코인 로커는 300~1,000엔이며 8시 30분부터 입장 마감까지 이용할 수 있다(캐시리스 대응, 동전 사용 가능).",
+     "note": "The free stroller and wheelchair rental text is in an HTML comment"
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "caution page"
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ says tripods are banned; the caution page says 'may be prohibited in some cases'"
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ"
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "outline page and home page"
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "home page"
+    },
+    {
+     "cid": "c33",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "home page"
+    }
+   ],
+   "unsupported_in_description": [
+    "'한국어 영상 통역' (c24 is unverifiable)"
+   ],
+   "unsupported_in_highlights": [
+    "'한국어 영상 통역' part of '한국어 영상 통역·한국어 지원 와이파이' (c24 is unverifiable)"
+   ],
+   "suggested_claims": [
+    {
+     "field": "payment",
+     "text": "PayPay는 매표소·레스토랑·상점·카페 모두에서 쓸 수 있고, 위챗페이·알리페이는 레스토랑 '이노'와 상점·카페에서 쓸 수 있으나 매표소에서는 쓸 수 없다.",
+     "url": "https://churaumi.okinawa/en/guide/service/"
+    },
+    {
+     "field": "payment",
+     "text": "매표소에서 VISA, MasterCard, American Express, JCB, Diners Club, 은련(China UnionPay) 카드를 쓸 수 있다.",
+     "url": "https://churaumi.okinawa/en/guide/service/"
+    },
+    {
+     "field": "payment",
+     "text": "수족관에는 ATM이 없으며, 나하공항에서 미리 환전해 오라고 안내한다.",
+     "url": "https://churaumi.okinawa/kr/faq/"
+    }
+   ],
+   "conflicts": [
+    "FAQ currency exchange answer shows both '외화 환전기는 수족관 입구 로비에 있습니다' and '죄송합니다만 구비되어 있지 않습니다'. Malformed '<!-->' markup leaves both visible. The ATM answer clearly says there is none",
+    "The Korean FAQ hides a card table in a comment that marks Ocean Blue ×, while the visible English service page marks Ocean Blue as accepting all major cards",
+    "FAQ says food and drink cannot be consumed in the aquarium; the caution page allows hydration drinks in sealable containers",
+    "FAQ says tripods are banned; caution and service pages say they may be prohibited depending on the case",
+    "Access page bus note says the timetable covers 2019년 4월~9월 (stale)",
+    "The evening '4시 이후 티켓' was hidden in a comment and ended 2023-03-31, so it is not offered now. Not found: peak hours for 2027, recommended visit duration, Korean audio guide, bus fares"
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 79,
+  "verified": 70,
+  "corrected": 8,
+  "outdated": 0,
+  "unverifiable": 1,
+  "rejected": 0,
+  "notes": [
+   "All cited URLs were opened with curl and only visible text was judged, with HTML comments excluded. The Saha page first failed (000) and loaded on retry.",
+   "Gamcheon special management PDF is image-only (2 pages) and was read by rendering it as images.",
+   "Churaumi service and FAQ pages hide several facts in HTML comments: tablet interpretation, stroller and wheelchair rental, audio device reservation, re-entry hand stamp and a card table. The collector used that hidden content.",
+   "Stale sources (over 12 months): Saha-gu tour page (updated 2025-02-05), Gamcheon drone notice (2022-10-17), Churaumi bus timetable note (2019)."
+  ]
+ }
+}

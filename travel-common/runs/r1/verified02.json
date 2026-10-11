@@ -1,0 +1,511 @@
+{
+ "places": [
+  {
+   "key": "kr-busan-haeundae-parent",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Both KTO pages give 해운대해변로 264."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches KTO article 228475, but that article is dated 2025-07-04 and was last updated June 2025, so the source is stale (over 12 months)."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The English KTO page says Parking: Available and gives no fee."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The accessibility page says 장애인 주차장 있음(광장주차장)."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The accessibility page (수정일 2026.09.10) says 매년 6월~9월 09:00~18:00 and refers to the homepage for details."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The page says 연중무휴."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Fees: Free. Facility fees vary by facility."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The page lists 해운대관광안내소 051-749-5700. The English KTO page lists +82-51-749-7611 instead."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wheelchair rental at the 1F info centre with ID. Accessible toilet next to the info centre, near 송림공원."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the 무장애코멘트 section."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: roughly 1.5 km long, 30-50 m wide, shallow bay, good for swimming."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 부산을 대표하는 명소, 국내 최대 인파."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "All four events are on the Korean KTO page."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "All six nearby sights are on the Korean KTO page."
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [],
+   "conflicts": [
+    "c2 source (KTO article 228475, 2025-07-04, last updated June 2025) is a stale_source. The only swimming-season dates found are for 2025 (Jun 21-Sep 14, 2025); there are no 2026 dates.",
+    "The korean.visitkorea.or.kr page (36f54304) has a 무장애여행 panel saying 장애인 화장실 없음, 장애인 전용 주차구역 없음 and 휠체어 대여 없음. access.visitkorea.or.kr (updated 2026-09-10) says all three are available. The panel may be a static template default.",
+    "Two different contact numbers: the English KTO page has +82-51-749-7611 and the accessibility page has 051-749-5700 (해운대관광안내소).",
+    "Lookups for parking fee, swimming season and bus failed: sunnfun.haeundae.go.kr and haeundae.go.kr/tour both failed to connect (curl 000). Nothing was found."
+   ]
+  },
+  {
+   "key": "kr-busan-gwangalli-bridge-overview",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Both pages give 광안해변로 219 (광안동)."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Accessibility page: 상시 개방. English page: Open 24 hr."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The page says 연중무휴."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Fees: Free."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: Available (300 won for every 10 minutes)."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: west of Haeundae, 1.4 km long, 25~110 m wide."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the accessibility page description."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: many people come in the evening for the bridge lights."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: stretches over 7.4 km from 남천동 to 센텀시티 in 우동."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page gives 수영강변대로 203."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: the longest bi-level bridge over the ocean in Korea."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: thousands of LEDs, lighting changes with the seasons."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: Open 24 hr."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: Parking Not available."
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page lists +82-51-780-0077 and website bisco.or.kr."
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 1,100 drones, two shows, up to 3,000 drones on occasions such as Chuseok and New Year countdown."
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches 194990. The official site notice also confirms 동절기(10~2월) 19시·21시."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The intro and the official site say about 12 minutes, but the page's 'Average time spent' field says about 10 min."
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Fees: Free."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The cited page matches. The official site gives different contact numbers; see conflicts."
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Step-free entrance, accessible toilet, baby-changing table in the women's toilet."
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "access",
+     "text": "지하철 2호선 광안역 3번 출구 또는 금련산역 3번 출구에서 걸어서 약 10분이다.",
+     "url": "https://www.gwangallimdrone.co.kr/contact"
+    },
+    {
+     "field": "access",
+     "text": "버스 41·49·38·42·51·62·83·83-1·108-1번을 타고 광안리해수욕장 정류장에서 내려 걸어서 약 3분이다.",
+     "url": "https://www.gwangallimdrone.co.kr/contact"
+    },
+    {
+     "field": "parking",
+     "text": "주변 공영주차장으로 광안리해수욕장 공영주차장(남천바다로33번길 75), 민락해변공원, 민락매립지, 민락수변공원 제1·제2, 수변어린이공원 공영주차장이 있으며, 드론쇼 날에는 대중교통 이용이 권장된다.",
+     "url": "https://www.gwangallimdrone.co.kr/contact"
+    },
+    {
+     "field": "hours",
+     "text": "광안리 M 드론라이트쇼 동절기(10~2월) 공연시간은 19시·21시이다.",
+     "url": "https://www.gwangallimdrone.co.kr/notice/gwanganri-m-deuronraiteusyo-dongjeolgi-gongyeonsigan-byeongyeongannae-2"
+    }
+   ],
+   "conflicts": [
+    "Drone show winter times: KTO article 228475 (2025, stale) says October-February 17:00 & 21:00. KTO 194990 and the official site notice say 19:00 & 21:00. Use 19:00 & 21:00.",
+    "Drone show contact: KTO 194990 lists +82-51-610-4882. The official site gwangallimdrone.co.kr lists 수영구청 관광스포츠과 051-610-6518, 6514.",
+    "Drone show duration: KTO 194990 says about 12 min in the intro but about 10 min in 'Average time spent'. The official site says 매회 12분 내외.",
+    "KTO 194990 shows 'Event period 2026-01-01 ~ 2026-01-01', which looks like broken metadata.",
+    "Gwangan Station exit: KTO article 228475 (stale) says exit 3 or 5. The official drone site says exit 3 only.",
+    "Bridge toll and pedestrian access were not looked up (lookup budget was spent on access and drone items)."
+   ]
+  },
+  {
+   "key": "kr-seoul-changdeokgung",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Official page: 율곡로 99. The postcode 03072 is on Visit Seoul."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Official page: 3호선 안국역 3번 출구 도보 5분."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Official page: 종로3가역 6번 출구 도보 10분."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Bus list matches exactly."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches. The cha.go.kr URL timed out; the same page was read at khs.go.kr. Visit Seoul has the same hours."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Official pages and Visit Seoul agree."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Official page: about 60 min, about 1 km, eight stops as listed."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Official page: 90 min, 2.5 km, 70 min in Jul-Aug and Dec-Feb."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Official page: Korean tours Feb-Nov 10-15시 hourly, plus 16시 in Mar-Oct."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "English, Chinese and Japanese times match."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the free guided tour table, including 50 min and the meeting point."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "3,000원, four languages, hall area only (not the Secret Garden), ID required, manual number entry."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Official page: 3,000원, groups of 10+ 2,400원. Visit Seoul agrees."
+    },
+    {
+     "cid": "c14",
+     "verdict": "corrected",
+     "corrected_text": "궁궐전각 외국인 소인(만7~18세) 요금은 1,500원(유료 10인 이상 단체 1,200원)이며, 내국인 만7~24세는 무료이다.",
+     "note": "On the page, the 1,500원 소인 fare is under 외국인 only. Korean residents aged 7-24 enter free."
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The page lists 만6세 이하, 만65세 이상, 한복, 매월 마지막 (주) 수요일, and for Koreans 만7~24세."
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches. Only 주민등록증 and 운전면허증 work in the ID reader."
+    },
+    {
+     "cid": "c17",
+     "verdict": "corrected",
+     "corrected_text": "후원(왕실정원) 특별관람료는 성인(만19세 이상) 5,000원, 소인(만7~18세) 2,500원이며 궁궐전각 관람권을 별도로 사야 한다. 전각 요금은 내국인 만25~64세·외국인 만19~64세 3,000원, 외국인 소인 1,500원이고 내국인 만24세 이하와 만65세 이상은 무료이다.",
+     "note": "The claim says adults pay an extra 3,000원 for the halls. That is wrong for Koreans aged 19-24 and everyone 65+, who get the hall ticket free. Foreign children pay 1,500원."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "10,000원, valid 3 months, one entry per palace."
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Official page: 100 per session (50 online + 50 on-site). Visit Seoul agrees."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Official page: from 10:00 six days before until the day before, up to 10 people per person."
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "School-group booking the day before and 180 days ahead, plus the integrated-pass exchange rule, are on the page."
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the Secret Garden refund and caution notes."
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the visitor rules."
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches: 10 strollers, 6 wheelchairs, free."
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Visit Seoul: 1405, 1610, about 270 years."
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches Visit Seoul."
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Course stops are on the official page. The 60% figure is on Visit Seoul."
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches Visit Seoul."
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Fri-Sun 10:30 궐내각사 and 14:30 낙선재; advance booking and walk-in both possible."
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Visit Seoul and the official page both list 02-3668-2300."
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "hours",
+     "text": "후원 관람시간은 2월 10:00~16:10(입장마감 15:00), 3~6월 10:00~17:30(16:00), 7~8월 10:00~17:10(16:00), 9~10월 10:00~17:30(16:00), 11월 10:00~17:00(15:30), 12~1월 10:00~16:10(15:00)이다.",
+     "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide2.jsp&mn=NS_01_25"
+    },
+    {
+     "field": "fees",
+     "text": "후원 특별관람 무료 대상은 만6세 이하(내·외국인)와 내국인 장애인·국가유공자이며, 종로구민은 50% 할인된다.",
+     "url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide2.jsp&mn=NS_01_25"
+    },
+    {
+     "field": "fees",
+     "text": "창덕궁 궁궐전각 상시관람권은 1개월 30,000원(사진 1매 필요), 점심시간(12:00~14:00) 관람권은 5,000원(3개월 내 10회, 인근 직장인 대상)이다.",
+     "url": "https://www.khs.go.kr/html/HtmlPage.do?pg=/watch_info/palacesCdgGuide1.jsp&mn=NS_01_25"
+    },
+    {
+     "field": "reservation",
+     "text": "후원 예매 조회·취소는 궁능유적본부 통합예약 페이지에서 한다.",
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R601000000.do"
+    },
+    {
+     "field": "closed_days",
+     "text": "명절 연휴에는 전각을 무료 개방하기도 한다(2026년 추석 9.24~9.27, 후원 제외, 전각 해설 미운영).",
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260921134912308090&schBcid=notice01"
+    }
+   ],
+   "conflicts": [
+    "The cha.go.kr Guide1 URL timed out on curl twice (WebFetch not tried). The identical path on www.khs.go.kr (국가유산청) opened and was used. cha.go.kr pages carry khs.go.kr branding, so source URLs should be updated to khs.go.kr.",
+    "Visit Seoul Secret Garden page (edited 2026-09-09) lists Korean tours as Nov-Feb 10:00-15:00. The official page lists Korean tours for Feb-Nov only (no Dec-Jan rows), although its hours table includes Dec-Jan (entry closes 15:00). The difference is minor.",
+    "Parking and payment: not found on any official page opened (official pages and royal.khs.go.kr)."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 67,
+  "verified": 65,
+  "corrected": 2,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "All cited URLs were opened with curl -sL and judged on page text. The only failure was cha.go.kr palacesCdgGuide1, read at the identical khs.go.kr path.",
+   "No coordinates were in the input, so no OSM distance check was done.",
+   "Stale source: KTO article 228475 (2025-07-04) is the only source for Haeundae access (c2) and has an outdated drone winter time (17:00). Re-source Haeundae access from an official page.",
+   "Haeundae official sites (sunnfun.haeundae.go.kr, haeundae.go.kr/tour) did not connect, so parking fee, 2026 swimming season and bus stayed unresolved.",
+   "Both corrections are Changdeokgung fees: c14 and c17 apply foreigner and age-band fares to everyone."
+  ]
+ }
+}

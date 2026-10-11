@@ -1,0 +1,509 @@
+{
+ "places": [
+  {
+   "key": "WEST-032",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Footer of /en/ says the Administration Management Center is at 1-1 Honmaru, Chuo-ku, Kumamoto City."
+    },
+    {
+     "cid": "c2",
+     "verdict": "corrected",
+     "corrected_text": "개원 시간은 9~6월 9:00~17:00(최종 입장 16:00), 7~8월 9:00~19:00(최종 입장 18:00)이다.",
+     "note": "/en/info/ shows only the regular season, 9-17. The Japanese /info/ page (Last-Modified 2026-04-30) adds the Jul-Aug 9:00-19:00 hours and says the Ninomaru ticket office sells tickets until 16:00 all year."
+    },
+    {
+     "cid": "c3",
+     "verdict": "corrected",
+     "corrected_text": "천수각 최종 입장 시간은 9~6월 오후 4시 30분, 7~8월 오후 6시 30분이다.",
+     "note": "/ko/info/ gives only 16:30. The Japanese /info/ page gives 18:30 for Jul-Aug."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "/en/info/ lists December 29th and possible closure in severe weather. The Japanese page says the same."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "800 (640) and 300 (240) yen; the group rate applies to 30 or more people."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "EN says 'Children under 6 years old Free'; KO says '미취학아동 무료'."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "KO calls it '구마모토 박물관'; EN calls it 'Kumamoto City Museum'."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The list also includes holders of the 성주 어음 (城主手形). The Japanese page adds that exempt visitors must show ID."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The advance-purchase link goes to the external site ars-kumamotojou.triplabo.jp. The ticket-office queue warning is on /ko/info/."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches both pages. The list also includes au PAY, d결제, 메루페이, 라쿠텐페이, BankPay, J-CoinPay and 유초Pay."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "EN: 'brands differ, according to the ticket Offices'; UnionPay and DISCOVER are not accepted at the vending machines."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The pamphlets and the language menu each cover 5 languages."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Requests are taken at the Tourist Information Center."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The last bus leaves from Ninomaru."
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Motorcycles: 100 yen for 2 hours, then 50 yen per hour."
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Buses use Sakuranobaba bus parking and Sannomaru lot 1. Bus parking is booked through Bus Park Navi."
+    },
+    {
+     "cid": "c19",
+     "verdict": "corrected",
+     "corrected_text": "비 오는 날 바닥이 매우 미끄럽고, 혼잡 시 입장 제한이나 대기가 있을 수 있다. 천수각에는 반려동물을 데리고 들어갈 수 없고(보조견 제외), 유료 구역에서는 얼굴이 보이지 않는 케이지에 넣은 경우에만 실외 동반이 가능하다. 공원 내 화기 금지, 흡연은 니노마루 쉼터 옆·조사이엔 흡연소에서만 가능하다.",
+     "note": "/ko/info/ says pets are not allowed at all. /en/info/ and the Japanese /info/ page (2026-04) allow pets in a closed carrier outdoors in ticketed areas. The KO page is outdated."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "/ko/about/ marks 혼마루고텐 출입 불가 (복구 공사 예정) and 우토야구라, 아카즈노몬 and 니시오테몬 as 철거 (복구 공사 예정)."
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "EN says a helper must accompany wheelchair users and there are three elevators in the castle tower. One KO line says '동반자 불요', which is inconsistent with this."
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "우토야구라 is currently dismantled (see c20)."
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The page says '지하실 석축의 붕락'."
+    }
+   ],
+   "unsupported_in_description": [
+    "'입장 접수는 9:00~17:00(최종 입장 16:00)이고 천수각 최종 입장은 16:30' leaves out the Jul-Aug hours: 9:00-19:00, last entry 18:00, tower 18:30 (contradicts corrected c2/c3).",
+    "'3중 5층 지하 1층의 우토야구라도 볼거리입니다' presents the turret as something to see, but it is dismantled pending restoration (contradicts c20)."
+   ],
+   "unsupported_in_highlights": [
+    "'우토야구라: 3중 5층 지하 1층 규모의 제3의 천수' is presented as a current sight, but the turret is dismantled (contradicts c20)."
+   ],
+   "suggested_claims": [
+    {
+     "field": "duration",
+     "text": "공식 모델 루트 기준 소요시간은 약 2시간(와쿠와쿠 코스), 약 3시간 30분~4시간(더 알기 코스), 약 4~5시간(느긋한 코스)이며 주변 시설 이용을 포함한다.",
+     "url": "https://castle.kumamoto-guide.jp/info/"
+    },
+    {
+     "field": "ops.fees",
+     "text": "입장료 면제 대상자는 본인 확인이 가능한 증명서를 제시해야 하며, 최종 입장 시간까지 매표소에서 무료권을 받아야 한다.",
+     "url": "https://castle.kumamoto-guide.jp/info/"
+    },
+    {
+     "field": "ops.fees",
+     "text": "고교생 이상 대상 연간 입장권은 1,600엔이며 니노마루 매표소에서 8:45~16:00에 판매한다.",
+     "url": "https://castle.kumamoto-guide.jp/info/"
+    },
+    {
+     "field": "ops.closed_days",
+     "text": "일본어 공식 페이지도 휴원일을 12월 29일로 안내하며, 악천후 시 휴원할 수 있다.",
+     "url": "https://castle.kumamoto-guide.jp/info/"
+    }
+   ],
+   "conflicts": [
+    "Hours: /en/info/ and /ko/info/ (no visible update date) give only 9:00-17:00. The Japanese /info/ page (HTTP Last-Modified 2026-04-30) also gives Jul-Aug hours of 9:00-19:00. The EN/KO pages are incomplete.",
+    "Pets: /ko/info/ says no pets at all (guide dogs allowed). /en/info/ and the Japanese page allow pets in carriers outdoors in ticketed areas and on a leash in free areas. The KO page looks stale: it still uses '특별공개' wording and the home page banner reads '특별공개 2019.10.5 START'.",
+    "Wheelchair rental locations differ: KO lists 조사이엔, 니노마루 주차장 and 방재관리센터; EN lists the four ticket offices; JA lists 니노마루, 북문 and 남문 ticket offices plus 와쿠와쿠자.",
+    "Not found in two lookups: audio guide, walking time from the station (the access page shows it only as images), coordinates. None of the cited pages shows a visible update date."
+   ]
+  },
+  {
+   "key": "WEST-021",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The access page lists the Honkan at 도고 유노마치 5번지 6호 (790-0842). The footer address 19-22 is the operator's office (Asuka-no-Yu), not the Honkan."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "KO and EN pages agree (EN wording: 'Ticket sales stop at')."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The 1st-floor bath-only course is also 60 minutes. The rental rooms are 90 minutes."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Prices include tax. Rental rooms cost 6,000 or 3,000 yen per group plus the per-person fee."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "howto.php says the Tama-no-yu and rental-room courses include free viewing of Yushinden."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The 20%-off ticket covers the Honkan 1st floor, Tsubaki-no-Yu and the Asuka-no-Yu 1st floor."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "honkan.php shows 110/320 yen. The FAQ shows a stale 100/300 (see conflicts)."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "EN adds that the Asuka-no-Yu special bathroom must be booked at least 2 hours ahead (089-932-1126)."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "howto.php: numbered ticket, and a no-show within 15 minutes of the call is cancelled automatically."
+    },
+    {
+     "cid": "c12",
+     "verdict": "corrected",
+     "corrected_text": "신용카드·체크카드(브랜드 직불)·전자화폐·교통 IC카드·QR코드 결제를 쓸 수 있다. 현금은 이 페이지에 언급이 없다.",
+     "note": "Brand names (Visa, PayPay and so on) appear only as logo images with empty alt text. The page text names only the payment categories."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Taxi takes about 25 or 20 minutes."
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The FAQ says about 40 minutes (see conflicts)."
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Overnight (20:30-8:30) costs 720 yen. Entry is by right turn only from the south."
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "After the first hour the rate is 30 min/100 yen."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Wording on /ko/: '금일 안내 종료'."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Bath towels are included only in some courses."
+    },
+    {
+     "cid": "c21",
+     "verdict": "corrected",
+     "corrected_text": "본관은 1894년(메이지 27년)에 개축되었고 3층 누각 지붕 위 신로카쿠(振鷺閣)에 시각을 알리는 토키타이코가 있어 오전 6시·정오·오후 6시에 울린다.",
+     "note": "The official Korean spelling is 신로카쿠, not 시로카쿠. The page uses 개축 (rebuild)."
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The water is neither heated nor diluted."
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Reopening came before the work was finished. honkan.php says the conservation work was completed on 2024-12-20."
+    }
+   ],
+   "unsupported_in_description": [
+    "'보존 수리를 마치고 2024년 7월 11일 전체가 재개장' is wrong: the whole building reopened on 2024-07-11 ahead of completion, and the work was completed on 2024-12-20.",
+    "'지붕 위 시로카쿠' should read 신로카쿠 (see corrected c21)."
+   ],
+   "unsupported_in_highlights": [
+    "'2024년 7월 11일 보존 수리를 마치고 전체 재개장' is wrong: the work was completed on 2024-12-20, after the reopening.",
+    "'지붕 위 시로카쿠' should read 신로카쿠 (see corrected c21).",
+    "'2층 휴게 코스·개인실 코스 선택 가능' is grouped with Kami-no-yu, but the private room is on Tama-no-yu 3F."
+   ],
+   "suggested_claims": [
+    {
+     "field": "ops.closed_days",
+     "text": "본관·아스카노유·츠바키노유는 매년 12월 대청소를 위해 하루 임시 휴관한다.",
+     "url": "https://dogo.jp/ko/faq.php"
+    },
+    {
+     "field": "access",
+     "text": "도고온천역에서 도고온천 본관까지 도보 약 3분이다.",
+     "url": "https://dogo.jp/ko/faq.php"
+    },
+    {
+     "field": "tip",
+     "text": "본관 탈의실에 무료 로커가 있고 헤어드라이어는 무료이며, 시설 내 음식 반입은 삼가야 한다.",
+     "url": "https://dogo.jp/ko/faq.php"
+    }
+   ],
+   "conflicts": [
+    "The Korean FAQ (faq.php) has stale values: towel rental 100/300 yen versus 110/320 on honkan.php; airport limousine about 40 minutes versus 43 on access.php; and it still warns of temporary closures during the conservation work, which finished in 2024-12.",
+    "Not found in two lookups: cash payment, tattoo and photography rules, staff language support. Neither the Korean nor the English Honkan page shows an update date."
+   ]
+  },
+  {
+   "key": "jp-east-otaru-canal",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The city page shows 更新日 2024-01-29, more than 12 months ago (stale_source)."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Rapid Airport train."
+    },
+    {
+     "cid": "c5",
+     "verdict": "corrected",
+     "corrected_text": "일반도로 이용 시 자동차로 삿포로→오타루 약 1시간 20분(국도 5호선), 신치토세 공항→오타루 약 2시간 30분이다(구글맵 측정, 도로 상황에 따라 변동).",
+     "note": "The page says these times are for general roads (一般道路). Expressway times are not given in the page text."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The listing says 定休日: 通年散策可能 (open for walking all year)."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The North Canal path lights work on a light sensor (Jun-Aug 18:00-04:00)."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Gate-type operation since 2024-03-25; same fee on weekends and holidays. The page is dated 2024-04-20 (stale)."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Fees: 600 yen within 2 hours, 900 yen within 3 hours. About 3 minutes' walk to Sakaimachi street."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    },
+    {
+     "cid": "c11",
+     "verdict": "corrected",
+     "corrected_text": "대표 사진 명소인 아사쿠사바시 거리공원은 낮에 관광객이 많아 붐빈다.",
+     "note": "The page says only that the Asakusabashi spot is busy in the daytime. It does not say the whole canal is crowded."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": null
+    }
+   ],
+   "unsupported_in_description": [
+    "'하역 효율을 높이기 위해 쓰였습니다' is on the page but no claim covers the canal's purpose."
+   ],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "ops.closed_days",
+     "text": "정기 휴일 없이 연중 산책할 수 있다.",
+     "url": "https://otaru.gr.jp/tourist/otarucanal"
+    },
+    {
+     "field": "highlight",
+     "text": "제28회 오타루 유키아카리노미치는 2026년 2월 7일~14일에 열렸으며, 2027년 일정은 공식 사이트에서 확인되지 않았다.",
+     "url": "https://otaru.gr.jp/category/tourist/2026otaruyukiakarinomiti28"
+    },
+    {
+     "field": "ops.hours",
+     "text": "북운하 산책로 가스등은 광센서로 점등·소등되며 6~8월에는 18:00~다음 날 4:00에 켜진다.",
+     "url": "https://otaru.gr.jp/tourist/otarucanal"
+    }
+   ],
+   "conflicts": [
+    "Walking time from JR Otaru Station: about 10 minutes on the tourism association page versus 8 minutes on the city page (updated 2024-01-29, more than 12 months ago).",
+    "The parking page is dated 2024-04-20 and its fee boards were checked 2024-04-01. That is more than 12 months old, so parking fees c8 and c9 need rechecking.",
+    "The yukiakarinomichi.org site could not be reached. Walking time from the first parking lot was not found."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 64,
+  "verified": 57,
+  "corrected": 7,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "All 16 cited URLs opened with curl (HTTP 200). Verdicts are based only on visible page text, with HTML comments and scripts removed.",
+   "Kumamoto: the EN/KO info pages do not show the Jul-Aug extended hours (9:00-19:00) and the KO pet rules are stale. Use the Japanese /info/ page (2026-04) as the primary source for hours and rules.",
+   "Dogo: brand-level payment details appear only as logo images. The Korean FAQ is stale for towel prices and airport time.",
+   "Otaru: the city page and parking page are more than 12 months old (stale_source).",
+   "None of the claims are coordinates, so no map cross-check was needed."
+  ]
+ }
+}

@@ -2,7 +2,7 @@
  "id": "WEST-021",
  "country": "jp",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "도고온천 본관",
   "local": "道後温泉本館"
@@ -10,7 +10,7 @@
  "admin_region": "에히메",
  "former_region": null,
  "city": "마쓰야마시",
- "address": null,
+ "address": "愛媛県松山市道後湯之町5番6号 (790-0842)",
  "coord": {
   "lat": 33.852062,
   "lng": 132.786404,
@@ -21,93 +21,712 @@
   "osm": "way/235751036"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "도고온천 본관은 에히메현 마쓰야마시에 있는 공중 온천탕으로, 본관 건물은 1894년(메이지 27년)에 개축되었고 지붕 위 신로카쿠에서 시각을 알리는 북이 울립니다.",
+ "description": "도고온천 본관은 에히메현 마쓰야마시에 있는 공중 온천탕으로, 본관 건물은 1894년(메이지 27년)에 개축되었고 지붕 위 신로카쿠에서 시각을 알리는 북이 울립니다. 2019년 1월 영업을 이어 가며 보존 수리를 시작했고, 2024년 7월 11일 휴게실을 포함한 전체가 재개장했습니다. 가미노유 1층 목욕만 이용하면 성인 700엔, 2층 휴게 코스는 1,300엔이며 탈의실 사물함은 무료입니다. 혼잡할 때는 번호표를 받아 대기합니다. 숙박은 불가하고 온수는 18개 원천을 섞어 약 42도로 맞춥니다. 한국어를 포함한 4개 언어 이상 공식 사이트가 제공되며 대여 객실 등은 온라인 예약이 필요합니다.",
+ "highlights": [
+  "본관 건물은 1894년 개축, 지붕 위 신로카쿠에서 시각을 알리는 북이 울림",
+  "2024년 7월 11일 휴게실 포함 전체 재개장",
+  "가미노유 1층 700엔부터, 2층 휴게 코스와 다마노유 3층 개인실 코스 선택 가능",
+  "3개 온천 순회 통합권(성인 1,440엔)은 판매일과 다음 날까지 유효",
+  "온수는 18개 원천을 섞어 약 42도로 맞춘 알칼리성 단순천"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c14",
+    "r1-b14-c15",
+    "r1-b14-c16",
+    "r1-b14-c17"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "도고온천역에서 본관까지 도보 시간이 공식 access 페이지에 없음.",
+     "detail": "access.walk",
+     "run": "r1-b14"
+    }
+   ]
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c4"
+   ],
+   "gap": null
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c2",
+    "r1-b14-c3"
+   ],
+   "gap": null
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "본관·접근·이용 안내 페이지(honkan.php, access.php, howto.php)에 정기 휴무일 기재 없음. 확인 불가."
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c5",
+    "r1-b14-c6",
+    "r1-b14-c7",
+    "r1-b14-c8",
+    "r1-b14-c9"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "honkan.php에는 수리 완료일이 2024년 12월 20일로 적혀 있고 메인 페이지는 2024년 7월 11일 전체 재개장으로 적혀 있어 날짜가 다름(https://dogo.jp/ko/honkan.php, https://dogo.jp/en/). 재개장일은 메인 페이지 값만 사용.",
+     "detail": "fees.conflict",
+     "run": "r1-b14"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c10",
+    "r1-b14-c11"
+   ],
+   "gap": null
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c12"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "honkan.php 결제 목록에 현금 언급 없음. 현금 가능 여부 미확인.",
+     "detail": "payment.cash",
+     "run": "r1-b14"
+    }
+   ]
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c13"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 응대 직원·오디오가이드 여부 안내 없음. 사이트 한국어판만 확인.",
+     "detail": "language.staff",
+     "run": "r1-b14"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c18",
+    "r1-b14-c19"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "문신 정책·촬영 규칙이 확인한 페이지에 없음(manners.php 미확인).",
+     "detail": "caution.tattoo_photo",
+     "run": "r1-b14"
+    }
+   ]
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b14-c1",
+   "field": "location",
+   "text": "도고온천 본관의 주소는 에히메현 마쓰야마시 도고 유노마치 5번지 6호(우편번호 790-0842)이다.",
+   "original_text": null,
+   "value": "道後湯之町5-6",
+   "verdict": "verified",
+   "verify_note": "The access page lists the Honkan at 도고 유노마치 5번지 6호 (790-0842). The footer address 19-22 is the operator's office (Asuka-no-Yu), not the Honkan.",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/access.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c2",
+   "field": "hours",
+   "text": "본관 가미노유 1층 탕은 6:00~23:00(최종 입장 22:30), 2층 휴게석 코스는 6:00~22:00(최종 입장 21:00)이다.",
+   "original_text": null,
+   "value": "06:00-23:00 / 06:00-22:00",
+   "verdict": "verified",
+   "verify_note": "KO and EN pages agree (EN wording: 'Ticket sales stop at').",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/honkan.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://dogo.jp/en/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c3",
+   "field": "hours",
+   "text": "다마노유 2층 휴게석은 6:00~22:00(최종 입장 21:00), 3층 개인실은 6:00~22:00(최종 입장 20:30)이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/honkan.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://dogo.jp/en/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c4",
+   "field": "duration",
+   "text": "공식 코스별 이용 시간은 가미노유·다마노유 2층 60분, 다마노유 3층 개인실 90분이며 유신덴만 관람은 30분이다.",
+   "original_text": null,
+   "value": "60/90/30 min",
+   "verdict": "verified",
+   "verify_note": "The 1st-floor bath-only course is also 60 minutes. The rental rooms are 90 minutes.",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/honkan.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c5",
+   "field": "fees",
+   "text": "가미노유 1층(탕만) 성인 700엔·어린이 350엔, 가미노유 2층 휴게 1,300엔/650엔, 다마노유 2층 2,000엔/1,000엔, 다마노유 3층 개인실 2,500엔/1,250엔이다.",
+   "original_text": null,
+   "value": "700/350; 1300/650; 2000/1000; 2500/1250 JPY",
+   "verdict": "verified",
+   "verify_note": "Prices include tax. Rental rooms cost 6,000 or 3,000 yen per group plus the per-person fee.",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/honkan.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c6",
+   "field": "fees",
+   "text": "요금표에서 성인은 12세 이상, 어린이는 2~11세(유신덴은 6~11세)이며 2세 미만 요금은 기재되어 있지 않다.",
+   "original_text": null,
+   "value": "adult 12+, child 2-11",
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/honkan.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c7",
+   "field": "fees",
+   "text": "유신덴만 관람(안내 포함)은 성인 500엔, 어린이(6~11세) 250엔이며 9:00~17:00(최종 입장 16:30)이다. 다마노유·대여실 코스에는 유신덴 관람이 포함된다.",
+   "original_text": null,
+   "value": "500/250 JPY",
+   "verdict": "verified",
+   "verify_note": "howto.php says the Tama-no-yu and rental-room courses include free viewing of Yushinden.",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/honkan.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://dogo.jp/ko/howto.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c8",
+   "field": "fees",
+   "text": "3관 순탕 통합권은 성인 1,440엔·어린이 680엔이며 판매일과 다음 날까지 유효하고 각 시설을 1회씩 쓸 수 있다.",
+   "original_text": null,
+   "value": "1440/680 JPY",
+   "verdict": "verified",
+   "verify_note": "The 20%-off ticket covers the Honkan 1st floor, Tsubaki-no-Yu and the Asuka-no-Yu 1st floor.",
+   "sources": [
+    {
+     "url": "https://dogo.jp/en/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://dogo.jp/ko/honkan.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c9",
+   "field": "fees",
+   "text": "수건 대여는 110엔, 목욕 수건 대여는 320엔이다.",
+   "original_text": null,
+   "value": "110/320 JPY",
+   "verdict": "verified",
+   "verify_note": "honkan.php shows 110/320 yen. The FAQ shows a stale 100/300 (see conflicts).",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/honkan.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c10",
+   "field": "reservation",
+   "text": "대여 객실(시라사기노마·히쇼노마)·유신덴·아스카노유 2층 특별탕만 예약 가능하며, 온라인 예약은 전날 22:00 마감, 당일은 전화(089-921-5141)로 받는다.",
+   "original_text": null,
+   "value": "online until 22:00 previous day",
+   "verdict": "verified",
+   "verify_note": "EN adds that the Asuka-no-Yu special bathroom must be booked at least 2 hours ahead (089-932-1126).",
+   "sources": [
+    {
+     "url": "https://dogo.jp/en/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://dogo.jp/ko/honkan.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c11",
+   "field": "reservation",
+   "text": "가미노유 1층 코스는 예약할 수 없다. 혼잡 시에는 번호표를 받고, 호출 후 15분 안에 돌아와야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "howto.php: numbered ticket, and a no-show within 15 minutes of the call is cancelled automatically.",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/honkan.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://dogo.jp/ko/howto.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c12",
+   "field": "payment",
+   "text": "신용카드·체크카드(브랜드 직불)·전자화폐·교통 IC카드·QR코드 결제를 쓸 수 있다. 현금은 이 페이지에 언급이 없다.",
+   "original_text": "신용카드(Visa, Mastercard, JCB, Amex, Diners, Discover, UnionPay), 교통 IC·전자화폐, QR결제(PayPay, Alipay, WeChat Pay 등)를 쓸 수 있다고 안내한다. 현금은 이 페이지에 언급이 없다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "Brand names (Visa, PayPay and so on) appear only as logo images with empty alt text. The page text names only the payment categories.",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/honkan.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c13",
+   "field": "language",
+   "text": "공식 사이트는 일본어·영어·번체·간체·한국어로 제공된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/honkan.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c14",
+   "field": "access",
+   "text": "JR 마쓰야마역에서 도고온천행 시내 전차로 약 25분, 마쓰야마시역에서 약 20분이다.",
+   "original_text": null,
+   "value": "25 min / 20 min",
+   "verdict": "verified",
+   "verify_note": "Taxi takes about 25 or 20 minutes.",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/access.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c15",
+   "field": "access",
+   "text": "마쓰야마 공항에서 리무진버스로 도고온천역까지 약 43분이다.",
+   "original_text": null,
+   "value": "43 min",
+   "verdict": "verified",
+   "verify_note": "The FAQ says about 40 minutes (see conflicts).",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/access.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c16",
+   "field": "parking",
+   "text": "본관 남쪽 도고온천 주차장은 5:30~23:30, 93대이며 30분 100엔이고 외탕 3관 입욕 시 1시간 무료이다. 시영 주차장은 일반 승용차만 가능하다.",
+   "original_text": null,
+   "value": "100 JPY/30min",
+   "verdict": "verified",
+   "verify_note": "Overnight (20:30-8:30) costs 720 yen. Entry is by right turn only from the south.",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/access.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c17",
+   "field": "parking",
+   "text": "이와이다니 히가시마치 주차장은 24시간, 43대이며 입욕 여부와 관계없이 첫 1시간 무료이다. 관광 임시주차장(60대)은 개방일 5:30~23:00 무료이나 개방일은 달력 이미지로만 안내된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "After the first hour the rate is 30 min/100 yen.",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/access.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c18",
+   "field": "caution",
+   "text": "본관은 공중탕으로 숙박은 할 수 없고, 유신덴은 관람 시설이며 목욕할 수 없다. 대여 객실에는 욕조가 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/honkan.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c19",
+   "field": "caution",
+   "text": "혼잡 시 번호표가 발급되며 당일 접수 종료 안내가 뜨면 번호표 소지자만 입장할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Wording on /ko/: '금일 안내 종료'.",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c20",
+   "field": "tip",
+   "text": "본관 탈의실 사물함은 무료이며 유카타·오비·수건 대여가 제공된다(코스별 유카타 무늬 지정).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Bath towels are included only in some courses.",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/howto.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c21",
+   "field": "description",
+   "text": "본관은 1894년(메이지 27년)에 개축되었고 3층 누각 지붕 위 신로카쿠(振鷺閣)에 시각을 알리는 토키타이코가 있어 오전 6시·정오·오후 6시에 울린다.",
+   "original_text": "본관은 1894년(메이지 27년)에 재건되었고 3층 건물 지붕 위 시로카쿠(振鷺閣)에 시각을 알리는 도키다이코가 있어 6시·정오·18시에 울린다.",
+   "value": "1894",
+   "verdict": "corrected",
+   "verify_note": "The official Korean spelling is 신로카쿠, not 시로카쿠. The page uses 개축 (rebuild).",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/about.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c22",
+   "field": "description",
+   "text": "온수는 18개 원천(20~55도)을 섞어 약 42도로 맞추며, 알칼리성 단순천이다.",
+   "original_text": null,
+   "value": "18 sources, ~42C",
+   "verdict": "verified",
+   "verify_note": "The water is neither heated nor diluted.",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/about.php",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c23",
+   "field": "description",
+   "text": "본관 보존 수리는 2019년 1월 영업 중 시작되어 휴게실을 포함한 전체가 2024년 7월 11일 재개장했다.",
+   "original_text": null,
+   "value": "2024-07-11",
+   "verdict": "verified",
+   "verify_note": "Reopening came before the work was finished. honkan.php says the conservation work was completed on 2024-12-20.",
+   "sources": [
+    {
+     "url": "https://dogo.jp/en/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://dogo.jp/ko/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-s1",
+   "field": "ops.closed_days",
+   "text": "본관·아스카노유·츠바키노유는 매년 12월 대청소를 위해 하루 임시 휴관한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/faq.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-s2",
+   "field": "access",
+   "text": "도고온천역에서 도고온천 본관까지 도보 약 3분이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/faq.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-s3",
+   "field": "tip",
+   "text": "본관 탈의실에 무료 로커가 있고 헤어드라이어는 무료이며, 시설 내 음식 반입은 삼가야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://dogo.jp/ko/faq.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b14",
+   "text": "The Korean FAQ (faq.php) has stale values: towel rental 100/300 yen versus 110/320 on honkan.php; airport limousine about 40 minutes versus 43 on access.php; and it still warns of temporary closures during the conservation work, which finished in 2024-12."
+  },
+  {
+   "run": "r1-b14",
+   "text": "Not found in two lookups: cash payment, tattoo and photography rules, staff language support. Neither the Korean nor the English Honkan page shows an update date."
+  }
+ ],
  "legacy": {
   "source": "japan-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -163,6 +782,44 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b14",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 23,
+    "verdicts": {
+     "verified": 21,
+     "corrected": 2,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "page_updated",
+   "note": "인용 페이지 모두 갱신일 표기 없음.",
+   "run": "r1-b14"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'보존 수리를 마치고 2024년 7월 11일 전체가 재개장' is wrong: the whole building reopened on 2024-07-11 ahead of completion, and the work was completed on 2024-12-20.",
+   "'지붕 위 시로카쿠' should read 신로카쿠 (see corrected c21).",
+   "'2024년 7월 11일 보존 수리를 마치고 전체 재개장' is wrong: the work was completed on 2024-12-20, after the reopening.",
+   "'지붕 위 시로카쿠' should read 신로카쿠 (see corrected c21).",
+   "'2층 휴게 코스·개인실 코스 선택 가능' is grouped with Kami-no-yu, but the private room is on Tama-no-yu 3F."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b14"
  }
 }

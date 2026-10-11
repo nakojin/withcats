@@ -2,7 +2,7 @@
  "id": "kr-gyeongnam-tongdosa",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "양산 통도사",
   "local": "양산 통도사"
@@ -10,7 +10,7 @@
  "admin_region": "경상남도",
  "former_region": null,
  "city": "양산시 하북면 통도사로 108",
- "address": null,
+ "address": "경상남도 양산시 하북면 통도사로 108 (우 50501)",
  "coord": {
   "lat": 35.48786,
   "lng": 129.06429,
@@ -21,93 +21,647 @@
   "osm": "way/472095264"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "양산 통도사는 영축총림이자 세계문화유산으로 소개되는 사찰이다.",
+ "description": "양산 통도사는 영축총림이자 세계문화유산으로 소개되는 사찰이다. 금강계단에 부처님 진신사리가 모셔져 있어 대웅전에는 불상이 없다. 가람은 금강계단이 있는 상로전과 중로전·하로전의 세 구역으로 나뉘며, 일주문부터 본격적인 경내가 시작되고 배치는 동서로 길다. 개방 시간은 08:30~17:30이고 새벽예불에 참여하면 04시부터 들어갈 수 있다. 입장료는 2023년 5월 4일부터 무료이며 주차비는 차종별로 따로 받는다. 금강계단은 정해진 날의 11시~14시에만 참배할 수 있고 비가 오면 열지 않는다.",
+ "highlights": [
+  "입장료 무료(2023년 5월 4일부터)",
+  "금강계단에 진신사리를 모셔 대웅전에 불상이 없음",
+  "상로전·중로전·하로전 세 구역으로 이뤄진 가람",
+  "개방 08:30~17:30, 새벽예불 참여 시 04시부터 입장",
+  "금강계단 참배는 지정일 11:00~14:00, 우천 시 미개방",
+  "제1주차장 인근 카페·한식당 등 편의시설"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c1",
+    "r1-b09-c2"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c3",
+    "r1-b09-c4",
+    "r1-b09-c5",
+    "r1-b09-c6",
+    "r1-b09-c12",
+    "r1-b09-c13"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "신평터미널에서 경내까지 도보·택시 시간은 공식 문장이 모호(교통편 페이지가 KTX울산역 기준 13번 버스 30분, 택시 25분으로 적었으나 구간 표기 불명확)해 사용하지 않음.",
+     "detail": "access.walk",
+     "run": "r1-b09"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 사이트에 권장 관람 소요시간 안내를 찾지 못함."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c7",
+    "r1-b09-c8",
+    "r1-b09-c9"
+   ],
+   "gap": null
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c10"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "정기 휴무일 안내 없음(개방시간만 안내). 성보박물관 공사(c10)와 금강계단 참배 제한(c9)만 확인.",
+     "detail": "closed_days",
+     "run": "r1-b09"
+    }
+   ]
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c11"
+   ],
+   "gap": null
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "일반 경내 방문에 사전 예약이 필요하다는 안내는 없음. 기도접수·템플스테이는 별도 사이트(online.tongdosa.or.kr, templestay.tongdosa.or.kr)에서 접수하나 이번에 상세 확인하지 않음."
    }
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c14"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "입장료가 무료여서 해당 없음. 일반 승용차 주차비의 결제수단(카드·현금)은 공식 안내에 없음(단체 새벽예불만 현금·입금, c14).",
+     "detail": "payment",
+     "run": "r1-b09"
+    }
+   ]
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c22"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 오디오가이드·한국어 해설 프로그램 유무는 공식 페이지에서 확인하지 못함. 영어 안내 페이지만 확인(c22).",
+     "detail": "language",
+     "run": "r1-b09"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c15",
+    "r1-b09-c16"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b09-c1",
+   "field": "location",
+   "text": "통도사 주소는 경상남도 양산시 하북면 통도사로 108(우편번호 50501)이다.",
+   "original_text": null,
+   "value": "경상남도 양산시 하북면 통도사로 108",
+   "verdict": "verified",
+   "verify_note": "Footer: (우)50501 경상남도 양산시 하북면 통도사로 108",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c2",
+   "field": "location",
+   "text": "종무소 연락처는 전화 055-382-7182, 055-381-1442, 이메일 tongdosa@tongdosa.or.kr이다.",
+   "original_text": null,
+   "value": "055-382-7182 / 055-381-1442",
+   "verdict": "verified",
+   "verify_note": "menu01401: 055-382-7182, 381-1442, tongdosa@tongdosa.or.kr",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01401",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c3",
+   "field": "access",
+   "text": "승용차는 부산·창원 방향에서 경부고속도로 통도사 하이패스 나들목, 서울·대구·울산 방향에서 통도사 IC를 이용한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "하이패스 나들목 / 통도사 IC",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c4",
+   "field": "access",
+   "text": "부산에서는 동부시외버스터미널(노포동)에서 신평(통도사)행을 타고 신평터미널에서 내린다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "동부시외버스터미널(노포동) → 신평터미널",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c5",
+   "field": "access",
+   "text": "울산 태화강역에서는 1723번(신평터미널 방면) 버스를 타며, 첫차 6시 25분, 배차 간격 35~40분이라고 안내한다.",
+   "original_text": null,
+   "value": "첫차 06:25, 배차 35~40분",
+   "verdict": "verified",
+   "verify_note": "1723번, 첫차 6시25분, 배차 35~40분",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c6",
+   "field": "access",
+   "text": "경주에서는 시외버스터미널에서 통도사 인터체인지를 거치는 부산행 버스를 타고 통도사에서 내린다.",
+   "original_text": "경주에서는 시외버스터미널에서 부산행 버스를 타고 통도사 인터체인지에서 내려 통도사로 간다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "Page wording is '부산행 통도사 인터체인지 승차 → 통도사 하차'. It does not say to get off at the IC.",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c7",
+   "field": "hours",
+   "text": "개방 시간은 08:30~17:30이다.",
+   "original_text": null,
+   "value": "08:30~17:30",
+   "verdict": "verified",
+   "verify_note": "개방시간 08시30분~17시30분",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c8",
+   "field": "hours",
+   "text": "새벽예불에 참여하면 04시부터 입장할 수 있다.",
+   "original_text": null,
+   "value": "04:00",
+   "verdict": "verified",
+   "verify_note": "새벽예불 동참 시 04시부터",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c9",
+   "field": "hours",
+   "text": "금강계단 참배 가능 시간은 오전 11시~오후 2시이며, 입장 가능일은 음력 1~3일, 15일, 18일, 24일이다. 비가 오거나 바닥이 젖어 있으면 열지 않는다.",
+   "original_text": null,
+   "value": "11:00~14:00 (음력 1~3일·15일·18일·24일)",
+   "verdict": "verified",
+   "verify_note": "음 1~3일, 15일, 18일, 24일; 11~14시; 우천·젖은 바닥 미개방",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c10",
+   "field": "closed_days",
+   "text": "성보박물관은 공사 후 재개관 예정이며 2026년 12월 준공 예정이라 현재 관람이 어렵다고 안내한다.",
+   "original_text": null,
+   "value": "성보박물관 재개관: 2026년 12월 준공 예정",
+   "verdict": "verified",
+   "verify_note": "'공사 완료 후 재개관, 2026년 12월 준공예정'",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c11",
+   "field": "fees",
+   "text": "입장료는 2023년 5월 4일부터 무료다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "2023년 5월 4일부터 무료",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c12",
+   "field": "parking",
+   "text": "주차비는 경차 3,000원, 중소형(17인승 미만) 6,000원, 대형(17인승 이상) 15,000원이다.",
+   "original_text": null,
+   "value": "경차 3,000 / 중소형 6,000 / 대형 15,000원",
+   "verdict": "verified",
+   "verify_note": "3,000 / 6,000 / 15,000원",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c13",
+   "field": "parking",
+   "text": "주차비 면제 대상은 해당 연도 회비를 낸 전국 신도증 소지자와 통도사 신도증 소지자, 그리고 '장애인 주차가능' 스티커 부착 복지카드 대상자 차량이다(주차불가 스티커 차량은 50% 부과).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Exemptions and the 50% rule match",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c14",
+   "field": "payment",
+   "text": "단체 새벽예불 참여자의 주차료는 현금 결제 또는 계좌 입금으로 낼 수 있고, 입금 후 회계실(055-382-7187)에 확인 전화를 해야 한다.",
+   "original_text": null,
+   "value": "현금 또는 계좌입금",
+   "verdict": "verified",
+   "verify_note": "현금결제 또는 입금, 회계실 055-382-7187",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c15",
+   "field": "caution",
+   "text": "금강계단에는 부처님 진신사리가 봉안되어 있어 대웅전에는 불상이 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "금강계단 참배안내",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c16",
+   "field": "caution",
+   "text": "금강계단에서는 합장한 상태로 묵언하며 천천히 오른쪽(시계방향)으로 탑돌이를 3번 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "합장·묵언·오른쪽 탑돌이 3번",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c17",
+   "field": "description",
+   "text": "가람은 법당을 중심으로 상로전·중로전·하로전 세 구역으로 나뉘고, 상로전에는 금강계단, 중로전에는 해장보각, 하로전에는 극락보전 등이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches menu01501_01. The sibling page menu01501 differs (see conflicts).",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501_01",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c18",
+   "field": "description",
+   "text": "'영축산통도사' 편액이 걸린 일주문에서부터 본격적인 경내가 시작되고, 가람 배치는 동서로 길게 이루어져 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'영축산통도사' 편액 일주문; 동서로 긴 배치",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501_01",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c19",
+   "field": "description",
+   "text": "공식 사이트는 통도사를 세계문화유산 영축총림 통도사로 소개한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Homepage: '세계문화유산 / 영축총림통도사'",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c20",
+   "field": "highlight",
+   "text": "구룡지는 자장스님이 구룡소의 용들을 승천시키고 못을 메워 절을 창건했다고 전하는 유적으로 상로전 구역에 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "구룡지 in the 상로전 section",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501_01",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c21",
+   "field": "tip",
+   "text": "제1주차장에는 다정카페, 다정한식 등이 있고, 성보박물관·일주문 옆에는 한송정, 한송매점, 산중다원(전통차·단팥죽) 등이 있다고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "다정카페·다정한식 제1주차장; 한송정·한송매점·산중다원 성보박물관·일주문 옆",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01402",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c22",
+   "field": "language",
+   "text": "통도사는 템플스테이 영문 안내 페이지(https://tongdosa.or.kr/eng/)를 운영하며 영어로 사찰을 소개한다.",
+   "original_text": null,
+   "value": "영어 안내 페이지 있음",
+   "verdict": "verified",
+   "verify_note": "/eng/ is an English Templestay site that introduces the temple and its cultural assets",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/eng/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c23",
+   "field": "tip",
+   "text": "10월에는 18일 약사재일, 19일 개산대재, 31일 자비도량참법기도 등 연중 행사가 공지되어 있어 방문 전 행사 일정을 확인할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "The cited URL is the dharma-video board (밝은마음따뜻한법문영상). The October schedule is in the site-wide scrolling banner on it: 10/18 약사재일, 10/19 개산대재, 10/31 자비도량참법기도. Better cited from the 연중행사 page.",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/board.php?bo_table=menu03304",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-s1",
+   "field": "access",
+   "text": "KTX 울산(통도사)역에서 13번 시내버스를 타면 신평터미널까지 약 30분, 택시로는 약 25분 걸리며, 터미널에서 택시나 보행로로 통도사에 갈 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-s2",
+   "field": "access",
+   "text": "통도사 영문 안내는 부산 노포 버스터미널에서 통도사행 버스가 06:30~21:00에 20분 간격으로 다니며 약 25분 걸린다고 적고 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://tongdosa.or.kr/eng/?core=5",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b09",
+   "text": "Two official pages on the temple layout disagree. menu01501 says 중로전 is led by 대광명전 and 하로전 is centred on 영산전. menu01501_01 says 중로전 is led by 해장보각 and lists 하로전 as 극락보전·영산전 등. The description's '해장보각 중심의 중로전' follows only menu01501_01."
+  },
+  {
+   "run": "r1-b09",
+   "text": "The English page (/eng/) is undated and may be stale. It still promotes the Tongdosa Museum, which the Korean page says is closed until construction is finished (planned 2026-12). Its Busan bus details are not on the Korean page."
+  },
+  {
+   "run": "r1-b09",
+   "text": "The museum entry (c10) is a future plan ('2026년 12월 준공예정') and must be re-checked after December 2026."
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -170,6 +724,43 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b09",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 23,
+    "verdicts": {
+     "verified": 22,
+     "corrected": 1,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 2
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "page_updated",
+   "note": "공식 사이트 페이지에 갱신일 표기가 없음. 다만 성보박물관 2026년 12월 준공 예정, 2026년 10월 행사표 등 최신 내용이 포함돼 있어 오래된 페이지로 보이지는 않음.",
+   "run": "r1-b09"
+  },
+  {
+   "topic": "parking.capacity",
+   "note": "주차장 위치(제1주차장)와 요금 외 주차 가능 대수·운영시간은 공식 안내 없음.",
+   "run": "r1-b09"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b09"
  }
 }

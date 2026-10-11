@@ -2,7 +2,7 @@
  "id": "nature-zjj-02",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "천문산",
   "local": "天门山国家森林公园"
@@ -10,7 +10,7 @@
  "admin_region": "후난성",
  "former_region": null,
  "city": "장자제 융딩구",
- "address": null,
+ "address": "湖南省张家界市",
  "coord": {
   "lat": 29.045984,
   "lng": 110.480881,
@@ -21,93 +21,372 @@
   "osm": "relation/13042332"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "천문산(톈먼산)은 후난성 장자제시에 있는 5A급 경구입니다.",
+ "description": "천문산(톈먼산)은 후난성 장자제시에 있는 5A급 경구입니다. 입장권 정부지도가격은 2025년 8월 1일부터 1인당 72위안이며 자원유상사용료가 포함됩니다. 14세 미만 어린이, 65세 이상 노인, 장애인, 현역군인 등은 유효한 증명서를 보여 주면 입장이 무료이고, 14세 이상 18세 미만 청소년, 60세 이상 65세 미만 노인, 전일제 대학 본과 이하 재학생은 반값입니다. 보험은 선택 사항이라 원하는 사람만 별도 창구에서 삽니다.",
+ "highlights": [
+  "입장권 1인당 72위안 (자원유상사용료 포함)",
+  "14세 미만·65세 이상·장애인·현역군인 등은 입장 무료",
+  "청소년(14~17세), 60~64세 노인, 전일제 본과 이하 재학생은 반값",
+  "보험은 선택 사항, 원하는 사람만 별도 창구에서 구매"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b21-c8"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "official_unreachable",
+     "note": "도로명 주소·행정구(융딩구) 표기와 좌표를 공식 페이지에서 확인하지 못함. 장자제시 정부(zjj.gov.cn)와 천문산 운영사 공식 사이트가 열리지 않음(official_unreachable).",
+     "detail": "location",
+     "run": "r1-b21"
+    }
+   ]
   },
   "access": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "official_unreachable",
+    "note": "역·정류장, 케이블카 노선별 접근 방법을 공식 출처에서 확인하지 못함(official_unreachable). 운영사 공식 사이트와 도시 정부 사이트에 접속 불가."
    }
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "소요시간 공식 안내 없음."
    }
   },
   "hours": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "official_unreachable",
+    "note": "운영시간·입장 마감을 운영사 공식 출처에서 확인하지 못함(official_unreachable). 언론 재게재 기사에는 케이블카 운행·판매 시간이 있으나 공식 페이지가 아니어서 제외함."
    }
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "official_unreachable",
+    "note": "정기 휴무일 공식 안내 없음(official_unreachable)."
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b21-c1",
+    "r1-b21-c2",
+    "r1-b21-c3",
+    "r1-b21-c4",
+    "r1-b21-c5",
+    "r1-b21-c7"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "official_unreachable",
+     "note": "케이블카·천문동 쾌속 케이블카 요금은 시 발개위 문서가 필요하나 zjj.gov.cn에 접속할 수 없음(official_unreachable). 입장권 72위안에는 케이블카가 포함되는지 공식 문구가 없음.",
+     "detail": "fees.cableway",
+     "run": "r1-b21"
+    },
+    {
+     "reason": "conflicting_sources",
+     "note": "입장권 금액: 성 발개위 2025년 정부 관리 가격 목록(문서 日期 2025-04-03)은 62위안(https://fgw.hunan.gov.cn/fgw/jgzc11/202507/t20250724_33748635.html), 2025-08-25 통지(湘发改价费〔2025〕517号)는 2025-08-01부터 72위안(http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html). 후자가 나중에 시행되어 72위안을 채택함.",
+     "detail": "fees.conflict",
+     "run": "r1-b21"
+    }
+   ]
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "official_unreachable",
+    "note": "실명·시간대 예약, 외국인(여권) 예매 방법을 공식 출처에서 확인하지 못함(official_unreachable). 비공식 예약대행 사이트만 확인됨."
    }
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b21-c6"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "official_unreachable",
+     "note": "외국 카드·현금·모바일 결제 가능 여부 공식 안내 없음(official_unreachable).",
+     "detail": "payment",
+     "run": "r1-b21"
+    }
+   ]
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "official_unreachable",
+    "note": "한국어 안내·오디오가이드 유무 공식 안내 없음(official_unreachable)."
    }
   },
   "caution": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "케이블카 상단 구간 개조 공사 중단·천문동 쾌속 케이블카 점검(10월 8~12일) 같은 운행 변동은 언론 재게재 기사에만 있고 운영사 공식 공고를 열지 못해 확정하지 못함. 방문 전 운영사 공지 확인 필요."
    }
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b21-c1",
+   "field": "fees",
+   "text": "천문산 경구 입장권의 정부지도가격은 1인당 72위안이며 자원유상사용료가 포함된다.",
+   "original_text": null,
+   "value": "72 CNY/인",
+   "verdict": "verified",
+   "verify_note": "湘发改价费〔2025〕517号: 政府指导价调整为72元/人次（含资源有偿使用费）",
+   "sources": [
+    {
+     "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html",
+     "type": "government",
+     "page_updated": "2025-08-25",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b21"
+  },
+  {
+   "cid": "r1-b21-c2",
+   "field": "fees",
+   "text": "이 입장권 가격 통지는 2025년 8월 1일부터 시행되며 유효기간은 5년이다.",
+   "original_text": null,
+   "value": "2025-08-01, 5년",
+   "verdict": "verified",
+   "verify_note": "自2025年8月1日起正式执行，有效期5年",
+   "sources": [
+    {
+     "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html",
+     "type": "government",
+     "page_updated": "2025-08-25",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b21"
+  },
+  {
+   "cid": "r1-b21-c3",
+   "field": "fees",
+   "text": "14세 미만 어린이, 65세 이상 노인, 장애인, 현역군인과 그 가족, 열사 유가족 등, 장애군인, 군 퇴직 간부는 유효 증명서를 제시하면 입장권이 무료다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "Also encourages discounts for veterans",
+   "sources": [
+    {
+     "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html",
+     "type": "government",
+     "page_updated": "2025-08-25",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b21"
+  },
+  {
+   "cid": "r1-b21-c4",
+   "field": "fees",
+   "text": "14세 이상 18세 미만 미성년자, 60세 이상 65세 미만 노인, 전일제 대학 본과 이하 재학생은 유효 증명서를 제시하면 반값 입장권을 살 수 있다.",
+   "original_text": null,
+   "value": "반값",
+   "verdict": "verified",
+   "verify_note": "半票 groups as stated",
+   "sources": [
+    {
+     "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html",
+     "type": "government",
+     "page_updated": "2025-08-25",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b21"
+  },
+  {
+   "cid": "r1-b21-c5",
+   "field": "fees",
+   "text": "경구 내 종교 활동 장소의 같은 종교 성직자와 근무자는 유효 증명서로 해당 장소에 갈 때 입장료가 면제된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Religious personnel exemption",
+   "sources": [
+    {
+     "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html",
+     "type": "government",
+     "page_updated": "2025-08-25",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b21"
+  },
+  {
+   "cid": "r1-b21-c6",
+   "field": "payment",
+   "text": "경구는 입장권을 팔면서 보험료를 대신 걷으면 안 되며, 보험을 자발적으로 사려는 관광객에게는 별도 요금 창구를 마련해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Item 3",
+   "sources": [
+    {
+     "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html",
+     "type": "government",
+     "page_updated": "2025-08-25",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b21"
+  },
+  {
+   "cid": "r1-b21-c7",
+   "field": "fees",
+   "text": "경구는 눈에 띄는 곳에 입장권 가격과 우대 범위를 공시해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Item 4",
+   "sources": [
+    {
+     "url": "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html",
+     "type": "government",
+     "page_updated": "2025-08-25",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b21"
+  },
+  {
+   "cid": "r1-b21-c8",
+   "field": "location",
+   "text": "천문산 경구는 후난성 정부 관리 가격 경구 목록에서 장자제시 소속 5A급 경구로 올라 있다.",
+   "original_text": null,
+   "value": "5A, 장자제시",
+   "verdict": "verified",
+   "verify_note": "2025 list row 10: 天门山景区, 张家界市永定区, 5A. That same row gives the price as 62 (superseded; see conflicts)",
+   "sources": [
+    {
+     "url": "https://fgw.hunan.gov.cn/fgw/jgzc11/202507/t20250724_33748635.html",
+     "type": "government",
+     "page_updated": "2025-07-24",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b21"
+  },
+  {
+   "cid": "r1-b21-s1",
+   "field": "location",
+   "text": "천문산 경구의 소재지는 후난성 장자제시 융딩구(永定区)다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://fgw.hunan.gov.cn/fgw/jgzc11/202507/t20250724_33748635.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b21"
+  },
+  {
+   "cid": "r1-b21-s2",
+   "field": "hours",
+   "text": "2026년 3월 21일부터 매표 시간은 7:30~16:00, 탑승 운영은 8:00부터다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://m.voc.com.cn/rmt/article/16078535.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b21"
+  },
+  {
+   "cid": "r1-b21-s3",
+   "field": "access",
+   "text": "2026년 3월 20일부터 톈먼둥 쾌속 케이블카(天门洞快线索道)가 운행을 재개해 왕복 케이블카 A·B·C선 투어가 운영되며, 편도 케이블카 1·2선은 계속 중단되었다. 결빙·짙은 안개·폭우 때는 A·B선이 C선 경로로 임시 변경된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://m.voc.com.cn/rmt/article/16078535.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b21"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b21",
+   "text": "Ticket price: the Hunan 2025 government-priced scenic area list (湘发改价费〔2025〕204号, dated 2025-04-03, posted 2025-07-24) shows 天门山景区 at 62 CNY. The later notice 517号, effective 2025-08-01, sets 72 CNY. 72 is current"
+  },
+  {
+   "run": "r1-b21",
+   "text": "Stale sources: both Hunan DRC pages are more than 12 months old (2025-07-24 and 2025-08-25). The notice is still within its 5-year validity"
+  },
+  {
+   "run": "r1-b21",
+   "text": "name_local '天门山国家森林公园' differs from the official name in the sources, '天门山景区'"
+  },
+  {
+   "run": "r1-b21",
+   "text": "The suggested hours and access claims come from Hunan Daily (新湖南, provincial state media) reposts marked 来源：张家界天门山景区. They are not the operator's own site; the official Tianmen site was not found within 2 lookups"
+  },
+  {
+   "run": "r1-b21",
+   "text": "Still unconfirmed: cableway and package prices, reservation, payment, language, closed days, duration"
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -183,6 +462,45 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b21",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 8,
+    "verdicts": {
+     "verified": 8,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "주차장 위치·요금 공식 안내 없음(official_unreachable). 성(省) 발개위 청문 공고에 주차장 서비스 확대 건의가 언급될 뿐 내용은 없음.",
+   "run": "r1-b21"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "후난성 정부 관리 가격 목록에 올라 있습니다: administrative detail, not useful to travellers",
+   "이 가격은 2025년 8월 1일부터 시행되었고 유효기간은 5년입니다: administrative; keep at most as the price's effective period",
+   "경구는 입장권을 팔면서 보험료를 대신 걷을 수 없고: regulatory obligation on the operator. Rephrase as '보험은 선택 사항, 별도 창구' if kept",
+   "Missing context: 72위안 is the government-guided entry price only. The scenic area actually sells cableway package tickets (A/B/C lines); no verified claim covers what travellers actually pay",
+   "후난성 정부 관리 가격 목록에 오른 5A급 경구: not useful to travellers",
+   "입장권과 함께 보험료를 대신 걷지 못하며 보험은 별도 창구에서 자율 구매: operator-regulation wording"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b21"
  }
 }

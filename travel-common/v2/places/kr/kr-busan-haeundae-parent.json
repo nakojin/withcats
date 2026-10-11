@@ -2,7 +2,7 @@
  "id": "kr-busan-haeundae-parent",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "부산 해운대",
   "local": "부산 해운대"
@@ -10,7 +10,7 @@
  "admin_region": "부산광역시",
  "former_region": null,
  "city": "해운대구 해변·미포 해안 관광권",
- "address": null,
+ "address": "부산광역시 해운대구 해운대해변로 264",
  "coord": {
   "lat": 35.1629,
   "lng": 129.1638,
@@ -21,93 +21,429 @@
   "osm": "relation/4062934"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "해운대해수욕장은 부산을 대표하는 해변으로, 길이 약 1.5km, 폭 30~50m의 백사장이 얕은 수심의 만을 따라 이어져 해수욕에 알맞다.",
+ "description": "해운대해수욕장은 부산을 대표하는 해변으로, 길이 약 1.5km, 폭 30~50m의 백사장이 얕은 수심의 만을 따라 이어져 해수욕에 알맞다. 한국관광공사는 여름마다 국내에서 가장 많은 인파가 몰리는 곳이라고 소개한다. 주소는 부산광역시 해운대구 해운대해변로 264이며 입장료는 무료이고 연중무휴다. 지하철 2호선 해운대역에서 3번 또는 5번 출구로 나가 걸어서 약 5분이다. 해마다 정월 대보름 달맞이 축제와 겨울 북극곰수영대회, 모래 작품전, 부산 바다 축제가 열리며, 가까이에 동백섬, 오륙도, 아쿠아리움, 요트경기장, 벡스코, 달맞이고개가 있다.",
+ "highlights": [
+  "길이 약 1.5km, 폭 30~50m의 백사장과 얕은 만",
+  "입장료 무료, 연중무휴",
+  "지하철 2호선 해운대역 3·5번 출구에서 도보 약 5분",
+  "정월 대보름 달맞이 축제·북극곰수영대회·모래 작품전·부산 바다 축제",
+  "동백섬·오륙도·아쿠아리움·벡스코·달맞이고개가 가까움"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b02-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b02-c2",
+    "r1-b02-c3",
+    "r1-b02-c4"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "버스 노선은 해운대구청 오시는길 페이지(https://www.haeundae.go.kr/tour/index.do?menuCd=DOM_000000302001003000)에 있다고 하나 직접 열지 못했다. 해운대역 출구 번호도 구청 자료(5번 출구 도보 8분 추정)와 관광 자료(3·5번 출구 도보 약 5분)가 검색 요약상 달라 확인이 필요하다.",
+     "detail": "access.bus",
+     "run": "r1-b02"
+    },
+    {
+     "reason": "conflicting_sources",
+     "note": "지하철 도보 시간: 한국관광공사 영문 기사는 3·5번 출구 도보 약 5분(https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=228475), 해운대구청은 5번 출구 도보 8분(검색 요약, 직접 열람 실패, 위 구청 URL).",
+     "detail": "access.conflict",
+     "run": "r1-b02"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 안내에 권장 소요시간이 없다."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b02-c5"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "2026년 개장기간(검색 요약: 6/26~9/15, 09:00~18:00)은 https://www.haeundae.go.kr/tour/index.do?menuCd=DOM_000000302001002000 에 있다고 하나 직접 열지 못했다. 한국관광공사 영문 기사(vcontsId=228475)의 개장기간은 2025년 값(6/21~9/14)이라 오래되었다.",
+     "detail": "hours.swimming_season",
+     "run": "r1-b02"
+    }
+   ]
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b02-c6"
+   ],
+   "gap": null
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b02-c7"
+   ],
+   "gap": null
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "입장 예약에 관한 공식 안내가 없다(요금 무료, 상시 개방 해변). 단체 행사·시설별 예약은 확인하지 못했다."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "입장 무료라 결제 대상이 없고, 시설별 결제수단은 공식 안내에 없다."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b02-c8"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내·외국어 지원 여부는 관광안내소 페이지에서 확인하지 못했다. 문의처가 051-749-5700(무장애 페이지)과 +82-51-749-7611(영문 페이지)로 두 가지로 적혀 있다.",
+     "detail": "language",
+     "run": "r1-b02"
+    }
+   ]
   },
   "caution": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "해수욕 시즌 안전수칙·혼잡 시기는 해운대구청 이용안내 페이지에 있다고 하나 직접 열지 못했다. 한국관광공사는 여름 최대 인파만 언급한다."
    }
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b02-c1",
+   "field": "location",
+   "text": "해운대해수욕장의 주소는 부산광역시 해운대구 해운대해변로 264이다.",
+   "original_text": null,
+   "value": "부산광역시 해운대구 해운대해변로 264",
+   "verdict": "verified",
+   "verify_note": "Both KTO pages give 해운대해변로 264.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c",
+     "type": "national_tourism",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c2",
+   "field": "access",
+   "text": "지하철 2호선 해운대역에서 3번 또는 5번 출구로 나가 걸어서 약 5분이다(2025년 시즌 기사 기준).",
+   "original_text": null,
+   "value": "해운대역 2호선 3·5번 출구, 도보 약 5분",
+   "verdict": "verified",
+   "verify_note": "Matches KTO article 228475, but that article is dated 2025-07-04 and was last updated June 2025, so the source is stale (over 12 months).",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=228475",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c3",
+   "field": "parking",
+   "text": "해운대해수욕장에는 주차가 가능하다고 안내된다(요금은 미확인).",
+   "original_text": null,
+   "value": "주차 가능",
+   "verdict": "verified",
+   "verify_note": "The English KTO page says Parking: Available and gives no fee.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c4",
+   "field": "parking",
+   "text": "장애인 주차장은 광장주차장에 있다.",
+   "original_text": null,
+   "value": "광장주차장",
+   "verdict": "verified",
+   "verify_note": "The accessibility page says 장애인 주차장 있음(광장주차장).",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c",
+     "type": "national_tourism",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c5",
+   "field": "hours",
+   "text": "한국관광공사 무장애 정보에는 이용시간이 매년 6월~9월 09:00~18:00로 적혀 있다.",
+   "original_text": null,
+   "value": "6~9월 09:00~18:00",
+   "verdict": "verified",
+   "verify_note": "The accessibility page (수정일 2026.09.10) says 매년 6월~9월 09:00~18:00 and refers to the homepage for details.",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c",
+     "type": "national_tourism",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c6",
+   "field": "closed_days",
+   "text": "휴무일 없이 연중무휴이다.",
+   "original_text": null,
+   "value": "연중무휴",
+   "verdict": "verified",
+   "verify_note": "The page says 연중무휴.",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c",
+     "type": "national_tourism",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c7",
+   "field": "fees",
+   "text": "해운대해수욕장 입장료는 무료이다. 시설별 요금은 시설마다 다르다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "Fees: Free. Facility fees vary by facility.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c8",
+   "field": "language",
+   "text": "해운대관광안내소 문의 전화는 051-749-5700이다(한국어 안내 여부는 명시 없음).",
+   "original_text": null,
+   "value": "051-749-5700",
+   "verdict": "verified",
+   "verify_note": "The page lists 해운대관광안내소 051-749-5700. The English KTO page lists +82-51-749-7611 instead.",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c",
+     "type": "national_tourism",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c9",
+   "field": "tip",
+   "text": "1층 관광안내소에서 신분증을 맡기면 휠체어를 빌릴 수 있고, 장애인 화장실은 관광안내소 옆 송림공원 인근에 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Wheelchair rental at the 1F info centre with ID. Accessible toilet next to the info centre, near 송림공원.",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c",
+     "type": "national_tourism",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c10",
+   "field": "tip",
+   "text": "해변을 따라 난 무장애길 중 두 곳의 휠체어 경사로와 목재 데크길로 모래사장까지 휠체어 이동이 가능하고, 장애인 보조견 동반도 가능하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches the 무장애코멘트 section.",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c",
+     "type": "national_tourism",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c11",
+   "field": "description",
+   "text": "백사장은 길이 약 1.5km, 폭 30~50m이며 얕은 만이어서 해수욕에 알맞다.",
+   "original_text": null,
+   "value": "약 1.5km / 30~50m",
+   "verdict": "verified",
+   "verify_note": "Page: roughly 1.5 km long, 30-50 m wide, shallow bay, good for swimming.",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c12",
+   "field": "description",
+   "text": "여름마다 국내에서 가장 많은 인파가 몰리는 곳이며, 부산을 대표하는 명소로 소개된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Page: 부산을 대표하는 명소, 국내 최대 인파.",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=36f54304-e9a8-4615-9226-eb749bf6ce75",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c13",
+   "field": "highlight",
+   "text": "매년 정월 대보름 달맞이 축제, 겨울 북극곰수영대회, 모래 작품전, 부산 바다 축제 등이 열린다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "All four events are on the Korean KTO page.",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=36f54304-e9a8-4615-9226-eb749bf6ce75",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  },
+  {
+   "cid": "r1-b02-c14",
+   "field": "highlight",
+   "text": "주변에 동백섬, 오륙도, 아쿠아리움, 요트경기장, 벡스코, 달맞이고개가 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "All six nearby sights are on the Korean KTO page.",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=36f54304-e9a8-4615-9226-eb749bf6ce75",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b02"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b02",
+   "text": "c2 source (KTO article 228475, 2025-07-04, last updated June 2025) is a stale_source. The only swimming-season dates found are for 2025 (Jun 21-Sep 14, 2025); there are no 2026 dates."
+  },
+  {
+   "run": "r1-b02",
+   "text": "The korean.visitkorea.or.kr page (36f54304) has a 무장애여행 panel saying 장애인 화장실 없음, 장애인 전용 주차구역 없음 and 휠체어 대여 없음. access.visitkorea.or.kr (updated 2026-09-10) says all three are available. The panel may be a static template default."
+  },
+  {
+   "run": "r1-b02",
+   "text": "Two different contact numbers: the English KTO page has +82-51-749-7611 and the accessibility page has 051-749-5700 (해운대관광안내소)."
+  },
+  {
+   "run": "r1-b02",
+   "text": "Lookups for parking fee, swimming season and bus failed: sunnfun.haeundae.go.kr and haeundae.go.kr/tour both failed to connect (curl 000). Nothing was found."
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -182,6 +518,43 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b02",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 14,
+    "verdicts": {
+     "verified": 14,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 0
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.fee",
+   "note": "공식 요금 페이지를 직접 열지 못했다(www.haeundae.go.kr 접속 불가). 검색 요약에서만 '공영 10분당 300~500원, 민영은 변동(2025.08.01 기준)'이 보였으니 검증자가 https://www.haeundae.go.kr/index.do?menuCd=DOM_000000102005001003 에서 직접 확인해야 한다.",
+   "run": "r1-b02"
+  },
+  {
+   "topic": "accessibility.conflict",
+   "note": "한국관광공사 두 페이지가 다르다. 무장애 페이지(https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c)는 휠체어 대여·장애인 화장실·장애인 주차장 있음, 일반 상세(https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=36f54304-e9a8-4615-9226-eb749bf6ce75)는 '없음'. 갱신일이 있는 무장애 페이지를 따랐다.",
+   "run": "r1-b02"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b02"
  }
 }

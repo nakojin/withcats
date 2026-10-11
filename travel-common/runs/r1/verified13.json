@@ -1,0 +1,651 @@
+{
+ "places": [
+  {
+   "key": "central-035",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "information/ 연락처: 630-8587 奈良市雑司町406-1"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access/: 近鉄奈良駅から登大路町を東へ徒歩約20分"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "市内循環バス「東大寺大仏殿・春日大社前」下車徒歩5分"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "ぐるっとバス(大宮通ルート・奈良公園ルート)「大仏殿前駐車場」下車すぐ"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ: 大仏殿西側の指図堂前"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access/·FAQ 둘 다 확인"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "GSパーク東大寺西大門駐車場（有料）奈良市押上町6-1"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "春・秋の観光シーズンの土日祝, ぐるっとバス運賃100円"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "남대문-대불전 참도·대불전 출입구 앞 참도 진입 불가"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "haikan/ 표"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "haikan/ 표"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일본어 페이지는 法華堂・戒壇院戒壇堂. 한국어 페이지는 같은 행을 '法華堂(호케도)·센주도'로 적음(conflicts 참조)"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "特別な行事、緊急事態がない限り、無休"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "大人（中学生以上）1,200円 / 小学生 600円"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "시설·학교 단체 특별할인 요금(350/250/200/100엔)은 claim에 없음"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ. 답사(下見)도 예약 불필요"
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ(쿠폰·신용카드 불가)와 haikan/(現金のみ) 둘 다 확인"
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "9개 언어, 레ンタル料 500円"
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "ko 페이지 열림, 참배 시간·입장료 표 있음"
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "기념 촬영은 참배 경로에서 자유"
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c33",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c34",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "대불전 입구 매표소 또는 대불전 입구 앞 경비 초소"
+    },
+    {
+     "cid": "c35",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "国宝, 公慶上人 재건"
+    },
+    {
+     "cid": "c36",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c37",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "像高14.98m"
+    },
+    {
+     "cid": "c38",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "桁行11間（約88m）→7間"
+    },
+    {
+     "cid": "c39",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "八角燈籠 国宝"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [
+    "대불전·도다이지 뮤지엄 세트권(성인 1,200엔): 출처와 c21 기준으로는 '중학생 이상 1,200엔'이다. '성인'을 '중학생 이상'으로 고쳐야 한다."
+   ],
+   "suggested_claims": [
+    {
+     "field": "fees.korean_age_bands",
+     "text": "한국어 공식 페이지는 개인 입장료를 성인 800엔, 16~18세 800엔, 13~15세 800엔, 6~12세 400엔으로, 세트권을 성인 1,200엔, 6~12세 600엔으로 안내한다.",
+     "url": "https://www.todaiji.or.jp/ko/information/haikan/"
+    }
+   ],
+   "conflicts": [
+    "한국어 haikan 페이지는 8:30~16:00 행을 '法華堂(호케도)·센주도'로 적었지만, 일본어 원문은 '法華堂（三月堂）・戒壇院戒壇堂'이다. 일본어 원문을 따라야 한다. 한국어 페이지는 요금을 연령(16~18세 등)으로 표기했고 장애인·老春手帳 할인과 단체 안내가 빠져 있다.",
+    "stale 아님: haikan 페이지에 '26/7/29 공지가 있고 상단에 10/11 당일 시간이 표시된다. 푸터의 Copyright 2009-2025는 갱신일이 아니다.",
+    "duration·access.station_walk_gurutto: 공식 페이지에서 소요시간 안내를 찾지 못함. 구루룻토 버스는 access/에 '下車すぐ'만 있음(c4로 이미 커버)."
+   ]
+  },
+  {
+   "key": "WEST-026",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "관광열차 旅人 항목과 二日市駅 출발 항목 모두 약 6분"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "西鉄電車約35分"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "太宰府観光バス 旅人, 予約不要"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "筑紫野IC 약 20분, 水城IC 약 15분도 있음"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "주소 太宰府市宰府1丁目12-8, 승용차 요금 표기 없음"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "omairi에서 확인. 두 번째 URL(access)에는 참배 시간이 없음"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "現在、臨時参拝時間のご案内はございません"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c15",
+     "verdict": "outdated",
+     "corrected_text": "기원 접수 시간은 9:00~16:30이며 제전 등에 따라 바뀔 수 있다(1월 1~3일은 24시간 접수).",
+     "note": "FAQ에는 8:45頃~17:00頃이 남아 있음. 2026-05-17 공지(archives/1866)와 kigan/juken 페이지는 9:00~16:30"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "企業・団体은 사전 전화 필요(092-922-8225, 9~16시)"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "단체 방문 시 사전 연락 요청"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ와 archives/1866 모두 楼門内の祈願受付所"
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ: 英語・韓国語・繁体語・簡体語・フランス語・タイ語 팸플릿, /kr/ 페이지 열림"
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "조건부 권고: 경내와 박물관·찻집·참배길 상점까지 여유 있게 보려면 종일"
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "令和6年4月1日부터"
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "드론·라이브 방송·상업 촬영도 금지"
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "경내 화장실 5곳 모두 휠체어 대응"
+    },
+    {
+     "cid": "c33",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "令和8年9月19日 공지, 令和5年春부터 중단됐던 정면 참배 재개"
+    },
+    {
+     "cid": "c34",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c35",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c36",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c37",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c38",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c39",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c40",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "약 1만 점은 keidaiannai, 국보 翰苑은 houmotsuden 페이지"
+    },
+    {
+     "cid": "c41",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2026년 대제는 仮殿에서 10시·14시, 올해부터 2회. 授与品은 お札・お守り・絵馬・掛け襟"
+    }
+   ],
+   "unsupported_in_description": [
+    "다자이후 덴만구는 스가와라노 미치자네를 모신 전국 덴만구의 총본궁이며 학문의 신으로 알려져 있습니다. (사이트 헤더·내비에 全国天満宮総本宮·学問の神様 표기는 있으나 뒷받침하는 claim이 없음)"
+   ],
+   "unsupported_in_highlights": [
+    "보물전에 도서·미술 등 약 1만 점 소장: c40은 '문화재 약 1만 점'만 뒷받침하고 '도서·미술'은 뒷받침하지 않음"
+   ],
+   "suggested_claims": [
+    {
+     "field": "fees.prayer",
+     "text": "수험 합격 기원의 초穂료(하쓰호료)는 10,000엔·8,000엔·6,000엔이며 단체는 10,000엔부터이다. 10월 대제 기간에만 받는 특별 수험 합격 기원은 20,000엔·15,000엔·8,000엔이다.",
+     "url": "https://www.dazaifutenmangu.or.jp/kigan/juken"
+    },
+    {
+     "field": "caution.crowd",
+     "text": "정월에는 후쿠오카현 경찰 지도로 임시 교통 규제가 있다(12월 31일 23시~1월 1일 18시, 1월 2·3일 9시~18시). 대중교통 이용을 권한다. 1월 4~6일은 기업 업무 시작 기원으로 붐빈다.",
+     "url": "https://www.dazaifutenmangu.or.jp/faq"
+    },
+    {
+     "field": "access.conflict",
+     "text": "한국어 공식 FAQ는 덴진에서 30분, 하카타에서 45분이라고 안내한다. 일본어 액세스 페이지는 후쿠오카(텐진)역에서 약 35분, 하카타 버스터미널에서 직행버스 약 40분이다.",
+     "url": "https://www.dazaifutenmangu.or.jp/kr/plan/faq/"
+    }
+   ],
+   "conflicts": [
+    "기원 접수 시간: FAQ는 8:45頃~17:00頃, archives/1866(2026-05-17)와 kigan/juken은 9:00~16:30. 최신 값인 9:00~16:30을 따라야 함(c15 outdated).",
+    "단체 기원 예약: kigan/juken은 '個人祈願・団体祈願ともにご予約は受け付けておりません', archives/1866은 기업·단체는 반드시 사전 전화 문의.",
+    "한국어 FAQ(/kr/plan/faq/, 갱신일 표기 없음): 덴진 30분과 하카타 버스 45분이 일본어 액세스 페이지(35분/40분)와 다름. '다자이후 텐만구에는 주차장이 없습니다'라고 하지만 일본어 액세스 페이지는 太宰府駐車センター(850대, 문의 메일 @dazaifutenmangu.or.jp)를 근처 주차장으로 안내함.",
+    "FAQ(일본어)에 令和8年 정월 안내가 그대로 남아 있음(일부 시기 지난 내용). 또 FAQ와 kigan/juken은 10월 18일 대제를 '御本殿にて'로 적었지만 2026년 공지(archives/1807)는 '仮殿にて'.",
+    "parking.fee: 공식 페이지에서 승용차 요금을 찾지 못함. 검색에는 비공식 정보 사이트(odekake7.net)만 나와 근거로 쓰지 않음. language.audio_guide: 공식 페이지에서 오디오 가이드 안내를 찾지 못함."
+   ]
+  },
+  {
+   "key": "WEST-035",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "yufuin.gr.jp와 visit-oita 모두 일치"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "특집 기사 갱신일 2024-12-10(12개월 이상 지남)"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Lake Kinrin is a 25-minute walk from that station"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "近隣の有料駐車場を利用 / 周辺に有料駐車場あり"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "定休日 なし"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1周400ｍほど, 小さな桟橋がいくつか"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "시청 페이지는 '라고 한다(と言われ)'는 전언형이고 시기를 '冬の早朝'로 적음"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "두 페이지 모두 1884년(明治17年) 毛利空桑. 시청 페이지는 '明治初期'로 적음"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "天祖神社 도리이"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    }
+   ],
+   "unsupported_in_description": [
+    "긴린코는 유후인을 대표하는 관광 명소로 (출처에는 있으나 뒷받침하는 claim이 없음)"
+   ],
+   "unsupported_in_highlights": [
+    "호수 위 잔교에서 수면에 비친 풍경 감상: c7은 잔교만 뒷받침하고 수면 반영(리플렉션)은 claim에 없음"
+   ],
+   "suggested_claims": [],
+   "conflicts": [
+    "도보 시간: 유후시 공식 관광 가이드(yufuin.gr.jp 특집, 2024-12-10 갱신)는 JR 유후인역에서 약 30분, JNTO(갱신일 표기 없음)는 25분.",
+    "stale_source: yufuin.gr.jp/feature/feature-1981/은 2024-12-10 갱신으로 12개월 이상 지남. visit-oita 소개문은 '(2022.11)' 표기로 12개월 이상 지남.",
+    "명명 연대: 시청 페이지는 '明治初期', 관광 페이지 두 곳은 1884년(明治17年).",
+    "hours·fees·reservation·payment·language 등: visit-oita가 링크한 yufu-tic.jp/shiori/444/를 열었으나 금린코 정보가 없어(홈 내용만 나옴) 찾지 못함."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 93,
+  "verified": 92,
+  "corrected": 0,
+  "outdated": 1,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "인용 URL 22개를 curl -sL로 모두 열었고(전부 200) script·style·HTML 주석을 빼고 보이는 텍스트로만 판정했다.",
+   "WEST-026 c15(기원 접수 시간)는 outdated: FAQ 값 8:45~17:00이 2026-05-17 공지와 kigan/juken 페이지에서 9:00~16:30으로 바뀌었다. 고친 문장을 제시했다.",
+   "central-035는 하이라이트의 세트권 '성인'을 '중학생 이상'으로 고쳐야 한다. 한국어 공식 페이지의 법당명 오기(센주도)에 주의해야 한다.",
+   "WEST-026 한국어 FAQ는 갱신일이 없고 일본어 공식 페이지와 소요시간·주차 안내가 다르다. 일본어 공식 페이지를 기준으로 해야 한다.",
+   "WEST-035 출처 중 둘은 12개월 이상 지난 stale_source이고 운영 정보(요금·시간 등)는 공식 출처에서 찾지 못했다. Tier A 필수 항목에는 '확인 불가 이유'를 기록해야 한다."
+  ]
+ }
+}

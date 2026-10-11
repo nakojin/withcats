@@ -1,0 +1,1126 @@
+[
+ {
+  "key": "WEST-032",
+  "name_ko": "구마모토성",
+  "name_local": "熊本城",
+  "admin_region": "구마모토현 구마모토시 주오구",
+  "address": "熊本市中央区本丸1-1 (구마모토성 관리센터 주소 기준)",
+  "description": "구마모토성은 구마모토시 주오구 혼마루에 있는 성으로, 천수각은 외관 3중, 내부는 지상 6층 지하 1층 구조입니다. 2016년 지진으로 천수각 기와와 샤치가와라가 떨어지고 석축이 무너지는 큰 피해를 입었으나 2021년 3월에 천수각이 완전히 복구되었습니다. 길이 242m의 나가베이와 3중 5층 지하 1층의 우토야구라도 볼거리입니다. 입장 접수는 9:00~17:00(최종 입장 16:00)이고 천수각 최종 입장은 16:30입니다. 성인(고등학생 이상) 입장료는 800엔이며, 한국어를 포함한 5개 언어 팸플릿과 공식 사이트가 제공됩니다. 혼마루고텐 등 일부 구역은 복구 공사가 예정되어 출입이 제한됩니다.",
+  "highlights": [
+   "천수각: 외관 3중, 지상 6층 지하 1층이며 2021년 3월 완전 복구",
+   "나가베이: 직선 242m 길이의 긴 담장",
+   "우토야구라: 3중 5층 지하 1층 규모의 '제3의 천수'",
+   "니노마루 주차장 등에서 이어지는 무료 셔틀버스(9:00~17:00)",
+   "한국어 포함 5개 언어 팸플릿과 공식 사이트 제공"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "구마모토성 입장·관람 문의를 맡는 구마모토성 관리센터의 주소는 구마모토시 주오구 혼마루 1-1이다.",
+    "value": "1-1 Honmaru, Chuo-ku, Kumamoto City",
+    "evidence": "Address: 1-1 Honmaru, Chuo-ku, Kumamoto City",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/en/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "hours",
+    "text": "정규 개원 시간은 9:00~17:00이고 최종 입장은 16:00이다.",
+    "value": "09:00-17:00, last admission 16:00",
+    "evidence": "9:00 am to 5:00 pm（Last admission 4:00 pm）",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/en/info/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "hours",
+    "text": "천수각(본성 천수) 최종 입장 시간은 오후 4시 30분이다.",
+    "value": "16:30",
+    "evidence": "천수각의 최종 입장 시간은 오후 4시 30분입니다.",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/info/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "closed_days",
+    "text": "영문 안내 페이지에 적힌 휴원일은 12월 29일 하루이며, 악천후 시 공원이 닫힐 수 있다.",
+    "value": "Dec 29",
+    "evidence": "December 29th; May be closed due to severe weather",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/en/info/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "fees",
+    "text": "입장료는 고등학생 이상 800엔(30명 이상 단체 640엔), 초·중학생 300엔(단체 240엔)이다.",
+    "value": "800/300 JPY",
+    "evidence": "High school students and older: 800 yen (640 yen for groups",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/en/info/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "fees",
+    "text": "영문 페이지는 6세 미만 어린이를 무료로, 한국어 페이지는 미취학 아동을 무료로 안내한다.",
+    "value": "free (under 6 / preschool)",
+    "evidence": "Children under 6: Free",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/en/info/",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/info/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "fees",
+    "text": "성(구마모토성)과 와쿠와쿠자 2개 시설 공통권은 고교생 이상 850엔, 초·중학생 300엔이고, 구마모토시립박물관을 더한 3개 시설권은 1,100엔/400엔이다.",
+    "value": "850/300; 1,100/400 JPY",
+    "evidence": "3-site pass (adds Kumamoto Museum): 1,100 yen",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/info/",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://castle.kumamoto-guide.jp/en/info/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "fees",
+    "text": "구마모토시 초·중학생, 장애인수첩 소지자, 65세 이상 구마모토 시민 등은 면제 대상이 될 수 있으며, 면제 대상도 창구에서 티켓을 받아야 한다.",
+    "value": null,
+    "evidence": "Exempt visitors and coupon holders must still collect a ticket at a booth",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/info/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "reservation",
+    "text": "입장권은 공식 사이트에 링크된 외부 예약 사이트에서 사전 구매할 수 있으며, 매표소가 붐빌 수 있어 시간 여유가 필요하다.",
+    "value": null,
+    "evidence": "입장권 사전 구매는 여기에서",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/info/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "payment",
+    "text": "현금 외에 신용카드(VISA, MASTER, JCB, UnionPay, DINERS, AMEX, DISCOVER), 교통 IC카드·전자화폐(Edy, WAON, nanaco, iD, QUICPay), QR결제(WeChat Pay, Alipay, PayPay 등)를 쓸 수 있다.",
+    "value": null,
+    "evidence": "Credit cards include VISA, MasterCard, JCB, UnionPay, Diner's Club, American Express, and DISCOVER",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/info/",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://castle.kumamoto-guide.jp/en/info/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "payment",
+    "text": "결제 가능 카드 종류는 매표소마다 다르며, 발권기는 UnionPay와 DISCOVER를 받지 않는다.",
+    "value": null,
+    "evidence": "UnionPay and DISCOVER are not available at ticket vending machines",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/en/info/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "language",
+    "text": "공식 사이트와 팸플릿은 일본어·영어·한국어·중국어 간체·번체로 제공된다.",
+    "value": "ja,en,ko,zh-Hans,zh-Hant",
+    "evidence": "Pamphlets are available in Japanese, English, Korean, Simplified Chinese",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/en/info/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "language",
+    "text": "자원봉사 가이드(구마모토 요카토코 가이드 그룹)를 종합관광안내소에서 요청할 수 있다.",
+    "value": null,
+    "evidence": "Volunteer tour guides can be requested at the Tourist Information Center",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/en/info/",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/info/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "access",
+    "text": "구마모토역에서 성과 주변 시설을 도는 순환버스 '시로메구린'이 있고, 1일 승차권에는 각 시설 할인권이 붙는다.",
+    "value": null,
+    "evidence": "구마모토성 순환버스 시로메구린",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "access",
+    "text": "사쿠라노바바 조사이엔, 남쪽 출구, 니노마루 주차장을 잇는 무료 셔틀버스가 9:00~17:00에 10~15분 간격으로 다닌다.",
+    "value": "09:00-17:00, every 10-15 min",
+    "evidence": "운행 시간: 오전 9시~오후 5시 / 10~15분 간격",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "parking",
+    "text": "니노마루 주차장은 승용차 210대·이륜차 약 10대 규모이며 승용차 요금은 2시간까지 400엔, 이후 1시간마다 200엔이다.",
+    "value": "400 JPY/2h, +200 JPY/h",
+    "evidence": "일반차 2시간까지 400엔, 이후 1시간마다 200엔",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "parking",
+    "text": "니노마루 주차장 영업시간은 7~8월 8:00~20:30(최종 입고 19:30), 9~6월 8:00~18:30(최종 입고 17:30)이다.",
+    "value": null,
+    "evidence": "7~8월 8:00~20:30 (최종 입고 19:30)",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "parking",
+    "text": "승용차는 니노마루, 산노마루 제1·제2, 미야우치, 사쿠라노바바 관광교류시설 주차장을 이용할 수 있다. 버스 주차장은 예약이 필요하다.",
+    "value": null,
+    "evidence": "버스 주차장은 예약이 필요하며",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "caution",
+    "text": "비 오는 날 바닥이 매우 미끄럽고, 혼잡 시 입장이 제한될 수 있다. 반려동물 동반 불가(안내견 제외), 공원 내 화기 금지, 흡연은 지정 구역만 가능하다.",
+    "value": null,
+    "evidence": "Surfaces are very slippery in rain. Walk carefully.",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/info/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "caution",
+    "text": "혼마루고텐은 출입 불가이며, 우토야구라·아카즈노몬·니시오테몬은 철거 상태로 복구 공사가 예정되어 있다.",
+    "value": null,
+    "evidence": "혼마루고텐: 출입 불가, 복구 공사 예정",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/about/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "tip",
+    "text": "휠체어는 무료로 빌릴 수 있고(수량 한정), 유모차 사용이 가능하며 천수각에는 엘리베이터 3대가 있다.",
+    "value": null,
+    "evidence": "three elevators reserved for wheelchair/stroller users",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/info/",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://castle.kumamoto-guide.jp/en/info/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "description",
+    "text": "천수각은 외관 3중, 내부는 지상 6층 지하 1층이며, 2021년 3월에 완전히 복구되었다.",
+    "value": null,
+    "evidence": "대천수는 외관 3중, 내부는 지상 6층 지하 1층 건물.",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/about/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "description",
+    "text": "나가베이는 직선으로 242m 길이이고, 우토야구라는 3중 5층 지하 1층 구조로 '제3의 천수'로도 불린다.",
+    "value": null,
+    "evidence": "직선으로 242m 길이를 갖는 긴 담장",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/about/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "description",
+    "text": "2016년 지진으로 천수각 최상층 기와와 샤치가와라가 떨어지고 지하 석축이 무너지는 등 피해를 입었다.",
+    "value": null,
+    "evidence": "천수각: 최상층 기와와 샤치가와라 낙하, 지하 석축 붕락",
+    "sources": [
+     {
+      "url": "https://castle.kumamoto-guide.jp/ko/about/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "duration",
+    "reason": "공식 안내 페이지에 소요시간 없음('allow ample time'만 있음)."
+   },
+   {
+    "field": "closed_days.conflict",
+    "reason": "영문 info 페이지(https://castle.kumamoto-guide.jp/en/info/)는 휴원일을 12월 29일로 적지만 한국어 info 페이지(https://castle.kumamoto-guide.jp/ko/info/)에는 구마모토성 정기 휴원일 기재 없음(시청 전망로비 연말연시 휴일만 있음). 12월 29일 외 연말 휴원은 미확인."
+   },
+   {
+    "field": "fees.stale_source",
+    "reason": "한국어 info 페이지는 특별공개 기준 안내와 2019년 배너가 남아 있어 갱신 여부 불명확. 페이지 갱신일 표기 없음. 영문 페이지 요금과 일치."
+   },
+   {
+    "field": "access.station_time",
+    "reason": "역·정류장 도보/승차 시간이 공식 access 페이지에 없음(자동차 경로도 이미지로만 제공)."
+   },
+   {
+    "field": "audio_guide",
+    "reason": "오디오 가이드 언어 안내 없음(한국어 팸플릿·사이트만 확인)."
+   },
+   {
+    "field": "location.coords",
+    "reason": "좌표를 지도와 대조하지 않음."
+   },
+   {
+    "field": "page_updated",
+    "reason": "인용 페이지 모두 갱신일 표기 없음."
+   }
+  ]
+ },
+ {
+  "key": "WEST-021",
+  "name_ko": "도고온천 본관",
+  "name_local": "道後温泉本館",
+  "admin_region": "에히메현 마쓰야마시",
+  "address": "愛媛県松山市道後湯之町5番6号 (790-0842)",
+  "description": "도고온천 본관은 에히메현 마쓰야마시에 있는 공중 온천탕으로, 본관 건물은 1894년(메이지 27년)에 재건되었고 지붕 위 시로카쿠에서 시각을 알리는 북이 울립니다. 2019년 1월부터 영업을 이어 가며 진행된 보존 수리를 마치고 2024년 7월 11일 전체가 재개장했습니다. 가미노유 1층 목욕만 이용하면 성인 700엔, 2층 휴게 코스는 1,300엔이며 탈의실 사물함은 무료입니다. 혼잡할 때는 번호표를 받아 대기합니다. 숙박은 불가하고 온수는 18개 원천을 섞어 약 42도로 맞춥니다. 한국어를 포함한 4개 언어 이상 공식 사이트가 제공되며 대여 객실 등은 온라인 예약이 필요합니다.",
+  "highlights": [
+   "본관 건물은 1894년 재건, 지붕 위 시로카쿠에서 시각을 알리는 북이 울림",
+   "2024년 7월 11일 보존 수리를 마치고 전체 재개장",
+   "가미노유 1층 700엔부터, 2층 휴게 코스·개인실 코스 선택 가능",
+   "3개 온천 순회 통합권(성인 1,440엔)은 판매일과 다음 날까지 유효",
+   "온수는 18개 원천을 섞어 약 42도로 맞춘 알칼리성 단순천"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "도고온천 본관의 주소는 에히메현 마쓰야마시 도고 유노마치 5번지 6호(우편번호 790-0842)이다.",
+    "value": "道後湯之町5-6",
+    "evidence": "에히메현 마츠야마시 도고 유노마치 5번지 6호 (우편번호 790-0842)",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/access.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "hours",
+    "text": "본관 가미노유 1층 탕은 6:00~23:00(최종 입장 22:30), 2층 휴게석 코스는 6:00~22:00(최종 입장 21:00)이다.",
+    "value": "06:00-23:00 / 06:00-22:00",
+    "evidence": "Kami-no-yu downstairs: 6:00–23:00 (22:30)",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/honkan.php",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://dogo.jp/en/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "hours",
+    "text": "다마노유 2층 휴게석은 6:00~22:00(최종 입장 21:00), 3층 개인실은 6:00~22:00(최종 입장 20:30)이다.",
+    "value": null,
+    "evidence": "Tama-no-yu 3rd floor private room: 6:00–22:00 (20:30)",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/honkan.php",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://dogo.jp/en/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "duration",
+    "text": "공식 코스별 이용 시간은 가미노유·다마노유 2층 60분, 다마노유 3층 개인실 90분이며 유신덴만 관람은 30분이다.",
+    "value": "60/90/30 min",
+    "evidence": "Duration 60 min / 90 min / 30 min",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/honkan.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "fees",
+    "text": "가미노유 1층(탕만) 성인 700엔·어린이 350엔, 가미노유 2층 휴게 1,300엔/650엔, 다마노유 2층 2,000엔/1,000엔, 다마노유 3층 개인실 2,500엔/1,250엔이다.",
+    "value": "700/350; 1300/650; 2000/1000; 2500/1250 JPY",
+    "evidence": "Kami-no-yu stairs ¥700 ¥350",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/honkan.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "fees",
+    "text": "요금표에서 성인은 12세 이상, 어린이는 2~11세(유신덴은 6~11세)이며 2세 미만 요금은 기재되어 있지 않다.",
+    "value": "adult 12+, child 2-11",
+    "evidence": "Adults are 12 and over. Children are 2–11",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/honkan.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "fees",
+    "text": "유신덴만 관람(안내 포함)은 성인 500엔, 어린이(6~11세) 250엔이며 9:00~17:00(최종 입장 16:30)이다. 다마노유·대여실 코스에는 유신덴 관람이 포함된다.",
+    "value": "500/250 JPY",
+    "evidence": "Yushinden only (guide included) ¥500 ¥250",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/honkan.php",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://dogo.jp/ko/howto.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "fees",
+    "text": "3관 순탕 통합권은 성인 1,440엔·어린이 680엔이며 판매일과 다음 날까지 유효하고 각 시설을 1회씩 쓸 수 있다.",
+    "value": "1440/680 JPY",
+    "evidence": "Adult ¥1,440, Child ¥680 (about 20% off regular price)",
+    "sources": [
+     {
+      "url": "https://dogo.jp/en/",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://dogo.jp/ko/honkan.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "fees",
+    "text": "수건 대여는 110엔, 목욕 수건 대여는 320엔이다.",
+    "value": "110/320 JPY",
+    "evidence": "Towel rental: ¥110; Bath towel rental: ¥320",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/honkan.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "reservation",
+    "text": "대여 객실(시라사기노마·히쇼노마)·유신덴·아스카노유 2층 특별탕만 예약 가능하며, 온라인 예약은 전날 22:00 마감, 당일은 전화(089-921-5141)로 받는다.",
+    "value": "online until 22:00 previous day",
+    "evidence": "Online booking closes at 10:00 p.m. the day before.",
+    "sources": [
+     {
+      "url": "https://dogo.jp/en/",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://dogo.jp/ko/honkan.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "reservation",
+    "text": "가미노유 1층 코스는 예약할 수 없다. 혼잡 시에는 번호표를 받고, 호출 후 15분 안에 돌아와야 한다.",
+    "value": null,
+    "evidence": "Return within 15 minutes of the call or the spot is cancelled",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/honkan.php",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://dogo.jp/ko/howto.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "payment",
+    "text": "신용카드(Visa, Mastercard, JCB, Amex, Diners, Discover, UnionPay), 교통 IC·전자화폐, QR결제(PayPay, Alipay, WeChat Pay 등)를 쓸 수 있다고 안내한다. 현금은 이 페이지에 언급이 없다.",
+    "value": null,
+    "evidence": "Credit cards (Visa, Mastercard, JCB, Amex, Diners, Discover, UnionPay)",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/honkan.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "language",
+    "text": "공식 사이트는 일본어·영어·번체·간체·한국어로 제공된다.",
+    "value": null,
+    "evidence": "Japanese, English, Traditional Chinese, Simplified Chinese, and Korean",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/honkan.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "access",
+    "text": "JR 마쓰야마역에서 도고온천행 시내 전차로 약 25분, 마쓰야마시역에서 약 20분이다.",
+    "value": "25 min / 20 min",
+    "evidence": "JR 마츠야마역: 시내 전차 도고온천행 약 25분",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/access.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "access",
+    "text": "마쓰야마 공항에서 리무진버스로 도고온천역까지 약 43분이다.",
+    "value": "43 min",
+    "evidence": "마츠야마 공항: 리무진버스로 도고온천역까지 약 43분",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/access.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "parking",
+    "text": "본관 남쪽 도고온천 주차장은 5:30~23:30, 93대이며 30분 100엔이고 외탕 3관 입욕 시 1시간 무료이다. 시영 주차장은 일반 승용차만 가능하다.",
+    "value": "100 JPY/30min",
+    "evidence": "30분 100엔. 외탕 3관 입욕 시 1시간 무료",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/access.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "parking",
+    "text": "이와이다니 히가시마치 주차장은 24시간, 43대이며 입욕 여부와 관계없이 첫 1시간 무료이다. 관광 임시주차장(60대)은 개방일 5:30~23:00 무료이나 개방일은 달력 이미지로만 안내된다.",
+    "value": null,
+    "evidence": "입욕 여부와 관계없이 첫 1시간 무료",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/access.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "caution",
+    "text": "본관은 공중탕으로 숙박은 할 수 없고, 유신덴은 관람 시설이며 목욕할 수 없다. 대여 객실에는 욕조가 없다.",
+    "value": null,
+    "evidence": "Rental rooms do not contain a bath tub.",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/honkan.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "caution",
+    "text": "혼잡 시 번호표가 발급되며 당일 접수 종료 안내가 뜨면 번호표 소지자만 입장할 수 있다.",
+    "value": null,
+    "evidence": "only people already holding a waiting ticket can enter",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "tip",
+    "text": "본관 탈의실 사물함은 무료이며 유카타·오비·수건 대여가 제공된다(코스별 유카타 무늬 지정).",
+    "value": null,
+    "evidence": "Rental yukata, obi, and towels are provided.",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/howto.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "description",
+    "text": "본관은 1894년(메이지 27년)에 재건되었고 3층 건물 지붕 위 시로카쿠(振鷺閣)에 시각을 알리는 도키다이코가 있어 6시·정오·18시에 울린다.",
+    "value": "1894",
+    "evidence": "1894 (Meiji 27)",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/about.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "description",
+    "text": "온수는 18개 원천(20~55도)을 섞어 약 42도로 맞추며, 알칼리성 단순천이다.",
+    "value": "18 sources, ~42C",
+    "evidence": "18 sources at 20–55°C ... blended to about 42°C",
+    "sources": [
+     {
+      "url": "https://dogo.jp/ko/about.php",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "description",
+    "text": "본관 보존 수리는 2019년 1월 영업 중 시작되어 휴게실을 포함한 전체가 2024년 7월 11일 재개장했다.",
+    "value": "2024-07-11",
+    "evidence": "The whole building, including rest rooms, reopened on July 11, 2024.",
+    "sources": [
+     {
+      "url": "https://dogo.jp/en/",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://dogo.jp/ko/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "closed_days",
+    "reason": "본관·접근·이용 안내 페이지(honkan.php, access.php, howto.php)에 정기 휴무일 기재 없음. 확인 불가."
+   },
+   {
+    "field": "access.walk",
+    "reason": "도고온천역에서 본관까지 도보 시간이 공식 access 페이지에 없음."
+   },
+   {
+    "field": "caution.tattoo_photo",
+    "reason": "문신 정책·촬영 규칙이 확인한 페이지에 없음(manners.php 미확인)."
+   },
+   {
+    "field": "language.staff",
+    "reason": "한국어 응대 직원·오디오가이드 여부 안내 없음. 사이트 한국어판만 확인."
+   },
+   {
+    "field": "payment.cash",
+    "reason": "honkan.php 결제 목록에 현금 언급 없음. 현금 가능 여부 미확인."
+   },
+   {
+    "field": "fees.conflict",
+    "reason": "honkan.php에는 수리 완료일이 2024년 12월 20일로 적혀 있고 메인 페이지는 2024년 7월 11일 전체 재개장으로 적혀 있어 날짜가 다름(https://dogo.jp/ko/honkan.php, https://dogo.jp/en/). 재개장일은 메인 페이지 값만 사용."
+   },
+   {
+    "field": "page_updated",
+    "reason": "인용 페이지 모두 갱신일 표기 없음."
+   }
+  ]
+ },
+ {
+  "key": "jp-east-otaru-canal",
+  "name_ko": "오타루 운하",
+  "name_local": "小樽運河",
+  "admin_region": "홋카이도 오타루시",
+  "address": "小樽市港町5 小樽運河 (〒047-0007)",
+  "description": "오타루 운하는 바다를 매립해 만든 운하로 1923년(다이쇼 12년)에 완성되어 하역 효율을 높이기 위해 쓰였습니다. 전체 길이는 1,140m이고, 도도 린코선 쪽 구간은 폭 20m, 원래 모습을 간직한 북운하는 40m입니다. 1986년에 일부가 매립되어 폭의 절반은 도로, 나머지는 산책로와 공원이 되었으며 산책로에는 가스등 63기가 있습니다. 해가 지면 가스등이 켜지고 돌 창고가 조명을 받아 낮과 다른 분위기가 납니다. 연중 산책할 수 있고 JR 오타루역에서 도보 약 10분(시 안내는 8분)입니다. 겨울에는 오타루 유키아카리노미치 행사가 열립니다.",
+  "highlights": [
+   "1923년 완성, 전체 길이 1,140m의 매립식 운하라 완만하게 휘어 있음",
+   "산책로의 가스등 63기, 해 질 녘부터 24:00까지 점등",
+   "돌 창고는 일몰부터 22:30까지 조명을 받음",
+   "연중 산책 가능, JR 오타루역에서 도보 약 8~10분",
+   "겨울에는 오타루 유키아카리노미치 행사 개최"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "오타루 운하의 주소는 오타루시 미나토마치 5(우편번호 047-0007)이다.",
+    "value": "小樽市港町5",
+    "evidence": "小樽市港町5　小樽運河",
+    "sources": [
+     {
+      "url": "https://otaru.gr.jp/tourist/otarucanal",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "오타루 관광협회 안내는 JR 오타루역에서 도보 약 10분이다.",
+    "value": "10 min walk",
+    "evidence": "JR小樽駅から徒歩約10分",
+    "sources": [
+     {
+      "url": "https://otaru.gr.jp/tourist/otarucanal",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "오타루시 안내는 JR 오타루역에서 도보 8분이다.",
+    "value": "8 min walk",
+    "evidence": "JR小樽駅から徒歩8分",
+    "sources": [
+     {
+      "url": "https://www.city.otaru.lg.jp/docs/2020100900367/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "삿포로에서 쾌속 에어포트로 오타루까지 최단 32분, 신치토세 공항에서 최단 75분이다.",
+    "value": "32 min / 75 min",
+    "evidence": "最短32分",
+    "sources": [
+     {
+      "url": "https://otaru.gr.jp/access",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "자동차로 삿포로에서 오타루까지 약 1시간 20분, 신치토세 공항에서 약 2시간 30분이다(구글맵 기준, 교통에 따라 변동).",
+    "value": "80 min / 150 min",
+    "evidence": "約1時間20分",
+    "sources": [
+     {
+      "url": "https://otaru.gr.jp/access",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "hours",
+    "text": "운하는 연중 산책할 수 있다.",
+    "value": "year-round",
+    "evidence": "通年散策可能",
+    "sources": [
+     {
+      "url": "https://otaru.gr.jp/tourist/otarucanal",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "산책로 가스등은 일몰~24:00 점등, 돌 창고 조명은 일몰~22:30이며, 오타루 유키아카리노미치 기간에는 가스등이 15:00부터 켜진다.",
+    "value": "sunset-24:00; sunset-22:30",
+    "evidence": "小樽運河散策路　日没～24：00",
+    "sources": [
+     {
+      "url": "https://otaru.gr.jp/tourist/otarucanal",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "parking",
+    "text": "오타루 관광주차장(제1·제2)은 24시간 운영하는 게이트식이며 제1 89대, 제2 178대(오토바이 23대)이다. 요금은 60분 300엔, 24시까지 하루 최대 1,000엔이다.",
+    "value": "300 JPY/60min, max 1,000 JPY",
+    "evidence": "60分300円 ... 1,000円",
+    "sources": [
+     {
+      "url": "https://otaru.gr.jp/citizen/parking-information",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "parking",
+    "text": "오타루 사카이마치도리 상점가 주차장(미나토마치 7-7)은 9:00~19:00(계절에 따라 변동), 1시간 300엔·하루 최대 1,000엔이며 운하까지 도보 약 5분이다.",
+    "value": "300 JPY/h, max 1,000 JPY",
+    "evidence": "運河まで徒歩約5分 (about 5 minutes to the Otaru Canal)",
+    "sources": [
+     {
+      "url": "https://otaru.gr.jp/citizen/parking-information",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "caution",
+    "text": "주차장 요금판은 2024-04-01에 확인된 내용이며 운영자별로 시간·요금이 달라질 수 있으니 방문 전 확인이 필요하다.",
+    "value": null,
+    "evidence": "Fee signs were checked on 2024-04-01",
+    "sources": [
+     {
+      "url": "https://otaru.gr.jp/citizen/parking-information",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "caution",
+    "text": "낮에는 관광객이 많아 붐비며, 특히 사진 명소인 아사쿠사바시 거리공원 주변이 그렇다.",
+    "value": null,
+    "evidence": "Daytime visits are busy with tourists",
+    "sources": [
+     {
+      "url": "https://otaru.gr.jp/tourist/otarucanal",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "description",
+    "text": "운하는 1923년(다이쇼 12년)에 완성되었고 바다를 매립해 만들어서 완만하게 휘어 있다.",
+    "value": "1923",
+    "evidence": "全長は1140m",
+    "sources": [
+     {
+      "url": "https://www.city.otaru.lg.jp/docs/2020100900367/",
+      "type": "government",
+      "page_updated": null
+     },
+     {
+      "url": "https://otaru.gr.jp/tourist/otarucanal",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "description",
+    "text": "운하의 전체 길이는 1,140m이고 도도 린코선 쪽 구간은 폭 20m, 북운하는 원래대로 40m이다.",
+    "value": "1,140 m; 20 m; 40 m",
+    "evidence": "全長は1140m",
+    "sources": [
+     {
+      "url": "https://www.city.otaru.lg.jp/docs/2020100900367/",
+      "type": "government",
+      "page_updated": null
+     },
+     {
+      "url": "https://otaru.gr.jp/tourist/otarucanal",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "description",
+    "text": "1986년(쇼와 61년)에 운하 일부가 매립되어 폭의 절반은 도로, 나머지는 산책로와 공원이 되었다.",
+    "value": "1986",
+    "evidence": "1986 (昭和61年)",
+    "sources": [
+     {
+      "url": "https://www.city.otaru.lg.jp/docs/2020100900367/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "description",
+    "text": "산책로에는 가스등이 63기 있고, 해 질 녘 가스등과 돌 창고 조명이 낮과 다른 분위기를 만든다.",
+    "value": "63",
+    "evidence": "63基のガス灯",
+    "sources": [
+     {
+      "url": "https://www.city.otaru.lg.jp/docs/2020100900367/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "highlight",
+    "text": "겨울에 운하에서 오타루 유키아카리노미치 행사가 열린다.",
+    "value": null,
+    "evidence": "小樽雪あかりの路",
+    "sources": [
+     {
+      "url": "https://www.city.otaru.lg.jp/docs/2020100900367/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "tip",
+    "text": "운하 근처에 사카이마치도리 상점가, 옛 일본은행 오타루지점, 옛 데미야선 철로가 걸어서 갈 수 있는 거리에 있다.",
+    "value": null,
+    "evidence": "Sakaimachi shopping street, former Bank of Japan Otaru Branch",
+    "sources": [
+     {
+      "url": "https://otaru.gr.jp/tourist/otarucanal",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "access.conflict",
+    "reason": "JR 오타루역에서 운하까지 도보: 관광협회는 약 10분(https://otaru.gr.jp/tourist/otarucanal), 오타루시는 8분(https://www.city.otaru.lg.jp/docs/2020100900367/)."
+   },
+   {
+    "field": "fees",
+    "reason": "공식 페이지에 입장료 언급이 없어 무료라고 명시된 근거를 찾지 못함."
+   },
+   {
+    "field": "closed_days",
+    "reason": "관광협회가 연중 산책 가능이라고만 적고 별도 휴무 항목은 없음. 휴무 없음이라는 명시 문장은 확인 못 함."
+   },
+   {
+    "field": "duration",
+    "reason": "공식 소요시간 안내 없음."
+   },
+   {
+    "field": "reservation",
+    "reason": "산책로 이용에 예약이 필요한지 공식 언급 없음(운하 크루즈는 별도 운영자 페이지 미확인)."
+   },
+   {
+    "field": "payment",
+    "reason": "해당 없음 또는 공식 언급 없음(크루즈 요금·결제 미확인)."
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내는 오타루 관광협회 사이트에서 확인되지 않음. 영어 사이트 VisitOtaru 링크만 있음."
+   },
+   {
+    "field": "parking.walk_firstlot",
+    "reason": "관광주차장 제1·제2에서 운하까지 도보 시간이 공식 페이지에 없음."
+   },
+   {
+    "field": "yukiakari_dates",
+    "reason": "유키아카리노미치 올해 일정은 확인한 시 페이지에 없음."
+   },
+   {
+    "field": "page_updated",
+    "reason": "인용 페이지 대부분 갱신일 표기 없음."
+   }
+  ]
+ }
+]

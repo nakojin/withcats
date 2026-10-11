@@ -1,0 +1,331 @@
+{
+ "places": [
+  {
+   "key": "kr-gyeongnam-jinjuseong",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "vcontsId=75199: 경상남도 진주시 남강로 626"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "75199: March-October 05:00-23:00 / November-February 05:00-22:00. The 의기사·의암 page on access.visitkorea (수정일 2026.03.16) shows the same hours, labelled 하절기/동절기"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "75199: N/A (Open all year round). 의기사 page: 연중무휴"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Same on 75199, 86040 and the 국립진주박물관 access page (2026.09.29)"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "86040: Groups 1,400/600/400, 30 people or more"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "86040: Preschoolers (6 & under), 65 & over free"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "86040 lists all 4 lots with space counts"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "86040 parking fees match"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "86040: 1330 (Korean, English, Japanese, Chinese). The audio-guide part is a statement that the info was not found, not a fact claim"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "75199 and 86040: +82-55-749-5171"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "75199 intro"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "75199 intro"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "75199: hanbok experiences, ferry on the Namgang River"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "86040 is the 촉석루 content page; operating hours 09:00-18:00. The page shows no update date"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access page 수정일 2026.09.29: 관람료 무료, 09:00~18:00 (입장 마감 17:30), 월요일 (공휴일이면 다음 첫 평일), 1/1, 설·추석 당일"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "의기사와 의암 page (2026.03.16): 장애인 전용주차 1면, 경사로, 장애인 화장실, 휠체어 13대"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "language",
+     "text": "성 안 국립진주박물관은 QR코드로 국립박물관 전시안내 앱을 내려받으면 음성안내를 제공하며, 주요 문화유산에 점자 설명문이 있다.",
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=21f2f7aa-5ed6-4121-9d00-596444fbe174"
+    },
+    {
+     "field": "tip",
+     "text": "국립진주박물관은 휠체어(2대)와 유모차(2대, 24개월 이하)를 신분증을 맡기면 무료로 빌려 주며, 수유실과 장애인 화장실이 있다.",
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=21f2f7aa-5ed6-4121-9d00-596444fbe174"
+    }
+   ],
+   "conflicts": [
+    "jinju.go.kr (www.jinju.go.kr/jinjuseong/index.web) could not be reached: curl connection reset 4 times, WebFetch 503. Access, duration, reservation, payment, caution and night_fee are still unconfirmed",
+    "86040 is a 촉석루 page and gives 09:00-18:00. The fortress itself is open 05:00-23:00/22:00 (75199 and the 의기사 page). This is not a contradiction, but the guide should keep the two hours separate. 86040 shows no update date, so its staleness cannot be checked"
+   ]
+  },
+  {
+   "key": "kr-chungnam-daecheon-beach",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "105704 address and the access page agree: 머드로 123. The 105704 intro text also says 'area around Haesuyokjang 4-gil'"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "105704: Parking Available, no fee given"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "105704: Restroom, +82-41-930-6810. Access page: 보령시 해수욕장경영과 041-930-6810"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "105704: largest beach on West Sea, 3.5km x 100m, gentle slope, clean sand"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "105704: sunset over Dabodo Island"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "105704: Sunset Plaza / Mud Plaza; Boryeong Mud Festival annually"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "105704: mud sauna, mud ondol room, mudpack, mud massage"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "105704: zip trekking; Sky Bike over Daecheon Beach and Daecheon Port"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Access page lists daecheonbeach.kr and brcn.go.kr/tour.do"
+    },
+    {
+     "cid": "c10",
+     "verdict": "corrected",
+     "corrected_text": "해변에는 장애인 주차장과 장애인 화장실, 촉지형 종합안내판, 점자가이드북 등이 갖춰져 있으며 열린관광지로 소개되어 있다.",
+     "note": "The page does not say Daecheon was designated in 2016. It only says the pamphlet covers '열린관광지 11개소(2015, 2016년)'. Year removed"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [
+    "노을광장과 머드광장 두 구역, 여름마다 보령머드축제 - the source says only '해마다/annually'. It says each zone offers different things in summer, but never that the festival is held in summer"
+   ],
+   "suggested_claims": [
+    {
+     "field": "access",
+     "text": "대천관광협회 안내에 따르면 용산역에서 새마을호·무궁화호로 대천역까지 약 2시간 19분~2시간 45분 걸리며, 서울 동서울터미널·남부터미널에서 고속버스(약 2시간 50분~3시간)가 다닌다.",
+     "url": "http://daecheonbeach.kr/home/beach/02"
+    }
+   ],
+   "conflicts": [
+    "The access.visitkorea 열린관광지 page was last modified 2024.07.02, more than 12 months ago (stale_source). Its fees, hours and opening period are absent",
+    "daecheonbeach.kr is run by (사)대천관광협회 (an association, not the city). It says the beach has 3 zones (시민탑광장·머드광장·분수광장), while VISITKOREA and the access page say 2 zones (노을광장·머드광장). The directions page shows train fares (새마을 17,400원, 무궁화 11,700원) that look stale. Fares were left out of the suggested claim; mark basis as operator/association",
+    "brcn.go.kr/tour.do: curl connection reset, unreachable. Lookups used: brcn.go.kr plus daecheonbeach.kr. Parking fee, opening period/hours, safety rules and fees are still unconfirmed"
+   ]
+  },
+  {
+   "key": "kr-busan-haedong-yonggungsa",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "108618, the Gijang 기장권역 course page and the korean.visitkorea JSON addr1 all match"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "108618: Fees Free"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "108618 Parking Available. korean.visitkorea JSON parking: 가능"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access page (2026.08.18): 장애인 주차구역 있음(5대)"
+    },
+    {
+     "cid": "c5",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "갱신일 없는 영문 페이지 값(19:20)으로 2026-08 갱신 국문 자료(20:30)와 달라 단독 공개하지 않음(검증자 권고, 병합 시 처리). 원 노트: 108618: 04:30-19:20 (Last admission 18:50). Accurate as a statement of what that page says; see conflicts"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access page 수정일 2026.08.18: 04:30~20:30. The korean.visitkorea JSON useTime is also 04:30~20:30"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Both pages say 연중무휴 / Open all year round"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "108618: +82-51-722-7744, www.yongkungsa.or.kr"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "korean.visitkorea overView (static HTML and the TOUR_CONTENT_BODY_DETAIL JSON)"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "overView matches"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "108618 intro"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "overView matches"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "overView matches"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "DOM_000000306001001000 is the 기장권역 추천코스 '역사' page (해동용궁사, 오랑대, 죽성리 해송...). DOM_000000306002004000 is 기장 8경; 7경 시랑대 '해동용궁사와 인접'"
+    },
+    {
+     "cid": "c15",
+     "verdict": "corrected",
+     "corrected_text": "기장군은 외국인 관광객을 위해 1330 관광통역전화를 안내한다. 전화는 8개 국어(한국어·영어·일본어·중국어는 24시간 연중무휴, 러시아어·베트남어·태국어·말레이·인도네시아어는 08:00~19:00), 실시간 문자채팅은 한국어·영어·일본어·중국어로 24시간 이용할 수 있다.",
+     "note": "The page limits 4 of the phone languages to 08:00-19:00, so '24시간' for all 8 is wrong"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 차성로288번길 86 (기장역사 내 2층), 09:00~18:00 (휴게 13:00~14:00), 신정·명절당일 휴무, 051-709-4077"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [],
+   "conflicts": [
+    "Hours conflict between official sources. The english.visitkorea page 108618 (no update date shown) says 04:30-19:20 with last admission 18:50. The access.visitkorea page (수정일 2026-08-18) and the korean.visitkorea JSON say 04:30~20:30. The newer Korean sources should take priority, but the operator site yongkungsa.or.kr returned 503 (curl), so this could not be settled",
+    "korean.visitkorea JSON has detail.tel=033-738-3588 (a Gangwon area code, looks wrong) next to telNo/infoCenter=051-722-7744. Use 051-722-7744",
+    "Accessibility: the korean.visitkorea static HTML shows '장애인 화장실 없음 / 장애인 전용 주차구역 없음'. This is placeholder template text and was ignored. The access.visitkorea page (2026.08.18) gives 장애인 주차 5대 and 장애인 화장실 있음",
+    "Lookups for unconfirmed items: yongkungsa.or.kr returned 503. The Gijang course page (WebFetch) has only the address and a directions link. Access, parking fee, duration, payment and caution are still unconfirmed",
+    "운영시간: 영문 VISITKOREA(갱신일 없음) 04:30-19:20 vs 무장애·국문 VISITKOREA(2026-08-18) 04:30~20:30. 사찰 누리집 접속 불가로 미확정, 방문 전 확인 필요"
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 42,
+  "verified": 40,
+  "corrected": 2,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "Every cited URL was opened with curl, or the JSON endpoint for korean.visitkorea (param name is cotId; the first try returned a 서비스 지연 page, and the retry worked)",
+   "jinju.go.kr, brcn.go.kr and the gijang 교통/주차 page reset the connection through the proxy. yongkungsa.or.kr returned 503. As a result, few official operator lookups worked for collector_unconfirmed items",
+   "Corrected claims: Daecheon c10 (2016 designation year not on the page) and Yonggungsa c15 (1330 phone hours are not 24h for all 8 languages)",
+   "Yonggungsa hours: the guide should give 04:30~20:30 (from the 2026-08 sources), or keep the current '출처 간 차이' wording. Do not publish 19:20 alone",
+   "Daecheon highlight '여름마다' is unsupported. Change it to '해마다'",
+   "None of the input claims had coordinates, so there was no OSM comparison"
+  ]
+ }
+}

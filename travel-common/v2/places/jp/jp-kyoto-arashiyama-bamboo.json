@@ -1,0 +1,501 @@
+{
+ "id": "jp-kyoto-arashiyama-bamboo",
+ "country": "jp",
+ "tier": "A",
+ "status": "verified",
+ "names": {
+  "ko": "아라시야마 대나무숲",
+  "local": "嵐山 竹林の小径"
+ },
+ "admin_region": "교토부 교토시 우쿄구",
+ "former_region": null,
+ "city": null,
+ "address": "Ukyo-ku, Kyoto-shi, Kyoto-fu (京都府京都市右京区)",
+ "coord": null,
+ "coord_note": "좌표 수집 대기",
+ "summary": "교토 서쪽 사가노 마을에 있는 아라시야마 대나무숲은 교토를 대표하는 명소 중 하나로, 대나무 사이를 걷는 산책로입니다.",
+ "description": "교토 서쪽 사가노 마을에 있는 아라시야마 대나무숲은 교토를 대표하는 명소 중 하나로, 대나무 사이를 걷는 산책로입니다. 길은 짧지만 몰입감이 크다고 소개됩니다. 덴류지의 옆문 쪽에서 들어가면 분위기를 가장 잘 느낄 수 있고, JR 사가아라시야마역에서 걸어서 약 10분 거리입니다. 숲 끝자락에서는 오코치산소 정원과 노노미야 신사를 함께 둘러볼 수 있고, 란덴 사가역 쪽으로 가면 대나무 공예품 가게가 이어집니다. 다만 대나무에 낙서하는 피해가 잦아 교토시관광협회가 훼손하지 말 것을 당부하며, 벚꽃과 단풍 철에는 방문객이 많아 이른 아침 방문이 권장됩니다.",
+ "highlights": [
+  "짧지만 몰입감 있는 대나무 사이 산책로",
+  "JR 사가아라시야마역에서 도보 약 10분",
+  "덴류지 옆문 쪽으로 들어가는 코스",
+  "숲 끝의 오코치산소 정원과 노노미야 신사",
+  "벚꽃·단풍철에는 이른 아침 방문 권장"
+ ],
+ "checklist": {
+  "location": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c1",
+    "r1-b18-c2"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "공식 페이지에 도로명 수준의 상세 주소가 없어 구 단위까지만 기재.",
+     "detail": "location.address",
+     "run": "r1-b18"
+    }
+   ]
+  },
+  "access": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c3"
+   ],
+   "gap": null
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 소요시간 안내가 없음(길이가 짧다는 서술만 있음)."
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 개방 시간 기재가 없음."
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 휴무 기재가 없음."
+   }
+  },
+  "fees": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c8"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "숲 길 자체의 입장료 무료 여부를 명시한 공식 페이지를 찾지 못함(오코치산소 입장료 금액도 미확인).",
+     "detail": "fees",
+     "run": "r1-b18"
+    }
+   ]
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 예약 관련 기재가 없음."
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 결제 수단 기재가 없음."
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "한국어 안내 여부에 대한 공식 기재가 없음(japan.travel 자체는 한국어 버전 있음)."
+   }
+  },
+  "caution": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c11",
+    "r1-b18-c12",
+    "r1-b18-c13",
+    "r1-b18-c15"
+   ],
+   "gap": null
+  }
+ },
+ "claims": [
+  {
+   "cid": "r1-b18-c1",
+   "field": "location",
+   "text": "대나무숲은 교토부 교토시 우쿄구에 있다.",
+   "original_text": null,
+   "value": "Ukyo-ku, Kyoto-shi, Kyoto-fu",
+   "verdict": "verified",
+   "verify_note": "JNTO page shows 'Ukyo-ku, Kyoto-shi, Kyoto-fu'",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1141/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c2",
+   "field": "location",
+   "text": "대나무숲은 교토 시내 서쪽 사가노 마을에 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'village of Sagano on the west side of the city'",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1141/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c3",
+   "field": "access",
+   "text": "JR 사가노선 사가아라시야마역에서 걸어서 10분 거리이다.",
+   "original_text": null,
+   "value": "도보 10분",
+   "verdict": "verified",
+   "verify_note": "'10-minute walk from Saga-Arashiyama Station on the JR Sagano Line'",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1141/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c4",
+   "field": "tip",
+   "text": "덴류지의 옆문 쪽에서 접근하면 숲의 효과를 가장 크게 느낄 수 있다고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'For maximum effect, approach the grove from the side gate of Tenryu-ji'",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1141/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c5",
+   "field": "description",
+   "text": "사가노 마을을 지나는 대나무숲 길은 짧지만 몰입감이 크다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'short yet immersive'",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1141/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c6",
+   "field": "description",
+   "text": "아라시야마 대나무숲은 교토에서 가장 상징적인 볼거리 중 하나로 소개된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'one of Kyoto's most iconic sights'",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1141/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c7",
+   "field": "highlight",
+   "text": "숲 위쪽의 오코치산소 별장은 훌륭한 정원과 교토의 전망을 갖췄고 비교적 한적하다고 소개된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Okochi-Sanso 'at the top of the grove', gardens, views, 'generally free of crowds'",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1141/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c8",
+   "field": "fees",
+   "text": "오코치산소 입장료에는 일본식 과자와 따뜻한 말차가 포함된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Admission includes Japanese sweet and hot matcha; no fee amount on page",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1141/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c9",
+   "field": "highlight",
+   "text": "대나무숲 일부는 노노미야 신사까지 이어지며, 신사는 좋은 인연을 비는 젊은 여성들로 붐빌 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Grove section extends to Nonomiya Shrine; young women pray for a love match",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1141/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c10",
+   "field": "highlight",
+   "text": "란덴 사가역 방향으로 걸으면 대나무로 만든 물건을 파는 가게들이 이어진다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Bamboo-goods shops toward Randen Saga Station",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1141/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c11",
+   "field": "caution",
+   "text": "대나무 줄기에 칼로 낙서를 새긴 사례가 발견되었고, 훼손된 줄기는 복구할 수 없어 베어 내야 하므로 이런 행위를 하지 말아 달라고 요청한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Note on kyoto.travel area page; knife-carved graffiti, stalks cut and disposed",
+   "sources": [
+    {
+     "url": "https://kyoto.travel/en/areas/saga-arashiyama/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c12",
+   "field": "caution",
+   "text": "교토시관광협회는 2025년 9월 24일자 공지에서 아라시야마 대나무숲 낙서 피해를 알리며 지역 사회를 배려하고 대나무를 훼손하지 말 것을 당부했다.",
+   "original_text": null,
+   "value": "2025-09-24",
+   "verdict": "verified",
+   "verify_note": "News dated 24 SEP 2025; site run by Kyoto City Tourism Association (DMO KYOTO)",
+   "sources": [
+    {
+     "url": "https://kyoto.travel/en/news/please-do-not-damage-bamboos",
+     "type": "national_tourism",
+     "page_updated": "2025-09-24",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c13",
+   "field": "caution",
+   "text": "아라시야마에서는 쓰레기를 쓰레기통에 버리거나 가져가야 하며, 철로에 들어가는 것과 길에서 담배를 피우는 것은 엄격히 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Arashiyama section: trash, train tracks and street smoking strictly prohibited",
+   "sources": [
+    {
+     "url": "https://kyoto.travel/en/travel-inspiration/things-to-keep-in-mind-while-exploring-kyoto-and-its-kiyomizu-arashiyama-and-gion-areas/",
+     "type": "national_tourism",
+     "page_updated": "2025-09-25",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c14",
+   "field": "tip",
+   "text": "아라시야마는 벚꽃과 단풍 철에 방문객이 많아 이른 아침 방문과, 비교적 한산한 가메야마 공원(아라시야마 공원)을 지나 대나무숲 길로 가는 경로를 권장한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Early morning + Kameyama Park route to Bamboo Grove Road recommended",
+   "sources": [
+    {
+     "url": "https://kyoto.travel/en/travel-inspiration/things-to-keep-in-mind-while-exploring-kyoto-and-its-kiyomizu-arashiyama-and-gion-areas/",
+     "type": "national_tourism",
+     "page_updated": "2025-09-25",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c15",
+   "field": "caution",
+   "text": "교토시관광협회는 사가·아라시야마 지역 페이지에서 대나무숲이 늘 사진을 찍으려는 사람들로 붐빈다고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Area 'famous for the Bamboo Forest and Togetsu-kyo Bridge, always crowded with people trying to take the best possible shots'",
+   "sources": [
+    {
+     "url": "https://kyoto.travel/en/areas/saga-arashiyama/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c16",
+   "field": "tip",
+   "text": "교토시관광협회 사가·아라시야마 지역 페이지에는 사가·아라시야마 지역의 혼잡 예보 데이터와 라이브 영상으로 이어지는 링크가 있다.",
+   "original_text": "사가·아라시야마 지역 페이지에는 대나무숲 혼잡 예보 데이터와 라이브 영상으로 이어지는 안내가 있다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "Link is 'Congestion Forecast Data and Live Streaming (Saga & Arashiyama)', for the area rather than the grove alone (a separate tips page links a 'Bamboo Grove Live Camera')",
+   "sources": [
+    {
+     "url": "https://kyoto.travel/en/areas/saga-arashiyama/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b18",
+   "text": "kyoto.travel saga-arashiyama area page (cited for c11, c15, c16) was last modified 2025-06-02, more than 12 months ago, so it is a stale_source"
+  },
+  {
+   "run": "r1-b18",
+   "text": "kyoto.travel 'Things to keep in mind' page (c13, c14) was last modified 2025-09-25, just over 12 months ago, so it is a stale_source"
+  },
+  {
+   "run": "r1-b18",
+   "text": "Lookups for parking, hours, fees, address and the rest (kyoto.travel spot page and search) found no official spot page: the guessed spot-page URLs return 404 and site search is JS-only. Nothing to suggest; these stay unconfirmed. The grove is an open public path, but no source states that it is free or always open."
+  }
+ ],
+ "legacy": null,
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": [
+   {
+    "run": "r1-b18",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 16,
+    "verdicts": {
+     "verified": 15,
+     "corrected": 1,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 0
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "조회한 공식 페이지(japan.travel, kyoto.travel)에 주차 정보가 없음.",
+   "run": "r1-b18"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "햇빛이 스며드는 푸른 대나무 사이를 걷는 산책로 (no claim covers sunlight or a sunlit path; JNTO has a matching caption but it was not extracted as a claim)",
+   "오래 기억에 남는다고 소개됩니다 (JNTO says 'lasting impressions', but c6 covers only 'iconic')",
+   "햇빛이 스며드는 대나무 사이 산책로 (sunlight part not backed by a claim)"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b18"
+ }
+}

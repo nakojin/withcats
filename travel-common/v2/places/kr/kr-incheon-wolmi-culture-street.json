@@ -2,7 +2,7 @@
  "id": "kr-incheon-wolmi-culture-street",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "월미문화의거리",
   "local": "월미문화의거리"
@@ -10,96 +10,443 @@
  "admin_region": "인천광역시",
  "former_region": null,
  "city": "중구",
- "address": null,
+ "address": "인천광역시 제물포구 월미로 252 (북성동1가)",
  "coord": null,
  "coord_note": "좌표 검증 대기 (geocode confidence: low)",
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "월미문화의거리는 인천 월미도에 있는 보행자 전용 거리로, 차량 출입 시간을 제외하면 차량 진입이 통제된다.",
+ "description": "월미문화의거리는 인천 월미도에 있는 보행자 전용 거리로, 차량 출입 시간을 제외하면 차량 진입이 통제된다. 초상화를 그려 주는 길거리 화가들이 나와 있고 앉아 쉴 벤치가 있어 작은 쉼터 같은 분위기다. 거리 안의 월미 달빛음악분수는 5월 1일부터 10월 31일까지 운영하며 매주 월요일은 정기 점검을 한다. 저녁에는 음악에 맞춰 6~7가지 빛의 분수 쇼가 펼쳐져 낮보다 밤 모습이 더 좋다고 소개된다. 같은 월미도에 월미공원 전망대와 월미테마파크가 있다. 이용 시간은 09:00~18:00, 연중무휴로 안내되며 입구에 턱이 없어 휠체어 접근이 가능하다.",
+ "highlights": [
+  "차량 출입 시간을 제외하고 차량이 통제되는 보행자 전용 거리",
+  "초상화를 그려 주는 길거리 화가와 벤치가 있는 작은 쉼터 분위기",
+  "월미 달빛음악분수(5/1~10/31, 월요일 정기점검)",
+  "저녁에 6~7가지 빛의 분수 쇼, 밤 관람이 더 낫다고 안내",
+  "월미공원 전망대에서 인천항 일대 조망"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c1",
+    "r1-b09-c2"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c3",
+    "r1-b09-c7",
+    "r1-b09-c8"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "가장 가까운 지하철역·도보 시간은 공식 페이지에 없음. 버스 안내(c3)만 확인.",
+     "detail": "access.station",
+     "run": "r1-b09"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "소요시간 공식 안내 없음."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c4"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "달빛음악분수의 일일 공연 시각은 공식 페이지에 없음(저녁이라고만 안내).",
+     "detail": "hours.fountain",
+     "run": "r1-b09"
+    }
+   ]
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c5",
+    "r1-b09-c6"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "차량 출입이 허용되는 시간대는 명시되어 있지 않음.",
+     "detail": "closed_days.vehicle_hours",
+     "run": "r1-b09"
+    }
+   ]
   },
   "fees": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 입장료 항목이 없고 무료라는 명시 문장을 확인하지 못함."
    }
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "예약 필요 여부 공식 안내 없음."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "결제수단 공식 안내 없음."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c15"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 외 안내판·오디오가이드 유무는 공식 안내 없음(1330 통역전화만 확인).",
+     "detail": "language",
+     "run": "r1-b09"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b09-c9",
+    "r1-b09-c12"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b09-c1",
+   "field": "location",
+   "text": "월미문화의거리의 공식 관광 포털 주소는 인천광역시 제물포구 월미로 252(북성동1가)이다.",
+   "original_text": null,
+   "value": "인천광역시 제물포구 월미로 252 (북성동1가)",
+   "verdict": "verified",
+   "verify_note": "Page title is '월미문화의거리 & 달빛음악분수'; last modified 2026-07-01",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+     "type": "government",
+     "page_updated": "2026-07-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c2",
+   "field": "location",
+   "text": "인천시는 2026년 7월 1일부터 기존 중구 내륙과 동구를 제물포구로 통합했다고 안내한다. 현재 표기는 제물포구, 이전 표기는 중구다.",
+   "original_text": null,
+   "value": "제물포구 (former: 중구)",
+   "verdict": "verified",
+   "verify_note": "Same city page as Chinatown c4",
+   "sources": [
+    {
+     "url": "https://www.incheon.go.kr/IC010601/2187729",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c3",
+   "field": "access",
+   "text": "인천역(차이나타운)에서 2번 버스를 타고 월미도(시티투어) 정거장에서 내리는 대중교통 안내가 있다.",
+   "original_text": null,
+   "value": "2번 버스, 월미도(시티투어) 정거장 하차",
+   "verdict": "verified",
+   "verify_note": "인천역(차이나타운) 2번 버스, 월미도(시티투어) 정거장 하차",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+     "type": "government",
+     "page_updated": "2026-07-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c4",
+   "field": "hours",
+   "text": "이용 시간은 09:00~18:00으로 등록되어 있다.",
+   "original_text": null,
+   "value": "09:00~18:00",
+   "verdict": "verified",
+   "verify_note": "09:00~18:00",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+     "type": "government",
+     "page_updated": "2026-07-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c5",
+   "field": "closed_days",
+   "text": "휴무일은 연중무휴로 등록되어 있다.",
+   "original_text": null,
+   "value": "연중무휴",
+   "verdict": "verified",
+   "verify_note": "연중무휴",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+     "type": "government",
+     "page_updated": "2026-07-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c6",
+   "field": "closed_days",
+   "text": "거리 안 월미 달빛음악분수는 5월 1일부터 10월 31일까지 운영하고 매주 월요일은 정기 점검을 한다.",
+   "original_text": null,
+   "value": "분수: 5/1~10/31, 월요일 정기점검",
+   "verdict": "verified",
+   "verify_note": "5/1~10/31, 매주 월요일 정기점검",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+     "type": "government",
+     "page_updated": "2026-07-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c7",
+   "field": "parking",
+   "text": "월미문화의거리 항목의 주차 안내는 불가능으로 등록되어 있다.",
+   "original_text": null,
+   "value": "주차 불가능",
+   "verdict": "verified",
+   "verify_note": "주차 안내 불가능",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+     "type": "government",
+     "page_updated": "2026-07-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c8",
+   "field": "parking",
+   "text": "같은 페이지의 무장애 정보에는 월미도 제2공영주차장에 장애인 주차 3대가 있다고 적혀 있다.",
+   "original_text": null,
+   "value": "장애인 주차 3대(월미도 제2공영주차장)",
+   "verdict": "verified",
+   "verify_note": "장애인 주차장 있음(3대/월미도 제2공영주차장)",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+     "type": "government",
+     "page_updated": "2026-07-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c9",
+   "field": "caution",
+   "text": "월미도 문화의 거리는 보행자 전용 도로로, 차량 출입 시간을 제외하고는 차량 출입이 통제된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "보행자 전용, 차량 출입시간 외 통제",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+     "type": "government",
+     "page_updated": "2026-07-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c10",
+   "field": "tip",
+   "text": "음악분수는 저녁에 음악에 맞춰 6~7가지 빛의 쇼가 펼쳐져 낮보다 밤에 보는 편이 더 멋지다고 소개된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "6~7가지 빛의 분수 쇼, 밤이 더 멋짐",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+     "type": "government",
+     "page_updated": "2026-07-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c11",
+   "field": "tip",
+   "text": "출입구까지 턱이 없어 휠체어 접근이 가능하고, 인근 월미전통공원 안내소에서 휠체어를 빌릴 수 있으며 장애인 화장실이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "월미전통공원 안내소 휠체어 대여, 장애인 화장실 있음",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+     "type": "government",
+     "page_updated": "2026-07-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c12",
+   "field": "caution",
+   "text": "보조견 동반이 가능하다고 안내되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "보조견 동반가능",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+     "type": "government",
+     "page_updated": "2026-07-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c13",
+   "field": "description",
+   "text": "길거리 화가들이 초상화를 그려 주고 앉아 쉴 벤치가 있는 작은 쉼터 같은 거리다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "초상화 화가, 벤치, 작은 쉼터",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+     "type": "government",
+     "page_updated": "2026-07-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c14",
+   "field": "highlight",
+   "text": "월미공원 월미 전망대에서는 인천항 일대 전경을 볼 수 있고, 월미테마파크에는 다양한 놀이기구가 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "월미 전망대 인천항 전경, 월미테마파크 놀이기구",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+     "type": "government",
+     "page_updated": "2026-07-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  },
+  {
+   "cid": "r1-b09-c15",
+   "field": "language",
+   "text": "관광통역안내전화 1330과 인천종합관광안내소 032-832-3031이 안내되어 있다. itour 사이트는 영어·일본어·중국어 버전도 제공한다.",
+   "original_text": null,
+   "value": "1330 / 032-832-3031",
+   "verdict": "verified",
+   "verify_note": "1330 and 032-832-3031 in the footer; English, 日本語 and 中文 switches in the header",
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179",
+     "type": "government",
+     "page_updated": "2026-07-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b09"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b09",
+   "text": "The same page lists hours of 09:00~18:00, yet says the fountain show runs in the evening. The fountain's show times are not given. Today is 10-11, so the fountain season (until 10/31) ends soon."
+  },
+  {
+   "run": "r1-b09",
+   "text": "The same page gives parking as 불가능 but also lists 3 disabled spaces at 월미도 제2공영주차장. The general public parking there (fees) is not confirmed."
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -189,6 +536,38 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b09",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 15,
+    "verdicts": {
+     "verified": 15,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 0
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.conflict",
+   "note": "같은 itour 페이지(https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179)에서 주차 안내는 '불가능'이지만 무장애 정보에는 월미도 제2공영주차장 장애인 주차 3대가 있다고 적혀 일반 주차장 이용 가능 여부와 요금은 확인 불가.",
+   "run": "r1-b09"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b09"
  }
 }

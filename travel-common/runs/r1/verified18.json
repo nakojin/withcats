@@ -1,0 +1,459 @@
+{
+ "places": [
+  {
+   "key": "new:jp-kyoto-arashiyama-bamboo",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO page shows 'Ukyo-ku, Kyoto-shi, Kyoto-fu'"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'village of Sagano on the west side of the city'"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'10-minute walk from Saga-Arashiyama Station on the JR Sagano Line'"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'For maximum effect, approach the grove from the side gate of Tenryu-ji'"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'short yet immersive'"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'one of Kyoto's most iconic sights'"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Okochi-Sanso 'at the top of the grove', gardens, views, 'generally free of crowds'"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Admission includes Japanese sweet and hot matcha; no fee amount on page"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Grove section extends to Nonomiya Shrine; young women pray for a love match"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Bamboo-goods shops toward Randen Saga Station"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Note on kyoto.travel area page; knife-carved graffiti, stalks cut and disposed"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "News dated 24 SEP 2025; site run by Kyoto City Tourism Association (DMO KYOTO)"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Arashiyama section: trash, train tracks and street smoking strictly prohibited"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Early morning + Kameyama Park route to Bamboo Grove Road recommended"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Area 'famous for the Bamboo Forest and Togetsu-kyo Bridge, always crowded with people trying to take the best possible shots'"
+    },
+    {
+     "cid": "c16",
+     "verdict": "corrected",
+     "corrected_text": "교토시관광협회 사가·아라시야마 지역 페이지에는 사가·아라시야마 지역의 혼잡 예보 데이터와 라이브 영상으로 이어지는 링크가 있다.",
+     "note": "Link is 'Congestion Forecast Data and Live Streaming (Saga & Arashiyama)', for the area rather than the grove alone (a separate tips page links a 'Bamboo Grove Live Camera')"
+    }
+   ],
+   "unsupported_in_description": [
+    "햇빛이 스며드는 푸른 대나무 사이를 걷는 산책로 (no claim covers sunlight or a sunlit path; JNTO has a matching caption but it was not extracted as a claim)",
+    "오래 기억에 남는다고 소개됩니다 (JNTO says 'lasting impressions', but c6 covers only 'iconic')"
+   ],
+   "unsupported_in_highlights": [
+    "햇빛이 스며드는 대나무 사이 산책로 (sunlight part not backed by a claim)"
+   ],
+   "suggested_claims": [],
+   "conflicts": [
+    "kyoto.travel saga-arashiyama area page (cited for c11, c15, c16) was last modified 2025-06-02, more than 12 months ago, so it is a stale_source",
+    "kyoto.travel 'Things to keep in mind' page (c13, c14) was last modified 2025-09-25, just over 12 months ago, so it is a stale_source",
+    "Lookups for parking, hours, fees, address and the rest (kyoto.travel spot page and search) found no official spot page: the guessed spot-page URLs return 404 and site search is JS-only. Nothing to suggest; these stay unconfirmed. The grove is an open public path, but no source states that it is free or always open."
+   ]
+  },
+  {
+   "key": "new:jp-nara-nara-park",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Address 'Kasuga-cho, Nara City, Nara'; map pin 34.685047,135.843012 not checked against OSM"
+    },
+    {
+     "cid": "c2",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "같은 관광협회의 두 공식 페이지가 660ha와 511.52ha로 달라 공개 보류(병합 시 처리). 원 노트: 'approximately 660 hectares, covers the eastern part of Nara City' (see conflict)"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "approx. 1,300 wild deer roam in herds; 1,000-year-old pine trees"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'legendary divine deer of Kasugataisha Shrine'"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Bus 7 min to 'Kencho-mae' (see conflict)"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Available (Prefectural Parking, etc.)', no fee"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'open 365 days a year'"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Closed: 'Open year-round'"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Individual and group free; 'admission is always free of charge'"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "0742-22-0375 (Nara Park Office)"
+    }
+   ],
+   "unsupported_in_description": [
+    "아름다운 잔디밭 (lawns are on the page but in no claim; c4 covers only deer and pines)"
+   ],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "ops.hours",
+     "text": "나라 공원은 연중무휴 24시간 개방하며, 공원 안 시설과 사적의 운영시간은 각각 다르다.",
+     "url": "https://narashikanko.or.jp/en/feature/narapark"
+    },
+    {
+     "field": "duration",
+     "text": "나라 공원을 충분히 즐기려면 최소 반나절을 잡는 것이 좋다고 안내한다.",
+     "url": "https://narashikanko.or.jp/en/feature/narapark"
+    },
+    {
+     "field": "tip",
+     "text": "공원은 출입구가 따로 정해져 있지 않아 어느 곳에서나 자유롭게 드나들 수 있다.",
+     "url": "https://narashikanko.or.jp/en/feature/narapark"
+    }
+   ],
+   "conflicts": [
+    "Area size: spot page (c2) says about 660 ha; the same association's Nara Park feature page says 511.52 ha. These need reconciling before publishing the 660 ha figure.",
+    "Bus time from JR Nara Station: spot page says 7 min (city loop outer route to Kencho-mae); the feature page says 5 min in its intro and 10 min (East Exit No. 2 bus stop) in its basic info.",
+    "Nara Prefecture park office site (pref.nara.lg.jp/site/park/) returned HTTP 408 twice, so parking fees are not confirmed."
+   ]
+  },
+  {
+   "key": "new:jp-fukuoka-canal-city",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Exit ① about 3 min to North Building"
+    },
+    {
+     "cid": "c5",
+     "verdict": "corrected",
+     "corrected_text": "JR 하카타역 하카타구치에서 하카타 에키마에 거리를 따라 도보 약 7분 직진한 뒤 '하카타 경찰서 입구' 교차로를 건너 왼쪽으로 돌면 비즈니스센터 빌딩·캐널시티 후쿠오카 워싱턴 호텔 쪽에 닿는다.",
+     "note": "Route continues after the 7-min straight walk: cross the intersection and turn left"
+    },
+    {
+     "cid": "c6",
+     "verdict": "corrected",
+     "corrected_text": "니시테쓰 버스의 '후쿠오카 도심 150엔 버스' 구역(하카타역·구라모토·덴진·야쿠인에키마에)에서는 어느 니시테쓰 버스를 타도 운임이 150엔이며, 승차 정류장과 노선에 따라 내리는 정류장이 다르다.",
+     "note": "Page says 西鉄バス (Nishitetsu); 'Seibu' (세이부) is wrong"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Also on page: weekday long-stay cap of 700 yen up to 10 h (for stays of 3.5 h or more); monthly-contract cars may block entry"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Cinema, theatre and TAITO STATION are excluded; receipts from several shops cannot be combined"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Must show parking ticket when buying the movie ticket"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'基本的に定休日はありません'; service page: 年中無休"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'毎晩無料で上演'"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Both pages state it"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c21",
+     "verdict": "corrected",
+     "corrected_text": "종합 인포메이션(센터워크 1F, 10:00~21:00)에서는 관내 안내, 유모차·휠체어·필담 보드 대여, 구매 상품 택배 접수, 티켓 판매를 한다.",
+     "note": "Page says お買物商品の宅配受付 (home delivery of purchases), not luggage delivery"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "400~1,000 yen per locker location, 400~1,300 yen at Center Walk B1F; East Bldg 1F available 24 h via the bike-parking entrance"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c25",
+     "verdict": "corrected",
+     "corrected_text": "면세 절차는 구매 당일 면세 카운터(10:00~21:30, 관내 PIE VAT 가맹점 구매액이 일반물품·소모품 각각 5,000엔(세금 별도) 이상)나 점포 안(단일 점포 구매액이 일반물품·소모품 각각 5,000엔(세금 별도) 이상)에서 할 수 있으며, 일정 조건을 갖추면 일반물품과 소모품을 합산할 수 있다.",
+     "note": "Counter threshold applies to PIE VAT member-shop purchases, not a single shop; combining is allowed under conditions"
+    },
+    {
+     "cid": "c26",
+     "verdict": "corrected",
+     "corrected_text": "면세 카운터 환급 방법은 은행 송금, 신용카드·체크카드, WeChat, PayPal 중에서 고르며, 면세 수수료로 대상 상품 금액의 1.5%가 부과되고 환급률은 8.5%이며 환급액의 4.25%가 송금 수수료로 공제된다.",
+     "note": "Page also states the 8.5% refund rate and the 4.25% remittance fee"
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c29",
+     "verdict": "corrected",
+     "corrected_text": "캐널시티 하카타에는 그랜드 하얏트 후쿠오카와 캐널시티·후쿠오카 워싱턴 호텔이 직결되어 있고, 관내에 유나이티드 시네마 캐널시티 13이 있다.",
+     "note": "FAQ body names only the two hotels as directly connected plus the cinema; Craftia Theater appears only in the site nav"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "ops.hours",
+     "text": "2026년 8월 31일~10월 16일 상연 일정: 분수 쇼는 10:00~22:00 사이 정시·30분에 열리고, 캐널 아쿠아파노라마는 19:00·21:00(GUNDAM SCRAMBLE in FUKUOKA, 약 10분)과 20:00(Imagination, 약 5분)에 상연한다. 10월 17일 이후 일정은 정해지는 대로 공지한다.",
+     "url": "https://www.canalcity.co.jp/event/detail/40"
+    },
+    {
+     "field": "caution",
+     "text": "캐널 아쿠아파노라마는 현재 일부 연출 장비 고장으로 일부 영상이 정상적으로 표시되지 않는다고 공지되어 있다.",
+     "url": "https://www.canalcity.co.jp/event/detail/40"
+    },
+    {
+     "field": "tip",
+     "text": "면세는 여권과 신용카드 명의가 다르거나 법인카드로 결제하면 받을 수 없고, 자동화·안면인식 게이트로 입국해 입국 도장이 없으면 면세가 불가하다.",
+     "url": "https://www.canalcity.co.jp/service/tax_free"
+    }
+   ],
+   "conflicts": [
+    "The foreign_visitors page still says Ramen Stadium is temporarily closed with a renewal opening on 4月17日(金), which is stale text.",
+    "The highlight '밤마다 무료 3D 프로젝션 매핑' is backed by c17/c18, but the official event page currently reports an equipment fault affecting some visuals.",
+    "The posted show schedule runs only to 2026-10-16; later dates are TBA, so any schedule text must carry that date range.",
+    "No Korean-language page found (/ko/ and /kr/ return 404), so language.korean stays unconfirmed."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 60,
+  "verified": 53,
+  "corrected": 7,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "All 12 cited URLs fetched with curl (HTTP 200); verdicts based only on visible page text.",
+   "Biggest fixes: Canal City c6 wrongly names 'Seibu' instead of Nishitetsu bus; c25 tax-free thresholds were simplified incorrectly.",
+   "Nara: area 660 ha (spot page) and 511.52 ha (feature page) disagree, both on the Nara City Tourism Association site; resolve before publishing.",
+   "Two kyoto.travel sources are stale (>12 months since modification).",
+   "Canal City tax-free page (c25, c26) has no date and says it can change without notice. Japan's national tax-free procedure may change; this page does not confirm it either way. Re-check the page before publishing and add an effective date to any tax-free text.",
+   "Coordinates were not part of the claims; no OSM check done."
+  ]
+ }
+}

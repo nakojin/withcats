@@ -2,7 +2,7 @@
  "id": "kr-gyeonggi-namhansanseong",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "남한산성",
   "local": "남한산성"
@@ -10,7 +10,7 @@
  "admin_region": "경기도",
  "former_region": null,
  "city": "광주시 남한산성면 산성리",
- "address": null,
+ "address": "경기도 광주시 남한산성면 남한산성로 731 (경기도남한산성세계유산센터, 지번 산성리 158-1)",
  "coord": {
   "lat": 37.479137,
   "lng": 127.180159,
@@ -21,93 +21,571 @@
   "osm": "node/2668229479"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "남한산성은 약 12.4km의 성곽이 남아 있는 산성으로 2014년 6월 제38차 유네스코 세계유산위원회에서 세계유산으로 등재되었다.",
+ "description": "남한산성은 약 12.4km의 성곽이 남아 있는 산성으로 2014년 6월 제38차 유네스코 세계유산위원회에서 세계유산으로 등재되었다. 주장성 터 위에 조선 인조 4년(1626)에 대대적으로 쌓았다. 남한산성 입장요금은 2007년 1월 1일부터 없으며, 남한산성행궁만 어른 2,000원을 받고 월요일은 쉰다. 경기도민과 65세 이상, 6세 이하는 행궁이 무료다. 성내 남문·로터리·중앙·센터 주차장은 유료이고 20:00~09:00는 무료이다. 공휴일에는 도로 혼잡과 주차난이 심해 대중교통이 권장된다.",
+ "highlights": [
+  "성곽 약 12.4km, 2014년 유네스코 세계유산 등재",
+  "산성 입장은 2007년부터 무료, 행궁만 유료(어른 2,000원)",
+  "행궁 하절기 10:00~18:00, 동절기 10:00~17:00, 월요일 휴궁",
+  "경기도민·만 65세 이상·만 6세 이하·한복 착용자 행궁 무료",
+  "탐방로 5개 코스(약 3km~7.7km, 1시간~3시간 20분)",
+  "남한산성 역사문화관 무료 (10:00~18:00, 월요일 휴관)"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c1",
+    "r1-b08-c18"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c8",
+    "r1-b08-c9",
+    "r1-b08-c10",
+    "r1-b08-c12"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "버스 노선과 정류장은 대중교통 메뉴를 열지 못해 확인하지 못했다. 지하철 도보 안내는 2024-10 갱신본이다.",
+     "detail": "access.bus",
+     "run": "r1-b08"
+    }
+   ]
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c14"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "행궁만의 권장 관람시간은 없고 탐방로 코스별 시간만 확인했다. 탐방로 페이지는 2024-10-24 갱신(12개월 이상 경과, stale_source)이다.",
+     "detail": "duration.visit",
+     "run": "r1-b08"
+    }
+   ]
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c6",
+    "r1-b08-c15"
+   ],
+   "gap": null
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c7",
+    "r1-b08-c16"
+   ],
+   "gap": null
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c2",
+    "r1-b08-c3",
+    "r1-b08-c4",
+    "r1-b08-c5",
+    "r1-b08-c17"
+   ],
+   "gap": null
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "관람 및 주차 안내 페이지에 행궁 입장 예약 언급이 없다. 역사문화관 게시물에도 예약 내용이 없다."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "행궁 매표소와 주차장의 결제 수단(카드, 현금, 모바일)을 적은 문구가 없다. 주차요금은 후불이라는 표기만 있다."
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "문화유산해설 페이지(갱신 2024-07-03, 12개월 이상 경과, stale_source)에는 영어·중국어·일본어 해설이 전화 예약 031-746-2845이고 코로나19로 중단 중이라는 문구가 있어 현행 운영 여부를 확인하지 못했다. 한국어 해설과 오디오가이드는 확인하지 못했다."
    }
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b08-c13"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b08-c1",
+   "field": "location",
+   "text": "남한산성세계유산센터의 도로명 주소는 경기도 광주시 남한산성면 남한산성로 731이고 지번은 산성리 158-1이다.",
+   "original_text": null,
+   "value": "경기도 광주시 남한산성면 남한산성로 731",
+   "verdict": "verified",
+   "verify_note": "ciIdx=1287: 남한산성로 731, [지번] 산성리 158-1.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1287&menuId=3515",
+     "type": "government",
+     "page_updated": "2024-10-23",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+     "type": "government",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c2",
+   "field": "fees",
+   "text": "남한산성 입장요금은 2007년 1월 1일부로 폐지되어 산성 출입은 무료이다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "ciIdx=1274 (최종 수정일 2026-09-10): 2007년 1월 1일부로 입장요금 폐지.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+     "type": "government",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c3",
+   "field": "fees",
+   "text": "남한산성행궁 관람료는 어른(만 19~64세) 2,000원, 청소년(만 7~18세) 1,000원이다.",
+   "original_text": null,
+   "value": "2000/1000 KRW",
+   "verdict": "verified",
+   "verify_note": "Adult 2,000원, youth 1,000원.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+     "type": "government",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c4",
+   "field": "fees",
+   "text": "30인 이상 단체는 어른 1,600원, 청소년 800원이다.",
+   "original_text": null,
+   "value": "1600/800 KRW",
+   "verdict": "verified",
+   "verify_note": "Group of 30 or more: 1,600/800원.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+     "type": "government",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c5",
+   "field": "fees",
+   "text": "행궁은 만 6세 이하, 만 65세 이상(신분증), 경기도민(신분증), 장애인과 보호자 1인(장애인등록증), 한복 등 전통의복 착용자(상하의 모두), 군인(예비군 제외) 등이 무료이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "The free list on ciIdx=1274 also has more groups than the claim names.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+     "type": "government",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c6",
+   "field": "hours",
+   "text": "남한산성행궁 관람시간은 하절기(4~10월) 10:00~18:00, 동절기(11~3월) 10:00~17:00이다.",
+   "original_text": null,
+   "value": "4-10월 10:00-18:00; 11-3월 10:00-17:00",
+   "verdict": "verified",
+   "verify_note": "4~10월 10:00~18:00, 11~3월 10:00~17:00.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+     "type": "government",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c7",
+   "field": "closed_days",
+   "text": "행궁은 매주 월요일이 휴궁일이며(공휴일 제외), 매표는 관람 종료 30분 전까지 가능하다.",
+   "original_text": null,
+   "value": "월요일",
+   "verdict": "verified",
+   "verify_note": "Closed Mondays except public holidays. Ticket sales close 30 minutes before closing.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+     "type": "government",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c8",
+   "field": "parking",
+   "text": "성내 주차장(남문, 로타리, 중앙, 센터)은 유료이고, 광주 방면 동문·하행선·검복리1·2·불당리·농산물·오전리·광지원 주차장은 무료이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "ciIdx=1287 lists the paid lots inside the fortress and the free lots on the 광주 side.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1287&menuId=3515",
+     "type": "government",
+     "page_updated": "2024-10-23",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c9",
+   "field": "parking",
+   "text": "유료 주차요금은 후불이며 1000cc 이상 승용차는 평일 3,000원, 공휴일 5,000원, 경차·1000cc 미만 승용차는 평일 1,500원, 공휴일 2,500원이다. 20:00~09:00와 30분 이내 출차는 무료이다.",
+   "original_text": null,
+   "value": "평일 3000원/공휴일 5000원",
+   "verdict": "verified",
+   "verify_note": "Fees are paid on exit (후불). 20:00~09:00 and exit within 30 minutes are free.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+     "type": "government",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c10",
+   "field": "parking",
+   "text": "주차요금 무료 대상에 장애인(자동차 표지), 전통의복 착용자, 18세 미만 자녀 3명 이상 가족, 친환경 자동차가 포함되고, 18세 미만 자녀 2명 이상 가족은 50% 감면된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Disabled drivers need both the vehicle sticker and a registration card. 저공해차 (not diesel) is also free.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+     "type": "government",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c11",
+   "field": "access",
+   "text": "지하철 8호선 산성역에서 남한산성 등산로 입구까지 도보 약 10분이다 (출처 갱신 2024-10-23).",
+   "original_text": null,
+   "value": "도보 약 10분",
+   "verdict": "unverifiable",
+   "verify_note": "The cited page (ciIdx=1287) covers driving only and has no 산성역 walking statement. The transit page (ciIdx=1286) gives a bus from 산성역 instead (see suggested claim).",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1287&menuId=3515",
+     "type": "government",
+     "page_updated": "2024-10-23",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c12",
+   "field": "access",
+   "text": "자가용 기준 경기광주IC에서 약 18분(10.41km), 양재IC에서 약 37분(17.43km), 모란역에서 약 26분(9.7km)이다 (출처 갱신 2024-10-23).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "ciIdx=1287. Page last updated 2024-10-23.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1287&menuId=3515",
+     "type": "government",
+     "page_updated": "2024-10-23",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c13",
+   "field": "caution",
+   "text": "공휴일에는 남한산성 내 도로가 매우 혼잡하고 주차 공간이 부족해 대중교통 이용이 권장된다 (출처 갱신 2024-10-23).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "ciIdx=1287. Page last updated 2024-10-23.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1287&menuId=3515",
+     "type": "government",
+     "page_updated": "2024-10-23",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c14",
+   "field": "duration",
+   "text": "탐방로 1코스 약 3.8km 1시간 20분, 2코스 약 3km 1시간, 3코스 약 5.7km 2시간, 4코스 약 3.8km 1시간 20분, 5코스 약 7.7km 3시간 20분이다 (출처 갱신 2024-10-24).",
+   "original_text": null,
+   "value": "1h-3h20m",
+   "verdict": "verified",
+   "verify_note": "ciIdx=1280. Page last updated 2024-10-24.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1280&menuId=3494",
+     "type": "government",
+     "page_updated": "2024-10-24",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c15",
+   "field": "hours",
+   "text": "남한산성 역사문화관은 10:00~18:00(입장마감 17:30)에 운영한다.",
+   "original_text": null,
+   "value": "10:00-18:00, 입장마감 17:30",
+   "verdict": "verified",
+   "verify_note": "Board post: 10:00~18:00, 입장마감 17:30. The post shows no date.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/bbs/boardView.do?bsIdx=765&bIdx=110883248&page=1&menuId=3503&bcIdx=",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c16",
+   "field": "closed_days",
+   "text": "역사문화관은 매주 월요일(공휴일 제외)과 1월 1일, 설날, 추석 당일에 휴관한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Board post.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/bbs/boardView.do?bsIdx=765&bIdx=110883248&page=1&menuId=3503&bcIdx=",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c17",
+   "field": "fees",
+   "text": "역사문화관 관람료는 무료이다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "Board post: 무료.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/bbs/boardView.do?bsIdx=765&bIdx=110883248&page=1&menuId=3503&bcIdx=",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c18",
+   "field": "location",
+   "text": "남한산성 역사문화관 주소는 경기도 광주시 남한산성면 남한산성로 812이다.",
+   "original_text": null,
+   "value": "남한산성로 812",
+   "verdict": "verified",
+   "verify_note": "Board post: 남한산성로 812.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/bbs/boardView.do?bsIdx=765&bIdx=110883248&page=1&menuId=3503&bcIdx=",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c19",
+   "field": "description",
+   "text": "남한산성은 2014년 6월 제38차 유네스코 세계유산위원회에서 등재가 결정되었고 성곽 길이는 약 12.4km이다.",
+   "original_text": null,
+   "value": "12.4km, 2014",
+   "verdict": "verified",
+   "verify_note": "ciIdx=1263: 2014년 6월, 제38차 위원회, 12.4km. Page last updated 2024-03-19.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1263&menuId=3473",
+     "type": "government",
+     "page_updated": "2024-03-19",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c20",
+   "field": "description",
+   "text": "신라 문무왕 672년 주장성 터를 이용했고, 조선 인조 4년(1626)에 대대적으로 쌓았다.",
+   "original_text": null,
+   "value": "1626",
+   "verdict": "verified",
+   "verify_note": "ciIdx=1263: 주장성(672) 옛 터, 인조 4년(1626).",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1263&menuId=3473",
+     "type": "government",
+     "page_updated": "2024-03-19",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-c21",
+   "field": "tip",
+   "text": "문의는 남한산성세계유산센터 031-8008-5155이다.",
+   "original_text": null,
+   "value": "031-8008-5155",
+   "verdict": "verified",
+   "verify_note": "031-8008-5155.",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486",
+     "type": "government",
+     "page_updated": "2026-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  },
+  {
+   "cid": "r1-b08-s1",
+   "field": "access.bus",
+   "text": "지하철 8호선 산성역에서 52·9·9-1(휴일)번 버스를 타고 남한산성(종점)에서 내린다. 버스 구간은 약 26~43분이다. 모란역 2·3번 출구에서도 52·9번이 다닌다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1286&menuId=3514",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b08"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b08",
+   "text": "Stale sources (last updated more than 12 months ago): ciIdx=1287 directions and caution (2024-10-23), ciIdx=1280 trail courses (2024-10-24), ciIdx=1263 heritage overview (2024-03-19). The fee and hours page ciIdx=1274 is current (2026-09-10). The transit page ciIdx=1286 (2025-10-29) is just under 12 months old."
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -195,6 +673,45 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b08",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 21,
+    "verdicts": {
+     "verified": 20,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 1,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 1
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.map",
+   "note": "성내 주차장 위치 약도가 이미지로만 제공되어 텍스트로 확인하지 못했다.",
+   "run": "r1-b08"
+  },
+  {
+   "topic": "heritage.stale",
+   "note": "세계유산 소개 페이지는 2024-03-19 갱신으로 12개월 이상 경과했으나 역사 사실이라 인용했다.",
+   "run": "r1-b08"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "병자호란과 관련이 깊다 (ciIdx=1263 mentions 병자호란, but no claim covers it)"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b08"
  }
 }

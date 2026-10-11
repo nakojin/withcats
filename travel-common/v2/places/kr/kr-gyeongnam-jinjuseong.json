@@ -2,7 +2,7 @@
  "id": "kr-gyeongnam-jinjuseong",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "진주성",
   "local": "진주성"
@@ -10,7 +10,7 @@
  "admin_region": "경상남도",
  "former_region": null,
  "city": "진주시 남강로 626",
- "address": null,
+ "address": "경상남도 진주시 남강로 626",
  "coord": {
   "lat": 35.188817,
   "lng": 128.077604,
@@ -21,93 +21,496 @@
   "osm": "way/560496516"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "진주성은 경상남도 진주시 남강로 626에 있는 성곽으로, 1379년 왜구의 침입을 막기 위해 확장되었고 임진왜란(1592~1598) 중 두 차례 전투를 겪었다.",
+ "description": "진주성은 경상남도 진주시 남강로 626에 있는 성곽으로, 1379년 왜구의 침입을 막기 위해 확장되었고 임진왜란(1592~1598) 중 두 차례 전투를 겪었다. 성 안에는 촉석루, 국립진주박물관, 승전 기념비, 야외무대, 카페 등이 있으며 남강을 내려다본다. 한복 체험과 남강 뱃놀이도 즐길 수 있다. 3~10월에는 05:00~23:00, 11~2월에는 05:00~22:00에 열려 있고 연중무휴이며, 개인 입장료는 성인 2,000원, 청소년 1,000원, 어린이 600원이다. 만 65세 이상과 6세 이하는 무료이고 성 주변 주차장은 소형차 기준 첫 30분 500원이다.",
+ "highlights": [
+  "1379년 왜구 방어를 위해 확장된 성곽으로 임진왜란 때 두 차례 전투가 벌어진 곳",
+  "성 안에 촉석루, 국립진주박물관, 승전 기념비, 야외무대, 카페가 있음",
+  "남강을 내려다보는 경관과 한복 체험, 남강 뱃놀이",
+  "3~10월 05:00~23:00, 11~2월 05:00~22:00 이용 가능(연중무휴)",
+  "65세 이상·6세 이하 무료, 성 안 국립진주박물관 관람은 무료"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b10-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b10-c7",
+    "r1-b10-c8"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "official_unreachable",
+     "note": "가까운 버스 정류장·도보 시간 등 대중교통 접근 정보를 공식 페이지에서 찾지 못함. jinju.go.kr 에 접속이 계속 실패하여(연결 실패/503) 확인 불가.",
+     "detail": "access",
+     "run": "r1-b10"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 안내 소요시간을 찾지 못함."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b10-c2"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "야간 입장료 무료라는 설명은 비공식 사이트에만 있어 제외.",
+     "detail": "hours.night_fee",
+     "run": "r1-b10"
+    }
+   ]
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b10-c3"
+   ],
+   "gap": null
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b10-c4",
+    "r1-b10-c5",
+    "r1-b10-c6"
+   ],
+   "gap": null
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "입장 예약 여부 공식 확인 불가. 문화관광해설 사전 예약제는 비공식 검색 요약에만 있어 근거로 쓰지 않음."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "매표소 결제 수단(카드·현금) 공식 안내를 찾지 못함."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b10-c9"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "진주성 자체의 한국어 해설·오디오가이드 여부는 공식 페이지에서 찾지 못함(1330만 확인).",
+     "detail": "language",
+     "run": "r1-b10"
+    }
+   ]
   },
   "caution": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 주의사항·혼잡 시기 안내를 찾지 못함. 2026 진주남강유등축제 기간(10.3~10.18) 입장료·운영은 공식 페이지에서 직접 확인하지 못함."
    }
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b10-c1",
+   "field": "location",
+   "text": "진주성의 도로명 주소는 경상남도 진주시 남강로 626이다.",
+   "original_text": null,
+   "value": "경상남도 진주시 남강로 626",
+   "verdict": "verified",
+   "verify_note": "vcontsId=75199: 경상남도 진주시 남강로 626",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c2",
+   "field": "hours",
+   "text": "진주성은 3~10월에는 05:00~23:00, 11~2월에는 05:00~22:00에 이용할 수 있다.",
+   "original_text": null,
+   "value": "3-10월 05:00-23:00; 11-2월 05:00-22:00",
+   "verdict": "verified",
+   "verify_note": "75199: March-October 05:00-23:00 / November-February 05:00-22:00. The 의기사·의암 page on access.visitkorea (수정일 2026.03.16) shows the same hours, labelled 하절기/동절기",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c3",
+   "field": "closed_days",
+   "text": "진주성은 정기 휴무일 없이 연중 개방한다.",
+   "original_text": null,
+   "value": "연중무휴",
+   "verdict": "verified",
+   "verify_note": "75199: N/A (Open all year round). 의기사 page: 연중무휴",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c4",
+   "field": "fees",
+   "text": "진주성 개인 입장료는 성인 2,000원, 청소년 1,000원, 어린이 600원이다.",
+   "original_text": null,
+   "value": "성인 2000/청소년 1000/어린이 600 KRW",
+   "verdict": "verified",
+   "verify_note": "Same on 75199, 86040 and the 국립진주박물관 access page (2026.09.29)",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c5",
+   "field": "fees",
+   "text": "30명 이상 단체는 성인 1,400원, 청소년 600원, 어린이 400원이다.",
+   "original_text": null,
+   "value": "단체(30인 이상) 성인 1400/청소년 600/어린이 400 KRW",
+   "verdict": "verified",
+   "verify_note": "86040: Groups 1,400/600/400, 30 people or more",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c6",
+   "field": "fees",
+   "text": "6세 이하 미취학 아동과 65세 이상은 입장료가 무료이다.",
+   "original_text": null,
+   "value": "6세 이하, 65세 이상 무료",
+   "verdict": "verified",
+   "verify_note": "86040: Preschoolers (6 & under), 65 & over free",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c7",
+   "field": "parking",
+   "text": "주차가 가능하다. 촉석문 앞(소형차만), 공북문, 보건소, 진주성 관광버스 전용 주차장 등 4곳이 안내되어 있다.",
+   "original_text": null,
+   "value": "촉석문 앞(소형만); 공북문(대형17/소형15면); 보건소(대형9/소형35면); 관광버스 전용(14면)",
+   "verdict": "verified",
+   "verify_note": "86040 lists all 4 lots with space counts",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c8",
+   "field": "parking",
+   "text": "주차 요금은 소형차 첫 30분 500원에 추가 10분마다 200원, 대형차 첫 30분 1,000원에 추가 10분마다 400원이며, 관광버스 전용 구역 주차는 무료이다.",
+   "original_text": null,
+   "value": "소형 500/30분+200/10분; 대형 1000/30분+400/10분; 관광버스구역 무료",
+   "verdict": "verified",
+   "verify_note": "86040 parking fees match",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c9",
+   "field": "language",
+   "text": "한국관광공사 1330 여행안내 전화는 한국어, 영어, 일본어, 중국어로 문의할 수 있다. 진주성 자체 한국어 오디오가이드 여부는 확인되지 않았다.",
+   "original_text": null,
+   "value": "1330: ko/en/ja/zh",
+   "verdict": "verified",
+   "verify_note": "86040: 1330 (Korean, English, Japanese, Chinese). The audio-guide part is a statement that the info was not found, not a fact claim",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c10",
+   "field": "tip",
+   "text": "진주성 문의 전화는 +82-55-749-5171이다.",
+   "original_text": null,
+   "value": "055-749-5171",
+   "verdict": "verified",
+   "verify_note": "75199 and 86040: +82-55-749-5171",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c11",
+   "field": "description",
+   "text": "진주성은 고대에 처음 축조되어 1379년 왜구 침입을 막으려고 확장되었고, 임진왜란(1592~1598) 중 두 차례 전투가 벌어졌다.",
+   "original_text": null,
+   "value": "1379 확장; 임진왜란 2회 전투",
+   "verdict": "verified",
+   "verify_note": "75199 intro",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c12",
+   "field": "highlight",
+   "text": "성 안에는 촉석루, 국립진주박물관, 승전 기념비, 야외무대, 카페가 있고 남강을 내려다본다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "75199 intro",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c13",
+   "field": "highlight",
+   "text": "방문객은 한복 체험을 하거나 남강에서 배를 탈 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "75199: hanbok experiences, ferry on the Namgang River",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c14",
+   "field": "tip",
+   "text": "성 안 촉석루는 별도 운영시간 09:00~18:00으로 안내되어 있어 성곽 개방시간과 다르다.",
+   "original_text": null,
+   "value": "촉석루 09:00-18:00",
+   "verdict": "verified",
+   "verify_note": "86040 is the 촉석루 content page; operating hours 09:00-18:00. The page shows no update date",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c15",
+   "field": "tip",
+   "text": "성 안 국립진주박물관 관람은 무료이며 09:00~18:00(입장 마감 17:30), 매주 월요일(월요일이 공휴일이면 다음 첫 평일)과 1월 1일, 설·추석 당일은 휴관한다.",
+   "original_text": null,
+   "value": "무료; 09:00-18:00; 월요일 휴관",
+   "verdict": "verified",
+   "verify_note": "access page 수정일 2026.09.29: 관람료 무료, 09:00~18:00 (입장 마감 17:30), 월요일 (공휴일이면 다음 첫 평일), 1/1, 설·추석 당일",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=21f2f7aa-5ed6-4121-9d00-596444fbe174",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c16",
+   "field": "tip",
+   "text": "성 안 의기사·의암 구역에 장애인 전용 주차 1면, 경사로, 장애인 화장실, 휠체어 대여(13대)가 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "의기사와 의암 page (2026.03.16): 장애인 전용주차 1면, 경사로, 장애인 화장실, 휠체어 13대",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=bab49ec5-4bff-483e-b3de-3658da2796d0",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-s1",
+   "field": "language",
+   "text": "성 안 국립진주박물관은 QR코드로 국립박물관 전시안내 앱을 내려받으면 음성안내를 제공하며, 주요 문화유산에 점자 설명문이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=21f2f7aa-5ed6-4121-9d00-596444fbe174",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-s2",
+   "field": "tip",
+   "text": "국립진주박물관은 휠체어(2대)와 유모차(2대, 24개월 이하)를 신분증을 맡기면 무료로 빌려 주며, 수유실과 장애인 화장실이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=21f2f7aa-5ed6-4121-9d00-596444fbe174",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b10",
+   "text": "jinju.go.kr (www.jinju.go.kr/jinjuseong/index.web) could not be reached: curl connection reset 4 times, WebFetch 503. Access, duration, reservation, payment, caution and night_fee are still unconfirmed"
+  },
+  {
+   "run": "r1-b10",
+   "text": "86040 is a 촉석루 page and gives 09:00-18:00. The fortress itself is open 05:00-23:00/22:00 (75199 and the 의기사 page). This is not a contradiction, but the guide should keep the two hours separate. 86040 shows no update date, so its staleness cannot be checked"
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -171,6 +574,38 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b10",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 16,
+    "verdicts": {
+     "verified": 16,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 2
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "source_status",
+   "note": "진주시청(jinju.go.kr) 공식 사이트 접속 실패로 운영자 원문 대조를 못 했고 국가관광기관(VISITKOREA) 영문 페이지 기준임. 해당 페이지의 갱신일은 표시되지 않음.",
+   "run": "r1-b10"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b10"
  }
 }

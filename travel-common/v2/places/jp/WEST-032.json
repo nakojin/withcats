@@ -2,7 +2,7 @@
  "id": "WEST-032",
  "country": "jp",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "구마모토성",
   "local": "熊本城"
@@ -10,7 +10,7 @@
  "admin_region": "구마모토",
  "former_region": null,
  "city": "구마모토시",
- "address": null,
+ "address": "熊本市中央区本丸1-1 (구마모토성 관리센터 주소 기준)",
  "coord": {
   "lat": 32.805269,
   "lng": 130.705464,
@@ -21,93 +21,747 @@
   "osm": "way/375062710"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "구마모토성은 구마모토시 주오구 혼마루에 있는 성으로, 천수각은 외관 3중, 내부는 지상 6층 지하 1층 구조입니다.",
+ "description": "구마모토성은 구마모토시 주오구 혼마루에 있는 성으로, 천수각은 외관 3중, 내부는 지상 6층 지하 1층 구조입니다. 2016년 지진으로 천수각 기와와 샤치가와라가 떨어지고 석축이 무너지는 큰 피해를 입었으나 2021년 3월에 천수각이 완전히 복구되었습니다. 길이 242m의 나가베이도 볼거리이며, '제3의 천수'로 불리는 우토야구라는 해체된 상태로 복구 공사가 예정되어 있습니다. 개원 시간은 9~6월 9:00~17:00(최종 입장 16:00), 7~8월 9:00~19:00(최종 입장 18:00)입니다. 성인(고등학생 이상) 입장료는 800엔이며, 한국어를 포함한 5개 언어 팸플릿과 공식 사이트가 제공됩니다. 혼마루고텐 등 일부 구역은 복구 공사가 예정되어 출입이 제한됩니다.",
+ "highlights": [
+  "천수각: 외관 3중, 지상 6층 지하 1층이며 2021년 3월 완전 복구",
+  "나가베이: 직선 242m 길이의 긴 담장",
+  "우토야구라('제3의 천수')는 해체 후 복구 공사 예정",
+  "니노마루 주차장 등에서 이어지는 무료 셔틀버스(9:00~17:00)",
+  "한국어 포함 5개 언어 팸플릿과 공식 사이트 제공"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c1"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "좌표를 지도와 대조하지 않음.",
+     "detail": "location.coords",
+     "run": "r1-b14"
+    }
+   ]
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c14",
+    "r1-b14-c15",
+    "r1-b14-c16",
+    "r1-b14-c17",
+    "r1-b14-c18"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "역·정류장 도보/승차 시간이 공식 access 페이지에 없음(자동차 경로도 이미지로만 제공).",
+     "detail": "access.station_time",
+     "run": "r1-b14"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 안내 페이지에 소요시간 없음('allow ample time'만 있음)."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c2",
+    "r1-b14-c3"
+   ],
+   "gap": null
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c4"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "영문 info 페이지(https://castle.kumamoto-guide.jp/en/info/)는 휴원일을 12월 29일로 적지만 한국어 info 페이지(https://castle.kumamoto-guide.jp/ko/info/)에는 구마모토성 정기 휴원일 기재 없음(시청 전망로비 연말연시 휴일만 있음). 12월 29일 외 연말 휴원은 미확인.",
+     "detail": "closed_days.conflict",
+     "run": "r1-b14"
+    }
+   ]
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c5",
+    "r1-b14-c6",
+    "r1-b14-c7",
+    "r1-b14-c8"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 info 페이지는 특별공개 기준 안내와 2019년 배너가 남아 있어 갱신 여부 불명확. 페이지 갱신일 표기 없음. 영문 페이지 요금과 일치.",
+     "detail": "fees.stale_source",
+     "run": "r1-b14"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c9"
+   ],
+   "gap": null
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c10",
+    "r1-b14-c11"
+   ],
+   "gap": null
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c12",
+    "r1-b14-c13"
+   ],
+   "gap": null
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b14-c19",
+    "r1-b14-c20"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b14-c1",
+   "field": "location",
+   "text": "구마모토성 입장·관람 문의를 맡는 구마모토성 관리센터의 주소는 구마모토시 주오구 혼마루 1-1이다.",
+   "original_text": null,
+   "value": "1-1 Honmaru, Chuo-ku, Kumamoto City",
+   "verdict": "verified",
+   "verify_note": "Footer of /en/ says the Administration Management Center is at 1-1 Honmaru, Chuo-ku, Kumamoto City.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/en/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c2",
+   "field": "hours",
+   "text": "개원 시간은 9~6월 9:00~17:00(최종 입장 16:00), 7~8월 9:00~19:00(최종 입장 18:00)이다.",
+   "original_text": "정규 개원 시간은 9:00~17:00이고 최종 입장은 16:00이다.",
+   "value": "09:00-17:00, last admission 16:00",
+   "verdict": "corrected",
+   "verify_note": "/en/info/ shows only the regular season, 9-17. The Japanese /info/ page (Last-Modified 2026-04-30) adds the Jul-Aug 9:00-19:00 hours and says the Ninomaru ticket office sells tickets until 16:00 all year.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/en/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c3",
+   "field": "hours",
+   "text": "천수각 최종 입장 시간은 9~6월 오후 4시 30분, 7~8월 오후 6시 30분이다.",
+   "original_text": "천수각(본성 천수) 최종 입장 시간은 오후 4시 30분이다.",
+   "value": "16:30",
+   "verdict": "corrected",
+   "verify_note": "/ko/info/ gives only 16:30. The Japanese /info/ page gives 18:30 for Jul-Aug.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c4",
+   "field": "closed_days",
+   "text": "영문 안내 페이지에 적힌 휴원일은 12월 29일 하루이며, 악천후 시 공원이 닫힐 수 있다.",
+   "original_text": null,
+   "value": "Dec 29",
+   "verdict": "verified",
+   "verify_note": "/en/info/ lists December 29th and possible closure in severe weather. The Japanese page says the same.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/en/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c5",
+   "field": "fees",
+   "text": "입장료는 고등학생 이상 800엔(30명 이상 단체 640엔), 초·중학생 300엔(단체 240엔)이다.",
+   "original_text": null,
+   "value": "800/300 JPY",
+   "verdict": "verified",
+   "verify_note": "800 (640) and 300 (240) yen; the group rate applies to 30 or more people.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/en/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c6",
+   "field": "fees",
+   "text": "영문 페이지는 6세 미만 어린이를 무료로, 한국어 페이지는 미취학 아동을 무료로 안내한다.",
+   "original_text": null,
+   "value": "free (under 6 / preschool)",
+   "verdict": "verified",
+   "verify_note": "EN says 'Children under 6 years old Free'; KO says '미취학아동 무료'.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/en/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c7",
+   "field": "fees",
+   "text": "성(구마모토성)과 와쿠와쿠자 2개 시설 공통권은 고교생 이상 850엔, 초·중학생 300엔이고, 구마모토시립박물관을 더한 3개 시설권은 1,100엔/400엔이다.",
+   "original_text": null,
+   "value": "850/300; 1,100/400 JPY",
+   "verdict": "verified",
+   "verify_note": "KO calls it '구마모토 박물관'; EN calls it 'Kumamoto City Museum'.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://castle.kumamoto-guide.jp/en/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c8",
+   "field": "fees",
+   "text": "구마모토시 초·중학생, 장애인수첩 소지자, 65세 이상 구마모토 시민 등은 면제 대상이 될 수 있으며, 면제 대상도 창구에서 티켓을 받아야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "The list also includes holders of the 성주 어음 (城主手形). The Japanese page adds that exempt visitors must show ID.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c9",
+   "field": "reservation",
+   "text": "입장권은 공식 사이트에 링크된 외부 예약 사이트에서 사전 구매할 수 있으며, 매표소가 붐빌 수 있어 시간 여유가 필요하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "The advance-purchase link goes to the external site ars-kumamotojou.triplabo.jp. The ticket-office queue warning is on /ko/info/.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c10",
+   "field": "payment",
+   "text": "현금 외에 신용카드(VISA, MASTER, JCB, UnionPay, DINERS, AMEX, DISCOVER), 교통 IC카드·전자화폐(Edy, WAON, nanaco, iD, QUICPay), QR결제(WeChat Pay, Alipay, PayPay 등)를 쓸 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches both pages. The list also includes au PAY, d결제, 메루페이, 라쿠텐페이, BankPay, J-CoinPay and 유초Pay.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://castle.kumamoto-guide.jp/en/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c11",
+   "field": "payment",
+   "text": "결제 가능 카드 종류는 매표소마다 다르며, 발권기는 UnionPay와 DISCOVER를 받지 않는다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "EN: 'brands differ, according to the ticket Offices'; UnionPay and DISCOVER are not accepted at the vending machines.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/en/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c12",
+   "field": "language",
+   "text": "공식 사이트와 팸플릿은 일본어·영어·한국어·중국어 간체·번체로 제공된다.",
+   "original_text": null,
+   "value": "ja,en,ko,zh-Hans,zh-Hant",
+   "verdict": "verified",
+   "verify_note": "The pamphlets and the language menu each cover 5 languages.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/en/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c13",
+   "field": "language",
+   "text": "자원봉사 가이드(구마모토 요카토코 가이드 그룹)를 종합관광안내소에서 요청할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Requests are taken at the Tourist Information Center.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/en/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c14",
+   "field": "access",
+   "text": "구마모토역에서 성과 주변 시설을 도는 순환버스 '시로메구린'이 있고, 1일 승차권에는 각 시설 할인권이 붙는다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c15",
+   "field": "access",
+   "text": "사쿠라노바바 조사이엔, 남쪽 출구, 니노마루 주차장을 잇는 무료 셔틀버스가 9:00~17:00에 10~15분 간격으로 다닌다.",
+   "original_text": null,
+   "value": "09:00-17:00, every 10-15 min",
+   "verdict": "verified",
+   "verify_note": "The last bus leaves from Ninomaru.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c16",
+   "field": "parking",
+   "text": "니노마루 주차장은 승용차 210대·이륜차 약 10대 규모이며 승용차 요금은 2시간까지 400엔, 이후 1시간마다 200엔이다.",
+   "original_text": null,
+   "value": "400 JPY/2h, +200 JPY/h",
+   "verdict": "verified",
+   "verify_note": "Motorcycles: 100 yen for 2 hours, then 50 yen per hour.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c17",
+   "field": "parking",
+   "text": "니노마루 주차장 영업시간은 7~8월 8:00~20:30(최종 입고 19:30), 9~6월 8:00~18:30(최종 입고 17:30)이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c18",
+   "field": "parking",
+   "text": "승용차는 니노마루, 산노마루 제1·제2, 미야우치, 사쿠라노바바 관광교류시설 주차장을 이용할 수 있다. 버스 주차장은 예약이 필요하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Buses use Sakuranobaba bus parking and Sannomaru lot 1. Bus parking is booked through Bus Park Navi.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c19",
+   "field": "caution",
+   "text": "비 오는 날 바닥이 매우 미끄럽고, 혼잡 시 입장 제한이나 대기가 있을 수 있다. 천수각에는 반려동물을 데리고 들어갈 수 없고(보조견 제외), 유료 구역에서는 얼굴이 보이지 않는 케이지에 넣은 경우에만 실외 동반이 가능하다. 공원 내 화기 금지, 흡연은 니노마루 쉼터 옆·조사이엔 흡연소에서만 가능하다.",
+   "original_text": "비 오는 날 바닥이 매우 미끄럽고, 혼잡 시 입장이 제한될 수 있다. 반려동물 동반 불가(안내견 제외), 공원 내 화기 금지, 흡연은 지정 구역만 가능하다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "/ko/info/ says pets are not allowed at all. /en/info/ and the Japanese /info/ page (2026-04) allow pets in a closed carrier outdoors in ticketed areas. The KO page is outdated.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c20",
+   "field": "caution",
+   "text": "혼마루고텐은 출입 불가이며, 우토야구라·아카즈노몬·니시오테몬은 철거 상태로 복구 공사가 예정되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "/ko/about/ marks 혼마루고텐 출입 불가 (복구 공사 예정) and 우토야구라, 아카즈노몬 and 니시오테몬 as 철거 (복구 공사 예정).",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/about/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c21",
+   "field": "tip",
+   "text": "휠체어는 무료로 빌릴 수 있고(수량 한정), 유모차 사용이 가능하며 천수각에는 엘리베이터 3대가 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "EN says a helper must accompany wheelchair users and there are three elevators in the castle tower. One KO line says '동반자 불요', which is inconsistent with this.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://castle.kumamoto-guide.jp/en/info/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c22",
+   "field": "description",
+   "text": "천수각은 외관 3중, 내부는 지상 6층 지하 1층이며, 2021년 3월에 완전히 복구되었다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": null,
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/about/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c23",
+   "field": "description",
+   "text": "나가베이는 직선으로 242m 길이이고, 우토야구라는 3중 5층 지하 1층 구조로 '제3의 천수'로도 불린다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "우토야구라 is currently dismantled (see c20).",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/about/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-c24",
+   "field": "description",
+   "text": "2016년 지진으로 천수각 최상층 기와와 샤치가와라가 떨어지고 지하 석축이 무너지는 등 피해를 입었다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "The page says '지하실 석축의 붕락'.",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/ko/about/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-s1",
+   "field": "duration",
+   "text": "공식 모델 루트 기준 소요시간은 약 2시간(와쿠와쿠 코스), 약 3시간 30분~4시간(더 알기 코스), 약 4~5시간(느긋한 코스)이며 주변 시설 이용을 포함한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/info/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-s2",
+   "field": "ops.fees",
+   "text": "입장료 면제 대상자는 본인 확인이 가능한 증명서를 제시해야 하며, 최종 입장 시간까지 매표소에서 무료권을 받아야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/info/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-s3",
+   "field": "ops.fees",
+   "text": "고교생 이상 대상 연간 입장권은 1,600엔이며 니노마루 매표소에서 8:45~16:00에 판매한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/info/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  },
+  {
+   "cid": "r1-b14-s4",
+   "field": "ops.closed_days",
+   "text": "일본어 공식 페이지도 휴원일을 12월 29일로 안내하며, 악천후 시 휴원할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/info/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b14"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b14",
+   "text": "Hours: /en/info/ and /ko/info/ (no visible update date) give only 9:00-17:00. The Japanese /info/ page (HTTP Last-Modified 2026-04-30) also gives Jul-Aug hours of 9:00-19:00. The EN/KO pages are incomplete."
+  },
+  {
+   "run": "r1-b14",
+   "text": "Pets: /ko/info/ says no pets at all (guide dogs allowed). /en/info/ and the Japanese page allow pets in carriers outdoors in ticketed areas and on a leash in free areas. The KO page looks stale: it still uses '특별공개' wording and the home page banner reads '특별공개 2019.10.5 START'."
+  },
+  {
+   "run": "r1-b14",
+   "text": "Wheelchair rental locations differ: KO lists 조사이엔, 니노마루 주차장 and 방재관리센터; EN lists the four ticket offices; JA lists 니노마루, 북문 and 남문 ticket offices plus 와쿠와쿠자."
+  },
+  {
+   "run": "r1-b14",
+   "text": "Not found in two lookups: audio guide, walking time from the station (the access page shows it only as images), coordinates. None of the cited pages shows a visible update date."
+  }
+ ],
  "legacy": {
   "source": "japan-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -162,6 +816,47 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b14",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 24,
+    "verdicts": {
+     "verified": 21,
+     "corrected": 3,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 4
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "audio_guide",
+   "note": "오디오 가이드 언어 안내 없음(한국어 팸플릿·사이트만 확인).",
+   "run": "r1-b14"
+  },
+  {
+   "topic": "page_updated",
+   "note": "인용 페이지 모두 갱신일 표기 없음.",
+   "run": "r1-b14"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'입장 접수는 9:00~17:00(최종 입장 16:00)이고 천수각 최종 입장은 16:30' leaves out the Jul-Aug hours: 9:00-19:00, last entry 18:00, tower 18:30 (contradicts corrected c2/c3).",
+   "'3중 5층 지하 1층의 우토야구라도 볼거리입니다' presents the turret as something to see, but it is dismantled pending restoration (contradicts c20).",
+   "'우토야구라: 3중 5층 지하 1층 규모의 제3의 천수' is presented as a current sight, but the turret is dismantled (contradicts c20)."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b14"
  }
 }

@@ -1,0 +1,480 @@
+{
+ "places": [
+  {
+   "key": "kr-gangwon-gyeongpodae",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "visitkorea access page (수정일 2026.03.11) gives 강원특별자치도 강릉시 경포로 365 (저동). gn.go.kr gives the same street address under the old name 강원도."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "gn: 상시이용 가능. visitkorea: 상시 개방."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "visitkorea: 연중무휴. gn: 연중개방."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "gn: 입장료 무료, 시설이용료 없음."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "gn: 주차가능, 무료주차."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "visitkorea: 장애인 전용 주차구역, 주출입구 근처 지상주차장, 4면."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "visitkorea says this. It also says the approach to the entrance has no step and a wheelchair can reach it."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "visitkorea has all parts. gn confirms 보물 제2046호."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "visitkorea: 고려 충숙왕 13년 창건, 한차례 이건, 수차례 중수 기록."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "gn 관광팁 section."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "visitkorea 기본정보 section."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "gn 관광가이드 section."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Both pages give 033-640-5119."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "gn 관광가이드 section."
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [],
+   "conflicts": [
+    "gn.go.kr (no update date shown) says 장애인편의 없음. visitkorea access page (updated 2026-03-11) lists 장애인 전용 주차 4면 and 장애인 화장실 있음. Treat the gn line as stale and follow visitkorea.",
+    "gn.go.kr gives the address as 강원도 강릉시 경포로 365, a name used before 강원특별자치도 (2023). This looks like a stale source; record 강원도 as former_region.",
+    "gn.go.kr contradicts itself on size: 소개 says 정면 6칸·측면 5칸, 관광팁 says 정면 다섯 칸·측면 5칸. No claim uses this."
+   ]
+  },
+  {
+   "key": "kr-gyeonggi-suwon-hwaseong",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "suwon.go.kr (수정일 2026-06-16) gives 장안구 영화동 320-2 일원. Read via WebFetch because curl to suwon.go.kr failed at the proxy."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=68: 수원시 팔달구 정조로 825 (남창동). suwon.go.kr agrees."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=8: 1~12월 상시, 개방형이며 야간 관람 가능. suwon.go.kr agrees."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=8 and suwon.go.kr: 무료."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "suwon.go.kr: 연중무휴."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=8: 09:00~18:00, 입장마감은 관람시간 1시간 전."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=8 and suwon.go.kr (수정일 2026-06-05): 연중무휴."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2,000/1,500/1,000원. swcf and suwon.go.kr match."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Group of 20 or more: 1,500/1,200/800원."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Combined ticket for 3 sites, individual: 4,000/2,500/1,000원."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=8: free on last Wednesday of the month, 야간개장 excluded."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=8 면제 및 감면 table."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Multi-child families: Suwon residents only. Suwon youth: Fridays only, from 2024-09-01."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=392 and ?p=8: 2026.5.1~11.1, 금~일·공휴일, 18:00~21:30, 입장마감 21:00."
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "?p=392 also lists registered disabled people as free (grades 1~3 with one carer, grades 4~6 alone)."
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "suwon.go.kr (via WebFetch) mentions the festival dates 10.4~10.11. swcf: 기간은 재단 사정에 따라 변경될 수 있음. The festival window ends today (2026-10-11), so this caution expires now."
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=8 입장제한 list."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=69: 행궁로 18 (남창동 38-6), 24시간, 카드결제 전용, 총 212면, 대형 불가."
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=69: 매향동 3-17, 24시간, 카드결제 전용, 대형 17면, 122면."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "All lots charge, but the four public lots give the first 60 minutes free (see suggested claim)."
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=8 편의시설: 화성행궁 3면, 연무대 6면. ?p=69 instead lists 장애인 5면 at 화성행궁 (see conflicts)."
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=68."
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=68."
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=68."
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=8: 덕영대로 924, 09:00~18:00, 영어·중국어·일본어 통역 가능."
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=67: Odii audio guide made by 한국관광공사. Leaflet download in 한국어, English, 中國語, 日本語."
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "suwon.go.kr via WebFetch: 1794~1796, 정약용 설계, 1997 UNESCO."
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The suwon.go.kr intro says 576칸, but a later section of the same page says 567칸 (see conflicts). Restoration started 1996, opened 2003."
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=8 lists 8 해설 안내소, each open 10:00~17:00."
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "swcf ?p=8: 031-290-3600."
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "parking.fee",
+     "text": "화성행궁·연무대 주차장 요금은 소형차 기준 최초 30분 900원, 이후 10분마다 400원, 1일 주차권 14,000원이다. 화홍문·장안동·연무동·남수동 공영주차장은 최초 60분 무료이다.",
+     "url": "https://www.swcf.or.kr/?p=69"
+    },
+    {
+     "field": "access.subway",
+     "text": "수원역(1호선·분당선) 또는 매교역(분당선)에서 시내버스를 타고 화성행궁 정류장에서 내려 도보 약 5분이다. 매교역은 7번 출구에서 112·25·25-2·25-5번을 탄다.",
+     "url": "https://www.swcf.or.kr/?p=68"
+    },
+    {
+     "field": "language.korean_guide",
+     "text": "문화관광해설사의 한국어 해설은 10:00·11:00·13:30·14:30·15:30에 진행한다. 현장 신청은 4인 이상이다.",
+     "url": "https://www.swcf.or.kr/?p=404"
+    },
+    {
+     "field": "reservation",
+     "text": "20인 이상 단체 해설은 온라인으로 예약하며 방문일 7일 전에 마감한다. 예약이 몰리는 날은 현장 신청이 안 될 수 있다.",
+     "url": "https://www.swcf.or.kr/?p=404"
+    },
+    {
+     "field": "payment",
+     "text": "화성행궁·연무대 주차장은 카드 결제만 받는다. 야간개장 표는 화성행궁 매표소에서 판다.",
+     "url": "https://www.swcf.or.kr/?p=69"
+    }
+   ],
+   "conflicts": [
+    "suwon.go.kr 화성행궁 page (수정일 2026-06-05) says 576칸 in its intro and 567칸 in a later section. c28 uses 576.",
+    "Disabled parking at 화성행궁: swcf ?p=8 says 3면, swcf ?p=69 says 장애인 5면 (연무대 6면 on both).",
+    "swcf ?p=8 and ?p=404 give different addresses for the same guide booths: 장안문 is 장안동 1-1 vs 정조로905번길 16, 화홍문 is 북수동 33-4 vs 수원천로 377. No claim uses these."
+   ]
+  },
+  {
+   "key": "kr-gyeonggi-namhansanseong",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "ciIdx=1287: 남한산성로 731, [지번] 산성리 158-1."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "ciIdx=1274 (최종 수정일 2026-09-10): 2007년 1월 1일부로 입장요금 폐지."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Adult 2,000원, youth 1,000원."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Group of 30 or more: 1,600/800원."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The free list on ciIdx=1274 also has more groups than the claim names."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "4~10월 10:00~18:00, 11~3월 10:00~17:00."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Closed Mondays except public holidays. Ticket sales close 30 minutes before closing."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "ciIdx=1287 lists the paid lots inside the fortress and the free lots on the 광주 side."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Fees are paid on exit (후불). 20:00~09:00 and exit within 30 minutes are free."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Disabled drivers need both the vehicle sticker and a registration card. 저공해차 (not diesel) is also free."
+    },
+    {
+     "cid": "c11",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "The cited page (ciIdx=1287) covers driving only and has no 산성역 walking statement. The transit page (ciIdx=1286) gives a bus from 산성역 instead (see suggested claim)."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "ciIdx=1287. Page last updated 2024-10-23."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "ciIdx=1287. Page last updated 2024-10-23."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "ciIdx=1280. Page last updated 2024-10-24."
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Board post: 10:00~18:00, 입장마감 17:30. The post shows no date."
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Board post."
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Board post: 무료."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Board post: 남한산성로 812."
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "ciIdx=1263: 2014년 6월, 제38차 위원회, 12.4km. Page last updated 2024-03-19."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "ciIdx=1263: 주장성(672) 옛 터, 인조 4년(1626)."
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "031-8008-5155."
+    }
+   ],
+   "unsupported_in_description": [
+    "병자호란과 관련이 깊다 (ciIdx=1263 mentions 병자호란, but no claim covers it)"
+   ],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "access.bus",
+     "text": "지하철 8호선 산성역에서 52·9·9-1(휴일)번 버스를 타고 남한산성(종점)에서 내린다. 버스 구간은 약 26~43분이다. 모란역 2·3번 출구에서도 52·9번이 다닌다.",
+     "url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1286&menuId=3514"
+    }
+   ],
+   "conflicts": [
+    "Stale sources (last updated more than 12 months ago): ciIdx=1287 directions and caution (2024-10-23), ciIdx=1280 trail courses (2024-10-24), ciIdx=1263 heritage overview (2024-03-19). The fee and hours page ciIdx=1274 is current (2026-09-10). The transit page ciIdx=1286 (2025-10-29) is just under 12 months old."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 65,
+  "verified": 64,
+  "corrected": 0,
+  "outdated": 0,
+  "unverifiable": 1,
+  "rejected": 0,
+  "notes": [
+   "Fetch method: curl through the proxy kept failing for suwon.go.kr and most gg.go.kr pages. Those were read with WebFetch, which returns paraphrased or quoted extracts rather than raw HTML; all values checked matched. visitkorea, gn.go.kr, swcf.or.kr and ciIdx=1287 were read from raw curl output.",
+   "Only one claim fails: namhansanseong c11 cites a page that does not contain the 산성역 walking time. The transit page offers a bus route instead.",
+   "Gyeongpodae collector_unconfirmed items (access, duration, reservation, payment, language): no official source found. The only search lead was press and blog results, which are not usable as evidence.",
+   "Suwon collector_unconfirmed: duration and caution.construction were not found. Reservation, payment, parking fee, subway access and Korean guide were found as suggested_claims.",
+   "Namhansanseong collector_unconfirmed: the official fee page mentions no payment method, reservation or language service. Only parking is marked 후불."
+  ]
+ }
+}

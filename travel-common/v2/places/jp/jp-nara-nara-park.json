@@ -1,0 +1,534 @@
+{
+ "id": "jp-nara-nara-park",
+ "country": "jp",
+ "tier": "A",
+ "status": "verified",
+ "names": {
+  "ko": "나라 공원",
+  "local": "奈良公園"
+ },
+ "admin_region": "나라현 나라시",
+ "former_region": null,
+ "city": null,
+ "address": "Kasuga-cho, Nara City, Nara (奈良県奈良市 春日町)",
+ "coord": null,
+ "coord_note": "좌표 수집 대기",
+ "summary": "나라 공원은 나라시 동쪽에 펼쳐진 넓은 공원으로, 도다이지, 고후쿠지, 가스가타이샤, 나라국립박물관, 가스가야마 원시림을 품고 있습니다.",
+ "description": "나라 공원은 나라시 동쪽에 펼쳐진 넓은 공원으로, 도다이지, 고후쿠지, 가스가타이샤, 나라국립박물관, 가스가야마 원시림을 품고 있습니다. 1,000년 된 소나무가 있는 공원에서 야생 사슴 약 1,300마리가 무리 지어 다니며, 이 사슴은 가스가타이샤의 신성한 사슴으로 여겨집니다. 긴테쓰 나라역에서 걸어서 약 8분이고, 연중무휴로 언제나 무료로 입장할 수 있습니다. 사슴은 국가 천연기념물로 지정된 야생동물이므로 놀라게 하거나 사슴 센베이 외의 음식을 주지 말아야 하며, 공원 안에는 쓰레기통이 없으니 쓰레기는 가져가야 합니다.",
+ "highlights": [
+  "넓은 공원 안에 도다이지·고후쿠지·가스가타이샤가 모여 있음",
+  "야생 사슴 약 1,300마리가 무리 지어 생활",
+  "긴테쓰 나라역에서 도보 약 8분",
+  "연중무휴, 입장 무료",
+  "사슴에게는 사슴 센베이 외의 음식 금지, 쓰레기는 되가져가기"
+ ],
+ "checklist": {
+  "location": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c1"
+   ],
+   "gap": null
+  },
+  "access": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c6",
+    "r1-b18-c7",
+    "r1-b18-c8"
+   ],
+   "gap": null
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 소요시간 안내가 없음."
+   }
+  },
+  "hours": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c9"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "365일 개방이라는 기재만 있고 시간대 제한(야간 등)은 명시되지 않음.",
+     "detail": "hours.detail",
+     "run": "r1-b18"
+    }
+   ]
+  },
+  "closed_days": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c10"
+   ],
+   "gap": null
+  },
+  "fees": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c11"
+   ],
+   "gap": null
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 예약 필요 여부 기재가 없음(공원 자체는 상시 개방)."
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "입장이 무료이며 결제 수단 관련 공식 기재가 없음. 사슴 센베이 판매 가격·결제 방식도 미확인."
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공원 현장의 한국어 안내 여부에 대한 공식 기재를 찾지 못함."
+   }
+  },
+  "caution": {
+   "status": "filled",
+   "claims": [
+    "r1-b18-c12",
+    "r1-b18-c13",
+    "r1-b18-c14"
+   ],
+   "gap": null
+  }
+ },
+ "claims": [
+  {
+   "cid": "r1-b18-c1",
+   "field": "location",
+   "text": "나라 공원의 주소는 나라현 나라시 가스가초(Kasuga-cho, Nara City, Nara)로 안내된다.",
+   "original_text": null,
+   "value": "Kasuga-cho, Nara City, Nara",
+   "verdict": "verified",
+   "verify_note": "Address 'Kasuga-cho, Nara City, Nara'; map pin 34.685047,135.843012 not checked against OSM",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/spot/park/narakoen/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c2",
+   "field": "description",
+   "text": "공원은 나라시 동쪽에 펼쳐진 약 660헥타르 규모이다.",
+   "original_text": null,
+   "value": "약 660ha",
+   "verdict": "unverifiable",
+   "verify_note": "같은 관광협회의 두 공식 페이지가 660ha와 511.52ha로 달라 공개 보류(병합 시 처리). 원 노트: 'approximately 660 hectares, covers the eastern part of Nara City' (see conflict)",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/spot/park/narakoen/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c3",
+   "field": "highlight",
+   "text": "공원 안에 도다이지, 고후쿠지, 가스가타이샤, 나라국립박물관, 가스가야마 원시림이 포함된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/spot/park/narakoen/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c4",
+   "field": "highlight",
+   "text": "공원에는 약 1,300마리의 야생 사슴이 무리 지어 다니며, 1,000년 된 소나무도 있다.",
+   "original_text": null,
+   "value": "약 1,300마리",
+   "verdict": "verified",
+   "verify_note": "approx. 1,300 wild deer roam in herds; 1,000-year-old pine trees",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/spot/park/narakoen/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c5",
+   "field": "highlight",
+   "text": "이 사슴들은 가스가타이샤의 전설 속 신성한 사슴으로 여겨진다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'legendary divine deer of Kasugataisha Shrine'",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/spot/park/narakoen/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c6",
+   "field": "access",
+   "text": "긴테쓰 나라역에서 걸어서 약 8분이다.",
+   "original_text": null,
+   "value": "도보 약 8분",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/spot/park/narakoen/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c7",
+   "field": "access",
+   "text": "JR 나라역에서는 걸어서 약 20분이며, 나라 교통버스(시내 순환 외곽 노선) 약 7분을 타고 '겐초마에' 정류장에서 내릴 수도 있다.",
+   "original_text": null,
+   "value": "도보 약 20분 / 버스 약 7분",
+   "verdict": "verified",
+   "verify_note": "Bus 7 min to 'Kencho-mae' (see conflict)",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/spot/park/narakoen/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c8",
+   "field": "parking",
+   "text": "현립 주차장 등 주차장을 이용할 수 있다(요금은 해당 페이지에 없음).",
+   "original_text": null,
+   "value": "주차 가능",
+   "verdict": "verified",
+   "verify_note": "'Available (Prefectural Parking, etc.)', no fee",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/spot/park/narakoen/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c9",
+   "field": "hours",
+   "text": "나라 공원은 연중 365일 열려 있다.",
+   "original_text": null,
+   "value": "365일 개방",
+   "verdict": "verified",
+   "verify_note": "'open 365 days a year'",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/spot/park/narakoen/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c10",
+   "field": "closed_days",
+   "text": "정기 휴무일은 없고 연중 개방한다.",
+   "original_text": null,
+   "value": "휴무 없음",
+   "verdict": "verified",
+   "verify_note": "Closed: 'Open year-round'",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/spot/park/narakoen/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c11",
+   "field": "fees",
+   "text": "입장은 개인·단체 모두 무료이며 언제나 무료이다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "Individual and group free; 'admission is always free of charge'",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/spot/park/narakoen/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c12",
+   "field": "caution",
+   "text": "공원 안에는 쓰레기통이 없으므로 쓰레기는 모두 가져가야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/spot/park/narakoen/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c13",
+   "field": "caution",
+   "text": "사슴은 국가 천연기념물로 지정된 야생동물이며, 사슴 센베이를 주는 척하며 놀리거나 놀라게 하는 행동을 피해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/spot/park/narakoen/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c14",
+   "field": "caution",
+   "text": "사슴에게는 사슴 센베이 외의 것을 먹이로 주면 안 된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/spot/park/narakoen/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-c15",
+   "field": "tip",
+   "text": "문의처는 나라 공원 사무소(전화 0742-22-0375)이다.",
+   "original_text": null,
+   "value": "0742-22-0375",
+   "verdict": "verified",
+   "verify_note": "0742-22-0375 (Nara Park Office)",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/spot/park/narakoen/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-s1",
+   "field": "ops.hours",
+   "text": "나라 공원은 연중무휴 24시간 개방하며, 공원 안 시설과 사적의 운영시간은 각각 다르다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/feature/narapark",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-s2",
+   "field": "duration",
+   "text": "나라 공원을 충분히 즐기려면 최소 반나절을 잡는 것이 좋다고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/feature/narapark",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  },
+  {
+   "cid": "r1-b18-s3",
+   "field": "tip",
+   "text": "공원은 출입구가 따로 정해져 있지 않아 어느 곳에서나 자유롭게 드나들 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://narashikanko.or.jp/en/feature/narapark",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b18"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b18",
+   "text": "Area size: spot page (c2) says about 660 ha; the same association's Nara Park feature page says 511.52 ha. These need reconciling before publishing the 660 ha figure."
+  },
+  {
+   "run": "r1-b18",
+   "text": "Bus time from JR Nara Station: spot page says 7 min (city loop outer route to Kencho-mae); the feature page says 5 min in its intro and 10 min (East Exit No. 2 bus stop) in its basic info."
+  },
+  {
+   "run": "r1-b18",
+   "text": "Nara Prefecture park office site (pref.nara.lg.jp/site/park/) returned HTTP 408 twice, so parking fees are not confirmed."
+  }
+ ],
+ "legacy": null,
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": [
+   {
+    "run": "r1-b18",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 15,
+    "verdicts": {
+     "verified": 14,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 1,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.fee",
+   "note": "주차장 요금·대수는 인용한 페이지에 없음.",
+   "run": "r1-b18"
+  },
+  {
+   "topic": "address.detail",
+   "note": "해당 페이지는 'Kasuga-cho, Nara City' 수준의 주소만 제시하며 우편번호·번지는 없음.",
+   "run": "r1-b18"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "아름다운 잔디밭 (lawns are on the page but in no claim; c4 covers only deer and pines)"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b18"
+ }
+}

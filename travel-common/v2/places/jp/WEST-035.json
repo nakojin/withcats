@@ -2,7 +2,7 @@
  "id": "WEST-035",
  "country": "jp",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "긴린코",
   "local": "金鱗湖"
@@ -10,7 +10,7 @@
  "admin_region": "오이타",
  "former_region": null,
  "city": "유후시",
- "address": null,
+ "address": "大分県由布市湯布院町川上1561-1",
  "coord": {
   "lat": 33.26672,
   "lng": 131.369039,
@@ -21,93 +21,422 @@
   "osm": "way/162781794"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "긴린코는 둘레가 약 400m인 호수입니다.",
+ "description": "긴린코는 둘레가 약 400m인 호수입니다. 호수에 맑은 샘물과 온천수가 함께 흘러들어 물 온도가 일 년 내내 높고, 가을에서 겨울의 추운 이른 아침에는 호수 면에서 수증기가 피어오르는 풍경을 볼 수 있습니다. 이름은 1884년 유학자 모리 구소가 석양에 반짝이는 물고기 비늘을 보고 붙였다고 전해지며, 예전에는 '다케응시타 연못'이라 불렸습니다. 호숫가에는 산책로와 작은 잔교가 있고, 남동쪽에는 덴소 신사의 도리이가 있어 사진 명소로 꼽힙니다. 정기 휴무일은 없고, 전용 주차장이 없어 근처 유료 주차장을 이용해야 합니다. 오이타 자동차도 유후인 IC에서 차로 약 10분입니다.",
+ "highlights": [
+  "둘레 약 400m 산책로, 호수 위 작은 잔교",
+  "가을~겨울 이른 아침 호수 면에서 오르는 수증기(朝靄)",
+  "호수 남동쪽 덴소 신사 도리이",
+  "샘물과 온천수가 흘러들어 일 년 내내 수온이 높음",
+  "정기 휴무 없음, 유후인 IC에서 차로 약 10분"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b13-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b13-c2",
+    "r1-b13-c3",
+    "r1-b13-c4",
+    "r1-b13-c5"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "JR 유후인역에서 도보 시간이 출처마다 다르다: YUFUINFO(유후시 관광 공식 가이드) 도보 30분 https://yufuin.gr.jp/feature/feature-1981/ (2024-12-10 갱신) vs JNTO 25분 https://www.japan.travel/en/spot/712/ (코로나 시기 문구가 남은 페이지).",
+     "detail": "access.conflict",
+     "run": "r1-b13"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "권장 소요 시간을 안내한 공식 페이지를 찾지 못했다."
    }
   },
   "hours": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "긴린코 개방 시간을 안내하는 공식 페이지를 찾지 못했다(YUFUINFO, 오이타현 관광 사이트, 유후시, JNTO 모두 기재 없음)."
    }
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b13-c6"
+   ],
+   "gap": null
   },
   "fees": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "입장료 유무를 명시한 공식 문구가 없어 무료라고 쓰지 않았다."
    }
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "예약 필요 여부에 대한 공식 안내가 없다."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "결제 수단 관련 공식 안내가 없다."
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내판·가이드 유무를 확인하지 못했다. 오이타현 관광 사이트와 JNTO에는 한국어 페이지가 있으나 긴린코 현장 안내는 아님."
    }
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b13-c13"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "안전·금지 사항은 촬영 허가 문의 안내 외에 공식 출처에서 확인하지 못했다.",
+     "detail": "caution.safety",
+     "run": "r1-b13"
+    }
+   ]
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b13-c1",
+   "field": "location",
+   "text": "긴린코의 주소는 오이타현 유후시 유후인초 가와카미 1561-1이다.",
+   "original_text": null,
+   "value": "大分県由布市湯布院町川上1561-1",
+   "verdict": "verified",
+   "verify_note": "yufuin.gr.jp와 visit-oita 모두 일치",
+   "sources": [
+    {
+     "url": "https://yufuin.gr.jp/spot/spot-1268/",
+     "type": "official",
+     "page_updated": "2025-11-02",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.visit-oita.jp/spots/detail/4362",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c2",
+   "field": "access",
+   "text": "오이타 자동차도 유후인 IC에서 차로 약 10분이다.",
+   "original_text": null,
+   "value": "약 10분",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.visit-oita.jp/spots/detail/4362",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://yufuin.gr.jp/feature/feature-1981/",
+     "type": "official",
+     "page_updated": "2024-12-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c3",
+   "field": "access",
+   "text": "유후시 공식 관광 가이드는 JR 유후인역에서 도보 30분 정도로 안내한다.",
+   "original_text": null,
+   "value": "도보 약 30분",
+   "verdict": "verified",
+   "verify_note": "특집 기사 갱신일 2024-12-10(12개월 이상 지남)",
+   "sources": [
+    {
+     "url": "https://yufuin.gr.jp/feature/feature-1981/",
+     "type": "official",
+     "page_updated": "2024-12-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c4",
+   "field": "access",
+   "text": "일본정부관광국(JNTO) 영문 페이지는 JR 유후인역에서 도보 25분이라고 안내한다.",
+   "original_text": null,
+   "value": "도보 25분",
+   "verdict": "verified",
+   "verify_note": "Lake Kinrin is a 25-minute walk from that station",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/712/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c5",
+   "field": "parking",
+   "text": "전용 주차장은 안내되어 있지 않고 근처 유료 주차장을 이용하도록 되어 있다.",
+   "original_text": null,
+   "value": "근처 유료 주차장 이용",
+   "verdict": "verified",
+   "verify_note": "近隣の有料駐車場を利用 / 周辺に有料駐車場あり",
+   "sources": [
+    {
+     "url": "https://yufuin.gr.jp/spot/spot-1268/",
+     "type": "official",
+     "page_updated": "2025-11-02",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.visit-oita.jp/spots/detail/4362",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c6",
+   "field": "closed_days",
+   "text": "정기 휴무일은 없다.",
+   "original_text": null,
+   "value": "없음",
+   "verdict": "verified",
+   "verify_note": "定休日 なし",
+   "sources": [
+    {
+     "url": "https://yufuin.gr.jp/spot/spot-1268/",
+     "type": "official",
+     "page_updated": "2025-11-02",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c7",
+   "field": "description",
+   "text": "호수 둘레는 약 400m이며 산책로가 정비되어 있고 작은 잔교가 몇 곳 놓여 있다.",
+   "original_text": null,
+   "value": "약 400m",
+   "verdict": "verified",
+   "verify_note": "1周400ｍほど, 小さな桟橋がいくつか",
+   "sources": [
+    {
+     "url": "https://yufuin.gr.jp/feature/feature-1981/",
+     "type": "official",
+     "page_updated": "2024-12-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c8",
+   "field": "description",
+   "text": "호수에는 샘물과 온천수가 모두 흘러들어 일 년 내내 수온이 높고, 늦가을~겨울 추운 날에는 호수 면에서 수증기가 올라온다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "시청 페이지는 '라고 한다(と言われ)'는 전언형이고 시기를 '冬の早朝'로 적음",
+   "sources": [
+    {
+     "url": "https://yufuin.gr.jp/feature/feature-1981/",
+     "type": "official",
+     "page_updated": "2024-12-10",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.city.yufu.oita.jp/kankou/kankou-2/kankou_cate1_1/kinrinko",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c9",
+   "field": "description",
+   "text": "1884년(메이지 17) 유학자 모리 구소가 석양에 반짝이는 물고기 비늘을 보고 '긴린코'라 이름 붙였다고 전해지며, 그전에는 '다케응시타응이케(岳ん下ん池)'라 불렸다.",
+   "original_text": null,
+   "value": "1884",
+   "verdict": "verified",
+   "verify_note": "두 페이지 모두 1884년(明治17年) 毛利空桑. 시청 페이지는 '明治初期'로 적음",
+   "sources": [
+    {
+     "url": "https://yufuin.gr.jp/spot/spot-1268/",
+     "type": "official",
+     "page_updated": "2025-11-02",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.visit-oita.jp/spots/detail/4362",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c10",
+   "field": "highlight",
+   "text": "호수 남동쪽에 있는 덴소 신사의 도리이가 호수 위에 떠 있는 듯 보여 인기 촬영 포인트이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "天祖神社 도리이",
+   "sources": [
+    {
+     "url": "https://yufuin.gr.jp/feature/feature-1981/",
+     "type": "official",
+     "page_updated": "2024-12-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c11",
+   "field": "highlight",
+   "text": "추운 날 이른 아침이 수증기를 보기 좋은 시간대로 추천된다.",
+   "original_text": null,
+   "value": "이른 아침",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://yufuin.gr.jp/feature/feature-1981/",
+     "type": "official",
+     "page_updated": "2024-12-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c12",
+   "field": "tip",
+   "text": "문의처는 유후시 투어리스트 인포메이션 센터(전화 0977-84-2446)이다.",
+   "original_text": null,
+   "value": "0977-84-2446",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.visit-oita.jp/spots/detail/4362",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  },
+  {
+   "cid": "r1-b13-c13",
+   "field": "caution",
+   "text": "촬영·사용 허가 문의는 유후시가 받지 않으며 토지 소유자에게 직접 문의해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.city.yufu.oita.jp/kankou/kankou-2/kankou_cate1_1/kinrinko",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b13"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b13",
+   "text": "도보 시간: 유후시 공식 관광 가이드(yufuin.gr.jp 특집, 2024-12-10 갱신)는 JR 유후인역에서 약 30분, JNTO(갱신일 표기 없음)는 25분."
+  },
+  {
+   "run": "r1-b13",
+   "text": "stale_source: yufuin.gr.jp/feature/feature-1981/은 2024-12-10 갱신으로 12개월 이상 지남. visit-oita 소개문은 '(2022.11)' 표기로 12개월 이상 지남."
+  },
+  {
+   "run": "r1-b13",
+   "text": "명명 연대: 시청 페이지는 '明治初期', 관광 페이지 두 곳은 1884년(明治17年)."
+  },
+  {
+   "run": "r1-b13",
+   "text": "hours·fees·reservation·payment·language 등: visit-oita가 링크한 yufu-tic.jp/shiori/444/를 열었으나 금린코 정보가 없어(홈 내용만 나옴) 찾지 못함."
+  }
+ ],
  "legacy": {
   "source": "japan-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -163,6 +492,41 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b13",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 13,
+    "verdicts": {
+     "verified": 13,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 0
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.fee",
+   "note": "근처 유료 주차장의 위치·요금을 안내한 공식 페이지를 찾지 못했다.",
+   "run": "r1-b13"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "긴린코는 유후인을 대표하는 관광 명소로 (출처에는 있으나 뒷받침하는 claim이 없음)",
+   "호수 위 잔교에서 수면에 비친 풍경 감상: c7은 잔교만 뒷받침하고 수면 반영(리플렉션)은 claim에 없음"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b13"
  }
 }

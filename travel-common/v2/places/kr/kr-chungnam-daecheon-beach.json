@@ -2,7 +2,7 @@
  "id": "kr-chungnam-daecheon-beach",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "보령 대천해수욕장",
   "local": "보령 대천해수욕장"
@@ -10,7 +10,7 @@
  "admin_region": "충청남도",
  "former_region": null,
  "city": "충남 보령시 머드로 123 일대",
- "address": null,
+ "address": "충청남도 보령시 머드로 123",
  "coord": {
   "lat": 36.31134,
   "lng": 126.51272,
@@ -21,93 +21,345 @@
   "osm": "way/591698660"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "대천해수욕장은 충청남도 보령시 머드로 123 일대에 있는 서해안 최대 해변으로, 백사장 길이 3.5km에 폭 100m이며 경사가 완만하고 모래가 깨끗하다.",
+ "description": "대천해수욕장은 충청남도 보령시 머드로 123 일대에 있는 서해안 최대 해변으로, 백사장 길이 3.5km에 폭 100m이며 경사가 완만하고 모래가 깨끗하다. 노을광장과 머드광장 두 구역으로 나뉘고 다보도 너머로 지는 노을이 특히 아름답다. 해마다 보령머드축제가 열리며, 해변 끝의 보령머드체험관에서는 머드 사우나, 머드 온돌방, 머드팩, 머드 마사지를 할 수 있다. 대천 집트렉과 바다 위 레일바이크인 스카이바이크도 즐길 수 있고, 주차와 화장실이 마련되어 있다. 문의 전화는 041-930-6810이다.",
+ "highlights": [
+  "서해안 최대 해수욕장, 백사장 길이 3.5km 폭 100m",
+  "다보도 너머로 지는 노을이 특히 아름다움",
+  "노을광장과 머드광장 두 구역, 해마다 보령머드축제",
+  "해변 끝 보령머드체험관에서 머드 사우나·머드팩·머드 마사지",
+  "대천 집트렉과 스카이바이크(바다 위 레일바이크)"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b10-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b10-c2"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "official_unreachable",
+     "note": "가까운 역·정류장, 도보·차량 시간을 공식 페이지에서 찾지 못함. 보령시청/beach.brcn.go.kr/daecheonbeach.kr 접속이 계속 실패(연결 거부·503).",
+     "detail": "access",
+     "run": "r1-b10"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 소요시간 안내 없음."
    }
   },
   "hours": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "해수욕장 개장 기간·이용시간 공식 확인 불가(비공식 기사만 있고 연도별로 다름)."
    }
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 확인 불가."
    }
   },
   "fees": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "해수욕장 입장료 무료 여부를 명시한 공식 문구를 찾지 못해 무료로 단정하지 않음."
    }
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 확인 불가."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 확인 불가."
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내 외 외국어 안내·1330 연계 등 해수욕장 자체 정보 확인 불가."
    }
   },
   "caution": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "수영 가능 시기, 안전 수칙, 혼잡 시기를 보령시 공식 페이지에서 확인하지 못함."
    }
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b10-c1",
+   "field": "location",
+   "text": "대천해수욕장의 도로명 주소는 충청남도 보령시 머드로 123이다.",
+   "original_text": null,
+   "value": "충청남도 보령시 머드로 123",
+   "verdict": "verified",
+   "verify_note": "105704 address and the access page agree: 머드로 123. The 105704 intro text also says 'area around Haesuyokjang 4-gil'",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c2",
+   "field": "parking",
+   "text": "주차가 가능하다고 안내되어 있다(주차 요금·면수는 해당 페이지에 없음).",
+   "original_text": null,
+   "value": "가능",
+   "verdict": "verified",
+   "verify_note": "105704: Parking Available, no fee given",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c3",
+   "field": "tip",
+   "text": "해수욕장 시설로 화장실이 안내되어 있고 문의 전화는 +82-41-930-6810(보령시 해수욕장경영과)이다.",
+   "original_text": null,
+   "value": "041-930-6810",
+   "verdict": "verified",
+   "verify_note": "105704: Restroom, +82-41-930-6810. Access page: 보령시 해수욕장경영과 041-930-6810",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://access.visitkorea.or.kr/opentour/detail.do?cotId=7d7bd27c-9d19-443b-adb6-6867c21e15dc",
+     "type": "national_tourism",
+     "page_updated": "2024-07-02",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c4",
+   "field": "description",
+   "text": "서해안에서 가장 큰 해수욕장으로, 백사장 길이 3.5km, 폭 100m이며 경사가 완만하고 모래가 깨끗하다.",
+   "original_text": null,
+   "value": "3.5km x 100m",
+   "verdict": "verified",
+   "verify_note": "105704: largest beach on West Sea, 3.5km x 100m, gentle slope, clean sand",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c5",
+   "field": "highlight",
+   "text": "다보도 너머로 지는 노을이 특히 아름답다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "105704: sunset over Dabodo Island",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c6",
+   "field": "highlight",
+   "text": "해변은 노을광장과 머드광장 두 구역으로 나뉘며, 해마다 보령머드축제가 열린다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "105704: Sunset Plaza / Mud Plaza; Boryeong Mud Festival annually",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c7",
+   "field": "highlight",
+   "text": "해변 끝의 보령머드체험관에서 머드 사우나, 머드 온돌방, 머드팩, 머드 마사지를 이용할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "105704: mud sauna, mud ondol room, mudpack, mud massage",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c8",
+   "field": "highlight",
+   "text": "대천 집트렉과, 대천해변과 대천항 위를 지나는 바다 위 레일바이크 스카이바이크가 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "105704: zip trekking; Sky Bike over Daecheon Beach and Daecheon Port",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c9",
+   "field": "tip",
+   "text": "공식 누리집으로 daecheonbeach.kr 와 보령 문화관광 사이트(brcn.go.kr/tour.do)가 안내되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Access page lists daecheonbeach.kr and brcn.go.kr/tour.do",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/opentour/detail.do?cotId=7d7bd27c-9d19-443b-adb6-6867c21e15dc",
+     "type": "national_tourism",
+     "page_updated": "2024-07-02",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-c10",
+   "field": "tip",
+   "text": "해변에는 장애인 주차장과 장애인 화장실, 촉지형 종합안내판, 점자가이드북 등이 갖춰져 있으며 열린관광지로 소개되어 있다.",
+   "original_text": "해변에는 장애인 주차장과 장애인 화장실이 조성되어 있고 2016년 열린관광지로 지정되었다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "The page does not say Daecheon was designated in 2016. It only says the pamphlet covers '열린관광지 11개소(2015, 2016년)'. Year removed",
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/opentour/detail.do?cotId=7d7bd27c-9d19-443b-adb6-6867c21e15dc",
+     "type": "national_tourism",
+     "page_updated": "2024-07-02",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  },
+  {
+   "cid": "r1-b10-s1",
+   "field": "access",
+   "text": "대천관광협회 안내에 따르면 용산역에서 새마을호·무궁화호로 대천역까지 약 2시간 19분~2시간 45분 걸리며, 서울 동서울터미널·남부터미널에서 고속버스(약 2시간 50분~3시간)가 다닌다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://daecheonbeach.kr/home/beach/02",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b10"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b10",
+   "text": "The access.visitkorea 열린관광지 page was last modified 2024.07.02, more than 12 months ago (stale_source). Its fees, hours and opening period are absent"
+  },
+  {
+   "run": "r1-b10",
+   "text": "daecheonbeach.kr is run by (사)대천관광협회 (an association, not the city). It says the beach has 3 zones (시민탑광장·머드광장·분수광장), while VISITKOREA and the access page say 2 zones (노을광장·머드광장). The directions page shows train fares (새마을 17,400원, 무궁화 11,700원) that look stale. Fares were left out of the suggested claim; mark basis as operator/association"
+  },
+  {
+   "run": "r1-b10",
+   "text": "brcn.go.kr/tour.do: curl connection reset, unreachable. Lookups used: brcn.go.kr plus daecheonbeach.kr. Parking fee, opening period/hours, safety rules and fees are still unconfirmed"
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -196,6 +448,45 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b10",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 10,
+    "verdicts": {
+     "verified": 9,
+     "corrected": 1,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 1
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.fee",
+   "note": "주차 요금·면수·주차장 위치 공식 확인 불가.",
+   "run": "r1-b10"
+  },
+  {
+   "topic": "source_status",
+   "note": "운영자(보령시) 페이지 접속 실패. 위 claim은 VISITKOREA 영문 페이지(갱신일 미표시)와 무장애 관광정보 페이지(수정일 2024-07-02, 12개월 초과 stale_source) 기준. 현재 주소 표기는 '충청남도 보령시'.",
+   "run": "r1-b10"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "노을광장과 머드광장 두 구역, 여름마다 보령머드축제 - the source says only '해마다/annually'. It says each zone offers different things in summer, but never that the festival is held in summer"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b10"
  }
 }
