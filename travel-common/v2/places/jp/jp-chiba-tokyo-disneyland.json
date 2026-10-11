@@ -1,0 +1,499 @@
+{
+ "id": "jp-chiba-tokyo-disneyland",
+ "country": "jp",
+ "tier": "A",
+ "status": "verified",
+ "names": {
+  "ko": "도쿄 디즈니랜드",
+  "local": "東京ディズニーランド"
+ },
+ "admin_region": "지바현 우라야스시",
+ "former_region": null,
+ "city": null,
+ "address": "1-1 Maihama, Urayasu-shi, Chiba-ken",
+ "coord": null,
+ "coord_note": "좌표 수집 대기",
+ "summary": "도쿄 디즈니랜드는 도쿄 디즈니 리조트 안에 있는 테마파크로, 이름과 달리 도쿄가 아니라 지바현 우라야스시에 있다.",
+ "description": "도쿄 디즈니랜드는 도쿄 디즈니 리조트 안에 있는 테마파크로, 이름과 달리 도쿄가 아니라 지바현 우라야스시에 있다. 미국 밖에서 처음 문을 연 디즈니 테마파크이며, 월드 바자회를 비롯해 어드벤처랜드·웨스턴랜드·판타지랜드·투모로랜드 등 여러 테마 구역으로 이루어져 있다. 스페이스 마운틴, 캐리비안의 해적, 빅 썬더 마운틴, 해운티드 맨션 같은 어트랙션과 일본에서만 즐길 수 있는 어트랙션이 있다. 밤에는 일렉트릭 퍼레이드 드림라이츠가 연중 열린다. JR 게이요선 마이하마역에서 걸어서 몇 분이며, 도쿄역에서 JR로 마이하마역까지 20분 걸린다.",
+ "highlights": [
+  "미국 밖에서 처음 개장한 디즈니 테마파크",
+  "월드 바자회 등 여러 테마 구역과 일본 파크 한정 어트랙션",
+  "스페이스 마운틴·캐리비안의 해적·빅 썬더 마운틴·해운티드 맨션",
+  "야간 일렉트릭 퍼레이드 드림라이츠(연중 개최)",
+  "JR 마이하마역에서 도보 몇 분, 도쿄역에서 JR 20분"
+ ],
+ "checklist": {
+  "location": {
+   "status": "filled",
+   "claims": [
+    "r1-b16-c1",
+    "r1-b16-c2"
+   ],
+   "gap": null
+  },
+  "access": {
+   "status": "filled",
+   "claims": [
+    "r1-b16-c3",
+    "r1-b16-c4",
+    "r1-b16-c5",
+    "r1-b16-c6",
+    "r1-b16-c7",
+    "r1-b16-c8"
+   ],
+   "gap": null
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 소요시간 안내를 찾지 못함."
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "운영 주체 공식 사이트(tokyodisneyresort.jp)가 수집 환경에서 응답하지 않아(연결 후 빈 응답/타임아웃, curl·WebFetch 모두 실패) 일별 운영시간을 확인하지 못함."
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "공식 사이트 접속 불가로 확인하지 못함."
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "공식 사이트 접속 불가. 입장권 요금·연령 구분·무료 대상 확인하지 못함(무료 여부도 불명)."
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "공식 사이트 접속 불가. 티켓 사전 구매·입장 예약 방식 확인하지 못함."
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "공식 사이트 접속 불가. 결제 수단 확인하지 못함."
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "공식 사이트 접속 불가. 한국어 안내·한국어 지원 확인하지 못함."
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "공식 사이트 접속 불가로 이용 규칙·혼잡 시기 안내 확인하지 못함."
+   }
+  }
+ },
+ "claims": [
+  {
+   "cid": "r1-b16-c1",
+   "field": "location",
+   "text": "도쿄 디즈니 리조트(도쿄 디즈니랜드·디즈니씨·이크스피아리 포함)의 주소는 1-1 Maihama, Urayasu-shi, Chiba-ken이다.",
+   "original_text": null,
+   "value": "1-1 Maihama, Urayasu-shi, Chiba-ken",
+   "verdict": "verified",
+   "verify_note": "JNTO page shows the address '1-1 Maihama, Urayasu-shi, Chiba-ken'. The page has no update date.",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c2",
+   "field": "location",
+   "text": "'도쿄' 디즈니 리조트라는 이름과 달리 파크는 도쿄만 건너편 지바현 우라야스시에 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "JNTO: 'actually located in Urayasu, Chiba Prefecture, right around the bay from Tokyo'.",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c3",
+   "field": "access",
+   "text": "도쿄 디즈니랜드, 디즈니씨, 이크스피아리는 JR 게이요선 마이하마역에서 걸어서 몇 분 거리이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "JNTO: 'just a few minutes walk from JR Maihama Station on the Keiyo Line'.",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c4",
+   "field": "access",
+   "text": "도쿄역에서 JR로 마이하마역까지 20분, 파크 입구까지 버스로 35분 걸린다.",
+   "original_text": null,
+   "value": "JR 20분 / 버스 35분",
+   "verdict": "verified",
+   "verify_note": "Matches GO TOKYO, but that page says 'Updated: June 6, 2024', which is more than 12 months old.",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+     "type": "government",
+     "page_updated": "2024-06-06",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c5",
+   "field": "access",
+   "text": "신주쿠역에서 JR로 마이하마역까지 40분, 파크 입구까지 버스로 50분 걸린다.",
+   "original_text": null,
+   "value": "JR 40분 / 버스 50분",
+   "verdict": "verified",
+   "verify_note": "Matches GO TOKYO (stale page, June 2024).",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+     "type": "government",
+     "page_updated": "2024-06-06",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c6",
+   "field": "access",
+   "text": "하네다공항에서 JR로 마이하마역까지 50분, 파크 입구까지 버스로 45분 걸린다.",
+   "original_text": null,
+   "value": "JR 50분 / 버스 45분",
+   "verdict": "verified",
+   "verify_note": "Matches GO TOKYO (stale page, June 2024).",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+     "type": "government",
+     "page_updated": "2024-06-06",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c7",
+   "field": "access",
+   "text": "나리타공항에서 JR로 마이하마역까지 1시간 20분, 파크 입구까지 버스로 1시간 걸린다.",
+   "original_text": null,
+   "value": "JR 1시간20분 / 버스 1시간",
+   "verdict": "verified",
+   "verify_note": "Matches GO TOKYO (stale page, June 2024).",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+     "type": "government",
+     "page_updated": "2024-06-06",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c8",
+   "field": "access",
+   "text": "도쿄역에서 파크까지 가는 직행 버스가 있고, 공항에서도 버스로 파크에 바로 갈 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "JNTO: 'directly from Tokyo Station by bus' and 'directly accessible from the airport by bus'.",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c9",
+   "field": "description",
+   "text": "도쿄 디즈니랜드는 미국 밖에서 처음 문을 연 디즈니 테마파크이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Stated on both JNTO and GO TOKYO.",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c10",
+   "field": "description",
+   "text": "도쿄 디즈니랜드에는 어드벤처랜드, 웨스턴랜드, 판타지랜드, 투모로랜드, 크리터 컨트리, 미키의 툰타운, 월드 바자회 등의 구역이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "JNTO lists these 7 areas. GO TOKYO says 'eight themed lands' (see conflicts).",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c11",
+   "field": "description",
+   "text": "스페이스 마운틴, 캐리비안의 해적, 빅 썬더 마운틴, 해운티드 맨션 같은 어트랙션이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Stated on JNTO.",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c12",
+   "field": "description",
+   "text": "스타 투어스, 몬스터 주식회사 '라이드&고 시크!', 푸우의 허니 헌트 같은 어트랙션도 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "JNTO names 'Star Tours: The Adventures Continue', 'Monsters, Inc. Ride & Go Seek!' and \"Pooh's Hunny Hunt\".",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c13",
+   "field": "description",
+   "text": "도쿄 디즈니랜드·디즈니씨에는 일본 디즈니 파크에서만 즐길 수 있는 어트랙션과 체험이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "JNTO: 'attractions and experiences that are unique to Japan's Disney parks'.",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c14",
+   "field": "description",
+   "text": "밤에는 '도쿄 디즈니랜드 일렉트릭 퍼레이드 드림라이츠'가 열리며, 퍼레이드는 연중 진행된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "JNTO writes 'Electric Parade Dreamlights ... takes place year-round'. The page is undated, and the year-round schedule could not be checked against the operator because tokyodisneyresort.jp timed out.",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c15",
+   "field": "highlight",
+   "text": "월드 바자회는 도쿄 디즈니랜드에만 있는 완전히 독자적인 구역이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "JNTO: 'World Bazaar, which is totally original to Tokyo Disneyland'.",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-s1",
+   "field": "duration",
+   "text": "JNTO는 도쿄 디즈니랜드와 디즈니씨에서 각각 하루씩 보내고, 두 파크를 모두 즐기려면 여러 날 머무르기를 권한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b16",
+   "text": "Area count: JNTO says Tokyo Disneyland 'has seven areas', but GO TOKYO (updated 2024-06-06) says 'eight themed lands'. The operator site could not be reached, so the count stays unconfirmed."
+  },
+  {
+   "run": "r1-b16",
+   "text": "GO TOKYO page (source for c4-c7) was last updated 2024-06-06, more than 12 months ago (stale_source)."
+  },
+  {
+   "run": "r1-b16",
+   "text": "JNTO spot page shows no update date."
+  },
+  {
+   "run": "r1-b16",
+   "text": "Operator site tokyodisneyresort.jp (/kr/, /kr/ticket/, /en/) timed out with both curl and WebFetch. Two lookups were made per item, so hours, closed days, fees, reservation, payment, parking, language and caution remain unconfirmed."
+  }
+ ],
+ "legacy": null,
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": [
+   {
+    "run": "r1-b16",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 15,
+    "verdicts": {
+     "verified": 15,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 1
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "공식 사이트 접속 불가. 주차장 이용 여부와 요금 확인하지 못함.",
+   "run": "r1-b16"
+  },
+  {
+   "topic": "description.area_count",
+   "note": "구역 수가 JNTO 페이지는 7개 구역을 열거하고 GO TOKYO 페이지는 8개 테마 구역이라고 하여 불일치(https://www.japan.travel/en/spot/1556/ vs https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html). 개수는 설명에서 뺌.",
+   "run": "r1-b16"
+  },
+  {
+   "topic": "stale_source",
+   "note": "GO TOKYO 페이지 갱신일 2024-06-06(12개월 초과). JNTO 페이지는 갱신일 표기 없음. 접근 소요시간은 공식 운영사 페이지로 재확인 필요.",
+   "run": "r1-b16"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b16"
+ }
+}

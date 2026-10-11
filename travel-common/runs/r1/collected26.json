@@ -1,0 +1,870 @@
+[
+ {
+  "key": "bj-summer-palace",
+  "name_ko": "이화원",
+  "name_local": "颐和园",
+  "admin_region": "베이징시 하이뎬구",
+  "address": "北京市海淀区新建宫门路19号",
+  "description": "이화원은 중국에 현존하는 가장 큰 규모의 황실 정원으로, 베이징 하이뎬구에 있으며 면적은 약 290헥타르입니다. 쿤밍호와 만수산을 바탕으로 항저우 서호 풍경을 본떠 만들었고, 1750년에 짓기 시작해 1764년에 완공되었습니다. 지하철 4호선 베이궁먼역에서 내리면 바로 닿고, 권장 관람 시간은 약 3시간입니다. 성수기(4월 1일~10월 31일)에는 6시에 문을 열어 19시까지 입장할 수 있으며 입장권은 성수기 30위안, 비수기 20위안입니다. 불향각·덕화원·이화원박물관·쑤저우제는 원중원으로 따로 입장권이 필요하고 월요일에 문을 닫습니다. 60세 이상 외국인은 여권을 보여 주면 무료로 입장할 수 있습니다.",
+  "highlights": [
+   "중국 현존 최대 규모의 황실 정원, 면적 약 290헥타르",
+   "쿤밍호와 만수산을 바탕으로 항저우 서호를 본떠 조성",
+   "지하철 4호선 베이궁먼역 하차 즉시 도착",
+   "성수기 6:00~20:00 운영(19:00 입장 마감), 입장권 30위안",
+   "원중원(불향각·덕화원·박물관·쑤저우제)은 월요일 휴무",
+   "60세 이상 외국인은 여권으로 무료 입장"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "공식 관광 포털에 실린 이화원의 주소는 베이징시 하이뎬구 신젠궁먼루 19호이다.",
+    "value": "北京市海淀区新建宫门路19号",
+    "evidence": "地址: 北京市海淀区新建宫门路19号",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "이화원은 베이징 도심에서 15km 떨어진 하이뎬구에 있으며 면적은 약 290헥타르이다.",
+    "value": "15km / 약 290ha",
+    "evidence": "位于北京市海淀区，距北京城区十五公里，占地约二百九十公顷",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "지하철 4호선을 타고 베이궁먼(北宫门)역에서 내리면 이화원에 바로 닿는다.",
+    "value": null,
+    "evidence": "乘地铁四号线，北宫门下车即到（北宫门）",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "지하철 4호선 시위안(西苑)역에서 내려 퉁칭제를 따라 서쪽으로 500m 걸으면 동문(정문)에 도착한다.",
+    "value": "500m",
+    "evidence": "在西苑下车，经由同庆街西行500米到达颐和园东宫门（正门）",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "duration",
+    "text": "권장 관람 시간은 3시간이다.",
+    "value": "3시간",
+    "evidence": "推荐游览时长: 3小时",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "hours",
+    "text": "성수기(4월 1일~10월 31일)에는 6:00에 개원하고 19:00에 입장을 마감하며 20:00에 폐원한다.",
+    "value": "6:00/19:00/20:00",
+    "evidence": "旺季（4月1日-10月31日）：6:00开园，19:00停止入园，20:00闭园",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "비수기(11월 1일~3월 31일)에는 6:30에 개원하고 18:00에 입장을 마감하며 19:00에 폐원한다.",
+    "value": "6:30/18:00/19:00",
+    "evidence": "每日将于6:30开园，18:00停止入园，19:00闭园",
+    "sources": [
+     {
+      "url": "https://gygl.beijing.gov.cn/xxgk/xxgk_gyxx/202311/t20231116_3303366.html",
+      "type": "government",
+      "page_updated": "2023-11-01"
+     },
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "hours",
+    "text": "불향각·덕화원·이화원박물관·쑤저우제는 성수기 8:00 개문~18:00 폐문, 비수기 8:30 개문~17:00 폐문이다.",
+    "value": "성수기 8:00-18:00 / 비수기 8:30-17:00",
+    "evidence": "旺季（4月1日-10月31日）：8:00开门，18:00关门",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "hours",
+    "text": "셰취위안·지칭쉬안·양윈쉬안·이서우탕·위란탕·이윈관·러서우탕·화중유·난후다오 내 원락·겅즈투 수조학당도 성수기 8:00~18:00, 비수기 8:30~17:00에 운영한다.",
+    "value": "성수기 8:00-18:00 / 비수기 8:30-17:00",
+    "evidence": "谐趣园、霁清轩、养云轩、益寿堂、玉澜堂、宜芸馆、乐寿堂、画中游、南湖岛内院落、耕织图水操学堂",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "closed_days",
+    "text": "덕화원·불향각·박물관·쑤저우제 4개 원중원과 지칭쉬안·양윈쉬안·이서우탕·난후다오 내 원락·겅즈투 수조학당 등은 법정 공휴일을 제외하고 월요일에 문을 닫는다.",
+    "value": "월요일(법정공휴일 제외)",
+    "evidence": "除法定节假日外，德和园、佛香阁、博物馆、苏州街 4 处园中园",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     },
+     {
+      "url": "https://gygl.beijing.gov.cn/xxgk/xxgk_gyxx/202311/t20231116_3303366.html",
+      "type": "government",
+      "page_updated": "2023-11-01"
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "fees",
+    "text": "공원 입장권은 성수기 30위안, 비수기 20위안이다.",
+    "value": "30위안/20위안",
+    "evidence": "颐和园门票：30元/张（旺季） 20元/张（淡季）",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "fees",
+    "text": "입장권과 원중원 입장권이 포함된 연표(联票)는 성수기 60위안, 비수기 50위안이다.",
+    "value": "60위안/50위안",
+    "evidence": "颐和园联票：60元/张（旺季） 50元/张（淡季）",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "fees",
+    "text": "원중원 개별 입장권은 덕화원 5위안, 이화원박물관 20위안, 불향각 10위안, 쑤저우제 10위안이다.",
+    "value": "5/20/10/10위안",
+    "evidence": "德和园5元/张；颐和园博物馆20元/张；佛香阁10元/张；苏州街10元/张",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "fees",
+    "text": "할인 입장권은 15위안, 할인 연표는 30위안이며 원중원 할인표는 반값이다.",
+    "value": "15/30위안",
+    "evidence": "优惠门票：15元，优惠联票30元，园中园优惠票半价",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "fees",
+    "text": "만 6세(6세 포함) 이하이거나 키 1.2m(포함) 이하인 어린이는 무료이다.",
+    "value": "6세 이하 / 120cm 이하",
+    "evidence": "对6周岁（含6周岁）以下或身高1.2米（含1.2米）以下的儿童实行免票",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "fees",
+    "text": "60세 이상 외국인 관광객은 여권을 제시하면 무료로 입장할 수 있다.",
+    "value": "60세 이상",
+    "evidence": "60周岁及以上外籍游客凭护照验证入园",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "fees",
+    "text": "만 6세 초과~18세(포함) 미성년자와 학부 이하 전일제 학생은 유효한 신분증이나 학생증으로 할인표를 살 수 있다.",
+    "value": "6세 초과~18세",
+    "evidence": "6周岁（不含6周岁)~18周岁（含18周岁)未成年人、全日制大学本科及以下学历学生",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "fees",
+    "text": "장애인과 현역 군인 등은 유효 증서를 제시하면 무료로 입장하고, 어린이날(6월 1일)에는 어린이가 무료이다.",
+    "value": null,
+    "evidence": "“六一”国际儿童节当天，儿童免票入园",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "reservation",
+    "text": "공식 계정 '颐和园' 또는 '畅游公园'(WeChat 공식계정)에서 당일 표를 사거나 1~7일 뒤 표를 미리 예약할 수 있으며, 입장 때 본인 증명서 원본을 지참해야 한다.",
+    "value": "1~7일 전",
+    "evidence": "提前预约未来1-7天的门票。购票成功后，请务必携带本人证件原件",
+    "sources": [
+     {
+      "url": "https://www.visitbeijing.com.cn/article/4JW2RSxuEs9",
+      "type": "national_tourism",
+      "page_updated": "2024-09-20"
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "payment",
+    "text": "이화원은 7개 문에서 모두 표를 살 수 있으며 그중 동문·북문·신젠궁먼 문구에서는 카드 결제가 가능하다.",
+    "value": null,
+    "evidence": "七个门区均可购票入园，其中东宫门、北宫门、新建宫门门区可以刷卡购票",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "language",
+    "text": "동문·북문·신젠궁먼 문구에서는 전자 화면으로 영상 안내를 받을 수 있고, 동문 밖 관광객 서비스센터(전화 010-62881144 내선 6831)에서 관람 안내 자료를 제공한다.",
+    "value": null,
+    "evidence": "提供电子显示屏视频咨询",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "tip",
+    "text": "7개 문 지역과 관광객 서비스센터에서 구급상자·바느질 세트·휠체어를 무료로 빌려 쓸 수 있다.",
+    "value": null,
+    "evidence": "提供小药箱、针线盒和轮椅",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "description",
+    "text": "이화원은 중국에 현존하는 가장 큰 규모이자 가장 잘 보존된 황실 정원이다.",
+    "value": null,
+    "evidence": "颐和园是中国现存规模最大、保存最完整的皇家园林",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "description",
+    "text": "쿤밍호와 만수산을 바탕으로 항저우 서호 풍경을 본뜨고 강남 정원의 기법을 받아들여 만든 대형 자연 산수 정원이다.",
+    "value": null,
+    "evidence": "利用昆明湖、万寿山为基址，以杭州西湖风景为蓝本",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "description",
+    "text": "전신 칭이위안은 1750년에 짓기 시작해 1764년에 완공되었다.",
+    "value": "1750/1764",
+    "evidence": "始建于1750年，1764年建成",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101407",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "summerpalace_official_site",
+    "reason": "official_unreachable: www.summerpalace-china.com 은 WebFetch 503, curl 접속 실패. 위 값은 북경시 관광 포털(visitbeijing)과 시 공원관리센터 공고에서 가져옴. 운영자 공식 페이지와 재대조 필요"
+   },
+   {
+    "field": "stale_source",
+    "reason": "gygl.beijing.gov.cn 공고는 2023-11-01 자(12개월 초과). c7은 visitbeijing 값과 일치. 예약 c19의 출처는 2024-09 기사(제3자 '漫谈京津冀' 게재)이므로 운영자 공식 확인 필요"
+   },
+   {
+    "field": "parking",
+    "reason": "인용한 공식 페이지에 주차 정보 없음"
+   },
+   {
+    "field": "reservation",
+    "reason": "외국인(여권) 예약 방법을 밝힌 현행 공식 안내를 열지 못함(공식 사이트 접속 불가). 예약 오픈 시점·실명제 세부도 미확인"
+   },
+   {
+    "field": "payment",
+    "reason": "외국 카드·현금 사용 가능 여부, 모바일 결제 정보는 확인하지 못함. c20 카드 결제 설명은 구버전일 수 있음"
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내·오디오 가이드 유무는 공식 페이지에 없음"
+   },
+   {
+    "field": "caution",
+    "reason": "안전·혼잡 시기 관련 공식 문구 확인 못함"
+   },
+   {
+    "field": "closed_days",
+    "reason": "공원 본체의 정기 휴무는 없는 것으로 보이나 명시 문구가 없어 확정하지 않음(원중원 월요일 휴무만 c10)"
+   }
+  ]
+ },
+ {
+  "key": "bj-tiananmen-square",
+  "name_ko": "톈안먼 광장",
+  "name_local": "天安门广场",
+  "admin_region": "베이징시 둥청구",
+  "address": "北京市东城区西长安街",
+  "description": "톈안먼 광장은 베이징 도심에 있는 세계 최대급 도심 광장으로, 북쪽 톈안먼에서 서쪽 인민대회당까지 길이 880m, 폭 500m, 면적 약 44만㎡에 이릅니다. 광장 중앙에는 높이 37.94m의 인민영웅기념비가 서 있습니다. 입장은 무료이지만 시작 1~7일 전에 '天安门广场预约参观' 미니프로그램 등으로 예약해야 하며, 신분증을 지참해야 합니다. 개방 시간은 매일 국기 게양 1시간 전부터 22:00 청장까지이고, 권장 소요 시간은 1시간입니다. 가까운 버스 정류장은 톈안먼동(天安门东)이고, 국기 하강식을 볼 때는 지하철 1호선 톈안먼동·톈안먼서역에서 내려 걸어갈 수 있습니다.",
+  "highlights": [
+   "입장 무료, 1~7일 전 사전 예약 필수",
+   "길이 880m·폭 500m·면적 약 44만㎡의 대형 광장",
+   "중앙의 인민영웅기념비(높이 37.94m)",
+   "개방은 국기 게양 1시간 전부터 22:00까지",
+   "지하철 1호선 톈안먼동·톈안먼서역에서 도보 이동",
+   "국기 게양식 관람도 '升旗' 시간대 예약 필요"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "톈안먼 광장의 주소는 베이징시 둥청구 시창안제이다.",
+    "value": "北京市东城区西长安街",
+    "evidence": "地址: 北京市东城区西长安街",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101404",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "1·4·5·8·10·20·22·37·52·728번 버스를 타고 톈안먼동(天安门东)에서 내린다.",
+    "value": "天安门东",
+    "evidence": "1、4、5、8、10、20、22、37、52、728路公共汽车天安门东下车",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101404",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "국기 하강식을 볼 때는 지하철 1호선 톈안먼동(天安门东) 또는 톈안먼서(天安门西)역에서 내려 걸어간다.",
+    "value": null,
+    "evidence": "地铁乘坐1号线到达“天安门东”或“天安门西”站下车，步行即可",
+    "sources": [
+     {
+      "url": "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx",
+      "type": "government",
+      "page_updated": "2026-09-29"
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "국기 게양식을 보러 갈 때는 야간버스 야1·야2·야17로가 새벽 4:50까지 운행하며, 톈안먼동·톈안먼서 또는 톈안먼광장동 정류장에서 내려 걸어간다.",
+    "value": "막차 04:50",
+    "evidence": "夜1路...末班发车时间：04:50）到达“天安门东”或“天安门西”站",
+    "sources": [
+     {
+      "url": "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx",
+      "type": "government",
+      "page_updated": "2026-09-29"
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "duration",
+    "text": "권장 관람 시간은 1시간이다.",
+    "value": "1시간",
+    "evidence": "推荐游览时长: 1小时",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101404",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "hours",
+    "text": "광장은 매일 국기 게양 시각 1시간 전에 열고 22:00에 청장한다.",
+    "value": "게양 1시간 전~22:00",
+    "evidence": "每日升旗时间前一小时开放，22:00清场",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101404",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "국기 게양·하강 시각은 날마다 달라지며, 10월 8일 안내에서는 게양 06:17, 하강 17:46이었다.",
+    "value": "2026-10-08: 06:17/17:46",
+    "evidence": "升旗时间为06:17 降旗时间为17:46",
+    "sources": [
+     {
+      "url": "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx",
+      "type": "government",
+      "page_updated": "2026-09-29"
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "fees",
+    "text": "입장료는 무료이다.",
+    "value": "무료",
+    "evidence": "门票价格：免费",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101404",
+      "type": "national_tourism",
+      "page_updated": null
+     },
+     {
+      "url": "https://whlyj.beijing.gov.cn/zmhd/hdrd/202201/t20220114_2591830.html",
+      "type": "government",
+      "page_updated": "2022-01-14"
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "reservation",
+    "text": "관람객은 1~7일 전에 '天安门广场预约参观' 위챗 미니프로그램, '京通' 미니프로그램(위챗·알리페이·바이두), '北京日报'·'北京时间' 앱 또는 천안문지구관리위원회 포털로 예약한다.",
+    "value": "1~7일 전",
+    "evidence": "游客可提前1-7天通过“天安门广场预约参观”微信小程序",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101404",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "reservation",
+    "text": "국기 게양식을 보려면 예약 플랫폼에서 '升旗' 시간대를 골라 1~7일 전에 예약해야 한다.",
+    "value": "1~7일 전",
+    "evidence": "需提前1-7天通过天安门广场预约参观平台点击“升旗”时段进行预约",
+    "sources": [
+     {
+      "url": "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx",
+      "type": "government",
+      "page_updated": "2026-09-29"
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "reservation",
+    "text": "한 예약서로 최대 7명까지 예약할 수 있고, 단체 관광은 여행사가 예약하므로 개인이 따로 예약할 필요가 없다.",
+    "value": "최대 7명",
+    "evidence": "一个预约单最多可以预约7人",
+    "sources": [
+     {
+      "url": "https://whlyj.beijing.gov.cn/zmhd/hdrd/202201/t20220114_2591830.html",
+      "type": "government",
+      "page_updated": "2022-01-14"
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "caution",
+    "text": "예약한 날짜와 시간대에 맞춰 가야 하며, 예약일이 아니면 돌려보내진다.",
+    "value": null,
+    "evidence": "未按照预约日期参观天安门广场的，将予以劝返",
+    "sources": [
+     {
+      "url": "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx",
+      "type": "government",
+      "page_updated": "2026-09-29"
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "caution",
+    "text": "신분증을 지참해야 하며, 위험물·관제 기구·금지 물품과 드론, 라이터 반입이 금지된다.",
+    "value": null,
+    "evidence": "需要携带个人身份证件。严禁携带危险物品、管制器具和违禁物品",
+    "sources": [
+     {
+      "url": "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx",
+      "type": "government",
+      "page_updated": "2026-09-29"
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "caution",
+    "text": "광장에 들어가려면 보안 검사를 거쳐야 한다.",
+    "value": null,
+    "evidence": "游客仍需经安检后进入天安门广场",
+    "sources": [
+     {
+      "url": "https://whlyj.beijing.gov.cn/zmhd/hdrd/202201/t20220114_2591830.html",
+      "type": "government",
+      "page_updated": "2022-01-14"
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "caution",
+    "text": "국가 행사나 외교 행사가 있으면 광장이 임시로 외부 개방을 중단한다.",
+    "value": null,
+    "evidence": "将临时停止对外开放",
+    "sources": [
+     {
+      "url": "https://whlyj.beijing.gov.cn/zmhd/hdrd/202201/t20220114_2591830.html",
+      "type": "government",
+      "page_updated": "2022-01-14"
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "caution",
+    "text": "5월 1일·10월 1일 같은 주요 연휴에는 당일 예약한 시간대에 맞춰 입장해야 한다.",
+    "value": null,
+    "evidence": "“五一”“十一”等重要节假日，应按照当日预约时段参观游览",
+    "sources": [
+     {
+      "url": "https://whlyj.beijing.gov.cn/zmhd/hdrd/202201/t20220114_2591830.html",
+      "type": "government",
+      "page_updated": "2022-01-14"
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "description",
+    "text": "광장은 북쪽 톈안먼에서 서쪽 인민대회당까지 길이 880m, 폭 500m, 면적 44만㎡이며 100만 명을 수용할 수 있다.",
+    "value": "880m x 500m, 44만㎡",
+    "evidence": "长880米，宽500米，面积达到44万平方米，能够同时容纳100万人",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101404",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "description",
+    "text": "광장 중앙에는 높이 37.94m의 인민영웅기념비가 있다.",
+    "value": "37.94m",
+    "evidence": "人民英雄纪念碑通高37.94米",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101404",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "description",
+    "text": "톈안먼 성루는 높이 33.7m이며 아래 성대 높이는 14.6m이다.",
+    "value": "33.7m",
+    "evidence": "天安门高33.7米，下面的城台高14.6米",
+    "sources": [
+     {
+      "url": "https://s.visitbeijing.com.cn/attraction/101404",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "official_portal",
+    "reason": "천안문지구관리위원회 포털·예약 플랫폼 원문은 열어 보지 못함. 위 값은 북경시 관광 포털 조각과 북경시 문화관광국 Q&A(2022)에서 가져옴"
+   },
+   {
+    "field": "stale_source",
+    "reason": "whlyj.beijing.gov.cn Q&A는 2022-01-14 자(12개월 초과)로 c8 일부, c11, c14~c16은 현행 확인 필요"
+   },
+   {
+    "field": "reservation",
+    "reason": "외국인의 여권 예약 가능 여부와 방법을 밝힌 공식 문구를 찾지 못함(현행 안내는 '个人身份证件'만 언급)"
+   },
+   {
+    "field": "parking",
+    "reason": "공식 페이지에 주차 정보 없음"
+   },
+   {
+    "field": "payment",
+    "reason": "무료 입장이라 결제 정보가 없고 별도 확인 문구 없음"
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내 유무 공식 정보 없음"
+   },
+   {
+    "field": "closed_days",
+    "reason": "정기 휴무 문구 없음(국가행사 시 임시 중단만 c15)"
+   }
+  ]
+ },
+ {
+  "key": "nature-zjj-03",
+  "name_ko": "장자제 대협곡·유리다리",
+  "name_local": "张家界大峡谷／玻璃桥",
+  "admin_region": "후난성 장자제시 츠리현",
+  "address": "湖南省张家界市慈利县 张家界大峡谷景区",
+  "description": "장자제 대협곡 유리다리는 후난성 장자제 대협곡 풍경구의 리수야와 우왕포 일대에 놓인 다리로, 건설 말기 보도에 따르면 길이 430m, 폭 6m이고 다리 바닥은 계곡 바닥에서 약 300m 높이에 있습니다. 바닥 전체가 투명한 유리이며 최대 수용 인원은 800명으로 소개되었습니다. 공사 당시 후난성 문화관광청 보도는 세계 최장 유리 보행교와 세계 최고 번지점프대 등 열 가지 세계 최고 기록을 내세웠습니다. 협곡 안에는 승강 엘리베이터도 있어 함께 이용할 수 있습니다. 입장료와 운영 시간, 예약 방법은 방문 전에 장자제 대협곡 공식 안내에서 다시 확인하세요.",
+  "highlights": [
+   "투명 유리 바닥, 길이 430m·폭 6m의 보행교",
+   "다리 바닥이 계곡 바닥에서 약 300m 높이",
+   "최대 수용 인원 800명",
+   "건설 당시 열 가지 세계 최고 기록을 내세움",
+   "협곡 내 승강 엘리베이터 운영(2016 발표)"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "유리다리는 장자제 대협곡 풍경구의 리수야(栗树垭)와 우왕포(吴王坡) 일대에 있다.",
+    "value": null,
+    "evidence": "选址在张家界大峡谷风景区栗树垭和吴王坡区域内",
+    "sources": [
+     {
+      "url": "http://whhlyt.hunan.gov.cn/news/tpxw/201909/t20190910_5482567.html",
+      "type": "government",
+      "page_updated": "2015-11-30"
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "description",
+    "text": "유리다리는 길이 430m, 폭 6m이며 다리 바닥은 계곡 바닥에서 약 300m 높이이다(2015년 공사 말기 보도).",
+    "value": "430m x 6m, 약 300m",
+    "evidence": "总长430米、宽6米，桥面距谷底相对高度约300米",
+    "sources": [
+     {
+      "url": "http://whhlyt.hunan.gov.cn/news/tpxw/201909/t20190910_5482567.html",
+      "type": "government",
+      "page_updated": "2015-11-30"
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "다리 바닥은 모두 투명 유리로 깔렸으며 최대 수용 인원은 800명이다.",
+    "value": "800명",
+    "evidence": "桥面全部采用透明玻璃铺设，最大游客容量为800人",
+    "sources": [
+     {
+      "url": "http://whhlyt.hunan.gov.cn/news/tpxw/201909/t20190910_5482567.html",
+      "type": "government",
+      "page_updated": "2015-11-30"
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "description",
+    "text": "공사 당시 후난성 문화관광청 보도는 세계 최장 유리 보행교와 다리 위 세계 최고 번지점프대 등 열 가지 세계 최고를 내세웠다.",
+    "value": null,
+    "evidence": "世界最长玻璃人行桥；桥面上建有世界最高蹦极台",
+    "sources": [
+     {
+      "url": "http://whhlyt.hunan.gov.cn/news/tpxw/201909/t20190910_5482567.html",
+      "type": "government",
+      "page_updated": "2015-11-30"
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "tip",
+    "text": "2016년 요금 발표에서 협곡 내 승강 엘리베이터도 별도 요금으로 운영한다고 했다.",
+    "value": null,
+    "evidence": "张家界大峡谷景区内的升降电梯乘坐票价",
+    "sources": [
+     {
+      "url": "http://whhlyt.hunan.gov.cn/whhlyt/news/mtjj/201909/t20190910_5464211.html",
+      "type": "government",
+      "page_updated": "2016-02-26"
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "official_site",
+    "reason": "official_unreachable: 장자제 대협곡 운영자 공식 사이트·공식 계정과 장자제시 정부(zjj.gov.cn)는 DNS/접속 실패로 열지 못함. 인용한 후난성 문화관광청 페이지는 2015~2016 자료라 stale_source"
+   },
+   {
+    "field": "address",
+    "reason": "도로명·향진 단위 공식 주소를 공식 페이지에서 찾지 못함(츠리현은 입력 정보 기준)"
+   },
+   {
+    "field": "access",
+    "reason": "역·정류장, 이동 시간, 주차 정보 모두 공식 페이지에서 찾지 못함"
+   },
+   {
+    "field": "duration",
+    "reason": "공식 안내 없음(2차 자료는 출처 요건 미달)"
+   },
+   {
+    "field": "hours",
+    "reason": "공식 출처 확인 못함. 2차 자료의 시간이 서로 다름(08:00-16:00, 08:30-16:30 등)이라 채택하지 않음"
+   },
+   {
+    "field": "closed_days",
+    "reason": "공식 출처 확인 못함"
+   },
+   {
+    "field": "fees",
+    "reason": "현행 요금 공식 확인 못함. 2016년 공지(보통 138위안·할인 83위안, 1.3m 이하 무료)는 시행 시한이 지난 구자료. 장자제시 발개위 2024년 연장 통지(張发改价费〔2024〕72号)는 접속 불가로 미확인"
+   },
+   {
+    "field": "reservation",
+    "reason": "실명·여권 예약 규정과 외국인 예약 방법을 공식 출처에서 확인 못함"
+   },
+   {
+    "field": "payment",
+    "reason": "공식 출처 확인 못함(외국 카드·현금·모바일 결제)"
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내 유무 공식 출처 확인 못함"
+   },
+   {
+    "field": "caution",
+    "reason": "공식 주의 사항 확인 못함"
+   },
+   {
+    "field": "opening_status",
+    "reason": "2015~2016 자료는 개통 예정만 언급. 현재 운영 여부·번지점프 운영 여부는 공식 확인 필요"
+   }
+  ]
+ }
+]

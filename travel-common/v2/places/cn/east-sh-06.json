@@ -2,7 +2,7 @@
  "id": "east-sh-06",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "상하이타워 전망대",
   "local": "上海中心大厦·上海之巅观光厅"
@@ -10,7 +10,7 @@
  "admin_region": "상하이시",
  "former_region": null,
  "city": "상하이",
- "address": null,
+ "address": "上海市浦东新区银城中路501号",
  "coord": {
   "lat": 31.235455,
   "lng": 121.500439,
@@ -21,93 +21,684 @@
   "osm": "node/11221740642"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "상하이타워(上海中心大厦) 118층에 있는 상하이즈뎬(上海之巅) 전망대는 높이 546m에서 시내를 360도로 내려다보는 곳입니다.",
+ "description": "상하이타워(上海中心大厦) 118층에 있는 상하이즈뎬(上海之巅) 전망대는 높이 546m에서 시내를 360도로 내려다보는 곳입니다. 세계에서 가장 빠른 엘리베이터로 올라가며, 지하 1층 전시관과 125·126층 SKY632 예술 공간까지 한 관람 동선으로 이어집니다. 2017년 4월 문을 연 국가 4A급 관광지로 연평균 방문객이 약 170만 명이고 외국인이 30% 넘게 찾습니다. 전망대만 입장하는 정가는 성인 180위안, 어린이 90위안, 노인 120위안이며, 실명 구매가 필요한 시설이라 신분증이나 여권을 챙겨야 합니다. 운영시간은 매일 08:30~22:00(마지막 입장 21:00)이고, 지하철 2호선 루자주이역 6번 출구나 14호선 루자주이역 9A번 출구에서 걸어갈 수 있습니다.",
+ "highlights": [
+  "118층, 높이 546m 전망대에서 보는 360도 상하이 전경",
+  "세계에서 가장 빠른 엘리베이터로 오르는 고속 상승",
+  "지하 1층 전시관, 118층 전망대, 125·126층 SKY632 예술 공간으로 이어지는 관람 동선",
+  "지하철 2호선 루자주이역 6번 출구, 14호선 9A번 출구에서 도보 접근",
+  "외국인 방문 비중이 30%를 넘고 출국 시 세금 환급 지점이 있는 관광지"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b24-c1",
+    "r1-b24-c2"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b24-c9",
+    "r1-b24-c10",
+    "r1-b24-c11",
+    "r1-b24-c12",
+    "r1-b24-c13",
+    "r1-b24-c14",
+    "r1-b24-c15",
+    "r1-b24-c16"
+   ],
+   "gap": null
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 안내에 소요시간 없음."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b24-c17"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "마지막 입장 시간이 공식 계열 출처끼리 다름: 08:30-22:00, 마지막 입장 21:00 (https://www.meet-in-shanghai.net/en/tourist-attraction/top-of-shanghai-observatory-914985/) vs 08:30am-10pm, 마지막 입장 21:30 (https://www.meet-in-shanghai.net/en/2025-shanghai-tourism-festival/hai-guide-soak-in-breathtaking-views-while-enjoying-the-high-life-883446/, 2025-07-25). 운영자 공식 사이트에는 입장 가능 시간 없음(문의 접수 09:00~18:00만 표기).",
+     "detail": "hours.conflict",
+     "run": "r1-b24"
+    }
+   ]
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "운영자 공식·시 관광국 페이지 어디에도 정기 휴무 언급이 없어 확인 불가."
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b24-c18",
+    "r1-b24-c19",
+    "r1-b24-c20"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "official_unreachable",
+     "note": "어린이·노인 연령/신장 기준과 무료 대상은 공식 페이지에서 확인하지 못함. 운영자 공식 사이트 중문판(www.shanghaitower.com)은 반복 접속 시 연결 실패(official_unreachable)로 요금표를 직접 확인하지 못했고, 요금은 상하이시 정부 영문 페이지 근거.",
+     "detail": "fees",
+     "run": "r1-b24"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b24-c21",
+    "r1-b24-c22",
+    "r1-b24-c23"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "외국인 여권으로 온라인 구매가 가능한지, 구매 가능 시작 시점이 공식 페이지에 없음(여권 지참 안내만 확인).",
+     "detail": "reservation",
+     "run": "r1-b24"
+    }
+   ]
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b24-c8"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "현금·카드·알리페이/위챗페이 및 외국 발행 카드 가능 여부가 공식 페이지에 없음.",
+     "detail": "payment",
+     "run": "r1-b24"
+    }
+   ]
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b24-c7"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내·오디오가이드 여부는 공식 페이지에 없음(다국어 서비스 개선이라는 일반 언급만 확인).",
+     "detail": "language",
+     "run": "r1-b24"
+    }
+   ]
   },
   "caution": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "혼잡 시기·금지 물품 등 안전 안내가 공식 페이지에 없음."
    }
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b24-c1",
+   "field": "location",
+   "text": "관광 안내 공식 페이지의 주소는 상하이시 푸둥신구 루자주이 인청중로(银城中路) 501호다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "meet-in-shanghai (Shanghai Municipal Administration of Culture and Tourism) shows 'No. 501, Middle Yincheng Road, Lujiazui, Pudong'. Page dated 2025-10-21.",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/en/tourist-attraction/top-of-shanghai-observatory-914985/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c2",
+   "field": "location",
+   "text": "전망대는 상하이타워 118층, 높이 546m에 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Official site: observatory on floor 118, 546 m.",
+   "sources": [
+    {
+     "url": "https://en.shanghaitower.com/shagnhai.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c3",
+   "field": "description",
+   "text": "관람 동선은 지하 1층 '상하이즈뎬 전시관', 118층 전망대, 125·126층 SKY632 예술 공간으로 이어진다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Official site lists B1 exhibition hall, 118F observatory, 125-126F SKY632. A 2026-02 shanghai.gov.cn article says the renewed B1 hall reopened over Spring Festival 2026.",
+   "sources": [
+    {
+     "url": "https://en.shanghaitower.com/shagnhai.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c4",
+   "field": "highlight",
+   "text": "118층 전망대에서는 세계에서 가장 빠른 엘리베이터로 올라가 360도 전경을 본다고 공식 사이트가 소개한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'world's fastest elevator ... 360 degree'",
+   "sources": [
+    {
+     "url": "https://en.shanghaitower.com/shagnhai.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c5",
+   "field": "description",
+   "text": "상하이즈뎬 전망대는 2017년 4월 정식 개장한 국가 4A급 관광지다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Article of 2026-02-10: national 4A, opened April 2017.",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw4411/20260210/757750e6b47b4f1fb9b728b87615a118.html",
+     "type": "government",
+     "page_updated": "2026-02-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c6",
+   "field": "description",
+   "text": "전망대의 연평균 방문객은 약 170만 명이며 외국인 비율이 30%를 넘는다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "About 1.7 million visitors a year, international visitors over 30%.",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw4411/20260210/757750e6b47b4f1fb9b728b87615a118.html",
+     "type": "government",
+     "page_updated": "2026-02-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c7",
+   "field": "language",
+   "text": "전망대는 다국어 서비스를 개선하고 있다고 상하이시 보도가 전한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "持续优化多语种服务",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw4411/20260210/757750e6b47b4f1fb9b728b87615a118.html",
+     "type": "government",
+     "page_updated": "2026-02-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c8",
+   "field": "payment",
+   "text": "전망대에는 출국 시 세금 환급(离境退税) 지점이 추가되었다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "增设离境退税点",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw4411/20260210/757750e6b47b4f1fb9b728b87615a118.html",
+     "type": "government",
+     "page_updated": "2026-02-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c9",
+   "field": "access",
+   "text": "지하철 2호선 루자주이역 6번 출구에서 상하이 IFC몰 LG2를 지나 걸어서 간다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://en.shanghaitower.com/Publictransit.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c10",
+   "field": "access",
+   "text": "지하철 14호선 루자주이역 9A번 출구에서도 걸어서 갈 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://en.shanghaitower.com/Publictransit.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c11",
+   "field": "access",
+   "text": "푸둥공항에서는 택시나 자가용으로 약 40km, 50분이 걸린다.",
+   "original_text": null,
+   "value": "40km/50min",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://en.shanghaitower.com/Publictransit.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c12",
+   "field": "access",
+   "text": "푸둥공항에서 자기부상열차를 타고 룽양루역에서 2호선으로 갈아타 둥창루역에서 내리면 약 50분이다.",
+   "original_text": null,
+   "value": "50min",
+   "verdict": "verified",
+   "verify_note": "Maglev, then Line 2 from Longyang Rd to Dongchang Rd, 50 min.",
+   "sources": [
+    {
+     "url": "https://en.shanghaitower.com/Publictransit.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c13",
+   "field": "access",
+   "text": "훙차오공항에서는 택시나 자가용으로 약 25km, 40분이 걸린다.",
+   "original_text": null,
+   "value": "40min",
+   "verdict": "verified",
+   "verify_note": "25 km, 40 min.",
+   "sources": [
+    {
+     "url": "https://en.shanghaitower.com/Publictransit.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c14",
+   "field": "parking",
+   "text": "건물 지하주차장 출입구는 인청중로, 루자주이환로, 화위안스차오로 세 곳에 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://en.shanghaitower.com/PARKINGLOT.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c15",
+   "field": "parking",
+   "text": "지하주차장은 B3~B5 세 개 층에 총 1,800면이며 전기차 충전기가 십여 대 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://en.shanghaitower.com/PARKINGLOT.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c16",
+   "field": "parking",
+   "text": "B4·B5 주차면은 월 임대용이며, 방문객용으로 안내된 곳은 B3의 641면이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "B3 has 641 spaces: about 600 standard, 32 mini, 9 barrier-free.",
+   "sources": [
+    {
+     "url": "https://en.shanghaitower.com/PARKINGLOT.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c17",
+   "field": "hours",
+   "text": "운영시간은 매일 08:30~22:00이며 마지막 입장은 21:00이다.",
+   "original_text": "운영시간은 매일 08:30~22:00으로 안내된다.",
+   "value": "08:30-22:00",
+   "verdict": "corrected",
+   "verify_note": "The page also states 'Last entry at 21:00'. It also says the observatory is on 118-119F (official site says 118F).",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/en/tourist-attraction/top-of-shanghai-observatory-914985/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c18",
+   "field": "fees",
+   "text": "전망대만 입장하는 정가는 성인 180위안, 어린이 90위안, 노인 120위안이다.",
+   "original_text": null,
+   "value": "180/90/120 CNY",
+   "verdict": "verified",
+   "verify_note": "2026-05-15 English city portal: regular admission 180/90/120.",
+   "sources": [
+    {
+     "url": "https://english.shanghai.gov.cn/en-FestivalsCelebrations/20260515/ee03e0a7bc6e4d87acc0a1cbe5d8ca49.html",
+     "type": "government",
+     "page_updated": "2026-05-15",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c19",
+   "field": "fees",
+   "text": "전망대와 SKY632 예술 공간을 묶은 결합권 정가는 268위안이다.",
+   "original_text": null,
+   "value": "268 CNY",
+   "verdict": "verified",
+   "verify_note": "Regular admission for the SKY632 combo is 268.",
+   "sources": [
+    {
+     "url": "https://english.shanghai.gov.cn/en-FestivalsCelebrations/20260515/ee03e0a7bc6e4d87acc0a1cbe5d8ca49.html",
+     "type": "government",
+     "page_updated": "2026-05-15",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c20",
+   "field": "fees",
+   "text": "전망대(118층) 성인 정가는 2025년 9월 시 관광 공지에서도 180위안이었다.",
+   "original_text": null,
+   "value": "180 CNY",
+   "verdict": "verified",
+   "verify_note": "2025-09-11 article: 118F adult 180. Historical statement.",
+   "sources": [
+    {
+     "url": "https://english.shanghai.gov.cn/en-FestivalsCelebrations/20250911/9502fe309abc41a9a2f61966e5725b6a.html",
+     "type": "government",
+     "page_updated": "2025-09-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c21",
+   "field": "reservation",
+   "text": "상하이시 문화관광국 공지에 상하이즈뎬 전망대는 실명 구매가 필요한 시설로 올라 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Source dated 2024-06-11 (over 12 months old), but the current Chinese official page (https://www.shanghaitower.com/shagnhai.html) confirms 试行实名制购票 and says to bring an ID card or passport.",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw4411/20240611/7d585934fa1e44f39a358ee54bfdfe76.html",
+     "type": "government",
+     "page_updated": "2024-06-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c22",
+   "field": "reservation",
+   "text": "공식 사이트는 신분증 또는 여권을 지참하라고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://en.shanghaitower.com/shagnhai.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c23",
+   "field": "reservation",
+   "text": "공식 온라인 구매 채널은 씨트립, 퉁청(LY.com), 메이퇀, 다중덴핑이다(영문 페이지에는 뤼마마도 표기되어 있다).",
+   "original_text": "공식 온라인 구매 채널은 씨트립, 퉁청(LY.com), 뤼마마, 메이퇀, 다중덴핑이다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "The English page lists 5 channels including Lvmama. The Chinese official page lists 4 (携程、同程、美团、大众点评) without Lvmama.",
+   "sources": [
+    {
+     "url": "https://en.shanghaitower.com/shagnhai.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c24",
+   "field": "tip",
+   "text": "전망대 상담 전화는 (8621)2065 6999이고, 공식 사이트의 문의 핫라인은 (8621)80370150(월~일 09:00~18:00)이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Contact page: observatory (8621)2065 6999. Observatory page: hotline (8621)80370150, Mon-Sun 9:00-18:00.",
+   "sources": [
+    {
+     "url": "https://en.shanghaitower.com/contactus.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://en.shanghaitower.com/shagnhai.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-s1",
+   "field": "reservation",
+   "text": "공식 사이트(중문)는 상하이즈뎬 전망대가 실명제 구매를 시행하며 신분증 또는 여권을 지참하라고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.shanghaitower.com/shagnhai.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-s2",
+   "field": "hours",
+   "text": "마지막 입장은 21:00이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/en/tourist-attraction/top-of-shanghai-observatory-914985/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b24",
+   "text": "Purchase channels: the English official page lists Lvmama, the Chinese official page does not."
+  },
+  {
+   "run": "r1-b24",
+   "text": "Floors: meet-in-shanghai says the observatory is on '118th and 119th floors'; the official site says 118F."
+  },
+  {
+   "run": "r1-b24",
+   "text": "Not found on the official pages checked: closed days, duration, payment methods, Korean or audio guide, caution items."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -187,6 +778,45 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b24",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 24,
+    "verdicts": {
+     "verified": 22,
+     "corrected": 2,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 2
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "방문객 주차 요금·운영 시간이 공식 페이지에 없음.",
+   "run": "r1-b24"
+  },
+  {
+   "topic": "stale_source",
+   "note": "운영자 사이트 푸터가 2023년 표기이고 교통·주차 페이지에 갱신일이 없어 최신성 확인 불가.",
+   "run": "r1-b24"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'운영시간은 매일 08:30~22:00로 안내되고' leaves out the last entry at 21:00 (see corrected c17)."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b24"
  }
 }

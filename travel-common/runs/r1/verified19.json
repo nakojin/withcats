@@ -1,0 +1,486 @@
+{
+ "places": [
+  {
+   "key": "new:jp-okinawa-kokusai-dori",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "naha-navi: 'northern entrance to the Prefectural Office (just before Palette Kumoji intersection) to Asato intersection, roughly 1.6km'. Article posted 2016-03-17 and updated 2020-02-27, so the source is stale (more than 12 months)."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'often called the gateway to Okinawan tourism. It lies only 15 minutes from Naha Airport'. The page does not say how you travel (car or monorail). Stale source (2020)."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "naha-navi: Sunday 12-18 'from the north entrance to the Prefectural Office to the Yui Rail Makishi Station'. The current official page instead names the Saion Bridge intersection as the end point and calls it a pedestrian-priority road, not pedestrian-only. Stale source (2020)."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Official: 'Every Sunday (cancelled in case of rain), from 12:00 to 18:00'."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'about 1,300 meters (between the prefectural office north exit intersection and Saion Bridge intersection)', road about 18m wide."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'open cafes, street performances, various events, and Kokusai-dori Marche'."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Top-page notices dated 2026-09-04 and 2026-09-25 cancel the 9/6 and 9/27 events. Both dates have already passed."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Notice dated 2026-10-08. The linked notice also says the Sunday transit mile is suspended for the festival and that traffic restrictions run on different hours (see suggested_claims). The festival ends 2026-10-12, so this item expires then."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'about 600 shops and other offices ... department stores, restaurants, services, general stores ... hotels and souvenir shops'."
+    },
+    {
+     "cid": "c10",
+     "verdict": "outdated",
+     "corrected_text": "1만 명 에이사 춤 퍼레이드(一万人のエイサー踊り隊)는 국제거리에서 열리며, 2026년 제32회는 10월 18일(일) 14:00~21:00에 개최된다(2025년 제31회는 10월 19일 개최).",
+     "note": "The 'every August' wording comes from the 2016/2020 naha-navi article. The official event site ichimannin-eisa.kokusaidoori.jp/en/ shows '第32回 … 2026.10.18 SUN 14:00-21:00 in 国際通り', and the official notice list shows the 31st on 10/19 (2025)."
+    },
+    {
+     "cid": "c11",
+     "verdict": "corrected",
+     "corrected_text": "마키시 3-2-10의 나하시 관광안내소에 코인로커가 있으며, 공식 사이트에 표기된 이용 시간은 9:00~19:00이다.",
+     "note": "The 3-2-10 Makishi, 9:00-19:00 entry is listed under the 'Coin Lockers' section of areainfo, not as the information center's own opening hours. Naha City Bunkatenbusukan 1F has the same address and hours."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Makishi Station and Kencho-mae station coin lockers, 6:00-23:00."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Miebashi Post Office (1-1-1 Kumoji), ATM and exchange, 7:00-23:00."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Language switcher on the site: 日本語/English/한국어/简体中文/繁體中文. Many event posts are Japanese-only ('only available in 日本語')."
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "098-863-2755, 'Weekdays 10:00 am to 5:00 pm'."
+    }
+   ],
+   "unsupported_in_description": [
+    "'매년 8월에는 1만 명 에이사 춤 퍼레이드가 열립니다' contradicts the outdated c10. It is held in October (2026-10-18).",
+    "'마키시 지구의 나하시 관광안내소(9:00~19:00)' contradicts the corrected c11: 9:00~19:00 are the coin-locker hours at that location.",
+    "The description does not say the Sunday transit mile is suspended for the Naha Otsunahiki festival (2026-10-10~12) or often cancelled (official notices)."
+   ],
+   "unsupported_in_highlights": [
+    "'매년 8월 1만 명 에이사 춤 퍼레이드' contradicts c10 (October, 2026-10-18).",
+    "'마키시 나하시 관광안내소(9:00~19:00)' should be revised in line with the corrected c11 (coin-locker hours)."
+   ],
+   "suggested_claims": [
+    {
+     "field": "caution",
+     "text": "나하 오쓰나히키 마쓰리 기간(2026년 10월 10~12일)에는 일요일 트랜짓 마일이 쉬고, 축제용 교통 규제가 평소 트랜짓 마일과 다른 시간에 시행된다.",
+     "url": "https://naha-kokusaidori.okinawa/eventinfo/%e2%98%8510%e6%9c%8810%e6%97%a5%e5%9c%9f%e3%83%bb11%e6%97%a5%e6%97%a5%e3%83%bb12%e6%97%a5%e6%9c%88%e3%81%af%e3%80%8c%e9%82%a3%e8%a6%87%e5%a4%a7%e7%b6%b1%e6%8c%bd%e3%81%be%e3%81%a4%e3%82%8a"
+    },
+    {
+     "field": "tip",
+     "text": "국제거리 수하물 보관소(나하시 마쓰오 2-8-19 5층)는 10:00~19:00 연중무휴로 운영한다.",
+     "url": "https://naha-kokusaidori.okinawa/en/areainfo.html"
+    },
+    {
+     "field": "tip",
+     "text": "팔레트 구모지 B1F·1F·2F에 코인로커가 있으며 1F·2F는 24시간, B1F는 10:00~22:00 이용할 수 있다.",
+     "url": "https://naha-kokusaidori.okinawa/en/areainfo.html"
+    },
+    {
+     "field": "tip",
+     "text": "환전은 미에바시 우체국(7:00~23:00), 오키나와은행 마키시점(8:00~22:00), 팔레트 구모지 1F(9:00~21:00) 등에서 할 수 있다.",
+     "url": "https://naha-kokusaidori.okinawa/en/areainfo.html"
+    },
+    {
+     "field": "tip",
+     "text": "2026년 제32회 1만 명 에이사 춤 퍼레이드는 10월 18일(일) 14:00~21:00 국제거리에서 열린다.",
+     "url": "https://www.ichimannin-eisa.kokusaidoori.jp/en/"
+    }
+   ],
+   "conflicts": [
+    "naha-navi article (posted 2016-03-17, updated 2020-02-27) is a stale source. It gives the transit mile end point as 'Yui Rail Makishi Station' and calls the street 'pedestrian-only'. The official shopping-street page gives 'Saion Bridge intersection', about 1,300m, as a 'pedestrian priority' road.",
+    "naha-navi says 10,000 Eisa is held 'every year in August'. The official event site and notices say October (2025-10-19, 2026-10-18).",
+    "Collector-unconfirmed items (fees/hours/closed_days/payment/parking/station walk time/duration): the official pages do not cover them. There is no official statement that the street itself is free to enter."
+   ]
+  },
+  {
+   "key": "east-sh-01",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "meet-in-shanghai The Bund page: 'Zhongshan No 1 Road, Huangpu District'. The night-culture page gives 'East Zhongshan Road (No.1)'."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Spanning 1.5 kilometers ... from East Yan'an Road in the south to the Waibaidu Bridge in the north, with the Huangpu River to the east'."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Opening Hours: Open All Day'. The page adds 'subject to the official release by the venue, this platform is for reference only'."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'52 distinctive Classical Revival buildings ... Gothic, Romanesque, and Baroque ... Exhibition of World Architecture'. The Chinese page (2026-06-25) says the same: 52幢, 外滩万国建筑博览群."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The Bund is listed under Line 2 and Line 10. Page dated 2024-01-04, so the source is stale (more than 12 months). The page gives no station name or exit."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'In the evening, the buildings light up ... endless photo opportunities'. Page dated 2023-12-05, so the source is stale."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'eastern extension of East Nanjing Road Pedestrian Street ... lights up at night, with the renovation linking East Nanjing Road directly to the Bund'."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Stretching 360 meters, the Fengjing Road Night Market at the BFC features more than 100 stalls'. The page gives no operating days or hours."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Waitanyuan Weekend Market on Yuanmingyuan Road'. No days or hours given."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'China's first fully steel riveted bridge and the only remaining unequal-height truss structure bridge', at the Suzhou River and Huangpu River junction."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Easy Shanghai, 2026-01-13: 'Bund info' reopened after renovation, with multilingual guides and materials. The page names no languages and gives no address or hours."
+    }
+   ],
+   "unsupported_in_description": [
+    "Description: '강 서쪽에는 … 52동이 늘어서'. Supported by the c6 source (english.shanghai.gov.cn: 'To the river's west are 52 … buildings'), so acceptable. No other unsupported statements found."
+   ],
+   "unsupported_in_highlights": [
+    "'황푸강변 산책로': no claim covers 'walkway' (s5 mentions a 'long walkway' but no claim was made from it). Minor."
+   ],
+   "suggested_claims": [],
+   "conflicts": [
+    "Building count: official pages say '52' Classical Revival buildings, while the same meet-in-shanghai page also says '115 heritage buildings' (old buildings in the QR-code program). These are different counts, so state the basis if both are used.",
+    "english.shanghai.gov.cn pages for c5 (2024-01-04) and c6 (2023-12-05) are more than 12 months old.",
+    "'Open All Day' comes from the city tourism portal, which says it is 'for reference only'. There is no operator page.",
+    "Collector-unconfirmed items (fees, closed_days, reservation, payment, station exit, parking, caution, duration): checked meet-in-shanghai and the gov.cn citywalk page, and none of these appear. Nothing to suggest."
+   ]
+  },
+  {
+   "key": "east-sh-05",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Taxi page: 'located at No. 310 Huangzhao Road, Chuansha Town, Pudong New District, Shanghai'."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Transportation page: 'Take Line 11 to Disney Resort Station and exit from Gate 1 or 4'."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Rail page: 'To Disney Resort: First Train 07:08 (arrival) / Last Train 23:39 (arrival)', marked 'for reference only'."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'just steps away from Shanghai Disneyland, Disneytown and Wishing Star Park, and only a short Disney Resort Shuttle ride from the Resort hotels'."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'designated pick-up and drop-off points for taxis at the West Public Transportation Hub (West PTH) ... quick stroll'. Taxis are not allowed in the Car & Coach Park."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The bus page lists Pudong 50/51/52/70/71. The transportation overview card lists only '50, 51, 52, or 70' (minor inconsistency)."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Pudong International Airport: '~30km, Taxi ~30-50 minutes, Metro ~80-90 minutes'."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Hongqiao International Airport: '~45km, Taxi ~60-80 minutes, Metro ~80-90 minutes'."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Fee table image (gpl-notice-en-20240705-1.png) and page text: RMB 14/hour for the first hour, then RMB 7 per half hour."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Whole day (for entry to the Parking Lot once): RMB 112'."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Operating Hours: 05:30 - 24:00 (Adjustments may be made) ... will close at 24:00 every day'."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "RMB 30/hour for the first hour, then RMB 15 per half hour, whole day RMB 240. No free pick-up or drop-off."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Monday to Thursday: 9:00-21:30, Friday to Sunday: 9:00-22:00'."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Checked with a POST to /rap/parkhour (startDate/endDate): Shanghai Disneyland 10-11 8:30-20:30, 10-12 8:30-20:00, 10-13 8:30-20:30. Hours are only published about two weeks ahead."
+    },
+    {
+     "cid": "c15",
+     "verdict": "corrected",
+     "corrected_text": "2025년 8월 25일 공식 보도자료 기준, 2025년 10월 중순 티켓 구조 개편 후에도 상하이 디즈니랜드 티켓 가격은 기본가 475위안~최고가 799위안 범위이며, 예상 방문객 수에 따라 날짜별 가격 등급이 정해진다.",
+     "note": "The press release is dated 2025-08-25 (more than 12 months old). A current price source on the official site could not be found (ticket pages render client-side, and the parkcalender API has no prices). Any use needs this period stated."
+    },
+    {
+     "cid": "c16",
+     "verdict": "corrected",
+     "corrected_text": "2025년 8월 공식 보도자료 기준, 리조트는 30일 앞까지 보여 주는 롤링 가격 캘린더를 제공하며 날짜별 티켓 가격은 그 캘린더에서 확인한다.",
+     "note": "Same 2025-08-25 release ('提前30天的滚动价格日历'). The source is stale, so the period is added."
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ: 'Children under 3 years old on the day of their park visit can enter for free'."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ: 'ages 3 to 11 (both inclusive) ... Child Ticket. Seniors who are 60 or older ... Senior Ticket'."
+    },
+    {
+     "cid": "c19",
+     "verdict": "corrected",
+     "corrected_text": "2025년 8월 공식 보도자료 기준, 어린이(3~11세), 60세 이상, 장애인(증빙 필요) 티켓은 일반 티켓의 약 75% 가격(약 25% 할인)이다.",
+     "note": "Source text: '约七五折', disabled guests need proof. The release is dated 2025-08-25 (stale), so the period is added."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ: 'Book at least 10 days in advance to enjoy our Early Bird ticket discount' (1-Day and 2-Day tickets)."
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ: 'no admission fee ... without a ticket ... an additional fee may be required for parking'."
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ: 'enter and exit ... an unlimited number of times on your day of visit during operating hours ... all 8 themed lands'."
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The theme-park page loads its text via POST /rap/facility/detail: 'Enchanted Storybook Castle and 8 unforgettable lands: Mickey Avenue, Gardens of Imagination, Fantasyland, Adventure Isle, Treasure Cove, Tomorrowland, Disney•Pixar Toy Story Land and Zootopia'."
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ lists the official website, App, WeChat account, Reservation Center (400-1800000 or +86-21-3158-0000), plus the official Douyin, JD and Fliggy stores."
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ text matches. The real-name policy page is images only (policy effective 2024-12-23), so the claim rests on the FAQ."
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Weather & Packing page: 'Other guests—valid foreign passport or PRC Foreign Permanent Resident ID Card number'."
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'The original copy ... is the only valid admission document. Copies, including digital versions, will not be accepted.'"
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ: 'Disney Fastpass is a complimentary ticketing system ... distributed on ... Official App ... valid only for the day it is issued'. The FAQ entry may be legacy, because the site also sells paid Disney Premier Access. Keep the two distinct."
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Pre-arrival page card 'Facial Recognition Park Entry': 'Opt in to breeze through our park entry with the facial recognition' (with a Download the App button)."
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ: 'Simplified Chinese and English, with limited content also provided in Japanese'. No Korean; the FAQ recommends browser translation."
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'larger than 56cm X 36cm X 23cm. Wheeled luggage of any size.'"
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Prohibited: tripods, extendable selfie sticks, drones, alcohol, folding chairs and stools, knives; animals except guide dogs."
+    },
+    {
+     "cid": "c33",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'remain open—rain or shine ... may be forced to close or operate under a limited range of offerings and park hours due to extreme ... inclement weather'."
+    },
+    {
+     "cid": "c34",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ: 'ATMs can be found near multiple Guest Services locations ... Shanghai Disneyland, Disneytown, the Resort hotels'."
+    }
+   ],
+   "unsupported_in_description": [
+    "'공식 안내상 티켓 가격대는 475~799위안' gives no period. It should state the 2025-08-25 press-release basis, per the corrected c15.",
+    "'2026년 10월 11일 운영시간은 8:30~20:30입니다' is backed by c14 but holds for that day only (10-12 is 8:30~20:00). It goes out of date immediately in an evergreen description, so say that hours vary by date and should be checked on the official calendar."
+   ],
+   "unsupported_in_highlights": [
+    "'디즈니 패스트패스는 공식 앱에서 무료 배부' is backed by c28, but the FAQ entry may be legacy; a paid Disney Premier Access is sold separately. Recommend adding the note 'paid Premier Access is separate' or removing this highlight."
+   ],
+   "suggested_claims": [
+    {
+     "field": "access",
+     "text": "공항선(机场联络线)을 타고 국제관광리조트역 3번 출구로 나와 촨잔로/탕황로 정류장에서 푸둥 50번 버스를 타면 디즈니 지하철역에 도착한다.",
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/rail"
+    },
+    {
+     "field": "parking",
+     "text": "주말·공휴일에는 리조트 주차장이 만차에 가까워지므로 지하철·택시 등 대중교통 이용이 권장된다.",
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/disney-car-and-coach-park"
+    },
+    {
+     "field": "hours",
+     "text": "2026년 10월 11일 기준 디즈니타운은 10:00~22:00, 위시잉 스타 파크는 9:00~18:00 운영한다(날짜별로 다름).",
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/rap/parkhour"
+    },
+    {
+     "field": "reservation",
+     "text": "장애인 티켓은 예약센터(400-180-0000 또는 +86-21-3158-0000), 공식 앱·웹사이트·위챗에서 구매하며 신분증 원본과 장애 증빙 원본이 필요하다.",
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data"
+    },
+    {
+     "field": "tip",
+     "text": "공식 웹사이트는 한국어를 지원하지 않으며, 브라우저 번역 기능 사용이 안내된다.",
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data"
+    }
+   ],
+   "conflicts": [
+    "The ticket price (475~799 RMB), the 30-day calendar and the about-75% concession all come only from the 2025-08-25 press release, which is more than 12 months old. A current official price page could not be read (client-rendered ticket pages; parkcalender API has no prices). Lookups tried: /en/tickets and the parkcalender POST. Payment and duration were also not found in the official FAQ.",
+    "Bus lines: the bus page lists 50/51/52/70/71, while the transportation overview lists 50/51/52/70.",
+    "The parkhour API currently publishes park hours only through about 2026-10-25. Later dates show 'defaultCloseReason', meaning not yet announced, not that the park is closed."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 60,
+  "verified": 55,
+  "corrected": 4,
+  "outdated": 1,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "Shanghai Disney pages are client-rendered. Content was checked from the SSR ng-state, the cfs/content GET API, and POST /rap/parkhour and /rap/facility/detail (header client: WEB). The parking fee table is an image and was checked visually.",
+   "Kokusai-dori: c10 (Eisa in 'August') is outdated; the official 2026 event is 10-18. c11's hours are coin-locker hours, not the info center's.",
+   "Stale sources (more than 12 months): naha-navi article (2020), english.shanghai.gov.cn pages (2023-12, 2024-01), Disney press release (2025-08-25). Price, calendar and concession claims were given period wording.",
+   "The Disney description includes a single-day opening time (2026-10-11), which goes out of date immediately."
+  ]
+ }
+}

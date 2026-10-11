@@ -1,0 +1,641 @@
+[
+ {
+  "key": "east-sh-06",
+  "name_ko": "상하이타워 전망대",
+  "name_local": "上海中心大厦·上海之巅观光厅",
+  "admin_region": "상하이시 푸둥신구",
+  "address": "上海市浦东新区银城中路501号",
+  "description": "상하이타워(上海中心大厦) 118층에 있는 상하이즈뎬(上海之巅) 전망대는 높이 546m에서 시내를 360도로 내려다보는 곳입니다. 세계에서 가장 빠른 엘리베이터로 올라가며, 지하 1층 전시관과 125·126층 SKY632 예술 공간까지 한 관람 동선으로 이어집니다. 2017년 4월 문을 연 국가 4A급 관광지로 연평균 방문객이 약 170만 명이고 외국인이 30% 넘게 찾습니다. 전망대만 입장하는 정가는 성인 180위안, 어린이 90위안, 노인 120위안이며, 실명 구매가 필요한 시설이라 신분증이나 여권을 챙겨야 합니다. 운영시간은 매일 08:30~22:00로 안내되고, 지하철 2호선 루자주이역 6번 출구나 14호선 루자주이역 9A번 출구에서 걸어갈 수 있습니다.",
+  "highlights": [
+   "118층, 높이 546m 전망대에서 보는 360도 상하이 전경",
+   "세계에서 가장 빠른 엘리베이터로 오르는 고속 상승",
+   "지하 1층 전시관, 118층 전망대, 125·126층 SKY632 예술 공간으로 이어지는 관람 동선",
+   "지하철 2호선 루자주이역 6번 출구, 14호선 9A번 출구에서 도보 접근",
+   "외국인 방문 비중이 30%를 넘고 출국 시 세금 환급 지점이 있는 관광지"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "관광 안내 공식 페이지의 주소는 상하이시 푸둥신구 루자주이 인청중로(银城中路) 501호다.",
+    "value": null,
+    "urls": [
+     "https://www.meet-in-shanghai.net/en/tourist-attraction/top-of-shanghai-observatory-914985/"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "전망대는 상하이타워 118층, 높이 546m에 있다.",
+    "value": null,
+    "urls": [
+     "https://en.shanghaitower.com/shagnhai.html"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "관람 동선은 지하 1층 '상하이즈뎬 전시관', 118층 전망대, 125·126층 SKY632 예술 공간으로 이어진다.",
+    "value": null,
+    "urls": [
+     "https://en.shanghaitower.com/shagnhai.html"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "highlight",
+    "text": "118층 전망대에서는 세계에서 가장 빠른 엘리베이터로 올라가 360도 전경을 본다고 공식 사이트가 소개한다.",
+    "value": null,
+    "urls": [
+     "https://en.shanghaitower.com/shagnhai.html"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "description",
+    "text": "상하이즈뎬 전망대는 2017년 4월 정식 개장한 국가 4A급 관광지다.",
+    "value": null,
+    "urls": [
+     "https://www.shanghai.gov.cn/nw4411/20260210/757750e6b47b4f1fb9b728b87615a118.html"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "description",
+    "text": "전망대의 연평균 방문객은 약 170만 명이며 외국인 비율이 30%를 넘는다.",
+    "value": null,
+    "urls": [
+     "https://www.shanghai.gov.cn/nw4411/20260210/757750e6b47b4f1fb9b728b87615a118.html"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "language",
+    "text": "전망대는 다국어 서비스를 개선하고 있다고 상하이시 보도가 전한다.",
+    "value": null,
+    "urls": [
+     "https://www.shanghai.gov.cn/nw4411/20260210/757750e6b47b4f1fb9b728b87615a118.html"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "payment",
+    "text": "전망대에는 출국 시 세금 환급(离境退税) 지점이 추가되었다.",
+    "value": null,
+    "urls": [
+     "https://www.shanghai.gov.cn/nw4411/20260210/757750e6b47b4f1fb9b728b87615a118.html"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "access",
+    "text": "지하철 2호선 루자주이역 6번 출구에서 상하이 IFC몰 LG2를 지나 걸어서 간다.",
+    "value": null,
+    "urls": [
+     "https://en.shanghaitower.com/Publictransit.html"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "access",
+    "text": "지하철 14호선 루자주이역 9A번 출구에서도 걸어서 갈 수 있다.",
+    "value": null,
+    "urls": [
+     "https://en.shanghaitower.com/Publictransit.html"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "access",
+    "text": "푸둥공항에서는 택시나 자가용으로 약 40km, 50분이 걸린다.",
+    "value": "40km/50min",
+    "urls": [
+     "https://en.shanghaitower.com/Publictransit.html"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "access",
+    "text": "푸둥공항에서 자기부상열차를 타고 룽양루역에서 2호선으로 갈아타 둥창루역에서 내리면 약 50분이다.",
+    "value": "50min",
+    "urls": [
+     "https://en.shanghaitower.com/Publictransit.html"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "access",
+    "text": "훙차오공항에서는 택시나 자가용으로 약 25km, 40분이 걸린다.",
+    "value": "40min",
+    "urls": [
+     "https://en.shanghaitower.com/Publictransit.html"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "parking",
+    "text": "건물 지하주차장 출입구는 인청중로, 루자주이환로, 화위안스차오로 세 곳에 있다.",
+    "value": null,
+    "urls": [
+     "https://en.shanghaitower.com/PARKINGLOT.html"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "parking",
+    "text": "지하주차장은 B3~B5 세 개 층에 총 1,800면이며 전기차 충전기가 십여 대 있다.",
+    "value": null,
+    "urls": [
+     "https://en.shanghaitower.com/PARKINGLOT.html"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "parking",
+    "text": "B4·B5 주차면은 월 임대용이며, 방문객용으로 안내된 곳은 B3의 641면이다.",
+    "value": null,
+    "urls": [
+     "https://en.shanghaitower.com/PARKINGLOT.html"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "hours",
+    "text": "운영시간은 매일 08:30~22:00으로 안내된다.",
+    "value": "08:30-22:00",
+    "urls": [
+     "https://www.meet-in-shanghai.net/en/tourist-attraction/top-of-shanghai-observatory-914985/"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "fees",
+    "text": "전망대만 입장하는 정가는 성인 180위안, 어린이 90위안, 노인 120위안이다.",
+    "value": "180/90/120 CNY",
+    "urls": [
+     "https://english.shanghai.gov.cn/en-FestivalsCelebrations/20260515/ee03e0a7bc6e4d87acc0a1cbe5d8ca49.html"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "fees",
+    "text": "전망대와 SKY632 예술 공간을 묶은 결합권 정가는 268위안이다.",
+    "value": "268 CNY",
+    "urls": [
+     "https://english.shanghai.gov.cn/en-FestivalsCelebrations/20260515/ee03e0a7bc6e4d87acc0a1cbe5d8ca49.html"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "fees",
+    "text": "전망대(118층) 성인 정가는 2025년 9월 시 관광 공지에서도 180위안이었다.",
+    "value": "180 CNY",
+    "urls": [
+     "https://english.shanghai.gov.cn/en-FestivalsCelebrations/20250911/9502fe309abc41a9a2f61966e5725b6a.html"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "reservation",
+    "text": "상하이시 문화관광국 공지에 상하이즈뎬 전망대는 실명 구매가 필요한 시설로 올라 있다.",
+    "value": null,
+    "urls": [
+     "https://www.shanghai.gov.cn/nw4411/20240611/7d585934fa1e44f39a358ee54bfdfe76.html"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "reservation",
+    "text": "공식 사이트는 신분증 또는 여권을 지참하라고 안내한다.",
+    "value": null,
+    "urls": [
+     "https://en.shanghaitower.com/shagnhai.html"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "reservation",
+    "text": "공식 온라인 구매 채널은 씨트립, 퉁청(LY.com), 뤼마마, 메이퇀, 다중덴핑이다.",
+    "value": null,
+    "urls": [
+     "https://en.shanghaitower.com/shagnhai.html"
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "tip",
+    "text": "전망대 상담 전화는 (8621)2065 6999이고, 공식 사이트의 문의 핫라인은 (8621)80370150(월~일 09:00~18:00)이다.",
+    "value": null,
+    "urls": [
+     "https://en.shanghaitower.com/contactus.html",
+     "https://en.shanghaitower.com/shagnhai.html"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "hours.conflict",
+   "closed_days",
+   "duration",
+   "fees",
+   "payment",
+   "reservation",
+   "language",
+   "parking",
+   "caution",
+   "stale_source"
+  ]
+ },
+ {
+  "key": "east-su-01",
+  "name_ko": "졸정원",
+  "name_local": "拙政园",
+  "admin_region": "장쑤성 쑤저우시",
+  "address": "苏州市东北街178号",
+  "description": "쑤저우 동북가(东北街) 178호에 있는 졸정원은 면적 5.2헥타르의 쑤저우 고성 안 정원으로, 1961년 국가 중요 문물로 등재되고 1997년 유네스코 세계유산에 올랐습니다. 동쪽은 강남 마을 같은 소박하고 트인 풍경, 중부는 정원의 핵심인 수변 경관, 서쪽은 굽이치는 지붕 회랑이 특징입니다. 물이 전체 면적의 5분의 1을 차지하고 연꽃에서 이름을 딴 건물이 10채 넘어 연꽃 축제로 유명합니다. 3~10월에는 07:30~17:30에 열고 입장은 17:00에 마감하며, 10월은 성수기 요금이 적용됩니다. 실명제 시간대 예약이라 1~7일 전에 온라인으로 예약하고 신분증으로 입장합니다.",
+  "highlights": [
+   "1997년 유네스코 세계유산, 면적 5.2헥타르의 쑤저우 대표 정원",
+   "동쪽은 소박한 마을풍, 중부는 수변 경관, 서쪽은 굽이치는 회랑으로 구역마다 다른 분위기",
+   "전체 면적의 5분의 1이 물이고 연꽃 이름 건물이 10채 넘는 연꽃 명소",
+   "3~10월 07:30~17:30 운영(입장 마감 17:00)",
+   "야간 프로그램 '拙政问雅'는 화~일 18:30~22:00(입장 마감 21:00)",
+   "실명제 시간대 예약, 1~7일 전 온라인 예약 후 신분증으로 입장"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "주소는 쑤저우시 동북가(东北街) 178호다.",
+    "value": null,
+    "urls": [
+     "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "description",
+    "text": "졸정원은 쑤저우 고성 안에 있으며 면적은 5.2헥타르다.",
+    "value": "5.2ha",
+    "urls": [
+     "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "1961년 국가 중요 문물로 등재되었고 1997년 유네스코 세계유산 목록에 올랐다.",
+    "value": null,
+    "urls": [
+     "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "description",
+    "text": "정원 동쪽은 강남 마을 같은 소박하고 트인 풍경이다.",
+    "value": null,
+    "urls": [
+     "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "description",
+    "text": "정원 중부는 핵심 구역으로 수변 풍경이 중심이다.",
+    "value": null,
+    "urls": [
+     "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "description",
+    "text": "정원 서쪽은 굽이치는 지붕 회랑이 특징이다.",
+    "value": null,
+    "urls": [
+     "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "highlight",
+    "text": "연못이 넓어 물이 전체 면적의 5분의 1을 차지하고, 정자와 누각이 모두 물가에 배치되어 있다.",
+    "value": null,
+    "urls": [
+     "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "highlight",
+    "text": "연꽃에서 이름을 딴 건물이 10채 넘고, 해마다 열리는 연꽃 축제로 알려져 있다.",
+    "value": null,
+    "urls": [
+     "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "hours",
+    "text": "3~10월 개방시간은 07:30~17:30이며 입장(검표) 마감은 17:00다.",
+    "value": "07:30-17:30; last 17:00",
+    "urls": [
+     "http://ylj.suzhou.gov.cn/szsylj/kfsj/wztt.shtml"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "hours",
+    "text": "11월~이듬해 2월 개방시간은 07:30~17:00이며 입장 마감은 16:30다.",
+    "value": "07:30-17:00; last 16:30",
+    "urls": [
+     "http://ylj.suzhou.gov.cn/szsylj/kfsj/wztt.shtml"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "hours",
+    "text": "청명, 노동절, 중추절, 국경절 연휴에는 30분 늦은 18:00에 문을 닫는다.",
+    "value": null,
+    "urls": [
+     "http://ylj.suzhou.gov.cn/szsylj/kfsj/wztt.shtml"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "hours",
+    "text": "2026년 6월 19일부터 10월 7일까지는 개원 시간이 06:45로 앞당겨졌다(기간 종료).",
+    "value": null,
+    "urls": [
+     "http://www.suzhou.gov.cn/szsrmzf/dstx/202606/b12c95b19bd14f499300f2324c9aa7dd.shtml"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "hours",
+    "text": "야간 프로그램 '拙政问雅'는 화~일 18:30~22:00, 입장 마감 21:00이며 세부 시간은 공식 위챗 공지를 따른다.",
+    "value": null,
+    "urls": [
+     "http://ylj.suzhou.gov.cn/szsylj/kfsj/wztt.shtml"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "fees",
+    "text": "입장료 상한은 성수기(4·5·7·8·9·10월) 80위안, 비수기(1·2·3·6·11·12월) 70위안이다. 10월은 성수기다.",
+    "value": "peak 80 / off-peak 70 CNY",
+    "urls": [
+     "https://ylj.suzhou.gov.cn/szsylj/mpjg/wztt.shtml"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "fees",
+    "text": "학생 반값 우대는 키 1.4m 이상 아동, 만 6세 초과~18세 이하 미성년자, 대학 학부 이하 재학생이 신분증·학생증을 제시하면 받는다.",
+    "value": null,
+    "urls": [
+     "https://www.suzhou.gov.cn/szsrmzf/mszx/202506/71af3fd4cda04e3f9dab4f55c79ead8f.shtml"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "reservation",
+    "text": "졸정원은 실명제 시간대 예약 구매 방식이며 방문객은 1~7일 전에 온라인 플랫폼으로 예약해야 한다.",
+    "value": null,
+    "urls": [
+     "http://www.suzhou.gov.cn/szsrmzf/dstx/202606/b12c95b19bd14f499300f2324c9aa7dd.shtml"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "reservation",
+    "text": "예약 때 등록한 신분증을 단말기에 대고 입장한다.",
+    "value": null,
+    "urls": [
+     "http://www.suzhou.gov.cn/szsrmzf/dstx/202606/b12c95b19bd14f499300f2324c9aa7dd.shtml"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "reservation",
+    "text": "쑤저우시는 2024년 6월 졸정원 등 7곳만 실명 예약을 유지하고 나머지 A급 관광지는 취소한다고 공지했다.",
+    "value": null,
+    "urls": [
+     "https://www.suzhou.gov.cn/szsrmzf/szyw/202406/40f954ccaae94c33b74a5a4aa08bf968.shtml"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "reservation",
+    "text": "무료 입장 대상자와 연간 회원은 예약 없이 바로 확인 후 입장할 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.suzhou.gov.cn/szsrmzf/szyw/202509/c6128d90df5b4d2e871ce1812c582c64.shtml"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "access",
+    "text": "입장 방식으로 신분증, 사회보장카드, 안면 인식을 지원하는 개찰구가 도입되었다.",
+    "value": null,
+    "urls": [
+     "https://www.suzhou.gov.cn/szsrmzf/szyw/202509/c6128d90df5b4d2e871ce1812c582c64.shtml"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "payment",
+    "text": "쑤저우 직속 정원의 현장 매표 창구는 여러 결제 수단을 지원한다고 안내된다.",
+    "value": null,
+    "urls": [
+     "https://www.suzhou.gov.cn/szsrmzf/szyw/202509/c6128d90df5b4d2e871ce1812c582c64.shtml"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "language",
+    "text": "쑤저우 정원 다수가 다국어 안내판과 명소 설명을 갱신했다고 보도되었다.",
+    "value": null,
+    "urls": [
+     "https://www.suzhou.gov.cn/szsrmzf/szyw/202509/c6128d90df5b4d2e871ce1812c582c64.shtml"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "tip",
+    "text": "대부분의 쑤저우 정원은 휠체어와 유모차를 무료로 빌려준다.",
+    "value": null,
+    "urls": [
+     "https://www.suzhou.gov.cn/szsrmzf/szyw/202509/c6128d90df5b4d2e871ce1812c582c64.shtml"
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "tip",
+    "text": "문의 전화는 962015, 0512-67576116이다.",
+    "value": null,
+    "urls": [
+     "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "caution",
+    "text": "정원 안에서 꽃과 나무 꺾기, 난간 넘기, 잔디 밟기, 나무·대나무 낙서는 금지된다.",
+    "value": null,
+    "urls": [
+     "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "caution",
+    "text": "정원 안은 금연이며 화기와 바비큐 도구 반입이 금지된다.",
+    "value": null,
+    "urls": [
+     "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "caution",
+    "text": "반려동물 동반, 수영·낚시, 허가 없는 상행위와 가이드 행위가 금지된다.",
+    "value": null,
+    "urls": [
+     "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "caution",
+    "text": "입장하려면 표를 구입하거나 유효한 신분증을 제시한 뒤 입구에서 검표를 받아야 한다.",
+    "value": null,
+    "urls": [
+     "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "fees.conflict",
+   "hours.conflict",
+   "closed_days",
+   "duration",
+   "access",
+   "parking",
+   "reservation",
+   "payment",
+   "language",
+   "stale_source"
+  ]
+ },
+ {
+  "key": "east-qd-01",
+  "name_ko": "잔교",
+  "name_local": "栈桥",
+  "admin_region": "산둥성 칭다오시 시난구",
+  "address": "山东省青岛市市南区中山路南端",
+  "description": "잔교(栈桥)는 칭다오 시난구 중산로 남단에 있는 칭다오의 상징 건축물입니다. 1892년 길이 200m, 폭 10m의 부두로 출발했고, 독일 점령기에 350m로 늘어나며 다리 위에 가벼운 철로가 깔렸습니다. 1931년 시 당국이 다시 확장해 길이가 394.38m가 되었고 다리 면도 0.5m 높아졌습니다. 이때 남쪽 끝에 반원형 방파제를 더하고 그 안에 2층 처마의 팔각 누각을 지어 회란각(回澜阁)이라 이름 붙였습니다. 해방 이후에는 칭다오시 정부가 여러 차례 예산을 들여 보수해 왔습니다. 회란각은 2016년에 무료 개방을 시작했으며, 당시 보도에서 순간 최대 수용 인원이 40명으로 소개되었습니다.",
+  "highlights": [
+   "칭다오 시난구 중산로 남단에 자리한 도시의 상징 건축물",
+   "1892년 길이 200m 부두로 시작해 1931년 394.38m로 확장",
+   "다리 남쪽 끝 반원형 방파제 안의 2층 처마 팔각 누각 회란각",
+   "독일 점령기에 350m로 늘어나며 다리 위에 가벼운 철로를 깐 역사",
+   "회란각은 2016년 무료 개방 시작, 순간 최대 수용 인원 40명(당시 보도)"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "잔교는 칭다오시 시난구 중산로 남단에 있다.",
+    "value": null,
+    "urls": [
+     "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "description",
+    "text": "잔교는 칭다오를 대표하는 상징 건축물이다.",
+    "value": null,
+    "urls": [
+     "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "1892년에 지어졌으며 처음에는 길이 200m, 폭 10m의 부두였다.",
+    "value": "200m x 10m",
+    "urls": [
+     "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "description",
+    "text": "독일 점령기에 350m로 확장되고 다리 위에 가벼운 철로가 깔렸다.",
+    "value": "350m",
+    "urls": [
+     "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "description",
+    "text": "1931년 시 당국이 확장해 길이가 394.38m가 되었고 다리 면이 0.5m 높아졌다.",
+    "value": "394.38m",
+    "urls": [
+     "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "description",
+    "text": "다리 남쪽 끝에 반원형 방파제를 더하고 그 안에 2층 처마의 팔각 누각을 지어 회란각(回澜阁)이라 이름 붙였다.",
+    "value": null,
+    "urls": [
+     "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "description",
+    "text": "해방 이후 칭다오시 정부가 여러 차례 예산을 배정해 다리를 보수했다.",
+    "value": null,
+    "urls": [
+     "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "fees",
+    "text": "회란각은 2016년 무료 개방을 시작했고, 개방 첫날 방문객이 4,200명이었다(2016년 보도).",
+    "value": null,
+    "urls": [
+     "http://www.qingdao.gov.cn/ywdt/tpxw/202010/t20201012_325848.shtml"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "caution",
+    "text": "시난구 관계 부서 설명에 따르면 회란각의 순간 최대 수용 인원은 40명이다(2016년 보도).",
+    "value": "40",
+    "urls": [
+     "http://www.qingdao.gov.cn/ywdt/tpxw/202010/t20201012_325848.shtml"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "caution",
+   "hours",
+   "closed_days",
+   "fees",
+   "description.conflict",
+   "access",
+   "parking",
+   "duration",
+   "reservation",
+   "payment",
+   "language"
+  ]
+ }
+]

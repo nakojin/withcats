@@ -2,7 +2,7 @@
  "id": "bj-badaling",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "바다링 만리장성",
   "local": "八达岭长城"
@@ -10,7 +10,7 @@
  "admin_region": "베이징시",
  "former_region": null,
  "city": "베이징",
- "address": null,
+ "address": "北京市延庆区八达岭长城景区",
  "coord": {
   "lat": 40.357644,
   "lng": 116.012063,
@@ -21,93 +21,763 @@
   "osm": "way/1464136593"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "바다링 만리장성은 베이징 옌칭구에 있는 만리장성 구간으로, 수도의 북쪽을 지키는 요충지여서 '북문쇄약(北门锁钥)'이라 불렸고 1987년 유네스코 세계유산에 올랐습니다.",
+ "description": "바다링 만리장성은 베이징 옌칭구에 있는 만리장성 구간으로, 수도의 북쪽을 지키는 요충지여서 '북문쇄약(北门锁钥)'이라 불렸고 1987년 유네스코 세계유산에 올랐습니다. 개방 구간은 북12루부터 남7.5루까지, 길이 3,741m입니다. 성수기(4~10월)에는 매일 6:30~16:30, 비수기(11~3월)에는 7:30~16:00에 엽니다. 입장권은 실명제 사전 예약과 현장 구매를 함께 운영하며, 미리 예약하길 권합니다. 북쪽 공중 케이블카는 8분, 남쪽 지상 케이블카는 6분이면 높은 구간에 오르며, 두 노선 모두 왕복 140위안, 편도 100위안입니다. 자가용은 지정 주차장에 세운 뒤 무료 셔틀로 이동합니다.",
+ "highlights": [
+  "'북문쇄약'이라 불린 요충지, 1987년 유네스코 세계유산 등재",
+  "개방 구간은 북12루~남7.5루, 길이 3,741m",
+  "성수기(4~10월) 6:30~16:30, 비수기(11~3월) 7:30~16:00 매일 개방",
+  "북쪽 케이블카 8분, 남쪽 지상 케이블카 6분(왕복 140위안, 편도 100위안)",
+  "실명제 사전 예약 권장, 현장 구매도 가능"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c2",
+    "r1-b20-c3",
+    "r1-b20-c4",
+    "r1-b20-c5"
+   ],
+   "gap": null
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c18",
+    "r1-b20-c19"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "장성 전체 관람에 걸리는 시간에 대한 공식 안내가 없다(케이블카 탑승 시간만 확인).",
+     "detail": "duration",
+     "run": "r1-b20"
+    }
+   ]
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c6",
+    "r1-b20-c7",
+    "r1-b20-c16",
+    "r1-b20-c17"
+   ],
+   "gap": null
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "정기 휴무일 언급이 없다(개방 시간은 '每日'로 표기). 악천후 임시 폐쇄만 안내되어 있다(c24)."
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c15"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "바다링 장성 본 입장료(성인·학생·노인·무료 대상)는 공식 사이트 API 페이지에서 찾지 못했다(케이블카 요금만 확인). 공식 사이트의 '외국인 구매(外籍人购票)' 채널 페이지도 내용이 비어 있다.",
+     "detail": "fees",
+     "run": "r1-b20"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c12",
+    "r1-b20-c13",
+    "r1-b20-c14"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "외국인의 여권 예약·입장 방법은 공식 페이지에 없다(공식 '外籍人购票' 채널 bdlCnIndexforeignerBuyTicket 내용이 비어 있음).",
+     "detail": "reservation.foreign",
+     "run": "r1-b20"
+    }
+   ]
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "현장 결제 수단(해외 카드·현금·모바일 결제) 가능 여부를 공식 페이지에서 확인하지 못했다."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c20"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "현지 한국어 해설·음성 가이드 제공 여부는 공식 페이지에서 확인하지 못했다(한국어는 웹사이트 소개 페이지만 확인).",
+     "detail": "language.onsite",
+     "run": "r1-b20"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c22",
+    "r1-b20-c23",
+    "r1-b20-c24",
+    "r1-b20-c25"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b20-c1",
+   "field": "location",
+   "text": "바다링 만리장성은 베이징시 옌칭구에 있다(공식 안내의 경내 주소는 '北京市延庆区八达岭长城景区').",
+   "original_text": null,
+   "value": "北京市延庆区",
+   "verdict": "verified",
+   "verify_note": "就餐指南 gives '北京市延庆区八达岭长城景区'. 景点介绍 still uses the old name '延庆县' (stale)",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnJczn&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c2",
+   "field": "access",
+   "text": "자가용은 징짱(G6) 또는 징리(G7) 고속도로로 접근해 안내판과 직원의 지시에 따라 지정 주차장에 세운 뒤 무료 셔틀로 경내에 들어간다.",
+   "original_text": null,
+   "value": "G6 / G7 + 무료 셔틀",
+   "verdict": "verified",
+   "verify_note": "交通路线 (Chinese text uses lowercase g6/g7). Parking fee not stated",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexLineRouter&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c3",
+   "field": "access",
+   "text": "대중교통은 버스 919·880·877번, 교외 철도 S2선, 징장(京张) 고속철도로 갈 수 있으며 운행 상황은 철도 부문 공고를 따른다.",
+   "original_text": null,
+   "value": "919 / 880 / 877, S2, 京张高铁",
+   "verdict": "verified",
+   "verify_note": "交通路线",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexLineRouter&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c4",
+   "field": "access",
+   "text": "국경절·중추절 기간에는 '장성버스'가 매일 9시 국가도서관 지하철역 C출구에서 출발하고, 15:30에 장성서점 앞에서 돌아오며 왕복 80위안(입장권 별도)이다. 이 기간 한정 안내이다.",
+   "original_text": null,
+   "value": "왕복 80 CNY, 9:00 출발 / 15:30 귀환",
+   "verdict": "verified",
+   "verify_note": "Undated text for the National Day/Mid-Autumn period, which is over for 2026. Drop-off at the north cable car entrance",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexLineRouter&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c5",
+   "field": "access",
+   "text": "징장 고속철도 바다링창청역은 북선 케이블카 하부역에서 100m, 교외철도 S2선 바다링역은 남선 지상 케이블카에서 300m 거리이다.",
+   "original_text": null,
+   "value": "100m / 300m",
+   "verdict": "verified",
+   "verify_note": "长城索道 article",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c6",
+   "field": "hours",
+   "text": "성수기(4월 1일~10월 31일)에는 매일 6:30~16:30에 개방한다.",
+   "original_text": null,
+   "value": "6:30-16:30",
+   "verdict": "verified",
+   "verify_note": "购票指南",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c7",
+   "field": "hours",
+   "text": "비수기(11월 1일~다음 해 3월 31일)에는 매일 7:30~16:00에 개방한다.",
+   "original_text": null,
+   "value": "7:30-16:00",
+   "verdict": "verified",
+   "verify_note": "购票指南",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c8",
+   "field": "description",
+   "text": "개방 구간은 북12루(北十二楼)부터 남7.5루(南七楼半)까지이다.",
+   "original_text": null,
+   "value": "北十二楼-南七楼半",
+   "verdict": "verified",
+   "verify_note": "购票指南 二、开放范围",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c9",
+   "field": "description",
+   "text": "대외 개방 길이는 3,741m이고 성대(城台)와 장대(墙台)가 21개이다.",
+   "original_text": null,
+   "value": "3,741m, 21",
+   "verdict": "verified",
+   "verify_note": "八达岭长城 article",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c10",
+   "field": "description",
+   "text": "수도를 지키는 중요한 관문이라 '북문쇄약(北门锁钥)'으로 불렸다.",
+   "original_text": null,
+   "value": "北门锁钥",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c11",
+   "field": "description",
+   "text": "1961년 전국중점문물보호단위, 1987년 유네스코 세계유산 목록에 올랐다.",
+   "original_text": null,
+   "value": "1961 / 1987",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c12",
+   "field": "reservation",
+   "text": "입장권은 위챗 공식 계정 '长城内外旅游'·'八达岭长城', 공식 웹사이트, '长城内外' 온라인 판매 시스템에서 실명제로 예약 구매한다.",
+   "original_text": null,
+   "value": "실명제 예약 구매",
+   "verdict": "verified",
+   "verify_note": "购票指南 三、购票方式",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c13",
+   "field": "reservation",
+   "text": "바다링·수이관·구장성 세 구간은 실명제 예약 구매와 현장 구매를 함께 운영하며, 미리 인터넷으로 예약하길 권한다. 7~8월, 청명절, 노동절, 단오, 중추절, 국경절 등 성수기에도 같다.",
+   "original_text": null,
+   "value": "예약 + 현장 구매 병행",
+   "verdict": "verified",
+   "verify_note": "Notice: 实名制预约购票与现场购票, 倡议提前预约",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexCcNotice&limit=30&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c14",
+   "field": "reservation",
+   "text": "예약 사이트는 '长城内外旅游' 미니프로그램이며, 제3자 플랫폼으로 메이퇀, 씨트립, 뤼마마, 퉁청, 페이주, 가오더 지도가 안내된다. 매표 문의는 4008180088이다.",
+   "original_text": null,
+   "value": "4008180088",
+   "verdict": "verified",
+   "verify_note": "购票指南 gives a different ticket phone, see conflicts",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexCcNotice&limit=30&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c15",
+   "field": "fees",
+   "text": "북선 공중 케이블카와 남선 지상 케이블카 요금은 왕복 140위안, 편도 100위안이고 키 1.2m 이하 어린이는 무료이다. 두 노선 표는 서로 통용된다.",
+   "original_text": null,
+   "value": "왕복 140 / 편도 100 CNY",
+   "verdict": "verified",
+   "verify_note": "长城索道 article",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c16",
+   "field": "hours",
+   "text": "북선 케이블카는 성수기(4~10월) 8:00~16:30, 비수기(11~3월) 9:00~16:00에 운행한다. 구체 시간은 '长城内外旅游' 공식 계정에서 확인하라고 안내한다.",
+   "original_text": null,
+   "value": "성수기 8:00-16:30 / 비수기 9:00-16:00",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c17",
+   "field": "hours",
+   "text": "남선 지상 케이블카는 성수기 9:00~16:30, 비수기 9:00~16:00에 운행하며, 비수기에 남선이 멈추면 북선 케이블카를 이용하라고 안내한다.",
+   "original_text": null,
+   "value": "성수기 9:00-16:30 / 비수기 9:00-16:00",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c18",
+   "field": "duration",
+   "text": "북선 공중 케이블카를 타면 8분 만에 '하오한포(好汉坡)' 북8루에 도착한다.",
+   "original_text": null,
+   "value": "8분",
+   "verdict": "verified",
+   "verify_note": "北八楼 '好汉坡'",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c19",
+   "field": "duration",
+   "text": "남선 지상 케이블카를 타면 6분 만에 남4루(南四楼)에 도착한다.",
+   "original_text": null,
+   "value": "6분",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c20",
+   "field": "language",
+   "text": "공식 웹사이트 설정에는 중국어 외에 영어·러시아어·한국어·일본어 언어 채널이 있다(한국어 페이지에 실제 제공되는 내용은 확인하지 못했다).",
+   "original_text": "공식 웹사이트에 한국어·영어·일본어·러시아어 버전이 있고 한국어로 관광지·서비스 소개가 제공된다.",
+   "value": "한국어 웹사이트 있음",
+   "verdict": "corrected",
+   "verify_note": "siteConfig lists 中文/英文/俄文/韩文/日文 channels only. The Chinese articles checked have empty newsKorea* fields. Korean content could not be confirmed (Korean channel codes guessed twice, error)",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/siteIndex/siteConfig?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteType=bdlInfWebSite",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c21",
+   "field": "tip",
+   "text": "관광지 방문객 서비스센터는 북문쇄약 서쪽 200m에 있으며, 안내데스크에서 전경 안내도·코스 안내도를 제공하고 인터넷, 상담, 무장애 서비스, 수유실, 분실물, 휴대폰 충전 등을 무료로 제공한다.",
+   "original_text": "관광지 서비스센터는 북문쇄약 서쪽 200m에 있고 전동·수동 휠체어, 유모차, 지팡이 대여를 안내하며 무료 와이파이 등 서비스를 제공한다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "The page does not mention wheelchair, stroller or cane rental. The field 'language' is wrong; this is a service/facility fact",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnFwzx&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c22",
+   "field": "caution",
+   "text": "미개방 구간에 들어가거나 성가퀴에 오르거나 뛰어다니거나 반려동물을 데리고 들어가면 안 되며, 성벽에 낙서·부착·걸기도 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "购票指南 四-2/3",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c23",
+   "field": "caution",
+   "text": "경내에서는 화기 사용과 흡연이 금지되며 인화·폭발·위험물 반입이 금지된다. 번개가 칠 때는 통화하지 말라고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "四-3/5",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c24",
+   "field": "caution",
+   "text": "번개·눈비·우박·안개·폭우·강풍 등 악천후나 자연재해로 설비 안전 운행이 어려우면 관광지가 임시 또는 부분 폐쇄될 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "四-6",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c25",
+   "field": "caution",
+   "text": "노약자와 환자는 능력에 맞게 무리하지 말고, 장사꾼의 물건은 사지 말고 소지품을 잘 보관하라고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "四-3",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c26",
+   "field": "tip",
+   "text": "관광지 문의 010-69122222, 긴급 구조 010-69121090, 신고 010-69121477 또는 110이다.",
+   "original_text": null,
+   "value": "010-69122222 / 010-69121090",
+   "verdict": "verified",
+   "verify_note": "Page also gives ticket line 010-69121474 (9:00-17:00), refund/invoice 010-61118002, complaints 010-69121235",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c27",
+   "field": "description",
+   "text": "공식 사이트에 따르면 남4루(南四楼)는 남쪽 구간에서 지대가 가장 높은 곳으로 해발 803.6m이다.",
+   "original_text": "세계 사이트 안내에 따라 남4루는 남쪽 구간에서 가장 높은 지점이며 해발 803.6m이다.",
+   "value": "803.6m",
+   "verdict": "corrected",
+   "verify_note": "Fact verified. The claim text 'Following the world site guidance' is garbled wording. Field should be description, not access",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-s1",
+   "field": "tip",
+   "text": "매표 문의 010-69121474(9:00~17:00), 환불·영수증 문의 010-61118002(9:00~17:00), 케이블카 문의 010-69121016이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-s2",
+   "field": "access",
+   "text": "자가용 차량은 직원 지시에 따라 지정 장소에 주차해야 하며, 불법 영업 차량은 타지 말라고 안내한다(주차 요금은 공식 페이지에 없음).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-s3",
+   "field": "fees",
+   "text": "(확인 불가) 공식 사이트의 공개 JSON(购票指南·通知·景点介绍)에는 장성 입장료 금액이 없다. 외국인 여권 예약 방법과 결제 수단도 나와 있지 않다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexCcNotice&limit=30&page=1",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b20",
+   "text": "Ticket inquiry phone differs across official pages: 4008180088 (notice), 010-69121474 (购票指南), and siteConfig 010-69121268 (customer service/complaint/rescue). The 购票指南 complaint line is 010-69121235."
+  },
+  {
+   "run": "r1-b20",
+   "text": "景点介绍 article uses the pre-2015 name '延庆县'. Use '延庆区' (other official pages). Keep '延庆县' only as former_region."
+  },
+  {
+   "run": "r1-b20",
+   "text": "Most articles have releaseTime 2024-11 (over 12 months ago). gmtModified is 2026-10-10/11 on all of them, which looks like an automatic touch, so the content date cannot be confirmed. Possible stale_source."
+  },
+  {
+   "run": "r1-b20",
+   "text": "长城巴士 info (c4) is undated and tied to the National Day/Mid-Autumn holiday, so the year it applies to is unknown."
+  },
+  {
+   "run": "r1-b20",
+   "text": "Heads-of-state counts are inconsistent across official articles (528 vs 600余位). This is not used in the guide."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -182,6 +852,58 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b20",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 27,
+    "verdicts": {
+     "verified": 24,
+     "corrected": 3,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "주차 요금은 공식 페이지에 없다. 2026년 이전 연휴 보도에 유료·무료 주차장이 함께 있다고만 나오며 현재 요금은 확인하지 못했다.",
+   "run": "r1-b20"
+  },
+  {
+   "topic": "address",
+   "note": "도로명 주소(번지) 표기는 공식 페이지에 없고 '北京市延庆区八达岭长城景区'까지만 확인했다.",
+   "run": "r1-b20"
+  },
+  {
+   "topic": "phone.conflict",
+   "note": "매표 문의 전화 운영시간이 페이지마다 다르다. 구매 안내 페이지 bdlCnGpzn은 010-69121474 9:00-17:00, 예약 구매 페이지 bdlCnIndexBuyTicket은 9:00-16:30이며(퇴표 문의도 9:00-17:00 vs 8:30-17:30) 둘 다 같은 API(http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=...)에서 확인된다. 운영시간은 쓰지 않았다.",
+   "run": "r1-b20"
+  },
+  {
+   "topic": "source_note",
+   "note": "공식 사이트(www.badaling.cn)는 자바스크립트 렌더링 사이트라 사이트가 쓰는 공개 JSON API(http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=...&siteChannelCode=...)를 인용했다. m_code는 http://www.badaling.cn/site-init/get-default 가 반환하는 값이며 바뀔 수 있다. 개별 글의 게시일은 2024-11이지만 수정 시각이 2026-10으로 갱신돼 있어 page_updated는 비웠다.",
+   "run": "r1-b20"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'입장권은 실명제 사전 예약이 원칙이고' — the official notice says real-name advance booking and on-site purchase run side by side, and only recommends booking ahead. Calling advance booking 'the rule' overstates it.",
+   "The description gives no admission fee. No official fee statement was found (see suggested_claims), so the guide must say 'unconfirmed'.",
+   "'성수기 6:30~16:30, 비수기 7:30~16:00 매일 개방' — the season months (성수기 4/1~10/31, 비수기 11/1~3/31) are missing.",
+   "'실명제 사전 예약이 원칙이며 현장 구매도 병행' — overstated, as above."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b20"
  }
 }

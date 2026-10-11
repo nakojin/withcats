@@ -2,7 +2,7 @@
  "id": "east-sh-01",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "와이탄",
   "local": "外滩"
@@ -10,96 +10,359 @@
  "admin_region": "상하이시",
  "former_region": null,
  "city": "상하이",
- "address": null,
+ "address": "上海市黄浦区中山东一路(East Zhongshan No. 1 Road, Huangpu District, Shanghai)",
  "coord": null,
  "coord_note": "좌표 검증 대기 (geocode confidence: low)",
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "와이탄(外滩)은 황푸강 서안을 따라 남쪽 옌안동로에서 북쪽 와이바이두교까지 이어지는 길이 약 1.5km의 역사 지구입니다.",
+ "description": "와이탄(外滩)은 황푸강 서안을 따라 남쪽 옌안동로에서 북쪽 와이바이두교까지 이어지는 길이 약 1.5km의 역사 지구입니다. 강 서쪽에는 고딕, 로마네스크, 바로크 등 다양한 양식의 고전 부흥 양식 건물 52동이 늘어서 '만국건축박람군'으로 불리는 상하이의 대표 명소입니다. 공식 관광 사이트는 하루 종일 개방하는 곳으로 안내하며, 저녁에는 건물에 조명이 켜져 야경 사진 명소가 됩니다. 난징동루 보행가 동쪽 구간이 와이탄과 이어지고, BFC의 펑징루 야시장(360m, 노점 100여 개)과 위안밍위안로의 주말 시장도 있습니다. 지하철 2호선과 10호선으로 갈 수 있고, 와이탄 인포 센터에서는 다국어 안내 자료를 볼 수 있습니다.",
+ "highlights": [
+  "길이 약 1.5km, 옌안동로에서 와이바이두교까지 이어지는 황푸강 서안 구역",
+  "고전 부흥 양식 건물 52동이 늘어선 '만국건축박람군'",
+  "공식 안내상 하루 종일 개방, 저녁에는 건물 조명 야경",
+  "난징동루 보행가와 연결, BFC 펑징루 야시장(노점 100여 개)",
+  "지하철 2호선·10호선으로 접근, 와이탄 인포 센터의 다국어 자료"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b19-c1",
+    "r1-b19-c2"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b19-c5"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "가장 가까운 역·출구·도보 시간이 공식 페이지에 명시되지 않음(2·10호선 연선 소개만 확인).",
+     "detail": "access.station_exit",
+     "run": "r1-b19"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 소요시간 표기 없음."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b19-c3"
+   ],
+   "gap": null
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "'Open All Day'만 표기되어 휴무일·통제 여부는 공식 페이지에 없음."
    }
   },
   "fees": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 입장료 유무가 명시되지 않아 '무료'로 단정하지 않음."
    }
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "와이탄 자체의 예약·실명(여권) 등록 안내가 공식 페이지에 없음."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 결제 수단(외국 카드·현금) 안내 없음."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b19-c11"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내·오디오가이드 여부는 공식 페이지에 없음(번드 인포는 다국어 자료만 표기).",
+     "detail": "language",
+     "run": "r1-b19"
+    }
+   ]
   },
   "caution": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 혼잡 시기·안전 주의 사항 없음."
    }
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b19-c1",
+   "field": "location",
+   "text": "와이탄은 황푸구 중산동일로(East Zhongshan No. 1 Road) 일대에 있다.",
+   "original_text": null,
+   "value": "中山东一路",
+   "verdict": "verified",
+   "verify_note": "meet-in-shanghai The Bund page: 'Zhongshan No 1 Road, Huangpu District'. The night-culture page gives 'East Zhongshan Road (No.1)'.",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/en/huangpu-district/the-bund-648313/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c2",
+   "field": "location",
+   "text": "와이탄은 길이 1.5km로 남쪽 옌안동로에서 북쪽 와이바이두교까지 이어지며 동쪽은 황푸강이다.",
+   "original_text": null,
+   "value": "1.5km",
+   "verdict": "verified",
+   "verify_note": "'Spanning 1.5 kilometers ... from East Yan'an Road in the south to the Waibaidu Bridge in the north, with the Huangpu River to the east'.",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/en/huangpu-district/the-bund-648313/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c3",
+   "field": "hours",
+   "text": "와이탄 풍경구는 하루 종일 개방하는 곳으로 안내되어 있다.",
+   "original_text": null,
+   "value": "Open All Day",
+   "verdict": "verified",
+   "verify_note": "'Opening Hours: Open All Day'. The page adds 'subject to the official release by the venue, this platform is for reference only'.",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/en/nighttime-culture/bund-sightseeing-area-026252/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c4",
+   "field": "description",
+   "text": "와이탄 풍경구에는 고딕, 로마네스크, 바로크 등 서로 다른 양식의 고전 부흥 양식 건물 52동이 있고 '와이탄 만국건축박람군'으로 불린다.",
+   "original_text": null,
+   "value": "52동",
+   "verdict": "verified",
+   "verify_note": "'52 distinctive Classical Revival buildings ... Gothic, Romanesque, and Baroque ... Exhibition of World Architecture'. The Chinese page (2026-06-25) says the same: 52幢, 外滩万国建筑博览群.",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/en/nighttime-culture/bund-sightseeing-area-026252/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.shanghai.gov.cn/citywalk/20260625/9dfb6f86b9664e018607b5cc9ec9a53c.html",
+     "type": "government",
+     "page_updated": "2026-06-25",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c5",
+   "field": "access",
+   "text": "상하이 시 정부 영문 사이트의 지하철 연선 명소 목록에서 2호선과 10호선 연선 명소로 와이탄이 소개된다.",
+   "original_text": null,
+   "value": "2호선, 10호선",
+   "verdict": "verified",
+   "verify_note": "The Bund is listed under Line 2 and Line 10. Page dated 2024-01-04, so the source is stale (more than 12 months). The page gives no station name or exit.",
+   "sources": [
+    {
+     "url": "https://english.shanghai.gov.cn/en-144-hourtransfer-stayinShanghai/20240104/3b5c92d3c61a4cdc9aa65e1c970ed9a8.html",
+     "type": "government",
+     "page_updated": "2024-01-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c6",
+   "field": "description",
+   "text": "저녁에는 와이탄 건물에 조명이 켜져 사진 찍기 좋은 야경이 된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'In the evening, the buildings light up ... endless photo opportunities'. Page dated 2023-12-05, so the source is stale.",
+   "sources": [
+    {
+     "url": "https://english.shanghai.gov.cn/en-ScenicSpots/20231205/584672cc6d044eabb5f7f6fc9049a19f.html",
+     "type": "government",
+     "page_updated": "2025-08-13",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c7",
+   "field": "description",
+   "text": "난징동루 보행가 동쪽 구간은 개조되어 난징로와 와이탄을 직접 연결하며 밤에 조명이 켜진다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'eastern extension of East Nanjing Road Pedestrian Street ... lights up at night, with the renovation linking East Nanjing Road directly to the Bund'.",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/en/nighttime-culture/bund-sightseeing-area-026252/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c8",
+   "field": "tip",
+   "text": "BFC의 펑징루 야시장은 길이 360m에 노점 100여 개가 늘어선다.",
+   "original_text": null,
+   "value": "360m, 100여 개",
+   "verdict": "verified",
+   "verify_note": "'Stretching 360 meters, the Fengjing Road Night Market at the BFC features more than 100 stalls'. The page gives no operating days or hours.",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/en/nighttime-culture/bund-sightseeing-area-026252/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c9",
+   "field": "tip",
+   "text": "위안밍위안로에는 '와이탄위안 주말 시장'이 생겼다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'Waitanyuan Weekend Market on Yuanmingyuan Road'. No days or hours given.",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/en/nighttime-culture/bund-sightseeing-area-026252/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c10",
+   "field": "description",
+   "text": "와이탄 끝의 와이바이두교는 쑤저우허와 황푸강이 만나는 곳에 있는 중국 최초의 전강(全鋼) 리벳 교량이자 유일하게 남은 높이가 다른 트러스 구조 교량이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'China's first fully steel riveted bridge and the only remaining unequal-height truss structure bridge', at the Suzhou River and Huangpu River junction.",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/en/huangpu-district/the-bund-648313/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c11",
+   "field": "language",
+   "text": "와이탄 관광 안내·서비스 센터 '번드 인포'는 개편 후 재개장했으며 다국어 안내 자료를 제공한다(구체적 언어는 미표기).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Easy Shanghai, 2026-01-13: 'Bund info' reopened after renovation, with multilingual guides and materials. The page names no languages and gives no address or hours.",
+   "sources": [
+    {
+     "url": "https://english.shanghai.gov.cn/en-EasyShanghai/20260113/c8289a2cada8454cb5d54f9381a0724c.html",
+     "type": "government",
+     "page_updated": "2026-01-13",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b19",
+   "text": "Building count: official pages say '52' Classical Revival buildings, while the same meet-in-shanghai page also says '115 heritage buildings' (old buildings in the QR-code program). These are different counts, so state the basis if both are used."
+  },
+  {
+   "run": "r1-b19",
+   "text": "english.shanghai.gov.cn pages for c5 (2024-01-04) and c6 (2023-12-05) are more than 12 months old."
+  },
+  {
+   "run": "r1-b19",
+   "text": "'Open All Day' comes from the city tourism portal, which says it is 'for reference only'. There is no operator page."
+  },
+  {
+   "run": "r1-b19",
+   "text": "Collector-unconfirmed items (fees, closed_days, reservation, payment, station exit, parking, caution, duration): checked meet-in-shanghai and the gov.cn citywalk page, and none of these appear. Nothing to suggest."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -179,6 +442,51 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b19",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 11,
+    "verdicts": {
+     "verified": 11,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 0
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "공식 페이지에 주차 안내 없음.",
+   "run": "r1-b19"
+  },
+  {
+   "topic": "building_count.conflict",
+   "note": "건물 수가 52동(임강 고전 부흥 양식 건물: https://www.shanghai.gov.cn/citywalk/20260625/9dfb6f86b9664e018607b5cc9ec9a53c.html)과 115동(오래된 건물 전체: 같은 페이지)으로 범위가 달라 52동만 사용.",
+   "run": "r1-b19"
+  },
+  {
+   "topic": "source_note",
+   "note": "https://english.shanghai.gov.cn/en-ScenicSpots/...(갱신 2025-08-13)와 https://english.shanghai.gov.cn/en-144-hourtransfer-stayinShanghai/...(2024-01-04)는 12개월 이상 지나 stale_source일 수 있음. meet-in-shanghai.net 페이지는 갱신일 미표기.",
+   "run": "r1-b19"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "Description: '강 서쪽에는 … 52동이 늘어서'. Supported by the c6 source (english.shanghai.gov.cn: 'To the river's west are 52 … buildings'), so acceptable. No other unsupported statements found.",
+   "'황푸강변 산책로': no claim covers 'walkway' (s5 mentions a 'long walkway' but no claim was made from it). Minor."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b19"
  }
 }

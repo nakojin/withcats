@@ -1,0 +1,337 @@
+{
+ "places": [
+  {
+   "key": "xa-terracotta",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "guide.html footer: 帝陵地址：陕西省西安市临潼区秦陵北路"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "guide.html: 由秦始皇兵马俑博物馆、秦始皇陵考古遗址公园（丽山园）组成"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "about.html: 两个景点相距2200米，观众可乘坐免费旅游专车往返"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "guide.html: 两处参观均需约1.5小时，可免费乘坐摆渡车往返"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "旺季 3月16日—11月15日 08:30-17:00, 闭馆18:30. The page is undated and its newest notice is from 2023-05-04, so it may be stale. The English page gives different season dates (see conflicts)."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "淡季 11月16日—次年3月15日 08:30-16:30, 闭馆18:00. Same freshness caveat and English-page conflict as c5."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Literal: 以上两处均于17:00时停止检票. This does not fit the off-season 08:30-16:30 window on the same page (see conflicts)."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "实行实名制预约参观…含政策性免票人员、港澳台及外籍观众…官方网站和微信公众号"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "方式一: 官方票务网站 http://bmy.com.cn，使用第二代身份证或护照信息预约购票"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "方式二/三: 【秦始皇帝陵博物院】【兵马俑票务在线】"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "有效身份证件(身份证、港澳通行证、台胞证、回乡证、护照）原件"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "最大承载量每日6.5万人，达到上限将停止售票"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "为避免交通拥堵，请…务必完成网上购票后再前来"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "English site exists. The site's language switch offers only 中/En, with no Korean."
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Phone numbers match the footer exactly."
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "pitone.html: 东西长230米，南北宽62米…面积14260平方米…约埋藏陶俑、陶马6000件"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "pitone.html: 1974年3月，临潼区西杨村的农民打井时…"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "about.html: 1987年12月11日…列入《世界遗产名录》"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "首批国家AAAAA旅游景区 (2007), i.e. among the first batch of 5A sites."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "pithorse.html: 1980年12月, 封土西侧20米, 两乘大型彩绘铜车马; 发现最早、体形最大、保存最完整的青铜车马"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "about.html: 陪葬坑、陪葬墓等600余处"
+    }
+   ],
+   "unsupported_in_description": [
+    "Description has no hours, fees or closing/last-entry info. This is not an error, but travellers would find it useful. c5-c7 support adding hours with a 17:00 ticket-check cutoff."
+   ],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "tip",
+     "text": "공식 사이트는 해설 서비스, 휠체어 대여, 수유실, 식수대, 의무실을 편의 서비스로 안내한다.",
+     "url": "https://www.bmy.com.cn/guide.html"
+    },
+    {
+     "field": "tip",
+     "text": "공식 사이트, 위챗 공식 계정, 웨이보, 더우인 등에서 운영 정보를 수시로 공지하므로 방문 전 확인하라고 안내한다.",
+     "url": "https://www.bmy.com.cn/guide.html"
+    }
+   ],
+   "conflicts": [
+    "Season dates differ between official pages. The Chinese guide.html gives 旺季 3/16-11/15 and 淡季 11/16-3/15. The official English page (bmy.com.cn/jingtai/bmyweb/index.html) gives 'Entering Timing' Mar 1-Nov 30 8:30-17:00 and Dec 1-Feb 28 8:30-16:30.",
+    "guide.html contradicts itself. It gives off-season hours of 08:30-16:30, but also says both sites stop ticket checks at 17:00 year-round.",
+    "guide.html is undated. Its newest 开放公告 is from 2023-05-04 and its copyright line reads 2012-2014. Flag it as a stale_source candidate even though it is the operator's live page.",
+    "The visitor-notice link on guide.html (jingtai/bmyweb/ticketing110.html) returns 404.",
+    "collector_unconfirmed: fees, closed_days, payment, parking and access details are not on the cited pages. A lookup of ticketing110.html (404) found nothing.",
+    "Fetching guide.html was intermittent: TLS resets on several attempts, and http:// returned 503. The page loaded on retry."
+   ]
+  },
+  {
+   "key": "new:cn-shanghai-kpg-provisional-gov",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "meet-in-shanghai (Shanghai Culture & Tourism Bureau platform) and whlyj.sh.gov.cn 2025-01-22 both give 黄浦区马当路306弄4号."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Both meet-in-shanghai pages (cn and jpn) give 09:00-11:30(11:00停止售票) 13:30-17:00(16:30停止售票). The pages are undated (the header date is a stale currentDate widget) and carry the disclaimer '仅供参考，以场馆官方发布为准'. No operator page could be found, and no official page confirms these hours after the reported Aug 1-Sep 14, 2026 renovation. Add the source and a 'check before visiting' note."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "whlyj 2025-01-22: 1919年…在上海成立，1926-1932年在旧址办公. The jpn page gives 1926年7月-1932年5月."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "在上海办公时间最长、也是保存最完整的旧址"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "韩国游客抵达上海后心心念念、必去打卡的精神地标. This is promotional wording from a 2025-01 district-tourism article."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Birthplace page: 2016年7月7日 黄浦区文化局公布为区文物保护点; 1919年4月10日成立; 开放时间: 不开放. The page gives the address only as 黄浦区."
+    }
+   ],
+   "unsupported_in_description": [
+    "'상하이에 도착한 한국인 여행객이 꼭 찾는 정신적 명소로 꼽힌다' is backed by c5, but it is promotional wording and of little practical use.",
+    "Description presents the hours as current with no source date and no mention of the 2026 renovation closure. Re-opening hours are not confirmed by any official page."
+   ],
+   "unsupported_in_highlights": [
+    "Highlight 2 '한국 여행객이 상하이에 꼭 들르는 장소' is promotional (c5) and of little practical use."
+   ],
+   "suggested_claims": [
+    {
+     "field": "description",
+     "text": "1926년 7월부터 1932년 5월까지 김구의 거처에 임시정부가 있었고, 1932년 4월 윤봉길 의거 뒤 항저우·난징·창사·충칭 등으로 옮겼다.",
+     "url": "https://www.meet-in-shanghai.net/jpn/museums/former-provisional-government-of-the-republic-of-korea-site-management-office-382796/"
+    },
+    {
+     "field": "description",
+     "text": "청사 유적은 1993년 4월부터 일반에 공개되었으며, 석고문식 3층 벽돌·목조 연립 건물(건축면적 476.5㎡)이다.",
+     "url": "https://www.meet-in-shanghai.net/jpn/museums/former-provisional-government-of-the-republic-of-korea-site-management-office-382796/"
+    }
+   ],
+   "conflicts": [
+    "Open status could not be confirmed. Secondary sources (Korean press summaries and travel-agency notices found by search) report a renovation closure from 2026-08-01 to 2026-09-14 and re-opening after Sep 15. No official notice of the closure or re-opening could be found: the Consulate General in Shanghai board (overseas.mofa.go.kr/cn-shanghai-ko, m_541) failed with redirect loops and connection resets, and no Huangpu district notice turned up. Search results did show a consulate notice of a 2026-01-05 to 01-08 closure for internal repairs.",
+    "A non-official travel blog (trvlogue.com, '2026년판') lists weekend hours of 09:00-17:00 with no midday break. This differs from the official-platform split hours. It is unverified.",
+    "collector_unconfirmed: fees, reservation, closed_days, access, duration, payment and language are not on any official page reached; two lookups found nothing."
+   ]
+  },
+  {
+   "key": "new:cn-shanghai-oriental-pearl",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "meet-in-shanghai: 地址：浦东新区 (no street address given)."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "每日8:00至22:00（最晚入场时间为21:00）. The page is undated and carries a '仅供参考' disclaimer. The official site orientalpearltower.com returned 405. Ctrip (secondary) shows 09:00-21:00 (see conflicts)."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "This is an inference from '每日'. The page states no closing day."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "集观光、餐饮、购物、文化娱乐于一体的多功能塔式建筑，系国家5A级景区"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "自1995年建成开放以来，这座468米高的塔楼已接待超过1亿名游客"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "灵感源于'大珠小珠落玉盘'的意境"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "whlyj 2024-10-22: 开业30年的…于今年9月29日迎来了第一亿名游客"
+    },
+    {
+     "cid": "c8",
+     "verdict": "corrected",
+     "corrected_text": "2024년 10월 개장 30주년을 맞아 동방명주 도시광장에서 직경 20m 대형 회전 장치 '拾光@东方明珠'를 중심으로 한 빛·물 몰입형 체험 프로젝트가 2024년 10월 18일~11월 18일 한시로 운영되었다.",
+     "note": "The article says 本次活动于2024年10月18日至11月18日向公众开放售票体验, 10:00-22:00. It was a temporary event, not a current attraction."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "二球观光+东方明珠游船 成人票原价（联票）：279元. The source is dated 2025-09-12, now 13 months old; no current official price page could be reached, so keep the source date in the text. Secondary bendibao reports the same original price of 279 for the 2026 festival."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "二球观光+玩具博物馆 成人票原价（联票）：258元. Same 13-month-old source; keep the date in the text."
+    },
+    {
+     "cid": "c11",
+     "verdict": "corrected",
+     "corrected_text": "2025년 9월 상하이시 문화관광국 목록 기준 동방명주 유람선 성인표(1등석) 정가는 130위안이었으며, 2025년 9월 13~19일 상하이 관광절 기간에 한해 낮 운항편(18:00 이전)에 반값 할인이 적용되었다.",
+     "note": "The half-price offer was limited to the 2025-09-13 to 09-19 Shanghai Tourism Festival. The '仅限日航班次（18:00前）' note applies to the festival offer, and also to the 279 combo."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "儿童购买方式/儿童免票规则详见微信官方服务号'东方明珠'下相关产品详情页"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "游客咨询电话：58792888. The description's '021-' prefix is the Shanghai area code; it is correct but not on the page."
+    }
+   ],
+   "unsupported_in_description": [
+    "'상하이의 도시 상징으로 불린다' is on the meet-in-shanghai page (被誉为上海的城市象征) but no claim covers it.",
+    "'문의 전화는 021-58792888' adds an area code not on the source (minor)."
+   ],
+   "unsupported_in_highlights": [
+    "Highlight 5 ('도시광장에서 낮에는 놀이공간, 밤에는 빛과 물 연출이 열리는 몰입형 체험 프로젝트가 소개됨') contradicts corrected c8. It was a temporary event (2024-10-18 to 11-18) that has ended. Remove it or rewrite it in the past tense.",
+    "Highlight 1 '상하이 대표 랜드마크' is loosely supported (the source says 城市象征) but not by any claim."
+   ],
+   "suggested_claims": [],
+   "conflicts": [
+    "Hours conflict: the government tourism platform gives daily 08:00-22:00 with last entry 21:00. Ctrip (secondary, via search) gives 09:00-21:00 with entry stopping at 20:30. The official site orientalpearltower.com returned 405, so this could not be settled.",
+    "The fee source (whlyj 2025-09-12) is more than 12 months old. Secondary bendibao lists a 2026 festival offer (9/12-9/27) of 139元 against the same 279 original. Current prices could not be confirmed on an official page.",
+    "collector_unconfirmed: street address, reservation, payment, access, duration, language and caution are not on any official page reached; the official site lookup failed."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 40,
+  "verified": 38,
+  "corrected": 2,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "I opened every cited URL with curl and judged only from visible page text, with HTML comments and scripts stripped. bmy.com.cn was intermittent (TLS resets, http 503) but loaded on retry.",
+   "The meet-in-shanghai pages run by the Shanghai Culture & Tourism Bureau show a header date (2025年4月17日 / October 21, 2025) that comes from a 'currentDate' widget, not a page-update date. Treat these pages as undated, carrying a '仅供参考' disclaimer.",
+   "KPG site: the 2026-08-01 to 09-14 renovation closure appears only in secondary sources. No official page confirming the closure or the current open status could be found. The guide should date its hours and tell travellers to check before visiting.",
+   "Oriental Pearl fees come from a 13-month-old official list. They are verified only with the source date kept in the text. c11 is corrected to show the half-price offer was a one-week 2025 festival promotion.",
+   "Oriental Pearl c8 (immersive plaza project) was a 2024 one-month event, and highlight 5 should be removed or rewritten in the past tense.",
+   "Terracotta Warriors: the Chinese and English official pages disagree on season boundaries. The guide page also contradicts itself: off-season hours are 08:30-16:30, yet the 17:00 ticket-check cutoff is stated for both sites year-round."
+  ]
+ }
+}

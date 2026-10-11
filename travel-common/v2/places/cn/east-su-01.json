@@ -2,7 +2,7 @@
  "id": "east-su-01",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "졸정원",
   "local": "拙政园"
@@ -10,7 +10,7 @@
  "admin_region": "장쑤성",
  "former_region": null,
  "city": "쑤저우",
- "address": null,
+ "address": "苏州市东北街178号",
  "coord": {
   "lat": 31.326353,
   "lng": 120.624712,
@@ -21,93 +21,785 @@
   "osm": "way/468359738"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "쑤저우 동북가(东北街) 178호에 있는 졸정원은 면적 5.2헥타르의 쑤저우 고성 안 정원으로, 1961년 국가 중요 문물로 등재되고 1997년 유네스코 세계유산에 올랐습니다.",
+ "description": "쑤저우 동북가(东北街) 178호에 있는 졸정원은 면적 5.2헥타르의 쑤저우 고성 안 정원으로, 1961년 국가 중요 문물로 등재되고 1997년 유네스코 세계유산에 올랐습니다. 동쪽은 강남 마을 같은 소박하고 트인 풍경, 중부는 정원의 핵심인 수변 경관, 서쪽은 굽이치는 지붕 회랑이 특징입니다. 물이 전체 면적의 5분의 1을 차지하고 연꽃에서 이름을 딴 건물이 10채 넘어 연꽃 축제로 유명합니다. 원림녹화관리국 안내(2025년 1월 게시) 기준 3~10월에는 07:30~17:30에 열고 입장은 17:00에 마감하며, 2024년 7월 요금표 기준 10월은 성수기 요금이 적용됩니다. 실명제 시간대 예약이라 1~7일 전에 온라인으로 예약하고 신분증으로 입장합니다.",
+ "highlights": [
+  "1997년 유네스코 세계유산, 면적 5.2헥타르의 쑤저우 고성 안 정원",
+  "동쪽은 소박한 마을풍, 중부는 수변 경관, 서쪽은 굽이치는 회랑으로 구역마다 다른 분위기",
+  "전체 면적의 5분의 1이 물이고 연꽃 이름 건물이 10채 넘는 연꽃 명소",
+  "3~10월 07:30~17:30 운영(입장 마감 17:00, 2025년 1월 원림녹화관리국 안내 기준)",
+  "야간 프로그램 '拙政问雅'는 화~일 18:30~22:00(입장 마감 21:00, 2025년 1월 안내 기준)",
+  "실명제 시간대 예약, 1~7일 전 온라인 예약 후 신분증으로 입장"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b24-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b24-c20"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "official_unreachable",
+     "note": "공식 운영 사이트 szzzy.cn은 도메인이 열리지 않아(official_unreachable) 확인 못 함. 영문 정부 페이지의 교통 안내(2021, 지하철 1호선 Linden Road역 등)는 갱신 12개월 초과(stale_source)라 채택하지 않음.",
+     "detail": "access",
+     "run": "r1-b24"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 안내에 소요시간 없음."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b24-c9",
+    "r1-b24-c10",
+    "r1-b24-c11",
+    "r1-b24-c12",
+    "r1-b24-c13"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "영문 공식 페이지는 3/1~11/15 07:30~17:30, 11/16~2월말 07:30~17:00 (http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml, 2021) 이고 원림국 표는 3~10월 07:30~17:30, 11~2월 07:30~17:00 (http://ylj.suzhou.gov.cn/szsylj/kfsj/wztt.shtml, 2025-01-09). 11월 1~15일의 종료 시각이 다르며 최신 표를 채택.",
+     "detail": "hours.conflict",
+     "run": "r1-b24"
+    }
+   ]
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 개방시간표에 정기 휴무 언급이 없어 확인 불가."
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b24-c14",
+    "r1-b24-c15"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "외국인 요금 표기 불일치: 영문 공식 페이지 'Ticket Price for Foreigners' 비수기 70위안/성수기(4·5·7·8·9·10월) 90위안 (http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml, 2021-07-29) vs 쑤저우시 원림국 요금표 성수기 80위안/비수기 70위안 (https://ylj.suzhou.gov.cn/szsylj/mpjg/wztt.shtml, 2024-07-11). 최신인 후자를 claim으로 채택했으나 외국인 별도 요금 여부는 미확정.",
+     "detail": "fees.conflict",
+     "run": "r1-b24"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b24-c16",
+    "r1-b24-c17",
+    "r1-b24-c18",
+    "r1-b24-c19"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "외국인이 여권으로 온라인 예약·입장할 수 있는지, 창구 현장 구매 가능 여부가 공식 페이지에 없음. 신분증 기반 시스템이라는 점만 확인.",
+     "detail": "reservation",
+     "run": "r1-b24"
+    }
+   ]
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b24-c21"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "외국 발행 카드·현금·알리페이/위챗페이 각각의 가능 여부는 공식 페이지에서 확인 못 함.",
+     "detail": "payment",
+     "run": "r1-b24"
+    }
+   ]
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b24-c22"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내·오디오가이드 여부 확인 불가.",
+     "detail": "language",
+     "run": "r1-b24"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b24-c25",
+    "r1-b24-c26",
+    "r1-b24-c27",
+    "r1-b24-c28"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b24-c1",
+   "field": "location",
+   "text": "주소는 쑤저우시 동북가(东北街) 178호다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "No.178 Dong Bei Street. The page shows a 2021-07-29 date, older than 12 months, but this is static data.",
+   "sources": [
+    {
+     "url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+     "type": "government",
+     "page_updated": "2021-07-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c2",
+   "field": "description",
+   "text": "졸정원은 쑤저우 고성 안에 있으며 면적은 5.2헥타르다.",
+   "original_text": null,
+   "value": "5.2ha",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+     "type": "government",
+     "page_updated": "2021-07-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c3",
+   "field": "description",
+   "text": "1961년 국가 중요 문물로 등재되었고 1997년 유네스코 세계유산 목록에 올랐다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+     "type": "government",
+     "page_updated": "2021-07-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c4",
+   "field": "description",
+   "text": "정원 동쪽은 강남 마을 같은 소박하고 트인 풍경이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+     "type": "government",
+     "page_updated": "2021-07-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c5",
+   "field": "description",
+   "text": "정원 중부는 핵심 구역으로 수변 풍경이 중심이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'cream of the garden, featuring Venetian scenes' (water scenery).",
+   "sources": [
+    {
+     "url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+     "type": "government",
+     "page_updated": "2021-07-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c6",
+   "field": "description",
+   "text": "정원 서쪽은 굽이치는 지붕 회랑이 특징이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+     "type": "government",
+     "page_updated": "2021-07-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c7",
+   "field": "highlight",
+   "text": "연못이 넓어 물이 전체 면적의 5분의 1을 차지하고, 정자와 누각이 모두 물가에 배치되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+     "type": "government",
+     "page_updated": "2021-07-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c8",
+   "field": "highlight",
+   "text": "연꽃에서 이름을 딴 건물이 10채 넘고, 해마다 열리는 연꽃 축제로 알려져 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+     "type": "government",
+     "page_updated": "2021-07-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c9",
+   "field": "hours",
+   "text": "쑤저우시 원림녹화관리국 안내(2025년 1월 게시) 기준 3~10월 개방시간은 07:30~17:30이며 입장(검표) 마감은 17:00다.",
+   "original_text": "3~10월 개방시간은 07:30~17:30이며 입장(검표) 마감은 17:00다.",
+   "value": "07:30-17:30; last 17:00",
+   "verdict": "corrected",
+   "verify_note": "Source dated 2025-01-09, over 12 months old. No current official page confirms the closing time. The 2026-06 notice implies the regular opening is 07:30. Conflicts with the 2021 English page ('March 1 to November 15').",
+   "sources": [
+    {
+     "url": "http://ylj.suzhou.gov.cn/szsylj/kfsj/wztt.shtml",
+     "type": "government",
+     "page_updated": "2025-01-09",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c10",
+   "field": "hours",
+   "text": "쑤저우시 원림녹화관리국 안내(2025년 1월 게시) 기준 11월~이듬해 2월 개방시간은 07:30~17:00이며 입장 마감은 16:30다.",
+   "original_text": "11월~이듬해 2월 개방시간은 07:30~17:00이며 입장 마감은 16:30다.",
+   "value": "07:30-17:00; last 16:30",
+   "verdict": "corrected",
+   "verify_note": "Stale source. A 2026-02 suzhou.gov.cn article says closing was extended to 17:30 for Spring Festival, which indirectly supports a normal 17:00 closing. The 2021 English page says winter hours start Nov 16.",
+   "sources": [
+    {
+     "url": "http://ylj.suzhou.gov.cn/szsylj/kfsj/wztt.shtml",
+     "type": "government",
+     "page_updated": "2025-01-09",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c11",
+   "field": "hours",
+   "text": "쑤저우시 원림녹화관리국 안내(2025년 1월 게시) 기준 청명, 노동절, 중추절, 국경절 연휴에는 30분 늦은 18:00에 문을 닫는다.",
+   "original_text": "청명, 노동절, 중추절, 국경절 연휴에는 30분 늦은 18:00에 문을 닫는다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "Stale source. Date added.",
+   "sources": [
+    {
+     "url": "http://ylj.suzhou.gov.cn/szsylj/kfsj/wztt.shtml",
+     "type": "government",
+     "page_updated": "2025-01-09",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c12",
+   "field": "hours",
+   "text": "2026년 6월 19일부터 10월 7일까지는 개원 시간이 06:45로 앞당겨졌다(기간 종료).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "2026-06-19 article: early 06:45 opening from Jun 19 to Oct 7.",
+   "sources": [
+    {
+     "url": "http://www.suzhou.gov.cn/szsrmzf/dstx/202606/b12c95b19bd14f499300f2324c9aa7dd.shtml",
+     "type": "government",
+     "page_updated": "2026-06-19",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c13",
+   "field": "hours",
+   "text": "쑤저우시 원림녹화관리국 안내(2025년 1월 게시) 기준 야간 프로그램 '拙政问雅'는 화~일 18:30~22:00, 입장 마감 21:00이며 세부 시간은 공식 위챗(苏州园林旅游) 공지를 따른다.",
+   "original_text": "야간 프로그램 '拙政问雅'는 화~일 18:30~22:00, 입장 마감 21:00이며 세부 시간은 공식 위챗 공지를 따른다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "Stale source. Date added.",
+   "sources": [
+    {
+     "url": "http://ylj.suzhou.gov.cn/szsylj/kfsj/wztt.shtml",
+     "type": "government",
+     "page_updated": "2025-01-09",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c14",
+   "field": "fees",
+   "text": "쑤저우시 원림녹화관리국 요금표(2024년 7월 게시) 기준 입장료는 성수기(4·5·7·8·9·10월) 80위안, 비수기(1·2·3·6·11·12월) 70위안이며 10월은 성수기다.",
+   "original_text": "입장료 상한은 성수기(4·5·7·8·9·10월) 80위안, 비수기(1·2·3·6·11·12월) 70위안이다. 10월은 성수기다.",
+   "value": "peak 80 / off-peak 70 CNY",
+   "verdict": "corrected",
+   "verify_note": "The cited page says only 门票价格, not 上限 (cap). It is dated 2024-07-11 (stale), and no 2026 price notice was found. A 2020 fg.suzhou.gov.cn PDF lists 80/70 as a 价格上限.",
+   "sources": [
+    {
+     "url": "https://ylj.suzhou.gov.cn/szsylj/mpjg/wztt.shtml",
+     "type": "government",
+     "page_updated": "2024-07-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c15",
+   "field": "fees",
+   "text": "2025년 6월 쑤저우시 보도 기준, 키 1.4m 이상 아동, 만 6세 초과~18세 이하 미성년자, 대학 학부 이하 재학생은 신분증·학생증을 제시하면 상시 반값 우대를 받는다.",
+   "original_text": "학생 반값 우대는 키 1.4m 이상 아동, 만 6세 초과~18세 이하 미성년자, 대학 학부 이하 재학생이 신분증·학생증을 제시하면 받는다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "Source dated 2025-06-11 (16 months old). Content matches (常态化 student half price). Date added.",
+   "sources": [
+    {
+     "url": "https://www.suzhou.gov.cn/szsrmzf/mszx/202506/71af3fd4cda04e3f9dab4f55c79ead8f.shtml",
+     "type": "government",
+     "page_updated": "2025-06-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c16",
+   "field": "reservation",
+   "text": "졸정원은 실명제 시간대 예약 구매 방식이며 방문객은 1~7일 전에 온라인 플랫폼으로 예약해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "2026-06-19 article.",
+   "sources": [
+    {
+     "url": "http://www.suzhou.gov.cn/szsrmzf/dstx/202606/b12c95b19bd14f499300f2324c9aa7dd.shtml",
+     "type": "government",
+     "page_updated": "2026-06-19",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c17",
+   "field": "reservation",
+   "text": "예약 때 등록한 신분증을 단말기에 대고 입장한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://www.suzhou.gov.cn/szsrmzf/dstx/202606/b12c95b19bd14f499300f2324c9aa7dd.shtml",
+     "type": "government",
+     "page_updated": "2026-06-19",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c18",
+   "field": "reservation",
+   "text": "쑤저우시는 2024년 6월 졸정원 등 7곳만 실명 예약을 유지하고 나머지 A급 관광지는 취소한다고 공지했다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "2024-06-08 article: 7 scenic spots keep real-name booking. Historical statement.",
+   "sources": [
+    {
+     "url": "https://www.suzhou.gov.cn/szsrmzf/szyw/202406/40f954ccaae94c33b74a5a4aa08bf968.shtml",
+     "type": "government",
+     "page_updated": "2024-06-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c19",
+   "field": "reservation",
+   "text": "2025년 9월 쑤저우시 보도 기준, 무료 입장 대상자와 연간 회원은 예약 없이 바로 확인 후 입장할 수 있다.",
+   "original_text": "무료 입장 대상자와 연간 회원은 예약 없이 바로 확인 후 입장할 수 있다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "Source dated 2025-09-03 (13 months old). No current confirmation found.",
+   "sources": [
+    {
+     "url": "https://www.suzhou.gov.cn/szsrmzf/szyw/202509/c6128d90df5b4d2e871ce1812c582c64.shtml",
+     "type": "government",
+     "page_updated": "2025-09-03",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c20",
+   "field": "access",
+   "text": "입장 방식으로 신분증, 사회보장카드, 안면 인식을 지원하는 개찰구가 도입되었다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Gates accept ID card, social security card and face recognition. The field 'access' is a poor fit; reservation/entry is better.",
+   "sources": [
+    {
+     "url": "https://www.suzhou.gov.cn/szsrmzf/szyw/202509/c6128d90df5b4d2e871ce1812c582c64.shtml",
+     "type": "government",
+     "page_updated": "2025-09-03",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c21",
+   "field": "payment",
+   "text": "쑤저우 직속 정원의 현장 매표 창구는 여러 결제 수단을 지원한다고 안내된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "A 2026-02 suzhou.gov.cn article also confirms windows accept WeChat, Alipay, card and cash.",
+   "sources": [
+    {
+     "url": "https://www.suzhou.gov.cn/szsrmzf/szyw/202509/c6128d90df5b4d2e871ce1812c582c64.shtml",
+     "type": "government",
+     "page_updated": "2025-09-03",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c22",
+   "field": "language",
+   "text": "쑤저우 정원 다수가 다국어 안내판과 명소 설명을 갱신했다고 보도되었다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.suzhou.gov.cn/szsrmzf/szyw/202509/c6128d90df5b4d2e871ce1812c582c64.shtml",
+     "type": "government",
+     "page_updated": "2025-09-03",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c23",
+   "field": "tip",
+   "text": "대부분의 쑤저우 정원은 휠체어와 유모차를 무료로 빌려준다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'多数园林...免费出借轮椅、婴儿车'. Also stated for Spring Festival 2026.",
+   "sources": [
+    {
+     "url": "https://www.suzhou.gov.cn/szsrmzf/szyw/202509/c6128d90df5b4d2e871ce1812c582c64.shtml",
+     "type": "government",
+     "page_updated": "2025-09-03",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c24",
+   "field": "tip",
+   "text": "문의 전화는 962015, 0512-67576116이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Page dated 2021: stale_source.",
+   "sources": [
+    {
+     "url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+     "type": "government",
+     "page_updated": "2021-07-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c25",
+   "field": "caution",
+   "text": "정원 안에서 꽃과 나무 꺾기, 난간 넘기, 잔디 밟기, 나무·대나무 낙서는 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+     "type": "government",
+     "page_updated": "2021-07-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c26",
+   "field": "caution",
+   "text": "정원 안은 금연이며 화기와 바비큐 도구 반입이 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Except special places or activities.",
+   "sources": [
+    {
+     "url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+     "type": "government",
+     "page_updated": "2021-07-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c27",
+   "field": "caution",
+   "text": "반려동물 동반, 수영·낚시, 허가 없는 상행위와 가이드 행위가 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Swimming and fishing are allowed only for special activities.",
+   "sources": [
+    {
+     "url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+     "type": "government",
+     "page_updated": "2021-07-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-c28",
+   "field": "caution",
+   "text": "입장하려면 표를 구입하거나 유효한 신분증을 제시한 뒤 입구에서 검표를 받아야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+     "type": "government",
+     "page_updated": "2021-07-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-s1",
+   "field": "payment",
+   "text": "현장 매표 창구는 위챗페이, 알리페이, 카드, 현금 결제를 지원한다(2026년 2월 쑤저우시 보도).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.suzhou.gov.cn/szsrmzf/bmdt/202602/08abc52bc6254edc94bbcb310677b621.shtml",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-s2",
+   "field": "tip",
+   "text": "2026년 춘절 기간 쑤저우 원림은 짐 보관, 휠체어, 유모차를 무료로 제공했다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.suzhou.gov.cn/szsrmzf/bmdt/202602/08abc52bc6254edc94bbcb310677b621.shtml",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  },
+  {
+   "cid": "r1-b24-s3",
+   "field": "access",
+   "text": "쑤저우시 영문 안내(2021년 게시)에 따르면 관광버스 1·2·5번 또는 178·202·309·40·313번 버스로 갈 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b24"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b24",
+   "text": "Fees: the 2021 English city page gives the foreigner busy-season price as RMB 90; the 2024-07 garden bureau table and the 2020 price-cap PDF say 80."
+  },
+  {
+   "run": "r1-b24",
+   "text": "Hours: the 2021 English page says 7:30-17:30 runs to Nov 15 (winter from Nov 16); the 2025-01 bureau table says summer hours run Mar-Oct. This matters for Nov 1-15."
+  },
+  {
+   "run": "r1-b24",
+   "text": "Stale sources: hours page 2025-01, fee page 2024-07, student discount 2025-06, no-booking-for-free-visitors 2025-09, English intro 2021."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -197,6 +889,48 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b24",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 28,
+    "verdicts": {
+     "verified": 21,
+     "corrected": 7,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "주차 가능 여부·요금이 접근 가능한 공식 페이지에 없음.",
+   "run": "r1-b24"
+  },
+  {
+   "topic": "stale_source",
+   "note": "요금표(2024-07-11)와 영문 정부 소개(2021-07-29)는 갱신 12개월 초과. 요금은 현행과 다를 수 있음. 운영 사이트 szzzy.cn 접속 불가(official_unreachable)로 대체 공식 출처를 확인하지 못함.",
+   "run": "r1-b24"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'3~10월에는 07:30~17:30에 열고 입장은 17:00에 마감' relies on a 2025-01 source. The source date needs to be stated (see corrected c9).",
+   "'3~10월 07:30~17:30 운영(입장 마감 17:00)': state the source date (corrected c9).",
+   "'야간 프로그램 拙政问雅는 화~일 18:30~22:00': state the source date (corrected c13).",
+   "'쑤저우 대표 정원': the page says 'one of the 4 most famous gardens of China', so the wording is loosely supported."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b24"
  }
 }

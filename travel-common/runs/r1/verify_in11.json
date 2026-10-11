@@ -1,0 +1,802 @@
+[
+ {
+  "key": "kr-busan-gamcheon-culture-village",
+  "name_ko": "감천문화마을",
+  "name_local": "감천문화마을",
+  "admin_region": "부산광역시 사하구 감천동",
+  "address": "부산광역시 사하구 감내2로 203 (감천동, 마을안내센터)",
+  "description": "한국전쟁 피란민과 1950년대 태극도 신앙촌 주민이 정착하며 형성된 부산 사하구의 산비탈 마을로, 천마산 자락을 따라 계단식 주택이 이어진다. 마을안내센터(감내2로 203)에서는 골목투어 지도 판매, 물품 보관소, 마을 해설사 소개를 이용할 수 있다. 사하구 추천 코스는 안내센터에서 하늘마루·작은박물관 등을 거치는 40분 왕복 코스와 1시간 20분 코스가 있다. 2026년 8월 1일 특별관리지역으로 고시되었고 시행일은 2027년 1월 1일이다. 주거 밀집지역은 09:00~18:00에만 방문하도록 운영하며, 10인 이상 단체는 방문객 지도를 의무 구입해야 한다. 주민이 사는 마을이므로 일상을 존중해야 한다.",
+  "highlights": [
+   "계단식 주거지가 이어지는 피란민 산복마을",
+   "마을안내센터에서 골목투어 지도 판매·물품 보관·해설사 소개",
+   "40분 왕복 코스와 1시간 20분 알짜·스탬프 코스",
+   "2026.8.1 특별관리지역 고시, 2027.1.1 시행",
+   "주거 밀집지역 방문 시간 09:00~18:00",
+   "대형버스 사전 예약제, 감내2로 관광객 탑승차량 통행 제한"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "마을안내센터의 주소는 부산광역시 사하구 감내2로 203(감천동)이다.",
+    "value": "부산광역시 사하구 감내2로 203",
+    "urls": [
+     "https://www.gamcheon.or.kr/",
+     "https://eulsukdo.saha.go.kr/tour/contents.do?mId=0101010000"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "description",
+    "text": "감천문화마을은 한국전쟁 때 피란민이 정착하며 형성된 산복마을로, 근현대사의 흔적과 주민의 삶이 남아 있다.",
+    "value": null,
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro1"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "1950년대 태극도 신앙촌이 조성되면서 오늘날의 마을 모습이 갖추어졌고, 천마산 자락을 따라 계단식 주거지가 이어진다.",
+    "value": "1950년대",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro1"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "description",
+    "text": "뒷집의 햇빛과 조망을 배려해 지은 독특한 마을 구조가 이곳만의 경관과 공동체 문화를 보여준다.",
+    "value": null,
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro1"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "대중교통은 시내버스 61번과 마을버스 서구2, 서구2-2, 사하구1, 사하구1-1을 안내한다.",
+    "value": "시내버스 61, 마을버스 서구2·서구2-2·사하구1·사하구1-1",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro4"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "access",
+    "text": "지하철 1호선 토성역 6번 출구(부산대병원)에서 마을버스 서구2, 서구2-2, 사하구1-1로 환승한다.",
+    "value": "1호선 토성역 6번 출구",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro4"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "access",
+    "text": "지하철 1호선 자갈치역 1번 출구(충무시장 정류장)에서도 같은 마을버스(서구2, 서구2-2, 사하구1-1)로 환승한다.",
+    "value": "1호선 자갈치역 1번 출구",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro4"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "parking",
+    "text": "공영 주차장은 두 곳이다. 사하구 옥천로 130 부산교육역사관 지하(78면)와 사하구 감내1로175번길 5(40면)이다.",
+    "value": "78면 / 40면",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro4"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "parking",
+    "text": "공식 안내는 주차장이 부족하니 대중교통을 이용하라고 권하고, 대형버스는 예약시스템으로 사전 예약해야 한다고 적는다.",
+    "value": null,
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro4"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "parking",
+    "text": "마을 홈페이지에는 주차 예약 메뉴가 있으며, 방문일·시간·차량 대수·인원을 선택해 예약하고 기본 이용 시간은 90분이다.",
+    "value": "기본 90분",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/group-tour-reservation"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "parking",
+    "text": "한국관광공사 영문 안내는 주차가 가능하며 무료라고 표기한다.",
+    "value": "Available (Free)",
+    "urls": [
+     "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "hours",
+    "text": "마을안내센터 운영시간은 09:00~18:00이다.",
+    "value": "09:00-18:00",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro4"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "closed_days",
+    "text": "마을안내센터는 연중무휴다.",
+    "value": "연중무휴",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro4"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "hours",
+    "text": "특별관리지역 주거 밀집지역은 방문 시간이 09:00~18:00이며 시행일은 2027년 1월 1일이다.",
+    "value": "09:00-18:00",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "caution",
+    "text": "2026년 8월 1일 특별관리지역으로 지정·고시되었고 시행일은 2027년 1월 1일이다.",
+    "value": "고시 2026-08-01 / 시행 2027-01-01",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "caution",
+    "text": "10인 이상 단체 방문객은 방문객 지도를 의무 구입해야 하며 2026년 8월 1일부터 시행 중이다.",
+    "value": "10인 이상",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "access",
+    "text": "관광객 탑승 차량(택시 포함)은 감내2로에서 통행이 제한되며, 제한 시간은 09:00~18:00, 구간은 안내센터 입구에서 추억의 그림자 포토존까지 약 1km다.",
+    "value": "09:00-18:00, 약 1km",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "caution",
+    "text": "통행 제한 위반 과태료는 2028년 1월 1일부터 부과하며 2026년 8월 1일부터 2027년 12월 31일까지는 계도 기간이다.",
+    "value": "2028-01-01",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "reservation",
+    "text": "대형버스는 사전 예약제를 실시한다.",
+    "value": null,
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "caution",
+    "text": "불법 주정차, 무단 투기, 소음, 사생활 침해 행위를 관리한다.",
+    "value": null,
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/ko/download"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "caution",
+    "text": "마을 공지는 드론 촬영을 금지한다(No drones).",
+    "value": null,
+    "urls": [
+     "https://www.gamcheon.or.kr/"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "caution",
+    "text": "주민이 실제로 사는 마을이므로 일상을 존중하고 서로 배려해 달라고 안내한다.",
+    "value": null,
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro1"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "duration",
+    "text": "사하구 추천 메인도로 왕복 코스는 마을안내센터에서 바다포토존까지 40분 걸린다.",
+    "value": "40분",
+    "urls": [
+     "https://eulsukdo.saha.go.kr/tour/contents.do?mId=0101010000"
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "duration",
+    "text": "알짜 코스와 스탬프 코스는 각각 1시간 20분이 걸린다.",
+    "value": "1시간 20분",
+    "urls": [
+     "https://eulsukdo.saha.go.kr/tour/contents.do?mId=0101010000"
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "highlight",
+    "text": "마을안내센터는 관광정보와 편의공간을 제공하며 골목투어 지도 판매, 물품 보관소 운영, 마을 해설사 소개를 한다.",
+    "value": null,
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro2"
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "highlight",
+    "text": "하늘마루는 부산항과 감천항을 함께 내려다보는 전망대 겸 전시 안내관이다.",
+    "value": null,
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro2"
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "highlight",
+    "text": "작은박물관에서는 주민이 모은 옛 사진과 생활용품, 2009년 마을미술프로젝트부터 이어진 마을 조성 과정을 볼 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro2"
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "reservation",
+    "text": "체험 프로그램은 운영시간이 시작 기준 09:00~16:00이고 전화(051-291-1444)로 접수하며 당일 예약은 안 되고 당월부터 3개월 이내까지 예약할 수 있다.",
+    "value": "09:00-16:00, 3개월 이내",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/program"
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "payment",
+    "text": "체험 프로그램은 예약일 3일 전까지 전액 환불, 2일 전~1일 전은 50% 환불이며 당일 취소나 무단 불참은 환불이 제한될 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/refund"
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "fees",
+    "text": "한국관광공사 영문 안내는 요금을 무료(Free)로 표기한다.",
+    "value": "무료",
+    "urls": [
+     "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894"
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "language",
+    "text": "마을 공식 사이트와 소개 PDF는 한국어, 영어, 중국어, 일본어를 제공한다.",
+    "value": "ko/en/zh/ja",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro1"
+    ]
+   },
+   {
+    "cid": "c32",
+    "field": "tip",
+    "text": "입주작가 공방은 총 9곳이고 방문을 원하면 사전 연락(051-204-1444)을 하라고 안내한다.",
+    "value": "9곳",
+    "urls": [
+     "https://www.gamcheon.or.kr/gamcheon/page/user/intro2"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "hours.conflict",
+   "parking.fee",
+   "fees",
+   "payment",
+   "language.korean_guide",
+   "closed_days"
+  ]
+ },
+ {
+  "key": "new:kr-seoul-myeongdong",
+  "name_ko": "명동",
+  "name_local": "명동",
+  "admin_region": "서울특별시 중구",
+  "address": "서울특별시 중구 명동2가 일대 (공식 출처마다 대표 주소 표기가 다름)",
+  "description": "서울 중구의 대표 쇼핑 거리로, 서울 공식 관광 사이트는 쇼핑의 메카이자 상업·금융·문화의 중심지로 소개한다. 중구청은 약 1km 거리에 눈스퀘어, 롯데백화점, 신세계백화점 등 대형 쇼핑센터와 국내외 브랜드 매장이 모여 있다고 설명한다. 거리 노점과 일반 매장이 섞여 있고 한국 화장품 매장이 많다. 지하철 4호선 명동역 5~10번 출구가 접근 지점이며 매일 열리지만 운영 시간은 점포마다 다르다. 상인들이 영어·중국어·일본어로도 응대한다고 안내하며, 한국관광공사 1330 여행 핫라인은 한국어를 포함한 4개 언어로 상담한다.",
+  "highlights": [
+   "약 1km 거리에 대형 쇼핑센터와 국내외 브랜드 집중",
+   "한국 화장품 매장이 많은 K-뷰티 쇼핑 거리",
+   "거리 노점과 일반 매장이 섞인 구성",
+   "지하철 4호선 명동역 5~10번 출구",
+   "영어·중국어·일본어 응대 상인",
+   "돈가스·칼국수 식당이 많은 지역"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "명동은 서울특별시 중구 명동2가 일대에 있다.",
+    "value": "서울특별시 중구 명동2가",
+    "urls": [
+     "https://www.junggu.seoul.kr/english/content.do?cmsid=14885",
+     "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88011"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "지하철 4호선 명동역 5~10번 출구가 접근 지점으로 안내된다.",
+    "value": "4호선 명동역 5-10번 출구",
+    "urls": [
+     "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "두 주요 거리 중 하나는 4호선 명동역에서, 다른 하나는 을지로의 롯데백화점에서 시작해 블록 중앙에서 만난다.",
+    "value": null,
+    "urls": [
+     "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88011"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "hours",
+    "text": "매일 운영하며 영업시간은 점포마다 다르다.",
+    "value": "매일, 점포별 상이",
+    "urls": [
+     "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "closed_days",
+    "text": "서울 공식 관광 사이트는 매일 연다(Open daily)고 표기하며, 정기 휴무일은 따로 없는 것으로 읽히나 점포별 휴무는 다를 수 있다.",
+    "value": "매일 운영",
+    "urls": [
+     "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "description",
+    "text": "서울 공식 관광 사이트는 명동을 서울의 쇼핑 메카이자 상업·금융·문화의 중심지로, 낮 시간 인구가 150만~200만 명이라고 소개한다.",
+    "value": "150만-200만",
+    "urls": [
+     "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "highlight",
+    "text": "거리 노점과 일반 매장이 섞여 있고 한국 화장품 매장이 많다.",
+    "value": null,
+    "urls": [
+     "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "highlight",
+    "text": "약 1km 길이의 거리에 눈스퀘어, 롯데백화점, 신세계백화점 등 대형 쇼핑센터와 국내외 브랜드 매장이 모여 있다.",
+    "value": "약 1km",
+    "urls": [
+     "https://www.junggu.seoul.kr/english/content.do?cmsid=14885"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "highlight",
+    "text": "한국관광공사는 남대문·동대문과 달리 명동에 디자이너 브랜드가 많이 입점해 있다고 설명한다.",
+    "value": null,
+    "urls": [
+     "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88011"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "highlight",
+    "text": "명동에는 돈가스와 칼국수를 내는 식당이 많다.",
+    "value": null,
+    "urls": [
+     "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88011"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "language",
+    "text": "중구청은 명동 상인들이 영어뿐 아니라 중국어와 일본어로도 응대하고 화장품 매장은 다양한 언어 서비스를 제공한다고 안내한다.",
+    "value": "en/zh/ja",
+    "urls": [
+     "https://www.junggu.seoul.kr/english/content.do?cmsid=14885"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "language",
+    "text": "한국관광공사 1330 여행 핫라인(+82-2-1330)은 한국어, 영어, 일본어, 중국어로 상담한다.",
+    "value": "1330",
+    "urls": [
+     "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88011"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "caution",
+    "text": "일본·중국의 황금연휴(봄)에는 일본·중국 관광객이 몰려 붐빈다고 서울 공식 관광 사이트가 적는다.",
+    "value": null,
+    "urls": [
+     "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "tip",
+    "text": "문의 전화는 다산콜 +82-2-120(서울 공식 관광 사이트)과 +82-2-778-0333(한국관광공사 페이지)이 안내된다.",
+    "value": "02-120 / 02-778-0333",
+    "urls": [
+     "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067",
+     "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88011"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "address.conflict",
+   "fees",
+   "parking",
+   "duration",
+   "reservation",
+   "payment",
+   "caution",
+   "hours.underground"
+  ]
+ },
+ {
+  "key": "WEST-042",
+  "name_ko": "오키나와 추라우미수족관",
+  "name_local": "沖縄美ら海水族館",
+  "admin_region": "오키나와현 구니가미군 모토부정",
+  "address": "〒905-0206 오키나와현 구니가미군 모토부쵸 이시카와 424번지",
+  "description": "오키나와 본섬 북부 모토부정의 해양박공원 안에 있는 수족관으로, 수면에서 수심 700m 부근까지 오키나와 바다를 4개 층의 전시로 재현한다. 고래상어와 쥐가오리를 볼 수 있는 대형 수조 '쿠로시오의 바다', 산호 사육 전시, 심해 구역이 대표 전시다. 평상시 운영시간은 8시 30분~18시 30분(입장 마감 17시 30분)이며 2027년 3월 31일까지 정기 휴관 계획이 없다. 입장료는 성인 2,180엔, 고등학생 1,440엔, 초·중학생 710엔이고 6세 미만은 무료다. 해양박공원 주차장은 전부 무료이고, 한국어 영상 통역과 한국어를 지원하는 무료 와이파이도 있다.",
+  "highlights": [
+   "수면~수심 700m까지 오키나와 바다를 재현한 4층 전시",
+   "고래상어·쥐가오리를 보는 대형 수조 쿠로시오의 바다",
+   "평상시 8:30~18:30, 정기 휴관 없음(2027.3.31까지)",
+   "6세 미만 무료, 같은 날 재입장 가능",
+   "해양박공원 주차장 전부 무료",
+   "한국어 영상 통역·한국어 지원 와이파이"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "주소는 〒905-0206 오키나와현 구니가미군 모토부쵸 이시카와 424번지이며 해양박공원 안에 있다.",
+    "value": "沖縄県国頭郡本部町石川424",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/hour/"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "나하공항에서 자가용(고속도로 이용)으로 약 2시간, 고속버스로 약 3시간 걸린다.",
+    "value": "차 약 2시간 / 버스 약 3시간",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/access/"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "주된 교통수단은 자가용(렌터카 포함), 고속버스, 노선버스, 택시이며, 기념공원앞 버스정류장에서 수족관 입구까지 도보 약 10분이다.",
+    "value": "도보 약 10분",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/access/"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "카 내비게이션에서 '오키나와 추라우미 수족관'이 검색되지 않으면 '해양박기념공원' 또는 '해양박공원'으로 검색하고, 맵코드는 553075797, 전화번호 검색은 0980-48-2741이다.",
+    "value": "MAPCODE 553075797",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/access/"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "parking",
+    "text": "해양박공원 주차장은 모두 무료다(9곳). 가장 가까운 곳은 북게이트 입체주차장(P7)이며, P6도 편리하다.",
+    "value": "무료",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/access/",
+     "https://churaumi.okinawa/kr/faq/"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "parking",
+    "text": "북게이트 입체주차장에 EV 보통충전기가 1층 10기·3층 2기 있고 무료이나 예약은 받지 않으며 완충에 약 5~7시간 걸린다.",
+    "value": "12기",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/access/"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "parking",
+    "text": "오토바이·자전거 주차장은 P5 주차장에서 이용할 수 있다.",
+    "value": "P5",
+    "urls": [
+     "https://churaumi.okinawa/kr/faq/"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "caution",
+    "text": "비를 피할 지붕이 없는 동선이라 비 오는 날 주차장에서 수족관까지 우산이 필요하고, 우산 대여는 없다.",
+    "value": null,
+    "urls": [
+     "https://churaumi.okinawa/kr/faq/"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "hours",
+    "text": "평상시 운영시간은 8:30~18:30이고 입장 마감은 17:30이다.",
+    "value": "08:30-18:30 (입장 마감 17:30)",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/hour/"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "hours",
+    "text": "성수기①(2026년 4월 25일~5월 6일, 7월 18일~7월 31일)은 8:30~20:00이고 입장 마감은 19:00이다.",
+    "value": "08:30-20:00 (입장 마감 19:00)",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/hour/"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "hours",
+    "text": "성수기②(2026년 8월 1일~8월 31일)는 8:30~21:00이고 입장 마감은 20:00이다.",
+    "value": "08:30-21:00 (입장 마감 20:00)",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/hour/"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "closed_days",
+    "text": "태풍 등 임시휴관을 제외하면 2027년 3월 31일까지 휴관 예정이 없고, 연말연시에도 평소 시간으로 개관한다.",
+    "value": "2027-03-31까지 휴관 없음",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/hour/"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "caution",
+    "text": "2027년 1월 4일~9일 돌고래 쇼가 일시 중단된다. 태풍 등 날씨나 생물 상태에 따라 쇼 내용이 바뀌거나 중지될 수 있다.",
+    "value": "2027-01-04~01-09",
+    "urls": [
+     "https://churaumi.okinawa/kr/",
+     "https://churaumi.okinawa/kr/faq/"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "hours",
+    "text": "돌고래 라군·바다거북관 등 수족관 주변 시설은 평상시 8:30~17:30, 성수기(2026.4.25~5.6, 7.18~8.31)에는 8:30~19:00이다.",
+    "value": "08:30-17:30 / 성수기 08:30-19:00",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/hour/"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "fees",
+    "text": "일반 입장료는 성인 2,180엔, 고등학생 1,440엔, 초·중학생 710엔이다.",
+    "value": "2,180/1,440/710엔",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/info/"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "fees",
+    "text": "6세 미만(미취학 아동)은 무료다.",
+    "value": "무료",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/info/"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "fees",
+    "text": "신체장애인수첩·요육수첩·정신장애인 보건복지수첩 소지자는 무료이고 동반자 1명도 무료이며, 한국의 장애인 복지카드도 인정 목록에 있다.",
+    "value": "본인+동반 1명 무료",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/info/"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "fees",
+    "text": "단체(20명 이상) 요금은 성인 1,730엔, 고등학생 1,140엔, 초·중학생 560엔이고, 연간이용권은 성인 4,360엔(고등학생 2,880엔, 초·중학생 1,420엔)이다.",
+    "value": "단체 1,730/1,140/560, 연간 4,360/2,880/1,420",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/info/"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "fees",
+    "text": "오키나와현민 요금과 경로우대 요금은 없다.",
+    "value": null,
+    "urls": [
+     "https://churaumi.okinawa/kr/faq/"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "tip",
+    "text": "입장권은 수족관 매표소와 웹사이트에서 살 수 있고, 매표소에서 신분증이나 학생증 제시를 요청받을 수 있다. 같은 날은 재입장이 가능하며 입구에서 손 스탬프를 찍는다.",
+    "value": null,
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/info/",
+     "https://churaumi.okinawa/kr/faq/"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "reservation",
+    "text": "일반 개인 입장에 사전 예약이 필요하다는 안내는 없다. 학교 단체를 제외한 단체는 예약이 필요 없었으나 2026년 10월 1일부터 해외 단체는 20명 이상, 국내 일반 단체는 100명 이상이면 예약이 필요하다.",
+    "value": "해외 20명 이상 / 국내 100명 이상",
+    "urls": [
+     "https://churaumi.okinawa/kr/faq/"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "payment",
+    "text": "매표소, 레스토랑 '이노', 기념품점에서 신용카드를 쓸 수 있고(VISA, MasterCard, American Express, JCB, Diners Club 등), 카페 '오션 블루'는 해당 카드 표시가 ×이다.",
+    "value": null,
+    "urls": [
+     "https://churaumi.okinawa/kr/faq/"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "payment",
+    "text": "해양박공원 유람차는 현금으로 지불한다.",
+    "value": "현금",
+    "urls": [
+     "https://churaumi.okinawa/kr/faq/"
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "language",
+    "text": "태블릿으로 한국어 영상통화 통역을 무료로 제공한다(수족관 입구·출구·구호실). 태블릿을 빌려주지는 않는다.",
+    "value": null,
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/service/"
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "language",
+    "text": "공식 사이트는 한국어를 지원하며, 무료 와이파이(Churaumi_Free_WiFi, 1회 30분)는 영어·중국어·한국어로 이용할 수 있다.",
+    "value": null,
+    "urls": [
+     "https://churaumi.okinawa/kr/faq/"
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "tip",
+    "text": "각 수조 해설 음성 가이드를 무료로 제공하며 스마트폰과 이어폰으로 이용한다. 음성 안내기 대여는 사전 예약이 필요하다.",
+    "value": null,
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/service/"
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "tip",
+    "text": "유모차와 휠체어는 수족관 입구에서 무료로 빌려준다. 코인 로커는 300~1,000엔이며 8:30~입장 마감까지 쓸 수 있다.",
+    "value": "300-1,000엔",
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/service/"
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "caution",
+    "text": "관내 음식물 반입·취식은 삼가야 하고(밀폐 용기의 수분 보충 음료만 가능), 전면 금연이며, 반려동물은 안내견·보조견을 제외하면 입장할 수 없다.",
+    "value": null,
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/caution/"
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "caution",
+    "text": "수족관 안에서는 셀카봉 사용을 삼가야 하고 삼각대는 사용할 수 없으며, 개인 촬영은 가능하고(플래시 가능) 업무용 촬영은 사전 신청이 필요하다.",
+    "value": null,
+    "urls": [
+     "https://churaumi.okinawa/kr/guide/caution/",
+     "https://churaumi.okinawa/kr/faq/"
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "duration",
+    "text": "관람 시간 제한은 없다.",
+    "value": "제한 없음",
+    "urls": [
+     "https://churaumi.okinawa/kr/faq/"
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "description",
+    "text": "수족관은 수면에서 수심 700m 부근까지 오키나와 바다를 재현하고, 4층에서 1층까지 대해로의 초대·산호초 여행·쿠로시오 여행·심해 여행으로 구성된다.",
+    "value": "수심 약 700m, 4층",
+    "urls": [
+     "https://churaumi.okinawa/kr/outline/",
+     "https://churaumi.okinawa/kr/"
+    ]
+   },
+   {
+    "cid": "c32",
+    "field": "highlight",
+    "text": "대형 수조 '쿠로시오의 바다'에서는 세계 최대의 물고기 고래상어와 세계 최초로 번식에 성공한 난요만타(쥐가오리)를 볼 수 있다.",
+    "value": null,
+    "urls": [
+     "https://churaumi.okinawa/kr/"
+    ]
+   },
+   {
+    "cid": "c33",
+    "field": "highlight",
+    "text": "'산호 바다' 수조에서는 대규모 산호 사육 전시를 볼 수 있다.",
+    "value": null,
+    "urls": [
+     "https://churaumi.okinawa/kr/"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "fees.evening_ticket",
+   "payment.atm.conflict",
+   "payment.mobile",
+   "hours.peak_2027",
+   "duration.recommended",
+   "language.audio_guide_korean",
+   "access.bus_fare_timetable"
+  ]
+ }
+]

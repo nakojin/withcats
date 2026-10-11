@@ -1,0 +1,600 @@
+[
+ {
+  "key": "kr-incheon-chinatown-open-port-parent",
+  "name_ko": "인천 차이나타운·개항장",
+  "name_local": "인천 차이나타운·개항장",
+  "admin_region": "인천광역시 제물포구 (former_region: 인천광역시 중구)",
+  "address": "인천광역시 제물포구 차이나타운로26번길 12-17 (패루, 인천 차이나타운)",
+  "description": "인천 차이나타운은 1883년 인천항 개항 뒤 1884년 이 지역이 청나라 치외법권 지역으로 지정되면서 생겨났고, 화교의 한국 정착 역사가 담겨 있다. 우뚝 솟은 패루를 지나 경사진 길을 약 300m 걸으면 길이 T자형으로 나뉘고, 홍등과 복원된 중국식 근대건축물이 눈길을 끈다. 지금은 대부분 중국 음식점이며 짜장면, 공갈빵, 월병이 대표 먹거리다. 이어지는 개항장 거리에는 청·일 조계지 경계계단과 서양식 근대 건축물, 인천개항박물관, 짜장면박물관 등이 있고, 인천역에서 출발하는 1시간 걷기 코스도 안내된다. 문화관광해설사 해설은 예약하면 들을 수 있다.",
+  "highlights": [
+   "1884년 청나라 치외법권 지역으로 지정되며 생겨난 화교 정착 역사의 거리",
+   "패루를 지나 약 300m 걸으면 T자형으로 갈라지는 중국풍 거리",
+   "짜장면·공갈빵·월병이 대표 먹거리",
+   "개항장 거리에서 청·일 조계지 경계계단과 서양식 근대 건축물 관람",
+   "인천역에서 한중문화관까지 이어지는 개항 누리길 1시간 코스",
+   "예약하면 문화관광해설사 해설을 들으며 도보 관광"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "인천 차이나타운의 공식 관광 포털 등록 주소는 인천 제물포구 차이나타운로26번길 12-17(패루 위치)이며 문의 전화는 032-777-1330이다.",
+    "value": "인천 제물포구 차이나타운로26번길 12-17 / 032-777-1330",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "한국관광공사 영문 안내는 인천 차이나타운 주소를 인천광역시 제물포구 차이나타운로59번길 20으로 적고 있다(c1과 표기 지점이 다름).",
+    "value": "인천광역시 제물포구 차이나타운로59번길 20",
+    "urls": [
+     "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=105442"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "location",
+    "text": "개항장 거리는 인천광역시 제물포구 관동1가 일대로 등록되어 있다.",
+    "value": "인천광역시 제물포구 관동1가",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "location",
+    "text": "인천시는 2026년 7월 1일부터 기존 중구 내륙과 동구를 제물포구로 통합 개편했다고 안내한다. 따라서 현재 행정구역은 제물포구이고 이전 표기는 중구다.",
+    "value": "제물포구 (former: 중구)",
+    "urls": [
+     "https://www.incheon.go.kr/IC010601/2187729"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "한국관광공사는 개항 누리길 1시간 코스를 인천역에서 출발해 차이나타운, 삼국지벽화거리, 자유공원, 제물포구락부, 인천근대박물관을 지나 한중문화관에서 끝나는 도보 코스로 소개한다.",
+    "value": null,
+    "urls": [
+     "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "duration",
+    "text": "개항 누리길은 소요 시간별 3개 코스가 있고 그중 인천역~한중문화관 코스가 1시간 코스다.",
+    "value": "1시간(개항 누리길 1시간 코스)",
+    "urls": [
+     "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "개항장 거리는 이용 시간이 상시 개방으로 등록되어 있다.",
+    "value": "상시 개방",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "closed_days",
+    "text": "개항장 거리는 휴무일이 연중무휴로 등록되어 있다.",
+    "value": "연중무휴",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "hours",
+    "text": "한국관광공사 영문 페이지는 개항 누리길 코스의 운영시간을 10:00~17:00, 휴일을 월요일로 적고 해설(투어 가이드)은 예약이 필요하다고 표시한다. 거리 자체의 상시 개방 정보(c7, c8)와 달라 해설 서비스 기준으로 보인다.",
+    "value": "10:00~17:00, 월요일 휴무(해설 서비스 기준 추정, 예약 필요)",
+    "urls": [
+     "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "parking",
+    "text": "인천 차이나타운에는 유료 주차장이 있고 장애인 전용 주차칸이 따로 있다.",
+    "value": "유료 주차 있음",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "parking",
+    "text": "개항장 거리 항목은 주차 안내가 불가능으로 등록되어 있어 거리 자체에는 주차할 수 없다.",
+    "value": "주차 불가능(개항장 거리)",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "reservation",
+    "text": "개항장 거리에서는 인천 문화관광해설사 해설을 예약하면 들으며 도보 관광을 할 수 있다. 일반 방문에 예약이 필요하다는 안내는 없다.",
+    "value": "해설사 해설만 예약",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "language",
+    "text": "관광통역안내전화 1330은 한국어·영어·일본어·중국어를 지원한다.",
+    "value": "1330 (ko/en/ja/zh)",
+    "urls": [
+     "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "caution",
+    "text": "차이나타운은 반려견 동반이 가능하지만 목줄 착용과 배설물 처리용 봉투를 갖춘 이용객에 한해 허용된다.",
+    "value": null,
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "tip",
+    "text": "개항장 거리는 출입구까지 턱이 없어 휠체어 접근이 가능한 무장애 관광지로 등록되어 있다.",
+    "value": null,
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "description",
+    "text": "차이나타운은 1883년 인천항 개항 후 1884년 이 지역이 청의 치외법권 지역으로 지정되면서 생겨났고, 화교의 한국 정착 역사를 담고 있다.",
+    "value": "1883 개항 / 1884 치외법권 지정",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "description",
+    "text": "패루를 지나 경사진 길을 300m 걸으면 길이 T자형으로 나뉘며, 치파오를 입은 화교 상인, 홍등, 최근 복원된 중국식 근대건축물이 보인다.",
+    "value": "약 300m",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "highlight",
+    "text": "지금 거리는 대부분 중국 음식점이며 짜장면, 공갈빵, 월병이 대표 먹거리다.",
+    "value": null,
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "highlight",
+    "text": "개항누리길에서는 청·일 조계지 경계계단과 당시 지은 서양식 건축물, 인천개항박물관, 인천아트플랫폼, 차이나타운, 짜장면박물관 등을 만날 수 있다.",
+    "value": null,
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "fees",
+   "hours.conflict",
+   "closed_days",
+   "access",
+   "reservation",
+   "payment",
+   "language",
+   "parking.fee",
+   "duration.visit"
+  ]
+ },
+ {
+  "key": "kr-incheon-wolmi-culture-street",
+  "name_ko": "월미문화의거리",
+  "name_local": "월미문화의거리",
+  "admin_region": "인천광역시 제물포구 (former_region: 인천광역시 중구)",
+  "address": "인천광역시 제물포구 월미로 252 (북성동1가)",
+  "description": "월미문화의거리는 인천 월미도에 있는 보행자 전용 거리로, 차량 출입 시간을 제외하면 차량 진입이 통제된다. 초상화를 그려 주는 길거리 화가들이 나와 있고 앉아 쉴 벤치가 있어 작은 쉼터 같은 분위기다. 거리 안의 월미 달빛음악분수는 5월 1일부터 10월 31일까지 운영하며 매주 월요일은 정기 점검을 한다. 저녁에는 음악에 맞춰 6~7가지 빛의 분수 쇼가 펼쳐져 낮보다 밤 모습이 더 좋다고 소개된다. 같은 월미도에 월미공원 전망대와 월미테마파크가 있다. 이용 시간은 09:00~18:00, 연중무휴로 안내되며 입구에 턱이 없어 휠체어 접근이 가능하다.",
+  "highlights": [
+   "차량 출입 시간을 제외하고 차량이 통제되는 보행자 전용 거리",
+   "초상화를 그려 주는 길거리 화가와 벤치가 있는 작은 쉼터 분위기",
+   "월미 달빛음악분수(5/1~10/31, 월요일 정기점검)",
+   "저녁에 6~7가지 빛의 분수 쇼, 밤 관람이 더 낫다고 안내",
+   "월미공원 전망대에서 인천항 일대 조망"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "월미문화의거리의 공식 관광 포털 주소는 인천광역시 제물포구 월미로 252(북성동1가)이다.",
+    "value": "인천광역시 제물포구 월미로 252 (북성동1가)",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "인천시는 2026년 7월 1일부터 기존 중구 내륙과 동구를 제물포구로 통합했다고 안내한다. 현재 표기는 제물포구, 이전 표기는 중구다.",
+    "value": "제물포구 (former: 중구)",
+    "urls": [
+     "https://www.incheon.go.kr/IC010601/2187729"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "인천역(차이나타운)에서 2번 버스를 타고 월미도(시티투어) 정거장에서 내리는 대중교통 안내가 있다.",
+    "value": "2번 버스, 월미도(시티투어) 정거장 하차",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "hours",
+    "text": "이용 시간은 09:00~18:00으로 등록되어 있다.",
+    "value": "09:00~18:00",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "closed_days",
+    "text": "휴무일은 연중무휴로 등록되어 있다.",
+    "value": "연중무휴",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "closed_days",
+    "text": "거리 안 월미 달빛음악분수는 5월 1일부터 10월 31일까지 운영하고 매주 월요일은 정기 점검을 한다.",
+    "value": "분수: 5/1~10/31, 월요일 정기점검",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "parking",
+    "text": "월미문화의거리 항목의 주차 안내는 불가능으로 등록되어 있다.",
+    "value": "주차 불가능",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "parking",
+    "text": "같은 페이지의 무장애 정보에는 월미도 제2공영주차장에 장애인 주차 3대가 있다고 적혀 있다.",
+    "value": "장애인 주차 3대(월미도 제2공영주차장)",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "caution",
+    "text": "월미도 문화의 거리는 보행자 전용 도로로, 차량 출입 시간을 제외하고는 차량 출입이 통제된다.",
+    "value": null,
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "tip",
+    "text": "음악분수는 저녁에 음악에 맞춰 6~7가지 빛의 쇼가 펼쳐져 낮보다 밤에 보는 편이 더 멋지다고 소개된다.",
+    "value": null,
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "tip",
+    "text": "출입구까지 턱이 없어 휠체어 접근이 가능하고, 인근 월미전통공원 안내소에서 휠체어를 빌릴 수 있으며 장애인 화장실이 있다.",
+    "value": null,
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "caution",
+    "text": "보조견 동반이 가능하다고 안내되어 있다.",
+    "value": null,
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "description",
+    "text": "길거리 화가들이 초상화를 그려 주고 앉아 쉴 벤치가 있는 작은 쉼터 같은 거리다.",
+    "value": null,
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "highlight",
+    "text": "월미공원 월미 전망대에서는 인천항 일대 전경을 볼 수 있고, 월미테마파크에는 다양한 놀이기구가 있다.",
+    "value": null,
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "language",
+    "text": "관광통역안내전화 1330과 인천종합관광안내소 032-832-3031이 안내되어 있다. itour 사이트는 영어·일본어·중국어 버전도 제공한다.",
+    "value": "1330 / 032-832-3031",
+    "urls": [
+     "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "fees",
+   "parking.conflict",
+   "hours.fountain",
+   "duration",
+   "reservation",
+   "payment",
+   "language",
+   "access.station",
+   "closed_days.vehicle_hours"
+  ]
+ },
+ {
+  "key": "kr-gyeongnam-tongdosa",
+  "name_ko": "양산 통도사",
+  "name_local": "양산 통도사",
+  "admin_region": "경상남도 양산시 하북면",
+  "address": "경상남도 양산시 하북면 통도사로 108 (우 50501)",
+  "description": "양산 통도사는 영축총림이자 세계문화유산으로 소개되는 사찰이다. 금강계단에 부처님 진신사리가 모셔져 있어 대웅전에는 불상이 없다. 가람은 금강계단 중심의 상로전, 해장보각 중심의 중로전, 극락보전 등이 있는 하로전의 세 구역으로 나뉘며, 일주문부터 본격적인 경내가 시작되고 배치는 동서로 길다. 개방 시간은 08:30~17:30이고 새벽예불에 참여하면 04시부터 들어갈 수 있다. 입장료는 2023년 5월 4일부터 무료이며 주차비는 차종별로 따로 받는다. 금강계단은 정해진 날의 11시~14시에만 참배할 수 있고 비가 오면 열지 않는다.",
+  "highlights": [
+   "입장료 무료(2023년 5월 4일부터)",
+   "금강계단에 진신사리를 모셔 대웅전에 불상이 없음",
+   "상로전·중로전·하로전 세 구역으로 이뤄진 가람",
+   "개방 08:30~17:30, 새벽예불 참여 시 04시부터 입장",
+   "금강계단 참배는 지정일 11:00~14:00, 우천 시 미개방",
+   "제1주차장 인근 카페·한식당 등 편의시설"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "통도사 주소는 경상남도 양산시 하북면 통도사로 108(우편번호 50501)이다.",
+    "value": "경상남도 양산시 하북면 통도사로 108",
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "종무소 연락처는 전화 055-382-7182, 055-381-1442, 이메일 tongdosa@tongdosa.or.kr이다.",
+    "value": "055-382-7182 / 055-381-1442",
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01401"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "승용차는 부산·창원 방향에서 경부고속도로 통도사 하이패스 나들목, 서울·대구·울산 방향에서 통도사 IC를 이용한다.",
+    "value": null,
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "부산에서는 동부시외버스터미널(노포동)에서 신평(통도사)행을 타고 신평터미널에서 내린다.",
+    "value": null,
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "울산 태화강역에서는 1723번(신평터미널 방면) 버스를 타며, 첫차 6시 25분, 배차 간격 35~40분이라고 안내한다.",
+    "value": "첫차 06:25, 배차 35~40분",
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "access",
+    "text": "경주에서는 시외버스터미널에서 부산행 버스를 타고 통도사 인터체인지에서 내려 통도사로 간다.",
+    "value": null,
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "개방 시간은 08:30~17:30이다.",
+    "value": "08:30~17:30",
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "hours",
+    "text": "새벽예불에 참여하면 04시부터 입장할 수 있다.",
+    "value": "04:00",
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "hours",
+    "text": "금강계단 참배 가능 시간은 오전 11시~오후 2시이며, 입장 가능일은 음력 1~3일, 15일, 18일, 24일이다. 비가 오거나 바닥이 젖어 있으면 열지 않는다.",
+    "value": "11:00~14:00 (음력 1~3일·15일·18일·24일)",
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "closed_days",
+    "text": "성보박물관은 공사 후 재개관 예정이며 2026년 12월 준공 예정이라 현재 관람이 어렵다고 안내한다.",
+    "value": "성보박물관 재개관: 2026년 12월 준공 예정",
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "fees",
+    "text": "입장료는 2023년 5월 4일부터 무료다.",
+    "value": "무료",
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "parking",
+    "text": "주차비는 경차 3,000원, 중소형(17인승 미만) 6,000원, 대형(17인승 이상) 15,000원이다.",
+    "value": "경차 3,000 / 중소형 6,000 / 대형 15,000원",
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "parking",
+    "text": "주차비 면제 대상은 해당 연도 회비를 낸 전국 신도증 소지자와 통도사 신도증 소지자, 그리고 '장애인 주차가능' 스티커 부착 복지카드 대상자 차량이다(주차불가 스티커 차량은 50% 부과).",
+    "value": null,
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "payment",
+    "text": "단체 새벽예불 참여자의 주차료는 현금 결제 또는 계좌 입금으로 낼 수 있고, 입금 후 회계실(055-382-7187)에 확인 전화를 해야 한다.",
+    "value": "현금 또는 계좌입금",
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "caution",
+    "text": "금강계단에는 부처님 진신사리가 봉안되어 있어 대웅전에는 불상이 없다.",
+    "value": null,
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "caution",
+    "text": "금강계단에서는 합장한 상태로 묵언하며 천천히 오른쪽(시계방향)으로 탑돌이를 3번 한다.",
+    "value": null,
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "description",
+    "text": "가람은 법당을 중심으로 상로전·중로전·하로전 세 구역으로 나뉘고, 상로전에는 금강계단, 중로전에는 해장보각, 하로전에는 극락보전 등이 있다.",
+    "value": null,
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501_01"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "description",
+    "text": "'영축산통도사' 편액이 걸린 일주문에서부터 본격적인 경내가 시작되고, 가람 배치는 동서로 길게 이루어져 있다.",
+    "value": null,
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501_01"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "description",
+    "text": "공식 사이트는 통도사를 세계문화유산 영축총림 통도사로 소개한다.",
+    "value": null,
+    "urls": [
+     "https://tongdosa.or.kr/"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "highlight",
+    "text": "구룡지는 자장스님이 구룡소의 용들을 승천시키고 못을 메워 절을 창건했다고 전하는 유적으로 상로전 구역에 있다.",
+    "value": null,
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501_01"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "tip",
+    "text": "제1주차장에는 다정카페, 다정한식 등이 있고, 성보박물관·일주문 옆에는 한송정, 한송매점, 산중다원(전통차·단팥죽) 등이 있다고 안내한다.",
+    "value": null,
+    "urls": [
+     "https://tongdosa.or.kr/bbs/content.php?co_id=menu01402"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "language",
+    "text": "통도사는 템플스테이 영문 안내 페이지(https://tongdosa.or.kr/eng/)를 운영하며 영어로 사찰을 소개한다.",
+    "value": "영어 안내 페이지 있음",
+    "urls": [
+     "https://tongdosa.or.kr/eng/"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "tip",
+    "text": "10월에는 18일 약사재일, 19일 개산대재, 31일 자비도량참법기도 등 연중 행사가 공지되어 있어 방문 전 행사 일정을 확인할 수 있다.",
+    "value": null,
+    "urls": [
+     "https://tongdosa.or.kr/bbs/board.php?bo_table=menu03304"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "duration",
+   "closed_days",
+   "reservation",
+   "payment",
+   "language",
+   "access.walk",
+   "page_updated",
+   "parking.capacity"
+  ]
+ }
+]

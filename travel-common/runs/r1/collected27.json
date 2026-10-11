@@ -1,0 +1,732 @@
+[
+ {
+  "key": "xa-terracotta",
+  "name_ko": "진시황제릉박물원·병마용",
+  "name_local": "秦始皇帝陵博物院",
+  "admin_region": "산시성 시안시 린퉁구",
+  "address": "陕西省西安市临潼区秦陵北路",
+  "description": "산시성 시안 린퉁구에 있는 진시황제릉박물원은 진시황 병마용박물관과 진시황릉 고고유적공원(리산위안) 두 곳으로 이루어진 대형 유적 박물원이다. 병마용은 1974년 우물을 파던 농민들이 도용 파편을 발견하면서 알려졌고, 1호갱은 동서 230m, 남북 62m 규모에 도용과 도마 약 6000점이 묻힌 것으로 추정된다. 진시황릉은 1987년 유네스코 세계유산에 올랐고, 박물원은 2007년 첫 국가 5A급 관광지로 선정되었다. 두 구역은 2200m 떨어져 있어 무료 셔틀로 오갈 수 있으며 구역마다 관람에 약 1.5시간이 걸린다. 입장권은 실명 사전 예약제이고, 외국인은 여권 정보로 공식 사이트나 위챗 공식 계정에서 예약한다.",
+  "highlights": [
+   "병마용 1호갱은 동서 230m, 남북 62m 규모로 도용·도마 약 6000점이 묻힌 것으로 추정된다",
+   "1987년 진시황릉(병마용갱 포함)이 유네스코 세계유산에 등재되었다",
+   "병마용박물관과 리산위안 두 구역은 2200m 떨어져 있으며 무료 셔틀을 탈 수 있다",
+   "1980년 출토된 채색 청동 거마는 중국 고고학사에서 가장 크고 보존이 잘된 청동 거마로 소개된다",
+   "입장권은 실명 예약제이며 외국인도 여권으로 공식 사이트와 위챗 계정에서 예약할 수 있다"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "박물원 주소는 산시성 시안시 린퉁구 친링베이로이다.",
+    "value": "陕西省西安市临潼区秦陵北路",
+    "evidence": "帝陵地址：陕西省西安市临潼区秦陵北路",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/guide.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "description",
+    "text": "진시황제릉박물원은 진시황 병마용박물관과 진시황릉 고고유적공원(리산위안) 두 곳으로 이루어져 있다.",
+    "value": null,
+    "evidence": "由秦始皇兵马俑博物馆、秦始皇陵考古遗址公园（丽山园）组成",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/guide.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "두 관람 구역은 2200m 떨어져 있으며 무료 관광 셔틀로 왕복할 수 있다.",
+    "value": "2200m",
+    "evidence": "两个景点相距2200米，观众可乘坐免费旅游专车往返",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/about.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "duration",
+    "text": "병마용박물관과 리산위안 두 곳 모두 관람에 각각 약 1.5시간이 걸린다고 안내하며, 사이 이동은 무료 셔틀을 이용할 수 있다.",
+    "value": "1.5시간(구역별)",
+    "evidence": "两处参观均需约1.5小时，可免费乘坐摆渡车往返",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/guide.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "hours",
+    "text": "성수기(3월 16일~11월 15일)의 운영 시간은 08:30-17:00이며 폐관 시각은 18:30이다.",
+    "value": "08:30-17:00 (폐관 18:30)",
+    "evidence": "3月16日—11月15日 闭馆时间18:30 08:30-17:00",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/guide.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "hours",
+    "text": "비수기(11월 16일~다음 해 3월 15일)의 운영 시간은 08:30-16:30이며 폐관 시각은 18:00이다.",
+    "value": "08:30-16:30 (폐관 18:00)",
+    "evidence": "11月16日—次年3月15日 闭馆时间18:00 08:30-16:30",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/guide.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "병마용박물관과 리산위안 두 곳 모두 17:00에 검표를 마감하므로 일정을 여유 있게 짜야 한다.",
+    "value": "17:00 검표 마감",
+    "evidence": "以上两处均于17:00时停止检票，请观众合理规划参观行程",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/guide.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "reservation",
+    "text": "실명제 사전 예약 입장이며, 무료 입장 대상자와 홍콩·마카오·대만 및 외국인 관람객도 공식 사이트와 위챗 공식 계정으로 예약한다.",
+    "value": null,
+    "evidence": "实行实名制预约参观，观众朋友（含政策性免票人员、港澳台及外籍观众）",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/guide.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "reservation",
+    "text": "공식 티켓 사이트(bmy.com.cn)에서 2세대 신분증 또는 여권 정보를 입력해 예약할 수 있다.",
+    "value": null,
+    "evidence": "使用第二代身份证或护照信息预约购票",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/guide.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "reservation",
+    "text": "위챗 공식 계정 [秦始皇帝陵博物院] 또는 [兵马俑票务在线]을 팔로우해 예약할 수도 있다.",
+    "value": null,
+    "evidence": "扫码关注官方微信公众号【秦始皇帝陵博物院】预约门票",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/guide.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "reservation",
+    "text": "입구 검표 때 예약자는 신분증(주민증, 홍콩·마카오 통행증, 대만 동포증, 회향증, 여권) 원본을 제시해 표를 확인받는다.",
+    "value": null,
+    "evidence": "凭有效身份证件(包括身份证、港澳通行证、台胞证、回乡证、护照）原件",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/guide.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "caution",
+    "text": "하루 최대 수용 인원은 6만 5천 명이며 상한에 도달하면 표 판매가 중단된다.",
+    "value": "65000",
+    "evidence": "景区最大承载量每日6.5万人，达到上限将停止售票",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/guide.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "caution",
+    "text": "교통 혼잡을 피하려면 반드시 온라인 구매를 마친 뒤 방문하라고 안내한다.",
+    "value": null,
+    "evidence": "为避免交通拥堵，请各位观众务必完成网上购票后再前来博物院参观",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/guide.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "language",
+    "text": "공식 사이트에 영어판이 있다(한국어 안내는 확인되지 않음).",
+    "value": "English site",
+    "evidence": "Emperor Qinshihuang's Mausoleum site Museum",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/jingtai/bmyweb/index.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "tip",
+    "text": "문의 전화는 티켓 029-81399127, 해설 029-81399047/029-81399048, 불만·도움 요청 029-81399174이다.",
+    "value": "029-81399127",
+    "evidence": "咨询电话：029-81399127（票务）029-81399047/029-81399048（讲解）",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/guide.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "highlight",
+    "text": "1호갱은 동서 230m, 남북 62m, 면적 14260㎡이며 도용·도마 약 6000점이 묻힌 것으로 추정된다.",
+    "value": null,
+    "evidence": "东西长230米，南北宽62米，距现地表深4.5～6.5米，面积为14260平方米",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/pitone.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "description",
+    "text": "1974년 3월 린퉁구 시양촌 농민이 우물을 파다 도용 파편을 발견했고, 이후 1호 병마용갱으로 확인되었다.",
+    "value": "1974-03",
+    "evidence": "1974年3月，临潼区西杨村的农民打井时偶然发现了一些陶俑的残片",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/pitone.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "highlight",
+    "text": "1987년 12월 유네스코가 진시황제릉(병마용갱 포함)을 세계유산 목록에 올렸다.",
+    "value": "1987-12-11",
+    "evidence": "联合国教科文组织将秦始皇帝陵（含兵马俑坑）列入《世界遗产名录》",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/about.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "description",
+    "text": "박물원은 2007년 첫 국가 5A급 관광지로 선정되었다.",
+    "value": "2007",
+    "evidence": "2007年，秦始皇帝陵博物院获评首批国家AAAAA旅游景区",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/about.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "highlight",
+    "text": "1980년 12월 진시황릉 봉토 서쪽에서 채색 청동 거마 두 대가 출토되었으며, 중국 고고학사에서 가장 일찍 발견된 최대·보존 상태 최상의 청동 거마로 소개된다.",
+    "value": null,
+    "evidence": "发现最早、体形最大、保存最完整的青铜车马",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/pithorse.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "description",
+    "text": "진시황릉 구역에서는 부장갱·부장묘 등이 600여 곳 발견되었다.",
+    "value": "600+",
+    "evidence": "已发现各类陪葬坑、陪葬墓等600余处",
+    "sources": [
+     {
+      "url": "https://www.bmy.com.cn/about.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "hours.conflict",
+    "reason": "중문 공식 페이지(https://www.bmy.com.cn/guide.html)는 성수기 3월16일~11월15일 08:30-17:00 / 비수기 11월16일~3월15일 08:30-16:30(폐관 18:30/18:00)이나, 영문 공식 페이지(https://www.bmy.com.cn/jingtai/bmyweb/index.html)는 3월1일~11월30일 8:30-17:00 / 12월1일~2월28일 8:30-16:30으로 계절 구분일이 다름. 두 페이지 모두 갱신일 표시 없음. 방문 전 공식 공지 확인 필요."
+   },
+   {
+    "field": "closed_days",
+    "reason": "공식 페이지(guide.html)에 정기 휴관일 기재 없음. 다만 영문 페이지에 Important Notice on Closure 공지 제목이 있으나 본문을 열지 못함."
+   },
+   {
+    "field": "fees",
+    "reason": "공식 안내 페이지에 요금 기재 없음. 티켓 사이트(bmy.albatrip.cn)는 JS 렌더링이며 공개 API를 찾지 못함. 무료 입장 대상 존재(정책성 무료표 예약)는 확인되나 대상 기준·금액은 미확인."
+   },
+   {
+    "field": "payment",
+    "reason": "결제 수단(외국 카드·현금·알리페이/위챗페이) 공식 안내 미확인. 온라인 예약 후 신분증 검표 방식만 확인됨."
+   },
+   {
+    "field": "access",
+    "reason": "guide.html 의 교통 안내(공항·고속철·대중교통)는 팝업 내용이 페이지 텍스트에 없어 가장 가까운 역·버스·소요시간 미확인."
+   },
+   {
+    "field": "parking",
+    "reason": "공식 페이지에 주차 정보 없음."
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내·오디오가이드 여부 미확인(영문 사이트만 확인). 해설 서비스는 존재하나 언어 불명."
+   },
+   {
+    "field": "source_freshness",
+    "reason": "guide.html 은 갱신일 미표시이며 개방 공고 목록의 최신 항목이 2023-05-04로 보여 stale_source 가능성 있음. 대체 공식 출처는 사이트가 열리지 않아 찾지 못함(bmy.com.cn 은 www 경로 일부만 접속 가능)."
+   }
+  ]
+ },
+ {
+  "key": "new:cn-shanghai-kpg-provisional-gov",
+  "name_ko": "대한민국 임시정부 상하이 청사 유적",
+  "name_local": "大韩民国临时政府旧址",
+  "admin_region": "상하이시 황푸구",
+  "address": "上海市黄浦区马当路306弄4号",
+  "description": "상하이 황푸구 마당로 306농에 있는 대한민국 임시정부 유적이다. 임시정부는 1919년 상하이에서 수립되었고, 1926년부터 1932년까지 이 건물에서 업무를 보았다. 상하이 시기 임시정부 청사 중 가장 오래 사용되었고 가장 온전하게 보존된 곳으로 소개되며, 상하이에 도착한 한국인 여행객이 꼭 찾는 정신적 명소로 꼽힌다. 관람 시간은 09:00-11:30(11:00 발권 종료)과 13:30-17:00(16:30 발권 종료)으로 낮 시간에 휴식이 있다. 임시정부가 처음 문을 연 장소인 '탄생지 구지'는 별도 문화재 보호점이며 일반 개방은 하지 않는다.",
+  "highlights": [
+   "임시정부가 1926~1932년 사무를 본 상하이 청사로, 현존 청사 중 보존 상태가 가장 좋은 곳으로 소개된다",
+   "주소는 황푸구 마당로 306농 4호로, 한국 여행객이 상하이에서 꼭 들르는 장소로 꼽힌다",
+   "오전 09:00-11:30, 오후 13:30-17:00 두 차례만 열며 각각 30분 전에 발권이 끝난다",
+   "1919년 임시정부 첫 사무실이 있던 '탄생지 구지'는 별도의 구 문화재 보호점이며 개방하지 않는다"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "주소는 상하이시 황푸구 마당로 306농 4호이다.",
+    "value": "黄浦区马当路306弄4号",
+    "evidence": "上海市黄浦区马当路306弄4号",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/museum/office-of-the-former-site-of-the-provisional-government-of-the-republic-of-korea-444634/",
+      "type": "government",
+      "page_updated": null
+     },
+     {
+      "url": "https://whlyj.sh.gov.cn/gqfc/20250122/24f045609b9447d6b93a9741b59620c9.html",
+      "type": "government",
+      "page_updated": "2025-01-22"
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "hours",
+    "text": "개방 시간은 09:00-11:30(11:00 발권 종료)과 13:30-17:00(16:30 발권 종료)이다.",
+    "value": "09:00-11:30, 13:30-17:00",
+    "evidence": "09:00-11:30(11:00停止售票)13:30-17:00(16:30停止售票)",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/museum/office-of-the-former-site-of-the-provisional-government-of-the-republic-of-korea-444634/",
+      "type": "government",
+      "page_updated": null
+     },
+     {
+      "url": "https://www.meet-in-shanghai.net/jpn/museums/former-provisional-government-of-the-republic-of-korea-site-management-office-382796/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "대한민국 임시정부는 1919년 상하이에서 수립되었고, 1926~1932년 이 유적 건물에서 업무를 보았다.",
+    "value": "1919; 1926-1932",
+    "evidence": "1926-1932年在旧址办公",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/gqfc/20250122/24f045609b9447d6b93a9741b59620c9.html",
+      "type": "government",
+      "page_updated": "2025-01-22"
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "highlight",
+    "text": "상하이 시기 임시정부 사무 기간이 가장 길었고 가장 온전히 보존된 청사로 소개된다.",
+    "value": null,
+    "evidence": "办公时间最长、也是保存最完整的旧址",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/gqfc/20250122/24f045609b9447d6b93a9741b59620c9.html",
+      "type": "government",
+      "page_updated": "2025-01-22"
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "highlight",
+    "text": "상하이에 도착한 한국인 여행객이 꼭 가 보는 '정신적 명소'로 소개된다.",
+    "value": null,
+    "evidence": "成为韩国游客抵达上海后心心念念、必去“打卡”的精神地标",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/gqfc/20250122/24f045609b9447d6b93a9741b59620c9.html",
+      "type": "government",
+      "page_updated": "2025-01-22"
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "caution",
+    "text": "1919년 4월 임시정부가 처음 수립된 '탄생지 구지'는 2016년 황푸구 구급 문화재 보호점으로 지정되었으며 일반에 개방하지 않는다(청사 유적과 별개 장소).",
+    "value": null,
+    "evidence": "开放时间 ： 不开放",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/district-level-cultural-relics-protection-point/site-of-the-birthplace-of-the-provisional-government-of-the-republic-of-korea-786630/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "fees",
+    "reason": "현행 공식 요금 미확인. 상하이시 문화관광국 2021 관람 가이드(https://whlyj.sh.gov.cn/wbzx/20201231/e3fe3261db274a029fbb5be101764113.html, 2020-12-31)는 20元/人이라 했으나 5년 이상 경과(stale_source). meet-in-shanghai 페이지는 요금란이 비어 있음. 2024 국제박물관의 날(5/18) 무료 개방 목록(https://whlyj.sh.gov.cn/wlyw/20240514/9d81c79c41024eafb24e79004ff69f1a.html)은 해당 일자 한정."
+   },
+   {
+    "field": "reservation",
+    "reason": "2020-12-31 문화관광국 가이드는 전화 예약 53829057을 안내했으나 오래된 정보라 현행 여부·외국인 예약 방법·여권 요건 미확인."
+   },
+   {
+    "field": "closed_days",
+    "reason": "정기 휴관일 공식 확인 불가."
+   },
+   {
+    "field": "caution",
+    "reason": "한국 언론(YTN 2026-07-12 https://www.ytn.co.kr/_ln/0104_202607121144093498)이 유적지 관리처 공지를 인용해 2026-08-01~09-14 보수 휴관을 보도했으나 공식 원문 미확인이며 재개관 여부도 공식 확인 불가. 방문 전 확인 필요."
+   },
+   {
+    "field": "access",
+    "reason": "가까운 지하철역·도보 시간·주차 공식 정보 없음."
+   },
+   {
+    "field": "duration",
+    "reason": "공식 소요시간 안내 없음."
+   },
+   {
+    "field": "payment",
+    "reason": "결제 수단(외국 카드·현금 등) 공식 안내 미확인."
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내·오디오가이드 여부 공식 확인 불가."
+   },
+   {
+    "field": "hours",
+    "reason": "meet-in-shanghai 페이지는 갱신일 미표시(저작권 표기 2026). 2020-12-31 가이드의 시간과는 일치하나 stale. 점심 휴식 시간 외 요일별 차이는 확인 안 됨."
+   }
+  ]
+ },
+ {
+  "key": "new:cn-shanghai-oriental-pearl",
+  "name_ko": "동방명주 타워",
+  "name_local": "东方明珠广播电视塔",
+  "admin_region": "상하이시 푸둥신구",
+  "address": "上海市浦东新区",
+  "description": "상하이 푸둥신구에 있는 동방명주 라디오·TV탑은 높이 468m의 국가 5A급 관광지로, 상하이의 도시 상징으로 불린다. 관광·식음·쇼핑·문화오락을 함께 갖춘 복합 탑으로, 크고 작은 구체가 어우러진 모습은 '큰 구슬 작은 구슬이 옥쟁반에 떨어진다'는 시구에서 영감을 얻었다. 1995년 개장 이후 누적 관람객 1억 명을 넘겼고 2024년 9월 29일 1억 번째 손님을 맞았다. 운영 시간은 매일 8:00-22:00이며 최종 입장은 21:00이다. 2025년 9월 상하이시 관광국 안내에서 2구 전망대+유람선 연계표의 성인 정가는 279위안, 문의 전화는 021-58792888이었다.",
+  "highlights": [
+   "높이 468m의 상하이 대표 랜드마크이자 국가 5A급 관광지",
+   "큰 구슬 작은 구슬이 옥쟁반에 떨어진다는 시구에서 착안한 구체형 디자인",
+   "1995년 개장 이후 2024년 9월 29일 1억 번째 관람객을 맞이",
+   "매일 8:00-22:00 운영, 최종 입장 21:00",
+   "동방명주 도시광장에서 낮에는 놀이공간, 밤에는 빛과 물 연출이 열리는 몰입형 체험 프로젝트가 소개됨"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "동방명주 라디오·TV탑은 상하이 푸둥신구에 있다.",
+    "value": "浦东新区",
+    "evidence": "东方明珠广播电视塔，位于上海浦东新区",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "hours",
+    "text": "운영 시간은 매일 8:00-22:00이고 최종 입장 시각은 21:00이다.",
+    "value": "08:00-22:00 (최종 입장 21:00)",
+    "evidence": "每日8:00至22:00（最晚入场时间为21:00）",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "closed_days",
+    "text": "운영 시간이 '매일'로 표기되어 있어 정기 휴관일은 안내되지 않는다.",
+    "value": null,
+    "evidence": "每日8:00至22:00",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "description",
+    "text": "관광·식음·쇼핑·문화오락을 함께 갖춘 다기능 탑이며 국가 5A급 관광지이다.",
+    "value": "AAAAA",
+    "evidence": "集观光、餐饮、购物、文化娱乐于一体的多功能塔式建筑，系国家5A级景区",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "highlight",
+    "text": "1995년 개장한 높이 468m의 탑으로, 개장 이후 1억 명 넘는 관람객이 다녀갔다.",
+    "value": "468m",
+    "evidence": "自1995年建成开放以来，这座468米高的塔楼已接待超过1亿名游客",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "highlight",
+    "text": "구체가 어우러진 탑 디자인은 '大珠小珠落玉盘'(큰 구슬 작은 구슬이 옥쟁반에 떨어진다)의 정취에서 영감을 얻었다.",
+    "value": null,
+    "evidence": "灵感源于“大珠小珠落玉盘”的意境，由错落有致的球体构成",
+    "sources": [
+     {
+      "url": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "highlight",
+    "text": "2024년 9월 29일 개장 30주년을 맞아 1억 번째 관람객을 맞았다.",
+    "value": "2024-09-29",
+    "evidence": "于今年9月29日迎来了第一亿名游客",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/gqfc/20241025/f1e8ed9b284b42a9a5127591b28c15dc.html",
+      "type": "government",
+      "page_updated": "2024-10-25"
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "highlight",
+    "text": "2024년 10월 동방명주 도시광장에 직경 20m 대형 회전 장치 '拾光@东方明珠'를 중심으로 한 빛·물 몰입형 체험 프로젝트가 문을 열었다.",
+    "value": "2024-10",
+    "evidence": "20米直径的超大转盘“拾光@东方明珠”",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/gqfc/20241025/f1e8ed9b284b42a9a5127591b28c15dc.html",
+      "type": "government",
+      "page_updated": "2024-10-25"
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "fees",
+    "text": "2025년 9월 상하이시 문화관광국 목록 기준 [2구 관광+동방명주 유람선] 연계표의 성인 정가는 279위안이다.",
+    "value": "279 CNY",
+    "evidence": "二球观光+东方明珠游船 成人票原价（联票）：279元",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html",
+      "type": "government",
+      "page_updated": "2025-09-12"
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "fees",
+    "text": "같은 목록 기준 [2구 관광+장난감박물관] 연계표의 성인 정가는 258위안이다.",
+    "value": "258 CNY",
+    "evidence": "二球观光+玩具博物馆 成人票原价（联票）：258元",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html",
+      "type": "government",
+      "page_updated": "2025-09-12"
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "fees",
+    "text": "같은 목록 기준 동방명주 유람선 성인표(1등석) 정가는 130위안이며 낮 시간대(18:00 이전) 운항에 한해 반값 행사가 적용되었다.",
+    "value": "130 CNY",
+    "evidence": "东方明珠游船 成人票（一等舱）原价：130元",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html",
+      "type": "government",
+      "page_updated": "2025-09-12"
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "reservation",
+    "text": "어린이표 구매 방법과 유람선 어린이 무료 규정은 위챗 공식 서비스 계정 [东方明珠]의 상품 상세 페이지에서 확인하도록 안내된다.",
+    "value": null,
+    "evidence": "儿童购买方式详见微信官方服务号“东方明珠”下相关产品详情页",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html",
+      "type": "government",
+      "page_updated": "2025-09-12"
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "tip",
+    "text": "관광객 문의 전화는 58792888(상하이 시내번호)이다.",
+    "value": "58792888",
+    "evidence": "游客咨询电话：58792888",
+    "sources": [
+     {
+      "url": "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html",
+      "type": "government",
+      "page_updated": "2025-09-12"
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "location.street",
+    "reason": "상세 도로명 주소(世纪大道1号)는 2018-12-18자 China Daily 정부 포털 페이지(https://govt.chinadaily.com.cn/s/201812/18/WS5ceb97e7498e079e68021be4/oriental-pearl-radio-and-television-tower.html)에만 있고 오래되었으며 1차 공식 출처로 보기 어려워 claim 에서 제외. orientalpearltower.com 은 HTTP 405로 열리지 않음(official_unreachable)."
+   },
+   {
+    "field": "hours.conflict",
+    "reason": "meet-in-shanghai 는 매일 8:00-22:00(최종 입장 21:00), 2018-12-18 China Daily 정부 포털은 8:30-21:30(월~일). 후자는 stale. 운영자 공식 사이트 official_unreachable 로 대조 불가."
+   },
+   {
+    "field": "fees",
+    "reason": "운영자 공식 요금표(orientalpearltower.com/fare.html)가 열리지 않음(official_unreachable). 2구 전망대 단독 요금, 어린이·노인 할인, 무료 기준은 확인 못함. 인용한 279/258/130위안은 2025-09-12 목록으로 13개월 경과(stale_source) 가능."
+   },
+   {
+    "field": "reservation",
+    "reason": "성인 실명 예약 여부, 여권 요건, 외국인 구매 방법, 오픈 시점 공식 확인 불가(official_unreachable). 위챗 서비스 계정 [东方明珠]에서 판매된다는 언급만 확인."
+   },
+   {
+    "field": "payment",
+    "reason": "외국 카드·현금 수용 여부 공식 확인 불가(official_unreachable)."
+   },
+   {
+    "field": "access",
+    "reason": "가까운 역·도보 시간·주차 공식 확인 불가(2018 China Daily 포털의 Lujiazui 역 2호선 안내는 stale·비1차 출처라 제외)."
+   },
+   {
+    "field": "duration",
+    "reason": "공식 소요시간 안내 없음."
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내·오디오가이드 여부 공식 확인 불가. meet-in-shanghai 에 한국어 페이지 링크가 있으나 해당 경로는 404."
+   },
+   {
+    "field": "caution",
+    "reason": "혼잡 시기·금지 사항 공식 확인 불가."
+   }
+  ]
+ }
+]

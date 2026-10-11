@@ -1,0 +1,796 @@
+[
+ {
+  "key": "new:jp-chiba-tokyo-disneyland",
+  "name_ko": "도쿄 디즈니랜드",
+  "name_local": "東京ディズニーランド",
+  "admin_region": "지바현 우라야스시",
+  "address": "1-1 Maihama, Urayasu-shi, Chiba-ken",
+  "description": "도쿄 디즈니랜드는 도쿄 디즈니 리조트 안에 있는 테마파크로, 이름과 달리 도쿄가 아니라 지바현 우라야스시에 있다. 미국 밖에서 처음 문을 연 디즈니 테마파크이며, 월드 바자회를 비롯해 어드벤처랜드·웨스턴랜드·판타지랜드·투모로랜드 등 여러 테마 구역으로 이루어져 있다. 스페이스 마운틴, 캐리비안의 해적, 빅 썬더 마운틴, 해운티드 맨션 같은 어트랙션과 일본에서만 즐길 수 있는 어트랙션이 있다. 밤에는 일렉트릭 퍼레이드 드림라이츠가 연중 열린다. JR 게이요선 마이하마역에서 걸어서 몇 분이며, 도쿄역에서 JR로 마이하마역까지 20분 걸린다.",
+  "highlights": [
+   "미국 밖에서 처음 개장한 디즈니 테마파크",
+   "월드 바자회 등 여러 테마 구역과 일본 파크 한정 어트랙션",
+   "스페이스 마운틴·캐리비안의 해적·빅 썬더 마운틴·해운티드 맨션",
+   "야간 일렉트릭 퍼레이드 드림라이츠(연중 개최)",
+   "JR 마이하마역에서 도보 몇 분, 도쿄역에서 JR 20분"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "도쿄 디즈니 리조트(도쿄 디즈니랜드·디즈니씨·이크스피아리 포함)의 주소는 1-1 Maihama, Urayasu-shi, Chiba-ken이다.",
+    "value": "1-1 Maihama, Urayasu-shi, Chiba-ken",
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "'도쿄' 디즈니 리조트라는 이름과 달리 파크는 도쿄만 건너편 지바현 우라야스시에 있다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "도쿄 디즈니랜드, 디즈니씨, 이크스피아리는 JR 게이요선 마이하마역에서 걸어서 몇 분 거리이다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "도쿄역에서 JR로 마이하마역까지 20분, 파크 입구까지 버스로 35분 걸린다.",
+    "value": "JR 20분 / 버스 35분",
+    "urls": [
+     "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "신주쿠역에서 JR로 마이하마역까지 40분, 파크 입구까지 버스로 50분 걸린다.",
+    "value": "JR 40분 / 버스 50분",
+    "urls": [
+     "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "access",
+    "text": "하네다공항에서 JR로 마이하마역까지 50분, 파크 입구까지 버스로 45분 걸린다.",
+    "value": "JR 50분 / 버스 45분",
+    "urls": [
+     "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "access",
+    "text": "나리타공항에서 JR로 마이하마역까지 1시간 20분, 파크 입구까지 버스로 1시간 걸린다.",
+    "value": "JR 1시간20분 / 버스 1시간",
+    "urls": [
+     "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "access",
+    "text": "도쿄역에서 파크까지 가는 직행 버스가 있고, 공항에서도 버스로 파크에 바로 갈 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "description",
+    "text": "도쿄 디즈니랜드는 미국 밖에서 처음 문을 연 디즈니 테마파크이다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "description",
+    "text": "도쿄 디즈니랜드에는 어드벤처랜드, 웨스턴랜드, 판타지랜드, 투모로랜드, 크리터 컨트리, 미키의 툰타운, 월드 바자회 등의 구역이 있다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "description",
+    "text": "스페이스 마운틴, 캐리비안의 해적, 빅 썬더 마운틴, 해운티드 맨션 같은 어트랙션이 있다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "description",
+    "text": "스타 투어스, 몬스터 주식회사 '라이드&고 시크!', 푸우의 허니 헌트 같은 어트랙션도 있다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "description",
+    "text": "도쿄 디즈니랜드·디즈니씨에는 일본 디즈니 파크에서만 즐길 수 있는 어트랙션과 체험이 있다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "description",
+    "text": "밤에는 '도쿄 디즈니랜드 일렉트릭 퍼레이드 드림라이츠'가 열리며, 퍼레이드는 연중 진행된다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "highlight",
+    "text": "월드 바자회는 도쿄 디즈니랜드에만 있는 완전히 독자적인 구역이다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "hours",
+   "closed_days",
+   "fees",
+   "reservation",
+   "payment",
+   "parking",
+   "duration",
+   "language",
+   "caution",
+   "description.area_count",
+   "stale_source"
+  ]
+ },
+ {
+  "key": "new:jp-chiba-tokyo-disneysea",
+  "name_ko": "도쿄 디즈니씨",
+  "name_local": "東京ディズニーシー",
+  "admin_region": "지바현 우라야스시",
+  "address": "1-1 Maihama, Urayasu-shi, Chiba-ken",
+  "description": "도쿄 디즈니씨는 도쿄 디즈니 리조트 안에 있으며, 바다의 신화와 전설을 테마로 한 유일한 디즈니 파크이다. 2001년에 문을 열었고, 테마 랜드 대신 여러 테마 포트로 구성되어 있다. 일본 디즈니 파크에서만 만날 수 있는 어트랙션과 레스토랑, 쇼가 있고 경치가 좋은 어트랙션이 많다. 판타지 스프링스에 들어가려면 파크 티켓 외에 무료 스탠바이 패스나 유료 디즈니 프리미어 액세스가 필요할 수 있다. JR 게이요선 마이하마역에서 걸어서 몇 분이며, 도쿄역에서 JR로 20분 걸린다.",
+  "highlights": [
+   "바다의 신화와 전설을 테마로 한 유일한 디즈니 파크",
+   "2001년 개장, 테마 랜드 대신 테마 포트로 구성",
+   "판타지 스프링스는 파크 티켓 외 스탠바이 패스 또는 프리미어 액세스 필요(당일 운영 상황에 따라 제한 없을 수 있음)",
+   "마이하마역에서 도보 몇 분, 도쿄역에서 JR 20분",
+   "레스토랑·쇼 등 즐길 거리"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "도쿄 디즈니 리조트(도쿄 디즈니랜드·디즈니씨·이크스피아리 포함)의 주소는 1-1 Maihama, Urayasu-shi, Chiba-ken이다.",
+    "value": "1-1 Maihama, Urayasu-shi, Chiba-ken",
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "도쿄 디즈니랜드, 디즈니씨, 이크스피아리는 JR 게이요선 마이하마역에서 걸어서 몇 분 거리이다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "도쿄역에서 JR로 마이하마역까지 20분, 파크 입구까지 버스로 35분 걸린다.",
+    "value": "JR 20분 / 버스 35분",
+    "urls": [
+     "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "신주쿠역에서 JR로 마이하마역까지 40분, 파크 입구까지 버스로 50분 걸린다.",
+    "value": "JR 40분 / 버스 50분",
+    "urls": [
+     "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "하네다공항에서 JR로 마이하마역까지 50분, 파크 입구까지 버스로 45분 걸린다.",
+    "value": "JR 50분 / 버스 45분",
+    "urls": [
+     "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "access",
+    "text": "나리타공항에서 JR로 마이하마역까지 1시간 20분, 파크 입구까지 버스로 1시간 걸린다.",
+    "value": "JR 1시간20분 / 버스 1시간",
+    "urls": [
+     "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "description",
+    "text": "도쿄 디즈니씨는 바다의 신화와 전설을 테마로 한 유일한 디즈니 파크이다.",
+    "value": null,
+    "urls": [
+     "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "description",
+    "text": "도쿄 디즈니씨는 2001년에 문을 열었다.",
+    "value": "2001",
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "description",
+    "text": "도쿄 디즈니씨는 테마 랜드 대신 서로 다른 테마 포트로 이루어져 있다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "description",
+    "text": "도쿄 디즈니씨에는 일본에서만 만날 수 있는 어트랙션 외에 레스토랑, 쇼 등 엔터테인먼트가 있고, 어트랙션에서 풍경을 즐길 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1556/"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "reservation",
+    "text": "판타지 스프링스 입장에는 파크 티켓 외에 무료 스탠바이 패스 또는 유료 디즈니 프리미어 액세스(대상 어트랙션용)가 필요하다.",
+    "value": null,
+    "urls": [
+     "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "caution",
+    "text": "스탠바이 패스와 프리미어 액세스는 한정 수량이며, 당일 운영 상황에 따라 판타지 스프링스 입장 제한이 없을 수도 있다.",
+    "value": null,
+    "urls": [
+     "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "hours",
+   "closed_days",
+   "fees",
+   "payment",
+   "parking",
+   "duration",
+   "language",
+   "reservation.general",
+   "stale_source"
+  ]
+ },
+ {
+  "key": "new:jp-tokyo-wb-studio-tour",
+  "name_ko": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "name_local": "ワーナー ブラザース スタジオツアー東京 ‐ メイキング・オブ・ハリー・ポッター",
+  "admin_region": "도쿄도 네리마구",
+  "address": "1-1-7 Kasugacho, Nerima-ku, Tokyo 179-0074",
+  "description": "해리 포터 영화의 세트, 의상, 소품을 직접 걸어서 둘러보는 워크스루형 시설로, 놀이기구는 없다. 대연회장, 9와 3/4 승강장, 금지된 숲, 마법부(도쿄 한정), 다이애건 앨리 세트가 있고 빗자루 체험 같은 인터랙티브 체험도 할 수 있다. 시간대를 지정한 사전 예약이 필요하며 소요시간은 3~4시간 정도를 권장한다. 도시마엔역에서 도보 2분이고, 세이부 이케부쿠로선으로 이케부쿠로에서 17분, 도에이 오에도선으로 신주쿠에서 20분이다. 사진 촬영은 대부분 가능하지만 프리쇼 시네마와 그린스크린 구역은 금지이며, 디지털 가이드에는 한국어가 있다(현재 판매 일시 중단).",
+  "highlights": [
+   "대연회장·9와 3/4 승강장·금지된 숲·마법부(도쿄 한정)·다이애건 앨리 세트",
+   "빗자루 체험 등 인터랙티브 체험, 놀이기구는 없음",
+   "도시마엔역 도보 2분",
+   "시간대 지정 사전 예약 필수, 권장 소요시간 3~4시간",
+   "디지털 가이드는 한국어 지원(현재 구매·이용 일시 중단)"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "시설 주소는 1-1-7 Kasugacho, Nerima-ku, Tokyo 179-0074이다.",
+    "value": "1-1-7 Kasugacho, Nerima-ku, Tokyo 179-0074",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/location/"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "도시마엔역에서 도보 2분이다.",
+    "value": "도보 2분",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/location/"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "세이부 이케부쿠로선(도시마선)으로 이케부쿠로역에서 도시마엔역까지 직통 17분이다.",
+    "value": "17분",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/location/"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "도에이 오에도선으로 신주쿠역에서 도시마엔역까지 직통 20분이다.",
+    "value": "20분",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/location/"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "공항 리무진 버스의 하네다공항-히카리가오카/네리마 노선에 'WARNER BROS. STUDIO TOUR TOKYO' 정류장이 추가되어 시설 정문까지 바로 갈 수 있으며, 2026년 3월 1일부터 운행한다.",
+    "value": "2026-03-01~",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/location/"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "access",
+    "text": "혼잡을 피하려면 열차 이용을 권장한다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/location/"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "parking",
+    "text": "주차장은 투어 오픈 시간부터 이용할 수 있고, 스튜디오 투어 방문객 전용이며 인근 시설 방문용 주차는 불가하다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "parking",
+    "text": "2026년 12월 31일까지의 방문은 주차권을 투어 티켓 구매 시 함께 예약해야 하며 주차 공간이 한정되어 있다. 요금은 승용차·오토바이(스쿠터 제외) 1대 ¥2,000이다.",
+    "value": "¥2,000/대",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "parking",
+    "text": "2027년 1월 1일 이후 방문부터는 주차권 사전 구매가 없어지고 도착 시 현장에서 요금을 낸다. 승용차 ¥2,000, 오토바이는 무료이다.",
+    "value": "자동차 ¥2,000 / 오토바이 무료",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "parking",
+    "text": "주차는 유효한 스튜디오 투어 티켓 소지자만 가능하며, 전기차 충전은 불가하고 반려동물 동반 주차는 금지이다(인증된 보조견 제외).",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "parking",
+    "text": "스쿠터는 자전거 주차 구역을 무료로 이용할 수 있고, 자전거 주차는 티켓을 제시해 직원 안내를 받아 이용한다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "parking",
+    "text": "버스 주차 공간은 소수이며 사전 예약이 필요하고 요금은 5,000엔이다(방문자 서비스 팀에 문의).",
+    "value": "¥5,000",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "duration",
+    "text": "방문 소요시간은 3~4시간을 권장하며, 체류 시간 제한은 없다.",
+    "value": "3~4시간",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/faqs/facilities/"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "hours",
+    "text": "운영시간은 연중 달라지며 공식 운영 캘린더에서 날짜별로 확인해야 한다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/opening-times/"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "hours",
+    "text": "공식 캘린더 데이터상 2026-10-12~2027-03-31 중 'Off Peak 2' 일정인 날(예: 2026-10-14)은 스튜디오 오픈 08:30, 첫 투어 09:00, 마지막 투어 시작 15:00, 마감 19:00이다.",
+    "value": "08:30 오픈 / 09:00 첫투어 / 15:00 마지막투어 / 19:00 마감",
+    "urls": [
+     "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "hours",
+    "text": "'Super Peak 2' 일정인 날(예: 2026-10-17)은 오픈 08:30, 첫 투어 09:00, 마지막 투어 시작 17:00, 마감 21:00이다.",
+    "value": "08:30 / 09:00 / 17:00 / 21:00",
+    "urls": [
+     "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "hours",
+    "text": "'Peak' 일정인 날(예: 2026-12-24)은 오픈 08:30, 첫 투어 09:00, 마지막 투어 시작 16:00, 마감 20:00이다.",
+    "value": "08:30 / 09:00 / 16:00 / 20:00",
+    "urls": [
+     "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "hours",
+    "text": "'Off Peak' 일정인 날(2026-11-09, 11-10)은 오픈 08:30, 첫 투어 09:00, 마지막 투어 시작 13:30, 마감 17:30이다.",
+    "value": "08:30 / 09:00 / 13:30 / 17:30",
+    "urls": [
+     "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "hours",
+    "text": "이벤트 데이인 2027-01-01은 오픈 10:30, 첫 투어 11:00, 마지막 투어 시작 16:00, 마감 20:00이고, 2027-02-25는 오픈 10:30, 첫 투어 11:00, 마지막 투어 시작 15:00, 마감 19:00이다.",
+    "value": "2027-01-01: 10:30/11:00/16:00/20:00; 2027-02-25: 10:30/11:00/15:00/19:00",
+    "urls": [
+     "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "hours",
+    "text": "마지막 투어 시작 시각 이후에 도착하면 투어 일부만 체험하거나 입장이 거부될 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/faqs/facilities/"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "closed_days",
+    "text": "공식 캘린더상 2026-10-12~2027-03-31 사이의 휴관일은 2026-11-11, 2026-11-12, 2027-01-12, 2027-01-13, 2027-02-24이다.",
+    "value": [
+     "2026-11-11",
+     "2026-11-12",
+     "2027-01-12",
+     "2027-01-13",
+     "2027-02-24"
+    ],
+    "urls": [
+     "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "closed_days",
+    "text": "티켓은 2027년 3월 31일까지 판매 중이다.",
+    "value": "2027-03-31",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/opening-times/"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "fees",
+    "text": "연령 구분은 성인 18세 이상, 주니어 12~17세, 어린이 4~11세이며 0~3세 유아는 입장료가 없다(보호자는 유효한 티켓이 필요).",
+    "value": "성인18+/주니어12-17/어린이4-11/유아0-3 무료",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/ticket-terms/"
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "fees",
+    "text": "네리마구 주민 티켓(13:00 이후 투어)은 성인 ¥5,000, 주니어 ¥4,150, 어린이 ¥3,000이며 유효한 신분증이 필요하다.",
+    "value": "¥5,000/¥4,150/¥3,000",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/ticket-information/"
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "fees",
+    "text": "20명 이상 단체 티켓은 성인 ¥6,000, 주니어 ¥5,000, 어린이 ¥3,600이다.",
+    "value": "¥6,000/¥5,000/¥3,600",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/ticket-information/"
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "fees",
+    "text": "디지털 가이드(일·영·중(간체/번체)·한국어) 추가 옵션은 1대 ¥1,480이며 표시 가격은 세금 포함이다.",
+    "value": "¥1,480/대",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/ticket-information/price/"
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "fees",
+    "text": "장애가 있는 방문객 1명당 유효 티켓을 구매하면 무료 동반자 티켓이 1장 제공된다(4세 미만은 이미 무료여서 추가 불가).",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/help-centre/accessibility/"
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "fees",
+    "text": "예약 날짜·시간을 변경할 때마다 ¥1,500의 수수료가 부과되며, 티켓은 환불·양도가 불가하다.",
+    "value": "¥1,500",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/ticket-information/"
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "reservation",
+    "text": "방문 전에 입장 날짜와 시간대를 지정한 사전 예약이 필요하며, 공식 웹사이트나 현장 매표소에서 구매할 수 있으나 현장은 매진될 수 있어 사전 예약을 권장한다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/ticket-terms/",
+     "https://www.wbstudiotour.jp/en/faqs/tickets/"
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "reservation",
+    "text": "지정 입장 시간 1시간 전부터 로비에 들어갈 수 있고(당일 첫 시간대는 30분 전), 지정 시간으로부터 30분 이내에 입장해야 한다.",
+    "value": "1시간 전 / 30분 이내",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/ticket-terms/"
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "reservation",
+    "text": "입장 시 e-티켓의 바코드와 예약 번호를 제시하며, 결제에 쓴 카드나 신분증 확인을 요청받을 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/ticket-terms/"
+    ]
+   },
+   {
+    "cid": "c32",
+    "field": "reservation",
+    "text": "세븐일레븐 멀티복사기 또는 7ticket 사이트(일본어만)에서도 티켓을 구매할 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/faqs/tickets/"
+    ]
+   },
+   {
+    "cid": "c33",
+    "field": "payment",
+    "text": "공식 웹사이트 티켓 결제는 Amex, Mastercard, Visa, JCB, 유니온페이, Discover, Diners, Apple Pay, Google Pay를 받으며, 현금은 현장 매표소에서만 가능하다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/faqs/tickets/"
+    ]
+   },
+   {
+    "cid": "c34",
+    "field": "payment",
+    "text": "티켓 결제에 교통 IC카드와 iD·QUICPay 같은 비접촉 결제는 받지 않는다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/faqs/tickets/"
+    ]
+   },
+   {
+    "cid": "c35",
+    "field": "payment",
+    "text": "시설 내 숍(스튜디오 숍·레일웨이 숍)은 현금, 신용·체크카드(VISA, MasterCard, American Express, JCB, Diners, UnionPay), Apple Pay, 바코드 결제(PayPay, Alipay, WeChat Pay)를 받고 교통 IC카드·iD·QUICPay는 받지 않는다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/faqs/facilities/"
+    ]
+   },
+   {
+    "cid": "c36",
+    "field": "payment",
+    "text": "시설 내 ATM, 택배 서비스, 면세 서비스는 없다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/faqs/facilities/"
+    ]
+   },
+   {
+    "cid": "c37",
+    "field": "language",
+    "text": "디지털 가이드는 일본어 해설이며 영어·한국어·중국어 간체·번체도 제공된다(영상·제작 비하인드 콘텐츠).",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/help-centre/accessibility/"
+    ]
+   },
+   {
+    "cid": "c38",
+    "field": "language",
+    "text": "2026년 9월 29일 시설 일부 화재의 영향으로 디지털 가이드의 구매·이용이 별도 공지 시까지 일시 중단되었으며, 투어는 평소처럼 운영한다(2026-09-30 공지).",
+    "value": "2026-09-30",
+    "urls": [
+     "https://www.wbstudiotour.jp/en/"
+    ]
+   },
+   {
+    "cid": "c39",
+    "field": "description",
+    "text": "놀이기구는 없으며, 관람객이 걸어서 영화 세트·의상·소품을 둘러보고 여러 인터랙티브 체험에 참여한다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/faqs/facilities/"
+    ]
+   },
+   {
+    "cid": "c40",
+    "field": "description",
+    "text": "시설에는 대연회장, 9와 3/4 승강장, 금지된 숲, 마법부, 다이애건 앨리 세트가 있다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/inside-the-tour/"
+    ]
+   },
+   {
+    "cid": "c41",
+    "field": "highlight",
+    "text": "마법부 세트는 도쿄에서만 볼 수 있으며, 높이 3m가 넘는 벽난로에 들어가 연기·조명 효과 속에서 사진과 영상을 찍을 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/inside-the-tour/"
+    ]
+   },
+   {
+    "cid": "c42",
+    "field": "highlight",
+    "text": "빗자루를 타고 나는 체험 등 사진 촬영 포인트가 여러 곳 있다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/faqs/facilities/"
+    ]
+   },
+   {
+    "cid": "c43",
+    "field": "highlight",
+    "text": "투어 중간의 백롯 카페에서 논알코올 음료 버터비어를 마실 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/facilities/"
+    ]
+   },
+   {
+    "cid": "c44",
+    "field": "caution",
+    "text": "사진·영상 촬영은 프리쇼 시네마와 그린스크린 구역 등 제한 구역을 제외하고 가능하며, 플래시·삼각대·교환렌즈 등 전문 장비와 드론은 사용할 수 없다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/ticket-terms/"
+    ]
+   },
+   {
+    "cid": "c45",
+    "field": "caution",
+    "text": "입장 시 소지품 검사가 있고 촬영은 그 구역 이후에만 가능하며, 큰 짐이나 여러 개의 짐은 가져오지 말라고 안내한다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/"
+    ]
+   },
+   {
+    "cid": "c46",
+    "field": "caution",
+    "text": "반려동물은 인증된 보조견을 제외하고 입장할 수 없고, 흡연·투어 구역 밖 음식 섭취·킥보드·자전거·스케이트 이용이 금지된다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/ticket-terms/"
+    ]
+   },
+   {
+    "cid": "c47",
+    "field": "caution",
+    "text": "일부 구역에서 갑작스러운 큰 소리와 스트로브 조명이 사용되므로 고혈압·심장 질환 등이 있으면 직원에게 문의하고 해당 구역을 피할 것을 권한다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/ticket-terms/"
+    ]
+   },
+   {
+    "cid": "c48",
+    "field": "caution",
+    "text": "4~11세 어린이와 0~3세 유아는 성인 동반이 필요하고, 12~17세 주니어는 성인 없이 방문할 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/ticket-terms/"
+    ]
+   },
+   {
+    "cid": "c49",
+    "field": "caution",
+    "text": "나이트 버스는 정비 작업으로 현재 관람할 수 없고 11월 초 재전시 예정이다(2026-09-10 공지).",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/"
+    ]
+   },
+   {
+    "cid": "c50",
+    "field": "caution",
+    "text": "휠체어(수동·전동)는 입장 가능하나 전동 스쿠터·이동 차량은 불가하고, 무료 수동 휠체어와 유모차를 안내 데스크에서 빌릴 수 있다(수량 한정). 왜건형 유모차는 불가하다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/help-centre/accessibility/"
+    ]
+   },
+   {
+    "cid": "c51",
+    "field": "tip",
+    "text": "시설 내 코인 로커(실내 S ¥300 / M ¥500 / L ¥700 / XL ¥1,000, 실외 S ¥300 / M ¥500 / L ¥700)와 무료 와이파이가 있고, 큰 캐리어는 실외 로커에 보관하길 권한다.",
+    "value": null,
+    "urls": [
+     "https://www.wbstudiotour.jp/en/plan-your-visit/facilities/",
+     "https://www.wbstudiotour.jp/en/faqs/facilities/"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "fees.conflict",
+   "hours.calendar_method",
+   "closed_days.regular",
+   "language.korean_support",
+   "payment.lockers",
+   "stale_source"
+  ]
+ }
+]

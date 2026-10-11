@@ -1,0 +1,708 @@
+{
+ "places": [
+  {
+   "key": "east-qd-05",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "博物馆介绍 page: 坐落于青岛啤酒诞生地——登州路56号"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "以1903年德式工业建筑群为载体"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "交通路线 page, exact match"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "交通路线 page, exact match"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "交通路线 page, exact match"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page also lists 延安一路 stops (15/302/306/464; 1/4/25/... routes) +280m walk"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "参观须知. Homepage banner shows only 08:30-17:30 (16:30 last entry), see conflicts"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "参观须知"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "参观须知"
+    },
+    {
+     "cid": "c10",
+     "verdict": "corrected",
+     "corrected_text": "4월 1일~10월 31일 기간의 기본 입장권(A관 역사발전관+B관 양조공정관)은 성인 60위안, 학생 50위안, 노인(60~69세) 30위안이며, 원장(原浆) 맥주 1잔과 순생(纯生) 맥주 1잔(각 0.15L), 맥주콩 한 봉지가 포함된다.",
+     "note": "Prices/period correct; the 2 beers are 原浆+纯生, not generic draft. Price period ends 10/31; prices from 11/1 are not on the page"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says 凭身份证; it does not say whether foreign passports qualify"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Ticket page also says 140CM以下儿童免费"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The list also includes 退休军人 and 山东惠才卡 holders. These are administrative and of little use to Korean travellers"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "参观须知 + ticket page note 6"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "多品种品鉴套票 128元: 纯生/皮尔森/白啤/原浆/IPA/黑啤 each 0.15L + beer beans. Valid 4/1-10/31"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "定制啤酒套票 90元 also includes beer beans. Valid 4/1-10/31"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Overtime is charged at double the guide fee"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Language not specified"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "自助导览机 15元/台. Languages not stated"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "讲解全程约50分钟 (guided tour only, not the whole visit)"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "参观须知 门票预约方式 1/2"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Uses 二代身份证 (Chinese ID). No foreign-passport procedure is stated"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "备注一"
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "VIP 269元, 需提前2天预约"
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "外语讲解 exists, but the language is not named. Do not imply Korean"
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "备注五"
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "备注三"
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "德占时期的老档案等30000余件文物"
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Honors list: 国家一级博物馆, 国家AAAA级旅游景区"
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "透过玻璃幕墙俯瞰“灯塔工厂”智能化生产线"
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "VR酿造实验室…个性化酒标印刷定制啤酒"
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "客服电话:400-169-1903 (ticket page: 4001691903)"
+    }
+   ],
+   "unsupported_in_description": [
+    "'기본 입장권은 성인 60위안, 학생 50위안, 60~69세 30위안이며…' has no validity period. The official price period is 4/1~10/31 (ends 20 days from now), so add the period.",
+    "'입장할 때 신분증 원본이나 구매 QR코드로 확인합니다' — the official text names the Chinese 2nd-gen ID card. It is unconfirmed whether a foreign passport works, so state that."
+   ],
+   "unsupported_in_highlights": [
+    "'기본권(성인 60위안)에 A관·B관 관람과 맥주 2잔·맥주콩 포함' — no period (4/1~10/31) is stated."
+   ],
+   "suggested_claims": [
+    {
+     "field": "closed_days",
+     "text": "홈페이지 안내에 따르면 월요일부터 일요일까지 매일 개방한다(정기 휴무 표기 없음).",
+     "url": "https://www.tsingtaomuseum.com/"
+    },
+    {
+     "field": "location",
+     "text": "박물관은 칭다오시 스베이구(市北区) 타이둥(台东) 가도에 속한다(공식 사이트 공지 제목의 '市北区台东街道' 표기 기준).",
+     "url": "https://www.tsingtaomuseum.com/"
+    },
+    {
+     "field": "fees",
+     "text": "4월 1일~10월 31일 기준으로 일반 입장권+합류 해설(散拼讲解) 패키지는 성인 98위안, 학생 88위안, 노인 68위안이며, 해설은 8:30~16:30 사이 30분 간격으로 출발한다.",
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail"
+    },
+    {
+     "field": "fees",
+     "text": "4월 1일~10월 31일 기준으로 특별전시관·A관·B관 3관권은 성인 100위안·학생 80위안, 1903극장을 더한 4관권은 성인 120위안·학생 95위안이다.",
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail"
+    }
+   ],
+   "conflicts": [
+    "Homepage banner shows a single schedule, '08:30-17:30, 16:30 last entry, Mon-Sun' (it points to 参观须知 for details). 参观须知 gives seasonal hours, and today (10/11) they are 08:00-18:30 with 17:30 last entry. The homepage is the less specific page.",
+    "The ticket price table is labelled '现行门票时间段 4月1日至10月31日'. Prices from 11/1 are not published, so re-check after 10/31.",
+    "Site footer reads 'Copyright ©2024~2025' and the pages carry no update date, so the source may be stale (unconfirmed).",
+    "payment / foreign-passport booking / Korean language / parking: not found on official pages (2 lookups). The 2025-04-18 news item '多语种系统上线' has no readable text (image only), so the languages it covers are unknown."
+   ]
+  },
+  {
+   "key": "bj-palace",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intl Contact: 4 Jingshan Qianjie Beijing 100009"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intl visit page"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "导览地图 + 参观须知"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "交通路线"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "交通路线"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "西华门 is also reachable via 北长街 600m. Note: 西华门 is staff-only"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "交通路线 请注意"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "开放时间 旺季"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "开放时间 淡季"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Intl page: open on Mondays that are national holidays, except Chinese New Year's Eve"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Visit.html and ticket policy"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Student/senior price for these galleries: 5元"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Ordinary foreign tourists under 18 are NOT free (permanent residents only)"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Excludes adult education and postgraduates"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Military and firefighters need original ID + work ID"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "个人订票须知 1 / 订票须知 2"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Tickets are bound to the holder. Date, slot and person cannot be changed"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'故宫博物院' 小程序; no third party authorized"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "个人订票须知 5"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "个人订票须知 4"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Policy section: refund still possible until 20:00 on the visit day, but it counts as a no-show"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Policy section of the same page says '半年内(按6个月顺延)', see conflicts"
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Also 简体中文; no Korean"
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "服务设施 lists 语音导览器, 讲解. Audio-guide languages are not stated"
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "两小时游/半日游/一日游"
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Notice dated 2026-08-27. Period 9/1~10/31, reopens 11/1"
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Notice dated 2026-07-31. No end date is given"
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Also 营造之道 exhibition (暂闭)"
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "参观须知"
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "景运门内西南侧广播室"
+    },
+    {
+     "cid": "c33",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Same page lists another line, 010-86489090, see conflicts"
+    },
+    {
+     "cid": "c34",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intl index: 'the UNESCO world heritage: the imperial palace of the Ming and Qing dynasties'"
+    },
+    {
+     "cid": "c35",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "intl visit page"
+    },
+    {
+     "cid": "c36",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "요금 근거 행정 문서 표기라 여행자용 사실로 공개하지 않음(검증자 권고, 병합 시 처리). 원 노트: 京价(收)字[2002]284、336号. Administrative detail, not useful to travellers"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "reservation",
+     "text": "외국인 관광객은 온라인 예약 때 여권 번호를 입력해야 하며, 하루 관람객 수는 4만 명으로 제한된다.",
+     "url": "https://intl.dpm.org.cn/visit.html?l=en"
+    },
+    {
+     "field": "closed_days",
+     "text": "월요일이 국가 공휴일이면 개방하지만, 섣달그믐(춘절 전날)은 예외이다.",
+     "url": "https://intl.dpm.org.cn/visit.html?l=en"
+    },
+    {
+     "field": "reservation",
+     "text": "관람 당일 일행 일부가 오지 못하면 검표 전에 원래 예약 채널이나 오문 '종합서비스창구'(성수기 08:30~16:00)에서 그 사람의 표를 환불해야 한다.",
+     "url": "https://ticket.dpm.org.cn/"
+    },
+    {
+     "field": "access",
+     "text": "고궁만 관람한다면 동·서 퉁쯔허로(筒子河路)를 따라 오문 입구로 가서 검표하면 된다. 톈안먼 광장과 함께 예약했다면 광장 주변 보안검색대를 거쳐 남에서 북으로 이동한다.",
+     "url": "https://ticket.dpm.org.cn/"
+    },
+    {
+     "field": "payment",
+     "text": "(확인 불가) 공식 페이지에는 '원래 결제 계좌로 5영업일 안에 환불'이라는 문구만 있고, 결제 수단(위챗페이 등)이나 외국 카드 사용 여부는 적혀 있지 않다.",
+     "url": "https://ticket.dpm.org.cn/"
+    }
+   ],
+   "conflicts": [
+    "ticket.dpm.org.cn still shows stale COVID text (a 72-hour negative nucleic-acid test is required) in two blocks. Do not publish it, since it contradicts current practice.",
+    "Same page, two customer-service lines: 400-950-1925 (08:00-20:00, open all year) in 个人订票须知, and 010-86489090 (08:00-20:00, closed Mondays except holidays) in 票务政策. Visit.html and the intl page give 400-950-1925.",
+    "No-show window: 个人订票须知 says '180日内', 票务政策 says '半年内(按6个月顺延计算)'.",
+    "'八一' Army Day free-entry groups differ between Visit.html and the ticket policy section (administrative, low impact).",
+    "intl.dpm.org.cn footer reads 'Copyright 2023'. The intl page has no update date, so it may be stale. Its hours and prices match the Chinese pages.",
+    "hours.conflict: none found. The ticket page shows only peak hours 08:30/16:00/17:00 with no period label, which matches the 4/1-10/31 peak season."
+   ]
+  },
+  {
+   "key": "bj-badaling",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "就餐指南 gives '北京市延庆区八达岭长城景区'. 景点介绍 still uses the old name '延庆县' (stale)"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "交通路线 (Chinese text uses lowercase g6/g7). Parking fee not stated"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "交通路线"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Undated text for the National Day/Mid-Autumn period, which is over for 2026. Drop-off at the north cable car entrance"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "长城索道 article"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "购票指南"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "购票指南"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "购票指南 二、开放范围"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "八达岭长城 article"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "购票指南 三、购票方式"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Notice: 实名制预约购票与现场购票, 倡议提前预约"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "购票指南 gives a different ticket phone, see conflicts"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "长城索道 article"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "北八楼 '好汉坡'"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c20",
+     "verdict": "corrected",
+     "corrected_text": "공식 웹사이트 설정에는 중국어 외에 영어·러시아어·한국어·일본어 언어 채널이 있다(한국어 페이지에 실제 제공되는 내용은 확인하지 못했다).",
+     "note": "siteConfig lists 中文/英文/俄文/韩文/日文 channels only. The Chinese articles checked have empty newsKorea* fields. Korean content could not be confirmed (Korean channel codes guessed twice, error)"
+    },
+    {
+     "cid": "c21",
+     "verdict": "corrected",
+     "corrected_text": "관광지 방문객 서비스센터는 북문쇄약 서쪽 200m에 있으며, 안내데스크에서 전경 안내도·코스 안내도를 제공하고 인터넷, 상담, 무장애 서비스, 수유실, 분실물, 휴대폰 충전 등을 무료로 제공한다.",
+     "note": "The page does not mention wheelchair, stroller or cane rental. The field 'language' is wrong; this is a service/facility fact"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "购票指南 四-2/3"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "四-3/5"
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "四-6"
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "四-3"
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page also gives ticket line 010-69121474 (9:00-17:00), refund/invoice 010-61118002, complaints 010-69121235"
+    },
+    {
+     "cid": "c27",
+     "verdict": "corrected",
+     "corrected_text": "공식 사이트에 따르면 남4루(南四楼)는 남쪽 구간에서 지대가 가장 높은 곳으로 해발 803.6m이다.",
+     "note": "Fact verified. The claim text 'Following the world site guidance' is garbled wording. Field should be description, not access"
+    }
+   ],
+   "unsupported_in_description": [
+    "'입장권은 실명제 사전 예약이 원칙이고' — the official notice says real-name advance booking and on-site purchase run side by side, and only recommends booking ahead. Calling advance booking 'the rule' overstates it.",
+    "The description gives no admission fee. No official fee statement was found (see suggested_claims), so the guide must say 'unconfirmed'."
+   ],
+   "unsupported_in_highlights": [
+    "'성수기 6:30~16:30, 비수기 7:30~16:00 매일 개방' — the season months (성수기 4/1~10/31, 비수기 11/1~3/31) are missing.",
+    "'실명제 사전 예약이 원칙이며 현장 구매도 병행' — overstated, as above."
+   ],
+   "suggested_claims": [
+    {
+     "field": "tip",
+     "text": "매표 문의 010-69121474(9:00~17:00), 환불·영수증 문의 010-61118002(9:00~17:00), 케이블카 문의 010-69121016이다.",
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1"
+    },
+    {
+     "field": "access",
+     "text": "자가용 차량은 직원 지시에 따라 지정 장소에 주차해야 하며, 불법 영업 차량은 타지 말라고 안내한다(주차 요금은 공식 페이지에 없음).",
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1"
+    },
+    {
+     "field": "fees",
+     "text": "(확인 불가) 공식 사이트의 공개 JSON(购票指南·通知·景点介绍)에는 장성 입장료 금액이 없다. 외국인 여권 예약 방법과 결제 수단도 나와 있지 않다.",
+     "url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexCcNotice&limit=30&page=1"
+    }
+   ],
+   "conflicts": [
+    "Ticket inquiry phone differs across official pages: 4008180088 (notice), 010-69121474 (购票指南), and siteConfig 010-69121268 (customer service/complaint/rescue). The 购票指南 complaint line is 010-69121235.",
+    "景点介绍 article uses the pre-2015 name '延庆县'. Use '延庆区' (other official pages). Keep '延庆县' only as former_region.",
+    "Most articles have releaseTime 2024-11 (over 12 months ago). gmtModified is 2026-10-10/11 on all of them, which looks like an automatic touch, so the content date cannot be confirmed. Possible stale_source.",
+    "长城巴士 info (c4) is undated and tied to the National Day/Mid-Autumn holiday, so the year it applies to is unknown.",
+    "Heads-of-state counts are inconsistent across official articles (528 vs 600余位). This is not used in the guide."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 95,
+  "verified": 91,
+  "corrected": 4,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "All cited URLs opened via curl. tsingtaomuseum.com and dpm.org.cn are server-rendered; badaling.cn was read through its public channelInfo JSON (the app JS returns 401). No HTML comments were used.",
+   "Tsingtao: the ticket price table is valid only for 4/1~10/31. Re-check prices after 2026-10-31. Every period-dependent fee sentence must state the period.",
+   "Palace: ticket.dpm.org.cn has stale COVID and nucleic-acid text plus a second phone number. Never publish those blocks.",
+   "Badaling: the admission fee, foreign-passport booking and payment methods are not on the official site (2 lookups). Mark them unconfirmed with that reason.",
+   "None of the three places has an official statement on payment methods or Korean audio guides."
+  ]
+ }
+}

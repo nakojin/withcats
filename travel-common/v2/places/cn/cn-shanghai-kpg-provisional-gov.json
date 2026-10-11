@@ -1,0 +1,343 @@
+{
+ "id": "cn-shanghai-kpg-provisional-gov",
+ "country": "cn",
+ "tier": "A",
+ "status": "verified",
+ "names": {
+  "ko": "대한민국 임시정부 상하이 청사 유적",
+  "local": "大韩民国临时政府旧址"
+ },
+ "admin_region": "상하이시 황푸구",
+ "former_region": null,
+ "city": null,
+ "address": "上海市黄浦区马当路306弄4号",
+ "coord": null,
+ "coord_note": "좌표 수집 대기",
+ "summary": "상하이 황푸구 마당로 306농에 있는 대한민국 임시정부 유적이다.",
+ "description": "상하이 황푸구 마당로 306농에 있는 대한민국 임시정부 유적이다. 임시정부는 1919년 상하이에서 수립되었고, 1926년부터 1932년까지 이 건물에서 업무를 보았다. 상하이 시기 임시정부 청사 중 가장 오래 사용되었고 가장 온전하게 보존된 곳으로 소개된다. 상하이시 문화관광 플랫폼에 안내된 관람 시간은 09:00-11:30(11:00 발권 종료)과 13:30-17:00(16:30 발권 종료)으로 낮 시간에 휴식이 있으며, 개방 여부와 시간은 방문 전 다시 확인하는 것이 좋다. 임시정부가 처음 문을 연 장소인 '탄생지 구지'는 별도 문화재 보호점이며 일반 개방은 하지 않는다.",
+ "highlights": [
+  "임시정부가 1926~1932년 사무를 본 상하이 청사로, 현존 청사 중 보존 상태가 가장 좋은 곳으로 소개된다",
+  "주소는 황푸구 마당로 306농 4호",
+  "오전 09:00-11:30, 오후 13:30-17:00 두 차례만 열며 각각 30분 전에 발권이 끝난다",
+  "1919년 임시정부 첫 사무실이 있던 '탄생지 구지'는 별도의 구 문화재 보호점이며 개방하지 않는다"
+ ],
+ "checklist": {
+  "location": {
+   "status": "filled",
+   "claims": [
+    "r1-b27-c1"
+   ],
+   "gap": null
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "가까운 지하철역·도보 시간·주차 공식 정보 없음."
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 소요시간 안내 없음."
+   }
+  },
+  "hours": {
+   "status": "filled",
+   "claims": [
+    "r1-b27-c2"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "meet-in-shanghai 페이지는 갱신일 미표시(저작권 표기 2026). 2020-12-31 가이드의 시간과는 일치하나 stale. 점심 휴식 시간 외 요일별 차이는 확인 안 됨.",
+     "detail": "hours",
+     "run": "r1-b27"
+    }
+   ]
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "정기 휴관일 공식 확인 불가."
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "현행 공식 요금 미확인. 상하이시 문화관광국 2021 관람 가이드(https://whlyj.sh.gov.cn/wbzx/20201231/e3fe3261db274a029fbb5be101764113.html, 2020-12-31)는 20元/人이라 했으나 5년 이상 경과(stale_source). meet-in-shanghai 페이지는 요금란이 비어 있음. 2024 국제박물관의 날(5/18) 무료 개방 목록(https://whlyj.sh.gov.cn/wlyw/20240514/9d81c79c41024eafb24e79004ff69f1a.html)은 해당 일자 한정."
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "2020-12-31 문화관광국 가이드는 전화 예약 53829057을 안내했으나 오래된 정보라 현행 여부·외국인 예약 방법·여권 요건 미확인."
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "결제 수단(외국 카드·현금 등) 공식 안내 미확인."
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "한국어 안내·오디오가이드 여부 공식 확인 불가."
+   }
+  },
+  "caution": {
+   "status": "filled",
+   "claims": [
+    "r1-b27-c6"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국 언론(YTN 2026-07-12 https://www.ytn.co.kr/_ln/0104_202607121144093498)이 유적지 관리처 공지를 인용해 2026-08-01~09-14 보수 휴관을 보도했으나 공식 원문 미확인이며 재개관 여부도 공식 확인 불가. 방문 전 확인 필요.",
+     "detail": "caution",
+     "run": "r1-b27"
+    }
+   ]
+  }
+ },
+ "claims": [
+  {
+   "cid": "r1-b27-c1",
+   "field": "location",
+   "text": "주소는 상하이시 황푸구 마당로 306농 4호이다.",
+   "original_text": null,
+   "value": "黄浦区马当路306弄4号",
+   "verdict": "verified",
+   "verify_note": "meet-in-shanghai (Shanghai Culture & Tourism Bureau platform) and whlyj.sh.gov.cn 2025-01-22 both give 黄浦区马当路306弄4号.",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/museum/office-of-the-former-site-of-the-provisional-government-of-the-republic-of-korea-444634/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://whlyj.sh.gov.cn/gqfc/20250122/24f045609b9447d6b93a9741b59620c9.html",
+     "type": "government",
+     "page_updated": "2025-01-22",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c2",
+   "field": "hours",
+   "text": "개방 시간은 09:00-11:30(11:00 발권 종료)과 13:30-17:00(16:30 발권 종료)이다.",
+   "original_text": null,
+   "value": "09:00-11:30, 13:30-17:00",
+   "verdict": "verified",
+   "verify_note": "Both meet-in-shanghai pages (cn and jpn) give 09:00-11:30(11:00停止售票) 13:30-17:00(16:30停止售票). The pages are undated (the header date is a stale currentDate widget) and carry the disclaimer '仅供参考，以场馆官方发布为准'. No operator page could be found, and no official page confirms these hours after the reported Aug 1-Sep 14, 2026 renovation. Add the source and a 'check before visiting' note.",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/museum/office-of-the-former-site-of-the-provisional-government-of-the-republic-of-korea-444634/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.meet-in-shanghai.net/jpn/museums/former-provisional-government-of-the-republic-of-korea-site-management-office-382796/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c3",
+   "field": "description",
+   "text": "대한민국 임시정부는 1919년 상하이에서 수립되었고, 1926~1932년 이 유적 건물에서 업무를 보았다.",
+   "original_text": null,
+   "value": "1919; 1926-1932",
+   "verdict": "verified",
+   "verify_note": "whlyj 2025-01-22: 1919年…在上海成立，1926-1932年在旧址办公. The jpn page gives 1926年7月-1932年5月.",
+   "sources": [
+    {
+     "url": "https://whlyj.sh.gov.cn/gqfc/20250122/24f045609b9447d6b93a9741b59620c9.html",
+     "type": "government",
+     "page_updated": "2025-01-22",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c4",
+   "field": "highlight",
+   "text": "상하이 시기 임시정부 사무 기간이 가장 길었고 가장 온전히 보존된 청사로 소개된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "在上海办公时间最长、也是保存最完整的旧址",
+   "sources": [
+    {
+     "url": "https://whlyj.sh.gov.cn/gqfc/20250122/24f045609b9447d6b93a9741b59620c9.html",
+     "type": "government",
+     "page_updated": "2025-01-22",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c5",
+   "field": "highlight",
+   "text": "상하이에 도착한 한국인 여행객이 꼭 가 보는 '정신적 명소'로 소개된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "韩国游客抵达上海后心心念念、必去打卡的精神地标. This is promotional wording from a 2025-01 district-tourism article.",
+   "sources": [
+    {
+     "url": "https://whlyj.sh.gov.cn/gqfc/20250122/24f045609b9447d6b93a9741b59620c9.html",
+     "type": "government",
+     "page_updated": "2025-01-22",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c6",
+   "field": "caution",
+   "text": "1919년 4월 임시정부가 처음 수립된 '탄생지 구지'는 2016년 황푸구 구급 문화재 보호점으로 지정되었으며 일반에 개방하지 않는다(청사 유적과 별개 장소).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Birthplace page: 2016年7月7日 黄浦区文化局公布为区文物保护点; 1919年4月10日成立; 开放时间: 不开放. The page gives the address only as 黄浦区.",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/district-level-cultural-relics-protection-point/site-of-the-birthplace-of-the-provisional-government-of-the-republic-of-korea-786630/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-s1",
+   "field": "description",
+   "text": "1926년 7월부터 1932년 5월까지 김구의 거처에 임시정부가 있었고, 1932년 4월 윤봉길 의거 뒤 항저우·난징·창사·충칭 등으로 옮겼다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/jpn/museums/former-provisional-government-of-the-republic-of-korea-site-management-office-382796/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-s2",
+   "field": "description",
+   "text": "청사 유적은 1993년 4월부터 일반에 공개되었으며, 석고문식 3층 벽돌·목조 연립 건물(건축면적 476.5㎡)이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/jpn/museums/former-provisional-government-of-the-republic-of-korea-site-management-office-382796/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b27",
+   "text": "Open status could not be confirmed. Secondary sources (Korean press summaries and travel-agency notices found by search) report a renovation closure from 2026-08-01 to 2026-09-14 and re-opening after Sep 15. No official notice of the closure or re-opening could be found: the Consulate General in Shanghai board (overseas.mofa.go.kr/cn-shanghai-ko, m_541) failed with redirect loops and connection resets, and no Huangpu district notice turned up. Search results did show a consulate notice of a 2026-01-05 to 01-08 closure for internal repairs."
+  },
+  {
+   "run": "r1-b27",
+   "text": "A non-official travel blog (trvlogue.com, '2026년판') lists weekend hours of 09:00-17:00 with no midday break. This differs from the official-platform split hours. It is unverified."
+  },
+  {
+   "run": "r1-b27",
+   "text": "collector_unconfirmed: fees, reservation, closed_days, access, duration, payment and language are not on any official page reached; two lookups found nothing."
+  }
+ ],
+ "legacy": null,
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": [
+   {
+    "run": "r1-b27",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 6,
+    "verdicts": {
+     "verified": 6,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 2
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'상하이에 도착한 한국인 여행객이 꼭 찾는 정신적 명소로 꼽힌다' is backed by c5, but it is promotional wording and of little practical use.",
+   "Description presents the hours as current with no source date and no mention of the 2026 renovation closure. Re-opening hours are not confirmed by any official page.",
+   "Highlight 2 '한국 여행객이 상하이에 꼭 들르는 장소' is promotional (c5) and of little practical use."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b27"
+ }
+}

@@ -1,0 +1,871 @@
+[
+ {
+  "key": "WEST-041",
+  "name_ko": "슈리성공원",
+  "name_local": "首里城公園",
+  "admin_region": "오키나와현 나하시",
+  "address": "〒903-0815 沖縄県那覇市首里金城町1-2",
+  "description": "류큐 왕국의 정치·외교·문화 중심지였던 슈리성을 품은 국영 공원으로, 성터는 세계문화유산으로 등록되어 있다. 공원 안에는 슈레이문, 소노히얀우타키 석문, 엔카쿠지 터 같은 문화재가 흩어져 있고, 정전 주변에는 나하 시내를 한눈에 내려다보는 전망대 니시노아자나가 있다. 봉신문에서는 매일 아침 개문 때 어개문식이 열린다. 유료 구역은 4~11월 8:30~19:00(입장 마감 18:30)에 열며, 현재 요금은 개인 성인 400엔이다. 복원된 정전 내부는 2026년 11월 23일부터 일반 공개되고, 날짜와 시간을 지정한 사전 예약이 필요하다. 유이레일 슈리역에서 슈레이문까지 도보 약 15분이며 공원은 대중교통 이용을 권한다.",
+  "highlights": [
+   "세계문화유산에 등록된 류큐 왕국의 성터와 슈레이문 등 문화재를 한 공원에서 둘러본다",
+   "정전 주변 전망대 니시노아자나에서 나하 시내를 한눈에 조망한다",
+   "매일 아침 봉신문 개문 때 어개문식이 열린다",
+   "복원된 정전 내부는 2026년 11월 23일 일반 공개, 날짜·시간 지정 사전 예약제",
+   "유이레일 슈리역에서 슈레이문까지 도보 약 15분, 공원은 대중교통 이용 권장"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "관리센터 주소는 〒903-0815 오키나와현 나하시 슈리킨조초 1-2이다.",
+    "value": "〒903-0815 沖縄県那覇市首里金城町1-2",
+    "urls": [
+     "https://oki-park.jp/shurijo/info/15/"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "description",
+    "text": "슈리성은 류큐 왕국의 정치·외교·문화 중심지였고, 중국과 일본의 축성 문화를 융합한 건축 양식과 석조 기술의 가치를 인정받아 세계문화유산에 등록되었다.",
+    "value": null,
+    "urls": [
+     "https://oki-park.jp/shurijo/guide/"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "highlight",
+    "text": "공원 안에는 슈레이문, 소노히얀우타키 석문, 엔카쿠지 터 등의 문화재가 흩어져 있다.",
+    "value": null,
+    "urls": [
+     "https://oki-park.jp/shurijo/guide/"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "highlight",
+    "text": "정전 주변에는 나하 시내를 한눈에 내려다볼 수 있는 전망대 니시노아자나가 있다.",
+    "value": null,
+    "urls": [
+     "https://oki-park.jp/shurijo/guide/"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "highlight",
+    "text": "봉신문에서는 매일 아침 개문 때 어개문식(우케조)이 실시된다.",
+    "value": null,
+    "urls": [
+     "https://oki-park.jp/shurijo/guide/"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "access",
+    "text": "가장 가까운 역은 유이레일 슈리역이며, 슈리역에서 슈레이문까지 도보 약 15분이다.",
+    "value": "도보 약 15분",
+    "urls": [
+     "https://oki-park.jp/shurijo/access/9751/"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "access",
+    "text": "나하공항역에서 슈리역까지 유이레일로 약 27분, 요금은 어른 360엔·어린이 180엔이다.",
+    "value": "약 27분 / 360엔·180엔",
+    "urls": [
+     "https://oki-park.jp/shurijo/access/9751/"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "access",
+    "text": "슈리역 앞에서 나하버스 7·8번(슈리성시타마치선)을 타고 '슈리성마에'에서 내리면 슈레이문까지 도보 약 1분이다.",
+    "value": "도보 약 1분",
+    "urls": [
+     "https://oki-park.jp/shurijo/access/9751/"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "access",
+    "text": "택시는 나하공항에서 약 10km(약 40~60분), 고쿠사이도리에서 약 4km(약 15~25분)이며 도로 상황에 따라 달라진다.",
+    "value": "공항 40~60분 / 고쿠사이도리 15~25분",
+    "urls": [
+     "https://oki-park.jp/shurijo/access/9751/"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "parking",
+    "text": "주차장(슈이무칸 P1·P2)은 4~11월 8:30~19:30, 12~3월 8:30~18:30에 열며 주차 시간은 3시간 이내를 요청한다.",
+    "value": "4~11월 8:30~19:30 / 12~3월 8:30~18:30",
+    "urls": [
+     "https://oki-park.jp/shurijo/info/15/"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "parking",
+    "text": "소형차 주차 요금은 처음 60분 500엔, 이후 30분마다 250엔, 최대 1,000엔이며 현금과 신용카드(JCB, VISA, Mastercard, AMEX, Diners Club)로 낼 수 있다.",
+    "value": "500엔/60분, +250엔/30분, 최대 1,000엔",
+    "urls": [
+     "https://oki-park.jp/shurijo/access/192/"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "parking",
+    "text": "일반 차량은 사전 예약이 불가하며 당일 빈자리 상황에 따라 이용한다. 만차일 때는 주변 민간 주차장을 안내받을 수 있다.",
+    "value": null,
+    "urls": [
+     "https://oki-park.jp/shurijo/access/192/"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "parking",
+    "text": "주차장은 버스·승용차 겸용이며 50~116대 규모이고, 슈이무칸과 직결되어 있다. 오전에는 만차가 되기 쉬워 모노레일·노선버스 이용을 권한다.",
+    "value": "50~116대",
+    "urls": [
+     "https://oki-park.jp/shurijo/qa/",
+     "https://oki-park.jp/shurijo/access/9751/"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "hours",
+    "text": "무료 구역(환회문·목예문·구경문·계세문)은 4~11월 8:00~19:30, 12~3월 8:00~18:30에 연다.",
+    "value": "4~11월 8:00~19:30 / 12~3월 8:00~18:30",
+    "urls": [
+     "https://oki-park.jp/shurijo/info/15/"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "hours",
+    "text": "유료 구역(봉신문·세호전·히가시노아자나)은 4~11월 8:30~19:00(입장 마감 18:30), 12~3월 8:30~18:00(입장 마감 17:30)이다.",
+    "value": "4~11월 8:30~19:00 (마감 18:30) / 12~3월 8:30~18:00 (마감 17:30)",
+    "urls": [
+     "https://oki-park.jp/shurijo/info/15/"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "closed_days",
+    "text": "2026년 11월 22일(일)은 공원 전체가 휴원·휴장한다.",
+    "value": "2026-11-22",
+    "urls": [
+     "https://oki-park.jp/shurijo/info/15/"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "closed_days",
+    "text": "2026년 11월 23일은 정전 오프닝 행사로 무료 구역은 11:15부터, 유료 구역은 12:00부터 열며 정전 일반 공개도 정오에 시작한다.",
+    "value": "2026-11-23 무료 11:15~ / 유료 12:00~",
+    "urls": [
+     "https://oki-park.jp/shurijo/info/15/"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "fees",
+    "text": "2026년 11월 21일까지의 유료 구역 개인(20명 미만) 요금은 어른 400엔, 고등학생 300엔, 초·중학생 160엔이고 6세 미만은 무료다.",
+    "value": "400/300/160엔, 6세 미만 무료",
+    "urls": [
+     "https://oki-park.jp/shurijo/info/14/"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "fees",
+    "text": "2026년 11월 23일 입장분부터 개인 요금이 어른 1,000엔, 고등학생 760엔, 초·중학생 370엔으로 개정되며 6세 미만은 무료다(세금 포함).",
+    "value": "1,000/760/370엔",
+    "urls": [
+     "https://oki-park.jp/shurijo/info/14/"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "fees",
+    "text": "단체(20명 이상) 요금은 현재 어른 320엔·고등학생 240엔·초중학생 120엔이며, 11월 23일부터 800엔·610엔·300엔이 된다.",
+    "value": "현재 320/240/120엔 → 800/610/300엔",
+    "urls": [
+     "https://oki-park.jp/shurijo/info/14/"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "fees",
+    "text": "오키나와현 거주 70세 이상은 입장 무료이며 창구에서 운전면허증·건강보험증 등 공적 증명서 원본을 제시해야 한다.",
+    "value": null,
+    "urls": [
+     "https://oki-park.jp/shurijo/info/14/"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "fees",
+    "text": "장애인 수첩 소지자는 본인과 보호자 1명까지 무료이며, 유이레일 1일·2일 승차권을 제시하면 단체 요금이 적용된다.",
+    "value": null,
+    "urls": [
+     "https://oki-park.jp/shurijo/info/14/"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "fees",
+    "text": "정전 내부 관람에 추가 요금은 없으며 유료 구역 입장료만 내면 된다. 연간 패스포트는 일반 어른 2,000엔, 현민 어른 1,500엔(11월 23일 입장분부터)이다.",
+    "value": "추가 요금 없음 / 연패스 2,000엔·1,500엔",
+    "urls": [
+     "https://oki-park.jp/shurijo/qa/",
+     "https://oki-park.jp/shurijo/ticket_guide/"
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "reservation",
+    "text": "정전 내부는 2026년 11월 23일 일반 공개되며, 30분 단위 날짜·시간 지정 사전 예약제다. 개인 예약 입장권은 2026년 9월 1일 13:00부터 판매 중이다.",
+    "value": "2026-11-23 공개",
+    "urls": [
+     "https://oki-park.jp/shurijo/qa/",
+     "https://oki-park.jp/shurijo/ticket_guide/"
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "reservation",
+    "text": "정전 내부를 보지 않는 입장권은 예약이 필요 없으며, 입장 예정일 1개월 전부터 마지막 입장 15분 전까지 웹 또는 당일 창구에서 살 수 있다.",
+    "value": null,
+    "urls": [
+     "https://oki-park.jp/shurijo/ticket_guide/"
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "reservation",
+    "text": "예약 시간대 목안은 모노레일 이용 시 슈리역 도착 예정 시각 40~50분 후, 자가용은 공원 주변 도착 예정 시각 30~50분 후이다.",
+    "value": "모노레일 40~50분 후 / 차 30~50분 후",
+    "urls": [
+     "https://oki-park.jp/shurijo/ticket_guide/"
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "reservation",
+    "text": "버스 주차장은 예약 시스템을 통한 완전 사전 예약제이며, 예약은 이용 2일 전까지 해야 한다.",
+    "value": "2일 전까지",
+    "urls": [
+     "https://oki-park.jp/shurijo/access/192/"
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "payment",
+    "text": "당일권은 히로후쿠문 매표소와 온라인 티켓으로 살 수 있다. 창구·園内 시설에서 신용카드, 교통계 IC 등 전자머니, PayPay·Alipay·WeChat Pay 등 QR 결제가 가능하다(일부 시설 제외).",
+    "value": null,
+    "urls": [
+     "https://oki-park.jp/shurijo/info/14/"
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "duration",
+    "text": "슈이무칸에서 정전 내부 관람을 포함한 전체 소요 시간은 혼잡에 따라 약 90~120분이다.",
+    "value": "약 90~120분",
+    "urls": [
+     "https://oki-park.jp/shurijo/ticket_guide/"
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "language",
+    "text": "공식 사이트에 한국어 페이지가 있고, 공식 웹앱 '슈리성 앱'의 일부 사적 스폿에서 일·영·중·한 4개 언어 음성 해설을 스마트폰으로 들을 수 있다(무료, 설치 불필요).",
+    "value": "일/영/중/한",
+    "urls": [
+     "https://oki-park.jp/shurijo/info/19/"
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "caution",
+    "text": "공원 안에서는 드론 반입·비행이 금지된다.",
+    "value": null,
+    "urls": [
+     "https://oki-park.jp/shurijo/info/1315/"
+    ]
+   },
+   {
+    "cid": "c32",
+    "field": "caution",
+    "text": "성벽 안은 전면 금연이고, 자전거·킥보드·스케이트보드류와 불꽃놀이, 총검류 모조품 등의 반입은 금지된다.",
+    "value": null,
+    "urls": [
+     "https://oki-park.jp/shurijo/info/1315/"
+    ]
+   },
+   {
+    "cid": "c33",
+    "field": "caution",
+    "text": "소형견·고양이류는 리드를 하거나 케이지에 넣으면 공원에 들어갈 수 있으나 건물 안과 유료 구역에는 동반할 수 없다(보조견 제외).",
+    "value": null,
+    "urls": [
+     "https://oki-park.jp/shurijo/info/1315/"
+    ]
+   },
+   {
+    "cid": "c34",
+    "field": "caution",
+    "text": "휠체어·지팡이 대여는 무료이며 예약은 받지 않는다.",
+    "value": "무료",
+    "urls": [
+     "https://oki-park.jp/shurijo/qa/"
+    ]
+   },
+   {
+    "cid": "c35",
+    "field": "tip",
+    "text": "공원 관리센터 전화는 098-886-2020이며 전화 접수 시간은 8:00~18:00이다.",
+    "value": "098-886-2020",
+    "urls": [
+     "https://oki-park.jp/shurijo/info/15/"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "closed_days",
+   "fees.conflict",
+   "duration",
+   "location"
+  ]
+ },
+ {
+  "key": "central-019",
+  "name_ko": "나고야성·혼마루어전",
+  "name_local": "名古屋城・本丸御殿",
+  "admin_region": "아이치현 나고야시",
+  "address": "〒460-0031 愛知県名古屋市中区本丸1番1号",
+  "description": "1615년 도쿠가와 이에야스가 지은 나고야성은 국가 특별사적이며, 복원된 혼마루어전과 중요문화재 건축물, 정원, 석벽, 사계절 꽃나무를 볼 수 있다. 혼마루어전은 2018년 완성된 복원 건물로 금빛 장벽화와 화려한 장식이 이어지며 입장 시 신발을 벗어야 하고 플래시 없이 촬영할 수 있다. 현재 천수각 안에는 들어갈 수 없지만 성 입장은 가능하다. 개원 시간은 9:00~16:30이고 혼마루어전은 16:00까지 입장하며, 입장료는 2026년 10월 1일부터 성인 1,000엔, 중학생 이하 무료다. 지하철 메이조선 나고야성역 7번 출구에서 도보 약 5분이고 성 전체를 보는 데 약 1시간~1시간 30분이 걸린다.",
+  "highlights": [
+   "복원된 혼마루어전의 장벽화와 장식을 감상하며 2018년 완성 모습을 본다",
+   "천수각은 입장 불가이나 중요문화재 건축물, 정원, 석벽, 약 900그루 벚나무를 즐길 수 있다",
+   "입장료 성인 1,000엔(2026년 10월 1일부터), 중학생 이하 무료",
+   "지하철 나고야성역 7번 출구에서 도보 약 5분",
+   "성 전체 관람 약 1시간~1시간 30분, 한국어 공식 사이트 제공"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "주소는 〒460-0031 아이치현 나고야시 나카구 혼마루 1번 1호이다.",
+    "value": "〒460-0031 愛知県名古屋市中区本丸1番1号",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "description",
+    "text": "나고야성은 1615년 도쿠가와 이에야스가 세웠고, 성으로서 처음 국보로 지정되었으나 전쟁으로 소실된 뒤 현재는 국가 특별사적이다.",
+    "value": "1615",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "highlight",
+    "text": "혼마루어전은 1615년 완성된 번주의 거처이자 정청으로, 1945년 공습으로 소실된 뒤 복원되어 2018년 완성되었다.",
+    "value": "2018",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "highlight",
+    "text": "혼마루어전은 방마다 천장, 란마, 장식 금구, 장벽화의 구성이 다르며, 현관은 금지 바탕의 '죽림표호도' 장벽화로 꾸며져 있다.",
+    "value": null,
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "highlight",
+    "text": "성내에는 천수각 외에도 혼마루어전, 중요문화재 건축물, 정원, 석벽, 사계절 꽃과 나무가 있으며 벚나무는 약 900그루, 매화는 약 70그루이다.",
+    "value": "벚나무 약 900, 매화 약 70",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/faq/"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "highlight",
+    "text": "천수각 등불은 매일 일몰부터 오후 11시까지 켜지며, 매월 8일은 오후 9시 30분까지이고 절전 캠페인으로 일찍 꺼질 수 있다.",
+    "value": "일몰~23:00",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/faq/"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "access",
+    "text": "지하철 메이조선 '나고야성'역 7번 출구에서 도보 5분이다.",
+    "value": "도보 5분",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/access/"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "access",
+    "text": "메이테쓰 세토선 '히가시오오테'역에서는 도보 15분이고, 시영버스 사카에13계통 '나고야성 정문앞' 정류장이 있다.",
+    "value": "도보 15분",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/access/"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "access",
+    "text": "나고야역에서 지하철로 약 15분(환승 1회), 관광루트버스 메구루로 약 20분, 차로 약 15분이다. 주부국제공항(센트레아)에서는 철도로 약 45분(환승 1회)이다.",
+    "value": "역 15분 / 메구루 20분 / 공항 45분",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/faq/"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "parking",
+    "text": "정문 앞 주차장은 보통차 308대, 30분 이내마다 250엔이며 이용 가능 시간은 8:45~21:30(1월 2일~12월 28일)이다.",
+    "value": "308대 / 250엔/30분 / 8:45~21:30",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/access/"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "parking",
+    "text": "니노마루 히가시 주차장은 보통차 123대, 30분 이내마다 250엔이며 이용 가능 시간은 8:30~22:30(1월 2일~12월 28일)이다.",
+    "value": "123대 / 250엔/30분 / 8:30~22:30",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/access/"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "parking",
+    "text": "대형차를 제외한 주차장 예약 제도는 없고 선착순이다.",
+    "value": null,
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/faq/"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "duration",
+    "text": "혼마루어전을 포함해 성내 전체를 천천히 보는 데 약 1시간~1시간 30분이 걸린다.",
+    "value": "약 1시간~1시간 30분",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "hours",
+    "text": "개원 시간은 9:00~16:30이며, 혼마루어전과 니시노마루 고쿠라조호칸의 입장은 16:00까지이다.",
+    "value": "9:00~16:30 (혼마루어전 입장 16:00까지)",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "hours",
+    "text": "혼마루어전 입구까지는 정문·동문에서 도보 약 10분 걸리므로 입장하려면 16시까지 어전 입구에 도착해야 한다.",
+    "value": "도보 약 10분",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "hours",
+    "text": "혼마루어전 입관 시간은 9:00~16:00이다.",
+    "value": "9:00~16:00",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "closed_days",
+    "text": "휴원일은 12월 29일~31일과 1월 1일(4일간)이며 행사 등으로 바뀔 수 있다.",
+    "value": "12/29~1/1",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "caution",
+    "text": "천수각이 폐관 중이어서 천수각 등 안에는 들어갈 수 없지만, 성 입장은 가능하다.",
+    "value": null,
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/faq/",
+     "https://www.nagoyajo.city.nagoya.jp/"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "fees",
+    "text": "관람료는 2026년 10월 1일부터 개인 성인 1,000엔이고 중학생 이하는 무료다. 나고야시 거주 65세 이상은 300엔이다.",
+    "value": "성인 1,000엔 / 중학생 이하 무료 / 시내 65세 이상 300엔",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/fee/"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "fees",
+    "text": "30명 이상 단체는 성인 900엔, 100명 이상 단체는 800엔이다. 도쿠가와엔 공통권은 성인 1,040엔(현금만), 정기권(1년)은 성인 4,000엔이다.",
+    "value": "900/800엔 / 공통권 1,040엔 / 정기권 4,000엔",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/fee/"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "fees",
+    "text": "혼마루어전 입관료는 무료이나 나고야성 관람료는 별도로 필요하다.",
+    "value": "어전 무료(성 관람료 별도)",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "fees",
+    "text": "장애인 수첩 등 소지자와 보호자(필요 시 2명까지)는 관람료가 무료이며 개찰구에서 수첩을 제시한다.",
+    "value": null,
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/fee/"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "reservation",
+    "text": "성 입장과 단체 관람에 사전 예약은 필요 없다.",
+    "value": null,
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/faq/"
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "payment",
+    "text": "입장권 창구에서 일본 엔 현금과 신용카드(VISA, Mastercard, JCB, 은련, AMEX, Diners, Discover), 교통계 IC, iD·QUICPay, PayPay, Alipay, WeChat Pay 등 캐시리스 결제를 쓸 수 있다. 도쿠가와엔 공통권은 현금만 가능하다.",
+    "value": null,
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/fee/"
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "language",
+    "text": "공식 사이트에 한국어 페이지가 있다(개원 정보와 입장 대기 시간 안내 포함).",
+    "value": null,
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/ko/"
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "caution",
+    "text": "혼마루어전은 입구에서 신발을 벗어야 하고, 장벽화 보호를 위해 플래시 촬영만 금지되며 촬영 자체는 가능하다. 음식과 흡연은 불가하고 큰 짐은 어전 안 무료 사물함에 맡긴다.",
+    "value": null,
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/",
+     "https://www.nagoyajo.city.nagoya.jp/info/faq/"
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "caution",
+    "text": "어전 내부는 조명을 줄여 복원했으며 냉난방 설비와 화장실이 없으므로 컨디션에 주의해야 한다.",
+    "value": null,
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/"
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "caution",
+    "text": "반려동물은 리드를 하면 성내 입장이 되나 혼마루어전·니시노마루 고쿠라조호칸 등 건물 안은 금지이다(보조견 제외).",
+    "value": null,
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/faq/"
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "tip",
+    "text": "정문·동문에 코인로커가 있고, 들어가지 않는 짐은 정문 종합안내소에서 1개 300엔에 맡길 수 있다. 휠체어는 정문·동문 개찰구에서 빌릴 수 있다(예약 불가).",
+    "value": "짐 1개 300엔",
+    "urls": [
+     "https://www.nagoyajo.city.nagoya.jp/info/faq/"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "language",
+   "fees.conflict",
+   "hours"
+  ]
+ },
+ {
+  "key": "new:jp-osaka-usj",
+  "name_ko": "유니버설 스튜디오 재팬",
+  "name_local": "ユニバーサル・スタジオ・ジャパン",
+  "admin_region": "오사카부 오사카시 고노하나구",
+  "address": "〒554-0031 大阪府大阪市此花区桜島2-1-33",
+  "description": "유니버설 스튜디오 재팬은 영화와 인기 캐릭터를 주제로 한 오사카의 테마파크로, 슈퍼 닌텐도 월드 같은 구역과 쇼, 어트랙션을 즐길 수 있다. 입장권(스튜디오 패스)에 파크 입장과 어트랙션 이용이 포함되며 입장만 가능한 티켓은 없다. 영업 시간은 날짜마다 달라서 방문일 시간을 확인해야 하고, 예를 들어 2026년 10월 11일은 8:00~22:00이다. 유니버설 시티역까지 오사카역에서 약 11분, 간사이공항에서 약 65분이 걸린다. 슈퍼 닌텐도 월드는 당일 상황에 따라 입장 정리권이나 추첨권이 필요할 수 있다. 공식 사이트는 한국어를 지원하지만 전화 인포메이션 센터의 운영자 언어는 영어만 가능하다.",
+  "highlights": [
+   "슈퍼 닌텐도 월드는 상황에 따라 입장 정리권·추첨권이 필요할 수 있다",
+   "스튜디오 패스 한 장으로 파크 입장과 어트랙션 이용이 가능하다",
+   "오사카역에서 유니버설 시티역까지 약 11분, 간사이공항에서 약 65분",
+   "영업 시간은 날짜별로 다르며 공식 앱에서 어트랙션 대기 시간을 확인할 수 있다",
+   "공식 한국어 사이트와 한국 판매 대리점 안내를 제공한다"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "주소는 〒554-0031 오사카부 오사카시 고노하나구 사쿠라지마 2-1-33이다.",
+    "value": "〒554-0031 大阪府大阪市此花区桜島2-1-33",
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/access/car/index.html"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "description",
+    "text": "영화를 주제로 한 라이드와 인기 캐릭터 쇼 등을 갖춘 테마파크로, 슈퍼 닌텐도 월드 등 여러 구역이 있다.",
+    "value": null,
+    "urls": [
+     "https://www.usj.co.jp/web/ko/kr/"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "유니버설 시티역까지 소요 시간은 니시쿠조역에서 약 5분, 오사카(우메다)역에서 약 11분, 신오사카역에서 약 16분, 오사카 난바역에서 약 13분, 덴노지역에서 약 13분이다.",
+    "value": "니시쿠조 5분 / 오사카 11분 / 신오사카 16분 / 난바 13분 / 덴노지 13분",
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/access/train/index.html"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "유니버설 시티역까지 오사카공항(이타미)에서 약 35분, 간사이공항에서 약 65분이 걸린다.",
+    "value": "이타미 35분 / 간사이 65분",
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/access/train/index.html"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "자동차는 한신고속 완간선 홋코 JCT를 타고 유니버설 시티 출구로 나오면 바로이다.",
+    "value": null,
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/access/car/index.html"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "parking",
+    "text": "보통 자동차 주차장은 약 2,800대 수용이고 요금은 날짜에 따라 다르며 주차 요금 캘린더에서 확인한다. 주차장 안 프리퍼드 구획은 당일 요금에 1,000엔을 더하면 쓸 수 있다(선착순, 예약 불가).",
+    "value": "약 2,800대 / 프리퍼드 +1,000엔",
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/access/parking/index.html"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "parking",
+    "text": "대형차(차체 길이 5.6m 이상)는 6,000엔(약 80대)이고 4일 전까지 사전 예약이 필요하며, 51cc 이상 오토바이는 1,000엔(약 60대)이다.",
+    "value": "대형차 6,000엔 / 오토바이 1,000엔",
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/access/parking/index.html"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "parking",
+    "text": "주차장 이용 시간은 파크 개장 1시간 30분 전부터 폐장 2시간 후까지이며 숙박은 할 수 없다. 시간을 넘기면 추가 요금이 든다.",
+    "value": "개장 1.5시간 전 ~ 폐장 2시간 후",
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/access/parking/index.html"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "parking",
+    "text": "주변 도로에서의 주정차는 금지이며, 파크 주차장 안 송영 구획은 20분간 무료이다.",
+    "value": "20분 무료",
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/access/parking/index.html"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "hours",
+    "text": "영업 시간은 날짜에 따라 다르며 예고 없이 바뀔 수 있다. 공식 데이터상 2026년 10월 11일은 8:00 개장, 22:00 폐장이다.",
+    "value": "2026-10-11 8:00~22:00",
+    "urls": [
+     "https://mobile-service.usj.co.jp/api/venues/10251/Hours?endDate=2026-10-31",
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/park-guide/schedule/park-hour2/index.html"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "hours",
+    "text": "당일 파크 개장 시각보다 빨리 입장이 시작될 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/park-guide/schedule/park-hour2/index.html"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "fees",
+    "text": "입장권(스튜디오 패스)에는 파크 입장과 모든 어트랙션 이용이 포함되고, 입장만 가능한 티켓은 판매하지 않는다.",
+    "value": null,
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html",
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/tickets/index.html"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "fees",
+    "text": "입장권 가격은 입장일에 따라 달라진다. 만 4~11세는 어린이 요금, 만 12세 이상은 성인 요금이다(4월에 중학교 입학 예정자는 3월 31일까지 어린이, 4월 1일부터 성인).",
+    "value": "어린이 만4~11세 / 성인 만12세~",
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/tickets/index.html"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "reservation",
+    "text": "입장권은 구매 시 입장일을 지정해야 하며, 구매 후 입장일 변경 페이지에서 날짜를 바꿀 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/tickets/index.html"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "reservation",
+    "text": "어트랙션 무료 예약 시스템은 없고, 대기를 줄이는 유료 유니버설 익스프레스 패스를 판매한다.",
+    "value": null,
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "reservation",
+    "text": "슈퍼 닌텐도 월드는 당일 상황에 따라 '에어리어 입장 확약권' 또는 '입장 정리권/추첨권'이 필요하며, 확약권은 사전 구매, 정리권·추첨권은 당일 공식 앱에서 발권한다.",
+    "value": null,
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "payment",
+    "text": "파크 안에서는 VISA, Mastercard, JCB, AEON, AMEX, Diners Club, Discover, 일본 발행 기프트카드, iD·QUICPay·WAON·d払い·PayPay·메루페이·au PAY, 유니온페이와 Alipay+를 쓸 수 있다(일시불 한정). 왜건 판매와 주차장 등 일부는 제외된다.",
+    "value": null,
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "language",
+    "text": "공식 사이트에 한국어 페이지가 있고, 한국 판매 대리점 링크 페이지가 안내된다.",
+    "value": null,
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/tickets/index.html"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "language",
+    "text": "인포메이션 센터 전화(국외 +81-6-6465-4005, 국내 0570-20-0606)는 9:00~17:00(일본 시간)이며 오퍼레이터 언어는 영어만 지원된다.",
+    "value": "+81-6-6465-4005 / 9:00~17:00 / 영어만",
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/access/parking/index.html"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "caution",
+    "text": "연간 스튜디오 패스 외 입장권으로는 재입장이 불가하므로 주차장 이용자도 주의해야 한다.",
+    "value": null,
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "caution",
+    "text": "파크 안으로 도시락 등 음식물 반입은 삼가야 하며 물통은 가능하다. 장애인 보조견 외 반려동물 동반은 금지이고 롤러슈즈는 이용할 수 없다.",
+    "value": null,
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "caution",
+    "text": "전매 사이트 등에서 구입한 티켓은 QR 코드가 비활성화되어 파크에서 쓸 수 없다.",
+    "value": null,
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/tickets/index.html"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "tip",
+    "text": "휠체어는 정문 입장 후 오른쪽 대여 카운터에서 1대 500엔(비과세), 유모차는 1,100엔(세금 포함)에 빌릴 수 있고 예약은 불가하다. 유모차는 생후 1~48개월 대상이다.",
+    "value": "휠체어 500엔 / 유모차 1,100엔",
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html"
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "tip",
+    "text": "파크 밖 물품 보관함은 개장 1시간 전부터 폐장 시간까지 이용할 수 있다. 공식 앱으로 어트랙션 대기 시간을 확인할 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html",
+     "https://www.usj.co.jp/contentdata/usj/ko/kr/park-guide/schedule/park-hour2/index.html"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "fees",
+   "closed_days",
+   "duration",
+   "access",
+   "hours"
+  ]
+ }
+]

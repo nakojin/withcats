@@ -14648,6 +14648,553 @@
    "last_verified": null
   },
   {
+   "id": "jp-chiba-tokyo-disneyland",
+   "tier": "A",
+   "status": "verified",
+   "names": {
+    "ko": "도쿄 디즈니랜드",
+    "local": "東京ディズニーランド"
+   },
+   "admin_region": "지바현 우라야스시",
+   "city": null,
+   "address": "1-1 Maihama, Urayasu-shi, Chiba-ken",
+   "coord": null,
+   "summary": "도쿄 디즈니랜드는 도쿄 디즈니 리조트 안에 있는 테마파크로, 이름과 달리 도쿄가 아니라 지바현 우라야스시에 있다.",
+   "description": "도쿄 디즈니랜드는 도쿄 디즈니 리조트 안에 있는 테마파크로, 이름과 달리 도쿄가 아니라 지바현 우라야스시에 있다. 미국 밖에서 처음 문을 연 디즈니 테마파크이며, 월드 바자회를 비롯해 어드벤처랜드·웨스턴랜드·판타지랜드·투모로랜드 등 여러 테마 구역으로 이루어져 있다. 스페이스 마운틴, 캐리비안의 해적, 빅 썬더 마운틴, 해운티드 맨션 같은 어트랙션과 일본에서만 즐길 수 있는 어트랙션이 있다. 밤에는 일렉트릭 퍼레이드 드림라이츠가 연중 열린다. JR 게이요선 마이하마역에서 걸어서 몇 분이며, 도쿄역에서 JR로 마이하마역까지 20분 걸린다.",
+   "highlights": [
+    "미국 밖에서 처음 개장한 디즈니 테마파크",
+    "월드 바자회 등 여러 테마 구역과 일본 파크 한정 어트랙션",
+    "스페이스 마운틴·캐리비안의 해적·빅 썬더 마운틴·해운티드 맨션",
+    "야간 일렉트릭 퍼레이드 드림라이츠(연중 개최)",
+    "JR 마이하마역에서 도보 몇 분, 도쿄역에서 JR 20분"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "도쿄 디즈니랜드는 미국 밖에서 처음 문을 연 디즈니 테마파크이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.japan.travel/en/spot/1556/",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "도쿄 디즈니랜드에는 어드벤처랜드, 웨스턴랜드, 판타지랜드, 투모로랜드, 크리터 컨트리, 미키의 툰타운, 월드 바자회 등의 구역이 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.japan.travel/en/spot/1556/",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "스페이스 마운틴, 캐리비안의 해적, 빅 썬더 마운틴, 해운티드 맨션 같은 어트랙션이 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.japan.travel/en/spot/1556/",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "스타 투어스, 몬스터 주식회사 '라이드&고 시크!', 푸우의 허니 헌트 같은 어트랙션도 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.japan.travel/en/spot/1556/",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "도쿄 디즈니랜드·디즈니씨에는 일본 디즈니 파크에서만 즐길 수 있는 어트랙션과 체험이 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.japan.travel/en/spot/1556/",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "밤에는 '도쿄 디즈니랜드 일렉트릭 퍼레이드 드림라이츠'가 열리며, 퍼레이드는 연중 진행된다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.japan.travel/en/spot/1556/",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "월드 바자회는 도쿄 디즈니랜드에만 있는 완전히 독자적인 구역이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.japan.travel/en/spot/1556/",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
+   "guide": {
+    "location": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "도쿄 디즈니 리조트(도쿄 디즈니랜드·디즈니씨·이크스피아리 포함)의 주소는 1-1 Maihama, Urayasu-shi, Chiba-ken이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.japan.travel/en/spot/1556/",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "'도쿄' 디즈니 리조트라는 이름과 달리 파크는 도쿄만 건너편 지바현 우라야스시에 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.japan.travel/en/spot/1556/",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "도쿄 디즈니랜드, 디즈니씨, 이크스피아리는 JR 게이요선 마이하마역에서 걸어서 몇 분 거리이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.japan.travel/en/spot/1556/",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "도쿄역에서 JR로 마이하마역까지 20분, 파크 입구까지 버스로 35분 걸린다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "신주쿠역에서 JR로 마이하마역까지 40분, 파크 입구까지 버스로 50분 걸린다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "하네다공항에서 JR로 마이하마역까지 50분, 파크 입구까지 버스로 45분 걸린다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "나리타공항에서 JR로 마이하마역까지 1시간 20분, 파크 입구까지 버스로 1시간 걸린다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "도쿄역에서 파크까지 가는 직행 버스가 있고, 공항에서도 버스로 파크에 바로 갈 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.japan.travel/en/spot/1556/",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "공식 소요시간 안내를 찾지 못함."
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "운영 주체 공식 사이트(tokyodisneyresort.jp)가 수집 환경에서 응답하지 않아(연결 후 빈 응답/타임아웃, curl·WebFetch 모두 실패) 일별 운영시간을 확인하지 못함."
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "공식 사이트 접속 불가로 확인하지 못함."
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "공식 사이트 접속 불가. 입장권 요금·연령 구분·무료 대상 확인하지 못함(무료 여부도 불명)."
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "공식 사이트 접속 불가. 티켓 사전 구매·입장 예약 방식 확인하지 못함."
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "공식 사이트 접속 불가. 결제 수단 확인하지 못함."
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "공식 사이트 접속 불가. 한국어 안내·한국어 지원 확인하지 못함."
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "공식 사이트 접속 불가로 이용 규칙·혼잡 시기 안내 확인하지 못함."
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [
+    "Area count: JNTO says Tokyo Disneyland 'has seven areas', but GO TOKYO (updated 2024-06-06) says 'eight themed lands'. The operator site could not be reached, so the count stays unconfirmed.",
+    "GO TOKYO page (source for c4-c7) was last updated 2024-06-06, more than 12 months ago (stale_source).",
+    "JNTO spot page shows no update date.",
+    "Operator site tokyodisneyresort.jp (/kr/, /kr/ticket/, /en/) timed out with both curl and WebFetch. Two lookups were made per item, so hours, closed days, fees, reservation, payment, parking, language and caution remain unconfirmed."
+   ],
+   "last_verified": "2026-10-11"
+  },
+  {
+   "id": "jp-chiba-tokyo-disneysea",
+   "tier": "A",
+   "status": "verified",
+   "names": {
+    "ko": "도쿄 디즈니씨",
+    "local": "東京ディズニーシー"
+   },
+   "admin_region": "지바현 우라야스시",
+   "city": null,
+   "address": "1-1 Maihama, Urayasu-shi, Chiba-ken",
+   "coord": null,
+   "summary": "도쿄 디즈니씨는 도쿄 디즈니 리조트 안에 있으며, 바다의 신화와 전설을 테마로 한 유일한 디즈니 파크이다.",
+   "description": "도쿄 디즈니씨는 도쿄 디즈니 리조트 안에 있으며, 바다의 신화와 전설을 테마로 한 유일한 디즈니 파크이다. 2001년에 문을 열었고, 테마 랜드 대신 여러 테마 포트로 구성되어 있다. 일본 디즈니 파크에서만 만날 수 있는 어트랙션과 레스토랑, 쇼가 있고 경치가 좋은 어트랙션이 많다. JR 게이요선 마이하마역에서 걸어서 몇 분이며, 도쿄역에서 JR로 20분 걸린다.",
+   "highlights": [
+    "바다의 신화와 전설을 테마로 한 유일한 디즈니 파크",
+    "2001년 개장, 테마 랜드 대신 테마 포트로 구성",
+    "마이하마역에서 도보 몇 분, 도쿄역에서 JR 20분",
+    "레스토랑·쇼 등 즐길 거리"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "도쿄 디즈니씨는 바다의 신화와 전설을 테마로 한 유일한 디즈니 파크이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       },
+       {
+        "url": "https://www.japan.travel/en/spot/1556/",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "도쿄 디즈니씨는 2001년에 문을 열었다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.japan.travel/en/spot/1556/",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "도쿄 디즈니씨는 테마 랜드 대신 서로 다른 테마 포트로 이루어져 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.japan.travel/en/spot/1556/",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "도쿄 디즈니씨에는 일본에서만 만날 수 있는 어트랙션 외에 레스토랑, 쇼 등 엔터테인먼트가 있고, 어트랙션에서 풍경을 즐길 수 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.japan.travel/en/spot/1556/",
+        "type": "national_tourism",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
+   "guide": {
+    "location": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "도쿄 디즈니 리조트(도쿄 디즈니랜드·디즈니씨·이크스피아리 포함)의 주소는 1-1 Maihama, Urayasu-shi, Chiba-ken이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.japan.travel/en/spot/1556/",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "도쿄 디즈니랜드, 디즈니씨, 이크스피아리는 JR 게이요선 마이하마역에서 걸어서 몇 분 거리이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.japan.travel/en/spot/1556/",
+         "type": "national_tourism",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "도쿄역에서 JR로 마이하마역까지 20분, 파크 입구까지 버스로 35분 걸린다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "신주쿠역에서 JR로 마이하마역까지 40분, 파크 입구까지 버스로 50분 걸린다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "하네다공항에서 JR로 마이하마역까지 50분, 파크 입구까지 버스로 45분 걸린다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "나리타공항에서 JR로 마이하마역까지 1시간 20분, 파크 입구까지 버스로 1시간 걸린다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "공식 소요시간 안내를 찾지 못함."
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "운영 주체 공식 사이트(tokyodisneyresort.jp)가 수집 환경에서 응답하지 않아(curl·WebFetch 모두 실패) 일별 운영시간을 확인하지 못함."
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "공식 사이트 접속 불가로 확인하지 못함."
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "공식 사이트 접속 불가. 입장권 요금·연령 구분·무료 대상 확인하지 못함(무료 여부도 불명). 스탠바이 패스가 무료라는 것만 확인."
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "입장권 구매·예약 방식은 공식 사이트 접속 불가로 확인하지 못함. 판타지 스프링스 패스 정보만 확인."
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "공식 사이트 접속 불가. 결제 수단 확인하지 못함."
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "공식 사이트 접속 불가. 한국어 안내 확인하지 못함."
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "운영사 사이트(tokyodisneyresort.jp) 접속 불가로 이용 규칙 확인 못함. 판타지 스프링스 입장 규칙은 12개월 넘은 관광청 페이지에만 있어 검증에서 제외(병합 시 추가한 기록)"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [
+    "GO TOKYO (source for c3-c7, c11, c12) was last updated 2024-06-06, more than 12 months ago (stale_source). The Fantasy Springs entry rules must be re-checked on the operator site.",
+    "The 'eight themed ports' count appears only on the stale GO TOKYO page.",
+    "Operator site tokyodisneyresort.jp could not be reached (curl and WebFetch both timed out on /kr/, /kr/ticket/ and /en/). Hours, closed days, fees, payment, parking and language remain unconfirmed."
+   ],
+   "last_verified": "2026-10-11"
+  },
+  {
    "id": "jp-east-abashiri-prison",
    "tier": "C",
    "status": "draft",
@@ -20907,6 +21454,306 @@
    "last_verified": "2026-10-11"
   },
   {
+   "id": "jp-okinawa-kokusai-dori",
+   "tier": "A",
+   "status": "verified",
+   "names": {
+    "ko": "국제거리(나하)",
+    "local": "国際通り"
+   },
+   "admin_region": "오키나와현 나하시",
+   "city": null,
+   "address": "沖縄県那覇市 国際通り(県庁北口交差点 ~ 安里交差点 구간)",
+   "coord": null,
+   "summary": "국제거리는 나하 도심을 가로지르는 약 1.6km의 번화가로, 나하 공항에서 15분 거리라 오키나와 관광의 관문으로 불립니다.",
+   "description": "국제거리는 나하 도심을 가로지르는 약 1.6km의 번화가로, 나하 공항에서 15분 거리라 오키나와 관광의 관문으로 불립니다. 길을 따라 약 600개의 상점과 사업장이 이어져 백화점, 식당, 잡화점, 호텔, 기념품 가게를 한 번에 둘러볼 수 있습니다. 매주 일요일 12시부터 18시까지는 약 1,300m 구간이 보행자 우선 도로(트랜짓 마일)로 바뀌어 오픈 카페와 거리 공연이 열리며, 비가 오면 취소됩니다. 마키시의 나하시 관광안내소 코인로커(9:00~19:00)와 역 코인로커, 미에바시 우체국 ATM(7:00~23:00) 같은 편의시설도 가까이 있습니다. 1만 명 에이사 춤 퍼레이드도 이 거리에서 열리며, 2026년에는 10월 18일에 개최됩니다.",
+   "highlights": [
+    "매주 일요일 12:00~18:00 약 1,300m 구간 보행자 우선 도로(비 오면 취소)",
+    "나하 공항에서 15분, 길이 약 1.6km의 오키나와 관광 관문",
+    "약 600개 상점과 사업장이 모인 쇼핑·식사 거리",
+    "1만 명 에이사 춤 퍼레이드(2026년 10월 18일)",
+    "나하시 관광안내소·역 코인로커 이용 가능"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "국제거리에는 백화점, 식당, 서비스 업소, 잡화점, 호텔, 기념품 가게 등 약 600개의 상점과 사업장이 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://naha-kokusaidori.okinawa/en/",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "1만 명 에이사 춤 퍼레이드(一万人のエイサー踊り隊)는 국제거리에서 열리며, 2026년 제32회는 10월 18일(일) 14:00~21:00에 개최된다(2025년 제31회는 10월 19일 개최).",
+      "verdict": "outdated",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.naha-navi.or.jp/en/magazine/2016/03/11322/",
+        "type": "official",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "트랜짓 마일 구간은 현청 북쪽 출구 교차로와 사이온바시 교차로 사이 약 1,300m이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://naha-kokusaidori.okinawa/en/eventinfo/transitmall.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "트랜짓 마일 시간에는 오픈 카페, 거리 공연, 각종 이벤트, 국제거리 마르셰가 열린다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://naha-kokusaidori.okinawa/en/eventinfo/transitmall.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "마키시 3-2-10의 나하시 관광안내소에 코인로커가 있으며, 공식 사이트에 표기된 이용 시간은 9:00~19:00이다.",
+      "verdict": "corrected",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://naha-kokusaidori.okinawa/en/areainfo.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "코인로커는 마키시역과 현청앞역에서 6:00~23:00 이용할 수 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://naha-kokusaidori.okinawa/en/areainfo.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "미에바시 우체국에 ATM이 있으며 7:00~23:00 이용할 수 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://naha-kokusaidori.okinawa/en/areainfo.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "국제거리 상점가 진흥조합 연합회 문의 전화는 098-863-2755이며 평일 10:00~17:00에 받는다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://naha-kokusaidori.okinawa/en/",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
+   "guide": {
+    "location": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "국제거리는 나하시 현청 북쪽 입구(팔레트 구모지 교차로 직전)에서 아사토 교차로까지 이어지며 길이는 약 1.6km이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.naha-navi.or.jp/en/magazine/2016/03/11322/",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "국제거리는 나하 공항에서 15분 거리에 있으며 오키나와 관광의 관문으로 불린다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.naha-navi.or.jp/en/magazine/2016/03/11322/",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "일요일 보행자 구간은 현청 북쪽 입구에서 유이레일 마키시역까지로 안내되어, 마키시역이 국제거리 구간 안에 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.naha-navi.or.jp/en/magazine/2016/03/11322/",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "역에서 도보 시간은 공식 페이지에 명시되지 않음(마키시역·현청앞역 위치만 확인)."
+     ]
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "공식 페이지에 권장 소요시간 표기가 없음."
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "트랜짓 마일(보행자 우선 도로)은 매주 일요일 12:00~18:00에 열리며 비가 오면 취소된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://naha-kokusaidori.okinawa/en/eventinfo/transitmall.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "거리 자체의 상시 개방 시간은 공식 페이지에 없고 상점별로 다름(트랜짓 마일 시간만 확인). 2026-10-11 일요일 당일 개최 여부 공지는 확인하지 못함."
+     ]
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "거리 자체의 정기 휴무 표기 없음(상점별 상이)."
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "공식 페이지에 입장료 유무 명시가 없어 '무료'로 단정하지 않음."
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "거리 자체는 예약 안내 없음."
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "결제 수단은 상점별로 달라 공식 일괄 안내 없음."
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "국제거리 상점가 공식 사이트는 일본어, 영어, 한국어, 중국어 간체, 중국어 번체로 제공된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://naha-kokusaidori.okinawa/en/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "2026년 9월 6일과 9월 27일 트랜짓 마일은 중지 공지가 났으므로, 일요일에 가려면 공식 사이트의 당일 공지를 확인해야 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://naha-kokusaidori.okinawa/en/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "2026년 10월 10일(토)~12일(월)은 나하 오쓰나히키 마쓰리가 열린다고 공식 사이트에 공지되어 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://naha-kokusaidori.okinawa/en/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [
+    "naha-navi article (posted 2016-03-17, updated 2020-02-27) is a stale source. It gives the transit mile end point as 'Yui Rail Makishi Station' and calls the street 'pedestrian-only'. The official shopping-street page gives 'Saion Bridge intersection', about 1,300m, as a 'pedestrian priority' road.",
+    "naha-navi says 10,000 Eisa is held 'every year in August'. The official event site and notices say October (2025-10-19, 2026-10-18).",
+    "Collector-unconfirmed items (fees/hours/closed_days/payment/parking/station walk time/duration): the official pages do not cover them. There is no official statement that the street itself is free to enter."
+   ],
+   "last_verified": "2026-10-11"
+  },
+  {
    "id": "jp-osaka-dotonbori",
    "tier": "A",
    "status": "verified",
@@ -22759,6 +23606,746 @@
     "The public-transport page intro says Asakusa is 'about a 5-minute ride', but its route table says Asakusa to TOKYO SKYTREE Station is 'Approximately 3 minutes' (same official page).",
     "Hours calendar only covers dates through 2026-12-31 (2027-01-01 is blank). Hours need re-checking from January 2027.",
     "Unconfirmed after 2 lookups: 4F counter payment methods (payment.counter) and audio guide (language.audio_guide). Not found on the official FAQ, 4F floor page or admission page."
+   ],
+   "last_verified": "2026-10-11"
+  },
+  {
+   "id": "jp-tokyo-wb-studio-tour",
+   "tier": "A",
+   "status": "verified",
+   "names": {
+    "ko": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+    "local": "ワーナー ブラザース スタジオツアー東京 ‐ メイキング・オブ・ハリー・ポッター"
+   },
+   "admin_region": "도쿄도 네리마구",
+   "city": null,
+   "address": "1-1-7 Kasugacho, Nerima-ku, Tokyo 179-0074",
+   "coord": null,
+   "summary": "해리 포터 영화의 세트, 의상, 소품을 직접 걸어서 둘러보는 워크스루형 시설로, 놀이기구는 없다.",
+   "description": "해리 포터 영화의 세트, 의상, 소품을 직접 걸어서 둘러보는 워크스루형 시설로, 놀이기구는 없다. 대연회장, 9와 3/4 승강장, 금지된 숲, 마법부(도쿄 한정), 다이애건 앨리 세트가 있고 빗자루 체험 같은 인터랙티브 체험도 할 수 있다. 시간대를 지정한 사전 예약이 필요하며 소요시간은 3~4시간 정도를 권장한다. 도시마엔역에서 도보 2분이고, 세이부 이케부쿠로선으로 이케부쿠로에서 17분, 도에이 오에도선으로 신주쿠에서 20분이다. 사진 촬영은 대부분 가능하지만 프리쇼 시네마와 그린스크린 구역은 금지이며, 디지털 가이드에는 한국어가 있다(현재 판매 일시 중단).",
+   "highlights": [
+    "대연회장·9와 3/4 승강장·금지된 숲·마법부(도쿄 한정)·다이애건 앨리 세트",
+    "빗자루 체험 등 인터랙티브 체험, 놀이기구는 없음",
+    "도시마엔역 도보 2분",
+    "시간대 지정 사전 예약 필수, 권장 소요시간 3~4시간",
+    "디지털 가이드는 한국어 지원(현재 구매·이용 일시 중단)"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "놀이기구는 없으며, 관람객이 걸어서 영화 세트·의상·소품을 둘러보고 여러 인터랙티브 체험에 참여한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wbstudiotour.jp/en/faqs/facilities/",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "시설에는 대연회장, 9와 3/4 승강장, 금지된 숲, 마법부, 다이애건 앨리 세트가 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wbstudiotour.jp/en/inside-the-tour/",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "마법부 세트는 도쿄에서만 볼 수 있으며, 높이 3m가 넘는 벽난로에 들어가 연기·조명 효과 속에서 사진과 영상을 찍을 수 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wbstudiotour.jp/en/inside-the-tour/",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "빗자루를 타고 나는 체험 등 사진 촬영 포인트가 여러 곳 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wbstudiotour.jp/en/faqs/facilities/",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "투어 중간의 백롯 카페에서 논알코올 음료 버터비어를 마실 수 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wbstudiotour.jp/en/plan-your-visit/facilities/",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "시설 내 코인 로커(실내 S ¥300 / M ¥500 / L ¥700 / XL ¥1,000, 실외 S ¥300 / M ¥500 / L ¥700)와 무료 와이파이가 있고, 큰 캐리어는 실외 로커에 보관하길 권한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wbstudiotour.jp/en/plan-your-visit/facilities/",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       },
+       {
+        "url": "https://www.wbstudiotour.jp/en/faqs/facilities/",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
+   "guide": {
+    "location": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "시설 주소는 1-1-7 Kasugacho, Nerima-ku, Tokyo 179-0074이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/location/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "도시마엔역에서 도보 2분이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/location/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "세이부 이케부쿠로선(도시마선)으로 이케부쿠로역에서 도시마엔역까지 직통 17분이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/location/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "도에이 오에도선으로 신주쿠역에서 도시마엔역까지 직통 20분이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/location/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공항 리무진 버스의 하네다공항-히카리가오카/네리마 노선에 'WARNER BROS. STUDIO TOUR TOKYO' 정류장이 추가되어 시설 정문까지 바로 갈 수 있으며, 2026년 3월 1일부터 운행한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/location/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "혼잡을 피하려면 열차 이용을 권장한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/location/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "주차장은 투어 오픈 시간부터 이용할 수 있고, 스튜디오 투어 방문객 전용이며 인근 시설 방문용 주차는 불가하다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "2026년 12월 31일까지의 방문은 주차권을 투어 티켓 구매 시 함께 예약해야 하며 주차 공간이 한정되어 있다. 요금은 승용차·오토바이(스쿠터 제외) 1대 ¥2,000이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "2027년 1월 1일 이후 방문부터는 주차권 사전 구매가 없어지고 도착 시 현장에서 요금을 낸다. 승용차 ¥2,000, 오토바이는 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "주차는 유효한 스튜디오 투어 티켓 소지자만 가능하며, 전기차 충전은 불가하고 반려동물 동반 주차는 금지이다(인증된 보조견 제외).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "스쿠터는 자전거 주차 구역을 무료로 이용할 수 있고, 자전거 주차는 티켓을 제시해 직원 안내를 받아 이용한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "버스 주차 공간은 소수이며 사전 예약이 필요하고 요금은 5,000엔이다(방문자 서비스 팀에 문의).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "방문 소요시간은 3~4시간을 권장하며, 체류 시간 제한은 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/faqs/facilities/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "운영시간은 연중 달라지며 공식 운영 캘린더에서 날짜별로 확인해야 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/opening-times/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공식 캘린더 데이터상 2026-10-12~2027-03-31 중 'Off Peak 2' 일정인 날(예: 2026-10-14)은 스튜디오 오픈 08:30, 첫 투어 09:00, 마지막 투어 시작 15:00, 마감 19:00이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "'Super Peak 2' 일정인 날(예: 2026-10-17)은 오픈 08:30, 첫 투어 09:00, 마지막 투어 시작 17:00, 마감 21:00이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "'Peak' 일정인 날(예: 2026-12-24)은 오픈 08:30, 첫 투어 09:00, 마지막 투어 시작 16:00, 마감 20:00이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "'Off Peak' 일정인 날(2026-11-09, 11-10)은 오픈 08:30, 첫 투어 09:00, 마지막 투어 시작 13:30, 마감 17:30이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "이벤트 데이인 2027-01-01은 오픈 10:30, 첫 투어 11:00, 마지막 투어 시작 16:00, 마감 20:00이고, 2027-02-25는 오픈 10:30, 첫 투어 11:00, 마지막 투어 시작 15:00, 마감 19:00이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "마지막 투어 시작 시각 이후에 도착하면 투어 일부만 체험하거나 입장이 거부될 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/faqs/facilities/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "날짜별 운영시간은 운영 캘린더(JS 렌더링)가 쓰는 공개 엔드포인트 admin-ajax.php(action=get_events)로 읽음. 조회 범위는 2026-10-12~2027-03-31이며 2027-04-01 이후 데이터 없음. 평일/주말별 일정 유형 매핑은 확인하지 않음."
+     ]
+    },
+    "closed_days": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "공식 캘린더상 2026-10-12~2027-03-31 사이의 휴관일은 2026-11-11, 2026-11-12, 2027-01-12, 2027-01-13, 2027-02-24이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "티켓은 2027년 3월 31일까지 판매 중이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/opening-times/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "정기 휴관 요일 안내는 없고 날짜별 휴관일만 캘린더에 표시됨."
+     ]
+    },
+    "fees": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "연령 구분은 성인 18세 이상, 주니어 12~17세, 어린이 4~11세이며 0~3세 유아는 입장료가 없다(보호자는 유효한 티켓이 필요).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/ticket-terms/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "네리마구 주민 티켓(13:00 이후 투어)은 성인 ¥5,000, 주니어 ¥4,150, 어린이 ¥3,000이며 유효한 신분증이 필요하다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/ticket-information/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "20명 이상 단체 티켓은 성인 ¥6,000, 주니어 ¥5,000, 어린이 ¥3,600이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/ticket-information/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "디지털 가이드(일·영·중(간체/번체)·한국어) 추가 옵션은 1대 ¥1,480이며 표시 가격은 세금 포함이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/ticket-information/price/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "장애가 있는 방문객 1명당 유효 티켓을 구매하면 무료 동반자 티켓이 1장 제공된다(4세 미만은 이미 무료여서 추가 불가).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/help-centre/accessibility/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "예약 날짜·시간을 변경할 때마다 ¥1,500의 수수료가 부과되며, 티켓은 환불·양도가 불가하다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/ticket-information/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "일반(스탠더드) 티켓 가격이 공식 페이지끼리 다름: 가격표 https://www.wbstudiotour.jp/en/ticket-information/price/ 는 성인 ¥6,300~¥7,300, 주니어 ¥5,200~¥6,000, 어린이 ¥3,800~¥4,400; 티켓 안내 https://www.wbstudiotour.jp/en/ticket-information/ 는 성인 ¥6,600~, 주니어 ¥5,500~, 어린이 ¥4,000~. 날짜별 변동가라 일반 티켓 가격은 claim에서 제외."
+     ]
+    },
+    "reservation": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "방문 전에 입장 날짜와 시간대를 지정한 사전 예약이 필요하며, 공식 웹사이트나 현장 매표소에서 구매할 수 있으나 현장은 매진될 수 있어 사전 예약을 권장한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/ticket-terms/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        },
+        {
+         "url": "https://www.wbstudiotour.jp/en/faqs/tickets/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "지정 입장 시간 1시간 전부터 로비에 들어갈 수 있고(당일 첫 시간대는 30분 전), 지정 시간으로부터 30분 이내에 입장해야 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/ticket-terms/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "입장 시 e-티켓의 바코드와 예약 번호를 제시하며, 결제에 쓴 카드나 신분증 확인을 요청받을 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/ticket-terms/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "세븐일레븐 멀티복사기 또는 7ticket 사이트(일본어만)에서도 티켓을 구매할 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/faqs/tickets/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "공식 웹사이트 티켓 결제는 Amex, Mastercard, Visa, JCB, 유니온페이, Discover, Diners, Apple Pay, Google Pay를 받으며, 현금은 현장 매표소에서만 가능하다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/faqs/tickets/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "티켓 결제에 교통 IC카드와 iD·QUICPay 같은 비접촉 결제는 받지 않는다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/faqs/tickets/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "시설 내 숍(스튜디오 숍·레일웨이 숍)은 현금, 신용·체크카드(VISA, MasterCard, American Express, JCB, Diners, UnionPay), Apple Pay, 바코드 결제(PayPay, Alipay, WeChat Pay)를 받고 교통 IC카드·iD·QUICPay는 받지 않는다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/faqs/facilities/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "시설 내 ATM, 택배 서비스, 면세 서비스는 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/faqs/facilities/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "실내 로커는 현금과 IC카드·전자머니·QR·카드를 받고 실외 로커는 100엔 동전만 받는다고 시설 페이지에 있으나 claim으로 분리하지 않음."
+     ]
+    },
+    "language": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "디지털 가이드는 일본어 해설이며 영어·한국어·중국어 간체·번체도 제공된다(영상·제작 비하인드 콘텐츠).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/help-centre/accessibility/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "2026년 9월 29일 시설 일부 화재의 영향으로 디지털 가이드의 구매·이용이 별도 공지 시까지 일시 중단되었으며, 투어는 평소처럼 운영한다(2026-09-30 공지).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "한국어 공식 사이트(/ko/faq/ 응답은 확인) 외에 현장 한국어 직원·표지판 안내는 영어 공식 페이지에서 찾지 못함. 디지털 가이드 한국어는 현재 판매 중단."
+     ]
+    },
+    "caution": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "사진·영상 촬영은 프리쇼 시네마와 그린스크린 구역 등 제한 구역을 제외하고 가능하며, 플래시·삼각대·교환렌즈 등 전문 장비와 드론은 사용할 수 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/ticket-terms/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "입장 시 소지품 검사가 있고 촬영은 그 구역 이후에만 가능하며, 큰 짐이나 여러 개의 짐은 가져오지 말라고 안내한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "반려동물은 인증된 보조견(안내견·보조견·청도견)을 제외하고 입장할 수 없고, 흡연, 지정된 구역 밖에서의 음식물 섭취, 롤러스케이트·스케이트보드·자전거·킥보드 이용, 드론 사용이 금지된다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/ticket-terms/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "일부 구역에서 갑작스러운 큰 소리와 스트로브 조명이 사용되므로 고혈압·심장 질환 등이 있으면 직원에게 문의하고 해당 구역을 피할 것을 권한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/ticket-terms/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "4~11세 어린이와 0~3세 유아는 성인 동반이 필요하고, 12~17세 주니어는 성인 없이 방문할 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/ticket-terms/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "나이트 버스는 정비 작업으로 현재 관람할 수 없고 11월 초 재전시 예정이다(2026-09-10 공지).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "휠체어(수동·전동)는 입장 가능하나 전동 스쿠터·이동 차량은 불가하고, 무료 수동 휠체어와 유모차를 안내 데스크에서 빌릴 수 있다(수량 한정). 왜건형 유모차는 불가하다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wbstudiotour.jp/en/plan-your-visit/help-centre/accessibility/",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [
+    "Standard ticket prices disagree between official pages. The Price List page (/ticket-information/price/) shows adult ¥6,300~¥7,300, junior ¥5,200~¥6,000, child ¥3,800~¥4,400. The Tickets page (adult ¥6,600~, junior ¥5,500~, child ¥4,000~) and the pricing notice (news_20251120: from 2026-07-01, ¥6,600~¥7,300 / ¥5,500~¥6,000 / ¥4,000~¥4,400) agree with each other. The Price List page appears not updated for the July 2026 price change. Package and Afternoon Tea prices differ the same way.",
+    "The Afternoon Tea and Evening High Tea packages are on sale only for visits up to 2026-11-10 and 2026-11-08.",
+    "Language: the official site offers only Japanese and English (/ko/ returns 404). Korean exists only in the Digital Guide, which is currently suspended."
    ],
    "last_verified": "2026-10-11"
   },

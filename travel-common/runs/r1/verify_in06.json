@@ -1,0 +1,679 @@
+[
+ {
+  "key": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name_ko": "경주 대릉원·동궁과 월지",
+  "name_local": "경주 대릉원·동궁과 월지",
+  "admin_region": "경상북도 경주시",
+  "address": "대릉원: 경상북도 경주시 황남동 31-1 / 동궁과 월지: 경상북도 경주시 원화로 102 (인왕동)",
+  "description": "대릉원은 경주 시내 노동동·황남동 일대에 모여 있는 신라 시대 고분군으로, 2011년 여러 고분군을 합쳐 사적으로 다시 지정되었다. 정문 기준 09:00~22:00(입장 마감 21:30)에 열고 연중무휴이며 대릉원 입장은 무료이고 천마총만 별도 요금(성인 3,000원)이 든다. 동궁과 월지는 신라 왕궁의 별궁 터로, 현재 건물 3채와 연못이 복원되어 있고 조명이 켜진 야경으로 유명하다. 이곳도 09:00~22:00(입장 마감 21:30) 연중무휴이며 성인 3,000원이다. 야경 시간대에는 마감 직전에 도착하면 입장이 어려울 수 있다.",
+  "highlights": [
+   "대릉원 입장 무료, 내부 관람이 가능한 천마총만 유료(성인 3,000원)",
+   "봉황대는 높이 22m, 지름 82m로 황남대총 다음 규모의 무덤",
+   "정문 09:00~22:00(입장 마감 21:30), 후문·천마총은 09:00~21:30, 연중무휴",
+   "동궁과 월지는 복원된 건물 3채와 조명 반사가 어우러진 경주 대표 야경 명소",
+   "동궁과 월지 주차료 무료, 관람 요금은 성인 3,000원·청소년/군인 2,000원·어린이 1,000원"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "대릉원 일원의 주소는 경상북도 경주시 황남동 31-1이다.",
+    "value": "경상북도 경주시 황남동 31-1",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6da54421-9ab9-4853-80d6-1eadbf0ad73b"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "한국관광공사 자료상 대릉원 일원의 좌표는 위도 35.8382, 경도 129.2128이다(지도 대조 필요).",
+    "value": "35.8382,129.2128",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6da54421-9ab9-4853-80d6-1eadbf0ad73b"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "location",
+    "text": "경주시 문화관광 사이트는 경주 대릉원 일원을 사적으로 소개하며 소재지를 경북 경주시 노동동 261 등, 면적 602,314㎡로 적는다.",
+    "value": "602314",
+    "urls": [
+     "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4786&code_uid=1049&area_uid=185&cmd=2&pageNo=1"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "description",
+    "text": "대릉원 일원은 노동리·노서리·황남리·황오리·인왕리 고분군으로 나뉘어 있던 것을 2011년 7월 28일 국가유산청이 하나로 통합해 다시 지정한 신라 시대 고분군이다.",
+    "value": "2011-07-28",
+    "urls": [
+     "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4786&code_uid=1049&area_uid=185&cmd=2&pageNo=1"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "highlight",
+    "text": "노동동 고분군의 봉황대는 높이 22m, 지름 82m로 황남대총 다음으로 규모가 큰 돌무지덧널무덤이다.",
+    "value": "22m/82m",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6da54421-9ab9-4853-80d6-1eadbf0ad73b"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "hours",
+    "text": "대릉원은 정문이 09:00~22:00(입장 마감 21:30), 후문과 천마총은 09:00~21:30이다.",
+    "value": "정문 09:00-22:00 (입장마감 21:30); 후문·천마총 09:00-21:30",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6da54421-9ab9-4853-80d6-1eadbf0ad73b"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "closed_days",
+    "text": "대릉원은 연중무휴로 안내된다.",
+    "value": "연중무휴",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6da54421-9ab9-4853-80d6-1eadbf0ad73b"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "fees",
+    "text": "대릉원 입장은 무료이고, 내부를 볼 수 있는 천마총만 별도 요금을 받는다.",
+    "value": "대릉원 무료",
+    "urls": [
+     "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "fees",
+    "text": "천마총 개인 요금은 어른(만 19~64세) 3,000원, 청소년·군인(만 13~18세) 2,000원, 어린이(만 7~12세) 1,000원이다.",
+    "value": "3000/2000/1000",
+    "urls": [
+     "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "fees",
+    "text": "천마총 단체(30인 이상) 요금은 어른 2,400원, 청소년·군인 1,600원, 어린이 800원이다.",
+    "value": "2400/1600/800",
+    "urls": [
+     "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "fees",
+    "text": "천마총·동궁과 월지 등 9개소는 경주시민, 만 6세 이하·만 65세 이상, 장애인등록증 소지자, 국가유공자 본인·배우자·유족, 기초생활수급자가 무료이다.",
+    "value": null,
+    "urls": [
+     "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "fees",
+    "text": "천마총·동궁과 월지 등에서는 국세청 세금포인트 모바일 쿠폰(1포인트 차감)으로 1,000원 정액 할인을 받을 수 있다.",
+    "value": "1000",
+    "urls": [
+     "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "parking",
+    "text": "대릉원에는 주차가 가능하다.",
+    "value": "가능",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6da54421-9ab9-4853-80d6-1eadbf0ad73b"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "parking",
+    "text": "경주시 요금표의 천마총 행 주차료는 소형 2,000원, 대형 4,000원이며, 2시간 초과 후 1시간마다 50%가 추가되고 경차·친환경차는 50% 할인된다.",
+    "value": "소형 2000 / 대형 4000",
+    "urls": [
+     "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "access",
+    "text": "경주시 요금표는 첨성대 행에 '대릉원주차장이용'이라고 적어, 첨성대 방문 시에도 대릉원 주차장을 쓰도록 안내한다.",
+    "value": null,
+    "urls": [
+     "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "tip",
+    "text": "대릉원·천마총 문의 전화는 054-750-8652이다.",
+    "value": "054-750-8652",
+    "urls": [
+     "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "caution",
+    "text": "한국관광공사 무장애 정보상 대릉원은 주출입구에 단차가 있고 장애인 화장실·장애인 전용 주차구역·휠체어 대여가 없다고 표시된다.",
+    "value": null,
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6da54421-9ab9-4853-80d6-1eadbf0ad73b"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "location",
+    "text": "동궁과 월지의 주소는 경상북도 경주시 원화로 102(인왕동)이다.",
+    "value": "경상북도 경주시 원화로 102 (인왕동)",
+    "urls": [
+     "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "description",
+    "text": "동궁과 월지는 신라 왕궁의 별궁 터로, 왕자가 거처하던 동궁이며 나라의 경사나 귀한 손님을 맞을 때 연회를 베풀던 곳이다.",
+    "value": null,
+    "urls": [
+     "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "description",
+    "text": "예전 이름 안압지는 2011년 '경주 동궁과 월지'로 바뀌었고, 1980년 복원 이후 동궁 27동 중 현재 3채만 복원되어 있다.",
+    "value": "2011",
+    "urls": [
+     "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "highlight",
+    "text": "복원된 건물을 비추는 조명과 월지에 비친 모습이 경주의 대표 야경 명소로 꼽힌다.",
+    "value": null,
+    "urls": [
+     "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "hours",
+    "text": "동궁과 월지는 09:00~22:00에 운영하고 입장 마감은 21:30이다.",
+    "value": "09:00-22:00 (입장마감 21:30)",
+    "urls": [
+     "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "closed_days",
+    "text": "동궁과 월지는 연중무휴이다.",
+    "value": "연중무휴",
+    "urls": [
+     "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "fees",
+    "text": "동궁과 월지 개인 요금은 어른 3,000원, 청소년·군인 2,000원, 어린이 1,000원이고 단체는 2,400원/1,600원/800원이다.",
+    "value": "3000/2000/1000 (단체 2400/1600/800)",
+    "urls": [
+     "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "parking",
+    "text": "경주시 요금표에서 동궁과 월지의 주차료는 '무료'로 표시된다.",
+    "value": "무료",
+    "urls": [
+     "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "parking",
+    "text": "한국관광공사 무장애 정보상 동궁과 월지에는 입구 맞은편 가장 가까운 곳에 장애인 주차장 7면이 있다.",
+    "value": "7면",
+    "urls": [
+     "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "language",
+    "text": "동궁과 월지는 음성안내 QR코드로 음성안내 앱을 제공한다(언어 종류는 페이지에 없음).",
+    "value": null,
+    "urls": [
+     "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "caution",
+    "text": "야경을 보러 오는 관광객이 많아 입장 마감 시간에 임박해 도착하면 입장이 어려울 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "caution",
+    "text": "동궁과 월지 관람로는 대부분 흙길이고 외부 탐방로는 기울거나 경사진 곳이 있어 휠체어 접근이 어렵지만, 주출입구와 전각 주변은 평탄해 큰 어려움이 없다.",
+    "value": null,
+    "urls": [
+     "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "tip",
+    "text": "동궁과 월지는 관리사무소에서 휠체어 3대를 빌릴 수 있고 장애인 보조견 동반이 가능하다.",
+    "value": "3대",
+    "urls": [
+     "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "tip",
+    "text": "동궁과 월지 문의 전화는 054-750-8655이다.",
+    "value": "054-750-8655",
+    "urls": [
+     "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "access",
+   "duration",
+   "reservation",
+   "payment",
+   "language",
+   "location",
+   "hours.conflict"
+  ]
+ },
+ {
+  "key": "kr-gyeongbuk-andong-hahoe-village",
+  "name_ko": "안동 하회마을",
+  "name_local": "안동 하회마을",
+  "admin_region": "경상북도 안동시 풍천면",
+  "address": "경상북도 안동시 풍천면 전서로 186-8",
+  "description": "안동 하회마을은 풍산 류씨가 대대로 살아온 집성촌으로, 낙동강이 마을을 S자로 감싸 돌아 하회(河回)라는 이름이 붙었다. 2010년 7월 경주 양동마을과 함께 유네스코 세계문화유산에 등재되었다. 안동시 안내로 성인 개인 입장료는 5,000원이며 전체 관람에는 약 1시간~1시간 30분이 걸린다. 연중무휴이고 시간은 하절기 09:00~18:00, 동절기 09:00~17:00로 안내되나 안동시 사이트의 표기는 달라 방문 전 확인이 필요하다. 주차와 셔틀버스는 무료로 안내되고, 하회별신굿탈놀이 상설공연과 전통혼례 등 체험이 마련되어 있다.",
+  "highlights": [
+   "낙동강이 S자로 감싸는 지형에서 이름이 유래한 풍산 류씨 집성촌",
+   "2010년 7월 31일 경주 양동마을과 함께 유네스코 세계문화유산 등재",
+   "성인 5,000원, 청소년·군인 2,500원, 어린이 1,500원, 6세 이하·65세 이상 무료",
+   "하회별신굿탈놀이 상설공연과 전통혼례체험·가훈쓰기 등 체험",
+   "연중무휴, 주차·셔틀버스 무료, 전체 관람 약 1시간~1시간 30분"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "하회마을 주소는 경상북도 안동시 풍천면 전서로 186-8이다(한국관광공사 기준).",
+    "value": "경상북도 안동시 풍천면 전서로 186-8",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "하회마을 관리사무소의 주소는 안동시 풍천면 하회리 전서로 186-10이다.",
+    "value": "안동시 풍천면 하회리 전서로 186-10",
+    "urls": [
+     "http://www.hahoe.or.kr/coding/sub5/sub3.asp"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "location",
+    "text": "한국관광공사 자료의 하회마을 좌표는 위도 36.5506, 경도 128.5283이다(지도 대조 필요).",
+    "value": "36.55061,128.52829",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "description",
+    "text": "하회마을은 풍산 류씨가 대대로 살아온 전형적인 집성촌이며, 겸암 류운룡과 서애 류성룡이 태어난 곳이다.",
+    "value": null,
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "description",
+    "text": "하회(河回)라는 지명은 낙동강이 동쪽으로 흐르다 S자를 이루며 마을을 감싸 도는 데서 유래했다.",
+    "value": null,
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "highlight",
+    "text": "2010년 7월 31일 안동 하회마을과 경주 양동마을이 '한국의 역사마을'로 유네스코 세계문화유산에 등재되었다.",
+    "value": "2010-07-31",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "highlight",
+    "text": "마을에서는 하회별신굿탈놀이를 상설공연으로 진행하고, 부용대 앞 물길에서는 나룻배를 이용할 수 있다.",
+    "value": null,
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "tip",
+    "text": "체험 프로그램으로 전통혼례체험, 세시풍속, 서원소확행, 가훈쓰기 체험 등이 안내된다.",
+    "value": null,
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "hours",
+    "text": "한국관광공사 기준 하절기(4~9월)는 09:00~18:00(입장 마감 17:30), 동절기(10~3월)는 09:00~17:00(입장 마감 16:30)이다.",
+    "value": "하절기 09:00-18:00 (입장마감 17:30); 동절기 09:00-17:00 (입장마감 16:30)",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "hours",
+    "text": "안동시 관광 사이트의 관람시간표는 하회마을을 (4~9월) 09:00~17:30, (10~3월) 09:00~16:30으로 적는다.",
+    "value": "4-9월 09:00-17:30; 10-3월 09:00-16:30",
+    "urls": [
+     "https://www.tourandong.com/public/sub5/sub2_2.cshtml"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "closed_days",
+    "text": "하회마을은 연중무휴이다.",
+    "value": "연중무휴",
+    "urls": [
+     "https://www.tourandong.com/public/sub5/sub2_2.cshtml",
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "duration",
+    "text": "안동시 관람시간표의 하회마을 전체 관람 소요시간은 약 1시간~1시간 30분이다.",
+    "value": "60-90분",
+    "urls": [
+     "https://www.tourandong.com/public/sub5/sub2_2.cshtml"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "fees",
+    "text": "하회마을 입장료는 성인 개인 5,000원, 청소년·군인 개인 2,500원, 어린이 개인 1,500원이다.",
+    "value": "5000/2500/1500",
+    "urls": [
+     "https://www.tourandong.com/public/sub5/sub2.cshtml"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "fees",
+    "text": "하회마을 단체(30인 이상) 요금은 성인 4,000원, 청소년·군인 2,000원, 어린이 1,200원이다.",
+    "value": "4000/2000/1200",
+    "urls": [
+     "https://www.tourandong.com/public/sub5/sub2.cshtml"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "fees",
+    "text": "안동시민 요금은 성인 1,000원, 청소년·군인 500원, 어린이 400원(개인 기준)이다.",
+    "value": "1000/500/400",
+    "urls": [
+     "https://www.tourandong.com/public/sub5/sub2.cshtml"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "fees",
+    "text": "무료 입장 대상은 6세 이하, 65세 이상, 장애인, 국가유공자, 공무상 답사이다. 연령 기준은 어린이 7~12세, 청소년 13~18세, 군인 하사 이하, 성인 19~64세이다.",
+    "value": null,
+    "urls": [
+     "https://www.tourandong.com/public/sub5/sub2.cshtml"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "parking",
+    "text": "안동시 요금 안내는 하회마을 주차료와 셔틀버스를 모두 무료로 적는다.",
+    "value": "무료",
+    "urls": [
+     "https://www.tourandong.com/public/sub5/sub2.cshtml"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "parking",
+    "text": "한국관광공사 정보에도 주차 가능, 요금 무료로 표시된다.",
+    "value": "가능/무료",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "access",
+    "text": "승용차는 중앙고속도로 서안동IC에서 하회마을·봉정사 방면으로 나간다.",
+    "value": "서안동IC",
+    "urls": [
+     "http://www.hahoe.or.kr/coding/sub5/sub2.asp"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "access",
+    "text": "하회마을 사이트의 시내버스 안내(2022년 3월 21일 기준)는 210번 버스로 안동에서 하회까지 약 50분, 현금 1,500원이다. 시간표는 갱신 여부를 확인해야 한다.",
+    "value": "210번, 약 50분, 현금 1,500원 (2022.03.21 기준)",
+    "urls": [
+     "http://www.hahoe.or.kr/coding/sub5/sub3.asp"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "reservation",
+    "text": "문화관광해설사 예약은 안동축제관광조직위원회 온라인 예약을 통한다. 매표소는 054-840-3801, 관광안내소·해설·통역 안내는 054-840-3803이다.",
+    "value": "054-840-3801 / 054-840-3803",
+    "urls": [
+     "http://www.hahoe.or.kr/coding/sub5/sub3.asp"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "language",
+    "text": "하회마을 관광안내소에서 문화관광 해설과 통역 안내를 제공한다(어느 언어인지는 페이지에 없음).",
+    "value": null,
+    "urls": [
+     "http://www.hahoe.or.kr/coding/sub5/sub3.asp"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "tip",
+    "text": "종합안내소 전화는 054-840-3795, 관리사무소 전화는 054-854-3669이다.",
+    "value": "054-840-3795 / 054-854-3669",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+     "http://www.hahoe.or.kr/coding/sub5/sub3.asp"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "hours.conflict",
+   "payment",
+   "language",
+   "caution",
+   "reservation",
+   "hours.performance",
+   "access.shuttle"
+  ]
+ },
+ {
+  "key": "kr-gyeongbuk-pohang-homigot",
+  "name_ko": "포항 호미곶",
+  "name_local": "포항 호미곶",
+  "admin_region": "경상북도 포항시 남구 호미곶면",
+  "address": "경상북도 포항시 남구 호미곶면 해맞이로150번길 20 (호미곶 해맞이광장)",
+  "description": "호미곶은 한반도 지형을 호랑이에 빗댈 때 꼬리에 해당하는 최동단 지역으로, 포항시는 이곳을 한반도에서 가장 먼저 해가 뜨는 곳으로 소개한다. 해맞이광장에는 바다와 육지에 각각 오른손과 왼손 모양으로 서서 화합과 상생을 뜻하는 청동 조형물 상생의 손, 영원의 불씨함, 연오랑세오녀상, 햇빛채화기, 성화대가 있다. 한국관광공사 정보로 광장은 상시 개방되고 연중무휴이며 주차가 가능하다. 광장 진입로 유채꽃단지는 매년 4~5월경 꽃이 만개하고, 주변에는 1908년 건립된 호미곶등대와 등대박물관이 있다.",
+  "highlights": [
+   "상생의 손: 바다의 오른손과 육지의 왼손이 마주한 화합·상생의 청동 조형물",
+   "한반도 최동단, 가장 먼저 해가 뜨는 곳으로 소개되는 해맞이 명소",
+   "영원의 불씨함, 연오랑세오녀상, 햇빛채화기, 성화대 등 기념 조형물",
+   "광장 진입로 유채꽃단지는 매년 4~5월경 만개",
+   "1908년 건립된 국내 최대 규모 호미곶등대와 국내 유일 등대박물관이 인접"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "호미곶 해맞이광장의 주소는 경상북도 포항시 남구 호미곶면 해맞이로150번길 20이며 관리기관은 관광진흥과(호미곶광장관리)이다.",
+    "value": "경상북도 포항시 남구 호미곶면 해맞이로150번길 20",
+    "urls": [
+     "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "한국관광공사는 호미곶 해맞이광장 주소를 경북 포항시 남구 호미곶면 대보리로 표기한다.",
+    "value": "경북 포항시 남구 호미곶면 대보리",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "호미곶은 한반도 최동단에 있어 지형상 호랑이 꼬리에 해당하며, 한국천문연구원 자료 기준으로 한반도에서 가장 먼저 해가 뜨는 곳이라고 포항시가 소개한다.",
+    "value": null,
+    "urls": [
+     "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "highlight",
+    "text": "상생의 손은 바다에 오른손, 육지에 왼손 모양으로 세워진 대형 청동 조형물로 화합과 상생을 뜻한다.",
+    "value": null,
+    "urls": [
+     "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191",
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "highlight",
+    "text": "광장에는 영원의 불씨함, 연오랑세오녀상, 일기와 무관하게 채화할 수 있는 햇빛 채화기, 성화대 등 기념 조형물이 있다.",
+    "value": null,
+    "urls": [
+     "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "highlight",
+    "text": "광장 진입로의 유채꽃단지는 매년 4~5월경 유채꽃이 만개한다.",
+    "value": "4-5월",
+    "urls": [
+     "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "highlight",
+    "text": "주변에는 1908년 건립된 국내 최대 규모의 호미곶등대, 국내 유일의 등대박물관, 이육사 청포도 시비, 대보 해수탕이 있다.",
+    "value": "1908",
+    "urls": [
+     "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "description",
+    "text": "새천년 국가행사로 1999년 12월 31일~2000년 1월 1일 한민족 해맞이 축전이 열렸고, 이후 해마다 한민족 해맞이 축전이 열린다고 안내된다.",
+    "value": null,
+    "urls": [
+     "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "hours",
+    "text": "호미곶 해맞이광장은 이용시간이 '상시 개방'으로 안내된다.",
+    "value": "상시 개방",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "closed_days",
+    "text": "호미곶 해맞이광장은 연중무휴이다.",
+    "value": "연중무휴",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "parking",
+    "text": "호미곶 해맞이광장에는 주차가 가능하다(요금은 해당 페이지에 없음).",
+    "value": "가능",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "tip",
+    "text": "문의는 호미곶 해맞이광장 관리사무소 054-270-5806, 054-270-5855로 한다.",
+    "value": "054-270-5806 / 054-270-5855",
+    "urls": [
+     "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "fees",
+   "parking.fee",
+   "access",
+   "duration",
+   "reservation",
+   "payment",
+   "language",
+   "caution",
+   "location.coord"
+  ]
+ }
+]

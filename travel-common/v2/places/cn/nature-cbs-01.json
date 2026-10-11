@@ -2,7 +2,7 @@
  "id": "nature-cbs-01",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "백두산 중국 측 북경구",
   "local": "长白山北景区"
@@ -10,7 +10,7 @@
  "admin_region": "지린성",
  "former_region": null,
  "city": "장백산 보호개발구 츠베이·이도백하 거점",
- "address": null,
+ "address": "吉林省长白山保护开发区池北区",
  "coord": {
   "lat": 42.181078,
   "lng": 128.171039,
@@ -21,93 +21,620 @@
   "osm": "node/8828812769"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "백두산 북파(창바이산 북경구)는 이도백하 진을 거쳐 산에 들어가는 코스로, 천지, 폭포, 온천군, 소천지, 뤼위안탄, 지하삼림 등이 있다고 관리위원회가 안내했다(2024년 10월). 입장권은 당일 1회만 유효하고 북·서·남 경구를 각각 따로 예약해 사야 하며, 예약·요금 규정은 '长白山' 공식 미니프로그램과 현장 공고를 기준으로 한다(2026년 9월 안내). 2026년 국경절 연휴에는 시간대별 예약과 사전 점검을 거쳐 츠베이구 교통집산센터 A관에서 안면 인식으로 검표한 뒤 경구 버스로 이동했다.",
+ "description": "백두산 북파(창바이산 북경구)는 이도백하 진을 거쳐 산에 들어가는 코스로, 천지, 폭포, 온천군, 소천지, 뤼위안탄, 지하삼림 등이 있다고 관리위원회가 안내했다(2024년 10월). 입장권은 당일 1회만 유효하고 북·서·남 경구를 각각 따로 예약해 사야 하며, 예약·요금 규정은 '长白山' 공식 미니프로그램과 현장 공고를 기준으로 한다(2026년 9월 안내). 2026년 국경절 연휴에는 시간대별 예약과 사전 점검을 거쳐 츠베이구 교통집산센터 A관에서 안면 인식으로 검표한 뒤 경구 버스로 이동했다. 2026년 10월 1일부터 북파 스마트 주차빌딩(552면)이 운영되고, 츠베이구 시내버스 1·3호선(요금 2위안)이 교통집산센터까지 다닌다.",
+ "highlights": [
+  "북경구 볼거리는 천지, 폭포, 온천군, 소천지, 뤼위안탄, 지하삼림(2024년 10월 안내)",
+  "입장권은 당일 1회 유효, 북·서·남 경구 별도 예약",
+  "2026년 국경절 연휴에는 시간대별 예약·안면 인식 검표 후 경구 버스 탑승",
+  "2026년 10월 1일 북파 스마트 주차빌딩(552면) 운영 개시",
+  "츠베이구 시내버스 1·3호선으로 교통집산센터 이동 가능"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c1",
+    "r1-b22-c2"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "북경구 매표소·산문의 도로명 주소는 공식 페이지에 없음. address 필드는 관리위원회 소재 행정구역 표기이며 좌표 대조 미실시",
+     "detail": "location",
+     "run": "r1-b22"
+    }
+   ]
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c11",
+    "r1-b22-c12",
+    "r1-b22-c13",
+    "r1-b22-c14",
+    "r1-b22-c16",
+    "r1-b22-c17"
+   ],
+   "gap": null
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "관리위원회 공식 페이지에서 소요시간 안내를 찾지 못함"
    }
   },
   "hours": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "2026년 현재 일일 개방·검표 시간대는 공식 페이지에서 확인하지 못함. 관리위원회 2024-10 답변은 '매일 오전 8시'로 안내하나 12개월 이상 지난 자료(stale_source). 검표 시간대 수치는 언론 보도에만 있어 제외"
    }
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "정기 휴무일 안내를 공식 페이지에서 찾지 못함. 기상에 따른 임시 폐쇄만 확인"
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c6",
+    "r1-b22-c7"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "현행 요금표(입장권·환경버스·천지 주봉 차량)가 공식 사이트에 없음. 관리위원회 2021-08 게시글에는 입장권 105元, 환경버스 85元, 주봉 차량 80元이 있으나 stale_source이므로 제외. 무료·할인 대상도 현행 공식 근거 없음",
+     "detail": "fees",
+     "run": "r1-b22"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c8",
+    "r1-b22-c10"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "외국인(여권) 예약 방법, 실명제 세부 규정, 예약 오픈 시점은 공식 페이지에서 확인하지 못함. 안면 인식 검표 사실만 확인",
+     "detail": "reservation",
+     "run": "r1-b22"
+    }
+   ]
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "외국 카드·현금 사용 가능 여부 공식 안내 없음. 오프라인 매표 여부도 확인 불가"
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내·오디오가이드 공식 정보 없음"
    }
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c15"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b22-c1",
+   "field": "location",
+   "text": "관리 기관인 창바이산 보호개발구 관리위원회의 주소가 지린성 창바이산 보호개발구 츠베이구로 표기되어 있다.",
+   "original_text": null,
+   "value": "吉林省长白山保护开发区池北区",
+   "verdict": "verified",
+   "verify_note": "The footer of the 2026-10-09 page gives the management committee's address as 吉林省长白山保护开发区池北区. This is the committee's address, not the scenic area's.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/mtcbs/202610/t20261009_272015.html",
+     "type": "government",
+     "page_updated": "2026-10-09",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c2",
+   "field": "location",
+   "text": "북경구는 이도백하(二道白河) 진을 거쳐 산에 들어간다고 관리위원회 페이지에 적혀 있다(2021년 게시글).",
+   "original_text": null,
+   "value": "stale_source",
+   "verdict": "verified",
+   "verify_note": "2021-08-16 post (source: 悠游吉林, reposted on the committee site): '北景区从二道白河小镇进山'. Stale source, but it is a geographic fact.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html",
+     "type": "government",
+     "page_updated": "2021-08-16",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c3",
+   "field": "description",
+   "text": "북경구에는 천지, 폭포, 온천군, 소천지, 뤼위안탄(绿渊潭), 지하삼림(谷底森林)이 있다고 관리위원회가 답변했다(2024년 10월).",
+   "original_text": null,
+   "value": "stale_source",
+   "verdict": "verified",
+   "verify_note": "Reply dated 2024-10-17 lists 天池、瀑布、温泉群、小天池、绿渊潭、谷底森林. Stale, but it is a geographic/attraction fact.",
+   "sources": [
+    {
+     "url": "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html",
+     "type": "government",
+     "page_updated": "2024-10-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c4",
+   "field": "hours",
+   "text": "북·서 경구는 연중 개방된다고 관리위원회가 답변했다(2024년 10월 게시, 계절별 시간표는 아님).",
+   "original_text": null,
+   "value": "stale_source",
+   "verdict": "unverifiable",
+   "verify_note": "The 2024-10-17 reply does say '北、西景区全年开放'. This is an operating rule over 12 months old and no current official page confirms it, including the 2026-09-17 reply and the 2026-10 news.",
+   "sources": [
+    {
+     "url": "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html",
+     "type": "government",
+     "page_updated": "2024-10-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c5",
+   "field": "caution",
+   "text": "천지 구간은 날씨와 도로 상황을 보고 개방 여부를 정한다(2024년 10월 답변).",
+   "original_text": null,
+   "value": "stale_source",
+   "verdict": "unverifiable",
+   "verify_note": "The 2024-10-16 reply says 天池景点视天气、道路情况判定是否开放 and also gives a daily 8:00 opening. This is an operating rule over 12 months old and no current page confirms it.",
+   "sources": [
+    {
+     "url": "http://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241016_265033.html",
+     "type": "government",
+     "page_updated": "2024-10-16",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c6",
+   "field": "fees",
+   "text": "현행 입장권은 당일 1회만 유효하며, 북·서·남 경구는 각각 따로 예약·구매해야 한다.",
+   "original_text": null,
+   "value": "당일 당회 유효; 북·서·남 별도",
+   "verdict": "verified",
+   "verify_note": "Reply dated 2026-09-17: 现行门票为当日当次有效，北、西、南坡需分别预约购票.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html",
+     "type": "government",
+     "page_updated": "2026-09-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c7",
+   "field": "fees",
+   "text": "북·서 경구 5일 유효 연계 입장권 정책은 2023년 7월 1일 폐지되었다.",
+   "original_text": null,
+   "value": "2023-07-01 폐지",
+   "verdict": "verified",
+   "verify_note": "Reply dated 2026-09-17: the 5-day 一票游五天 policy for the north and west areas was abolished on 2023-07-01.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html",
+     "type": "government",
+     "page_updated": "2026-09-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c8",
+   "field": "reservation",
+   "text": "예약·요금 규정은 ‘长白山’ 공식 미니프로그램과 경구 현장 공고를 기준으로 하라고 안내한다(2026-09-17 관리위원회 답변).",
+   "original_text": "예약·요금 규정은 공식 소정청(‘长白山’ 미니프로그램)과 현장 공고를 기준으로 하라고 안내한다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "Content matches. The claim's term '소정청' is wrong; the page means the official mini-program (小程序).",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html",
+     "type": "government",
+     "page_updated": "2026-09-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c9",
+   "field": "tip",
+   "text": "경구 공식 서비스 핫라인은 400-000-6789이며 운영 시간은 7:50-19:00이다.",
+   "original_text": null,
+   "value": "400-000-6789 (7:50-19:00)",
+   "verdict": "verified",
+   "verify_note": "400-000-6789 (7:50—19:00), 2026-09-17 reply.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html",
+     "type": "government",
+     "page_updated": "2026-09-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c10",
+   "field": "reservation",
+   "text": "2026년 10월 국경절 연휴에 북경구는 시간대별 예약과 시차 입장을 핵심으로 운영했다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Post dated 2026-10-08: 分时预约、错峰入园为核心. Applies to the 2026 National Day holiday only.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/zbsly/lydt/202610/t20261008_272004.html",
+     "type": "government",
+     "page_updated": "2026-10-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c11",
+   "field": "access",
+   "text": "츠베이구 교통집산센터에서 사전 점검 통로를 거친 뒤 A관 검표구에서 안면 인식으로 확인하고, 경구 버스로 핵심 관람 구역에 간다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "2026-10-08: 预检通道 → A馆检票口 刷脸 → 景区大巴. The same page says the 北景区游客中心 also requires time-slot pre-check.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/zbsly/lydt/202610/t20261008_272004.html",
+     "type": "government",
+     "page_updated": "2026-10-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c12",
+   "field": "access",
+   "text": "교통집산센터 B관에는 대기 구역이 있고 매표 상담·식당·화장실이 갖춰져 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "2026-10-08: B馆等候专区 has 票务咨询、餐饮、卫生间.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/zbsly/lydt/202610/t20261008_272004.html",
+     "type": "government",
+     "page_updated": "2026-10-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c13",
+   "field": "parking",
+   "text": "2026년 10월 1일 북파 스마트 주차빌딩이 개장했고 주차면은 552개(SUV 전용 336개)다.",
+   "original_text": null,
+   "value": "552면",
+   "verdict": "verified",
+   "verify_note": "2026-10-09: opened 10月1日, 552 spaces, 336 of them SUV.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/mtcbs/202610/t20261009_272015.html",
+     "type": "government",
+     "page_updated": "2026-10-09",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c14",
+   "field": "parking",
+   "text": "주차빌딩은 온라인 예약 입출고와 실시간 빈자리 확인 기능을 갖췄고, 차량 인출은 평균 약 80초 걸린다.",
+   "original_text": null,
+   "value": "약 80초",
+   "verdict": "verified",
+   "verify_note": "线上预约存取, real-time free-space monitoring, average retrieval time about 80 seconds.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/mtcbs/202610/t20261009_272015.html",
+     "type": "government",
+     "page_updated": "2026-10-09",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c15",
+   "field": "caution",
+   "text": "국경절 연휴(2026) 기간 주차빌딩이 거의 만차였고 성수기 자가용 이용 시 주차가 빠듯하다고 설명한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Holiday daily average was 516 cars against 552 spaces (基本达到满负荷). The page also mentions 旺季自驾车流集中、停车资源紧缺.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/mtcbs/202610/t20261009_272015.html",
+     "type": "government",
+     "page_updated": "2026-10-09",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c16",
+   "field": "access",
+   "text": "츠베이구 시내버스 1호선은 창바이산 기차역에서 츠베이구 교통집산센터까지 가며 첫차 7:00, 막차 18:20, 요금 2위안이다.",
+   "original_text": null,
+   "value": "첫차 7:00 / 막차 18:20 / 2元",
+   "verdict": "verified",
+   "verify_note": "Post dated 2026-07-28: Line 1 runs 长白山高铁站 to 池北区交通集散中心, first bus 7:00, last 18:20, fare 2元. WebFetch/curl first returned 503; it opened on retry.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/zbsly/lyfw/jt/202607/t20260728_271246.html",
+     "type": "government",
+     "page_updated": "2026-07-28",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c17",
+   "field": "access",
+   "text": "시내버스 3호선도 창바이산 역에서 츠베이구 교통집산센터까지 운행하며 첫차 7:00, 막차 18:20, 요금 2위안이다.",
+   "original_text": null,
+   "value": "첫차 7:00 / 막차 18:20 / 2元",
+   "verdict": "verified",
+   "verify_note": "Line 3 runs 长白山站 to 集散中心, 7:00/18:20, fare 2元.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/zbsly/lyfw/jt/202607/t20260728_271246.html",
+     "type": "government",
+     "page_updated": "2026-07-28",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c18",
+   "field": "tip",
+   "text": "시내버스 노선·정류장은 비상 상황이나 날씨로 바뀔 수 있고 문의 전화는 0433-5675666이다.",
+   "original_text": null,
+   "value": "0433-5675666",
+   "verdict": "verified",
+   "verify_note": "Routes and stops change for emergencies or weather; phone 0433-5675666.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/zbsly/lyfw/jt/202607/t20260728_271246.html",
+     "type": "government",
+     "page_updated": "2026-07-28",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c19",
+   "field": "description",
+   "text": "창바이산 천지는 세계에서 해발고도가 가장 높은 화구호(火山口湖)이며, 북경구에서는 천지를 내려다보는(부감) 시점이지만 앞 봉우리에 가려 보이는 각도가 비교적 좁다고 소개된다(2021년 게시글).",
+   "original_text": "창바이산 천지는 세계에서 가장 높은 곳에 있는 화산 호수이며 북경구에서는 천지를 내려다보는 시점이다(2021년 게시글).",
+   "value": "stale_source",
+   "verdict": "corrected",
+   "verify_note": "The page says 火山口湖 (crater lake), not just a volcanic lake. It also says the north view is 俯视 and 角度相对较小.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html",
+     "type": "government",
+     "page_updated": "2021-08-16",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c20",
+   "field": "highlight",
+   "text": "북경구 볼거리는 천지, 폭포, 온천군, 소천지, 뤼위안탄, 지하삼림이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Same source as c3 (2024-10-17). The text should give the date.",
+   "sources": [
+    {
+     "url": "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html",
+     "type": "government",
+     "page_updated": "2024-10-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c21",
+   "field": "highlight",
+   "text": "입장권은 당일 1회 유효하고 북·서·남 경구는 각각 예약한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Same source as c6 (2026-09-17).",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html",
+     "type": "government",
+     "page_updated": "2026-09-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-s1",
+   "field": "tip",
+   "text": "북파 스마트 주차빌딩에는 외투 대여 등 편의 서비스와 문창 전시·카페 공간이 함께 운영된다(2026-10-09 게시).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/mtcbs/202610/t20261009_272015.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-s2",
+   "field": "reservation",
+   "text": "2026년 국경절 연휴에는 북경구 유객중심으로 가는 방문객도 시간대별 사전 점검 입장 규정을 따랐다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/zbsly/lydt/202610/t20261008_272004.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-s3",
+   "field": "tip",
+   "text": "인터넷에 도는 ‘5일 유효 북·서 연계권’ 정보는 2023년 7월 1일 폐지된 옛 정책이라고 관리위원회가 밝혔다(2026-09-17).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b22",
+   "text": "fees, hours: no current official page gives entrance fees or opening hours. The 2021-08-16 post lists 门票105元, 环保车85元, 主峰车80元, which is stale and not suggested. The 2024-10-16 reply gives a daily 8:00 opening, also stale. I found nothing current in 2 lookups (旅游服务 and 旅游动态 indexes). Fees and hours stay unconfirmed."
+  },
+  {
+   "run": "r1-b22",
+   "text": "Stale sources: 2021-08-16 (c2, c19), 2024-10-16 (c5), 2024-10-17 (c3, c4, c20)."
+  },
+  {
+   "run": "r1-b22",
+   "text": "c1 location is the management committee's address (池北区), not a scenic-area gate address."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -212,6 +739,47 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b22",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 21,
+    "verdicts": {
+     "verified": 17,
+     "corrected": 2,
+     "outdated": 0,
+     "unverifiable": 2,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "주차 요금과 개장 시간은 공식 페이지에서 확인하지 못함",
+   "run": "r1-b22"
+  },
+  {
+   "topic": "official_unreachable",
+   "note": "mp.weixin.qq.com 공식 계정 글(북·서·남 경구 안내)은 환경 이상 인증 요구로 열리지 않음(official_unreachable). 전용 매표 사이트·앱은 찾지 못함",
+   "run": "r1-b22"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "천지는 날씨와 도로 상황에 따라 열리지 않을 수 있으므로 출발 전 공식 안내를 확인해야 한다 (c5 is unverifiable: 2024 source, no current confirmation)",
+   "성수기에는 시간대별 예약과 사전 점검을 거쳐 ... (the sources cover only the 2026 National Day holiday; 성수기 is a generalisation, so restate it as the 2026년 국경절 연휴 rule)",
+   "시간대별 예약 후 사전 점검과 안면 인식 검표를 거쳐 경구 버스 탑승 (only the 2026 National Day holiday is confirmed; state the period)"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b22"
  }
 }

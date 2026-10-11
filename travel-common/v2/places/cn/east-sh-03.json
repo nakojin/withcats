@@ -2,7 +2,7 @@
  "id": "east-sh-03",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "난징둥루 보행거리",
   "local": "南京路步行街"
@@ -10,96 +10,488 @@
  "admin_region": "상하이시",
  "former_region": null,
  "city": "상하이",
- "address": null,
+ "address": "上海市黄浦区南京东路299号",
  "coord": null,
  "coord_note": "좌표 검증 대기 (geocode confidence: low)",
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "난징루 보행거리는 상하이 황푸구에서 서쪽 시짱중루부터 동쪽 와이탄 쪽 중산둥이루까지 이어지는 1,033m 길이의 상업 거리입니다.",
+ "description": "난징루 보행거리는 상하이 황푸구에서 서쪽 시짱중루부터 동쪽 와이탄 쪽 중산둥이루까지 이어지는 1,033m 길이의 상업 거리입니다. 1999년 9월 20일 완공되었고 도로 폭은 18~28m입니다. 현대식 건물과 유럽풍 옛 건물이 함께 서 있어 세로형 간판과 네온 불빛이 특히 밤에 눈길을 끕니다. 거리는 0시부터 24시까지 열려 있고 쇼핑몰은 보통 10:00~22:00에 영업합니다. 지하철 2·10호선 난징둥루역이 가깝습니다. 2023년 11월 공지 기준으로 거리의 신세계청은 외국 카드 POS 단말기 업그레이드를 마쳤습니다. 무허가 노점과 스케이트보드·롤러스케이트 이용은 금지됩니다.",
+ "highlights": [
+  "서쪽 시짱중루에서 동쪽 와이탄 쪽 중산둥이루까지 1,033m 구간",
+  "지하철 2·10호선 난징둥루역 인근",
+  "거리는 0:00~24:00 개방, 쇼핑몰은 10:00~22:00",
+  "현대식 건물과 유럽풍 옛 건물이 섞인 풍경, 밤의 세로 간판과 네온"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b23-c1",
+    "r1-b23-c2",
+    "r1-b23-c3",
+    "r1-b23-c10"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b23-c6"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "official_unreachable",
+     "note": "역에서 거리까지 도보 시간은 공식 출처에 없다. 황푸구 정부 사이트(shhuangpu.gov.cn) 등은 이 환경에서 내용을 읽지 못했다(official_unreachable).",
+     "detail": "access",
+     "run": "r1-b23"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 출처에 권장 소요시간이 없다."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b23-c7",
+    "r1-b23-c8"
+   ],
+   "gap": null
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지는 개방 시간만 적고 휴무일은 적지 않았다."
    }
   },
   "fees": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 요금 항목이 없어 무료라고 명시된 근거를 찾지 못했다."
    }
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 출처에 예약·실명/여권 등록 관련 안내가 없다(개방형 거리라 해당 안내 자체가 없음)."
    }
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b23-c14"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "거리 전체 단위의 현금·카드·모바일 결제 가능 여부 공식 안내는 없고, 신세계청 외국 카드 POS 업그레이드 공지(2023-11, 12개월 이상 경과 stale_source)만 확인됨.",
+     "detail": "payment",
+     "run": "r1-b23"
+    }
+   ]
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내·오디오가이드에 대한 공식 정보를 찾지 못했다."
    }
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b23-c11",
+    "r1-b23-c12",
+    "r1-b23-c13"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b23-c1",
+   "field": "location",
+   "text": "난징루 보행거리의 주소는 상하이시 황푸구 난징둥루 299호이다.",
+   "original_text": null,
+   "value": "上海市黄浦区南京东路299号",
+   "verdict": "verified",
+   "verify_note": "meet-in-shanghai CN: 地址 上海市黄浦区南京东路299号南京路步行街. https timed out/reset; opened via http://",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+     "type": "government",
+     "page_updated": "2025-04-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c2",
+   "field": "location",
+   "text": "보행거리는 서쪽 시짱중루에서 동쪽 중산둥이루(와이탄)까지 이어진다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "西起西藏中路，东至中山东一路外滩",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+     "type": "government",
+     "page_updated": "2025-04-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c3",
+   "field": "location",
+   "text": "보행거리의 전체 길이는 1,033m이다.",
+   "original_text": null,
+   "value": "1033 m",
+   "verdict": "verified",
+   "verify_note": "全长1033米",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+     "type": "government",
+     "page_updated": "2025-04-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c4",
+   "field": "description",
+   "text": "도로 폭은 18~28m이다.",
+   "original_text": null,
+   "value": "18-28 m",
+   "verdict": "verified",
+   "verify_note": "路幅宽18—28米",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+     "type": "government",
+     "page_updated": "2025-04-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c5",
+   "field": "description",
+   "text": "보행거리는 1999년 9월 20일에 완공되었다.",
+   "original_text": null,
+   "value": "1999-09-20",
+   "verdict": "verified",
+   "verify_note": "建成于1999年9月20日",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+     "type": "government",
+     "page_updated": "2025-04-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c6",
+   "field": "access",
+   "text": "가장 가까운 지하철역은 2·10호선 난징둥루역이다.",
+   "original_text": null,
+   "value": "Line 2/10 Nanjing East Road",
+   "verdict": "verified",
+   "verify_note": "轨道交通2/10号线 南京东路站",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+     "type": "government",
+     "page_updated": "2025-04-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c7",
+   "field": "hours",
+   "text": "거리는 0:00~24:00 개방된다고 안내되어 있다.",
+   "original_text": null,
+   "value": "00:00-24:00",
+   "verdict": "verified",
+   "verify_note": "开放时间 0:00-24:00",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+     "type": "government",
+     "page_updated": "2025-04-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c8",
+   "field": "hours",
+   "text": "거리 내 쇼핑몰 영업시간은 10:00~22:00이다.",
+   "original_text": null,
+   "value": "10:00-22:00",
+   "verdict": "verified",
+   "verify_note": "商场营业时间：10:00-22:00",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+     "type": "government",
+     "page_updated": "2025-04-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c9",
+   "field": "description",
+   "text": "현대식 건물과 유럽풍 옛 건물이 함께 서 있고, 세로 간판과 네온 불빛이 밤에 특히 눈에 띈다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "现代建筑夹杂着欧式老楼，竖挂的店铺灯箱…夜幕之下霓虹灯光闪烁",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+     "type": "government",
+     "page_updated": "2025-04-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c10",
+   "field": "location",
+   "text": "관리 규정상 '보행거리'는 동쪽 중산둥이루, 서쪽 시짱중루 사이 난징둥루 구간과 양쪽 건물까지 포함한 구역이며, 더 넓은 '보행가구'는 동쪽 중산둥이루, 서쪽 황허루, 남쪽 주장루 등으로 둘러싸인 구역이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "沪府令61号 第二条; in force since 2022-05-01",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw12344/20220127/4d4d52f387ea43909221b0f7c82dbfe9.html",
+     "type": "government",
+     "page_updated": "2022-01-27",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c11",
+   "field": "caution",
+   "text": "보행가구 구역에서는 무허가로 노점을 열어 물건을 파는 행위가 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "第二十三条（一）擅自设摊经营，兜售物品",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw12344/20220127/4d4d52f387ea43909221b0f7c82dbfe9.html",
+     "type": "government",
+     "page_updated": "2022-01-27",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c12",
+   "field": "caution",
+   "text": "보행가구 구역의 도로에서 스케이트보드나 롤러스케이트 같은 활주 기구를 쓰는 것이 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "第二十三条（四）",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw12344/20220127/4d4d52f387ea43909221b0f7c82dbfe9.html",
+     "type": "government",
+     "page_updated": "2022-01-27",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c13",
+   "field": "caution",
+   "text": "보행가구 구역에서는 큰 소리로 방송하는 확성기 광고와 영업용 전단 배포도 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "第二十三条（二）（三）",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw12344/20220127/4d4d52f387ea43909221b0f7c82dbfe9.html",
+     "type": "government",
+     "page_updated": "2022-01-27",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c14",
+   "field": "payment",
+   "text": "난징루 보행거리의 신세계청(新世界城)에 있는 외국 카드 POS 단말기가 모두 업그레이드를 마쳤다고 2023년에 공지되었다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Article dated 2023-11-04 (source 乐游上海): 南京路步行街新世界城所有外卡POS机均已完成升级. Stale (>12 months), and it covers only New World City, not the whole street",
+   "sources": [
+    {
+     "url": "https://whlyj.sh.gov.cn/wlyw/20231106/781e20eb51f64849ad604cee30f89a70.html",
+     "type": "government",
+     "page_updated": "2023-11-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c15",
+   "field": "payment",
+   "text": "상하이시는 결제 체계를 '큰 금액은 카드, 작은 금액은 QR, 현금은 최후 보루'로 둔다는 방침을 밝혔다(시 전체 정책).",
+   "original_text": null,
+   "value": null,
+   "verdict": "unverifiable",
+   "verify_note": "시 전체 정책 구호라 여행자용 사실로 공개하지 않음(검증자 권고, 병합 시 처리). 원 노트: 大额刷卡、小额扫码、现金兜底 is on the page, but it is a city-wide policy slogan and not useful to a traveller; recommend not publishing it",
+   "sources": [
+    {
+     "url": "https://whlyj.sh.gov.cn/wlyw/20231106/781e20eb51f64849ad604cee30f89a70.html",
+     "type": "government",
+     "page_updated": "2023-11-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-s1",
+   "field": "tip",
+   "text": "거리에서 옛 노면전차를 축소한 듯한 관광 열차 '당당처(铛铛车)'를 탈 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-s2",
+   "field": "description",
+   "text": "보행거리의 총 부지 면적은 약 3만㎡이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-s3",
+   "field": "payment",
+   "text": "외국인 방문객은 알리페이나 위챗에 본인 명의 Visa·Mastercard·JCB 등 해외 카드를 연결해 모바일 결제를 할 수 있다(2023-11 상하이시 문화관광국 기사).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://whlyj.sh.gov.cn/wlyw/20231106/781e20eb51f64849ad604cee30f89a70.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b23",
+   "text": "whlyj.sh.gov.cn payment article is dated 2023-11-04 (URL says 20231106), more than 12 months old: stale_source for c14 and c15"
+  },
+  {
+   "run": "r1-b23",
+   "text": "meet-in-shanghai page shows header date 2025-04-17 (no explicit update date), possibly older than 12 months; no newer official page found to confirm hours"
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -177,6 +569,41 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b23",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 15,
+    "verdicts": {
+     "verified": 14,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 1,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "공식 출처에서 보행거리 주변 주차 정보를 찾지 못했다.",
+   "run": "r1-b23"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "신세계청 등 이 거리 상가에서는 외국 카드 POS 단말기 업그레이드가 완료된 것으로 공식 발표되었습니다. (source names only 新世界城, not other shops on the street, and the text omits the 2023-11 date of a stale source)",
+   "신세계청의 외국 카드 POS 단말기 업그레이드 완료(2023년 공지): backed by c14, but a stale (2023-11) administrative notice of little use as a highlight"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b23"
  }
 }

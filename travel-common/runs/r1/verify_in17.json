@@ -1,0 +1,905 @@
+[
+ {
+  "key": "new:jp-tokyo-shibuya-scramble",
+  "name_ko": "시부야 스크램블 교차로",
+  "name_local": "渋谷スクランブル交差点",
+  "admin_region": "도쿄도 시부야구",
+  "address": "東京都渋谷区道玄坂下（渋谷駅前）",
+  "description": "시부야 스크램블 교차로는 도쿄를 대표하는 랜드마크로, 여러 방향에서 한꺼번에 사람들이 건너는 모습으로 유명합니다. 시부야역 하치코 출구 바로 앞에 있어 JR, 긴자선, 게이오 이노카시라선, 도큐 도요코선 등으로 쉽게 닿을 수 있고, 관람은 무료입니다. 도쿄 관광 공식 사이트는 한 번에 1,000명 이상이 건넌다고 소개하며, 일본정부관광국은 가장 붐빌 때 2분마다 1,000~2,500명이 건넌다고 안내합니다. 교차로를 내려다보려면 QFRONT 빌딩의 스타벅스가 추천되고, 역 안 JR선과 게이오 이노카시라선 개찰구 사이는 사람이 덜 몰리는 전망 지점입니다. 건너편 센터가이에는 상점과 식당이 모여 있습니다. 시부야역 주변 지정 구역에서는 18시부터 다음 날 5시까지 길거리 음주가 금지되니 주의하세요.",
+  "highlights": [
+   "시부야역 하치코 출구 바로 앞, 이용 무료",
+   "한 번에 1,000명 이상이 건너는 다방향 횡단",
+   "QFRONT 빌딩 스타벅스에서 내려다보는 전망",
+   "역 안 JR선과 게이오 이노카시라선 개찰구 사이의 덜 붐비는 전망 지점",
+   "건너편 센터가이에서 쇼핑·식사 연계",
+   "18시~다음 날 5시 역 주변 지정 구역 길거리 음주 금지"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "도쿄 관광 공식 사이트는 이 교차로의 소재지를 도쿄도 시부야구 도겐자카시타(道玄坂下) 시부야 크로싱으로 표기한다.",
+    "value": "Dogenzakashita, Shibuya Crossing, Shibuya City, Tokyo",
+    "urls": [
+     "https://www.gotokyo.org/en/spot/78/"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "일본정부관광국은 교차로가 시부야역 하치코 출구 바로 앞에 있다고 안내한다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/2177/"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "JR선, 지하철 긴자선, 게이오 이노카시라선, 도큐 도요코선이 시부야역에 정차하는 노선으로 안내된다.",
+    "value": [
+     "JR",
+     "Ginza",
+     "Keio Inokashira",
+     "Tokyu Toyoko"
+    ],
+    "urls": [
+     "https://www.gotokyo.org/en/spot/78/"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "JR 야마노테선으로 시부야역에서 내리면 되고, JR 사이쿄선·쇼난신주쿠라인, 도큐 덴엔토시선, 도쿄메트로 한조몬선·후쿠토신선도 시부야역에 선다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/2177/"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "fees",
+    "text": "도쿄 관광 공식 사이트가 이 명소에 '무료(Free)' 키워드를 붙여 두었으며, 교차로 관람에 요금이 들지 않는다.",
+    "value": "무료",
+    "urls": [
+     "https://www.gotokyo.org/en/spot/78/"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "description",
+    "text": "도쿄 관광 공식 사이트는 이 교차로를 한 번에 1,000명 이상이 건너는 다방향 교차로이자 도쿄의 상징적 랜드마크로 소개한다.",
+    "value": null,
+    "urls": [
+     "https://www.gotokyo.org/en/spot/78/"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "description",
+    "text": "일본정부관광국은 가장 붐빌 때 2분마다 약 1,000~2,500명이 이 교차로를 건넌다고 추정한다.",
+    "value": "1,000~2,500명/2분",
+    "urls": [
+     "https://www.japan.travel/en/spot/2177/"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "description",
+    "text": "교차로 건너편의 센터가이에는 수백 개의 상점·바·식당이 있다.",
+    "value": null,
+    "urls": [
+     "https://www.gotokyo.org/en/spot/78/"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "tip",
+    "text": "교차로 바로 위층의 스타벅스(QFRONT 빌딩)에서 인파를 내려다보며 사진을 찍을 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/2177/",
+     "https://www.gotokyo.org/en/spot/78/"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "tip",
+    "text": "역 안에서 JR선과 게이오 이노카시라선 입구 사이는 상대적으로 사람이 덜 몰리는 조망 지점이다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/2177/"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "caution",
+    "text": "시부야구는 2024년 10월 1일부터 18시~다음 날 5시 사이 길·공원 등 공공장소의 음주를 연중 금지하며, 금지 구역도 넓혔다.",
+    "value": "18:00~05:00, 연중",
+    "urls": [
+     "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "caution",
+    "text": "구는 길거리 음주 금지 안내문을 한국어 PDF로도 제공한다.",
+    "value": null,
+    "urls": [
+     "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "language",
+    "text": "도쿄 관광 공식 사이트는 이 명소 안내를 한국어 사이트로도 제공한다.",
+    "value": null,
+    "urls": [
+     "https://www.gotokyo.org/kr/spot/78/"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "address",
+   "hours",
+   "closed_days",
+   "duration",
+   "parking",
+   "reservation",
+   "payment",
+   "caution.halloween",
+   "caution.alcohol_area",
+   "stale_source"
+  ]
+ },
+ {
+  "key": "new:jp-tokyo-skytree",
+  "name_ko": "도쿄 스카이트리",
+  "name_local": "東京スカイツリー",
+  "admin_region": "도쿄도 스미다구",
+  "address": "〒131-0045 東京都墨田区押上1丁目1-2",
+  "description": "도쿄 스카이트리는 도쿄도 스미다구 오시아게에 있는 높이 634m의 전파탑으로, 340·345·350층의 덴보 데크와 445·450층의 덴보 회랑에서 도쿄 전경을 볼 수 있습니다. 340층에는 유리 바닥이 있고, 맑은 날에는 후지산도 보입니다. 입장권은 날짜와 시간대를 지정하는 방식이라 온라인이나 세븐일레븐 멀티복사기로 미리 사면 현장 매표 줄을 피할 수 있습니다. 소요시간은 덴보 데크만 약 1시간, 회랑까지 보면 약 1~1.5시간입니다. 영업시간은 날짜별로 다르며 9시 또는 10시에 열어 22시(일부 날은 22시 30분)에 닫고, 최종 입장은 폐장 1시간 전입니다. 도부 스카이트리라인 도쿄 스카이트리역과 한조몬선 오시아게역에서 바로 닿습니다.",
+  "highlights": [
+   "높이 634m 타워, 덴보 데크(350m)와 덴보 회랑(450m)에서 즐기는 전망",
+   "340층 유리 바닥은 덴보 데크 입장료만으로 체험",
+   "맑은 날 후지산 조망, 공기가 맑은 11~2월이 특히 좋음",
+   "날짜·시간대 지정 티켓을 미리 사면 현장 매표 줄을 피할 수 있음",
+   "도부 스카이트리라인 도쿄 스카이트리역과 한조몬선 오시아게역 바로 앞",
+   "덴보 데크만 약 1시간, 덴보 회랑 포함 약 1~1.5시간"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "도쿄 스카이트리의 주소는 도쿄도 스미다구 오시아게 1-1-2(우편번호 131-0045)이다.",
+    "value": "〒131-0045 東京都墨田区押上1丁目1-2",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "description",
+    "text": "도쿄 스카이트리의 높이는 634m이다.",
+    "value": "634m",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "전망 시설은 덴보 데크(340·345·350층)와 덴보 회랑(445·450층)으로 나뉜다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "highlight",
+    "text": "340층 덴보 데크에는 발밑으로 도쿄 전경이 펼쳐지는 유리 바닥이 있다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "highlight",
+    "text": "유리 바닥은 덴보 데크 입장료만 내면 누구나 체험할 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "highlight",
+    "text": "맑은 날에는 350m 덴보 데크에서 후지산도 보인다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "tip",
+    "text": "공기가 더 맑아 멀리까지 보이기 쉬운 시기는 11월부터 2월이다.",
+    "value": "11~2월",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "access",
+    "text": "가장 쉬운 방법은 도부 스카이트리라인 도쿄 스카이트리역 또는 한조몬선 오시아게(스카이트리마에)역을 이용하는 것이다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/public-transport/"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "access",
+    "text": "도쿄역에서는 JR 소부선 쾌속으로 약 8분 간 긴시초역까지 가서 한조몬선으로 약 3분 가면 오시아게역이다.",
+    "value": "약 8분 + 약 3분",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/public-transport/"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "access",
+    "text": "아사쿠사역에서 도부 스카이트리라인으로 약 3분이면 도쿄 스카이트리역에 닿는다.",
+    "value": "약 3분",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/public-transport/"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "access",
+    "text": "하네다공항역에서 게이큐선·도에이 아사쿠사선으로 오시아게역까지 약 39분이 걸린다.",
+    "value": "약 39분",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/public-transport/"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "access",
+    "text": "나리타공항역에서 게이세이 나리타 스카이액세스선으로 오시아게역까지 약 49분이 걸린다.",
+    "value": "약 49분",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/public-transport/"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "access",
+    "text": "도쿄 스카이트리 타운으로 가는 직행 버스 '스카이트리 셔틀'이 있다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/public-transport/"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "access",
+    "text": "신주쿠·시부야에서 자동차로 약 25~35분이 걸린다고 안내한다.",
+    "value": "약 25~35분",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/car/"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "parking",
+    "text": "타워 동쪽(지하)과 서쪽(복층)에 유료 주차장이 있다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/car/"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "parking",
+    "text": "주차장 운영시간은 7:30~23:00이며 입차는 22:00까지다.",
+    "value": "07:30~23:00 (입차 22:00까지)",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/car/"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "parking",
+    "text": "주차 요금은 30분마다 450엔(세금 포함)이다.",
+    "value": "450엔/30분",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/car/"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "parking",
+    "text": "주차 가능 차량은 길이 5.0m 이하다.",
+    "value": "5.0m 이하",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/car/"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "parking",
+    "text": "주차 가능 차량은 전폭 1.9m 이하다.",
+    "value": "1.9m 이하",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/car/"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "parking",
+    "text": "주차 가능 차량은 높이 2.1m 이하다.",
+    "value": "2.1m 이하",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/car/"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "parking",
+    "text": "주차 가능 차량은 총중량 2.3t 이하다.",
+    "value": "2.3t 이하",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/car/"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "parking",
+    "text": "전망대 입장권으로는 도쿄 스카이트리 타운 주차 할인 서비스를 받을 수 없다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/car/"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "caution",
+    "text": "주말·공휴일에는 타워 주변 도로가 매우 붐빌 것으로 예상되어 대중교통 이용을 권한다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/access/car/"
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "hours",
+    "text": "전망대 영업시간은 날짜마다 달라 2026-10-01~2027-01-01 캘린더에는 9:00~22:00, 10:00~22:00, 9:00~22:30 세 가지가 표시된다(예: 2026-10-11은 9:00~22:30, 평일 다수는 10:00~22:00).",
+    "value": "9:00 또는 10:00 ~ 22:00(일부 22:30)",
+    "urls": [
+     "https://www.tokyo-skytree.jp/open-hours/"
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "hours",
+    "text": "최종 입장은 폐장 시간의 1시간 전이다.",
+    "value": "폐장 1시간 전",
+    "urls": [
+     "https://www.tokyo-skytree.jp/open-hours/"
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "hours",
+    "text": "영업시간은 예고 없이 바뀔 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/open-hours/"
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "closed_days",
+    "text": "공식 영업 캘린더(2026-10-01~2027-01-01)에서 영업시간이 비어 있고 점검(maintenance) 표시가 붙은 날은 2027-01-01뿐이며, 나머지 날짜에는 모두 영업시간이 적혀 있다.",
+    "value": "2027-01-01 점검 표시",
+    "urls": [
+     "https://www.tokyo-skytree.jp/open-hours/"
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "fees",
+    "text": "덴보 데크+덴보 회랑 세트 입장권은 어른(15세 이상) 3,000엔부터, 어린이(6~14세) 1,500엔부터이며 날짜별로 가격이 다르다.",
+    "value": "어른 3,000엔~ / 어린이 1,500엔~",
+    "urls": [
+     "https://www.tokyo-skytree.jp/ticket/"
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "fees",
+    "text": "덴보 데크(350m) 입장권은 어른(15세 이상) 1,800엔부터, 어린이(6~14세) 900엔부터이며 날짜별로 가격이 다르다.",
+    "value": "어른 1,800엔~ / 어린이 900엔~",
+    "urls": [
+     "https://www.tokyo-skytree.jp/ticket/"
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "fees",
+    "text": "덴보 회랑(450m) 추가 입장권은 어른 1,400엔, 어린이(6~14세) 700엔이다.",
+    "value": "어른 1,400엔 / 어린이 700엔",
+    "urls": [
+     "https://www.tokyo-skytree.jp/ticket/"
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "fees",
+    "text": "5세 이하 유아와 6세 이하 미취학 아동은 무료다.",
+    "value": "무료",
+    "urls": [
+     "https://www.tokyo-skytree.jp/ticket/"
+    ]
+   },
+   {
+    "cid": "c32",
+    "field": "fees",
+    "text": "4층 티켓 카운터·발권기에서 사면 1장당 창구 발권료 500엔이 추가되며, 덴보 회랑 티켓에는 이 발권료가 없다.",
+    "value": "+500엔/장",
+    "urls": [
+     "https://www.tokyo-skytree.jp/ticket/",
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c33",
+    "field": "fees",
+    "text": "공식 티켓 페이지는 어린이 요금을 '중학생까지', 어른 요금을 '고등학생 이상'이라고도 설명한다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/ticket/"
+    ]
+   },
+   {
+    "cid": "c34",
+    "field": "fees",
+    "text": "덴보 회랑 티켓은 덴보 데크 티켓이 있는 사람만 당일 350층의 발권기에서 살 수 있고, 혼잡하면 판매가 중단될 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/ticket/"
+    ]
+   },
+   {
+    "cid": "c35",
+    "field": "reservation",
+    "text": "날짜·시간대를 지정한 티켓을 미리 사면 현장 매표 줄에서 기다리지 않고 입장할 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c36",
+    "field": "reservation",
+    "text": "날짜·시간을 지정하지 않는 입장권은 판매하지 않는다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c37",
+    "field": "reservation",
+    "text": "온라인(LINKTIVITY)과 세븐일레븐 멀티복사기 모두 1회 신청에 최대 8명분까지 살 수 있다.",
+    "value": "최대 8명",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c38",
+    "field": "reservation",
+    "text": "구매 후에는 인원·날짜·시간 변경이 불가능하고, 취소 후 다시 사야 한다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c39",
+    "field": "reservation",
+    "text": "입장일 30일 전 이내에 취소하면 취소 수수료가 든다.",
+    "value": "30일 전 이내",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c40",
+    "field": "reservation",
+    "text": "우선 입장 옵션은 없다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c41",
+    "field": "payment",
+    "text": "온라인 구매는 현금이 안 되고 신용카드, PayPay, WeChat Pay, Alipay로 결제한다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c42",
+    "field": "payment",
+    "text": "웹 구매에 쓸 수 있는 카드는 VISA, Mastercard, JCB, American Express, Diners Club이다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c43",
+    "field": "payment",
+    "text": "현금으로 사려면 세븐일레븐 멀티복사기를 이용하면 된다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c44",
+    "field": "payment",
+    "text": "시설 내 상점·카페에서는 신용카드, 교통카드 등 전자머니, QR 결제(Alipay·WeChat Pay 등)를 쓸 수 있고 현금은 엔화만 받는다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c45",
+    "field": "duration",
+    "text": "덴보 데크만 보면 약 1시간, 덴보 데크와 덴보 회랑을 함께 보면 약 1~1.5시간이 걸린다(혼잡·엘리베이터 대기에 따라 달라짐).",
+    "value": "약 1시간 / 약 1~1.5시간",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c46",
+    "field": "language",
+    "text": "안내 브로슈어는 일본어판과 다국어판(영어·중국어 간체·번체·한국어) 두 종류가 있다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c47",
+    "field": "language",
+    "text": "공식 사이트는 한국어를 포함한 8개 언어 선택을 제공한다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/"
+    ]
+   },
+   {
+    "cid": "c48",
+    "field": "caution",
+    "text": "일단 입장하면 전망대 재입장은 불가능하다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c49",
+    "field": "caution",
+    "text": "음식물 반입은 뚜껑 있는 페트병 음료만 허용된다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c50",
+    "field": "caution",
+    "text": "반려동물은 케이지에 넣어도 전망대에 들어갈 수 없다(보조견은 가능).",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c51",
+    "field": "caution",
+    "text": "드론 등 무인기는 도쿄 스카이트리 타운 부지 내에서 금지된다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c52",
+    "field": "caution",
+    "text": "현장에서 금연이며, 흡연은 소라마치의 흡연 구역을 이용해야 한다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c53",
+    "field": "caution",
+    "text": "혼자 입장할 수 있는 어린이는 초등학생(6세 이상)부터다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c54",
+    "field": "tip",
+    "text": "개장 직후가 비교적 한산하며 평일 10시경, 주말·공휴일 9시경을 권하고, 석양과 야경 시간대인 16~19시는 붐비는 편이다.",
+    "value": "한산: 평일 10시/주말 9시, 혼잡: 16~19시",
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   },
+   {
+    "cid": "c55",
+    "field": "tip",
+    "text": "짐 보관용 코인 로커가 4층과 도쿄 소라마치 곳곳에 있다.",
+    "value": null,
+    "urls": [
+     "https://www.tokyo-skytree.jp/en/faq/"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "closed_days.regular",
+   "payment.counter",
+   "language.audio_guide",
+   "fees.age_band",
+   "fees.current_price",
+   "parking.reservation"
+  ]
+ },
+ {
+  "key": "new:jp-yamanashi-fuji-kawaguchiko",
+  "name_ko": "후지산·가와구치코",
+  "name_local": "富士山・河口湖",
+  "admin_region": "야마나시현 후지카와구치코마치",
+  "address": "山梨県南都留郡富士河口湖町",
+  "description": "후지카와구치코 일대는 후지산 북쪽에 있으며 후지 5호 중 가와구치코(가와구치 호수), 아오키가하라 숲 등이 모여 있습니다. 일본정부관광국은 가와구치코를 후지 5호 가운데 도쿄에서 가장 가기 쉬운 호수로 소개하고, 맑고 바람 없는 날에는 호수에 비친 후지산을 볼 수 있다고 안내합니다. 겨울이 후지산을 가장 또렷하게 볼 수 있는 계절입니다. 호수 둘레의 박물관, 유람선, 텐조산 로프웨이도 즐길 수 있습니다. 신주쿠에서는 주오 고속버스로 약 1시간 50분, 전철로 약 2시간 10분이 걸립니다. 후지산 등산 시즌은 9월 10일에 끝났고 지금은 정상 구간이 폐쇄되어 있으니, 시즌 밖 등산은 하지 마세요.",
+  "highlights": [
+   "후지 5호 중 도쿄에서 가장 가기 쉬운 가와구치코",
+   "맑은 날 호수에 비치는 후지산, 겨울이 가장 또렷함",
+   "호수 둘레 박물관·미술관 순회와 유람선, 텐조산 로프웨이 전망",
+   "신주쿠에서 주오 고속버스 약 1시간 50분",
+   "후지산 등산 시즌(요시다 루트 7/1~9/10)은 종료, 시즌 밖 등산은 금지"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "후지카와구치코 지역은 후지산 북쪽에 위치하며 후지 5호(가와구치코·야마나카코·사이코·쇼지코·모토스코)를 품고 있다.",
+    "value": null,
+    "urls": [
+     "https://www.yamanashi-kankou.jp/smp/en/fujikawaguchiko/index.html"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "가와구치코는 야마나시현 남동부, 시즈오카현 경계 가까이에 있다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1329/"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "일본정부관광국은 가와구치코를 후지 5호 중 도쿄에서 가장 접근하기 쉬운 호수로 소개한다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1329/"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "highlight",
+    "text": "맑고 잔잔한 날에는 호수에 비친 후지산의 완벽한 반영을 볼 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1329/"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "tip",
+    "text": "겨울이 후지산을 가장 또렷하게 볼 수 있는 계절이다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1329/"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "highlight",
+    "text": "호수 주변 박물관·미술관을 자전거나 버스로 돌아보고, 호수 유람선과 텐조산 로프웨이로 후지산 전망을 즐길 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1329/"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "description",
+    "text": "호수 남동쪽 끝의 텐조산 공원은 가치가치 로프웨이로 올라가는 사진 명소다.",
+    "value": null,
+    "urls": [
+     "https://www.japan.travel/en/spot/1329/"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "access",
+    "text": "신주쿠에서 전철로 가와구치코역까지 약 2시간 10분이며, JR 주오선 오쓰키역에서 후지큐코선으로 갈아탄다.",
+    "value": "약 2시간 10분",
+    "urls": [
+     "https://www.yamanashi-kankou.jp/smp/en/fujikawaguchiko/index.html"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "access",
+    "text": "신주쿠역 서쪽 출구에서 주오 고속버스로 약 1시간 50분이 걸린다.",
+    "value": "약 1시간 50분",
+    "urls": [
+     "https://www.yamanashi-kankou.jp/smp/en/fujikawaguchiko/index.html"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "access",
+    "text": "신주쿠에서 주오 고속도로 가와구치코 IC까지 자동차로 약 1시간 30분이 걸린다.",
+    "value": "약 1시간 30분",
+    "urls": [
+     "https://www.yamanashi-kankou.jp/smp/en/fujikawaguchiko/index.html"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "access",
+    "text": "JR 신주쿠역에서 JR 주오선으로 오쓰키역(약 1시간)까지 간 뒤 후지큐코선으로 가와구치코역에 가며, 이 구간에는 JR 레일패스를 쓸 수 없다.",
+    "value": "JR 패스 불가",
+    "urls": [
+     "https://www.japan.travel/en/spot/1329/"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "language",
+    "text": "가와구치코 관광연맹의 공식 관광 사이트(fujisan.ne.jp)는 한국어 언어 선택을 제공한다.",
+    "value": null,
+    "urls": [
+     "https://www.fujisan.ne.jp/"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "hours",
+    "text": "2026년 후지산 등산 시즌은 종료되었고 후지산은 현재 폐쇄 중이다.",
+    "value": "시즌 종료",
+    "urls": [
+     "https://www.fujisan-climb.jp/en/"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "hours",
+    "text": "야마나시현 쪽 요시다 루트의 통상 등산 시즌은 7월 1일~9월 10일이다.",
+    "value": "7/1~9/10",
+    "urls": [
+     "https://www.fujisan-climb.jp/en/off-season/"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "closed_days",
+    "text": "등산 시즌 밖에는 정상으로 가는 모든 루트가 폐쇄된다.",
+    "value": null,
+    "urls": [
+     "https://www.fujisan-climb.jp/en/off-season/"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "caution",
+    "text": "시즌 밖에는 5합목에서 정상까지 도로법 제46조에 따라 통행이 금지되며, 위반 시 6개월 이하 징역 또는 30만 엔 이하 벌금을 받을 수 있다.",
+    "value": "징역 6개월 이하 또는 벌금 30만 엔 이하",
+    "urls": [
+     "https://www.fujisan-climb.jp/en/off-season/"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "caution",
+    "text": "시즌 밖에는 구호소와 산장이 닫혀 있고 눈보라·강풍이 잦아 사고 위험이 매우 높다.",
+    "value": null,
+    "urls": [
+     "https://www.fujisan-climb.jp/en/off-season/"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "fees",
+    "text": "등산 시즌 중 후지산 등산료(입산 협력금)는 나이와 관계없이 1인 4,000엔 정액이다.",
+    "value": "4,000엔",
+    "urls": [
+     "https://www.fujisan-climb.jp/en/faq"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "reservation",
+    "text": "등산 예약·등록은 웹 시스템으로 할 수 있으며, 산장 예약과는 별개다.",
+    "value": null,
+    "urls": [
+     "https://www.fujisan-climb.jp/en/things-to-know-before-climbing"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "payment",
+    "text": "산장과 화장실 이용에 대비해 현금과 100엔 동전을 넉넉히 준비하라고 안내한다.",
+    "value": null,
+    "urls": [
+     "https://www.fujisan-climb.jp/en/things-to-know-before-climbing"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "payment",
+    "text": "화장실 팁은 100~300엔 정도이며 거스름돈 없이 잔돈으로 내 달라고 요청한다.",
+    "value": "100~300엔",
+    "urls": [
+     "https://www.fujisan-climb.jp/en/faq"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "language",
+    "text": "후지산 등산 공식 사이트는 한국어 영상과 한국어 페이지(/kr)를 제공한다.",
+    "value": null,
+    "urls": [
+     "https://www.fujisan-climb.jp/en/"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "address",
+   "hours.lake",
+   "closed_days.lake",
+   "fees.lake",
+   "parking",
+   "duration",
+   "reservation.lake",
+   "access.local",
+   "stale_source",
+   "access.bus_terminal",
+   "caution.autumn"
+  ]
+ }
+]

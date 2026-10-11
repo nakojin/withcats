@@ -1,0 +1,391 @@
+{
+ "places": [
+  {
+   "key": "east-sh-03",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "meet-in-shanghai CN: 地址 上海市黄浦区南京东路299号南京路步行街. https timed out/reset; opened via http://"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "西起西藏中路，东至中山东一路外滩"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "全长1033米"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "路幅宽18—28米"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "建成于1999年9月20日"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "轨道交通2/10号线 南京东路站"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "开放时间 0:00-24:00"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "商场营业时间：10:00-22:00"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "现代建筑夹杂着欧式老楼，竖挂的店铺灯箱…夜幕之下霓虹灯光闪烁"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "沪府令61号 第二条; in force since 2022-05-01"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "第二十三条（一）擅自设摊经营，兜售物品"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "第二十三条（四）"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "第二十三条（二）（三）"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Article dated 2023-11-04 (source 乐游上海): 南京路步行街新世界城所有外卡POS机均已完成升级. Stale (>12 months), and it covers only New World City, not the whole street"
+    },
+    {
+     "cid": "c15",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "시 전체 정책 구호라 여행자용 사실로 공개하지 않음(검증자 권고, 병합 시 처리). 원 노트: 大额刷卡、小额扫码、现金兜底 is on the page, but it is a city-wide policy slogan and not useful to a traveller; recommend not publishing it"
+    }
+   ],
+   "unsupported_in_description": [
+    "신세계청 등 이 거리 상가에서는 외국 카드 POS 단말기 업그레이드가 완료된 것으로 공식 발표되었습니다. (source names only 新世界城, not other shops on the street, and the text omits the 2023-11 date of a stale source)"
+   ],
+   "unsupported_in_highlights": [
+    "신세계청의 외국 카드 POS 단말기 업그레이드 완료(2023년 공지): backed by c14, but a stale (2023-11) administrative notice of little use as a highlight"
+   ],
+   "suggested_claims": [
+    {
+     "field": "tip",
+     "text": "거리에서 옛 노면전차를 축소한 듯한 관광 열차 '당당처(铛铛车)'를 탈 수 있다.",
+     "url": "http://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/"
+    },
+    {
+     "field": "description",
+     "text": "보행거리의 총 부지 면적은 약 3만㎡이다.",
+     "url": "http://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/"
+    },
+    {
+     "field": "payment",
+     "text": "외국인 방문객은 알리페이나 위챗에 본인 명의 Visa·Mastercard·JCB 등 해외 카드를 연결해 모바일 결제를 할 수 있다(2023-11 상하이시 문화관광국 기사).",
+     "url": "https://whlyj.sh.gov.cn/wlyw/20231106/781e20eb51f64849ad604cee30f89a70.html"
+    }
+   ],
+   "conflicts": [
+    "whlyj.sh.gov.cn payment article is dated 2023-11-04 (URL says 20231106), more than 12 months old: stale_source for c14 and c15",
+    "meet-in-shanghai page shows header date 2025-04-17 (no explicit update date), possibly older than 12 months; no newer official page found to confirm hours"
+   ]
+  },
+  {
+   "key": "east-sh-04",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Address: Lane 181 Taicang Road, Huangpu district (Source: Shanghai Municipal Commission of Commerce)"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "北至太仓路，南至兴业路，西至马当路，东至黄陂南路 (page dated 2025-06-27, URL 20250707)"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "街长412米"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Xintiandi Station on Metro Lines 10/13; South Huangpi Road Station on Metro Line 1"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "新增至661个停车位 (2025-06); no parking fee given"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Open 24/7"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Opening Hours 10:00-22:00 under the Go shopping entry; conflicts with 24/7 (see conflicts); likely shop/mall hours"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Four 礼宾台 (新天地/新天地广场/新天地时尚/湖滨道), each 10:00-22:00; 新天地礼宾台 021-6311 2288. Page has no language-service info, so field 'language' is mislabelled (use tip)"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "功能全街区商户覆盖外卡支付 (2025-06)"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "保留了上海20世纪初特色的石库门建筑并在商业项目中注入风尚元素"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "总建筑面积 609,000 平方米 (operator figure for whole Shanghai Xintiandi project, not just the street)"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "third batch… Dec 27, 2023 (Updated on Sept 1, 2025)"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "fashion shows, boutique markets, creative workshows [sic], music and wine festivals"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "福布斯全球20大文化地标; 世界银行全球 URBAN RENEWAL 经典案例"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "现有餐饮商户26家。餐饮经营面积24000平方米"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "description",
+     "text": "신톈디 거리는 2000년 10월 1일 개장했다.",
+     "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html"
+    },
+    {
+     "field": "language",
+     "text": "거리에 다국어 안내 시설이 설치되어 있다(2025-06 상하이시 상무위원회 기준).",
+     "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html"
+    },
+    {
+     "field": "tip",
+     "text": "거리에 짐 보관함, 외화 환전소, 즉시 환급이 되는 집중 세금 환급 창구가 새로 생겼다(2025-06 기준).",
+     "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html"
+    },
+    {
+     "field": "tip",
+     "text": "신톈디 광장 컨시어지 021-6333 0066, 신톈디 시상 컨시어지 021-53820666, 후빈다오 컨시어지 021-6333 6688(모두 10:00~22:00).",
+     "url": "https://www.xintiandi.com/project/xintiandi-shanghai/"
+    }
+   ],
+   "conflicts": [
+    "Hours: english.shanghai.gov.cn (Commerce Commission) says Open 24/7, while meet-in-shanghai (Culture & Tourism) lists Opening Hours 10:00-22:00. The latter likely means shop hours; the text should say so",
+    "Opening year: shanghai.gov.cn (2025-06) says 2000年10月1日开街; english.shanghai.gov.cn Heritage page says 'Completed in 2001'. Not claimed, but avoid stating a single year without the source"
+   ]
+  },
+  {
+   "key": "east-sh-08",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "地址：上海市徐汇区"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "位于徐汇区衡复历史文化风貌区内…全长1.5公里"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "开放时间 全天开放"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "淮海中路1850號 (article 2024-10-27)"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "居民住宅，不對外開放"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1924年，武康大楼在五条马路交会处落成 (2022 article; historical fact)"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "淮海中路、余庆路、天平路、兴国路和武康路交会处"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "上海市徐汇区武康路393号甲 (2026-02-23)"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "周日至周五9:00—17:00; 周六及法定节假日9:00—20:30 (2026-02-23)"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "021-64335000"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "丰巢 luggage lockers installed in 2026, 2-4元/小时 by size; locker hours = centre hours"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "闭馆后不可进入，请于17:00前取件；不支持长期寄存"
+    },
+    {
+     "cid": "c13",
+     "verdict": "corrected",
+     "corrected_text": "2024년 6월 신문 보도(해방일보)에 따르면 지하철 교통대학역에서 우캉빌딩 사이 상점 상당수가 짐 보관을 제공했으며, 캐리어 하나당 크기에 따라 하루 10~20위안이었다.",
+     "note": "Text matches, but the source is a 2024-06-27 news report (stale, >12 months), so the date must be stated"
+    },
+    {
+     "cid": "c14",
+     "verdict": "corrected",
+     "corrected_text": "우캉빌딩 인근 쑹칭링 고거 기념관(화이하이중루 1843호)은 화~일 9:00~17:00에 열고 16:30부터 입장이 중지된다(2024-10 기준).",
+     "note": "Matches the 2024-10-27 article; source is >12 months old, so add the reference date"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "巴金故居 武康路113號 房屋修繕中，不對外開放 (2024-10-27); stale, needs recheck"
+    }
+   ],
+   "unsupported_in_description": [
+    "우캉루는 … 가로수길로 (no verified claim mentions plane trees or tree-lined street)",
+    "지하철 교통대학역에서 우캉빌딩 사이 상점에서도 짐 보관이 가능합니다. (based on a 2024-06 news report; must state that period, see c13)"
+   ],
+   "unsupported_in_highlights": [
+    "교통대학역~우캉빌딩 구간 상점 짐 보관 하루 10~20위안 (needs '2024년 6월 보도 기준'; stale)"
+   ],
+   "suggested_claims": [
+    {
+     "field": "access",
+     "text": "지하철 교통대학역에서 우캉빌딩까지 걸어가는 구간이 관광객의 주요 동선이다(2024-06 보도).",
+     "url": "https://www.shanghai.gov.cn/nw4411/20240627/e2f1197c66194f7bafc8e6dc4537d554.html"
+    },
+    {
+     "field": "tip",
+     "text": "우캉빌딩 맞은편 우캉빌딩 우체국(화이하이중루 1883호)에서는 커피와 엽서를 살 수 있고, 운영시간은 월~금·일요일 8:30~11:30, 12:00~17:00이다(2024-10 기준).",
+     "url": "https://www.meet-in-shanghai.net/tc/shanghai-citywalk-route-recommendation/roam-the-city-walk-on-wukang-road-699518/"
+    },
+    {
+     "field": "description",
+     "text": "우캉빌딩은 헝가리 출신 건축가 라슬로 후데크(邬达克)가 설계했으며, 상하이 최초의 외랑식 아파트이다.",
+     "url": "https://www.meet-in-shanghai.net/tc/shanghai-citywalk-route-recommendation/roam-the-city-walk-on-wukang-road-699518/"
+    },
+    {
+     "field": "description",
+     "text": "우캉루-안푸루 거리는 2022년 2월 첫 국가급 관광레저 거리 목록에 선정되었다.",
+     "url": "https://whlyj.sh.gov.cn/wbzx/20220627/ca2550ff9a7c4646b58668e4bec959c4.html"
+    }
+   ],
+   "conflicts": [
+    "Tourism-centre hours: the 2024-10-27 meet-in-shanghai article's Route A says 週一至週五 9:00-17:00, but its Routes B and C and the 2026-02-23 whlyj.sh.gov.cn notice say 週日至週五. Follow the 2026 official notice (c9)",
+    "meet-in-shanghai citywalk article (2024-10-27), the 解放日报 luggage report (2024-06-27) and the whlyj 武康大楼 article (2022-06-27) are all >12 months old: stale_source for c4, c5, c13, c14, c15 (c6 and c7 are historical)"
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 45,
+  "verified": 43,
+  "corrected": 2,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "Nanjing Road meet-in-shanghai page failed over https (timeout/connection reset) but loaded via http://; all other URLs opened with curl",
+   "Nothing on the cited pages states fees, so 'free' cannot be asserted for any of the three places; collector_unconfirmed items like fees, closed_days, reservation and duration stay unconfirmed. Two extra lookups on meet-in-shanghai (KR page, district index) returned 404/403",
+   "east-sh-03 c15 is a policy slogan and c14 is a stale 2023 notice; recommend not using them as highlights",
+   "east-sh-04 c8 is filed under field 'language' but holds concierge phone and hours; reclassify as tip"
+  ]
+ }
+}

@@ -2,7 +2,7 @@
  "id": "bj-summer-palace",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "이화원",
   "local": "颐和园"
@@ -10,7 +10,7 @@
  "admin_region": "베이징시",
  "former_region": null,
  "city": "베이징",
- "address": null,
+ "address": "北京市海淀区新建宫门路19号",
  "coord": {
   "lat": 39.990098,
   "lng": 116.26474,
@@ -21,93 +21,730 @@
   "osm": "way/29228773"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "이화원은 중국에 현존하는 가장 큰 규모의 황실 정원으로, 베이징 하이뎬구에 있으며 면적은 약 290헥타르입니다.",
+ "description": "이화원은 중국에 현존하는 가장 큰 규모의 황실 정원으로, 베이징 하이뎬구에 있으며 면적은 약 290헥타르입니다. 쿤밍호와 만수산을 바탕으로 항저우 서호 풍경을 본떠 만들었고, 1750년에 짓기 시작해 1764년에 완공되었습니다. 지하철 4호선 베이궁먼역에서 내리면 바로 닿고, 권장 관람 시간은 약 3시간입니다. 성수기(4월 1일~10월 31일)에는 6시에 문을 열어 19시까지 입장할 수 있고 20시에 닫으며 입장권은 성수기 30위안, 비수기 20위안입니다. 불향각·덕화원·이화원박물관·쑤저우제는 원중원으로 따로 입장권이 필요하고 법정 공휴일을 제외한 월요일에 문을 닫습니다. 60세 이상 외국인은 여권을 보여 주면 무료로 입장할 수 있습니다.",
+ "highlights": [
+  "중국 현존 최대 규모의 황실 정원, 면적 약 290헥타르",
+  "쿤밍호와 만수산을 바탕으로 항저우 서호를 본떠 조성",
+  "지하철 4호선 베이궁먼역 하차 즉시 도착",
+  "성수기(4~10월) 6:00~20:00 운영(19:00 입장 마감), 입장권 30위안",
+  "원중원(불향각·덕화원·박물관·쑤저우제)은 월요일 휴무(법정 공휴일 제외)",
+  "60세 이상 외국인은 여권으로 무료 입장"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c1",
+    "r1-b26-c2"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c3",
+    "r1-b26-c4"
+   ],
+   "gap": null
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c5"
+   ],
+   "gap": null
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c6",
+    "r1-b26-c7",
+    "r1-b26-c8",
+    "r1-b26-c9"
+   ],
+   "gap": null
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c10"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "공원 본체의 정기 휴무는 없는 것으로 보이나 명시 문구가 없어 확정하지 않음(원중원 월요일 휴무만 c10)",
+     "detail": "closed_days",
+     "run": "r1-b26"
+    }
+   ]
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c11",
+    "r1-b26-c12",
+    "r1-b26-c13",
+    "r1-b26-c14",
+    "r1-b26-c15",
+    "r1-b26-c16",
+    "r1-b26-c17",
+    "r1-b26-c18"
+   ],
+   "gap": null
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "official_unreachable",
+    "note": "외국인(여권) 예약 방법을 밝힌 현행 공식 안내를 열지 못함(공식 사이트 접속 불가). 예약 오픈 시점·실명제 세부도 미확인"
    }
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c20"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "외국 카드·현금 사용 가능 여부, 모바일 결제 정보는 확인하지 못함. c20 카드 결제 설명은 구버전일 수 있음",
+     "detail": "payment",
+     "run": "r1-b26"
+    }
+   ]
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c21"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내·오디오 가이드 유무는 공식 페이지에 없음",
+     "detail": "language",
+     "run": "r1-b26"
+    }
+   ]
   },
   "caution": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "안전·혼잡 시기 관련 공식 문구 확인 못함"
    }
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b26-c1",
+   "field": "location",
+   "text": "공식 관광 포털에 실린 이화원의 주소는 베이징시 하이뎬구 신젠궁먼루 19호이다.",
+   "original_text": null,
+   "value": "北京市海淀区新建宫门路19号",
+   "verdict": "verified",
+   "verify_note": "The s.visitbeijing attraction page gives the address as 北京市海淀区新建宫门路19号. The page has no date. The site is run by 北京市文化和旅游局宣传中心, a municipal tourism body, not the operator. I did not check the coordinates against OSM.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c2",
+   "field": "location",
+   "text": "이화원은 베이징 도심에서 15km 떨어진 하이뎬구에 있으며 면적은 약 290헥타르이다.",
+   "original_text": null,
+   "value": "15km / 약 290ha",
+   "verdict": "verified",
+   "verify_note": "Page: 距北京城区十五公里，占地约二百九十公顷.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c3",
+   "field": "access",
+   "text": "지하철 4호선을 타고 베이궁먼(北宫门)역에서 내리면 이화원에 바로 닿는다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Page: 乘地铁四号线，北宫门下车即到.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c4",
+   "field": "access",
+   "text": "지하철 4호선 시위안(西苑)역에서 내려 퉁칭제를 따라 서쪽으로 500m 걸으면 동문(정문)에 도착한다.",
+   "original_text": null,
+   "value": "500m",
+   "verdict": "verified",
+   "verify_note": "Page: 西苑下车，经由同庆街西行500米到达颐和园东宫门（正门）.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c5",
+   "field": "duration",
+   "text": "권장 관람 시간은 3시간이다.",
+   "original_text": null,
+   "value": "3시간",
+   "verdict": "verified",
+   "verify_note": "Page: 推荐游览时长 3小时.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c6",
+   "field": "hours",
+   "text": "성수기(4월 1일~10월 31일)에는 6:00에 개원하고 19:00에 입장을 마감하며 20:00에 폐원한다.",
+   "original_text": null,
+   "value": "6:00/19:00/20:00",
+   "verdict": "verified",
+   "verify_note": "The attraction page (undated) and the 2024-09-20 visitbeijing article agree. The official summerpalace-china.com site returned 503 and a connection timeout, so no current operator page was checked.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c7",
+   "field": "hours",
+   "text": "비수기(11월 1일~3월 31일)에는 6:30에 개원하고 18:00에 입장을 마감하며 19:00에 폐원한다.",
+   "original_text": null,
+   "value": "6:30/18:00/19:00",
+   "verdict": "verified",
+   "verify_note": "The attraction page matches. The gygl.beijing.gov.cn notice from 颐和园管理处 also matches, but it is dated 2023-11-01 (stale). No current operator page was available.",
+   "sources": [
+    {
+     "url": "https://gygl.beijing.gov.cn/xxgk/xxgk_gyxx/202311/t20231116_3303366.html",
+     "type": "government",
+     "page_updated": "2023-11-01",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c8",
+   "field": "hours",
+   "text": "불향각·덕화원·이화원박물관·쑤저우제는 성수기(4월 1일~10월 31일) 8:00 개문~18:00 폐문, 비수기(11월 1일~3월 31일) 8:30 개문~17:00 폐문이다.",
+   "original_text": "불향각·덕화원·이화원박물관·쑤저우제는 성수기 8:00 개문~18:00 폐문, 비수기 8:30 개문~17:00 폐문이다.",
+   "value": "성수기 8:00-18:00 / 비수기 8:30-17:00",
+   "verdict": "corrected",
+   "verify_note": "The values match, but the claim did not give the season dates, so I added them. Conflict: the 2024-09 visitbeijing article adds a last entry of 17:30 in peak season and 16:30 off-season.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c9",
+   "field": "hours",
+   "text": "셰취위안·지칭쉬안·양윈쉬안·이서우탕·위란탕·이윈관·러서우탕·화중유·난후다오 내 원락·겅즈투 수조학당은 성수기(4월 1일~10월 31일) 8:00~18:00, 비수기(11월 1일~3월 31일) 8:30~17:00에 운영한다.",
+   "original_text": "셰취위안·지칭쉬안·양윈쉬안·이서우탕·위란탕·이윈관·러서우탕·화중유·난후다오 내 원락·겅즈투 수조학당도 성수기 8:00~18:00, 비수기 8:30~17:00에 운영한다.",
+   "value": "성수기 8:00-18:00 / 비수기 8:30-17:00",
+   "verdict": "corrected",
+   "verify_note": "The values match. I added the season dates.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c10",
+   "field": "closed_days",
+   "text": "덕화원·불향각·박물관·쑤저우제 4개 원중원과 지칭쉬안·양윈쉬안·이서우탕·난후다오 내 원락·겅즈투 수조학당 등은 법정 공휴일을 제외하고 월요일에 문을 닫는다.",
+   "original_text": null,
+   "value": "월요일(법정공휴일 제외)",
+   "verdict": "verified",
+   "verify_note": "The claim matches the attraction page. The 2023 gov notice (stale) does not list 养云轩 among the Monday closures; see conflicts.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://gygl.beijing.gov.cn/xxgk/xxgk_gyxx/202311/t20231116_3303366.html",
+     "type": "government",
+     "page_updated": "2023-11-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c11",
+   "field": "fees",
+   "text": "공원 입장권은 성수기(4월 1일~10월 31일) 30위안, 비수기(11월 1일~3월 31일) 20위안이다.",
+   "original_text": "공원 입장권은 성수기 30위안, 비수기 20위안이다.",
+   "value": "30위안/20위안",
+   "verdict": "corrected",
+   "verify_note": "The prices match. I added the season dates. The 2023 gov notice shows the 20-yuan off-season price.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c12",
+   "field": "fees",
+   "text": "입장권과 원중원 입장권이 포함된 연표(联票)는 성수기(4월 1일~10월 31일) 60위안, 비수기(11월 1일~3월 31일) 50위안이다.",
+   "original_text": "입장권과 원중원 입장권이 포함된 연표(联票)는 성수기 60위안, 비수기 50위안이다.",
+   "value": "60위안/50위안",
+   "verdict": "corrected",
+   "verify_note": "The prices match. I added the season dates.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c13",
+   "field": "fees",
+   "text": "원중원 개별 입장권은 덕화원 5위안, 이화원박물관 20위안, 불향각 10위안, 쑤저우제 10위안이다.",
+   "original_text": null,
+   "value": "5/20/10/10위안",
+   "verdict": "verified",
+   "verify_note": "Page: 德和园5/博物馆20/佛香阁10/苏州街10.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c14",
+   "field": "fees",
+   "text": "할인 입장권은 15위안, 할인 연표는 30위안이며 원중원 할인표는 반값이다.",
+   "original_text": null,
+   "value": "15/30위안",
+   "verdict": "verified",
+   "verify_note": "Page: 优惠门票15元，优惠联票30元，园中园半价.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c15",
+   "field": "fees",
+   "text": "만 6세(6세 포함) 이하이거나 키 1.2m(포함) 이하인 어린이는 무료이다.",
+   "original_text": null,
+   "value": "6세 이하 / 120cm 이하",
+   "verdict": "verified",
+   "verify_note": "Matches the page.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c16",
+   "field": "fees",
+   "text": "60세 이상 외국인 관광객은 여권을 제시하면 무료로 입장할 수 있다.",
+   "original_text": null,
+   "value": "60세 이상",
+   "verdict": "verified",
+   "verify_note": "Page: 60周岁及以上外籍游客凭护照验证入园.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c17",
+   "field": "fees",
+   "text": "만 6세 초과~18세(포함) 미성년자와 학부 이하 전일제 학생은 유효한 신분증이나 학생증으로 할인표를 살 수 있다.",
+   "original_text": null,
+   "value": "6세 초과~18세",
+   "verdict": "verified",
+   "verify_note": "Matches the page. The page also lets foreign permanent residents and youth from Hong Kong, Macau and Taiwan buy discount tickets.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c18",
+   "field": "fees",
+   "text": "장애인과 현역 군인 등은 유효 증서를 제시하면 무료로 입장하고, 어린이날(6월 1일)에는 어린이가 무료이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches the page. The free-entry list also covers 武警, 消防 and retired military.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c19",
+   "field": "reservation",
+   "text": "공식 계정 '颐和园' 또는 '畅游公园'(WeChat 공식계정)에서 당일 표를 사거나 1~7일 뒤 표를 미리 예약할 수 있으며, 입장 때 본인 증명서 원본을 지참해야 한다.",
+   "original_text": null,
+   "value": "1~7일 전",
+   "verdict": "unverifiable",
+   "verify_note": "The only source is a visitbeijing article dated 2024-09-20 (bylined 漫谈京津冀, edited by 玄贞伟). The text matches it, but the article is more than 12 months old. The official site summerpalace-china.com was unreachable and no current official page confirms the booking rule.",
+   "sources": [
+    {
+     "url": "https://www.visitbeijing.com.cn/article/4JW2RSxuEs9",
+     "type": "national_tourism",
+     "page_updated": "2024-09-20",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c20",
+   "field": "payment",
+   "text": "이화원은 7개 문에서 모두 표를 살 수 있으며 그중 동문·북문·신젠궁먼 문구에서는 카드 결제가 가능하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Page: 七个门区均可购票，其中东宫门、北宫门、新建宫门可以刷卡购票. The page says nothing about Alipay or WeChat Pay.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c21",
+   "field": "language",
+   "text": "동문·북문·신젠궁먼 문구에서는 전자 화면으로 영상 안내를 받을 수 있고, 동문 밖 관광객 서비스센터(전화 010-62881144 내선 6831)에서 관람 안내 자료를 제공한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches the page, but this is not language information. Korean-language guidance and audio guides are not mentioned.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c22",
+   "field": "tip",
+   "text": "7개 문 지역과 관광객 서비스센터에서 구급상자·바느질 세트·휠체어를 무료로 빌려 쓸 수 있으며, 휠체어는 보증금 500위안을 냈다가 반납할 때 돌려받는다.",
+   "original_text": "7개 문 지역과 관광객 서비스센터에서 구급상자·바느질 세트·휠체어를 무료로 빌려 쓸 수 있다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "The page says a 500-yuan deposit is needed for the wheelchair.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c23",
+   "field": "description",
+   "text": "이화원은 중국에 현존하는 가장 큰 규모이자 가장 잘 보존된 황실 정원이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Page: 中国现存规模最大、保存最完整的皇家园林.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c24",
+   "field": "description",
+   "text": "쿤밍호와 만수산을 바탕으로 항저우 서호 풍경을 본뜨고 강남 정원의 기법을 받아들여 만든 대형 자연 산수 정원이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches the page.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c25",
+   "field": "description",
+   "text": "전신 칭이위안은 1750년에 짓기 시작해 1764년에 완공되었다.",
+   "original_text": null,
+   "value": "1750/1764",
+   "verdict": "verified",
+   "verify_note": "Page: 前身清漪园 始建于1750年，1764年建成.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-s1",
+   "field": "caution",
+   "text": "유람선은 풍력 4급 이상의 강풍이 불면 운항을 멈추며, 배 운항 시간은 용선·화방 8:30~16:30, 소형 보트 8:00~16:30이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-s2",
+   "field": "tip",
+   "text": "배이윈뎬↔난후다오, 스팡↔난후다오, 퉁뉴↔스팡 구간 셔틀 유람선은 1인 15위안이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101407",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-s3",
+   "field": "hours",
+   "text": "불향각·덕화원·이화원박물관·쑤저우제는 성수기 17:30, 비수기 16:30에 입장을 마감한다(2024-09 기사, 현재 공식 확인 필요).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.visitbeijing.com.cn/article/4JW2RSxuEs9",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b26",
+   "text": "The official site summerpalace-china.com failed twice (https: no connection; http: 503 timeout), and WebFetch also returned 503. The gygl.beijing.gov.cn notice list (latest item 2026-10-07) has no current Summer Palace hours notice. So there is no current operator page for the hours, fees or booking rules."
+  },
+  {
+   "run": "r1-b26",
+   "text": "The gov notice (gygl, 2023-11-01) is more than 12 months old: stale_source."
+  },
+  {
+   "run": "r1-b26",
+   "text": "The visitbeijing article 4JW2RSxuEs9 is dated 2024-09-20 (stale). Its byline is the column label 漫谈京津冀 and it carries a '北京旅游网原创' statement. It is editorial content from the municipal tourism publicity centre's portal, not from the operator."
+  },
+  {
+   "run": "r1-b26",
+   "text": "The s.visitbeijing attraction page shows no update date."
+  },
+  {
+   "run": "r1-b26",
+   "text": "Monday closures: the attraction page includes 养云轩, but the 2023 gov notice lists only 佛香阁、德和园、博物馆、苏州街、益寿堂、霁清轩、南湖岛内院落、耕织图水操学堂."
+  },
+  {
+   "run": "r1-b26",
+   "text": "Last entry for the four courtyard sites: the 2024 article gives 17:30 (peak) and 16:30 (off-season). The attraction page gives only the closing times."
+  },
+  {
+   "run": "r1-b26",
+   "text": "The 2024 article's simplified rule '60周岁以上的老人...免费' gives no ID detail. The attraction page says foreign visitors aged 60+ must show a passport."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -181,6 +818,53 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b26",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 25,
+    "verdicts": {
+     "verified": 19,
+     "corrected": 5,
+     "outdated": 0,
+     "unverifiable": 1,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "summerpalace_official_site",
+   "note": "official_unreachable: www.summerpalace-china.com 은 WebFetch 503, curl 접속 실패. 위 값은 북경시 관광 포털(visitbeijing)과 시 공원관리센터 공고에서 가져옴. 운영자 공식 페이지와 재대조 필요",
+   "run": "r1-b26"
+  },
+  {
+   "topic": "stale_source",
+   "note": "gygl.beijing.gov.cn 공고는 2023-11-01 자(12개월 초과). c7은 visitbeijing 값과 일치. 예약 c19의 출처는 2024-09 기사(제3자 '漫谈京津冀' 게재)이므로 운영자 공식 확인 필요",
+   "run": "r1-b26"
+  },
+  {
+   "topic": "parking",
+   "note": "인용한 공식 페이지에 주차 정보 없음",
+   "run": "r1-b26"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'원중원 ... 월요일에 문을 닫습니다' leaves out '법정 공휴일 제외'. The same Monday closure also applies to other courtyards (지칭쉬안, 양윈쉬안, 이서우탕 and others), so the sentence is incomplete next to c10.",
+   "'성수기(4월 1일~10월 31일)에는 6시에 문을 열어 19시까지 입장' does not give the 20:00 closing time or the off-season hours (c7). It is incomplete but not wrong.",
+   "'원중원(불향각·덕화원·박물관·쑤저우제)은 월요일 휴무' leaves out '법정 공휴일 제외' (c10).",
+   "'성수기 6:00~20:00 운영(19:00 입장 마감), 입장권 30위안' should state the peak-season dates (4/1~10/31)."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b26"
  }
 }

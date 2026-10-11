@@ -1,0 +1,481 @@
+{
+ "places": [
+  {
+   "key": "east-sh-06",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "meet-in-shanghai (Shanghai Municipal Administration of Culture and Tourism) shows 'No. 501, Middle Yincheng Road, Lujiazui, Pudong'. Page dated 2025-10-21."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Official site: observatory on floor 118, 546 m."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Official site lists B1 exhibition hall, 118F observatory, 125-126F SKY632. A 2026-02 shanghai.gov.cn article says the renewed B1 hall reopened over Spring Festival 2026."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'world's fastest elevator ... 360 degree'"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Article of 2026-02-10: national 4A, opened April 2017."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "About 1.7 million visitors a year, international visitors over 30%."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "持续优化多语种服务"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "增设离境退税点"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Maglev, then Line 2 from Longyang Rd to Dongchang Rd, 50 min."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "25 km, 40 min."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "B3 has 641 spaces: about 600 standard, 32 mini, 9 barrier-free."
+    },
+    {
+     "cid": "c17",
+     "verdict": "corrected",
+     "corrected_text": "운영시간은 매일 08:30~22:00이며 마지막 입장은 21:00이다.",
+     "note": "The page also states 'Last entry at 21:00'. It also says the observatory is on 118-119F (official site says 118F)."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2026-05-15 English city portal: regular admission 180/90/120."
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Regular admission for the SKY632 combo is 268."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2025-09-11 article: 118F adult 180. Historical statement."
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Source dated 2024-06-11 (over 12 months old), but the current Chinese official page (https://www.shanghaitower.com/shagnhai.html) confirms 试行实名制购票 and says to bring an ID card or passport."
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c23",
+     "verdict": "corrected",
+     "corrected_text": "공식 온라인 구매 채널은 씨트립, 퉁청(LY.com), 메이퇀, 다중덴핑이다(영문 페이지에는 뤼마마도 표기되어 있다).",
+     "note": "The English page lists 5 channels including Lvmama. The Chinese official page lists 4 (携程、同程、美团、大众点评) without Lvmama."
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Contact page: observatory (8621)2065 6999. Observatory page: hotline (8621)80370150, Mon-Sun 9:00-18:00."
+    }
+   ],
+   "unsupported_in_description": [
+    "'운영시간은 매일 08:30~22:00로 안내되고' leaves out the last entry at 21:00 (see corrected c17)."
+   ],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "reservation",
+     "text": "공식 사이트(중문)는 상하이즈뎬 전망대가 실명제 구매를 시행하며 신분증 또는 여권을 지참하라고 안내한다.",
+     "url": "https://www.shanghaitower.com/shagnhai.html"
+    },
+    {
+     "field": "hours",
+     "text": "마지막 입장은 21:00이다.",
+     "url": "https://www.meet-in-shanghai.net/en/tourist-attraction/top-of-shanghai-observatory-914985/"
+    }
+   ],
+   "conflicts": [
+    "Purchase channels: the English official page lists Lvmama, the Chinese official page does not.",
+    "Floors: meet-in-shanghai says the observatory is on '118th and 119th floors'; the official site says 118F.",
+    "Not found on the official pages checked: closed days, duration, payment methods, Korean or audio guide, caution items."
+   ]
+  },
+  {
+   "key": "east-su-01",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "No.178 Dong Bei Street. The page shows a 2021-07-29 date, older than 12 months, but this is static data."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'cream of the garden, featuring Venetian scenes' (water scenery)."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c9",
+     "verdict": "corrected",
+     "corrected_text": "쑤저우시 원림녹화관리국 안내(2025년 1월 게시) 기준 3~10월 개방시간은 07:30~17:30이며 입장(검표) 마감은 17:00다.",
+     "note": "Source dated 2025-01-09, over 12 months old. No current official page confirms the closing time. The 2026-06 notice implies the regular opening is 07:30. Conflicts with the 2021 English page ('March 1 to November 15')."
+    },
+    {
+     "cid": "c10",
+     "verdict": "corrected",
+     "corrected_text": "쑤저우시 원림녹화관리국 안내(2025년 1월 게시) 기준 11월~이듬해 2월 개방시간은 07:30~17:00이며 입장 마감은 16:30다.",
+     "note": "Stale source. A 2026-02 suzhou.gov.cn article says closing was extended to 17:30 for Spring Festival, which indirectly supports a normal 17:00 closing. The 2021 English page says winter hours start Nov 16."
+    },
+    {
+     "cid": "c11",
+     "verdict": "corrected",
+     "corrected_text": "쑤저우시 원림녹화관리국 안내(2025년 1월 게시) 기준 청명, 노동절, 중추절, 국경절 연휴에는 30분 늦은 18:00에 문을 닫는다.",
+     "note": "Stale source. Date added."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2026-06-19 article: early 06:45 opening from Jun 19 to Oct 7."
+    },
+    {
+     "cid": "c13",
+     "verdict": "corrected",
+     "corrected_text": "쑤저우시 원림녹화관리국 안내(2025년 1월 게시) 기준 야간 프로그램 '拙政问雅'는 화~일 18:30~22:00, 입장 마감 21:00이며 세부 시간은 공식 위챗(苏州园林旅游) 공지를 따른다.",
+     "note": "Stale source. Date added."
+    },
+    {
+     "cid": "c14",
+     "verdict": "corrected",
+     "corrected_text": "쑤저우시 원림녹화관리국 요금표(2024년 7월 게시) 기준 입장료는 성수기(4·5·7·8·9·10월) 80위안, 비수기(1·2·3·6·11·12월) 70위안이며 10월은 성수기다.",
+     "note": "The cited page says only 门票价格, not 上限 (cap). It is dated 2024-07-11 (stale), and no 2026 price notice was found. A 2020 fg.suzhou.gov.cn PDF lists 80/70 as a 价格上限."
+    },
+    {
+     "cid": "c15",
+     "verdict": "corrected",
+     "corrected_text": "2025년 6월 쑤저우시 보도 기준, 키 1.4m 이상 아동, 만 6세 초과~18세 이하 미성년자, 대학 학부 이하 재학생은 신분증·학생증을 제시하면 상시 반값 우대를 받는다.",
+     "note": "Source dated 2025-06-11 (16 months old). Content matches (常态化 student half price). Date added."
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2026-06-19 article."
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2024-06-08 article: 7 scenic spots keep real-name booking. Historical statement."
+    },
+    {
+     "cid": "c19",
+     "verdict": "corrected",
+     "corrected_text": "2025년 9월 쑤저우시 보도 기준, 무료 입장 대상자와 연간 회원은 예약 없이 바로 확인 후 입장할 수 있다.",
+     "note": "Source dated 2025-09-03 (13 months old). No current confirmation found."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Gates accept ID card, social security card and face recognition. The field 'access' is a poor fit; reservation/entry is better."
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "A 2026-02 suzhou.gov.cn article also confirms windows accept WeChat, Alipay, card and cash."
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'多数园林...免费出借轮椅、婴儿车'. Also stated for Spring Festival 2026."
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page dated 2021: stale_source."
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Except special places or activities."
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Swimming and fishing are allowed only for special activities."
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    }
+   ],
+   "unsupported_in_description": [
+    "'3~10월에는 07:30~17:30에 열고 입장은 17:00에 마감' relies on a 2025-01 source. The source date needs to be stated (see corrected c9)."
+   ],
+   "unsupported_in_highlights": [
+    "'3~10월 07:30~17:30 운영(입장 마감 17:00)': state the source date (corrected c9).",
+    "'야간 프로그램 拙政问雅는 화~일 18:30~22:00': state the source date (corrected c13).",
+    "'쑤저우 대표 정원': the page says 'one of the 4 most famous gardens of China', so the wording is loosely supported."
+   ],
+   "suggested_claims": [
+    {
+     "field": "payment",
+     "text": "현장 매표 창구는 위챗페이, 알리페이, 카드, 현금 결제를 지원한다(2026년 2월 쑤저우시 보도).",
+     "url": "http://www.suzhou.gov.cn/szsrmzf/bmdt/202602/08abc52bc6254edc94bbcb310677b621.shtml"
+    },
+    {
+     "field": "tip",
+     "text": "2026년 춘절 기간 쑤저우 원림은 짐 보관, 휠체어, 유모차를 무료로 제공했다.",
+     "url": "http://www.suzhou.gov.cn/szsrmzf/bmdt/202602/08abc52bc6254edc94bbcb310677b621.shtml"
+    },
+    {
+     "field": "access",
+     "text": "쑤저우시 영문 안내(2021년 게시)에 따르면 관광버스 1·2·5번 또는 178·202·309·40·313번 버스로 갈 수 있다.",
+     "url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+    }
+   ],
+   "conflicts": [
+    "Fees: the 2021 English city page gives the foreigner busy-season price as RMB 90; the 2024-07 garden bureau table and the 2020 price-cap PDF say 80.",
+    "Hours: the 2021 English page says 7:30-17:30 runs to Nov 15 (winter from Nov 16); the 2025-01 bureau table says summer hours run Mar-Oct. This matters for Nov 1-15.",
+    "Stale sources: hours page 2025-01, fee page 2024-07, student discount 2025-06, no-booking-for-free-visitors 2025-09, English intro 2021."
+   ]
+  },
+  {
+   "key": "east-qd-01",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "qingdao.gov.cn page dated 2020-09-03."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "青岛市标志性建筑"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "A 2026-10-06 qingdao.gov.cn article dates the extension to 1901."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the cited 2020 page. CONFLICT: the 2026-10-06 qingdao.gov.cn article says the 1931-1933 extension made it 440 m."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Article dated 2016-05-01, 青岛日报 repost. Historical statement."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "States the 2016 date. Of little use now that the pavilion closes for repair from 2026-10-13."
+    }
+   ],
+   "unsupported_in_description": [
+    "'회란각은 2016년에 무료 개방을 시작했으며 ... 40명': historical and outdated as current guidance. The description does not mention that the pavilion and surrounding area close from 2026-10-13 22:00 until about mid-December 2026.",
+    "'길이가 394.38m가 되었고' conflicts with the 2026 official article (440 m, 1931-1933)."
+   ],
+   "unsupported_in_highlights": [
+    "'회란각은 2016년 무료 개방 시작, 순간 최대 수용 인원 40명(당시 보도)': not useful and misleading during the closure.",
+    "'1931년 394.38m로 확장': conflicting length (440 m in 2026 article)."
+   ],
+   "suggested_claims": [
+    {
+     "field": "caution",
+     "text": "칭다오 해빈경구관리서비스센터가 2026년 10월 5일 낸 공고에 따라 2026년 10월 13일 22시부터 회란각과 주변 구역이 보수 공사로 폐쇄되며, 공사 기간(2026년 10월 중순 착공, 12월 중순 완공 예정)에는 관람할 수 없다.",
+     "url": "http://www.qingdao.gov.cn/ywdt/zwyw/202610/t20261006_10746545.shtml"
+    },
+    {
+     "field": "description",
+     "text": "잔교와 회란각은 산둥성 문물보호단위다(2026년 10월 칭다오시 정부 사이트 게재 기사).",
+     "url": "http://www.qingdao.gov.cn/ywdt/zwyw/202610/t20261006_10746545.shtml"
+    },
+    {
+     "field": "description",
+     "text": "회란각은 부지 151㎡, 건축면적 340㎡이며 노란 유리기와 지붕과 24개의 둥근 기둥, 34단 나선형 계단이 있다.",
+     "url": "http://www.qingdao.gov.cn/ywdt/zwyw/202610/t20261006_10746545.shtml"
+    }
+   ],
+   "conflicts": [
+    "Length: 394.38 m from the 1931 extension (qingdao.gov.cn 2020) vs 440 m from the 1931-1933 extension (qingdao.gov.cn 2026-10-06, from 青岛日报).",
+    "Protection level: 市级文物保护单位 (2020 page) vs 山东省文物保护单位 (2026 article).",
+    "The closure notice is on qingdao.gov.cn (政务要闻, dated 2026-10-06) as a 青岛日报 report of the 青岛海滨景区管理服务中心 notice. The centre's own original notice was not found on the qingdao.gov.cn search or the qdsn.gov.cn homepage.",
+    "Stale sources: 2016 article (free opening, 40-person cap) and 2020 intro page."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 61,
+  "verified": 52,
+  "corrected": 9,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "All 18 cited URLs opened with curl. Three https suzhou.gov.cn URLs failed and opened via http.",
+   "Qingdao: the official qingdao.gov.cn copy of the 2026-10-05 closure notice was found (t20261006_10746545) and given as a caution suggested_claim. The pavilion closes from 2026-10-13 22:00 for repair until about mid-December 2026, and the guide text about free entry and the 40-person cap should not read as current.",
+   "Suzhou corrected items mostly add the source date to hours, fee, discount and no-booking rules whose sources are over 12 months old. c14 also drops the word '상한', which is not on the cited page.",
+   "Shanghai: c17 adds the 21:00 last entry. c23 aligns the channel list with the Chinese official page (no Lvmama). c21's 2024 source is confirmed by the current Chinese official page."
+  ]
+ }
+}

@@ -1,0 +1,521 @@
+[
+ {
+  "key": "kr-jeju-hyeopjae",
+  "name_ko": "협재해수욕장",
+  "name_local": "협재해수욕장",
+  "admin_region": "제주특별자치도 제주시 한림읍",
+  "address": "제주특별자치도 제주시 한림읍 협재리 2497-1",
+  "description": "제주시 한림읍 협재리에 있는 해변으로 제주올레 14코스의 일부이며, 금능해수욕장과 이어져 쌍둥이 해변으로 불린다. 투명한 에메랄드빛 물과 조개껍질 가루가 섞인 밝은 백사장이 특징이다. 경사가 완만하고 수심이 얕으며 소나무 숲이 있어 어린이를 동반한 가족에게 알맞다고 안내된다. 바다 앞으로 비양도가 보이고 석양 풍경도 볼 만하다. 상시 개방되며 2026년 개장·안전관리 운영은 6월 24일부터 9월 6일까지 10:00~19:00, 7월 15일~8월 15일은 21:00까지 야간 연장한다. 파라솔 20,000원, 평상 30,000원이며 개장 기간 유영 구역에는 반려동물 입욕이 통제된다.",
+  "highlights": [
+   "제주올레 14코스의 일부인 제주 서쪽 해변",
+   "금능해수욕장과 이어진 쌍둥이 해변",
+   "에메랄드빛 물과 조개껍질 가루가 섞인 밝은 백사장",
+   "경사가 완만하고 수심이 얕은 소나무 숲 해변",
+   "비양도와 석양 풍경",
+   "7월 15일~8월 15일 21:00까지 야간 연장 운영(2026년)"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "협재해수욕장의 주소는 제주특별자치도 제주시 한림읍 협재리 2497-1이다(우편번호 63011).",
+    "value": "제주특별자치도 제주시 한림읍 협재리 2497-1",
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "공식 페이지에 실린 좌표는 위도 33.3924809, 경도 126.2389861이다.",
+    "value": "33.3924809,126.2389861",
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "hours",
+    "text": "해수욕장 자체는 상시 개방으로 안내된다.",
+    "value": "상시 개방",
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "hours",
+    "text": "2026년 해수욕장 개장·안전관리 운영 기간은 6월 24일부터 9월 6일까지, 시간은 10:00~19:00이다.",
+    "value": "2026-06-24~2026-09-06 10:00-19:00",
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "hours",
+    "text": "2026년에는 7월 15일부터 8월 15일까지 21:00까지 야간 연장 운영한다.",
+    "value": "2026-07-15~2026-08-15 10:00-21:00",
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "fees",
+    "text": "파라솔과 평상은 유료이며, 2026년 제주 지정 해수욕장 공통 이용료는 파라솔 20,000원, 평상 30,000원이다.",
+    "value": "파라솔 20000원, 평상 30000원",
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "caution",
+    "text": "반려동물은 해수욕장 개장 기간 중 지정 해수욕장 유영 구역에서 입욕이 통제되며, 민원이나 현장 상황에 따라 동반이 제재될 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "tip",
+    "text": "해수욕장 개장 기간에는 종합상황실(064-728-3981)이 운영된다.",
+    "value": "064-728-3981",
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "description",
+    "text": "제주시 한림읍에 있으며 제주올레 14코스의 일부이고, 금능해수욕장과 이어져 쌍둥이 해변으로 불린다.",
+    "value": null,
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "description",
+    "text": "물빛이 에메랄드색이고, 썰물 때는 조개껍질 가루가 많이 섞인 밝은 백사장이 길게 이어진다.",
+    "value": null,
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "description",
+    "text": "경사가 완만하고 수심이 얕으며 소나무 숲이 있어 어린이가 있는 가족 단위 여행객에게 좋다고 안내된다.",
+    "value": null,
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "highlight",
+    "text": "바다 앞으로 비양도가 보이며, 비양도와 바다 위로 지는 석양이 볼거리로 소개된다.",
+    "value": null,
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "tip",
+    "text": "주변 관광지로 한림공원, 금능해수욕장, 금능석물원, 월령선인장자생지가 소개된다.",
+    "value": null,
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "access",
+   "parking",
+   "duration",
+   "closed_days",
+   "fees.entry",
+   "reservation",
+   "payment",
+   "language",
+   "tube_rental",
+   "former_region"
+  ]
+ },
+ {
+  "key": "kr-jeju-seopjikoji",
+  "name_ko": "섭지코지",
+  "name_local": "섭지코지",
+  "admin_region": "제주특별자치도 서귀포시 성산읍",
+  "address": "제주특별자치도 서귀포시 성산읍 섭지코지로 262",
+  "description": "제주 동부 해안에서 바다 쪽으로 길게 뻗은 곶으로, 성산일출봉을 배경으로 한 해안 풍경이 아름다운 곳이다. 신양해변의 백사장, 봄철 유채꽃, 넓은 초원, 해안절벽과 선돌바위가 어우러진다. 붉은오름 일대에는 붉은 화산쇄설물인 송이가 드러나 있고, 초원에는 높이 약 4m, 한 변 약 9m의 석조 협자연대가 제주특별자치도 기념물로 남아 있다. 선돌바위에는 용왕의 막내아들과 선녀의 전설이 전해진다. 연중무휴로 안내되며, 섭지코지주차장은 소형차 기준 최초 30분 1,000원, 이후 15분마다 500원, 1일 최대 3,000원이다.",
+  "highlights": [
+   "성산일출봉을 배경으로 한 제주 동부 해안 절경",
+   "붉은오름 일대의 붉은 화산쇄설물(송이)",
+   "높이 약 4m의 협자연대(제주특별자치도 기념물)",
+   "선돌바위와 용왕 막내아들 전설",
+   "봄철 유채꽃과 넓은 초원",
+   "연중무휴, 섭지코지주차장 1일 최대 3,000원"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "섭지코지의 도로명 주소는 제주특별자치도 서귀포시 성산읍 섭지코지로 262이다(지번상 성산읍 고성리).",
+    "value": "제주특별자치도 서귀포시 성산읍 섭지코지로 262",
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "공식 페이지에 실린 좌표는 위도 33.4236948, 경도 126.9296022이다.",
+    "value": "33.4236948,126.9296022",
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "closed_days",
+    "text": "운영 안내에 '연중무휴'로 표기되어 있다.",
+    "value": "연중무휴",
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "parking",
+    "text": "섭지코지주차장은 일반 소형 기준 최초 30분까지 1,000원, 이후 15분마다 500원, 1일 최대 3,000원이다.",
+    "value": "최초30분 1000원, 15분당 500원, 일최대 3000원",
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "parking",
+    "text": "휘닉스 아일랜드 주차장은 일반 소형 기준 1일 5,000원이다.",
+    "value": "1일 5000원",
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "tip",
+    "text": "문의 전화는 064-784-2810이다.",
+    "value": "064-784-2810",
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "description",
+    "text": "제주 동부 해안에서 바다 쪽으로 길게 뻗은 곶으로 성산일출봉을 배경으로 한 해안 풍경이 아름답다.",
+    "value": null,
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "description",
+    "text": "신양해변의 백사장, 봄철 유채꽃, 넓은 초원, 해안절벽, 선돌바위가 어우러진 경관을 보여준다.",
+    "value": null,
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "highlight",
+    "text": "붉은오름 일대에는 제주어로 송이라 부르는 붉은 화산쇄설물이 드러나 해안 기암괴석과 함께 독특한 화산 해안 경관을 이룬다.",
+    "value": null,
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "highlight",
+    "text": "초원의 협자연대는 조선시대 봉수 시설로 높이 약 4m, 한 변 약 9m의 석조 연대이며 제주특별자치도 기념물로 지정되어 있다.",
+    "value": "높이 약 4m, 한 변 약 9m",
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "highlight",
+    "text": "선돌바위에는 용왕의 막내아들과 선녀에 관한 전설이 전해진다.",
+    "value": null,
+    "urls": [
+     "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "access",
+   "duration",
+   "hours",
+   "fees",
+   "reservation",
+   "payment",
+   "language",
+   "caution"
+  ]
+ },
+ {
+  "key": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name_ko": "경주 불국사·석굴암",
+  "name_local": "경주 불국사·석굴암",
+  "admin_region": "경상북도 경주시",
+  "address": "불국사: 경상북도 경주시 불국로 385 (진현동 15-1) / 석굴암: 경상북도 경주시 석굴로 238",
+  "description": "경주 토함산 일대의 불국사와 석굴암은 각각 별도의 사찰·석굴 시설로 운영된다. 두 곳 모두 2023년 5월 4일부터 관람료가 무료이며, 연중무휴로 11~1월 9:00~17:00, 2월·10월 9:00~17:30, 3~9월 9:00~18:00(모두 입장 마감 시각)이다. 반려동물은 입장할 수 없다. 불국사 주차요금은 승용차 2,000원, 대형차 4,000원이고 석굴암 주차는 소형·중형 2,000원, 대형 4,000원이다. 석굴암은 751년 김대성이 짓기 시작해 774년 완성되었다고 공식 사이트가 소개하며, 주차장에서 경내까지 도보 약 10분이 걸린다. 기상특보 때는 석굴암 출입이 통제될 수 있다.",
+  "highlights": [
+   "불국사·석굴암 모두 관람료 무료(2023년 5월 4일부터)",
+   "연중무휴, 계절별로 입장 마감 17:00~18:00",
+   "석굴암은 751년 착공, 774년 완성",
+   "불국사에서 석굴암행 12번 버스 환승 가능",
+   "석굴암 주차장에서 경내까지 도보 약 10분",
+   "기상특보 시 석굴암 출입 통제 가능"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "불국사의 주소는 경상북도 경주시 불국로 385(진현동 15-1)이다.",
+    "value": "경상북도 경주시 불국로 385",
+    "urls": [
+     "http://www.bulguksa.or.kr/bbs/content.php?co_id=location"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "석굴암의 주소는 경상북도 경주시 석굴로 238이다.",
+    "value": "경상북도 경주시 석굴로 238",
+    "urls": [
+     "http://www.seokguram.org/bbs/content.php?co_id=map"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "fees",
+    "text": "불국사 관람료는 개정 문화재보호법에 따라 2023년 5월 4일부터 무료이다.",
+    "value": "무료",
+    "urls": [
+     "http://www.bulguksa.or.kr/bbs/content.php?co_id=application"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "fees",
+    "text": "석굴암 관람료도 2023년 5월 4일부터 무료이다.",
+    "value": "무료",
+    "urls": [
+     "http://www.seokguram.org/bbs/content.php?co_id=price"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "hours",
+    "text": "불국사 입장 시간은 11~1월 9:00~17:00, 2월과 10월 9:00~17:30, 3~9월 9:00~18:00이며 각 시각은 입장 마감이다. 평일·주말·공휴일이 같다.",
+    "value": "11-1월 09:00-17:00; 2·10월 09:00-17:30; 3-9월 09:00-18:00 (입장마감)",
+    "urls": [
+     "http://www.bulguksa.or.kr/bbs/content.php?co_id=application"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "hours",
+    "text": "석굴암 입장 시간도 11~1월 9:00~17:00, 2월과 10월 9:00~17:30, 3~9월 9:00~18:00(입장 마감)이며 주중·주말·공휴일이 같다.",
+    "value": "11-1월 09:00-17:00; 2·10월 09:00-17:30; 3-9월 09:00-18:00 (입장마감)",
+    "urls": [
+     "http://www.seokguram.org/bbs/content.php?co_id=price"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "closed_days",
+    "text": "불국사는 연중무휴이다.",
+    "value": "연중무휴",
+    "urls": [
+     "http://www.bulguksa.or.kr/bbs/content.php?co_id=application"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "closed_days",
+    "text": "석굴암은 연중무휴이다.",
+    "value": "연중무휴",
+    "urls": [
+     "http://www.seokguram.org/bbs/content.php?co_id=price"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "caution",
+    "text": "불국사에는 반려동물이 입장할 수 없다.",
+    "value": null,
+    "urls": [
+     "http://www.bulguksa.or.kr/bbs/content.php?co_id=application"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "caution",
+    "text": "석굴암에도 반려동물이 입장할 수 없다.",
+    "value": null,
+    "urls": [
+     "http://www.seokguram.org/bbs/content.php?co_id=price"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "caution",
+    "text": "호우·태풍·폭설 등 기상특보(주의보·경보)가 발효되면 안전을 위해 석굴암 경내 출입이 통제될 수 있다.",
+    "value": null,
+    "urls": [
+     "http://www.seokguram.org/bbs/content.php?co_id=price"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "parking",
+    "text": "불국사 주차요금은 승용차(1,000cc 미만)와 중형차(1,000cc 이상) 각 2,000원, 대형차(버스) 4,000원이다.",
+    "value": "승용·중형 2000원, 대형 4000원",
+    "urls": [
+     "http://www.bulguksa.or.kr/bbs/content.php?co_id=application"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "parking",
+    "text": "석굴암 주차요금은 소형·중형차 2,000원, 대형차(버스) 4,000원이다.",
+    "value": "소형·중형 2000원, 대형 4000원",
+    "urls": [
+     "http://www.seokguram.org/bbs/content.php?co_id=price"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "access",
+    "text": "경주 시내(터미널 등)에서 불국사까지는 10번·11번 버스를 이용하며, 경주역과 버스터미널에서 불국사행 버스를 이용할 수 있다.",
+    "value": "10, 11번",
+    "urls": [
+     "http://www.bulguksa.or.kr/bbs/content.php?co_id=location"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "access",
+    "text": "석굴암 공식 안내는 터미널·경주 시내에서 불국사행 10번·11번·700번을 타고, 신경주역에서는 하루 4번 운행하는 700번을 이용하라고 한다.",
+    "value": "10, 11, 700번",
+    "urls": [
+     "http://www.seokguram.org/bbs/content.php?co_id=map"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "access",
+    "text": "불국사에서 석굴암으로 갈 때는 12번 버스로 환승하며, 석굴암에서 불국사로 돌아오는 버스는 매시 정각에 출발한다.",
+    "value": "12번 버스; 석굴암발 매시 정각",
+    "urls": [
+     "http://www.seokguram.org/bbs/content.php?co_id=map"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "access",
+    "text": "자가운전은 경주 시내에서 7번 국도로 울산 방면 불국사역 앞 구정동 삼거리에서 좌회전해 902번 지방도로 2.5km 가면 불국사이고, 석굴암은 이정표를 따라 토함산을 약 20분 오르면 주차장에 닿는다.",
+    "value": null,
+    "urls": [
+     "http://www.seokguram.org/bbs/content.php?co_id=map"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "access",
+    "text": "석굴암 주차장에서 경내까지는 도보로 약 10분 걸린다.",
+    "value": "도보 약 10분",
+    "urls": [
+     "http://www.seokguram.org/bbs/content.php?co_id=map"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "tip",
+    "text": "불국사 문의 전화는 054-746-9913, 석굴암 문의 전화는 054-746-9933이다.",
+    "value": "불국사 054-746-9913; 석굴암 054-746-9933",
+    "urls": [
+     "http://www.bulguksa.or.kr/bbs/content.php?co_id=application",
+     "http://www.seokguram.org/bbs/content.php?co_id=price"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "tip",
+    "text": "석굴암 시설 운영은 경주시 시설관리공단 관광사업팀이 맡는다고 공식 사이트에 적혀 있다.",
+    "value": null,
+    "urls": [
+     "http://www.seokguram.org/bbs/content.php?co_id=price"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "description",
+    "text": "석굴암은 신라 경덕왕 10년(751) 재상 김대성이 짓기 시작해 혜공왕 10년(774)에 완성했고, 건립 당시 이름은 석불사였다.",
+    "value": "751~774",
+    "urls": [
+     "http://www.seokguram.org/bbs/content.php?co_id=history"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "description",
+    "text": "석굴암은 본존불을 중심으로 벽면에 보살상·제자상·역사상·천왕상 등 총 40구를 조각했으나 현재 38구가 남아 있다.",
+    "value": "40구 중 38구 현존",
+    "urls": [
+     "http://www.seokguram.org/bbs/content.php?co_id=history"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "highlight",
+    "text": "석굴암 주실 천장은 360여 개의 넓적한 돌로 쌓은 구조이며 공식 사이트는 세계에 유례가 없는 기술이라고 소개한다.",
+    "value": "360여 개",
+    "urls": [
+     "http://www.seokguram.org/bbs/content.php?co_id=history"
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "description",
+    "text": "불국사 공식 사이트의 역사 기록에는 528년(법흥왕 15) 영제부인의 발원으로 창건되었고 751년(경덕왕 10) 김대성이 크게 개수했다고 되어 있다.",
+    "value": "528 창건; 751 중창",
+    "urls": [
+     "http://www.bulguksa.or.kr/bbs/content.php?co_id=history"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "duration",
+   "reservation",
+   "payment",
+   "language",
+   "access.bus_schedule",
+   "hours.conflict",
+   "admin_region.note",
+   "page_updated"
+  ]
+ }
+]

@@ -1,0 +1,456 @@
+{
+ "id": "jp-chiba-tokyo-disneysea",
+ "country": "jp",
+ "tier": "A",
+ "status": "verified",
+ "names": {
+  "ko": "도쿄 디즈니씨",
+  "local": "東京ディズニーシー"
+ },
+ "admin_region": "지바현 우라야스시",
+ "former_region": null,
+ "city": null,
+ "address": "1-1 Maihama, Urayasu-shi, Chiba-ken",
+ "coord": null,
+ "coord_note": "좌표 수집 대기",
+ "summary": "도쿄 디즈니씨는 도쿄 디즈니 리조트 안에 있으며, 바다의 신화와 전설을 테마로 한 유일한 디즈니 파크이다.",
+ "description": "도쿄 디즈니씨는 도쿄 디즈니 리조트 안에 있으며, 바다의 신화와 전설을 테마로 한 유일한 디즈니 파크이다. 2001년에 문을 열었고, 테마 랜드 대신 여러 테마 포트로 구성되어 있다. 일본 디즈니 파크에서만 만날 수 있는 어트랙션과 레스토랑, 쇼가 있고 경치가 좋은 어트랙션이 많다. JR 게이요선 마이하마역에서 걸어서 몇 분이며, 도쿄역에서 JR로 20분 걸린다.",
+ "highlights": [
+  "바다의 신화와 전설을 테마로 한 유일한 디즈니 파크",
+  "2001년 개장, 테마 랜드 대신 테마 포트로 구성",
+  "마이하마역에서 도보 몇 분, 도쿄역에서 JR 20분",
+  "레스토랑·쇼 등 즐길 거리"
+ ],
+ "checklist": {
+  "location": {
+   "status": "filled",
+   "claims": [
+    "r1-b16-c1"
+   ],
+   "gap": null
+  },
+  "access": {
+   "status": "filled",
+   "claims": [
+    "r1-b16-c2",
+    "r1-b16-c3",
+    "r1-b16-c4",
+    "r1-b16-c5",
+    "r1-b16-c6"
+   ],
+   "gap": null
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 소요시간 안내를 찾지 못함."
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "운영 주체 공식 사이트(tokyodisneyresort.jp)가 수집 환경에서 응답하지 않아(curl·WebFetch 모두 실패) 일별 운영시간을 확인하지 못함."
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "공식 사이트 접속 불가로 확인하지 못함."
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "공식 사이트 접속 불가. 입장권 요금·연령 구분·무료 대상 확인하지 못함(무료 여부도 불명). 스탠바이 패스가 무료라는 것만 확인."
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "입장권 구매·예약 방식은 공식 사이트 접속 불가로 확인하지 못함. 판타지 스프링스 패스 정보만 확인."
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "공식 사이트 접속 불가. 결제 수단 확인하지 못함."
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "공식 사이트 접속 불가. 한국어 안내 확인하지 못함."
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "운영사 사이트(tokyodisneyresort.jp) 접속 불가로 이용 규칙 확인 못함. 판타지 스프링스 입장 규칙은 12개월 넘은 관광청 페이지에만 있어 검증에서 제외(병합 시 추가한 기록)"
+   }
+  }
+ },
+ "claims": [
+  {
+   "cid": "r1-b16-c1",
+   "field": "location",
+   "text": "도쿄 디즈니 리조트(도쿄 디즈니랜드·디즈니씨·이크스피아리 포함)의 주소는 1-1 Maihama, Urayasu-shi, Chiba-ken이다.",
+   "original_text": null,
+   "value": "1-1 Maihama, Urayasu-shi, Chiba-ken",
+   "verdict": "verified",
+   "verify_note": "Address is on the JNTO page.",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c2",
+   "field": "access",
+   "text": "도쿄 디즈니랜드, 디즈니씨, 이크스피아리는 JR 게이요선 마이하마역에서 걸어서 몇 분 거리이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Stated on JNTO.",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c3",
+   "field": "access",
+   "text": "도쿄역에서 JR로 마이하마역까지 20분, 파크 입구까지 버스로 35분 걸린다.",
+   "original_text": null,
+   "value": "JR 20분 / 버스 35분",
+   "verdict": "verified",
+   "verify_note": "Matches GO TOKYO (stale page, June 2024).",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+     "type": "government",
+     "page_updated": "2024-06-06",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c4",
+   "field": "access",
+   "text": "신주쿠역에서 JR로 마이하마역까지 40분, 파크 입구까지 버스로 50분 걸린다.",
+   "original_text": null,
+   "value": "JR 40분 / 버스 50분",
+   "verdict": "verified",
+   "verify_note": "Matches GO TOKYO (stale page, June 2024).",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+     "type": "government",
+     "page_updated": "2024-06-06",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c5",
+   "field": "access",
+   "text": "하네다공항에서 JR로 마이하마역까지 50분, 파크 입구까지 버스로 45분 걸린다.",
+   "original_text": null,
+   "value": "JR 50분 / 버스 45분",
+   "verdict": "verified",
+   "verify_note": "Matches GO TOKYO (stale page, June 2024).",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+     "type": "government",
+     "page_updated": "2024-06-06",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c6",
+   "field": "access",
+   "text": "나리타공항에서 JR로 마이하마역까지 1시간 20분, 파크 입구까지 버스로 1시간 걸린다.",
+   "original_text": null,
+   "value": "JR 1시간20분 / 버스 1시간",
+   "verdict": "verified",
+   "verify_note": "Matches GO TOKYO (stale page, June 2024).",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+     "type": "government",
+     "page_updated": "2024-06-06",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c7",
+   "field": "description",
+   "text": "도쿄 디즈니씨는 바다의 신화와 전설을 테마로 한 유일한 디즈니 파크이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Only GO TOKYO says 'only Disney Park themed to the myths and legends of the sea'. JNTO says only 'unique park that's only found in Tokyo'.",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+     "type": "government",
+     "page_updated": "2024-06-06",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c8",
+   "field": "description",
+   "text": "도쿄 디즈니씨는 2001년에 문을 열었다.",
+   "original_text": null,
+   "value": "2001",
+   "verdict": "verified",
+   "verify_note": "JNTO: 'Opened in 2001'.",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c9",
+   "field": "description",
+   "text": "도쿄 디즈니씨는 테마 랜드 대신 서로 다른 테마 포트로 이루어져 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "JNTO: 'Instead of themed lands, DisneySea has different themed ports'.",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c10",
+   "field": "description",
+   "text": "도쿄 디즈니씨에는 일본에서만 만날 수 있는 어트랙션 외에 레스토랑, 쇼 등 엔터테인먼트가 있고, 어트랙션에서 풍경을 즐길 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "JNTO: 'scenic and picturesque views from rides only found at DisneySea... restaurants, shows'.",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c11",
+   "field": "reservation",
+   "text": "판타지 스프링스 입장에는 파크 티켓 외에 무료 스탠바이 패스 또는 유료 디즈니 프리미어 액세스(대상 어트랙션용)가 필요하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "rejected",
+   "verify_note": "Text matches GO TOKYO, but a reservation rule needs the operator or managing body as source. GO TOKYO is a tourism bureau page, stale (2024-06-06), and the operator site could not be reached.",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+     "type": "government",
+     "page_updated": "2024-06-06",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-c12",
+   "field": "caution",
+   "text": "스탠바이 패스와 프리미어 액세스는 한정 수량이며, 당일 운영 상황에 따라 판타지 스프링스 입장 제한이 없을 수도 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "rejected",
+   "verify_note": "Same as c11: an operational rule for Fantasy Springs entry backed only by a stale, non-operator page.",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+     "type": "government",
+     "page_updated": "2024-06-06",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-s1",
+   "field": "description",
+   "text": "도쿄 디즈니씨는 8개의 테마 포트로 이루어져 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  },
+  {
+   "cid": "r1-b16-s2",
+   "field": "duration",
+   "text": "JNTO는 도쿄 디즈니랜드와 디즈니씨에서 각각 하루씩 보내고, 두 파크를 모두 즐기려면 여러 날 머무르기를 권한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1556/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b16"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b16",
+   "text": "GO TOKYO (source for c3-c7, c11, c12) was last updated 2024-06-06, more than 12 months ago (stale_source). The Fantasy Springs entry rules must be re-checked on the operator site."
+  },
+  {
+   "run": "r1-b16",
+   "text": "The 'eight themed ports' count appears only on the stale GO TOKYO page."
+  },
+  {
+   "run": "r1-b16",
+   "text": "Operator site tokyodisneyresort.jp could not be reached (curl and WebFetch both timed out on /kr/, /kr/ticket/ and /en/). Hours, closed days, fees, payment, parking and language remain unconfirmed."
+  }
+ ],
+ "legacy": null,
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": [
+   {
+    "run": "r1-b16",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 12,
+    "verdicts": {
+     "verified": 10,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 2,
+     "pending": 0,
+     "suggested": 2
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "공식 사이트 접속 불가. 주차장 이용 여부와 요금 확인하지 못함.",
+   "run": "r1-b16"
+  },
+  {
+   "topic": "stale_source",
+   "note": "GO TOKYO 페이지 갱신일 2024-06-06(12개월 초과)이라 판타지 스프링스 패스 안내는 현재 운영과 다를 수 있음. 공식 운영사 페이지로 재확인 필요.",
+   "run": "r1-b16"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "판타지 스프링스에 들어가려면 파크 티켓 외에 무료 스탠바이 패스나 유료 디즈니 프리미어 액세스가 필요할 수 있다.",
+   "판타지 스프링스는 파크 티켓 외 스탠바이 패스 또는 프리미어 액세스 필요(당일 운영 상황에 따라 제한 없을 수 있음)"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b16"
+ }
+}

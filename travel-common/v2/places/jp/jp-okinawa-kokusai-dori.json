@@ -1,0 +1,585 @@
+{
+ "id": "jp-okinawa-kokusai-dori",
+ "country": "jp",
+ "tier": "A",
+ "status": "verified",
+ "names": {
+  "ko": "국제거리(나하)",
+  "local": "国際通り"
+ },
+ "admin_region": "오키나와현 나하시",
+ "former_region": null,
+ "city": null,
+ "address": "沖縄県那覇市 国際通り(県庁北口交差点 ~ 安里交差点 구간)",
+ "coord": null,
+ "coord_note": "좌표 수집 대기",
+ "summary": "국제거리는 나하 도심을 가로지르는 약 1.6km의 번화가로, 나하 공항에서 15분 거리라 오키나와 관광의 관문으로 불립니다.",
+ "description": "국제거리는 나하 도심을 가로지르는 약 1.6km의 번화가로, 나하 공항에서 15분 거리라 오키나와 관광의 관문으로 불립니다. 길을 따라 약 600개의 상점과 사업장이 이어져 백화점, 식당, 잡화점, 호텔, 기념품 가게를 한 번에 둘러볼 수 있습니다. 매주 일요일 12시부터 18시까지는 약 1,300m 구간이 보행자 우선 도로(트랜짓 마일)로 바뀌어 오픈 카페와 거리 공연이 열리며, 비가 오면 취소됩니다. 마키시의 나하시 관광안내소 코인로커(9:00~19:00)와 역 코인로커, 미에바시 우체국 ATM(7:00~23:00) 같은 편의시설도 가까이 있습니다. 1만 명 에이사 춤 퍼레이드도 이 거리에서 열리며, 2026년에는 10월 18일에 개최됩니다.",
+ "highlights": [
+  "매주 일요일 12:00~18:00 약 1,300m 구간 보행자 우선 도로(비 오면 취소)",
+  "나하 공항에서 15분, 길이 약 1.6km의 오키나와 관광 관문",
+  "약 600개 상점과 사업장이 모인 쇼핑·식사 거리",
+  "1만 명 에이사 춤 퍼레이드(2026년 10월 18일)",
+  "나하시 관광안내소·역 코인로커 이용 가능"
+ ],
+ "checklist": {
+  "location": {
+   "status": "filled",
+   "claims": [
+    "r1-b19-c1"
+   ],
+   "gap": null
+  },
+  "access": {
+   "status": "filled",
+   "claims": [
+    "r1-b19-c2",
+    "r1-b19-c3"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "역에서 도보 시간은 공식 페이지에 명시되지 않음(마키시역·현청앞역 위치만 확인).",
+     "detail": "access.station_walk_time",
+     "run": "r1-b19"
+    }
+   ]
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 권장 소요시간 표기가 없음."
+   }
+  },
+  "hours": {
+   "status": "filled",
+   "claims": [
+    "r1-b19-c4"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "거리 자체의 상시 개방 시간은 공식 페이지에 없고 상점별로 다름(트랜짓 마일 시간만 확인). 2026-10-11 일요일 당일 개최 여부 공지는 확인하지 못함.",
+     "detail": "hours",
+     "run": "r1-b19"
+    }
+   ]
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "거리 자체의 정기 휴무 표기 없음(상점별 상이)."
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 입장료 유무 명시가 없어 '무료'로 단정하지 않음."
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "거리 자체는 예약 안내 없음."
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "결제 수단은 상점별로 달라 공식 일괄 안내 없음."
+   }
+  },
+  "language": {
+   "status": "filled",
+   "claims": [
+    "r1-b19-c14"
+   ],
+   "gap": null
+  },
+  "caution": {
+   "status": "filled",
+   "claims": [
+    "r1-b19-c7",
+    "r1-b19-c8"
+   ],
+   "gap": null
+  }
+ },
+ "claims": [
+  {
+   "cid": "r1-b19-c1",
+   "field": "location",
+   "text": "국제거리는 나하시 현청 북쪽 입구(팔레트 구모지 교차로 직전)에서 아사토 교차로까지 이어지며 길이는 약 1.6km이다.",
+   "original_text": null,
+   "value": "약 1.6km",
+   "verdict": "verified",
+   "verify_note": "naha-navi: 'northern entrance to the Prefectural Office (just before Palette Kumoji intersection) to Asato intersection, roughly 1.6km'. Article posted 2016-03-17 and updated 2020-02-27, so the source is stale (more than 12 months).",
+   "sources": [
+    {
+     "url": "https://www.naha-navi.or.jp/en/magazine/2016/03/11322/",
+     "type": "official",
+     "page_updated": "2020-02-27",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c2",
+   "field": "access",
+   "text": "국제거리는 나하 공항에서 15분 거리에 있으며 오키나와 관광의 관문으로 불린다.",
+   "original_text": null,
+   "value": "공항에서 15분",
+   "verdict": "verified",
+   "verify_note": "'often called the gateway to Okinawan tourism. It lies only 15 minutes from Naha Airport'. The page does not say how you travel (car or monorail). Stale source (2020).",
+   "sources": [
+    {
+     "url": "https://www.naha-navi.or.jp/en/magazine/2016/03/11322/",
+     "type": "official",
+     "page_updated": "2020-02-27",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c3",
+   "field": "access",
+   "text": "일요일 보행자 구간은 현청 북쪽 입구에서 유이레일 마키시역까지로 안내되어, 마키시역이 국제거리 구간 안에 있다.",
+   "original_text": null,
+   "value": "유이레일 마키시역",
+   "verdict": "verified",
+   "verify_note": "naha-navi: Sunday 12-18 'from the north entrance to the Prefectural Office to the Yui Rail Makishi Station'. The current official page instead names the Saion Bridge intersection as the end point and calls it a pedestrian-priority road, not pedestrian-only. Stale source (2020).",
+   "sources": [
+    {
+     "url": "https://www.naha-navi.or.jp/en/magazine/2016/03/11322/",
+     "type": "official",
+     "page_updated": "2020-02-27",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c4",
+   "field": "hours",
+   "text": "트랜짓 마일(보행자 우선 도로)은 매주 일요일 12:00~18:00에 열리며 비가 오면 취소된다.",
+   "original_text": null,
+   "value": "일요일 12:00-18:00",
+   "verdict": "verified",
+   "verify_note": "Official: 'Every Sunday (cancelled in case of rain), from 12:00 to 18:00'.",
+   "sources": [
+    {
+     "url": "https://naha-kokusaidori.okinawa/en/eventinfo/transitmall.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c5",
+   "field": "tip",
+   "text": "트랜짓 마일 구간은 현청 북쪽 출구 교차로와 사이온바시 교차로 사이 약 1,300m이다.",
+   "original_text": null,
+   "value": "약 1,300m",
+   "verdict": "verified",
+   "verify_note": "'about 1,300 meters (between the prefectural office north exit intersection and Saion Bridge intersection)', road about 18m wide.",
+   "sources": [
+    {
+     "url": "https://naha-kokusaidori.okinawa/en/eventinfo/transitmall.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c6",
+   "field": "tip",
+   "text": "트랜짓 마일 시간에는 오픈 카페, 거리 공연, 각종 이벤트, 국제거리 마르셰가 열린다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'open cafes, street performances, various events, and Kokusai-dori Marche'.",
+   "sources": [
+    {
+     "url": "https://naha-kokusaidori.okinawa/en/eventinfo/transitmall.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c7",
+   "field": "caution",
+   "text": "2026년 9월 6일과 9월 27일 트랜짓 마일은 중지 공지가 났으므로, 일요일에 가려면 공식 사이트의 당일 공지를 확인해야 한다.",
+   "original_text": null,
+   "value": "2026-09-06, 2026-09-27 중지",
+   "verdict": "verified",
+   "verify_note": "Top-page notices dated 2026-09-04 and 2026-09-25 cancel the 9/6 and 9/27 events. Both dates have already passed.",
+   "sources": [
+    {
+     "url": "https://naha-kokusaidori.okinawa/en/",
+     "type": "operator",
+     "page_updated": "2026-10-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c8",
+   "field": "caution",
+   "text": "2026년 10월 10일(토)~12일(월)은 나하 오쓰나히키 마쓰리가 열린다고 공식 사이트에 공지되어 있다.",
+   "original_text": null,
+   "value": "2026-10-10~12",
+   "verdict": "verified",
+   "verify_note": "Notice dated 2026-10-08. The linked notice also says the Sunday transit mile is suspended for the festival and that traffic restrictions run on different hours (see suggested_claims). The festival ends 2026-10-12, so this item expires then.",
+   "sources": [
+    {
+     "url": "https://naha-kokusaidori.okinawa/en/",
+     "type": "operator",
+     "page_updated": "2026-10-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c9",
+   "field": "description",
+   "text": "국제거리에는 백화점, 식당, 서비스 업소, 잡화점, 호텔, 기념품 가게 등 약 600개의 상점과 사업장이 있다.",
+   "original_text": null,
+   "value": "약 600곳",
+   "verdict": "verified",
+   "verify_note": "'about 600 shops and other offices ... department stores, restaurants, services, general stores ... hotels and souvenir shops'.",
+   "sources": [
+    {
+     "url": "https://naha-kokusaidori.okinawa/en/",
+     "type": "operator",
+     "page_updated": "2026-10-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c10",
+   "field": "description",
+   "text": "1만 명 에이사 춤 퍼레이드(一万人のエイサー踊り隊)는 국제거리에서 열리며, 2026년 제32회는 10월 18일(일) 14:00~21:00에 개최된다(2025년 제31회는 10월 19일 개최).",
+   "original_text": "매년 8월 오키나와 각 지역 청년 단체가 참가하는 1만 명 에이사 춤 퍼레이드가 국제거리에서 열린다.",
+   "value": "매년 8월",
+   "verdict": "outdated",
+   "verify_note": "The 'every August' wording comes from the 2016/2020 naha-navi article. The official event site ichimannin-eisa.kokusaidoori.jp/en/ shows '第32回 … 2026.10.18 SUN 14:00-21:00 in 国際通り', and the official notice list shows the 31st on 10/19 (2025).",
+   "sources": [
+    {
+     "url": "https://www.naha-navi.or.jp/en/magazine/2016/03/11322/",
+     "type": "official",
+     "page_updated": "2020-02-27",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c11",
+   "field": "tip",
+   "text": "마키시 3-2-10의 나하시 관광안내소에 코인로커가 있으며, 공식 사이트에 표기된 이용 시간은 9:00~19:00이다.",
+   "original_text": "나하시 관광안내소는 마키시 3-2-10에 있으며 9:00~19:00 운영한다.",
+   "value": "9:00-19:00",
+   "verdict": "corrected",
+   "verify_note": "The 3-2-10 Makishi, 9:00-19:00 entry is listed under the 'Coin Lockers' section of areainfo, not as the information center's own opening hours. Naha City Bunkatenbusukan 1F has the same address and hours.",
+   "sources": [
+    {
+     "url": "https://naha-kokusaidori.okinawa/en/areainfo.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c12",
+   "field": "tip",
+   "text": "코인로커는 마키시역과 현청앞역에서 6:00~23:00 이용할 수 있다.",
+   "original_text": null,
+   "value": "6:00-23:00",
+   "verdict": "verified",
+   "verify_note": "Makishi Station and Kencho-mae station coin lockers, 6:00-23:00.",
+   "sources": [
+    {
+     "url": "https://naha-kokusaidori.okinawa/en/areainfo.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c13",
+   "field": "tip",
+   "text": "미에바시 우체국에 ATM이 있으며 7:00~23:00 이용할 수 있다.",
+   "original_text": null,
+   "value": "7:00-23:00",
+   "verdict": "verified",
+   "verify_note": "Miebashi Post Office (1-1-1 Kumoji), ATM and exchange, 7:00-23:00.",
+   "sources": [
+    {
+     "url": "https://naha-kokusaidori.okinawa/en/areainfo.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c14",
+   "field": "language",
+   "text": "국제거리 상점가 공식 사이트는 일본어, 영어, 한국어, 중국어 간체, 중국어 번체로 제공된다.",
+   "original_text": null,
+   "value": "ja/en/ko/zh-Hans/zh-Hant",
+   "verdict": "verified",
+   "verify_note": "Language switcher on the site: 日本語/English/한국어/简体中文/繁體中文. Many event posts are Japanese-only ('only available in 日本語').",
+   "sources": [
+    {
+     "url": "https://naha-kokusaidori.okinawa/en/",
+     "type": "operator",
+     "page_updated": "2026-10-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c15",
+   "field": "tip",
+   "text": "국제거리 상점가 진흥조합 연합회 문의 전화는 098-863-2755이며 평일 10:00~17:00에 받는다.",
+   "original_text": null,
+   "value": "098-863-2755",
+   "verdict": "verified",
+   "verify_note": "098-863-2755, 'Weekdays 10:00 am to 5:00 pm'.",
+   "sources": [
+    {
+     "url": "https://naha-kokusaidori.okinawa/en/",
+     "type": "operator",
+     "page_updated": "2026-10-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-s1",
+   "field": "caution",
+   "text": "나하 오쓰나히키 마쓰리 기간(2026년 10월 10~12일)에는 일요일 트랜짓 마일이 쉬고, 축제용 교통 규제가 평소 트랜짓 마일과 다른 시간에 시행된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://naha-kokusaidori.okinawa/eventinfo/%e2%98%8510%e6%9c%8810%e6%97%a5%e5%9c%9f%e3%83%bb11%e6%97%a5%e6%97%a5%e3%83%bb12%e6%97%a5%e6%9c%88%e3%81%af%e3%80%8c%e9%82%a3%e8%a6%87%e5%a4%a7%e7%b6%b1%e6%8c%bd%e3%81%be%e3%81%a4%e3%82%8a",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-s2",
+   "field": "tip",
+   "text": "국제거리 수하물 보관소(나하시 마쓰오 2-8-19 5층)는 10:00~19:00 연중무휴로 운영한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://naha-kokusaidori.okinawa/en/areainfo.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-s3",
+   "field": "tip",
+   "text": "팔레트 구모지 B1F·1F·2F에 코인로커가 있으며 1F·2F는 24시간, B1F는 10:00~22:00 이용할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://naha-kokusaidori.okinawa/en/areainfo.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-s4",
+   "field": "tip",
+   "text": "환전은 미에바시 우체국(7:00~23:00), 오키나와은행 마키시점(8:00~22:00), 팔레트 구모지 1F(9:00~21:00) 등에서 할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://naha-kokusaidori.okinawa/en/areainfo.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-s5",
+   "field": "tip",
+   "text": "2026년 제32회 1만 명 에이사 춤 퍼레이드는 10월 18일(일) 14:00~21:00 국제거리에서 열린다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.ichimannin-eisa.kokusaidoori.jp/en/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b19",
+   "text": "naha-navi article (posted 2016-03-17, updated 2020-02-27) is a stale source. It gives the transit mile end point as 'Yui Rail Makishi Station' and calls the street 'pedestrian-only'. The official shopping-street page gives 'Saion Bridge intersection', about 1,300m, as a 'pedestrian priority' road."
+  },
+  {
+   "run": "r1-b19",
+   "text": "naha-navi says 10,000 Eisa is held 'every year in August'. The official event site and notices say October (2025-10-19, 2026-10-18)."
+  },
+  {
+   "run": "r1-b19",
+   "text": "Collector-unconfirmed items (fees/hours/closed_days/payment/parking/station walk time/duration): the official pages do not cover them. There is no official statement that the street itself is free to enter."
+  }
+ ],
+ "legacy": null,
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": [
+   {
+    "run": "r1-b19",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 15,
+    "verdicts": {
+     "verified": 13,
+     "corrected": 1,
+     "outdated": 1,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 5
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "국제거리 상점가 공식 사이트·나하 관광협회에서 거리 전체의 주차 요금·주차장 안내를 찾지 못함.",
+   "run": "r1-b19"
+  },
+  {
+   "topic": "source_note",
+   "note": "nahanavi 매거진 글(2016 작성, 2020-02-27 갱신)은 12개월 이상 갱신되지 않아 stale_source. 일요일 보행자 구간을 마키시역까지로, 협회 사이트는 사이온바시 교차로까지 약 1,300m로 서술해 구간 끝점 표기가 다르므로 구간은 협회 사이트 값 사용.",
+   "run": "r1-b19"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'매년 8월에는 1만 명 에이사 춤 퍼레이드가 열립니다' contradicts the outdated c10. It is held in October (2026-10-18).",
+   "'마키시 지구의 나하시 관광안내소(9:00~19:00)' contradicts the corrected c11: 9:00~19:00 are the coin-locker hours at that location.",
+   "The description does not say the Sunday transit mile is suspended for the Naha Otsunahiki festival (2026-10-10~12) or often cancelled (official notices).",
+   "'매년 8월 1만 명 에이사 춤 퍼레이드' contradicts c10 (October, 2026-10-18).",
+   "'마키시 나하시 관광안내소(9:00~19:00)' should be revised in line with the corrected c11 (coin-locker hours)."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b19"
+ }
+}

@@ -2,7 +2,7 @@
  "id": "nature-cbs-02",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "백두산 중국 측 서경구",
   "local": "长白山西景区"
@@ -10,96 +10,443 @@
  "admin_region": "지린성",
  "former_region": null,
  "city": "장백산 보호개발구 츠시·송강하 거점",
- "address": null,
+ "address": "吉林省长白山保护开发区池西区",
  "coord": null,
  "coord_note": "좌표 검증 대기 (geocode confidence: low)",
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "백두산 서파(창바이산 서경구)는 백산시 푸쑹현 쪽에서 산에 들어가는 코스로 소개된다(2021년 게시글). 서경구에는 천지, 창바이산 대협곡, 고산화원, 왕츠가 있으며, 천지를 보려면 1442개 계단을 걸어 올라야 한다.",
+ "description": "백두산 서파(창바이산 서경구)는 백산시 푸쑹현 쪽에서 산에 들어가는 코스로 소개된다(2021년 게시글). 서경구에는 천지, 창바이산 대협곡, 고산화원, 왕츠가 있으며, 천지를 보려면 1442개 계단을 걸어 올라야 한다. 2021년 게시글은 서파에서 천지 전체를 비교적 넓은 시야로 볼 수 있고 대협곡은 길이 70km, 깊이 80~100m라고 소개한다. 입장권은 당일 1회만 유효하고 북·서·남 경구를 각각 따로 예약해야 하며, 예약·요금 규정은 '长白山' 공식 미니프로그램과 현장 공고를 기준으로 한다(2026년 9월 안내).",
+ "highlights": [
+  "천지 전망까지 1442개 계단을 걸어 올라야 함",
+  "서경구 볼거리는 천지, 대협곡, 고산화원, 왕츠",
+  "대협곡은 길이 70km, 깊이 80~100m(2021년 소개)",
+  "입장권은 당일 1회 유효, 북·서·남 경구 별도 예약",
+  "경구 서비스 핫라인 400-000-6789(7:50~19:00)"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c1"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "서경구 산문의 도로명 주소와 '츠시구' 소재 표기는 공식 소개 페이지에 도로명 형태로 없음. address 필드는 행정구역 표기이며 좌표 대조 미실시",
+     "detail": "location",
+     "run": "r1-b22"
+    }
+   ]
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c2"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "북경구-서경구 간 셔틀·공항버스 요금은 2021년 자료만 있어 stale_source로 제외. 현행 서경구 접근 교통은 공식 페이지에서 확인하지 못함",
+     "detail": "access",
+     "run": "r1-b22"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에서 소요시간 안내를 찾지 못함"
    }
   },
   "hours": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "2026년 현재 일일 개방·검표 시간대는 공식 페이지에서 확인하지 못함"
    }
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "정기 휴무일 안내를 공식 페이지에서 찾지 못함"
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c9"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "현행 요금표 공식 근거 없음. 관리위원회 2021-08 게시글에 입장권 105元, 환경버스 85元이 있으나 stale_source라 제외",
+     "detail": "fees",
+     "run": "r1-b22"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c10"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "외국인(여권) 예약, 실명제, 예약 오픈 시점은 공식 페이지에서 확인하지 못함",
+     "detail": "reservation",
+     "run": "r1-b22"
+    }
+   ]
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "외국 카드·현금 사용 가능 여부 공식 안내 없음"
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내 공식 정보 없음"
    }
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c4"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b22-c1",
+   "field": "location",
+   "text": "서경구는 푸쑹현(抚松县) 쪽에서 산에 들어가는 코스라고 관리위원회가 소개했다(2021년 게시글).",
+   "original_text": null,
+   "value": "stale_source",
+   "verdict": "verified",
+   "verify_note": "2021-08-16 (悠游吉林 repost): '西景区从白山市抚松县进山'. Stale, but geographic.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html",
+     "type": "government",
+     "page_updated": "2021-08-16",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c2",
+   "field": "access",
+   "text": "서경구에는 츠시구 유객 집산 센터가 있으며 창바이산 공항에서 서경구 유객 집산 센터까지 18km라고 안내했다(2021년 게시글).",
+   "original_text": null,
+   "value": "18km",
+   "verdict": "verified",
+   "verify_note": "2021-07-26: 长白山机场距长白山西景区游客集散中心仅18公里. The 池西区游客集散中心 is mentioned on the same page. Stale (2021); state the date.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202107/t20210726_210154.html",
+     "type": "government",
+     "page_updated": "2021-07-26",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c3",
+   "field": "description",
+   "text": "서경구에는 천지, 창바이산 대협곡(진장 대협곡), 고산화원, 왕츠가 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "2024-10-17 reply: 天池、长白山大峡谷(锦江大峡谷)、高山花园、王池.",
+   "sources": [
+    {
+     "url": "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html",
+     "type": "government",
+     "page_updated": "2024-10-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c4",
+   "field": "caution",
+   "text": "서경구에서 천지를 보려면 1442개 계단을 올라야 한다.",
+   "original_text": null,
+   "value": "1442계단",
+   "verdict": "verified",
+   "verify_note": "Both the 2024-10-17 reply and the 2021 post give 1442 steps. Physical fact.",
+   "sources": [
+    {
+     "url": "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html",
+     "type": "government",
+     "page_updated": "2024-10-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c5",
+   "field": "hours",
+   "text": "왕츠는 7월 1일부터 9월 15일까지 개방된다(2024년 10월 답변).",
+   "original_text": null,
+   "value": "7/1-9/15",
+   "verdict": "unverifiable",
+   "verify_note": "The 2024-10-17 reply does say 王池 is open 7月1日到9月15日. This is an open-season rule over 12 months old and no current official page confirms it. Today (Oct) is outside that season anyway.",
+   "sources": [
+    {
+     "url": "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html",
+     "type": "government",
+     "page_updated": "2024-10-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c6",
+   "field": "hours",
+   "text": "고산화원은 매년 7월부터 7월 중순 무렵까지 개방된다고 답변했다(2024년 10월).",
+   "original_text": null,
+   "value": "7월~7월 중순",
+   "verdict": "unverifiable",
+   "verify_note": "The 2024-10-17 reply says 每年7月到7月中旬左右开放. The wording matches, but it is a stale open-season rule with no current confirmation.",
+   "sources": [
+    {
+     "url": "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html",
+     "type": "government",
+     "page_updated": "2024-10-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c7",
+   "field": "hours",
+   "text": "북·서 경구는 연중 개방된다(2024년 10월 답변).",
+   "original_text": null,
+   "value": "stale_source",
+   "verdict": "unverifiable",
+   "verify_note": "Same as nature-cbs-01 c4: a stale 2024 operating rule with no current confirmation.",
+   "sources": [
+    {
+     "url": "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html",
+     "type": "government",
+     "page_updated": "2024-10-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c8",
+   "field": "caution",
+   "text": "천지 구간은 날씨와 도로 상황을 보고 개방 여부를 정한다(2024년 10월 답변).",
+   "original_text": null,
+   "value": "stale_source",
+   "verdict": "unverifiable",
+   "verify_note": "Same as nature-cbs-01 c5: a stale 2024-10-16 operating rule with no current confirmation.",
+   "sources": [
+    {
+     "url": "http://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241016_265033.html",
+     "type": "government",
+     "page_updated": "2024-10-16",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c9",
+   "field": "fees",
+   "text": "현행 입장권은 당일 1회만 유효하며 북·서·남 경구는 각각 따로 예약·구매한다.",
+   "original_text": null,
+   "value": "당일 당회 유효; 북·서·남 별도",
+   "verdict": "verified",
+   "verify_note": "2026-09-17 reply.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html",
+     "type": "government",
+     "page_updated": "2026-09-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c10",
+   "field": "reservation",
+   "text": "예약·요금 규정은 ‘长白山’ 공식 미니프로그램과 현장 공고를 기준으로 하라고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "2026-09-17 reply. Correct wording: '长白山' 官方小程序 and 景区现场公告.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html",
+     "type": "government",
+     "page_updated": "2026-09-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c11",
+   "field": "tip",
+   "text": "경구 공식 서비스 핫라인은 400-000-6789이며 7:50-19:00 운영된다.",
+   "original_text": null,
+   "value": "400-000-6789 (7:50-19:00)",
+   "verdict": "verified",
+   "verify_note": "400-000-6789 (7:50—19:00).",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html",
+     "type": "government",
+     "page_updated": "2026-09-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c12",
+   "field": "description",
+   "text": "서경구는 천지 전체를 비교적 넓은 시야로 볼 수 있는 곳이고 환경버스는 산 중턱까지만 간다(2021년 게시글).",
+   "original_text": null,
+   "value": "stale_source",
+   "verdict": "verified",
+   "verify_note": "2021: 视野较开阔，可以平视天池全景; 环保车只能开到半山腰. The bus arrangement is from 2021; state the date.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html",
+     "type": "government",
+     "page_updated": "2021-08-16",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c13",
+   "field": "description",
+   "text": "창바이산 대협곡은 길이 70km, 깊이 80~100m로 소개된다(2021년 게시글).",
+   "original_text": null,
+   "value": "70km / 80-100m",
+   "verdict": "verified",
+   "verify_note": "2021: 大峡谷长70公里，谷深80-100米.",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html",
+     "type": "government",
+     "page_updated": "2021-08-16",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c14",
+   "field": "highlight",
+   "text": "천지를 보려면 1442개 계단을 올라야 한다.",
+   "original_text": null,
+   "value": "1442계단",
+   "verdict": "verified",
+   "verify_note": "1442 steps (2024-10-17).",
+   "sources": [
+    {
+     "url": "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html",
+     "type": "government",
+     "page_updated": "2024-10-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-s1",
+   "field": "description",
+   "text": "서경구에는 제자하(梯子河), 진장 폭포(총 낙차 약 70m), 원앙지(鸳鸯池) 등도 있다고 소개된다(2021년 게시글).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b22",
+   "text": "The 2024-10-17 reply equates 长白山大峡谷 with 锦江大峡谷. The 2021-08-16 post lists 长白山大峡谷 and 锦江峡谷 as separate sights. Use the 2024 wording with care."
+  },
+  {
+   "run": "r1-b22",
+   "text": "access, fees, hours: no current official source found in 2 lookups. The 2021 post's fees (105/85元) and the 2021 airport-bus and inter-area bus details are stale."
+  },
+  {
+   "run": "r1-b22",
+   "text": "Stale sources: 2021-07-26 (c2), 2021-08-16 (c1, c12, c13), 2024-10-16 (c8), 2024-10-17 (c3–c7, c14)."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -194,6 +541,50 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b22",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 14,
+    "verdicts": {
+     "verified": 10,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 4,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 1
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "서경구 주차장·요금 공식 정보 없음",
+   "run": "r1-b22"
+  },
+  {
+   "topic": "official_unreachable",
+   "note": "mp.weixin.qq.com 공식 계정 글(북·서 경구 입구 추천)은 환경 이상 인증 요구로 열리지 않음(official_unreachable)",
+   "run": "r1-b22"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "연중 개방된다 (c7 unverifiable)",
+   "고산화원은 7월부터 7월 중순 무렵, 왕츠는 7월 1일부터 9월 15일까지 열린다고 안내된다 (c5 and c6 unverifiable: stale 2024 season rules)",
+   "날씨에 따라 천지 개방 여부가 정해지므로 출발 전 공식 공지를 확인하는 것이 좋다 (c8 unverifiable)",
+   "츠시구 쪽에서 오르는 코스: only indirectly supported, by the 2021 mention of the 池西区/西景区 visitor centre (c2)",
+   "왕츠는 7월 1일~9월 15일, 고산화원은 7월~7월 중순 무렵 개방 (c5 and c6 unverifiable)",
+   "북·서 경구는 연중 개방 (c7 unverifiable)"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b22"
  }
 }

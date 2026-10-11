@@ -1,0 +1,817 @@
+[
+ {
+  "key": "nature-cbs-01",
+  "name_ko": "백두산 중국 측 북경구",
+  "name_local": "长白山北景区",
+  "admin_region": "지린성 창바이산 보호개발구 츠베이구(池北区)",
+  "address": "吉林省长白山保护开发区池北区",
+  "description": "백두산 북파(長白山 북경구)는 지린성 창바이산 보호개발구 츠베이구 쪽에서 오르는 코스다. 북경구에는 천지, 폭포, 온천군, 소천지, 뤼위안탄, 지하삼림이 있다고 안내된다. 입장권은 당일 1회만 유효하고 북·서·남 경구는 각각 따로 예약해 구매해야 한다. 성수기에는 시간대별 예약과 사전 점검을 거쳐 안면 인식 검표소에서 확인한 뒤 경구 버스로 핵심 구역에 간다. 2026년 10월 1일부터 북파 스마트 주차빌딩(552면)이 운영되고, 츠베이구 시내버스 1·3호선이 교통집산센터까지 다닌다. 천지는 날씨와 도로 상황에 따라 열리지 않을 수 있으므로 출발 전 공식 안내를 확인해야 한다.",
+  "highlights": [
+   "북경구 볼거리는 천지, 폭포, 온천군, 소천지, 뤼위안탄, 지하삼림",
+   "입장권은 당일 1회 유효, 북·서·남 경구 별도 예약",
+   "시간대별 예약 후 사전 점검과 안면 인식 검표를 거쳐 경구 버스 탑승",
+   "2026년 10월 1일 북파 스마트 주차빌딩(552면) 운영 개시",
+   "츠베이구 시내버스 1·3호선으로 교통집산센터 이동 가능"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "관리 기관인 창바이산 보호개발구 관리위원회의 주소가 지린성 창바이산 보호개발구 츠베이구로 표기되어 있다.",
+    "value": "吉林省长白山保护开发区池北区",
+    "urls": [
+     "http://www.changbaishan.gov.cn/mtcbs/202610/t20261009_272015.html"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "북경구는 이도백하(二道白河) 진을 거쳐 산에 들어간다고 관리위원회 페이지에 적혀 있다(2021년 게시글).",
+    "value": "stale_source",
+    "urls": [
+     "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "북경구에는 천지, 폭포, 온천군, 소천지, 뤼위안탄(绿渊潭), 지하삼림(谷底森林)이 있다고 관리위원회가 답변했다(2024년 10월).",
+    "value": "stale_source",
+    "urls": [
+     "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "hours",
+    "text": "북·서 경구는 연중 개방된다고 관리위원회가 답변했다(2024년 10월 게시, 계절별 시간표는 아님).",
+    "value": "stale_source",
+    "urls": [
+     "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "caution",
+    "text": "천지 구간은 날씨와 도로 상황을 보고 개방 여부를 정한다(2024년 10월 답변).",
+    "value": "stale_source",
+    "urls": [
+     "http://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241016_265033.html"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "fees",
+    "text": "현행 입장권은 당일 1회만 유효하며, 북·서·남 경구는 각각 따로 예약·구매해야 한다.",
+    "value": "당일 당회 유효; 북·서·남 별도",
+    "urls": [
+     "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "fees",
+    "text": "북·서 경구 5일 유효 연계 입장권 정책은 2023년 7월 1일 폐지되었다.",
+    "value": "2023-07-01 폐지",
+    "urls": [
+     "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "reservation",
+    "text": "예약·요금 규정은 공식 소정청(‘长白山’ 미니프로그램)과 현장 공고를 기준으로 하라고 안내한다.",
+    "value": null,
+    "urls": [
+     "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "tip",
+    "text": "경구 공식 서비스 핫라인은 400-000-6789이며 운영 시간은 7:50-19:00이다.",
+    "value": "400-000-6789 (7:50-19:00)",
+    "urls": [
+     "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "reservation",
+    "text": "2026년 10월 국경절 연휴에 북경구는 시간대별 예약과 시차 입장을 핵심으로 운영했다.",
+    "value": null,
+    "urls": [
+     "http://www.changbaishan.gov.cn/zbsly/lydt/202610/t20261008_272004.html"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "access",
+    "text": "츠베이구 교통집산센터에서 사전 점검 통로를 거친 뒤 A관 검표구에서 안면 인식으로 확인하고, 경구 버스로 핵심 관람 구역에 간다.",
+    "value": null,
+    "urls": [
+     "http://www.changbaishan.gov.cn/zbsly/lydt/202610/t20261008_272004.html"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "access",
+    "text": "교통집산센터 B관에는 대기 구역이 있고 매표 상담·식당·화장실이 갖춰져 있다.",
+    "value": null,
+    "urls": [
+     "http://www.changbaishan.gov.cn/zbsly/lydt/202610/t20261008_272004.html"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "parking",
+    "text": "2026년 10월 1일 북파 스마트 주차빌딩이 개장했고 주차면은 552개(SUV 전용 336개)다.",
+    "value": "552면",
+    "urls": [
+     "http://www.changbaishan.gov.cn/mtcbs/202610/t20261009_272015.html"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "parking",
+    "text": "주차빌딩은 온라인 예약 입출고와 실시간 빈자리 확인 기능을 갖췄고, 차량 인출은 평균 약 80초 걸린다.",
+    "value": "약 80초",
+    "urls": [
+     "http://www.changbaishan.gov.cn/mtcbs/202610/t20261009_272015.html"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "caution",
+    "text": "국경절 연휴(2026) 기간 주차빌딩이 거의 만차였고 성수기 자가용 이용 시 주차가 빠듯하다고 설명한다.",
+    "value": null,
+    "urls": [
+     "http://www.changbaishan.gov.cn/mtcbs/202610/t20261009_272015.html"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "access",
+    "text": "츠베이구 시내버스 1호선은 창바이산 기차역에서 츠베이구 교통집산센터까지 가며 첫차 7:00, 막차 18:20, 요금 2위안이다.",
+    "value": "첫차 7:00 / 막차 18:20 / 2元",
+    "urls": [
+     "http://www.changbaishan.gov.cn/zbsly/lyfw/jt/202607/t20260728_271246.html"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "access",
+    "text": "시내버스 3호선도 창바이산 역에서 츠베이구 교통집산센터까지 운행하며 첫차 7:00, 막차 18:20, 요금 2위안이다.",
+    "value": "첫차 7:00 / 막차 18:20 / 2元",
+    "urls": [
+     "http://www.changbaishan.gov.cn/zbsly/lyfw/jt/202607/t20260728_271246.html"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "tip",
+    "text": "시내버스 노선·정류장은 비상 상황이나 날씨로 바뀔 수 있고 문의 전화는 0433-5675666이다.",
+    "value": "0433-5675666",
+    "urls": [
+     "http://www.changbaishan.gov.cn/zbsly/lyfw/jt/202607/t20260728_271246.html"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "description",
+    "text": "창바이산 천지는 세계에서 가장 높은 곳에 있는 화산 호수이며 북경구에서는 천지를 내려다보는 시점이다(2021년 게시글).",
+    "value": "stale_source",
+    "urls": [
+     "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "highlight",
+    "text": "북경구 볼거리는 천지, 폭포, 온천군, 소천지, 뤼위안탄, 지하삼림이다.",
+    "value": null,
+    "urls": [
+     "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "highlight",
+    "text": "입장권은 당일 1회 유효하고 북·서·남 경구는 각각 예약한다.",
+    "value": null,
+    "urls": [
+     "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "duration",
+   "hours",
+   "closed_days",
+   "fees",
+   "reservation",
+   "payment",
+   "language",
+   "parking",
+   "location",
+   "official_unreachable"
+  ]
+ },
+ {
+  "key": "nature-cbs-02",
+  "name_ko": "백두산 중국 측 서경구",
+  "name_local": "长白山西景区",
+  "admin_region": "지린성 창바이산 보호개발구 츠시구(池西区)",
+  "address": "吉林省长白山保护开发区池西区",
+  "description": "백두산 서파(長白山 서경구)는 지린성 창바이산 보호개발구 츠시구 쪽에서 오르는 코스로, 관리위원회 자료에 따르면 푸쑹현 쪽에서 산에 들어가며 연중 개방된다. 천지를 보려면 1442개 계단을 올라야 하며, 서경구에는 천지 외에 창바이산 대협곡(진장 대협곡)과 고산화원, 왕츠 호수가 있다. 고산화원은 7월부터 7월 중순 무렵, 왕츠는 7월 1일부터 9월 15일까지 열린다고 안내된다. 입장권은 당일 1회만 유효하고 북·서·남 경구를 각각 따로 예약해야 한다. 날씨에 따라 천지 개방 여부가 정해지므로 출발 전 공식 공지를 확인하는 것이 좋다.",
+  "highlights": [
+   "천지 전망까지 1442개 계단을 걸어 올라야 함",
+   "서경구 볼거리는 천지, 대협곡, 고산화원, 왕츠 호수",
+   "왕츠는 7월 1일~9월 15일, 고산화원은 7월~7월 중순 무렵 개방",
+   "입장권은 당일 1회 유효, 북·서·남 경구 별도 예약",
+   "북·서 경구는 연중 개방"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "서경구는 푸쑹현(抚松县) 쪽에서 산에 들어가는 코스라고 관리위원회가 소개했다(2021년 게시글).",
+    "value": "stale_source",
+    "urls": [
+     "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "서경구에는 츠시구 유객 집산 센터가 있으며 창바이산 공항에서 서경구 유객 집산 센터까지 18km라고 안내했다(2021년 게시글).",
+    "value": "18km",
+    "urls": [
+     "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202107/t20210726_210154.html"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "서경구에는 천지, 창바이산 대협곡(진장 대협곡), 고산화원, 왕츠가 있다.",
+    "value": null,
+    "urls": [
+     "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "caution",
+    "text": "서경구에서 천지를 보려면 1442개 계단을 올라야 한다.",
+    "value": "1442계단",
+    "urls": [
+     "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "hours",
+    "text": "왕츠는 7월 1일부터 9월 15일까지 개방된다(2024년 10월 답변).",
+    "value": "7/1-9/15",
+    "urls": [
+     "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "hours",
+    "text": "고산화원은 매년 7월부터 7월 중순 무렵까지 개방된다고 답변했다(2024년 10월).",
+    "value": "7월~7월 중순",
+    "urls": [
+     "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "북·서 경구는 연중 개방된다(2024년 10월 답변).",
+    "value": "stale_source",
+    "urls": [
+     "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "caution",
+    "text": "천지 구간은 날씨와 도로 상황을 보고 개방 여부를 정한다(2024년 10월 답변).",
+    "value": "stale_source",
+    "urls": [
+     "http://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241016_265033.html"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "fees",
+    "text": "현행 입장권은 당일 1회만 유효하며 북·서·남 경구는 각각 따로 예약·구매한다.",
+    "value": "당일 당회 유효; 북·서·남 별도",
+    "urls": [
+     "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "reservation",
+    "text": "예약·요금 규정은 ‘长白山’ 공식 미니프로그램과 현장 공고를 기준으로 하라고 안내한다.",
+    "value": null,
+    "urls": [
+     "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "tip",
+    "text": "경구 공식 서비스 핫라인은 400-000-6789이며 7:50-19:00 운영된다.",
+    "value": "400-000-6789 (7:50-19:00)",
+    "urls": [
+     "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "description",
+    "text": "서경구는 천지 전체를 비교적 넓은 시야로 볼 수 있는 곳이고 환경버스는 산 중턱까지만 간다(2021년 게시글).",
+    "value": "stale_source",
+    "urls": [
+     "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "description",
+    "text": "창바이산 대협곡은 길이 70km, 깊이 80~100m로 소개된다(2021년 게시글).",
+    "value": "70km / 80-100m",
+    "urls": [
+     "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "highlight",
+    "text": "천지를 보려면 1442개 계단을 올라야 한다.",
+    "value": "1442계단",
+    "urls": [
+     "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "duration",
+   "hours",
+   "closed_days",
+   "fees",
+   "reservation",
+   "payment",
+   "language",
+   "access",
+   "parking",
+   "location",
+   "official_unreachable"
+  ]
+ },
+ {
+  "key": "cd-panda-base",
+  "name_ko": "청두 판다번식연구기지",
+  "name_local": "成都大熊猫繁育研究基地",
+  "admin_region": "쓰촨성 청두시 청화구",
+  "address": "四川省成都市成华区熊猫大道1375号",
+  "description": "청두 판다번식연구기지는 쓰촨성 청두시 청화구 슝마오다다오 1375호에 있으며, 1987년에 설립되어 핵심 구역 면적이 3570무에 이른다. 시내 톈푸광장에서 10km 떨어져 있다. 지하철 3호선에서 셔틀버스를 타면 서문과 남문에 닿는다. 입장은 온라인 실명 예약이 원칙이며 성인 입장권은 55위안이다. 3~10월에는 오전권 7:30-12:00, 오후권 12:00-17:00에 입장하고 18:00부터 폐원 정리가 시작된다. 판다탑은 무료이지만 예약이 필요하다. 원내 관광차는 30위안이고, 저장고와 유모차 대여는 무료다.",
+  "highlights": [
+   "성인 입장권 55위안, 60세 이상과 6세 이하 또는 1.3m 이하 어린이는 무료",
+   "3~10월 오전권 7:30-12:00, 오후권 12:00-17:00",
+   "판다탑 9:00-17:00 개방, 무료지만 예약 필요",
+   "원내 관광차 30위안, 남문과 서문을 잇는 노선",
+   "지하철 3호선에서 셔틀버스로 서문·남문 이동"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "주소는 중국 쓰촨성 청두시 청화구 슝마오다다오 1375호다.",
+    "value": "四川省成都市成华区熊猫大道1375号",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/opentime"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "기지는 시내 중심(톈푸광장)에서 10km, 솽류 국제공항에서 약 30km, 톈푸 국제공항에서 약 50km 떨어져 있다.",
+    "value": "10km / 30km / 50km",
+    "urls": [
+     "https://www.panda.org.cn/cn/about"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "기지는 1987년에 설립되었고 핵심 구역 면적은 3570무다.",
+    "value": "1987 / 3570무",
+    "urls": [
+     "https://www.panda.org.cn/cn/about"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "서문은 지하철 3호선 군구총병원(军区总医院)역 B출구 후 도보 20m 정류장에서 409번 셔틀을 타면 약 10분에 도착한다.",
+    "value": "약 10분",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/transit"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "서문은 110·110A·659번 버스로 위레이로 추이웨이로 입구역에서 내려 600m 걸어도 된다.",
+    "value": "600m",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/transit"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "access",
+    "text": "남문은 지하철 3호선 슝마오다다오(熊猫大道)역 A출구에서 408번 셔틀로 바로 갈 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.panda.org.cn/cn/service/transit"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "access",
+    "text": "남문은 지하철 3호선 동물원(动物园)역에서 655번 또는 87번 버스로도 갈 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.panda.org.cn/cn/service/transit"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "access",
+    "text": "춘시루·콴자이샹즈 등 시내 명소에서 출발하는 경구 직통 대형버스 전용 노선이 있다.",
+    "value": null,
+    "urls": [
+     "https://www.panda.org.cn/cn/service/transit"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "access",
+    "text": "택시 참고 요금은 춘시루에서 약 40위안(25-35분), 청두동역에서 약 40위안(25-30분)이다.",
+    "value": "춘시루 약40元 25-35분; 청두동역 약40元 25-30분",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/transit"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "access",
+    "text": "택시 참고 요금은 솽류 국제공항에서 약 100위안(40-50분), 톈푸 국제공항에서 약 200위안(60-70분)이다.",
+    "value": "쌍류 약100元 40-50분; 톈푸 약200元 60-70분",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/transit"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "parking",
+    "text": "서문으로 자가운전할 경우 ‘보링후이 지하주차장’을 내비 목적지로 하고 D569번 셔틀로 갈아탄다.",
+    "value": null,
+    "urls": [
+     "https://www.panda.org.cn/cn/service/transit"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "parking",
+    "text": "남문으로 자가운전할 경우 ‘잉잉주차장’에 주차하고 약 15분 걸어간다.",
+    "value": "도보 약 15분",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/transit"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "hours",
+    "text": "3~10월 입장 시간은 오전권 7:30-12:00, 오후권 12:00-17:00이며 18:00부터 폐원 정리를 시작한다.",
+    "value": "3-10월",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/opentime"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "hours",
+    "text": "11월~다음 해 2월 입장 시간은 오전권 8:00-12:00, 오후권 12:00-16:30이며 17:30부터 폐원 정리를 시작한다.",
+    "value": "11-2월",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/opentime"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "hours",
+    "text": "판다탑(熊猫塔)은 9:00-17:00 개방하고 16:30에 입장을 마감한다.",
+    "value": "9:00-17:00 (16:30 마감)",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/opentime"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "hours",
+    "text": "서문·남문 방문자 센터는 3~10월 7:30-18:00, 11월~다음 해 2월 8:00-17:30 운영한다.",
+    "value": null,
+    "urls": [
+     "https://www.panda.org.cn/cn/service/opentime"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "closed_days",
+    "text": "판다 6호 별장 구역은 매주 월요일 폐관하며 법정 공휴일은 제외다.",
+    "value": "월요일(법정공휴일 제외)",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/notice"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "closed_days",
+    "text": "판다 미술관은 월요일 폐관 정비하며 법정 공휴일은 제외다.",
+    "value": "월요일(법정공휴일 제외)",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/notice"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "fees",
+    "text": "성인권은 55위안이며 18세 초과~59세(포함) 대상이다.",
+    "value": "55元",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/ticket"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "fees",
+    "text": "학생권은 27위안이며 대학 본과 이하 재학생(성인교육 제외)이 대상이다.",
+    "value": "27元",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/ticket"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "fees",
+    "text": "60세 이상 노인은 무료이며 예약이 필요 없고 신분증 원본으로 확인 후 입장한다.",
+    "value": "무료",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/ticket"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "fees",
+    "text": "6세 이하 또는 키 1.3m 이하 어린이는 무료이며 예약이 필요 없다.",
+    "value": "무료",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/ticket"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "fees",
+    "text": "현역·퇴역 군인, 장애인, 단체 가이드 등 우대 대상은 무료이나 표는 예약하고 증빙을 내야 한다(‘免费不免票’).",
+    "value": "무료(표 필요)",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/ticket"
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "fees",
+    "text": "1인 연간 이용권은 168위안이며 7~59세 대상이다.",
+    "value": "168元/年",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/ticket"
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "fees",
+    "text": "판다탑은 입장료는 무료이나 온라인 예약이 필요하고, 60세 이상은 신분증 카드로 예약 없이 입장한다.",
+    "value": "무료(예약 필요)",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/opentime"
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "fees",
+    "text": "원내 관광차 전일권은 1인 30위안이며 1.3m 이상 방문자는 모두 구매해야 하고 어느 정류장에서도 탈 수 있다.",
+    "value": "30元",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/sightseeingbus"
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "fees",
+    "text": "관광차 월 정기권은 298위안이며 실명 온라인 구매, 본인만 사용 가능하다.",
+    "value": "298元/월",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/sightseeingbus"
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "fees",
+    "text": "셀프 오디오 가이드 대여료는 전체 구역 30위안/대/일, 박물관 20위안/대/일이다.",
+    "value": "30元 / 20元",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/explain"
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "fees",
+    "text": "방문자 센터의 짐 보관은 무료이며 유모차·휠체어·우산 등 대여도 무료다.",
+    "value": "무료",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/notice"
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "reservation",
+    "text": "60세 이상과 6세 이하(또는 1.3m 이하) 어린이를 제외한 모든 방문자는 온라인 실명 예약 후 예약 시 입력한 본인 신분증을 가져가야 한다.",
+    "value": null,
+    "urls": [
+     "https://www.panda.org.cn/cn/service/ticket"
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "reservation",
+    "text": "신분 확인용 증빙에 여권, 대만·홍콩·마카오 통행증, 외국인 영주증이 포함된다.",
+    "value": "여권 인정",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/ticket"
+    ]
+   },
+   {
+    "cid": "c32",
+    "field": "reservation",
+    "text": "입장권은 14일 전부터 온라인 예약이 가능하고 당일 매진되면 판매가 끝난다.",
+    "value": "14일 전",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/ticket"
+    ]
+   },
+   {
+    "cid": "c33",
+    "field": "reservation",
+    "text": "예약 채널은 공식 위챗 공식계정·미니프로그램과 메이퇀, 트립닷컴, 더우인, 퉁청 등 공식 제휴 플랫폼이다.",
+    "value": null,
+    "urls": [
+     "https://www.panda.org.cn/cn/service/ticket"
+    ]
+   },
+   {
+    "cid": "c34",
+    "field": "reservation",
+    "text": "하루 최대 수용 인원은 8.5만 명이며 1인 1증 1표 원칙이라 본인이 아니면 입장할 수 없다.",
+    "value": "85,000명/일",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/ticket"
+    ]
+   },
+   {
+    "cid": "c35",
+    "field": "reservation",
+    "text": "온라인 결제가 어려운 특별한 사정이 있으면 표가 남아 있을 때 현장 매표소에서 구매할 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.panda.org.cn/cn/service/ticket"
+    ]
+   },
+   {
+    "cid": "c36",
+    "field": "reservation",
+    "text": "미사용 표는 방문 당일 17:00부터 30일 안에 구매 채널에서 환불해야 하며 이 규정은 2026년 8월 27일부터 적용된다.",
+    "value": "30일",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/ticket"
+    ]
+   },
+   {
+    "cid": "c37",
+    "field": "payment",
+    "text": "셀프 오디오 가이드는 위챗 또는 알리페이 QR 스캔 후 보증금 면제 인증으로 대여한다.",
+    "value": "위챗/알리페이",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/explain"
+    ]
+   },
+   {
+    "cid": "c38",
+    "field": "language",
+    "text": "셀프 오디오 가이드는 중국어·영어 다국어 선택이 가능하고 위치에 따라 자동 재생된다.",
+    "value": "중·영",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/explain"
+    ]
+   },
+   {
+    "cid": "c39",
+    "field": "language",
+    "text": "인력 해설 서비스 시간은 7:30-17:30이고 서비스 전화는 028-83510022다.",
+    "value": "7:30-17:30",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/explain"
+    ]
+   },
+   {
+    "cid": "c40",
+    "field": "access",
+    "text": "관광차는 3~10월 7:30-17:30 매표, 18:00 운행 종료이고 11월~다음 해 2월은 8:00-17:00 매표, 17:30 운행 종료다.",
+    "value": null,
+    "urls": [
+     "https://www.panda.org.cn/cn/service/sightseeingbus"
+    ]
+   },
+   {
+    "cid": "c41",
+    "field": "caution",
+    "text": "반려동물 동반, 드론·자전거·킥보드 반입, 플래시 사용, 동물 먹이 주기 등이 금지된다.",
+    "value": null,
+    "urls": [
+     "https://www.panda.org.cn/cn/service/notice"
+    ]
+   },
+   {
+    "cid": "c42",
+    "field": "caution",
+    "text": "원내 방사 동물이나 체험형 레서판다와는 3m 이상 거리를 유지해야 한다.",
+    "value": "3m",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/notice"
+    ]
+   },
+   {
+    "cid": "c43",
+    "field": "caution",
+    "text": "악천후·동물 보호·시설 정비 등으로 일부 구역이 임시 폐쇄되거나 동물이 보이지 않을 수 있다.",
+    "value": null,
+    "urls": [
+     "https://www.panda.org.cn/cn/service/notice"
+    ]
+   },
+   {
+    "cid": "c44",
+    "field": "caution",
+    "text": "판다탑은 날씨나 설비 점검으로 임시 중단될 수 있고 동시 200명이 차면 자동으로 입장이 멈춘다.",
+    "value": "200명",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/opentime"
+    ]
+   },
+   {
+    "cid": "c45",
+    "field": "tip",
+    "text": "관광 문의 전화는 028-83510033이다.",
+    "value": "028-83510033",
+    "urls": [
+     "https://www.panda.org.cn/cn/service/opentime"
+    ]
+   },
+   {
+    "cid": "c46",
+    "field": "highlight",
+    "text": "성인 입장권은 55위안이고 60세 이상과 6세 이하 또는 1.3m 이하 어린이는 무료다.",
+    "value": null,
+    "urls": [
+     "https://www.panda.org.cn/cn/service/ticket"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "duration",
+   "closed_days",
+   "payment",
+   "language",
+   "parking",
+   "reservation",
+   "location",
+   "page_updated"
+  ]
+ }
+]

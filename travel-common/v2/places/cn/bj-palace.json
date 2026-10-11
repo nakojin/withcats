@@ -2,7 +2,7 @@
  "id": "bj-palace",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "고궁박물원(자금성)",
   "local": "故宫博物院"
@@ -10,7 +10,7 @@
  "admin_region": "베이징시",
  "former_region": null,
  "city": "베이징",
- "address": null,
+ "address": "北京市景山前街4号 (4 Jingshan Qianjie, Beijing 100009)",
  "coord": {
   "lat": 39.917431,
   "lng": 116.390782,
@@ -21,93 +21,974 @@
   "osm": "node/3884441391"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "고궁박물원은 베이징 한복판에 있는 명·청 시대 궁궐로, 남북 961m, 동서 753m에 면적 72만㎡에 이릅니다.",
+ "description": "고궁박물원은 베이징 한복판에 있는 명·청 시대 궁궐로, 남북 961m, 동서 753m에 면적 72만㎡에 이릅니다. 관람은 남쪽 오문(午门)으로 들어가 북쪽 신무문이나 동화문으로 나가는 일방통행입니다. 월요일은 법정 공휴일을 제외하고 휴관하며, 4~10월에는 8:30에 입장을 시작해 16:00에 입장을 마감하고 17:00에 닫습니다. 입장권은 4~10월 60위안, 11~3월 40위안이고 당일권은 팔지 않으므로 관람 7일 전 20:00부터 공식 채널로 실명 예약해야 합니다. 외국인은 여권으로 예약하며 같은 증명서로 하루 한 장만 예약됩니다. 전용 주차장이 없으니 지하철 1호선 톈안먼둥·톈안먼시역을 이용하세요.",
+ "highlights": [
+  "남북 961m, 동서 753m, 면적 72만㎡의 명·청 궁궐 단지",
+  "오문으로 들어가 신무문·동화문으로 나가는 일방통행 관람",
+  "4~10월 입장권 60위안, 11~3월 40위안(보물관·시계관은 각 10위안)",
+  "관람 7일 전 20:00부터 실명 예약, 외국인은 여권 사용",
+  "지하철 1호선 톈안먼둥·톈안먼시역에서 접근, 전용 주차장 없음"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c3",
+    "r1-b20-c4",
+    "r1-b20-c5",
+    "r1-b20-c6",
+    "r1-b20-c7"
+   ],
+   "gap": null
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c27"
+   ],
+   "gap": null
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c8",
+    "r1-b20-c9"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "영문 페이지(https://intl.dpm.org.cn/visit.html?l=en)는 폐관 시각을 17:00/16:30과 입장마감 16:00/15:30으로 중문 페이지(https://www.dpm.org.cn/Visit.html)와 동일하게 안내하므로 충돌은 없다. 다만 영문 페이지는 저작권 표기가 2023년으로 오래되어 영문 측 '일일 4만 명 제한' 문구는 현재 유효한지 확인하지 못해 제외했다.",
+     "detail": "hours.conflict",
+     "run": "r1-b20"
+    }
+   ]
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c10"
+   ],
+   "gap": null
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c11",
+    "r1-b20-c12",
+    "r1-b20-c13",
+    "r1-b20-c14",
+    "r1-b20-c15",
+    "r1-b20-c16"
+   ],
+   "gap": null
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c17",
+    "r1-b20-c18",
+    "r1-b20-c19",
+    "r1-b20-c20",
+    "r1-b20-c21",
+    "r1-b20-c22",
+    "r1-b20-c23",
+    "r1-b20-c24"
+   ],
+   "gap": null
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "입장권 결제 수단(해외 카드, 현금, 알리페이·위챗페이)과 현장 매표소 결제 가능 여부를 공식 페이지에서 확인하지 못했다."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c25",
+    "r1-b20-c26"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내·한국어 오디오가이드 제공 여부를 공식 페이지에서 확인하지 못했다. 공식 사이트 언어 목록에 한국어가 없다.",
+     "detail": "language.korean",
+     "run": "r1-b20"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c28",
+    "r1-b20-c29",
+    "r1-b20-c30",
+    "r1-b20-c31",
+    "r1-b20-c32"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b20-c1",
+   "field": "location",
+   "text": "주소는 베이징 징산 첸지에(景山前街) 4호(우편번호 100009)이다.",
+   "original_text": null,
+   "value": "4 Jingshan Qianjie, Beijing 100009",
+   "verdict": "verified",
+   "verify_note": "intl Contact: 4 Jingshan Qianjie Beijing 100009",
+   "sources": [
+    {
+     "url": "https://intl.dpm.org.cn/visit.html?l=en",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c2",
+   "field": "description",
+   "text": "고궁박물원은 베이징 도심에 있고 남쪽으로 톈안먼을 지나 접근하며, 남북 961m, 동서 753m, 면적 72만㎡이다.",
+   "original_text": null,
+   "value": "961m x 753m, 720,000㎡",
+   "verdict": "verified",
+   "verify_note": "intl visit page",
+   "sources": [
+    {
+     "url": "https://intl.dpm.org.cn/visit.html?l=en",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c3",
+   "field": "access",
+   "text": "관람객은 모두 남문인 오문(午门)으로 들어가 남에서 북으로 한 방향으로 관람하며, 끝나면 북문인 신무문이나 동문인 동화문으로 나온다.",
+   "original_text": null,
+   "value": "입구 午门 / 출구 神武门·东华门",
+   "verdict": "verified",
+   "verify_note": "导览地图 + 参观须知",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c4",
+   "field": "access",
+   "text": "오문 근처 정류장은 '톈안먼둥(天安门东)'과 '톈안먼시(天安门西)'이며 지하철 1호선과 여러 버스가 선다.",
+   "original_text": null,
+   "value": "天安门东 / 天安门西, 지하철 1호선",
+   "verdict": "verified",
+   "verify_note": "交通路线",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c5",
+   "field": "access",
+   "text": "톈안먼에서 단문을 거쳐 오문에 이르는 통로는 화~일요일 8:00~16:00에 통행할 수 있고, 월요일 휴관일에는 종일 지날 수 없다(실제 개방은 현장 공고 기준).",
+   "original_text": null,
+   "value": "화~일 8:00-16:00",
+   "verdict": "verified",
+   "verify_note": "交通路线",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c6",
+   "field": "access",
+   "text": "동화문은 왕푸징 상업가에서 동안문대가를 따라 서쪽으로 800m 걸어가면 닿고, 서화문은 창안제에서 난창제를 따라 북쪽으로 600m 가면 닿는다.",
+   "original_text": null,
+   "value": "동화문 800m / 서화문 600m",
+   "verdict": "verified",
+   "verify_note": "西华门 is also reachable via 北长街 600m. Note: 西华门 is staff-only",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c7",
+   "field": "parking",
+   "text": "고궁박물원에는 전용 주차장이 없고, 가장 가까운 공영 주차장은 징산 후가(景山后街)에 있으나 주차 면수가 적다.",
+   "original_text": null,
+   "value": "전용 주차장 없음",
+   "verdict": "verified",
+   "verify_note": "交通路线 请注意",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c8",
+   "field": "hours",
+   "text": "성수기(4월 1일~10월 31일)에는 8:30에 입장을 시작하고 16:00에 입장을 마감하며 17:00에 문을 닫는다. 보물관·시계관은 16:10에 입장을 마감한다.",
+   "original_text": null,
+   "value": "8:30 / 입장마감 16:00 (보물관·시계관 16:10) / 폐관 17:00",
+   "verdict": "verified",
+   "verify_note": "开放时间 旺季",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c9",
+   "field": "hours",
+   "text": "비수기(11월 1일~3월 31일)에는 8:30에 입장을 시작하고 15:30에 입장을 마감하며 16:30에 문을 닫는다. 보물관·시계관은 15:40에 입장을 마감한다.",
+   "original_text": null,
+   "value": "8:30 / 입장마감 15:30 (보물관·시계관 15:40) / 폐관 16:30",
+   "verdict": "verified",
+   "verify_note": "开放时间 淡季",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c10",
+   "field": "closed_days",
+   "text": "법정 공휴일을 제외하고 연중 월요일은 종일 휴관한다.",
+   "original_text": null,
+   "value": "월요일(법정 공휴일 제외)",
+   "verdict": "verified",
+   "verify_note": "Intl page: open on Mondays that are national holidays, except Chinese New Year's Eve",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c11",
+   "field": "fees",
+   "text": "대문표(입장권)는 성수기(4월 1일~10월 31일) 60위안, 비수기(11월 1일~3월 31일) 40위안이다.",
+   "original_text": null,
+   "value": "성수기 60 / 비수기 40 CNY",
+   "verdict": "verified",
+   "verify_note": "Visit.html and ticket policy",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c12",
+   "field": "fees",
+   "text": "보물관(珍宝馆)과 시계관(钟表馆) 입장권은 각각 10위안이다.",
+   "original_text": null,
+   "value": "각 10 CNY",
+   "verdict": "verified",
+   "verify_note": "Student/senior price for these galleries: 5元",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c13",
+   "field": "fees",
+   "text": "만 18세 미만 중국 국적자(홍콩·마카오·대만 거주민과 영주권 외국인 포함)는 무료이나 예약은 해야 하며, 만 14세 미만은 성인 1명이 최대 3명까지 동반할 수 있다.",
+   "original_text": null,
+   "value": "18세 미만 무료(예약 필요)",
+   "verdict": "verified",
+   "verify_note": "Ordinary foreign tourists under 18 are NOT free (permanent residents only)",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c14",
+   "field": "fees",
+   "text": "만 18세 이상 본과 이하 학생은 학생권을 사며 성수기·비수기 모두 20위안이고, 학생증이나 학교 소개서가 필요하다.",
+   "original_text": null,
+   "value": "학생 20 CNY",
+   "verdict": "verified",
+   "verify_note": "Excludes adult education and postgraduates",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c15",
+   "field": "fees",
+   "text": "만 60세 이상은 유효한 신분증 원본을 제시하면 입장권이 반값이다(성수기 30위안, 비수기 20위안).",
+   "original_text": null,
+   "value": "성수기 30 / 비수기 20 CNY",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c16",
+   "field": "fees",
+   "text": "장애인(장애인증)과 현역 군인·소방구조 인력은 무료이며, 장애인 보호자는 우대가 없고 예약해야 한다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "Military and firefighters need original ID + work ID",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c17",
+   "field": "reservation",
+   "text": "실명제로 운영하며 당일권은 팔지 않는다. 입장권은 관람 7일 전 20:00부터 예약할 수 있고 당일에만 유효하다.",
+   "original_text": null,
+   "value": "관람 7일 전 20:00 오픈",
+   "verdict": "verified",
+   "verify_note": "个人订票须知 1 / 订票须知 2",
+   "sources": [
+    {
+     "url": "https://ticket.dpm.org.cn/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c18",
+   "field": "reservation",
+   "text": "외국인(중국 본토 외 관광객)은 홍콩·마카오 통행증, 대만 통행증, 거주증, 외국인 영주증 또는 여권으로 예약·검표하며, 같은 증명서로 하루에 한 장만 예약할 수 있다.",
+   "original_text": null,
+   "value": "여권 가능, 증명서당 1일 1장",
+   "verdict": "verified",
+   "verify_note": "Tickets are bound to the holder. Date, slot and person cannot be changed",
+   "sources": [
+    {
+     "url": "https://ticket.dpm.org.cn/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c19",
+   "field": "reservation",
+   "text": "공식 채널은 위챗 '故宫博物院' 미니프로그램이며, 박물관은 어떤 제3자에게도 입장권 대리 판매를 위임하지 않았다고 밝힌다.",
+   "original_text": null,
+   "value": "위챗 '故宫博物院' 미니프로그램",
+   "verdict": "verified",
+   "verify_note": "'故宫博物院' 小程序; no third party authorized",
+   "sources": [
+    {
+     "url": "https://ticket.dpm.org.cn/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c20",
+   "field": "reservation",
+   "text": "예약은 오전·오후 두 시간대로 나뉜다. 오전 예약자는 늦어도 12:00까지, 오후 예약자는 빨라야 11:00부터 검표할 수 있다.",
+   "original_text": null,
+   "value": "오전 ~12:00 / 오후 11:00~",
+   "verdict": "verified",
+   "verify_note": "个人订票须知 5",
+   "sources": [
+    {
+     "url": "https://ticket.dpm.org.cn/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c21",
+   "field": "reservation",
+   "text": "입장 때는 예약에 쓴 증명서 원본을 지참해 오문에서 검표하며, 얼굴 인식 장비를 보조로 써서 실명을 확인한다(얼굴 정보는 저장하지 않는다고 안내).",
+   "original_text": null,
+   "value": "증명서 원본 + 얼굴 인식",
+   "verdict": "verified",
+   "verify_note": "个人订票须知 4",
+   "sources": [
+    {
+     "url": "https://ticket.dpm.org.cn/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c22",
+   "field": "reservation",
+   "text": "구매한 입장권은 사용 후 환불이 안 되며, 미사용 표는 관람 전날 24:00까지 원래 예약 채널에서 환불하면 노쇼로 치지 않는다. 그 후(당일 포함) 환불은 노쇼 1회로 계산된다.",
+   "original_text": null,
+   "value": "환불 마감 전날 24:00",
+   "verdict": "verified",
+   "verify_note": "Policy section: refund still possible until 20:00 on the visit day, but it counts as a no-show",
+   "sources": [
+    {
+     "url": "https://ticket.dpm.org.cn/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c23",
+   "field": "reservation",
+   "text": "180일 안에 노쇼가 3회 쌓이면 3회째 다음 날부터 60일 동안 입장권·전시 예약을 할 수 없다.",
+   "original_text": null,
+   "value": "180일 3회 → 60일 제한",
+   "verdict": "verified",
+   "verify_note": "Policy section of the same page says '半年内(按6个月顺延)', see conflicts",
+   "sources": [
+    {
+     "url": "https://ticket.dpm.org.cn/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c24",
+   "field": "reservation",
+   "text": "무영전 도자관(武英殿陶瓷馆)과 각종 특별·임시 전시는 따로 사전 예약이 필요하다.",
+   "original_text": null,
+   "value": "별도 예약",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://ticket.dpm.org.cn/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c25",
+   "field": "language",
+   "text": "공식 사이트는 영어·스페인어·러시아어·일본어·프랑스어·번체 중국어 버전을 제공하며 한국어 버전은 목록에 없다.",
+   "original_text": null,
+   "value": "English, Español, Русский, 日本語, Français, 繁体中文",
+   "verdict": "verified",
+   "verify_note": "Also 简体中文; no Korean",
+   "sources": [
+    {
+     "url": "https://intl.dpm.org.cn/visit.html?l=en",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c26",
+   "field": "language",
+   "text": "안내 지도에 음성 가이드(语音导览器)와 해설 서비스 위치가 표시된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "服务设施 lists 语音导览器, 讲解. Audio-guide languages are not stated",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c27",
+   "field": "duration",
+   "text": "공식 추천 코스는 2시간 코스, 반나절 코스, 하루 코스로 나뉜다.",
+   "original_text": null,
+   "value": "2시간 / 반나절 / 하루",
+   "verdict": "verified",
+   "verify_note": "两小时游/半日游/一日游",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c28",
+   "field": "caution",
+   "text": "2026-09-01~10-31 연희궁(延禧宫)은 보호 조사로 닫히며 11월 1일 다시 개방된다.",
+   "original_text": null,
+   "value": "11/1 재개방",
+   "verdict": "verified",
+   "verify_note": "Notice dated 2026-08-27. Period 9/1~10/31, reopens 11/1",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c29",
+   "field": "caution",
+   "text": "태화문(太和门)은 8월 3일부터 공사로 봉쇄된다고 공고되었다.",
+   "original_text": null,
+   "value": "2026-08-03부터",
+   "verdict": "verified",
+   "verify_note": "Notice dated 2026-07-31. No end date is given",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c30",
+   "field": "caution",
+   "text": "고건축관·청동기관·무비관은 '임시 폐쇄(暂闭)'로 표시되어 있다.",
+   "original_text": null,
+   "value": "古建馆, 青铜器馆, 武备馆",
+   "verdict": "verified",
+   "verify_note": "Also 营造之道 exhibition (暂闭)",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c31",
+   "field": "caution",
+   "text": "고궁은 세계 최대급 목조 궁전 건물군이라 화재 위험이 크므로 금연이며, 반려동물 반입과 전시장 안 플래시·삼각대 촬영이 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "参观须知",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c32",
+   "field": "caution",
+   "text": "혼잡할 때는 직원의 안내에 따라 질서 있게 관람하고, 소매치기와 호객·상품 권유에 주의하라고 안내한다. 길을 잃으면 경운문 안쪽 서남쪽 방송실로 가면 된다.",
+   "original_text": null,
+   "value": "고궁 파출소 010-65131882",
+   "verdict": "verified",
+   "verify_note": "景运门内西南侧广播室",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c33",
+   "field": "tip",
+   "text": "입장권 문의 고객센터는 400-950-1925이며 연중무휴 08:00~20:00에 운영된다.",
+   "original_text": null,
+   "value": "400-950-1925, 08:00-20:00",
+   "verdict": "verified",
+   "verify_note": "Same page lists another line, 010-86489090, see conflicts",
+   "sources": [
+    {
+     "url": "https://ticket.dpm.org.cn/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c34",
+   "field": "description",
+   "text": "공식 영문 사이트는 고궁을 유네스코 세계유산인 명·청 황궁으로 소개한다.",
+   "original_text": null,
+   "value": "UNESCO World Heritage",
+   "verdict": "verified",
+   "verify_note": "intl index: 'the UNESCO world heritage: the imperial palace of the Ming and Qing dynasties'",
+   "sources": [
+    {
+     "url": "https://intl.dpm.org.cn/index.html?l=en",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c35",
+   "field": "description",
+   "text": "궁성은 높이 10m의 성벽과 폭 52m의 해자로 둘러싸여 있다.",
+   "original_text": null,
+   "value": "성벽 10m / 해자 52m",
+   "verdict": "verified",
+   "verify_note": "intl visit page",
+   "sources": [
+    {
+     "url": "https://intl.dpm.org.cn/visit.html?l=en",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c36",
+   "field": "tip",
+   "text": "입장권 가격표는 '2002년 베이징시 물가국 문서'에 근거해 정해졌다고 공식 페이지에 표기되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "unverifiable",
+   "verify_note": "요금 근거 행정 문서 표기라 여행자용 사실로 공개하지 않음(검증자 권고, 병합 시 처리). 원 노트: 京价(收)字[2002]284、336号. Administrative detail, not useful to travellers",
+   "sources": [
+    {
+     "url": "https://www.dpm.org.cn/Visit.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-s1",
+   "field": "reservation",
+   "text": "외국인 관광객은 온라인 예약 때 여권 번호를 입력해야 하며, 하루 관람객 수는 4만 명으로 제한된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://intl.dpm.org.cn/visit.html?l=en",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-s2",
+   "field": "closed_days",
+   "text": "월요일이 국가 공휴일이면 개방하지만, 섣달그믐(춘절 전날)은 예외이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://intl.dpm.org.cn/visit.html?l=en",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-s3",
+   "field": "reservation",
+   "text": "관람 당일 일행 일부가 오지 못하면 검표 전에 원래 예약 채널이나 오문 '종합서비스창구'(성수기 08:30~16:00)에서 그 사람의 표를 환불해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://ticket.dpm.org.cn/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-s4",
+   "field": "access",
+   "text": "고궁만 관람한다면 동·서 퉁쯔허로(筒子河路)를 따라 오문 입구로 가서 검표하면 된다. 톈안먼 광장과 함께 예약했다면 광장 주변 보안검색대를 거쳐 남에서 북으로 이동한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://ticket.dpm.org.cn/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-s5",
+   "field": "payment",
+   "text": "(확인 불가) 공식 페이지에는 '원래 결제 계좌로 5영업일 안에 환불'이라는 문구만 있고, 결제 수단(위챗페이 등)이나 외국 카드 사용 여부는 적혀 있지 않다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://ticket.dpm.org.cn/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b20",
+   "text": "ticket.dpm.org.cn still shows stale COVID text (a 72-hour negative nucleic-acid test is required) in two blocks. Do not publish it, since it contradicts current practice."
+  },
+  {
+   "run": "r1-b20",
+   "text": "Same page, two customer-service lines: 400-950-1925 (08:00-20:00, open all year) in 个人订票须知, and 010-86489090 (08:00-20:00, closed Mondays except holidays) in 票务政策. Visit.html and the intl page give 400-950-1925."
+  },
+  {
+   "run": "r1-b20",
+   "text": "No-show window: 个人订票须知 says '180日内', 票务政策 says '半年内(按6个月顺延计算)'."
+  },
+  {
+   "run": "r1-b20",
+   "text": "'八一' Army Day free-entry groups differ between Visit.html and the ticket policy section (administrative, low impact)."
+  },
+  {
+   "run": "r1-b20",
+   "text": "intl.dpm.org.cn footer reads 'Copyright 2023'. The intl page has no update date, so it may be stale. Its hours and prices match the Chinese pages."
+  },
+  {
+   "run": "r1-b20",
+   "text": "hours.conflict: none found. The ticket page shows only peak hours 08:30/16:00/17:00 with no period label, which matches the 4/1-10/31 peak season."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -181,6 +1062,43 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b20",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 36,
+    "verdicts": {
+     "verified": 35,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 1,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 5
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "admin_region.district",
+   "note": "공식 페이지에 구(区) 단위 주소 표기가 없어 '베이징시'까지만 기재했다.",
+   "run": "r1-b20"
+  },
+  {
+   "topic": "stale_source",
+   "note": "https://ticket.dpm.org.cn/ 페이지에 과거 코로나 방역(72시간 핵산 음성 증명) 안내 팝업이 남아 있다. 현행 규정으로 보기 어려워 제외했다.",
+   "run": "r1-b20"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b20"
  }
 }

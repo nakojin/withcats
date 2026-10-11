@@ -1,0 +1,562 @@
+{
+ "places": [
+  {
+   "key": "new:jp-chiba-tokyo-disneyland",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO page shows the address '1-1 Maihama, Urayasu-shi, Chiba-ken'. The page has no update date."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO: 'actually located in Urayasu, Chiba Prefecture, right around the bay from Tokyo'."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO: 'just a few minutes walk from JR Maihama Station on the Keiyo Line'."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches GO TOKYO, but that page says 'Updated: June 6, 2024', which is more than 12 months old."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches GO TOKYO (stale page, June 2024)."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches GO TOKYO (stale page, June 2024)."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches GO TOKYO (stale page, June 2024)."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO: 'directly from Tokyo Station by bus' and 'directly accessible from the airport by bus'."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Stated on both JNTO and GO TOKYO."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO lists these 7 areas. GO TOKYO says 'eight themed lands' (see conflicts)."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Stated on JNTO."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO names 'Star Tours: The Adventures Continue', 'Monsters, Inc. Ride & Go Seek!' and \"Pooh's Hunny Hunt\"."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO: 'attractions and experiences that are unique to Japan's Disney parks'."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO writes 'Electric Parade Dreamlights ... takes place year-round'. The page is undated, and the year-round schedule could not be checked against the operator because tokyodisneyresort.jp timed out."
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO: 'World Bazaar, which is totally original to Tokyo Disneyland'."
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "duration",
+     "text": "JNTO는 도쿄 디즈니랜드와 디즈니씨에서 각각 하루씩 보내고, 두 파크를 모두 즐기려면 여러 날 머무르기를 권한다.",
+     "url": "https://www.japan.travel/en/spot/1556/"
+    }
+   ],
+   "conflicts": [
+    "Area count: JNTO says Tokyo Disneyland 'has seven areas', but GO TOKYO (updated 2024-06-06) says 'eight themed lands'. The operator site could not be reached, so the count stays unconfirmed.",
+    "GO TOKYO page (source for c4-c7) was last updated 2024-06-06, more than 12 months ago (stale_source).",
+    "JNTO spot page shows no update date.",
+    "Operator site tokyodisneyresort.jp (/kr/, /kr/ticket/, /en/) timed out with both curl and WebFetch. Two lookups were made per item, so hours, closed days, fees, reservation, payment, parking, language and caution remain unconfirmed."
+   ]
+  },
+  {
+   "key": "new:jp-chiba-tokyo-disneysea",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Address is on the JNTO page."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Stated on JNTO."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches GO TOKYO (stale page, June 2024)."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches GO TOKYO (stale page, June 2024)."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches GO TOKYO (stale page, June 2024)."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches GO TOKYO (stale page, June 2024)."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Only GO TOKYO says 'only Disney Park themed to the myths and legends of the sea'. JNTO says only 'unique park that's only found in Tokyo'."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO: 'Opened in 2001'."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO: 'Instead of themed lands, DisneySea has different themed ports'."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO: 'scenic and picturesque views from rides only found at DisneySea... restaurants, shows'."
+    },
+    {
+     "cid": "c11",
+     "verdict": "rejected",
+     "corrected_text": null,
+     "note": "Text matches GO TOKYO, but a reservation rule needs the operator or managing body as source. GO TOKYO is a tourism bureau page, stale (2024-06-06), and the operator site could not be reached."
+    },
+    {
+     "cid": "c12",
+     "verdict": "rejected",
+     "corrected_text": null,
+     "note": "Same as c11: an operational rule for Fantasy Springs entry backed only by a stale, non-operator page."
+    }
+   ],
+   "unsupported_in_description": [
+    "판타지 스프링스에 들어가려면 파크 티켓 외에 무료 스탠바이 패스나 유료 디즈니 프리미어 액세스가 필요할 수 있다."
+   ],
+   "unsupported_in_highlights": [
+    "판타지 스프링스는 파크 티켓 외 스탠바이 패스 또는 프리미어 액세스 필요(당일 운영 상황에 따라 제한 없을 수 있음)"
+   ],
+   "suggested_claims": [
+    {
+     "field": "description",
+     "text": "도쿄 디즈니씨는 8개의 테마 포트로 이루어져 있다.",
+     "url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+    },
+    {
+     "field": "duration",
+     "text": "JNTO는 도쿄 디즈니랜드와 디즈니씨에서 각각 하루씩 보내고, 두 파크를 모두 즐기려면 여러 날 머무르기를 권한다.",
+     "url": "https://www.japan.travel/en/spot/1556/"
+    }
+   ],
+   "conflicts": [
+    "GO TOKYO (source for c3-c7, c11, c12) was last updated 2024-06-06, more than 12 months ago (stale_source). The Fantasy Springs entry rules must be re-checked on the operator site.",
+    "The 'eight themed ports' count appears only on the stale GO TOKYO page.",
+    "Operator site tokyodisneyresort.jp could not be reached (curl and WebFetch both timed out on /kr/, /kr/ticket/ and /en/). Hours, closed days, fees, payment, parking and language remain unconfirmed."
+   ]
+  },
+  {
+   "key": "new:jp-tokyo-wb-studio-tour",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page spells it 'Nerimaku'."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 'Service Available From March 1, 2026 ~', operated by Airport Transport Service Co., Ltd."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Claim states the period (visits up to 2026-12-31)."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page adds that details of the new process 'will be announced at a later date'."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Price list also shows 'Parking Large Vehicle ¥5,000'."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Checked every date from 2026-10-12 to 2027-03-31 with the calendar endpoint (admin-ajax.php, action=get_events). All 97 'Off Peak 2' days show these times."
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "All 57 'Super Peak 2' days show these times."
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "All 8 'Peak' days show these times."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Only 2 'Off Peak' days: 2026-11-09 and 2026-11-10."
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Calendar labels are 'Event Day 2' (2027-01-01) and 'Event Day' (2027-02-25)."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "A full scan of the range finds exactly these 5 closed days."
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Infants and carers do not count toward the 20 people."
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Price is valid, but sales are currently suspended (see c38). The page lists the languages as 'JP・EN・ZH・KO・TW'."
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Proof of entitlement is the disability handbook. Carer tickets are collected at the ticket window."
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The cited page says ¥1,500 per change and 'non-refundable'. 'Non-transferable' is stated in ticket-terms and faqs/tickets."
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c33",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Apple Pay and Google Pay are accepted only with the listed card brands."
+    },
+    {
+     "cid": "c34",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c35",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page names them 'Main shop and Railway shop'. Apple Pay is accepted only with the listed card brands."
+    },
+    {
+     "cid": "c36",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c37",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says the guide is extra content, not an audio-description guide for visually impaired visitors."
+    },
+    {
+     "cid": "c38",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Home page notice dated 26.09.30. People who already bought the guide are refunded."
+    },
+    {
+     "cid": "c39",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c40",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c41",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c42",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Price list separately shows a 'Broom Experience ¥5,500' add-on."
+    },
+    {
+     "cid": "c43",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c44",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c45",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c46",
+     "verdict": "corrected",
+     "corrected_text": "반려동물은 인증된 보조견(안내견·보조견·청도견)을 제외하고 입장할 수 없고, 흡연, 지정된 구역 밖에서의 음식물 섭취, 롤러스케이트·스케이트보드·자전거·킥보드 이용, 드론 사용이 금지된다.",
+     "note": "The terms ban food and drink 'outside the designated areas', not 'outside the tour area'."
+    },
+    {
+     "cid": "c47",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c48",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Unaccompanied juniors may be asked to show ID."
+    },
+    {
+     "cid": "c49",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Notice dated 26.09.10 expects the Knight Bus back in early November. It is time-limited and should be re-checked after November."
+    },
+    {
+     "cid": "c50",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The accessibility page says the free manual wheelchairs are for visitors arriving in a large mobility vehicle or electric scooter. Wheelchair rental at the Information Desk is stated in faqs/facilities."
+    },
+    {
+     "cid": "c51",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "ops.fees",
+     "text": "2026년 7월 1일 이후 입장분 일반 티켓은 방문일에 따라 성인 ¥6,600~¥7,300, 주니어 ¥5,500~¥6,000, 어린이 ¥4,000~¥4,400이다.",
+     "url": "https://www.wbstudiotour.jp/en/news_20251120/"
+    },
+    {
+     "field": "ops.payment",
+     "text": "실내 코인 로커는 현금(100엔·500엔 동전, 1,000엔 지폐), 교통 IC카드·전자화폐, QR 결제(PayPay·Alipay+·WeChat Pay 등), 비접촉 신용카드를 받고, 실외 로커는 100엔 동전만 받는다.",
+     "url": "https://www.wbstudiotour.jp/en/plan-your-visit/facilities/"
+    },
+    {
+     "field": "ops.closed_days",
+     "text": "정기 휴무일은 공지되어 있지 않고, 휴관일은 공식 운영 캘린더에 날짜별로 표시된다.",
+     "url": "https://www.wbstudiotour.jp/en/plan-your-visit/opening-times/"
+    }
+   ],
+   "conflicts": [
+    "Standard ticket prices disagree between official pages. The Price List page (/ticket-information/price/) shows adult ¥6,300~¥7,300, junior ¥5,200~¥6,000, child ¥3,800~¥4,400. The Tickets page (adult ¥6,600~, junior ¥5,500~, child ¥4,000~) and the pricing notice (news_20251120: from 2026-07-01, ¥6,600~¥7,300 / ¥5,500~¥6,000 / ¥4,000~¥4,400) agree with each other. The Price List page appears not updated for the July 2026 price change. Package and Afternoon Tea prices differ the same way.",
+    "The Afternoon Tea and Evening High Tea packages are on sale only for visits up to 2026-11-10 and 2026-11-08.",
+    "Language: the official site offers only Japanese and English (/ko/ returns 404). Korean exists only in the Digital Guide, which is currently suspended."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 78,
+  "verified": 75,
+  "corrected": 1,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 2,
+  "notes": [
+   "Every cited page was opened with curl. The WB opening calendar was read from its own JSON endpoint (POST admin-ajax.php, action=get_events) for every date from 2026-10-12 to 2027-04-01. 2027-04-01 returned no data, which fits tickets being sold only up to 2027-03-31.",
+   "tokyodisneyresort.jp (the Disney operator) could not be reached from this environment: curl timed out or returned an empty reply, and WebFetch timed out. Both Disney records therefore have no operator-sourced hours, fees, closed days, reservation, payment, parking or language data.",
+   "GO TOKYO was last updated 2024-06-06 (stale). The access times in it are verified as shown but should be re-checked."
+  ]
+ }
+}

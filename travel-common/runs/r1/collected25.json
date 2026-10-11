@@ -1,0 +1,1799 @@
+[
+ {
+  "key": "bj-wtown",
+  "name_ko": "구베이수이전·쓰마타이 장성 리조트",
+  "name_local": "古北水镇（司马台长城）",
+  "admin_region": "베이징시 미윈구",
+  "address": "北京市密云区古北口镇司马台村古北水镇（司马台长城）国际旅游度假区",
+  "description": "구베이수이전은 베이징 미윈구 구베이커우진의 쓰마타이 장성 기슭에 있는 약 9제곱킬로미터 규모의 종합 휴양지다. 여섯 구역과 세 계곡으로 나뉘며, 43만 제곱미터에 명·청과 민국 양식의 산지 합원 건축이 들어서 있다. 테마 호텔 7곳, 부티크 호텔 10곳, 민박 28곳에 독립 식당 30여 곳과 상점 50여 곳이 있어 머물며 즐기기 좋다. 쓰마타이 장성은 험준하고 망루 간격이 촘촘한 것으로 알려졌고, 케이블카를 탄 뒤 5호 봉화대까지 걷는 코스와 야경 코스가 있다. 온라인 구매 때는 신분증 번호를 입력하지만 현장에서 코드를 스캔해 입장하면 신분증은 필요 없다. 시내에서 자가용으로 약 2시간 걸린다.",
+  "highlights": [
+   "쓰마타이 장성 기슭의 약 9제곱킬로미터 휴양지로 6개 구역과 3개 계곡으로 구성",
+   "명·청과 민국 양식의 산지 합원 건축 43만 제곱미터",
+   "쓰마타이 장성은 험준함·촘촘함·기이함으로 유명하고 망루 평균 간격이 140미터",
+   "케이블카로 올라 5호 봉화대까지 걷는 코스와 야경 코스",
+   "2016년에 조성한 야간 관광 '팔대명완'",
+   "현장 코드 스캔 입장은 신분증이 필요 없고, 온라인 구매는 신분증 번호 입력"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "구베이수이전은 베이징시 미윈구 구베이커우진, 쓰마타이 장성 기슭에 있다.",
+    "value": null,
+    "evidence": "古北水镇位于北京市密云区古北口镇坐落在司马台长城脚下",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/source.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "공식 연락처 페이지의 주소는 베이징시 미윈구 구베이커우진 쓰마타이촌 구베이수이전(쓰마타이 장성) 국제 관광 리조트이다.",
+    "value": null,
+    "evidence": "北京市密云区古北口镇司马台村古北水镇（司马台长城）国际旅游度假区",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/connect.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "리조트 전체 면적은 9제곱킬로미터이고 6개 구역과 3개 계곡으로 계획되었다.",
+    "value": "9km2",
+    "evidence": "将9平方公里的度假区整体规划为“六区三谷”",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/source.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "description",
+    "text": "리조트 안에는 43만 제곱미터의 명·청 및 민국 양식 산지 합원 건축이 있다.",
+    "value": "430000m2",
+    "evidence": "拥有43万平方米精美的明清及民国风格的山地合院建筑",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/source.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "description",
+    "text": "리조트 안에 테마 호텔이 7곳 있다.",
+    "value": 7,
+    "evidence": "包含7家主题酒店",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/source.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "description",
+    "text": "리조트 안에 부티크 호텔이 10곳 있다.",
+    "value": 10,
+    "evidence": "10家精品酒店",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/source.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "description",
+    "text": "리조트 안에 민박·객잔이 28곳 있다.",
+    "value": 28,
+    "evidence": "28家民宿客栈",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/source.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "description",
+    "text": "리조트 안에 독립 식당이 30여 곳 있다.",
+    "value": null,
+    "evidence": "30余家独立餐厅",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/source.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "description",
+    "text": "리조트 안에 상점이 50여 곳 있다.",
+    "value": null,
+    "evidence": "50余处商铺",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/source.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "description",
+    "text": "쓰마타이 구간 장성은 험준함·촘촘함·기이함·정교함·완비를 특징으로 한다.",
+    "value": null,
+    "evidence": "司马台段长城以险、密、奇、巧、全著称",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/wall.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "description",
+    "text": "쓰마타이 장성의 망루 사이 평균 간격은 140미터이다.",
+    "value": "140m",
+    "evidence": "平均间距仅140米",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/wall.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "description",
+    "text": "구베이수이전은 2016년에 야간 관광 '팔대명완'(여덟 가지 야간 체험)을 새로 구성했다.",
+    "value": null,
+    "evidence": "2016年全新重磅打造长城脚下的夜游“八大名玩”",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/source.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "tip",
+    "text": "장성 코스 1은 케이블카 상부역에서 5호 봉화대까지 걸은 뒤 2호 봉화대까지 내려가며 보고 케이블카역으로 돌아와 하부역으로 내려가는 경로이다.",
+    "value": null,
+    "evidence": "乘坐索道上站，步行至5楼烽火台，往下沿途浏览至2楼烽火台",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/wall.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "tip",
+    "text": "장성 야경 코스는 케이블카로 올라 5호 봉화대에서 야경을 보고 걸어서 케이블카역으로 돌아와 내려가는 경로이다.",
+    "value": null,
+    "evidence": "在司马台长城欣赏夜景，游览结束后步行至索道站",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/wall.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "fees",
+    "text": "구베이수이전 입장권은 창구가 160위안, 개인 관광객 가격이 140위안이다.",
+    "value": {
+     "window": 160,
+     "individual": 140,
+     "unit": "CNY"
+    },
+    "evidence": "门票门市价格160元/人，散客价为140元/人",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "fees",
+    "text": "쓰마타이 장성 입장권은 40위안이다.",
+    "value": 40,
+    "evidence": "司马台长城门票价格40元/人",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "fees",
+    "text": "하루에 쓰마타이 장성과 구베이수이전을 함께 보는 연합권은 창구가 180위안, 개인 관광객 가격이 170위안이다.",
+    "value": {
+     "window": 180,
+     "individual": 170
+    },
+    "evidence": "联票门市价180元/人，散客价为170元/人",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "fees",
+    "text": "키 1.2미터 이상 1.5미터 이하(1.5미터 포함) 어린이는 구베이수이전 할인표 대상이다.",
+    "value": null,
+    "evidence": "身高 1.2 米至 1.5 米（含）的儿童",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "fees",
+    "text": "16세 미만 미성년자는 신분증을 제시하면 구베이수이전 할인표 대상이다.",
+    "value": null,
+    "evidence": "16 周岁以下未成年人凭身份证",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "fees",
+    "text": "초·중등학생과 전일제 재학 대학생(전문대·학부·대학원)은 학생증으로 할인표 대상이다.",
+    "value": null,
+    "evidence": "中、小学生、全日制在读大学生(含专科生、本科生、研究生)凭学生证",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "fees",
+    "text": "60세 이상 노인은 유효 신분증으로 할인표 대상이다.",
+    "value": null,
+    "evidence": "60 周岁以上老年人凭有效身份证件",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "fees",
+    "text": "현역 군인은 유효 증명서로 할인표 대상이다.",
+    "value": null,
+    "evidence": "现役军人凭有效证件",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "fees",
+    "text": "국가 소방구조대원은 소방원증·간부증·학원증 중 하나로 할인표 대상이다.",
+    "value": null,
+    "evidence": "国家消防救援人员凭有效身份证件",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "fees",
+    "text": "퇴역 군인은 퇴역증 등으로 할인표 대상이며 군인보장카드는 인정되지 않는다.",
+    "value": null,
+    "evidence": "不含军人保障卡",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "fees",
+    "text": "키 1.2미터 이하(1.2미터 포함) 어린이는 구베이수이전 입장이 무료이다.",
+    "value": "free",
+    "evidence": "身高 1.2 米（含）以下儿童",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "fees",
+    "text": "장애인은 장애인증을 제시하면 구베이수이전 입장이 무료이다.",
+    "value": "free",
+    "evidence": "残疾人凭中国残联制发《残疾人证》",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "fees",
+    "text": "이휴(離休) 간부는 이휴 간부 영예증으로 입장이 무료이다.",
+    "value": "free",
+    "evidence": "离休人员凭国务院、中央军委制发的离休干部荣誉证",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "fees",
+    "text": "기자는 기자증으로 입장이 무료이다.",
+    "value": "free",
+    "evidence": "记者凭新闻出版总署颁发的记者证",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "fees",
+    "text": "경내 호텔에 묵어도 입장권은 따로 사야 하며, 일부 호텔은 판매 정책에 따라 입장권을 증정하므로 예약 전화로 문의해야 한다.",
+    "value": null,
+    "evidence": "部分酒店是赠送门票的，具体您可以拨打景区咨询预定电话010-81009999",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "reservation",
+    "text": "온라인으로 입장권을 사려면 신분증 번호를 입력해야 한다.",
+    "value": null,
+    "evidence": "网上购票需要录入身份证号",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "reservation",
+    "text": "단순 관람은 현장에서 코드를 스캔해 입장하며 신분증이 필요 없다.",
+    "value": null,
+    "evidence": "现场扫码入园无需身份证",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c32",
+    "field": "reservation",
+    "text": "할인 대상자는 해당 증명서를 지참해야 한다.",
+    "value": null,
+    "evidence": "享受优惠门票政策人群需携带相关证件出行",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c33",
+    "field": "payment",
+    "text": "방문자 서비스센터에 중국은행과 농업은행 ATM이 있다.",
+    "value": null,
+    "evidence": "游客服务中心有中国银行和农业银行的ATM机",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c34",
+    "field": "payment",
+    "text": "식당과 상점의 영수증(發票)은 안내에 따라 방문자센터 프런트에서 발급받을 수 있다.",
+    "value": null,
+    "evidence": "到游客中心大前台开具发票",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c35",
+    "field": "parking",
+    "text": "7인승 이하 소형차 주차는 회당 25위안이다.",
+    "value": 25,
+    "evidence": "7座以下（含）小型车25元/次",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c36",
+    "field": "parking",
+    "text": "7인승 초과 중·대형차 주차는 회당 50위안이며 시간 제한이 없다.",
+    "value": 50,
+    "evidence": "7座以上中、大型车50元/次，不限时",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c37",
+    "field": "access",
+    "text": "베이징 시내에서 자가용으로 약 120킬로미터, 약 2시간이며 징청고속도로 24번 쓰마타이 출구로 나간다.",
+    "value": {
+     "km": 120,
+     "hours": 2
+    },
+    "evidence": "北京（市内） 120公里 2小时 京承高速24号司马台出口下",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/index.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c38",
+    "field": "access",
+    "text": "미윈구에서는 약 60킬로미터, 약 40분이며 징미로(101번 국도)를 이용한다.",
+    "value": {
+     "km": 60,
+     "min": 40
+    },
+    "evidence": "密云区 60公里 40分钟 京密路（101国道）",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/index.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c39",
+    "field": "access",
+    "text": "망징시(望京西)에서 구베이수이전행 직통 버스가 09:00와 13:00에 출발하고, 구베이수이전에서는 12:00와 17:00에 출발한다.",
+    "value": null,
+    "evidence": "望京西 09:00 13:00 古北水镇 12:00 17:00",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/index.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c40",
+    "field": "access",
+    "text": "직통 버스는 134킬로미터, 약 120분이며 요금은 1인 48위안이다.",
+    "value": {
+     "km": 134,
+     "min": 120,
+     "cny": 48
+    },
+    "evidence": "车程：134公里（距离），120分钟（时长） 票价：48元/人",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/index.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c41",
+    "field": "access",
+    "text": "직통 버스 승차 장소는 망징시 환승센터 버스 중2층 5번 게이트이고, 구베이수이전에서는 경구 2번 주차장에서 탄다.",
+    "value": null,
+    "evidence": "望京西枢纽站公交夹层5号门 古北水镇：景区2号停车场",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/index.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c42",
+    "field": "access",
+    "text": "대중교통은 지하철 2호선 둥즈먼에서 980번(쾌속)을 타고 미윈시다차오역에서 미51번(쓰마타이 방면)으로 환승하는 방법이 안내되어 있다.",
+    "value": null,
+    "evidence": "乘坐地铁2号线到东直门，换乘980（快），到密云西大桥站，换乘密51路",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/index.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c43",
+    "field": "access",
+    "text": "기차는 베이징북역 또는 칭허역에서 화이미선을 타고 구베이커우역에서 내려 접박 버스로 갈아탄다. 접박 버스는 수이전발 8:40·15:50, 구베이커우역발 9:40·17:10이다.",
+    "value": null,
+    "evidence": "接驳车发车时间：8:40 15:50 9:40 17:10",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/index.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c44",
+    "field": "access",
+    "text": "베이투청에서 구베이수이전 직통 버스는 6~10월 매주 토요일에 운행하며 베이투청 9:30, 구베이수이전 대호텔 20:30 출발, 요금 48위안이다.",
+    "value": null,
+    "evidence": "北土城地铁站:9:30 古北水镇大酒店:20:30 票价:48元/人/座位",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/index.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c45",
+    "field": "access",
+    "text": "중국청년여행사(中青旅) 빌딩에서 구베이수이전까지 관광 전용 버스가 있으며 약 135킬로미터, 약 120분, 요금 48위안이고 '중청뤼 문화여행' 미니프로그램으로 확인한다.",
+    "value": null,
+    "evidence": "135公里（距离），120分钟（时长），豪华巴士，票价：48元/人",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/index.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c46",
+    "field": "tip",
+    "text": "쓰마타이 장성 경구와 구베이수이전은 서로 다른 경구이며 같은 리조트에 속한다.",
+    "value": null,
+    "evidence": "司马台长城景区与古北水镇是两个景区",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c47",
+    "field": "tip",
+    "text": "방문자 서비스센터 안내 데스크에서 휠체어·유모차·지팡이를 빌릴 수 있다.",
+    "value": null,
+    "evidence": "游客服务中心礼宾台提供轮椅、童车、拐杖租借服务",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/travel/question.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c48",
+    "field": "tip",
+    "text": "경구 예약·문의 전화는 010-81009999이다.",
+    "value": null,
+    "evidence": "咨询预订电话 010-81009999",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/connect.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c49",
+    "field": "language",
+    "text": "공식 웹사이트는 중국어와 영어 페이지를 제공한다.",
+    "value": null,
+    "evidence": "中文 English",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/index.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c50",
+    "field": "description",
+    "text": "구베이수이전은 관광·휴양·비즈니스 행사·문화창의가 결합된 종합 휴양 목적지이다.",
+    "value": null,
+    "evidence": "集观光游览、休闲度假、商务会展、创意文化等旅游业态为一体",
+    "sources": [
+     {
+      "url": "https://www.wtown.com/pc/about/source.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "hours",
+    "reason": "공식 사이트의 운영 시간은 티켓 페이지(로그인 필요한 API로 불러오는 JS 렌더링)에만 있고 정적 페이지에는 없다. 현재 시간을 확인하지 못했다."
+   },
+   {
+    "field": "closed_days",
+    "reason": "공식 사이트에서 정기 휴무 안내를 찾지 못했다."
+   },
+   {
+    "field": "duration",
+    "reason": "공식 안내에서 권장 소요 시간을 찾지 못했다."
+   },
+   {
+    "field": "reservation",
+    "reason": "외국인·여권 소지자의 예약/구매 방법은 공식 정적 페이지에 없다. 공식 티켓 페이지는 로그인형 API로 렌더링되어 확인하지 못했다. 신분증 입력 규칙만 FAQ에 있다."
+   },
+   {
+    "field": "payment",
+    "reason": "외국 카드·현금·모바일 결제 가능 여부는 공식 페이지에 없다. ATM 위치만 확인."
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내·오디오가이드 여부를 공식 페이지에서 찾지 못했다."
+   },
+   {
+    "field": "caution",
+    "reason": "공식 페이지에서 혼잡 시기·금지 사항 안내를 찾지 못했다."
+   },
+   {
+    "field": "fees.stale",
+    "reason": "FAQ 요금 페이지에는 갱신일 표시가 없어 현재 판매가는 티켓 페이지에서 재확인이 필요하다."
+   }
+  ]
+ },
+ {
+  "key": "east-qd-06",
+  "name_ko": "라오산 풍경구",
+  "name_local": "崂山风景名胜区",
+  "admin_region": "산둥성 칭다오시 라오산구",
+  "address": "青岛市崂山区梅岭路29号(崂山风景名胜区管理局)",
+  "description": "라오산은 칭다오 동쪽 황해 연안에 솟은 국가 5A급 관광지이자 국가중점풍경명승구로, 면적은 446제곱킬로미터다. 주봉 쥐펑은 해발 1132.7미터로 중국 대륙 해안선에서 가장 높다. 류칭, 쥐펑, 타이칭, 화옌, 양커우, 주수이, 화러우 일곱 구역이 핵심이며, 2100여 년 역사의 타이칭궁은 라오산 도교의 조정으로 꼽힌다. 4월 1일부터 12월 31일까지 남선 구역 문표는 90위안, 주수이 구역은 60위안이고 관광버스표는 따로 받는다. 남선 방면 다허둥 방문자센터는 지하철 4호선 다허둥역 A출구에서 이어지고 센터 주차는 무료다. 성수기에는 예약 구매 정원이 마감되어 인원 제한이 걸리기도 한다.",
+  "highlights": [
+   "쥐펑은 해발 1132.7미터로 중국 대륙 해안선에서 가장 높은 봉우리",
+   "기원전 140년에 세워진 타이칭궁은 라오산 도교의 조정",
+   "남선 문표 90위안, 주수이 문표 60위안(4~12월), 화러우는 10위안",
+   "지하철 4호선 다허둥역 A출구에서 관광버스로 연결",
+   "다허둥·양커우·주수이 방문자센터는 무료 주차와 무료 짐 보관 제공",
+   "2026년 9월 5일부터 타이칭 케이블카 노선 탐방로 폐쇄, 룽탄폭포 길로 우회"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "라오산은 칭다오 동쪽 황해 연안에 있다.",
+    "value": null,
+    "evidence": "位于青岛市东部、黄海之滨",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Index-laoshan.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "관리국의 소재지 주소는 칭다오시 라오산구 메이링로 29호이다.",
+    "value": null,
+    "evidence": "地址：青岛市崂山区梅岭路29号",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/New-Index-index.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "라오산 전체 면적은 446제곱킬로미터이다.",
+    "value": "446km2",
+    "evidence": "总面积446平方公里",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Index-laoshan.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "description",
+    "text": "주봉 쥐펑은 해발 1132.7미터로 중국 대륙 해안선에서 가장 높은 봉우리이다.",
+    "value": "1132.7m",
+    "evidence": "主峰“巨峰”海拔1132.7米，是中国大陆18000公里海岸线上第一高峰",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Index-laoshan.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "description",
+    "text": "라오산은 1982년 국무원이 첫 국가중점풍경명승구로 지정했다.",
+    "value": null,
+    "evidence": "1982年，崂山被国务院审定公布为首批国家重点风景名胜区",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Index-laoshan.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "description",
+    "text": "라오산은 국가 AAAAA급 관광지이자 국가삼림공원이다.",
+    "value": null,
+    "evidence": "国家AAAAA级旅游景区、国家森林公园",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Index-laoshan.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "description",
+    "text": "핵심 관광 구역은 류칭, 쥐펑, 타이칭, 화옌, 양커우, 주수이, 화러우 일곱 곳이다.",
+    "value": null,
+    "evidence": "流清、巨峰、太清、华严、仰口、九水、华楼七个游览区",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Index-laoshan.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "description",
+    "text": "타이칭궁은 기원전 140년(서한 건원 원년)에 세워져 2100년 넘은 역사를 가지며 라오산 도교의 조정(祖庭)이다.",
+    "value": null,
+    "evidence": "太清宫始建于西汉建元元年(公元前140年)",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Index-laoshan.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "description",
+    "text": "라오산은 화강암 빙하 지형으로 상형석이 많아 '천연 조각 공원'이라 불린다.",
+    "value": null,
+    "evidence": "被誉为“天然雕塑公园”",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Index-laoshan.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "fees",
+    "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 남선 유람구(쥐펑 포함, 쥐펑·타이칭·화옌·양커우, 2일 유효): 문표 90위안, 관광버스표 60위안, 합계 150위안이다.",
+    "value": null,
+    "evidence": "南线游览区（含巨峰） 门票：90元 观光车票：60元 联票：150元",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+      "type": "official",
+      "page_updated": "2026-06-04"
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "fees",
+    "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 남선 유람구(쥐펑 제외, 타이칭·화옌·양커우, 2일 유효): 문표 90위안, 관광버스표 40위안, 합계 130위안이다.",
+    "value": null,
+    "evidence": "南线游览区（不含巨峰） 门票：90元 观光车票：40元 联票：130元",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+      "type": "official",
+      "page_updated": "2026-06-04"
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "fees",
+    "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 쥐펑 유람구(당일 유효): 문표 80위안, 관광버스표 40위안, 합계 120위안이다.",
+    "value": null,
+    "evidence": "巨峰游览区 门票：80元 观光车票：40元 联票：120元",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+      "type": "official",
+      "page_updated": "2026-06-04"
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "fees",
+    "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 주수이 유람구(주수이·화러우, 당일 유효): 문표 60위안, 관광버스표 30위안, 합계 90위안이다.",
+    "value": null,
+    "evidence": "九水游览区 门票：60元 观光车票：30元 联票：90元",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+      "type": "official",
+      "page_updated": "2026-06-04"
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "fees",
+    "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 화러우 유람구(당일 유효): 문표 10위안이다.",
+    "value": null,
+    "evidence": "华楼游览区 门票：10元",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+      "type": "official",
+      "page_updated": "2026-06-04"
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "fees",
+    "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 일표제(남선+주수이, 3일 유효): 문표 140위안, 관광버스표 70위안, 합계 210위안이다.",
+    "value": null,
+    "evidence": "一票制票价 门票：140元 观光车票：70元 联票：210元",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+      "type": "official",
+      "page_updated": "2026-06-04"
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "fees",
+    "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 남선 유람구(쥐펑 포함, 2일 유효): 문표 60위안, 관광버스표 60위안, 합계 120위안이다.",
+    "value": null,
+    "evidence": "南线游览区（含巨峰） 门票：60元 观光车票：60元 联票：120元",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+      "type": "official",
+      "page_updated": "2026-06-04"
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "fees",
+    "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 남선 유람구(쥐펑 제외, 2일 유효): 문표 60위안, 관광버스표 40위안, 합계 100위안이다.",
+    "value": null,
+    "evidence": "南线游览区（不含巨峰） 门票：60元 观光车票：40元 联票：100元",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+      "type": "official",
+      "page_updated": "2026-06-04"
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "fees",
+    "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 쥐펑 유람구(당일 유효): 문표 50위안, 관광버스표 40위안, 합계 90위안이다.",
+    "value": null,
+    "evidence": "巨峰游览区 门票：50元 观光车票：40元 联票：90元",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+      "type": "official",
+      "page_updated": "2026-06-04"
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "fees",
+    "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 주수이 유람구(주수이·화러우, 당일 유효): 문표 40위안, 관광버스표 30위안, 합계 70위안이다.",
+    "value": null,
+    "evidence": "九水游览区 门票：40元 观光车票：30元 联票：70元",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+      "type": "official",
+      "page_updated": "2026-06-04"
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "fees",
+    "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 일표제(남선+주수이, 3일 유효): 문표 90위안, 관광버스표 70위안, 합계 160위안이다.",
+    "value": null,
+    "evidence": "一票制票价 门票：90元 观光车票：70元 联票：160元",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+      "type": "official",
+      "page_updated": "2026-06-04"
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "fees",
+    "text": "화러우 유람구 문표는 2026년 4월 1일부터 10위안이며, 이미 주수이 유람구 표를 산 사람은 다시 사지 않아도 된다.",
+    "value": 10,
+    "evidence": "2026年4月1日开始购票游览，票价10元",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6282.html",
+      "type": "official",
+      "page_updated": "2026-03-27"
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "fees",
+    "text": "타이칭궁은 별도 유료 도관이라 현지에서 직접 표를 사야 하며 요금은 1인 27위안이다.",
+    "value": 27,
+    "evidence": "太清宫为单独收费道观，需在太清宫自行购票游览（票价 27 元/人）",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+      "type": "official",
+      "page_updated": "2026-06-04"
+     }
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "fees",
+    "text": "케이블카는 별도 구매이며 날씨로 운행이 중단될 수 있다.",
+    "value": null,
+    "evidence": "乘坐索道需另行购票。若因天气原因索道停开",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+      "type": "official",
+      "page_updated": "2026-06-04"
+     }
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "fees",
+    "text": "60세 이상(60세 포함) 노인은 유효 신분증으로 문표 무료, 관광버스표와 케이블카 반값이다.",
+    "value": null,
+    "evidence": "60周岁以上（含60周岁）老年人持有效证件享受景区门票免费、观光车票半价、索道半价优惠",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "fees",
+    "text": "6세 이하 또는 키 1.4미터 이하 어린이는 문표·관광버스표·케이블카표가 모두 무료이다.",
+    "value": null,
+    "evidence": "6周岁（含6周岁）以下或身高1.4米（含1.4米）以下的儿童持有效证件享受景区门票、观光车票、索道票免费优惠",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "fees",
+    "text": "6세 초과~18세 미성년자와 전일제 대학 이하 재학생은 문표가 반값이며 관광버스표 할인은 없다.",
+    "value": null,
+    "evidence": "享受景区门票半价优惠，观光车票无优惠",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "fees",
+    "text": "장애인은 증명서로 문표가 무료이고 관광버스표 할인은 없다.",
+    "value": null,
+    "evidence": "残疾人持有效证享受景区门票免费，观光车票无优惠",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "fees",
+    "text": "현역 군인과 군 학원생은 문표가 무료이다.",
+    "value": null,
+    "evidence": "中国人民解放军和武警部队现役军人及军队院校学员持有效证件享受景区门票免费",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "fees",
+    "text": "퇴역 군인과 영군카(荣军卡) 소지자는 문표가 무료이다.",
+    "value": null,
+    "evidence": "退役军人及荣军卡持有者持有效证件享受景区门票免费",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "fees",
+    "text": "소방구조대원은 문표가 무료이다.",
+    "value": null,
+    "evidence": "持有效证件享受景区门票免费，观光车票无优惠",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "fees",
+    "text": "기자는 유효 증명서로 문표가 무료이다.",
+    "value": null,
+    "evidence": "新闻记者凭有效证件享受景区门票免费",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c32",
+    "field": "fees",
+    "text": "인솔 가이드는 증명서와 단체 일정표를 제시하면 문표·관광버스표가 무료이다.",
+    "value": null,
+    "evidence": "带团导游凭有效证件及团队行程单享受景区门票、观光车票免费优惠",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c33",
+    "field": "hours",
+    "text": "2025년 10월 23일 공지는 주수이 유람구와 얼룽산 경구의 개방 시간이 변동 없이 7:00~17:30이라고 밝혔다(해당일 조정 공지 속 기재).",
+    "value": "07:00-17:30",
+    "evidence": "九水游览区、二龙山景区开放时间不变，为7:00-17:30",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6078.html",
+      "type": "official",
+      "page_updated": "2025-10-23"
+     }
+    ]
+   },
+   {
+    "cid": "c34",
+    "field": "hours",
+    "text": "같은 공지에서 주수이 방면 관광버스는 첫차 7:00, 막차 17:30이다.",
+    "value": null,
+    "evidence": "九水游客服务中心发车时间不变，首车时间为7:00，末车时间为17:30",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6078.html",
+      "type": "official",
+      "page_updated": "2025-10-23"
+     }
+    ]
+   },
+   {
+    "cid": "c35",
+    "field": "reservation",
+    "text": "화러우 유람구는 공식 계정 '칭다오 라오산 풍경명승구'에서 '라오산 표무통' 미니프로그램으로 가서 날짜를 고르고 방문자 정보(이름·신분증 번호·휴대폰 번호)를 입력해 예약한다.",
+    "value": null,
+    "evidence": "填写游客信息（姓名、身份证号、手机号）",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6155.html",
+      "type": "official",
+      "page_updated": "2025-12-29"
+     }
+    ]
+   },
+   {
+    "cid": "c36",
+    "field": "reservation",
+    "text": "화러우는 예약한 날 본인 신분증 원본을 스캔해 입장하며 현장 표 교환은 필요 없다.",
+    "value": null,
+    "evidence": "持本人身份证原件刷证即可快速入园，无需线下换票",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6155.html",
+      "type": "official",
+      "page_updated": "2025-12-29"
+     }
+    ]
+   },
+   {
+    "cid": "c37",
+    "field": "reservation",
+    "text": "2026년 10월 3일 공지에 따르면 남선(쥐펑·타이칭)과 동선(양커우·화옌)은 예약 구매 정원이 가득 차 인원 제한이 시행되었고, 구매한 방문자는 예약 시간에 맞춰 입장해야 한다.",
+    "value": null,
+    "evidence": "预约购票名额已满，现已启动客流限流管控措施",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6558.html",
+      "type": "official",
+      "page_updated": "2026-10-03"
+     }
+    ]
+   },
+   {
+    "cid": "c38",
+    "field": "reservation",
+    "text": "연간 회원권 중 개인 카드는 사전 예약 없이 신분증을 스캔해 입장하고 가족 카드는 실물 카드를 스캔한다.",
+    "value": null,
+    "evidence": "个人年卡可以刷身份证入园，家庭年卡需刷实体卡入园",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Zixun-index.html",
+      "type": "official",
+      "page_updated": "2026-10-10"
+     }
+    ]
+   },
+   {
+    "cid": "c39",
+    "field": "reservation",
+    "text": "할인 대상 특수 계층은 유효 증명서를 지참해 방문자센터 현장에서 구매 수속을 해야 한다.",
+    "value": null,
+    "evidence": "享受景区票务优惠政策的特殊群体游客购票请凭有效证件至客服中心现场咨询办理",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-5571.html",
+      "type": "official",
+      "page_updated": "2024-09-17"
+     }
+    ]
+   },
+   {
+    "cid": "c40",
+    "field": "access",
+    "text": "남선(쥐펑·타이칭)은 지하철 4호선 다허둥역 A출구에서 나와 다허둥 방문자센터에서 관광버스로 갈아탄다.",
+    "value": null,
+    "evidence": "乘地铁4号线【大河东站A出入口出】，直达大河东客服中心",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6223.html",
+      "type": "official",
+      "page_updated": "2026-02-20"
+     }
+    ]
+   },
+   {
+    "cid": "c41",
+    "field": "access",
+    "text": "북선(주수이·화러우)은 란구쾌선 베이주수이역 B출구로 나가 주수이 환승센터에서 관광버스를 탄다.",
+    "value": null,
+    "evidence": "乘蓝谷快线【北九水站B出入口出】直达九水换乘中心",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6223.html",
+      "type": "official",
+      "page_updated": "2026-02-20"
+     }
+    ]
+   },
+   {
+    "cid": "c42",
+    "field": "access",
+    "text": "동선(양커우·화옌)은 란구쾌선 푸리역 A출구로 나가 620번 또는 926번 버스로 갈아타 양커우역에서 내린다.",
+    "value": null,
+    "evidence": "可换乘620路或926路公交车，至仰口站下车",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6223.html",
+      "type": "official",
+      "page_updated": "2026-02-20"
+     }
+    ]
+   },
+   {
+    "cid": "c43",
+    "field": "parking",
+    "text": "다허둥·양커우·주수이 방문자센터는 무료로 주차할 수 있다.",
+    "value": null,
+    "evidence": "崂山（大河东）游客服务中心、崂山（仰口）游客服务中心以及崂山（九水）游客服务中心都是可以免费停车的",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-2.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c44",
+    "field": "tip",
+    "text": "라오산·양커우·주수이 방문자센터와 주수이 유람구 내 싼수이 검표소에서 짐을 무료로 맡길 수 있다.",
+    "value": null,
+    "evidence": "都可以免费寄存行李",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-1.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c45",
+    "field": "tip",
+    "text": "경구 관광 서비스 전화는 0532-96616이다.",
+    "value": null,
+    "evidence": "景区旅游服务热线：0532-96616",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6282.html",
+      "type": "official",
+      "page_updated": "2026-03-27"
+     }
+    ]
+   },
+   {
+    "cid": "c46",
+    "field": "caution",
+    "text": "2026년 2월 공지는 양커우 방향 도로가 막히므로 자가용 방문을 피하고 대중교통을 먼저 이용하라고 안내했다.",
+    "value": null,
+    "evidence": "请勿自驾前往观光游览",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6223.html",
+      "type": "official",
+      "page_updated": "2026-02-20"
+     }
+    ]
+   },
+   {
+    "cid": "c47",
+    "field": "caution",
+    "text": "2026년 9월 5일부터 타이칭 케이블카 노선의 탐방로가 24시간 폐쇄되며 재개 시점은 추후 공지된다(야구~타오위안커우~케이블카 상부역 등).",
+    "value": null,
+    "evidence": "自2026年9月5日起，太清索道线路所辖游览步道24小时全天封闭",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6527.html",
+      "type": "official",
+      "page_updated": "2026-08-31"
+     }
+    ]
+   },
+   {
+    "cid": "c48",
+    "field": "caution",
+    "text": "타이칭 케이블카 구간이 폐쇄되는 동안 밍샤동·상칭궁은 바수이허에서 룽탄폭포 등산로로 왕복해 가라고 안내했다.",
+    "value": null,
+    "evidence": "由八水河沿龙潭瀑步行登山路往返",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6527.html",
+      "type": "official",
+      "page_updated": "2026-08-31"
+     }
+    ]
+   },
+   {
+    "cid": "c49",
+    "field": "caution",
+    "text": "야간 산행, 반려동물 동반, 계곡 수영, 암벽·나무 오르기는 금지된다.",
+    "value": null,
+    "evidence": "严禁在夜间入山",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-5571.html",
+      "type": "official",
+      "page_updated": "2024-09-17"
+     }
+    ]
+   },
+   {
+    "cid": "c50",
+    "field": "caution",
+    "text": "심장병·고혈압·저혈당·고소공포증이 있는 사람은 등산 관광 표 구매를 신중히 하라고 안내한다.",
+    "value": null,
+    "evidence": "患有心脏病、高血压、低血糖、恐高症等不适宜登山游览的人员请慎重购票",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+      "type": "official",
+      "page_updated": "2026-06-04"
+     }
+    ]
+   },
+   {
+    "cid": "c51",
+    "field": "caution",
+    "text": "안전·날씨·정비·수용 인원 조절로 제한이나 폐쇄가 있을 수 있으며 경구 공지를 따라야 한다.",
+    "value": null,
+    "evidence": "因安全、天气、维修改造、承载量调控等客观原因造成游览区内限流、关闭时请以景区通告为准",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/News-info-nid-5571.html",
+      "type": "official",
+      "page_updated": "2024-09-17"
+     }
+    ]
+   },
+   {
+    "cid": "c52",
+    "field": "language",
+    "text": "공식 웹사이트는 중국어·영어·일본어·한국어 페이지를 제공한다.",
+    "value": null,
+    "evidence": "中文 | English | 日本語 | 한국어",
+    "sources": [
+     {
+      "url": "https://qdlaoshan.cn/New-Index-index.html",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "hours",
+    "reason": "평시 개방 시간과 매표 마감을 하나로 정리한 현행 공식 페이지를 찾지 못했다. 위 7:00~17:30은 2025년 10월 조정 공지 속 기재이며, 한국어 공지(노산관광풍경구 운영 시간)는 구버전이라 현행 값으로 쓰지 않았다."
+   },
+   {
+    "field": "closed_days",
+    "reason": "정기 휴무일 안내가 공식 페이지에 없다. 폭우·정비 시 임시 폐쇄 공지만 있다."
+   },
+   {
+    "field": "duration",
+    "reason": "공식 안내에 권장 소요 시간이 없다. 표 유효기간(당일·2일·3일)만 확인."
+   },
+   {
+    "field": "payment",
+    "reason": "외국 카드·현금·모바일 결제 가능 여부는 공식 페이지에서 확인되지 않았다. 온라인 구매 창구(미니프로그램)는 JS 렌더링이라 열리지 않았다."
+   },
+   {
+    "field": "reservation",
+    "reason": "외국인 여권으로 예약하는 방법은 공식 페이지에 없다. 확인된 예약 절차는 신분증 번호 기준(화러우 안내)뿐이고, 일반 유람구 예약 절차 전문은 확인하지 못했다(공식 구매 페이지 Index-yuyue.html은 본문이 비어 있음)."
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내·오디오가이드 현장 서비스는 확인하지 못했다. 웹사이트 한국어 페이지는 2019년 이전 내용이라 인용하지 않았다."
+   },
+   {
+    "field": "fees.stale",
+    "reason": "요금표는 이미지이며 2026-06-04 공지로 12개월 이내이다. 공식 홈페이지 FAQ의 특수 계층 우대는 갱신일이 표기되지 않았다. 유의사항(5571호)은 2024-09-17 게시라 12개월 이상 경과(stale_source) — 다른 공식 출처가 있으면 재확인 필요."
+   }
+  ]
+ },
+ {
+  "key": "east-qd-02",
+  "name_ko": "팔대관",
+  "name_local": "八大关",
+  "admin_region": "산둥성 칭다오시 스난구",
+  "address": "山东省青岛市市南区太平山南麓，太平角与汇泉角之间（嘉峪关路·山海关路 일대）",
+  "description": "팔대관은 칭다오 스난구 타이핑산 남쪽 기슭, 타이핑자오와 후이취안자오 사이에 있는 근현대 건축 지구다. 1930년대에 조성되었고 면적은 66만 6천 제곱미터다. 옛 관문 이름을 딴 여덟 개 거리에서 이름이 유래했으며, 독일·러시아·미국·영국·프랑스 등 수십 개국 양식의 건축 300여 채가 모여 있어 만국건축박람회로 불린다. 2001년 전국 중점 문물보호단위로 공포되었고, 2005년에는 중국에서 가장 아름다운 도심 지역으로 선정되었다. 화스러우, 궁주러우, 후디에러우를 둘러볼 수 있으며 제2해수욕장과 타이핑자오 공원이 가까이 있다. 거리가 좁고 일방통행이라 걸어서 둘러보기 좋다.",
+  "highlights": [
+   "1930년대에 조성된 66만 6천 제곱미터의 근현대 건축 지구",
+   "독일·러시아·미국 등 수십 개국 양식 건축 300여 채, 별칭 만국건축박람회",
+   "2001년 전국 중점 문물보호단위로 공포",
+   "2005년 '중국에서 가장 아름다운 도심 지역' 선정",
+   "화스러우·궁주러우·후디에러우를 둘러볼 수 있고 화스러우 옆에 제2해수욕장",
+   "좁은 일방통행 거리가 많아 도보 관광에 적합"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "팔대관은 칭다오시 스난구 타이핑산 남쪽 기슭, 타이핑자오와 후이취안자오 사이에 있다.",
+    "value": null,
+    "evidence": "位于青岛市市南区太平山南麓太平角、汇泉角之间",
+    "sources": [
+     {
+      "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+      "type": "government",
+      "page_updated": "2020-09-10"
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "팔대관 거리는 자위관로와 산하이관로 일대로 소개된다.",
+    "value": null,
+    "evidence": "八大关（嘉峪关路、山海关路）",
+    "sources": [
+     {
+      "url": "http://www.qingdao.gov.cn/zwgk/xxgk/gaj/ywflxx_561/jtgl/202206/t20220601_6089001.shtml",
+      "type": "government",
+      "page_updated": "2022-05-31"
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "description",
+    "text": "팔대관은 1930년대에 조성되었다.",
+    "value": null,
+    "evidence": "建于20世纪30年代",
+    "sources": [
+     {
+      "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+      "type": "government",
+      "page_updated": "2020-09-10"
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "description",
+    "text": "팔대관의 면적은 66만 6천 제곱미터이다.",
+    "value": "666000m2",
+    "evidence": "占地面积66.6万平方米",
+    "sources": [
+     {
+      "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+      "type": "government",
+      "page_updated": "2020-09-10"
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "description",
+    "text": "옛 관문 이름을 붙인 여덟 개 거리가 있어 '팔대관'이라 부른다.",
+    "value": null,
+    "evidence": "因修筑八条以中国古代著名关隘命名的街道,故称八大关",
+    "sources": [
+     {
+      "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+      "type": "government",
+      "page_updated": "2020-09-10"
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "description",
+    "text": "독일·러시아·미국·영국·프랑스 등 수십 개국의 서로 다른 양식 건축 300여 채가 있어 '만국건축박람회'로 불린다.",
+    "value": null,
+    "evidence": "汇聚了德、俄、美、英、法、丹麦、希腊、西班牙、瑞士、日本等几十个国家不同风格的建筑300余座",
+    "sources": [
+     {
+      "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+      "type": "government",
+      "page_updated": "2020-09-10"
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "description",
+    "text": "2001년 팔대관 근현대 건축군이 국무원에 의해 전국 중점 문물보호단위로 공포되었다.",
+    "value": null,
+    "evidence": "2001年，八大关近现代建筑群被国务院公布为全国重点文物保护单位",
+    "sources": [
+     {
+      "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+      "type": "government",
+      "page_updated": "2020-09-10"
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "description",
+    "text": "2005년 팔대관 풍경구는 '중국에서 가장 아름다운 도심 지역' 칭호를 받았다.",
+    "value": null,
+    "evidence": "八大关风景区获由中国国家地理杂志社主办、全国媒体联合评选的“中国最美的城区”称号",
+    "sources": [
+     {
+      "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+      "type": "government",
+      "page_updated": "2020-09-10"
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "description",
+    "text": "팔대관은 후이취안자오 풍경구 북쪽에 있으며 지금은 거리가 10개이지만 이름은 그대로 유지된다.",
+    "value": null,
+    "evidence": "This area has 10 streets now, but the name has been kept.",
+    "sources": [
+     {
+      "url": "http://english.qingdao.gov.cn/about/attractions/202112/t20211228_4153036.shtml",
+      "type": "government",
+      "page_updated": "2021-12-28"
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "description",
+    "text": "칭다오시 문화관광국 2026년 6월 안내는 팔대관에서 화스러우·궁주러우·후디에러우를 둘러볼 수 있다고 소개한다.",
+    "value": null,
+    "evidence": "探访花石楼、公主楼、蝴蝶楼",
+    "sources": [
+     {
+      "url": "http://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202606/t20260618_10638992.shtml",
+      "type": "government",
+      "page_updated": "2026-06-14"
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "description",
+    "text": "화스러우 바로 옆에 제2해수욕장이 있고, 가까이에 타이핑자오 공원이 있다.",
+    "value": null,
+    "evidence": "花石楼旁就是第二海水浴场",
+    "sources": [
+     {
+      "url": "http://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202606/t20260618_10638992.shtml",
+      "type": "government",
+      "page_updated": "2026-06-14"
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "tip",
+    "text": "팔대관은 좁은 일방통행 거리가 많아 걸어서 둘러보기 좋다고 칭다오시 영문 안내가 설명한다.",
+    "value": null,
+    "evidence": "With its narrow one-way streets, this part of town is best visited on foot.",
+    "sources": [
+     {
+      "url": "http://english.qingdao.gov.cn/services/travel/202112/t20211228_4153227.shtml",
+      "type": "government",
+      "page_updated": "2021-12-28"
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "tip",
+    "text": "제1해수욕장은 팔대관에서 아주 가깝다.",
+    "value": null,
+    "evidence": "just a stone’s throw away from Badaguan",
+    "sources": [
+     {
+      "url": "http://english.qingdao.gov.cn/services/travel/202112/t20211228_4153227.shtml",
+      "type": "government",
+      "page_updated": "2021-12-28"
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "access",
+    "text": "칭다오시 공안 공지는 4월 1일부터 11월 30일까지 팔대관 일부 구역의 차량 통행을 제한한다고 밝혔다(2024년 9월 공지 기준). 제한 구역은 타이핑자오1로 서쪽, 정양관1지로 동쪽, 정양관로 남쪽 일대이다.",
+    "value": null,
+    "evidence": "自4月1日至11月30日，八大关景区部分区域限行",
+    "sources": [
+     {
+      "url": "http://www.qingdao.gov.cn/zwgk/xxgk/gaj/ywflxx_561/jtgl/202409/t20240914_8272650.shtml",
+      "type": "government",
+      "page_updated": "2024-09-14"
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "hours",
+    "reason": "지구·화스러우·궁주러우의 개방 시간을 공식 출처(칭다오시 정부, 스난구)에서 찾지 못했다."
+   },
+   {
+    "field": "closed_days",
+    "reason": "공식 출처에서 정기 휴무 안내를 찾지 못했다."
+   },
+   {
+    "field": "fees",
+    "reason": "현행 입장료·무료 여부를 확인하지 못했다. 칭다오시 정부 2022-05-31 공지는 2022-06-01~12-31 한시 무료 개방이었고 현재 적용 여부를 알 수 없다. 건물(화스러우·궁주러우)의 별도 유료 여부도 현행 공식 안내가 없다."
+   },
+   {
+    "field": "reservation",
+    "reason": "예약 필요 여부와 외국인 여권 예약 방법을 공식 출처에서 찾지 못했다."
+   },
+   {
+    "field": "payment",
+    "reason": "결제 수단·외국 카드 가능 여부를 공식 출처에서 찾지 못했다."
+   },
+   {
+    "field": "access",
+    "reason": "가장 가까운 역·정류장과 도보 시간, 주차장 정보는 공식 출처에서 찾지 못했다. 차량 제한만 확인(위 claim)."
+   },
+   {
+    "field": "duration",
+    "reason": "공식 소요 시간 안내가 없다."
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내·오디오가이드 여부를 공식 출처에서 찾지 못했다."
+   },
+   {
+    "field": "stale_source",
+    "reason": "기본 설명 페이지(2020-09-10 게시)는 12개월 이상 경과. 건축·연혁 수치는 변동이 적으나 재확인 권장. 2024-09-14 교통 공지도 12개월 이상 경과했으므로 올해 제한 적용은 별도 확인 필요."
+   }
+  ]
+ }
+]

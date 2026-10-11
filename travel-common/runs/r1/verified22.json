@@ -1,0 +1,609 @@
+{
+ "places": [
+  {
+   "key": "nature-cbs-01",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The footer of the 2026-10-09 page gives the management committee's address as 吉林省长白山保护开发区池北区. This is the committee's address, not the scenic area's."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2021-08-16 post (source: 悠游吉林, reposted on the committee site): '北景区从二道白河小镇进山'. Stale source, but it is a geographic fact."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Reply dated 2024-10-17 lists 天池、瀑布、温泉群、小天池、绿渊潭、谷底森林. Stale, but it is a geographic/attraction fact."
+    },
+    {
+     "cid": "c4",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "The 2024-10-17 reply does say '北、西景区全年开放'. This is an operating rule over 12 months old and no current official page confirms it, including the 2026-09-17 reply and the 2026-10 news."
+    },
+    {
+     "cid": "c5",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "The 2024-10-16 reply says 天池景点视天气、道路情况判定是否开放 and also gives a daily 8:00 opening. This is an operating rule over 12 months old and no current page confirms it."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Reply dated 2026-09-17: 现行门票为当日当次有效，北、西、南坡需分别预约购票."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Reply dated 2026-09-17: the 5-day 一票游五天 policy for the north and west areas was abolished on 2023-07-01."
+    },
+    {
+     "cid": "c8",
+     "verdict": "corrected",
+     "corrected_text": "예약·요금 규정은 ‘长白山’ 공식 미니프로그램과 경구 현장 공고를 기준으로 하라고 안내한다(2026-09-17 관리위원회 답변).",
+     "note": "Content matches. The claim's term '소정청' is wrong; the page means the official mini-program (小程序)."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "400-000-6789 (7:50—19:00), 2026-09-17 reply."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Post dated 2026-10-08: 分时预约、错峰入园为核心. Applies to the 2026 National Day holiday only."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2026-10-08: 预检通道 → A馆检票口 刷脸 → 景区大巴. The same page says the 北景区游客中心 also requires time-slot pre-check."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2026-10-08: B馆等候专区 has 票务咨询、餐饮、卫生间."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2026-10-09: opened 10月1日, 552 spaces, 336 of them SUV."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "线上预约存取, real-time free-space monitoring, average retrieval time about 80 seconds."
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Holiday daily average was 516 cars against 552 spaces (基本达到满负荷). The page also mentions 旺季自驾车流集中、停车资源紧缺."
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Post dated 2026-07-28: Line 1 runs 长白山高铁站 to 池北区交通集散中心, first bus 7:00, last 18:20, fare 2元. WebFetch/curl first returned 503; it opened on retry."
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Line 3 runs 长白山站 to 集散中心, 7:00/18:20, fare 2元."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Routes and stops change for emergencies or weather; phone 0433-5675666."
+    },
+    {
+     "cid": "c19",
+     "verdict": "corrected",
+     "corrected_text": "창바이산 천지는 세계에서 해발고도가 가장 높은 화구호(火山口湖)이며, 북경구에서는 천지를 내려다보는(부감) 시점이지만 앞 봉우리에 가려 보이는 각도가 비교적 좁다고 소개된다(2021년 게시글).",
+     "note": "The page says 火山口湖 (crater lake), not just a volcanic lake. It also says the north view is 俯视 and 角度相对较小."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Same source as c3 (2024-10-17). The text should give the date."
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Same source as c6 (2026-09-17)."
+    }
+   ],
+   "unsupported_in_description": [
+    "천지는 날씨와 도로 상황에 따라 열리지 않을 수 있으므로 출발 전 공식 안내를 확인해야 한다 (c5 is unverifiable: 2024 source, no current confirmation)",
+    "성수기에는 시간대별 예약과 사전 점검을 거쳐 ... (the sources cover only the 2026 National Day holiday; 성수기 is a generalisation, so restate it as the 2026년 국경절 연휴 rule)"
+   ],
+   "unsupported_in_highlights": [
+    "시간대별 예약 후 사전 점검과 안면 인식 검표를 거쳐 경구 버스 탑승 (only the 2026 National Day holiday is confirmed; state the period)"
+   ],
+   "suggested_claims": [
+    {
+     "field": "tip",
+     "text": "북파 스마트 주차빌딩에는 외투 대여 등 편의 서비스와 문창 전시·카페 공간이 함께 운영된다(2026-10-09 게시).",
+     "url": "http://www.changbaishan.gov.cn/mtcbs/202610/t20261009_272015.html"
+    },
+    {
+     "field": "reservation",
+     "text": "2026년 국경절 연휴에는 북경구 유객중심으로 가는 방문객도 시간대별 사전 점검 입장 규정을 따랐다.",
+     "url": "http://www.changbaishan.gov.cn/zbsly/lydt/202610/t20261008_272004.html"
+    },
+    {
+     "field": "tip",
+     "text": "인터넷에 도는 ‘5일 유효 북·서 연계권’ 정보는 2023년 7월 1일 폐지된 옛 정책이라고 관리위원회가 밝혔다(2026-09-17).",
+     "url": "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+    }
+   ],
+   "conflicts": [
+    "fees, hours: no current official page gives entrance fees or opening hours. The 2021-08-16 post lists 门票105元, 环保车85元, 主峰车80元, which is stale and not suggested. The 2024-10-16 reply gives a daily 8:00 opening, also stale. I found nothing current in 2 lookups (旅游服务 and 旅游动态 indexes). Fees and hours stay unconfirmed.",
+    "Stale sources: 2021-08-16 (c2, c19), 2024-10-16 (c5), 2024-10-17 (c3, c4, c20).",
+    "c1 location is the management committee's address (池北区), not a scenic-area gate address."
+   ]
+  },
+  {
+   "key": "nature-cbs-02",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2021-08-16 (悠游吉林 repost): '西景区从白山市抚松县进山'. Stale, but geographic."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2021-07-26: 长白山机场距长白山西景区游客集散中心仅18公里. The 池西区游客集散中心 is mentioned on the same page. Stale (2021); state the date."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2024-10-17 reply: 天池、长白山大峡谷(锦江大峡谷)、高山花园、王池."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Both the 2024-10-17 reply and the 2021 post give 1442 steps. Physical fact."
+    },
+    {
+     "cid": "c5",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "The 2024-10-17 reply does say 王池 is open 7月1日到9月15日. This is an open-season rule over 12 months old and no current official page confirms it. Today (Oct) is outside that season anyway."
+    },
+    {
+     "cid": "c6",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "The 2024-10-17 reply says 每年7月到7月中旬左右开放. The wording matches, but it is a stale open-season rule with no current confirmation."
+    },
+    {
+     "cid": "c7",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "Same as nature-cbs-01 c4: a stale 2024 operating rule with no current confirmation."
+    },
+    {
+     "cid": "c8",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "Same as nature-cbs-01 c5: a stale 2024-10-16 operating rule with no current confirmation."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2026-09-17 reply."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2026-09-17 reply. Correct wording: '长白山' 官方小程序 and 景区现场公告."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "400-000-6789 (7:50—19:00)."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2021: 视野较开阔，可以平视天池全景; 环保车只能开到半山腰. The bus arrangement is from 2021; state the date."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2021: 大峡谷长70公里，谷深80-100米."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1442 steps (2024-10-17)."
+    }
+   ],
+   "unsupported_in_description": [
+    "연중 개방된다 (c7 unverifiable)",
+    "고산화원은 7월부터 7월 중순 무렵, 왕츠는 7월 1일부터 9월 15일까지 열린다고 안내된다 (c5 and c6 unverifiable: stale 2024 season rules)",
+    "날씨에 따라 천지 개방 여부가 정해지므로 출발 전 공식 공지를 확인하는 것이 좋다 (c8 unverifiable)",
+    "츠시구 쪽에서 오르는 코스: only indirectly supported, by the 2021 mention of the 池西区/西景区 visitor centre (c2)"
+   ],
+   "unsupported_in_highlights": [
+    "왕츠는 7월 1일~9월 15일, 고산화원은 7월~7월 중순 무렵 개방 (c5 and c6 unverifiable)",
+    "북·서 경구는 연중 개방 (c7 unverifiable)"
+   ],
+   "suggested_claims": [
+    {
+     "field": "description",
+     "text": "서경구에는 제자하(梯子河), 진장 폭포(총 낙차 약 70m), 원앙지(鸳鸯池) 등도 있다고 소개된다(2021년 게시글).",
+     "url": "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html"
+    }
+   ],
+   "conflicts": [
+    "The 2024-10-17 reply equates 长白山大峡谷 with 锦江大峡谷. The 2021-08-16 post lists 长白山大峡谷 and 锦江峡谷 as separate sights. Use the 2024 wording with care.",
+    "access, fees, hours: no current official source found in 2 lookups. The 2021 post's fees (105/85元) and the 2021 airport-bus and inter-area bus details are stale.",
+    "Stale sources: 2021-07-26 (c2), 2021-08-16 (c1, c12, c13), 2024-10-16 (c8), 2024-10-17 (c3–c7, c14)."
+   ]
+  },
+  {
+   "key": "cd-panda-base",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The footer and the about page both give 成华区熊猫大道1375号."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "10km / about 30km / about 50km."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Founded 1987; 核心区总面积3570亩."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "军区总医院站 exit B, walk 20m, shuttle 409, about 10 minutes."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Buses 110, 110A and 659 to 玉垒路翠微路口站, then 600m on foot."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "熊猫大道站 exit A, shuttle 408."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "动物园站, then bus 655 or 87."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "春熙路、宽窄巷子等设有专线大巴."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "About 40元 (25-35 min) and about 40元 (25-30 min)."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "About 100元 (40-50 min) and about 200元 (60-70 min)."
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "铂领荟地下停车场, then shuttle D569."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "迎迎停车场, about 15 minutes' walk."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Opening-time and ticket pages agree."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "9:00—17:00, last entry 16:30."
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c17",
+     "verdict": "corrected",
+     "corrected_text": "동물 복지를 위해 판다 6호 별장 구역은 매주 월요일 휴관을 시범 운영(试行)하며, 국가 법정 공휴일은 제외다.",
+     "note": "The page says this is a trial (探索试行); the claim omits that."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "熊猫美术馆周一闭馆维护, except statutory holidays."
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "55元, ages over 18 up to 59 inclusive."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "27元."
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "6周岁(含)或1.3米以下, no booking needed; ID checked at entry."
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "免费不免票. The full list of eligible groups is longer."
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "168元/年, ages 7-59."
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "游客须知: both luggage-storage methods are free; 婴儿车、轮椅、雨伞、拐杖 are free to borrow."
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Accepted IDs include 护照 and 外国人永久居留身份证."
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c33",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Also lists '成都景区直通车' and '成都旅游观光巴士' WeChat accounts; groups book via the web version."
+    },
+    {
+     "cid": "c34",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c35",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c36",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Applies from 2026-08-27, not retroactive. Tickets are valid on the visit date only."
+    },
+    {
+     "cid": "c37",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c38",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Says 中、英文多语言. Korean is not mentioned."
+    },
+    {
+     "cid": "c39",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c40",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c41",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c42",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c43",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c44",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c45",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    },
+    {
+     "cid": "c46",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches."
+    }
+   ],
+   "unsupported_in_description": [
+    "저장고와 유모차 대여는 무료다: the substance is backed by c29, but '저장고' (warehouse) is the wrong word; it should be '짐 보관'."
+   ],
+   "unsupported_in_highlights": [
+    "원내 관광차 30위안, 남문과 서문을 잇는 노선: no claim covers the route part. The sightseeing-bus page supports it (see suggested_claims)."
+   ],
+   "suggested_claims": [
+    {
+     "field": "access",
+     "text": "원내 관광차는 남문↔서문 노선(판다 별장·태양 산실·판다탑·별 산실·판다 계곡 등 경유)으로 운행하며, 종점 도착 후 다시 타려면 새로 줄 서서 검표해야 한다.",
+     "url": "https://www.panda.org.cn/cn/service/sightseeingbus"
+    },
+    {
+     "field": "reservation",
+     "text": "관광차표는 공식 미니프로그램·공식계정에서 14일 전부터 예약하거나 당일 현장 구매할 수 있고, 미사용 표는 당일 17:00부터 30일 안에 환불한다(2026-08-27 시행).",
+     "url": "https://www.panda.org.cn/cn/service/sightseeingbus"
+    },
+    {
+     "field": "fees",
+     "text": "입장권은 청두 판다기지 전용이며 두장옌 판다곡(都江堰熊猫谷)은 포함되지 않는다.",
+     "url": "https://www.panda.org.cn/cn/service/ticket"
+    },
+    {
+     "field": "fees",
+     "text": "18세 초과 학생은 학생증과 신분증을 함께 제시해야 학생권(27위안)으로 입장할 수 있고, 조건이 안 맞으면 차액을 내야 한다.",
+     "url": "https://www.panda.org.cn/cn/service/ticket"
+    },
+    {
+     "field": "tip",
+     "text": "원내 여러 곳에 무료 직음수대가 있고 서문·남문 방문자 센터에 수유실과 휴게·독서 공간이 있다.",
+     "url": "https://www.panda.org.cn/cn/service/notice"
+    }
+   ],
+   "conflicts": [
+    "payment: I checked the 餐饮、购物 page (1 lookup); it has no payment information. Only the audio-guide WeChat Pay/Alipay detail (c37) is confirmed.",
+    "language: the official audio guide lists only Chinese and English. A Korean guide is not confirmed.",
+    "page_updated: the pages show no update date. The latest dated rule visible is the 2026-08-27 refund rule; the copyright line reads 2001-2026.",
+    "duration: no official visit-duration figure was found."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 81,
+  "verified": 72,
+  "corrected": 3,
+  "outdated": 0,
+  "unverifiable": 6,
+  "rejected": 0,
+  "notes": [
+   "All 15 cited URLs opened with curl. One page (changbaishan …/lyfw/jt/202607/t20260728_271246.html) returned 503 at first and opened on retry. Reply dates on the Q&A pages come from the date the page's script writes into the visible reply-time field: 2024-10-16, 2024-10-17 and 2026-09-17.",
+   "The stale Q&A replies from 2024-10 drive every unverifiable verdict for Changbaishan: year-round opening, the 王池 and 高山花园 seasons, and Tianchi opening depending on weather. I found no current official page restating them. The descriptions and highlights of nature-cbs-01 and nature-cbs-02 should drop those statements or present them as dated.",
+   "The 2021 Changbaishan guide posts are reposts (悠游吉林, 长白山旅游官V) on the committee site. I accepted them only for geographic and physical facts, with the date stated.",
+   "For Changbaishan, current entrance fees and opening hours remain unconfirmed by any current official page."
+  ]
+ }
+}

@@ -2,7 +2,7 @@
  "id": "cd-panda-base",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "청두 판다번식연구기지",
   "local": "成都大熊猫繁育研究基地"
@@ -10,7 +10,7 @@
  "admin_region": "쓰촨성",
  "former_region": null,
  "city": "청두",
- "address": null,
+ "address": "四川省成都市成华区熊猫大道1375号",
  "coord": {
   "lat": 30.743228,
   "lng": 104.132931,
@@ -21,93 +21,1202 @@
   "osm": "way/941885688"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "청두 판다번식연구기지는 쓰촨성 청두시 청화구 슝마오다다오 1375호에 있으며, 1987년에 설립되어 핵심 구역 면적이 3570무에 이른다.",
+ "description": "청두 판다번식연구기지는 쓰촨성 청두시 청화구 슝마오다다오 1375호에 있으며, 1987년에 설립되어 핵심 구역 면적이 3570무에 이른다. 시내 톈푸광장에서 10km 떨어져 있다. 지하철 3호선에서 셔틀버스를 타면 서문과 남문에 닿는다. 입장은 온라인 실명 예약이 원칙이며 성인 입장권은 55위안이다. 3~10월에는 오전권 7:30-12:00, 오후권 12:00-17:00에 입장하고 18:00부터 폐원 정리가 시작된다. 판다탑은 무료이지만 예약이 필요하다. 원내 관광차는 30위안이고, 짐 보관과 유모차 대여는 무료다.",
+ "highlights": [
+  "성인 입장권 55위안, 60세 이상과 6세 이하 또는 1.3m 이하 어린이는 무료",
+  "3~10월 오전권 7:30-12:00, 오후권 12:00-17:00",
+  "판다탑 9:00-17:00 개방, 무료지만 예약 필요",
+  "원내 관광차 전일권 30위안",
+  "지하철 3호선에서 셔틀버스로 서문·남문 이동"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c1",
+    "r1-b22-c2"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "좌표는 지도 대조를 하지 않음. 행정구역은 공식 페이지의 '成华区' 표기 기준",
+     "detail": "location",
+     "run": "r1-b22"
+    }
+   ]
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c4",
+    "r1-b22-c5",
+    "r1-b22-c6",
+    "r1-b22-c7",
+    "r1-b22-c8",
+    "r1-b22-c9",
+    "r1-b22-c10",
+    "r1-b22-c11",
+    "r1-b22-c12",
+    "r1-b22-c40"
+   ],
+   "gap": null
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 소요시간 안내 없음"
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c13",
+    "r1-b22-c14",
+    "r1-b22-c15",
+    "r1-b22-c16"
+   ],
+   "gap": null
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c17",
+    "r1-b22-c18"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "기지 전체의 정기 휴무일 안내는 없음(일부 시설 월요일 휴관만 확인)",
+     "detail": "closed_days",
+     "run": "r1-b22"
+    }
+   ]
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c19",
+    "r1-b22-c20",
+    "r1-b22-c21",
+    "r1-b22-c22",
+    "r1-b22-c23",
+    "r1-b22-c24",
+    "r1-b22-c25",
+    "r1-b22-c26",
+    "r1-b22-c27",
+    "r1-b22-c28",
+    "r1-b22-c29"
+   ],
+   "gap": null
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c30",
+    "r1-b22-c31",
+    "r1-b22-c32",
+    "r1-b22-c33",
+    "r1-b22-c34",
+    "r1-b22-c35",
+    "r1-b22-c36"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "외국인 전용 예약 절차(해외 번호·해외 결제 가능 여부)는 공식 페이지에 없음",
+     "detail": "reservation",
+     "run": "r1-b22"
+    }
+   ]
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c37"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "입장권·관광차 구매 시 외국 발급 카드·현금 사용 가능 여부는 공식 페이지에 없음. 위챗 미니프로그램 등 온라인 결제와 오디오가이드 위챗/알리페이만 확인",
+     "detail": "payment",
+     "run": "r1-b22"
+    }
+   ]
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c38",
+    "r1-b22-c39"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내·한국어 오디오가이드 여부는 공식 페이지에 없음(중·영만 확인)",
+     "detail": "language",
+     "run": "r1-b22"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b22-c41",
+    "r1-b22-c42",
+    "r1-b22-c43",
+    "r1-b22-c44"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b22-c1",
+   "field": "location",
+   "text": "주소는 중국 쓰촨성 청두시 청화구 슝마오다다오 1375호다.",
+   "original_text": null,
+   "value": "四川省成都市成华区熊猫大道1375号",
+   "verdict": "verified",
+   "verify_note": "The footer and the about page both give 成华区熊猫大道1375号.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/opentime",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c2",
+   "field": "location",
+   "text": "기지는 시내 중심(톈푸광장)에서 10km, 솽류 국제공항에서 약 30km, 톈푸 국제공항에서 약 50km 떨어져 있다.",
+   "original_text": null,
+   "value": "10km / 30km / 50km",
+   "verdict": "verified",
+   "verify_note": "10km / about 30km / about 50km.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/about",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c3",
+   "field": "description",
+   "text": "기지는 1987년에 설립되었고 핵심 구역 면적은 3570무다.",
+   "original_text": null,
+   "value": "1987 / 3570무",
+   "verdict": "verified",
+   "verify_note": "Founded 1987; 核心区总面积3570亩.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/about",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c4",
+   "field": "access",
+   "text": "서문은 지하철 3호선 군구총병원(军区总医院)역 B출구 후 도보 20m 정류장에서 409번 셔틀을 타면 약 10분에 도착한다.",
+   "original_text": null,
+   "value": "약 10분",
+   "verdict": "verified",
+   "verify_note": "军区总医院站 exit B, walk 20m, shuttle 409, about 10 minutes.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/transit",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c5",
+   "field": "access",
+   "text": "서문은 110·110A·659번 버스로 위레이로 추이웨이로 입구역에서 내려 600m 걸어도 된다.",
+   "original_text": null,
+   "value": "600m",
+   "verdict": "verified",
+   "verify_note": "Buses 110, 110A and 659 to 玉垒路翠微路口站, then 600m on foot.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/transit",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c6",
+   "field": "access",
+   "text": "남문은 지하철 3호선 슝마오다다오(熊猫大道)역 A출구에서 408번 셔틀로 바로 갈 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "熊猫大道站 exit A, shuttle 408.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/transit",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c7",
+   "field": "access",
+   "text": "남문은 지하철 3호선 동물원(动物园)역에서 655번 또는 87번 버스로도 갈 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "动物园站, then bus 655 or 87.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/transit",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c8",
+   "field": "access",
+   "text": "춘시루·콴자이샹즈 등 시내 명소에서 출발하는 경구 직통 대형버스 전용 노선이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "春熙路、宽窄巷子等设有专线大巴.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/transit",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c9",
+   "field": "access",
+   "text": "택시 참고 요금은 춘시루에서 약 40위안(25-35분), 청두동역에서 약 40위안(25-30분)이다.",
+   "original_text": null,
+   "value": "춘시루 약40元 25-35분; 청두동역 약40元 25-30분",
+   "verdict": "verified",
+   "verify_note": "About 40元 (25-35 min) and about 40元 (25-30 min).",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/transit",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c10",
+   "field": "access",
+   "text": "택시 참고 요금은 솽류 국제공항에서 약 100위안(40-50분), 톈푸 국제공항에서 약 200위안(60-70분)이다.",
+   "original_text": null,
+   "value": "쌍류 약100元 40-50분; 톈푸 약200元 60-70분",
+   "verdict": "verified",
+   "verify_note": "About 100元 (40-50 min) and about 200元 (60-70 min).",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/transit",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c11",
+   "field": "parking",
+   "text": "서문으로 자가운전할 경우 ‘보링후이 지하주차장’을 내비 목적지로 하고 D569번 셔틀로 갈아탄다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "铂领荟地下停车场, then shuttle D569.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/transit",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c12",
+   "field": "parking",
+   "text": "남문으로 자가운전할 경우 ‘잉잉주차장’에 주차하고 약 15분 걸어간다.",
+   "original_text": null,
+   "value": "도보 약 15분",
+   "verdict": "verified",
+   "verify_note": "迎迎停车场, about 15 minutes' walk.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/transit",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c13",
+   "field": "hours",
+   "text": "3~10월 입장 시간은 오전권 7:30-12:00, 오후권 12:00-17:00이며 18:00부터 폐원 정리를 시작한다.",
+   "original_text": null,
+   "value": "3-10월",
+   "verdict": "verified",
+   "verify_note": "Opening-time and ticket pages agree.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/opentime",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c14",
+   "field": "hours",
+   "text": "11월~다음 해 2월 입장 시간은 오전권 8:00-12:00, 오후권 12:00-16:30이며 17:30부터 폐원 정리를 시작한다.",
+   "original_text": null,
+   "value": "11-2월",
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/opentime",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c15",
+   "field": "hours",
+   "text": "판다탑(熊猫塔)은 9:00-17:00 개방하고 16:30에 입장을 마감한다.",
+   "original_text": null,
+   "value": "9:00-17:00 (16:30 마감)",
+   "verdict": "verified",
+   "verify_note": "9:00—17:00, last entry 16:30.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/opentime",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c16",
+   "field": "hours",
+   "text": "서문·남문 방문자 센터는 3~10월 7:30-18:00, 11월~다음 해 2월 8:00-17:30 운영한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/opentime",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c17",
+   "field": "closed_days",
+   "text": "동물 복지를 위해 판다 6호 별장 구역은 매주 월요일 휴관을 시범 운영(试行)하며, 국가 법정 공휴일은 제외다.",
+   "original_text": "판다 6호 별장 구역은 매주 월요일 폐관하며 법정 공휴일은 제외다.",
+   "value": "월요일(법정공휴일 제외)",
+   "verdict": "corrected",
+   "verify_note": "The page says this is a trial (探索试行); the claim omits that.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/notice",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c18",
+   "field": "closed_days",
+   "text": "판다 미술관은 월요일 폐관 정비하며 법정 공휴일은 제외다.",
+   "original_text": null,
+   "value": "월요일(법정공휴일 제외)",
+   "verdict": "verified",
+   "verify_note": "熊猫美术馆周一闭馆维护, except statutory holidays.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/notice",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c19",
+   "field": "fees",
+   "text": "성인권은 55위안이며 18세 초과~59세(포함) 대상이다.",
+   "original_text": null,
+   "value": "55元",
+   "verdict": "verified",
+   "verify_note": "55元, ages over 18 up to 59 inclusive.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c20",
+   "field": "fees",
+   "text": "학생권은 27위안이며 대학 본과 이하 재학생(성인교육 제외)이 대상이다.",
+   "original_text": null,
+   "value": "27元",
+   "verdict": "verified",
+   "verify_note": "27元.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c21",
+   "field": "fees",
+   "text": "60세 이상 노인은 무료이며 예약이 필요 없고 신분증 원본으로 확인 후 입장한다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c22",
+   "field": "fees",
+   "text": "6세 이하 또는 키 1.3m 이하 어린이는 무료이며 예약이 필요 없다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "6周岁(含)或1.3米以下, no booking needed; ID checked at entry.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c23",
+   "field": "fees",
+   "text": "현역·퇴역 군인, 장애인, 단체 가이드 등 우대 대상은 무료이나 표는 예약하고 증빙을 내야 한다(‘免费不免票’).",
+   "original_text": null,
+   "value": "무료(표 필요)",
+   "verdict": "verified",
+   "verify_note": "免费不免票. The full list of eligible groups is longer.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c24",
+   "field": "fees",
+   "text": "1인 연간 이용권은 168위안이며 7~59세 대상이다.",
+   "original_text": null,
+   "value": "168元/年",
+   "verdict": "verified",
+   "verify_note": "168元/年, ages 7-59.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c25",
+   "field": "fees",
+   "text": "판다탑은 입장료는 무료이나 온라인 예약이 필요하고, 60세 이상은 신분증 카드로 예약 없이 입장한다.",
+   "original_text": null,
+   "value": "무료(예약 필요)",
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/opentime",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c26",
+   "field": "fees",
+   "text": "원내 관광차 전일권은 1인 30위안이며 1.3m 이상 방문자는 모두 구매해야 하고 어느 정류장에서도 탈 수 있다.",
+   "original_text": null,
+   "value": "30元",
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/sightseeingbus",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c27",
+   "field": "fees",
+   "text": "관광차 월 정기권은 298위안이며 실명 온라인 구매, 본인만 사용 가능하다.",
+   "original_text": null,
+   "value": "298元/월",
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/sightseeingbus",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c28",
+   "field": "fees",
+   "text": "셀프 오디오 가이드 대여료는 전체 구역 30위안/대/일, 박물관 20위안/대/일이다.",
+   "original_text": null,
+   "value": "30元 / 20元",
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/explain",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c29",
+   "field": "fees",
+   "text": "방문자 센터의 짐 보관은 무료이며 유모차·휠체어·우산 등 대여도 무료다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "游客须知: both luggage-storage methods are free; 婴儿车、轮椅、雨伞、拐杖 are free to borrow.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/notice",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c30",
+   "field": "reservation",
+   "text": "60세 이상과 6세 이하(또는 1.3m 이하) 어린이를 제외한 모든 방문자는 온라인 실명 예약 후 예약 시 입력한 본인 신분증을 가져가야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c31",
+   "field": "reservation",
+   "text": "신분 확인용 증빙에 여권, 대만·홍콩·마카오 통행증, 외국인 영주증이 포함된다.",
+   "original_text": null,
+   "value": "여권 인정",
+   "verdict": "verified",
+   "verify_note": "Accepted IDs include 护照 and 外国人永久居留身份证.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c32",
+   "field": "reservation",
+   "text": "입장권은 14일 전부터 온라인 예약이 가능하고 당일 매진되면 판매가 끝난다.",
+   "original_text": null,
+   "value": "14일 전",
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c33",
+   "field": "reservation",
+   "text": "예약 채널은 공식 위챗 공식계정·미니프로그램과 메이퇀, 트립닷컴, 더우인, 퉁청 등 공식 제휴 플랫폼이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Also lists '成都景区直通车' and '成都旅游观光巴士' WeChat accounts; groups book via the web version.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c34",
+   "field": "reservation",
+   "text": "하루 최대 수용 인원은 8.5만 명이며 1인 1증 1표 원칙이라 본인이 아니면 입장할 수 없다.",
+   "original_text": null,
+   "value": "85,000명/일",
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c35",
+   "field": "reservation",
+   "text": "온라인 결제가 어려운 특별한 사정이 있으면 표가 남아 있을 때 현장 매표소에서 구매할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c36",
+   "field": "reservation",
+   "text": "미사용 표는 방문 당일 17:00부터 30일 안에 구매 채널에서 환불해야 하며 이 규정은 2026년 8월 27일부터 적용된다.",
+   "original_text": null,
+   "value": "30일",
+   "verdict": "verified",
+   "verify_note": "Applies from 2026-08-27, not retroactive. Tickets are valid on the visit date only.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c37",
+   "field": "payment",
+   "text": "셀프 오디오 가이드는 위챗 또는 알리페이 QR 스캔 후 보증금 면제 인증으로 대여한다.",
+   "original_text": null,
+   "value": "위챗/알리페이",
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/explain",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c38",
+   "field": "language",
+   "text": "셀프 오디오 가이드는 중국어·영어 다국어 선택이 가능하고 위치에 따라 자동 재생된다.",
+   "original_text": null,
+   "value": "중·영",
+   "verdict": "verified",
+   "verify_note": "Says 中、英文多语言. Korean is not mentioned.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/explain",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c39",
+   "field": "language",
+   "text": "인력 해설 서비스 시간은 7:30-17:30이고 서비스 전화는 028-83510022다.",
+   "original_text": null,
+   "value": "7:30-17:30",
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/explain",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c40",
+   "field": "access",
+   "text": "관광차는 3~10월 7:30-17:30 매표, 18:00 운행 종료이고 11월~다음 해 2월은 8:00-17:00 매표, 17:30 운행 종료다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/sightseeingbus",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c41",
+   "field": "caution",
+   "text": "반려동물 동반, 드론·자전거·킥보드 반입, 플래시 사용, 동물 먹이 주기 등이 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/notice",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c42",
+   "field": "caution",
+   "text": "원내 방사 동물이나 체험형 레서판다와는 3m 이상 거리를 유지해야 한다.",
+   "original_text": null,
+   "value": "3m",
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/notice",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c43",
+   "field": "caution",
+   "text": "악천후·동물 보호·시설 정비 등으로 일부 구역이 임시 폐쇄되거나 동물이 보이지 않을 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/notice",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c44",
+   "field": "caution",
+   "text": "판다탑은 날씨나 설비 점검으로 임시 중단될 수 있고 동시 200명이 차면 자동으로 입장이 멈춘다.",
+   "original_text": null,
+   "value": "200명",
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/opentime",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c45",
+   "field": "tip",
+   "text": "관광 문의 전화는 028-83510033이다.",
+   "original_text": null,
+   "value": "028-83510033",
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/opentime",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-c46",
+   "field": "highlight",
+   "text": "성인 입장권은 55위안이고 60세 이상과 6세 이하 또는 1.3m 이하 어린이는 무료다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches.",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-s1",
+   "field": "access",
+   "text": "원내 관광차는 남문↔서문 노선(판다 별장·태양 산실·판다탑·별 산실·판다 계곡 등 경유)으로 운행하며, 종점 도착 후 다시 타려면 새로 줄 서서 검표해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/sightseeingbus",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-s2",
+   "field": "reservation",
+   "text": "관광차표는 공식 미니프로그램·공식계정에서 14일 전부터 예약하거나 당일 현장 구매할 수 있고, 미사용 표는 당일 17:00부터 30일 안에 환불한다(2026-08-27 시행).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/sightseeingbus",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-s3",
+   "field": "fees",
+   "text": "입장권은 청두 판다기지 전용이며 두장옌 판다곡(都江堰熊猫谷)은 포함되지 않는다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-s4",
+   "field": "fees",
+   "text": "18세 초과 학생은 학생증과 신분증을 함께 제시해야 학생권(27위안)으로 입장할 수 있고, 조건이 안 맞으면 차액을 내야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/ticket",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  },
+  {
+   "cid": "r1-b22-s5",
+   "field": "tip",
+   "text": "원내 여러 곳에 무료 직음수대가 있고 서문·남문 방문자 센터에 수유실과 휴게·독서 공간이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/cn/service/notice",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b22"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b22",
+   "text": "payment: I checked the 餐饮、购物 page (1 lookup); it has no payment information. Only the audio-guide WeChat Pay/Alipay detail (c37) is confirmed."
+  },
+  {
+   "run": "r1-b22",
+   "text": "language: the official audio guide lists only Chinese and English. A Korean guide is not confirmed."
+  },
+  {
+   "run": "r1-b22",
+   "text": "page_updated: the pages show no update date. The latest dated rule visible is the 2026-08-27 refund rule; the copyright line reads 2001-2026."
+  },
+  {
+   "run": "r1-b22",
+   "text": "duration: no official visit-duration figure was found."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -190,6 +1299,46 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b22",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 46,
+    "verdicts": {
+     "verified": 45,
+     "corrected": 1,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 5
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "주차 요금과 주차장 운영 시간은 공식 페이지에 없음",
+   "run": "r1-b22"
+  },
+  {
+   "topic": "page_updated",
+   "note": "panda.org.cn 페이지에 갱신일 표기가 없어 null. 티켓 환불 규정에 2026-08-27 시행 문구가 있어 최근 갱신된 것으로 보임",
+   "run": "r1-b22"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "저장고와 유모차 대여는 무료다: the substance is backed by c29, but '저장고' (warehouse) is the wrong word; it should be '짐 보관'.",
+   "원내 관광차 30위안, 남문과 서문을 잇는 노선: no claim covers the route part. The sightseeing-bus page supports it (see suggested_claims)."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b22"
  }
 }

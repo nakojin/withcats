@@ -1,0 +1,399 @@
+{
+ "places": [
+  {
+   "key": "bj-summer-palace",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The s.visitbeijing attraction page gives the address as 北京市海淀区新建宫门路19号. The page has no date. The site is run by 北京市文化和旅游局宣传中心, a municipal tourism body, not the operator. I did not check the coordinates against OSM."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 距北京城区十五公里，占地约二百九十公顷."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 乘地铁四号线，北宫门下车即到."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 西苑下车，经由同庆街西行500米到达颐和园东宫门（正门）."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 推荐游览时长 3小时."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The attraction page (undated) and the 2024-09-20 visitbeijing article agree. The official summerpalace-china.com site returned 503 and a connection timeout, so no current operator page was checked."
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The attraction page matches. The gygl.beijing.gov.cn notice from 颐和园管理处 also matches, but it is dated 2023-11-01 (stale). No current operator page was available."
+    },
+    {
+     "cid": "c8",
+     "verdict": "corrected",
+     "corrected_text": "불향각·덕화원·이화원박물관·쑤저우제는 성수기(4월 1일~10월 31일) 8:00 개문~18:00 폐문, 비수기(11월 1일~3월 31일) 8:30 개문~17:00 폐문이다.",
+     "note": "The values match, but the claim did not give the season dates, so I added them. Conflict: the 2024-09 visitbeijing article adds a last entry of 17:30 in peak season and 16:30 off-season."
+    },
+    {
+     "cid": "c9",
+     "verdict": "corrected",
+     "corrected_text": "셰취위안·지칭쉬안·양윈쉬안·이서우탕·위란탕·이윈관·러서우탕·화중유·난후다오 내 원락·겅즈투 수조학당은 성수기(4월 1일~10월 31일) 8:00~18:00, 비수기(11월 1일~3월 31일) 8:30~17:00에 운영한다.",
+     "note": "The values match. I added the season dates."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The claim matches the attraction page. The 2023 gov notice (stale) does not list 养云轩 among the Monday closures; see conflicts."
+    },
+    {
+     "cid": "c11",
+     "verdict": "corrected",
+     "corrected_text": "공원 입장권은 성수기(4월 1일~10월 31일) 30위안, 비수기(11월 1일~3월 31일) 20위안이다.",
+     "note": "The prices match. I added the season dates. The 2023 gov notice shows the 20-yuan off-season price."
+    },
+    {
+     "cid": "c12",
+     "verdict": "corrected",
+     "corrected_text": "입장권과 원중원 입장권이 포함된 연표(联票)는 성수기(4월 1일~10월 31일) 60위안, 비수기(11월 1일~3월 31일) 50위안이다.",
+     "note": "The prices match. I added the season dates."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 德和园5/博物馆20/佛香阁10/苏州街10."
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 优惠门票15元，优惠联票30元，园中园半价."
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page."
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 60周岁及以上外籍游客凭护照验证入园."
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page. The page also lets foreign permanent residents and youth from Hong Kong, Macau and Taiwan buy discount tickets."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page. The free-entry list also covers 武警, 消防 and retired military."
+    },
+    {
+     "cid": "c19",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "The only source is a visitbeijing article dated 2024-09-20 (bylined 漫谈京津冀, edited by 玄贞伟). The text matches it, but the article is more than 12 months old. The official site summerpalace-china.com was unreachable and no current official page confirms the booking rule."
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 七个门区均可购票，其中东宫门、北宫门、新建宫门可以刷卡购票. The page says nothing about Alipay or WeChat Pay."
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page, but this is not language information. Korean-language guidance and audio guides are not mentioned."
+    },
+    {
+     "cid": "c22",
+     "verdict": "corrected",
+     "corrected_text": "7개 문 지역과 관광객 서비스센터에서 구급상자·바느질 세트·휠체어를 무료로 빌려 쓸 수 있으며, 휠체어는 보증금 500위안을 냈다가 반납할 때 돌려받는다.",
+     "note": "The page says a 500-yuan deposit is needed for the wheelchair."
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 中国现存规模最大、保存最完整的皇家园林."
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page."
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 前身清漪园 始建于1750年，1764年建成."
+    }
+   ],
+   "unsupported_in_description": [
+    "'원중원 ... 월요일에 문을 닫습니다' leaves out '법정 공휴일 제외'. The same Monday closure also applies to other courtyards (지칭쉬안, 양윈쉬안, 이서우탕 and others), so the sentence is incomplete next to c10.",
+    "'성수기(4월 1일~10월 31일)에는 6시에 문을 열어 19시까지 입장' does not give the 20:00 closing time or the off-season hours (c7). It is incomplete but not wrong."
+   ],
+   "unsupported_in_highlights": [
+    "'원중원(불향각·덕화원·박물관·쑤저우제)은 월요일 휴무' leaves out '법정 공휴일 제외' (c10).",
+    "'성수기 6:00~20:00 운영(19:00 입장 마감), 입장권 30위안' should state the peak-season dates (4/1~10/31)."
+   ],
+   "suggested_claims": [
+    {
+     "field": "caution",
+     "text": "유람선은 풍력 4급 이상의 강풍이 불면 운항을 멈추며, 배 운항 시간은 용선·화방 8:30~16:30, 소형 보트 8:00~16:30이다.",
+     "url": "https://s.visitbeijing.com.cn/attraction/101407"
+    },
+    {
+     "field": "tip",
+     "text": "배이윈뎬↔난후다오, 스팡↔난후다오, 퉁뉴↔스팡 구간 셔틀 유람선은 1인 15위안이다.",
+     "url": "https://s.visitbeijing.com.cn/attraction/101407"
+    },
+    {
+     "field": "hours",
+     "text": "불향각·덕화원·이화원박물관·쑤저우제는 성수기 17:30, 비수기 16:30에 입장을 마감한다(2024-09 기사, 현재 공식 확인 필요).",
+     "url": "https://www.visitbeijing.com.cn/article/4JW2RSxuEs9"
+    }
+   ],
+   "conflicts": [
+    "The official site summerpalace-china.com failed twice (https: no connection; http: 503 timeout), and WebFetch also returned 503. The gygl.beijing.gov.cn notice list (latest item 2026-10-07) has no current Summer Palace hours notice. So there is no current operator page for the hours, fees or booking rules.",
+    "The gov notice (gygl, 2023-11-01) is more than 12 months old: stale_source.",
+    "The visitbeijing article 4JW2RSxuEs9 is dated 2024-09-20 (stale). Its byline is the column label 漫谈京津冀 and it carries a '北京旅游网原创' statement. It is editorial content from the municipal tourism publicity centre's portal, not from the operator.",
+    "The s.visitbeijing attraction page shows no update date.",
+    "Monday closures: the attraction page includes 养云轩, but the 2023 gov notice lists only 佛香阁、德和园、博物馆、苏州街、益寿堂、霁清轩、南湖岛内院落、耕织图水操学堂.",
+    "Last entry for the four courtyard sites: the 2024 article gives 17:30 (peak) and 16:30 (off-season). The attraction page gives only the closing times.",
+    "The 2024 article's simplified rule '60周岁以上的老人...免费' gives no ID detail. The attraction page says foreign visitors aged 60+ must show a passport."
+   ]
+  },
+  {
+   "key": "bj-tiananmen-square",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Attraction page (undated): 北京市东城区西长安街. It is a portal run by the municipal tourism publicity centre."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The article dated 2026-10-07 (北京旅游网, editor 吴丽文, citing 天安门地区管理委员会) gives metro line 1, 天安门东/西. Buses 1, 2, 52, 82, 120 and 观光2线 are also listed."
+    },
+    {
+     "cid": "c4",
+     "verdict": "corrected",
+     "corrected_text": "국기 게양식을 보러 갈 때는 야간버스 야1로(톈안먼동·톈안먼서 하차), 야2·야17로(톈안먼동·톈안먼광장동 하차)를 탈 수 있으며, 세 노선 모두 첫차 23:20, 막차 04:50에 출발한다.",
+     "note": "04:50 is the last departure time, not when service ends. Each route stops at different stations."
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 推荐游览时长1小时."
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 每日升旗时间前一小时开放，22:00清场."
+    },
+    {
+     "cid": "c7",
+     "verdict": "corrected",
+     "corrected_text": "국기 게양·하강 시각은 날마다 달라지며, 2026년 10월 8일에는 게양 06:17, 하강 17:46이었다.",
+     "note": "I added the year. The time applies to that day only."
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The attraction page says free entry. The whlyj page also says free (2022, stale)."
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the attraction page. The 2022 page lists different channels (北京通 APP, 京城之约)."
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The 2026-10-07 article requires booking the 升旗 slot 1~7 days ahead."
+    },
+    {
+     "cid": "c11",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "The only source is the whlyj FAQ dated 2022-01-14, written for COVID-era rules (stale). No current official page confirms it."
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2026-10-07 article: 未按照预约日期参观...将予以劝返."
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the article. Its wording is '低慢小'航空器, meaning small low-altitude aircraft, which includes drones."
+    },
+    {
+     "cid": "c14",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "The security check is stated only on the 2022 page (stale). None of the current cited pages state it."
+    },
+    {
+     "cid": "c15",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "The only source is the 2022 page (stale). Not confirmed by a current page."
+    },
+    {
+     "cid": "c16",
+     "verdict": "outdated",
+     "corrected_text": "연휴뿐 아니라 평소에도 예약한 날짜와 시간대에 맞춰 입장해야 하며, 예약한 날짜가 아니면 돌려보내진다(2026년 10월 7일 안내 기준).",
+     "note": "Under the 2022 rule, a strict time slot applied only on holidays such as 五一 and 十一. The 2026-10-07 article tells everyone to go on the booked date and slot."
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The text matches the page, including the page's own wording '北起天安门，西至人民大会堂'."
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 通高37.94米."
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 天安门高33.7米，城台高14.6米. It is a physical fact."
+    }
+   ],
+   "unsupported_in_description": [
+    "'세계 최대급 도심 광장' is not backed by any claim. The page says 世界上最大的城市中心广场, but no claim was extracted from it.",
+    "'시작 1~7일 전에' looks like a typo for '방문 1~7일 전에'."
+   ],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "description",
+     "text": "공식 관광 포털은 톈안먼 광장을 세계에서 가장 큰 도시 중심 광장으로 소개한다.",
+     "url": "https://s.visitbeijing.com.cn/attraction/101404"
+    },
+    {
+     "field": "access",
+     "text": "국기 하강식을 볼 때는 1·2·52·82·120번 버스나 관광 2선을 타고 톈안먼동 또는 톈안먼서 정류장에서 내려 걸어갈 수도 있다.",
+     "url": "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx"
+    }
+   ],
+   "conflicts": [
+    "Booking window: the visitbeijing article 4JvvKnxKXep (2024-10-21, byline 漫谈京津冀) says 1~9 days ahead. The attraction page and the 2026-10-07 article say 1~7 days.",
+    "whlyj.beijing.gov.cn FAQ (2022-01-14): stale_source, COVID-era. It is the only source for c11, c14 and c15.",
+    "Foreign-passport booking: a search plus the visitbeijing article found no official page on passport booking. Only a tour-operator page (imperialtours.net, not primary) mentions choosing 护照 in the mini-programme. Reservation for foreigners is still unconfirmed.",
+    "Source type: 4TPf0IO0bNx is 北京旅游网 original content (editor 吴丽文) that cites 北京市人民政府天安门地区管理委员会 and is current. The attraction page has no date."
+   ]
+  },
+  {
+   "key": "nature-zjj-03",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page dated 2015-11-30, although the URL path shows 201909, which looks like a repost: 选址在栗树垭和吴王坡区域内. It describes the planned site."
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 总长430米、宽6米，桥面距谷底相对高度约300米. These are pre-completion figures and the date is stated in the claim."
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 全部采用透明玻璃铺设，最大游客容量为800人 (2015 report)."
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page: 世界最长玻璃人行桥；桥面上建有世界最高蹦极台...十项世界第一."
+    },
+    {
+     "cid": "c5",
+     "verdict": "corrected",
+     "corrected_text": "2016년 2월 발표에서 장자제 대협곡 측은 협곡 내 승강 엘리베이터 요금(일반 35위안, 우대 21위안)을 2016년 5월 1일부터 1년간 시범 적용한다고 밝혔다(현재 운영 여부는 미확인).",
+     "note": "The page (2016-02-26, '媒体聚焦' section, a correspondents' report reprinted on the provincial site) announced trial elevator prices. It does not confirm that the elevator runs today."
+    }
+   ],
+   "unsupported_in_description": [
+    "'협곡 안에는 승강 엘리베이터도 있어 함께 이용할 수 있습니다' is written in the present tense. The only source is a 2016 trial-price announcement, and current operation is unconfirmed.",
+    "Admin region '후난성 장자제시 츠리현' and the address are not backed by any claim.",
+    "The description reads as if the bridge is open, but no claim confirms its current opening status."
+   ],
+   "unsupported_in_highlights": [
+    "'협곡 내 승강 엘리베이터 운영(2016 발표)' says the elevator operates. The 2016 source only announced trial prices.",
+    "'다리 바닥이 계곡 바닥에서 약 300m 높이' and '길이 430m·폭 6m' are 2015 pre-completion figures and should say so."
+   ],
+   "suggested_claims": [],
+   "conflicts": [
+    "Both Hunan pages date from 2015-11-30 and 2016-02-26, even though the URL paths say 201909: stale_source. No current official source was found. A search returned only third-party and travel-agency pages, and www.zjjdxg.com failed over both http and https. Hours, fees, booking and opening status remain unconfirmed.",
+    "The 2015 report said the bridge would open before 1 May 2016. The 2016 report said prices would apply from 1 May 2016 on a one-year trial. Neither confirms the current status."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 49,
+  "verified": 36,
+  "corrected": 8,
+  "outdated": 1,
+  "unverifiable": 4,
+  "rejected": 0,
+  "notes": [
+   "visitbeijing.com.cn and s.visitbeijing.com.cn are run by 北京市文化和旅游局宣传中心, a municipal tourism publicity body, not by the attraction operators. Their articles carry '北京旅游网原创' with a staff editor. The two articles bylined '漫谈京津冀' (2024-09-20, 2024-10-21) are column pieces and stale. The attraction pages have no date.",
+   "Summer Palace: the operator site summerpalace-china.com was unreachable (503 or timeout). Operating values rest on the undated portal page, so a recheck against the operator is recommended.",
+   "Tiananmen: c11, c14 and c15 rest only on a stale 2022 COVID-era FAQ. c16 is superseded by the 2026-10-07 guidance.",
+   "Zhangjiajie: every source is from 2015-2016. Physical figures can stay with their dates, but the record has no current operating information (hours, fees, booking, opening status).",
+   "Coordinates were not supplied and not checked against OSM."
+  ]
+ }
+}

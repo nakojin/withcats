@@ -2,7 +2,7 @@
  "id": "nature-zjj-03",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "장자제 대협곡·유리다리",
   "local": "张家界大峡谷／玻璃桥"
@@ -10,7 +10,7 @@
  "admin_region": "후난성",
  "former_region": null,
  "city": "장자제 츠리현",
- "address": null,
+ "address": "湖南省张家界市慈利县 张家界大峡谷景区",
  "coord": {
   "lat": 29.411932,
   "lng": 110.693662,
@@ -21,93 +21,207 @@
   "osm": "way/1352953746"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "장자제 대협곡 유리다리는 후난성 장자제 대협곡 풍경구의 리수야와 우왕포 일대에 놓인 다리로, 건설 말기 보도에 따르면 길이 430m, 폭 6m이고 다리 바닥은 계곡 바닥에서 약 300m 높이에 있습니다.",
+ "description": "장자제 대협곡 유리다리는 후난성 장자제 대협곡 풍경구의 리수야와 우왕포 일대에 놓인 다리로, 건설 말기 보도에 따르면 길이 430m, 폭 6m이고 다리 바닥은 계곡 바닥에서 약 300m 높이에 있습니다. 바닥 전체가 투명한 유리이며 최대 수용 인원은 800명으로 소개되었습니다. 공사 당시 후난성 문화관광청 보도는 세계 최장 유리 보행교와 세계 최고 번지점프대 등 열 가지 세계 최고 기록을 내세웠습니다. 2016년 발표에서는 협곡 내 승강 엘리베이터 요금도 안내되었으나 현재 운영 여부는 확인되지 않았습니다. 입장료와 운영 시간, 예약 방법은 방문 전에 장자제 대협곡 공식 안내에서 다시 확인하세요.",
+ "highlights": [
+  "투명 유리 바닥, 길이 430m·폭 6m의 보행교(2015년 건설 당시 수치)",
+  "다리 바닥이 계곡 바닥에서 약 300m 높이(2015년 보도)",
+  "최대 수용 인원 800명",
+  "건설 당시 열 가지 세계 최고 기록을 내세움"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c1"
+   ],
+   "gap": null
   },
   "access": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "역·정류장, 이동 시간, 주차 정보 모두 공식 페이지에서 찾지 못함"
    }
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 안내 없음(2차 자료는 출처 요건 미달)"
    }
   },
   "hours": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 출처 확인 못함. 2차 자료의 시간이 서로 다름(08:00-16:00, 08:30-16:30 등)이라 채택하지 않음"
    }
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 출처 확인 못함"
    }
   },
   "fees": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "official_unreachable",
+    "note": "현행 요금 공식 확인 못함. 2016년 공지(보통 138위안·할인 83위안, 1.3m 이하 무료)는 시행 시한이 지난 구자료. 장자제시 발개위 2024년 연장 통지(張发改价费〔2024〕72号)는 접속 불가로 미확인"
    }
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "실명·여권 예약 규정과 외국인 예약 방법을 공식 출처에서 확인 못함"
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 출처 확인 못함(외국 카드·현금·모바일 결제)"
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내 유무 공식 출처 확인 못함"
    }
   },
   "caution": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 주의 사항 확인 못함"
    }
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b26-c1",
+   "field": "location",
+   "text": "유리다리는 장자제 대협곡 풍경구의 리수야(栗树垭)와 우왕포(吴王坡) 일대에 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Page dated 2015-11-30, although the URL path shows 201909, which looks like a repost: 选址在栗树垭和吴王坡区域内. It describes the planned site.",
+   "sources": [
+    {
+     "url": "http://whhlyt.hunan.gov.cn/news/tpxw/201909/t20190910_5482567.html",
+     "type": "government",
+     "page_updated": "2015-11-30",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c2",
+   "field": "description",
+   "text": "유리다리는 길이 430m, 폭 6m이며 다리 바닥은 계곡 바닥에서 약 300m 높이이다(2015년 공사 말기 보도).",
+   "original_text": null,
+   "value": "430m x 6m, 약 300m",
+   "verdict": "verified",
+   "verify_note": "Page: 总长430米、宽6米，桥面距谷底相对高度约300米. These are pre-completion figures and the date is stated in the claim.",
+   "sources": [
+    {
+     "url": "http://whhlyt.hunan.gov.cn/news/tpxw/201909/t20190910_5482567.html",
+     "type": "government",
+     "page_updated": "2015-11-30",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c3",
+   "field": "description",
+   "text": "다리 바닥은 모두 투명 유리로 깔렸으며 최대 수용 인원은 800명이다.",
+   "original_text": null,
+   "value": "800명",
+   "verdict": "verified",
+   "verify_note": "Page: 全部采用透明玻璃铺设，最大游客容量为800人 (2015 report).",
+   "sources": [
+    {
+     "url": "http://whhlyt.hunan.gov.cn/news/tpxw/201909/t20190910_5482567.html",
+     "type": "government",
+     "page_updated": "2015-11-30",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c4",
+   "field": "description",
+   "text": "공사 당시 후난성 문화관광청 보도는 세계 최장 유리 보행교와 다리 위 세계 최고 번지점프대 등 열 가지 세계 최고를 내세웠다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Page: 世界最长玻璃人行桥；桥面上建有世界最高蹦极台...十项世界第一.",
+   "sources": [
+    {
+     "url": "http://whhlyt.hunan.gov.cn/news/tpxw/201909/t20190910_5482567.html",
+     "type": "government",
+     "page_updated": "2015-11-30",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c5",
+   "field": "tip",
+   "text": "2016년 2월 발표에서 장자제 대협곡 측은 협곡 내 승강 엘리베이터 요금(일반 35위안, 우대 21위안)을 2016년 5월 1일부터 1년간 시범 적용한다고 밝혔다(현재 운영 여부는 미확인).",
+   "original_text": "2016년 요금 발표에서 협곡 내 승강 엘리베이터도 별도 요금으로 운영한다고 했다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "The page (2016-02-26, '媒体聚焦' section, a correspondents' report reprinted on the provincial site) announced trial elevator prices. It does not confirm that the elevator runs today.",
+   "sources": [
+    {
+     "url": "http://whhlyt.hunan.gov.cn/whhlyt/news/mtjj/201909/t20190910_5464211.html",
+     "type": "government",
+     "page_updated": "2016-02-26",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b26",
+   "text": "Both Hunan pages date from 2015-11-30 and 2016-02-26, even though the URL paths say 201909: stale_source. No current official source was found. A search returned only third-party and travel-agency pages, and www.zjjdxg.com failed over both http and https. Hours, fees, booking and opening status remain unconfirmed."
+  },
+  {
+   "run": "r1-b26",
+   "text": "The 2015 report said the bridge would open before 1 May 2016. The 2016 report said prices would apply from 1 May 2016 on a one-year trial. Neither confirms the current status."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -192,6 +306,54 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b26",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 5,
+    "verdicts": {
+     "verified": 4,
+     "corrected": 1,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 0
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "official_site",
+   "note": "official_unreachable: 장자제 대협곡 운영자 공식 사이트·공식 계정과 장자제시 정부(zjj.gov.cn)는 DNS/접속 실패로 열지 못함. 인용한 후난성 문화관광청 페이지는 2015~2016 자료라 stale_source",
+   "run": "r1-b26"
+  },
+  {
+   "topic": "address",
+   "note": "도로명·향진 단위 공식 주소를 공식 페이지에서 찾지 못함(츠리현은 입력 정보 기준)",
+   "run": "r1-b26"
+  },
+  {
+   "topic": "opening_status",
+   "note": "2015~2016 자료는 개통 예정만 언급. 현재 운영 여부·번지점프 운영 여부는 공식 확인 필요",
+   "run": "r1-b26"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'협곡 안에는 승강 엘리베이터도 있어 함께 이용할 수 있습니다' is written in the present tense. The only source is a 2016 trial-price announcement, and current operation is unconfirmed.",
+   "Admin region '후난성 장자제시 츠리현' and the address are not backed by any claim.",
+   "The description reads as if the bridge is open, but no claim confirms its current opening status.",
+   "'협곡 내 승강 엘리베이터 운영(2016 발표)' says the elevator operates. The 2016 source only announced trial prices.",
+   "'다리 바닥이 계곡 바닥에서 약 300m 높이' and '길이 430m·폭 6m' are 2015 pre-completion figures and should say so."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b26"
  }
 }

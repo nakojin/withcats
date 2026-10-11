@@ -2,7 +2,7 @@
  "id": "east-sh-04",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "신톈디",
   "local": "新天地"
@@ -10,7 +10,7 @@
  "admin_region": "상하이시",
  "former_region": null,
  "city": "상하이",
- "address": null,
+ "address": "上海市黄浦区太仓路181弄",
  "coord": {
   "lat": 31.221827,
   "lng": 121.470357,
@@ -21,93 +21,504 @@
   "osm": "node/11135920722"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "신톈디는 상하이 황푸구 타이창루 181농에 있는 스쿠먼(石库门) 건축 거리입니다.",
+ "description": "신톈디는 상하이 황푸구 타이창루 181농에 있는 스쿠먼(石库门) 건축 거리입니다. 북쪽 타이창루, 남쪽 싱예루, 서쪽 마당루, 동쪽 황피난루로 둘러싸인 구역으로, 거리 길이는 412m입니다. 20세기 초 스쿠먼 건물의 외관을 살리면서 식당과 상점, 문화 공간으로 쓰고 있으며 국가급 관광레저 거리로 지정되었습니다. 구역은 24시간 열려 있고, 컨시어지 데스크는 10:00~22:00 운영합니다. 지하철 10·13호선 신톈디역과 1호선 황피난루역을 이용할 수 있으며, 거리 상가 전반에서 외국 카드 결제가 가능하다고 공식 발표되었습니다. 패션쇼와 부티크 마켓 등 행사도 열립니다.",
+ "highlights": [
+  "20세기 초 스쿠먼 건축에 현대 상업 시설을 결합한 거리",
+  "지하철 10·13호선 신톈디역, 1호선 황피난루역 이용",
+  "구역 24시간 개방, 컨시어지 10:00~22:00",
+  "거리 상가 전반에서 외국 카드 결제 가능(2025년 공식 발표)",
+  "국가급 관광레저 거리, 패션쇼·마켓 등 행사 개최"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b23-c1",
+    "r1-b23-c2"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b23-c4",
+    "r1-b23-c5"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "역에서 도보 시간은 공식 출처에 없다. 운영사 xintiandi.com 프로젝트 페이지에는 주소·교통 정보가 없다.",
+     "detail": "access",
+     "run": "r1-b23"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 출처에 권장 소요시간이 없다."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b23-c6",
+    "r1-b23-c7"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "공식 영어 정부 페이지(https://english.shanghai.gov.cn/en-SpecialtyShoppingAreas/20231207/521159f5af35430ab1641004f5c68d03.html)는 24/7, 상하이시 문화관광 사이트 쇼핑 항목(https://www.meet-in-shanghai.net/en/shopping/xintiandi-cbd-001664/)은 10:00-22:00. 개방 구역과 상가 영업시간의 차이일 수 있으나 공식 설명 없음.",
+     "detail": "hours.conflict",
+     "run": "r1-b23"
+    }
+   ]
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 출처에 정기 휴무 안내가 없다(상가별 상이)."
    }
   },
   "fees": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 출처에 입장료 항목이 없어 무료라고 명시된 근거를 찾지 못했다."
    }
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "개방형 거리라 예약 안내가 없다. 공식 출처에서 예약·실명 등록 규정을 찾지 못했다."
    }
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b23-c9"
+   ],
+   "gap": null
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내·오디오가이드는 공식 출처에서 확인하지 못했다. 운영사 사이트는 중국어/영어만 제공."
    }
   },
   "caution": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 출처에서 혼잡 시기·금지 사항을 찾지 못했다."
    }
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b23-c1",
+   "field": "location",
+   "text": "신톈디의 주소는 황푸구 타이창루 181농이다.",
+   "original_text": null,
+   "value": "Lane 181 Taicang Road, Huangpu",
+   "verdict": "verified",
+   "verify_note": "Address: Lane 181 Taicang Road, Huangpu district (Source: Shanghai Municipal Commission of Commerce)",
+   "sources": [
+    {
+     "url": "https://english.shanghai.gov.cn/en-SpecialtyShoppingAreas/20231207/521159f5af35430ab1641004f5c68d03.html",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c2",
+   "field": "location",
+   "text": "신톈디는 황푸구에 있으며 북쪽 타이창루, 남쪽 싱예루, 서쪽 마당루, 동쪽 황피난루로 둘러싸여 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "北至太仓路，南至兴业路，西至马当路，东至黄陂南路 (page dated 2025-06-27, URL 20250707)",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+     "type": "government",
+     "page_updated": "2025-07-07",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c3",
+   "field": "description",
+   "text": "신톈디 거리의 길이는 412m이다.",
+   "original_text": null,
+   "value": "412 m",
+   "verdict": "verified",
+   "verify_note": "街长412米",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+     "type": "government",
+     "page_updated": "2025-07-07",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c4",
+   "field": "access",
+   "text": "지하철 10·13호선 신톈디역과 1호선 황피난루역(South Huangpi Road)이 가깝다.",
+   "original_text": null,
+   "value": "Line 10/13 Xintiandi; Line 1 South Huangpi Road",
+   "verdict": "verified",
+   "verify_note": "Xintiandi Station on Metro Lines 10/13; South Huangpi Road Station on Metro Line 1",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/en/shopping/xintiandi-cbd-001664/",
+     "type": "government",
+     "page_updated": "2025-10-21",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c5",
+   "field": "parking",
+   "text": "신톈디 일대 주차 공간이 661면으로 확충되었다고 소개된다.",
+   "original_text": null,
+   "value": "661 spaces",
+   "verdict": "verified",
+   "verify_note": "新增至661个停车位 (2025-06); no parking fee given",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+     "type": "government",
+     "page_updated": "2025-07-07",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c6",
+   "field": "hours",
+   "text": "신톈디 구역은 24시간 연중무휴로 열려 있다고 안내된다.",
+   "original_text": null,
+   "value": "24/7",
+   "verdict": "verified",
+   "verify_note": "Open 24/7",
+   "sources": [
+    {
+     "url": "https://english.shanghai.gov.cn/en-SpecialtyShoppingAreas/20231207/521159f5af35430ab1641004f5c68d03.html",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c7",
+   "field": "hours",
+   "text": "상하이시 문화관광 사이트의 신톈디 쇼핑 항목에는 운영시간이 10:00~22:00로 적혀 있다.",
+   "original_text": null,
+   "value": "10:00-22:00",
+   "verdict": "verified",
+   "verify_note": "Opening Hours 10:00-22:00 under the Go shopping entry; conflicts with 24/7 (see conflicts); likely shop/mall hours",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/en/shopping/xintiandi-cbd-001664/",
+     "type": "government",
+     "page_updated": "2025-10-21",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c8",
+   "field": "tip",
+   "text": "운영사 신톈디의 컨시어지 데스크(신톈디, 광장, 시상, 후빈다오)는 10:00~22:00에 응대하며 신톈디 대표 데스크 전화는 021-6311 2288이다.",
+   "original_text": null,
+   "value": "021-6311 2288",
+   "verdict": "verified",
+   "verify_note": "Four 礼宾台 (新天地/新天地广场/新天地时尚/湖滨道), each 10:00-22:00; 新天地礼宾台 021-6311 2288. Page has no language-service info, so field 'language' is mislabelled (use tip)",
+   "sources": [
+    {
+     "url": "https://www.xintiandi.com/project/xintiandi-shanghai/",
+     "type": "operator",
+     "page_updated": "2025-09-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c9",
+   "field": "payment",
+   "text": "신톈디 거리 전체 상가에서 외국 카드 결제가 가능하다고 공식 발표되었다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "功能全街区商户覆盖外卡支付 (2025-06)",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+     "type": "government",
+     "page_updated": "2025-07-07",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c10",
+   "field": "description",
+   "text": "신톈디는 20세기 초 스쿠먼 건축의 모습을 살리면서 현대적 상업 기능을 더한 복합 지구이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "保留了上海20世纪初特色的石库门建筑并在商业项目中注入风尚元素",
+   "sources": [
+    {
+     "url": "https://www.xintiandi.com/project/xintiandi-shanghai/",
+     "type": "operator",
+     "page_updated": "2025-09-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c11",
+   "field": "description",
+   "text": "상하이 신톈디의 총 건축면적은 609,000㎡이다.",
+   "original_text": null,
+   "value": "609,000 sqm",
+   "verdict": "verified",
+   "verify_note": "总建筑面积 609,000 平方米 (operator figure for whole Shanghai Xintiandi project, not just the street)",
+   "sources": [
+    {
+     "url": "https://www.xintiandi.com/project/xintiandi-shanghai/",
+     "type": "operator",
+     "page_updated": "2025-09-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c12",
+   "field": "description",
+   "text": "신톈디는 2023년 12월 27일 문화관광부의 제3차 국가급 관광레저 거리 목록에 포함되었다.",
+   "original_text": null,
+   "value": "2023-12-27",
+   "verdict": "verified",
+   "verify_note": "third batch… Dec 27, 2023 (Updated on Sept 1, 2025)",
+   "sources": [
+    {
+     "url": "https://english.shanghai.gov.cn/en-HeritageZones/20240104/292e9fb43eec407783af83e547e61281.html",
+     "type": "government",
+     "page_updated": "2025-09-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c13",
+   "field": "highlight",
+   "text": "거리에서 패션쇼, 부티크 마켓, 창작 워크숍, 음악·와인 축제가 열린다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "fashion shows, boutique markets, creative workshows [sic], music and wine festivals",
+   "sources": [
+    {
+     "url": "https://english.shanghai.gov.cn/en-HeritageZones/20240104/292e9fb43eec407783af83e547e61281.html",
+     "type": "government",
+     "page_updated": "2025-09-01",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c14",
+   "field": "description",
+   "text": "운영사는 신톈디가 포브스 선정 세계 문화 랜드마크 20곳과 세계은행의 도시재생 대표 사례에 올랐다고 소개한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "福布斯全球20大文化地标; 世界银行全球 URBAN RENEWAL 经典案例",
+   "sources": [
+    {
+     "url": "https://www.xintiandi.com/project/xintiandi-shanghai/",
+     "type": "operator",
+     "page_updated": "2025-09-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-c15",
+   "field": "description",
+   "text": "신톈디 거리의 식당 입점 업체는 26곳이고 식음 영업 면적은 24,000㎡이다.",
+   "original_text": null,
+   "value": "26 merchants; 24,000 sqm",
+   "verdict": "verified",
+   "verify_note": "现有餐饮商户26家。餐饮经营面积24000平方米",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+     "type": "government",
+     "page_updated": "2025-07-07",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-s1",
+   "field": "description",
+   "text": "신톈디 거리는 2000년 10월 1일 개장했다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-s2",
+   "field": "language",
+   "text": "거리에 다국어 안내 시설이 설치되어 있다(2025-06 상하이시 상무위원회 기준).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-s3",
+   "field": "tip",
+   "text": "거리에 짐 보관함, 외화 환전소, 즉시 환급이 되는 집중 세금 환급 창구가 새로 생겼다(2025-06 기준).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  },
+  {
+   "cid": "r1-b23-s4",
+   "field": "tip",
+   "text": "신톈디 광장 컨시어지 021-6333 0066, 신톈디 시상 컨시어지 021-53820666, 후빈다오 컨시어지 021-6333 6688(모두 10:00~22:00).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.xintiandi.com/project/xintiandi-shanghai/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b23"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b23",
+   "text": "Hours: english.shanghai.gov.cn (Commerce Commission) says Open 24/7, while meet-in-shanghai (Culture & Tourism) lists Opening Hours 10:00-22:00. The latter likely means shop hours; the text should say so"
+  },
+  {
+   "run": "r1-b23",
+   "text": "Opening year: shanghai.gov.cn (2025-06) says 2000年10月1日开街; english.shanghai.gov.cn Heritage page says 'Completed in 2001'. Not claimed, but avoid stating a single year without the source"
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -186,6 +597,43 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b23",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 15,
+    "verdicts": {
+     "verified": 15,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 4
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "description.conflict",
+   "note": "개장 시점이 출처마다 다르다: 시 정부 기사는 '2000年10月1日'(https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html), 운영사는 2001년 선보임(https://www.xintiandi.com/about-xintiandi/). 그래서 개장 연도를 설명에 쓰지 않았다.",
+   "run": "r1-b23"
+  },
+  {
+   "topic": "parking",
+   "note": "주차 요금과 주차장 위치는 공식 출처에서 찾지 못했다(주차면 수만 확인).",
+   "run": "r1-b23"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b23"
  }
 }

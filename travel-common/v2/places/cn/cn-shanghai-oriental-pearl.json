@@ -1,0 +1,448 @@
+{
+ "id": "cn-shanghai-oriental-pearl",
+ "country": "cn",
+ "tier": "A",
+ "status": "verified",
+ "names": {
+  "ko": "동방명주 타워",
+  "local": "东方明珠广播电视塔"
+ },
+ "admin_region": "상하이시 푸둥신구",
+ "former_region": null,
+ "city": null,
+ "address": "上海市浦东新区",
+ "coord": null,
+ "coord_note": "좌표 수집 대기",
+ "summary": "상하이 푸둥신구에 있는 동방명주 라디오·TV탑은 높이 468m의 국가 5A급 관광지다.",
+ "description": "상하이 푸둥신구에 있는 동방명주 라디오·TV탑은 높이 468m의 국가 5A급 관광지다. 관광·식음·쇼핑·문화오락을 함께 갖춘 복합 탑으로, 크고 작은 구체가 어우러진 모습은 '큰 구슬 작은 구슬이 옥쟁반에 떨어진다'는 시구에서 영감을 얻었다. 1995년 개장 이후 누적 관람객 1억 명을 넘겼고 2024년 9월 29일 1억 번째 손님을 맞았다. 운영 시간은 매일 8:00-22:00이며 최종 입장은 21:00이다. 2025년 9월 상하이시 관광국 안내에서 2구 전망대+유람선 연계표의 성인 정가는 279위안, 문의 전화는 58792888이었다.",
+ "highlights": [
+  "높이 468m의 국가 5A급 관광지",
+  "큰 구슬 작은 구슬이 옥쟁반에 떨어진다는 시구에서 착안한 구체형 디자인",
+  "1995년 개장 이후 2024년 9월 29일 1억 번째 관람객을 맞이",
+  "매일 8:00-22:00 운영, 최종 입장 21:00"
+ ],
+ "checklist": {
+  "location": {
+   "status": "filled",
+   "claims": [
+    "r1-b27-c1"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "official_unreachable",
+     "note": "상세 도로명 주소(世纪大道1号)는 2018-12-18자 China Daily 정부 포털 페이지(https://govt.chinadaily.com.cn/s/201812/18/WS5ceb97e7498e079e68021be4/oriental-pearl-radio-and-television-tower.html)에만 있고 오래되었으며 1차 공식 출처로 보기 어려워 claim 에서 제외. orientalpearltower.com 은 HTTP 405로 열리지 않음(official_unreachable).",
+     "detail": "location.street",
+     "run": "r1-b27"
+    }
+   ]
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "가까운 역·도보 시간·주차 공식 확인 불가(2018 China Daily 포털의 Lujiazui 역 2호선 안내는 stale·비1차 출처라 제외)."
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 소요시간 안내 없음."
+   }
+  },
+  "hours": {
+   "status": "filled",
+   "claims": [
+    "r1-b27-c2"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "meet-in-shanghai 는 매일 8:00-22:00(최종 입장 21:00), 2018-12-18 China Daily 정부 포털은 8:30-21:30(월~일). 후자는 stale. 운영자 공식 사이트 official_unreachable 로 대조 불가.",
+     "detail": "hours.conflict",
+     "run": "r1-b27"
+    }
+   ]
+  },
+  "closed_days": {
+   "status": "filled",
+   "claims": [
+    "r1-b27-c3"
+   ],
+   "gap": null
+  },
+  "fees": {
+   "status": "filled",
+   "claims": [
+    "r1-b27-c9",
+    "r1-b27-c10",
+    "r1-b27-c11"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "official_unreachable",
+     "note": "운영자 공식 요금표(orientalpearltower.com/fare.html)가 열리지 않음(official_unreachable). 2구 전망대 단독 요금, 어린이·노인 할인, 무료 기준은 확인 못함. 인용한 279/258/130위안은 2025-09-12 목록으로 13개월 경과(stale_source) 가능.",
+     "detail": "fees",
+     "run": "r1-b27"
+    }
+   ]
+  },
+  "reservation": {
+   "status": "filled",
+   "claims": [
+    "r1-b27-c12"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "official_unreachable",
+     "note": "성인 실명 예약 여부, 여권 요건, 외국인 구매 방법, 오픈 시점 공식 확인 불가(official_unreachable). 위챗 서비스 계정 [东方明珠]에서 판매된다는 언급만 확인.",
+     "detail": "reservation",
+     "run": "r1-b27"
+    }
+   ]
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "외국 카드·현금 수용 여부 공식 확인 불가(official_unreachable)."
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "한국어 안내·오디오가이드 여부 공식 확인 불가. meet-in-shanghai 에 한국어 페이지 링크가 있으나 해당 경로는 404."
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "혼잡 시기·금지 사항 공식 확인 불가."
+   }
+  }
+ },
+ "claims": [
+  {
+   "cid": "r1-b27-c1",
+   "field": "location",
+   "text": "동방명주 라디오·TV탑은 상하이 푸둥신구에 있다.",
+   "original_text": null,
+   "value": "浦东新区",
+   "verdict": "verified",
+   "verify_note": "meet-in-shanghai: 地址：浦东新区 (no street address given).",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c2",
+   "field": "hours",
+   "text": "운영 시간은 매일 8:00-22:00이고 최종 입장 시각은 21:00이다.",
+   "original_text": null,
+   "value": "08:00-22:00 (최종 입장 21:00)",
+   "verdict": "verified",
+   "verify_note": "每日8:00至22:00（最晚入场时间为21:00）. The page is undated and carries a '仅供参考' disclaimer. The official site orientalpearltower.com returned 405. Ctrip (secondary) shows 09:00-21:00 (see conflicts).",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c3",
+   "field": "closed_days",
+   "text": "운영 시간이 '매일'로 표기되어 있어 정기 휴관일은 안내되지 않는다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "This is an inference from '每日'. The page states no closing day.",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c4",
+   "field": "description",
+   "text": "관광·식음·쇼핑·문화오락을 함께 갖춘 다기능 탑이며 국가 5A급 관광지이다.",
+   "original_text": null,
+   "value": "AAAAA",
+   "verdict": "verified",
+   "verify_note": "集观光、餐饮、购物、文化娱乐于一体的多功能塔式建筑，系国家5A级景区",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c5",
+   "field": "highlight",
+   "text": "1995년 개장한 높이 468m의 탑으로, 개장 이후 1억 명 넘는 관람객이 다녀갔다.",
+   "original_text": null,
+   "value": "468m",
+   "verdict": "verified",
+   "verify_note": "自1995年建成开放以来，这座468米高的塔楼已接待超过1亿名游客",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c6",
+   "field": "highlight",
+   "text": "구체가 어우러진 탑 디자인은 '大珠小珠落玉盘'(큰 구슬 작은 구슬이 옥쟁반에 떨어진다)의 정취에서 영감을 얻었다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "灵感源于'大珠小珠落玉盘'的意境",
+   "sources": [
+    {
+     "url": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c7",
+   "field": "highlight",
+   "text": "2024년 9월 29일 개장 30주년을 맞아 1억 번째 관람객을 맞았다.",
+   "original_text": null,
+   "value": "2024-09-29",
+   "verdict": "verified",
+   "verify_note": "whlyj 2024-10-22: 开业30年的…于今年9月29日迎来了第一亿名游客",
+   "sources": [
+    {
+     "url": "https://whlyj.sh.gov.cn/gqfc/20241025/f1e8ed9b284b42a9a5127591b28c15dc.html",
+     "type": "government",
+     "page_updated": "2024-10-25",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c8",
+   "field": "highlight",
+   "text": "2024년 10월 개장 30주년을 맞아 동방명주 도시광장에서 직경 20m 대형 회전 장치 '拾光@东方明珠'를 중심으로 한 빛·물 몰입형 체험 프로젝트가 2024년 10월 18일~11월 18일 한시로 운영되었다.",
+   "original_text": "2024년 10월 동방명주 도시광장에 직경 20m 대형 회전 장치 '拾光@东方明珠'를 중심으로 한 빛·물 몰입형 체험 프로젝트가 문을 열었다.",
+   "value": "2024-10",
+   "verdict": "corrected",
+   "verify_note": "The article says 本次活动于2024年10月18日至11月18日向公众开放售票体验, 10:00-22:00. It was a temporary event, not a current attraction.",
+   "sources": [
+    {
+     "url": "https://whlyj.sh.gov.cn/gqfc/20241025/f1e8ed9b284b42a9a5127591b28c15dc.html",
+     "type": "government",
+     "page_updated": "2024-10-25",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c9",
+   "field": "fees",
+   "text": "2025년 9월 상하이시 문화관광국 목록 기준 [2구 관광+동방명주 유람선] 연계표의 성인 정가는 279위안이다.",
+   "original_text": null,
+   "value": "279 CNY",
+   "verdict": "verified",
+   "verify_note": "二球观光+东方明珠游船 成人票原价（联票）：279元. The source is dated 2025-09-12, now 13 months old; no current official price page could be reached, so keep the source date in the text. Secondary bendibao reports the same original price of 279 for the 2026 festival.",
+   "sources": [
+    {
+     "url": "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html",
+     "type": "government",
+     "page_updated": "2025-09-12",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c10",
+   "field": "fees",
+   "text": "같은 목록 기준 [2구 관광+장난감박물관] 연계표의 성인 정가는 258위안이다.",
+   "original_text": null,
+   "value": "258 CNY",
+   "verdict": "verified",
+   "verify_note": "二球观光+玩具博物馆 成人票原价（联票）：258元. Same 13-month-old source; keep the date in the text.",
+   "sources": [
+    {
+     "url": "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html",
+     "type": "government",
+     "page_updated": "2025-09-12",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c11",
+   "field": "fees",
+   "text": "2025년 9월 상하이시 문화관광국 목록 기준 동방명주 유람선 성인표(1등석) 정가는 130위안이었으며, 2025년 9월 13~19일 상하이 관광절 기간에 한해 낮 운항편(18:00 이전)에 반값 할인이 적용되었다.",
+   "original_text": "같은 목록 기준 동방명주 유람선 성인표(1등석) 정가는 130위안이며 낮 시간대(18:00 이전) 운항에 한해 반값 행사가 적용되었다.",
+   "value": "130 CNY",
+   "verdict": "corrected",
+   "verify_note": "The half-price offer was limited to the 2025-09-13 to 09-19 Shanghai Tourism Festival. The '仅限日航班次（18:00前）' note applies to the festival offer, and also to the 279 combo.",
+   "sources": [
+    {
+     "url": "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html",
+     "type": "government",
+     "page_updated": "2025-09-12",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c12",
+   "field": "reservation",
+   "text": "어린이표 구매 방법과 유람선 어린이 무료 규정은 위챗 공식 서비스 계정 [东方明珠]의 상품 상세 페이지에서 확인하도록 안내된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "儿童购买方式/儿童免票规则详见微信官方服务号'东方明珠'下相关产品详情页",
+   "sources": [
+    {
+     "url": "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html",
+     "type": "government",
+     "page_updated": "2025-09-12",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c13",
+   "field": "tip",
+   "text": "관광객 문의 전화는 58792888(상하이 시내번호)이다.",
+   "original_text": null,
+   "value": "58792888",
+   "verdict": "verified",
+   "verify_note": "游客咨询电话：58792888. The description's '021-' prefix is the Shanghai area code; it is correct but not on the page.",
+   "sources": [
+    {
+     "url": "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html",
+     "type": "government",
+     "page_updated": "2025-09-12",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b27",
+   "text": "Hours conflict: the government tourism platform gives daily 08:00-22:00 with last entry 21:00. Ctrip (secondary, via search) gives 09:00-21:00 with entry stopping at 20:30. The official site orientalpearltower.com returned 405, so this could not be settled."
+  },
+  {
+   "run": "r1-b27",
+   "text": "The fee source (whlyj 2025-09-12) is more than 12 months old. Secondary bendibao lists a 2026 festival offer (9/12-9/27) of 139元 against the same 279 original. Current prices could not be confirmed on an official page."
+  },
+  {
+   "run": "r1-b27",
+   "text": "collector_unconfirmed: street address, reservation, payment, access, duration, language and caution are not on any official page reached; the official site lookup failed."
+  }
+ ],
+ "legacy": null,
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": [
+   {
+    "run": "r1-b27",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 13,
+    "verdicts": {
+     "verified": 11,
+     "corrected": 2,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 0
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'상하이의 도시 상징으로 불린다' is on the meet-in-shanghai page (被誉为上海的城市象征) but no claim covers it.",
+   "'문의 전화는 021-58792888' adds an area code not on the source (minor).",
+   "Highlight 5 ('도시광장에서 낮에는 놀이공간, 밤에는 빛과 물 연출이 열리는 몰입형 체험 프로젝트가 소개됨') contradicts corrected c8. It was a temporary event (2024-10-18 to 11-18) that has ended. Remove it or rewrite it in the past tense.",
+   "Highlight 1 '상하이 대표 랜드마크' is loosely supported (the source says 城市象征) but not by any claim."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b27"
+ }
+}

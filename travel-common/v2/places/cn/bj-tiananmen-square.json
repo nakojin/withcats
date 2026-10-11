@@ -2,7 +2,7 @@
  "id": "bj-tiananmen-square",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "톈안먼 광장",
   "local": "天安门广场"
@@ -10,7 +10,7 @@
  "admin_region": "베이징시",
  "former_region": null,
  "city": "베이징",
- "address": null,
+ "address": "北京市东城区西长安街",
  "coord": {
   "lat": 39.902722,
   "lng": 116.391441,
@@ -21,93 +21,551 @@
   "osm": "relation/941596"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "톈안먼 광장은 베이징 도심의 대형 광장으로, 북쪽 톈안먼에서 서쪽 인민대회당까지 길이 880m, 폭 500m, 면적 약 44만㎡에 이릅니다.",
+ "description": "톈안먼 광장은 베이징 도심의 대형 광장으로, 북쪽 톈안먼에서 서쪽 인민대회당까지 길이 880m, 폭 500m, 면적 약 44만㎡에 이릅니다. 광장 중앙에는 높이 37.94m의 인민영웅기념비가 서 있습니다. 입장은 무료이지만 방문 1~7일 전에 '天安门广场预约参观' 미니프로그램 등으로 예약해야 하며, 신분증을 지참해야 합니다. 개방 시간은 매일 국기 게양 1시간 전부터 22:00 청장까지이고, 권장 소요 시간은 1시간입니다. 가까운 버스 정류장은 톈안먼동(天安门东)이고, 국기 하강식을 볼 때는 지하철 1호선 톈안먼동·톈안먼서역에서 내려 걸어갈 수 있습니다.",
+ "highlights": [
+  "입장 무료, 1~7일 전 사전 예약 필수",
+  "길이 880m·폭 500m·면적 약 44만㎡의 대형 광장",
+  "중앙의 인민영웅기념비(높이 37.94m)",
+  "개방은 국기 게양 1시간 전부터 22:00까지",
+  "지하철 1호선 톈안먼동·톈안먼서역에서 도보 이동",
+  "국기 게양식 관람도 '升旗' 시간대 예약 필요"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c2",
+    "r1-b26-c3",
+    "r1-b26-c4"
+   ],
+   "gap": null
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c5"
+   ],
+   "gap": null
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c6",
+    "r1-b26-c7"
+   ],
+   "gap": null
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "정기 휴무 문구 없음(국가행사 시 임시 중단만 c15)"
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c8"
+   ],
+   "gap": null
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c9",
+    "r1-b26-c10"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "외국인의 여권 예약 가능 여부와 방법을 밝힌 공식 문구를 찾지 못함(현행 안내는 '个人身份证件'만 언급)",
+     "detail": "reservation",
+     "run": "r1-b26"
+    }
+   ]
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "무료 입장이라 결제 정보가 없고 별도 확인 문구 없음"
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내 유무 공식 정보 없음"
    }
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b26-c12",
+    "r1-b26-c13",
+    "r1-b26-c16"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b26-c1",
+   "field": "location",
+   "text": "톈안먼 광장의 주소는 베이징시 둥청구 시창안제이다.",
+   "original_text": null,
+   "value": "北京市东城区西长安街",
+   "verdict": "verified",
+   "verify_note": "Attraction page (undated): 北京市东城区西长安街. It is a portal run by the municipal tourism publicity centre.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101404",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c2",
+   "field": "access",
+   "text": "1·4·5·8·10·20·22·37·52·728번 버스를 타고 톈안먼동(天安门东)에서 내린다.",
+   "original_text": null,
+   "value": "天安门东",
+   "verdict": "verified",
+   "verify_note": "Matches the page.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101404",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c3",
+   "field": "access",
+   "text": "국기 하강식을 볼 때는 지하철 1호선 톈안먼동(天安门东) 또는 톈안먼서(天安门西)역에서 내려 걸어간다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "The article dated 2026-10-07 (北京旅游网, editor 吴丽文, citing 天安门地区管理委员会) gives metro line 1, 天安门东/西. Buses 1, 2, 52, 82, 120 and 观光2线 are also listed.",
+   "sources": [
+    {
+     "url": "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx",
+     "type": "government",
+     "page_updated": "2026-09-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c4",
+   "field": "access",
+   "text": "국기 게양식을 보러 갈 때는 야간버스 야1로(톈안먼동·톈안먼서 하차), 야2·야17로(톈안먼동·톈안먼광장동 하차)를 탈 수 있으며, 세 노선 모두 첫차 23:20, 막차 04:50에 출발한다.",
+   "original_text": "국기 게양식을 보러 갈 때는 야간버스 야1·야2·야17로가 새벽 4:50까지 운행하며, 톈안먼동·톈안먼서 또는 톈안먼광장동 정류장에서 내려 걸어간다.",
+   "value": "막차 04:50",
+   "verdict": "corrected",
+   "verify_note": "04:50 is the last departure time, not when service ends. Each route stops at different stations.",
+   "sources": [
+    {
+     "url": "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx",
+     "type": "government",
+     "page_updated": "2026-09-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c5",
+   "field": "duration",
+   "text": "권장 관람 시간은 1시간이다.",
+   "original_text": null,
+   "value": "1시간",
+   "verdict": "verified",
+   "verify_note": "Page: 推荐游览时长1小时.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101404",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c6",
+   "field": "hours",
+   "text": "광장은 매일 국기 게양 시각 1시간 전에 열고 22:00에 청장한다.",
+   "original_text": null,
+   "value": "게양 1시간 전~22:00",
+   "verdict": "verified",
+   "verify_note": "Page: 每日升旗时间前一小时开放，22:00清场.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101404",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c7",
+   "field": "hours",
+   "text": "국기 게양·하강 시각은 날마다 달라지며, 2026년 10월 8일에는 게양 06:17, 하강 17:46이었다.",
+   "original_text": "국기 게양·하강 시각은 날마다 달라지며, 10월 8일 안내에서는 게양 06:17, 하강 17:46이었다.",
+   "value": "2026-10-08: 06:17/17:46",
+   "verdict": "corrected",
+   "verify_note": "I added the year. The time applies to that day only.",
+   "sources": [
+    {
+     "url": "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx",
+     "type": "government",
+     "page_updated": "2026-09-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c8",
+   "field": "fees",
+   "text": "입장료는 무료이다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "The attraction page says free entry. The whlyj page also says free (2022, stale).",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101404",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://whlyj.beijing.gov.cn/zmhd/hdrd/202201/t20220114_2591830.html",
+     "type": "government",
+     "page_updated": "2022-01-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c9",
+   "field": "reservation",
+   "text": "관람객은 1~7일 전에 '天安门广场预约参观' 위챗 미니프로그램, '京通' 미니프로그램(위챗·알리페이·바이두), '北京日报'·'北京时间' 앱 또는 천안문지구관리위원회 포털로 예약한다.",
+   "original_text": null,
+   "value": "1~7일 전",
+   "verdict": "verified",
+   "verify_note": "Matches the attraction page. The 2022 page lists different channels (北京通 APP, 京城之约).",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101404",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c10",
+   "field": "reservation",
+   "text": "국기 게양식을 보려면 예약 플랫폼에서 '升旗' 시간대를 골라 1~7일 전에 예약해야 한다.",
+   "original_text": null,
+   "value": "1~7일 전",
+   "verdict": "verified",
+   "verify_note": "The 2026-10-07 article requires booking the 升旗 slot 1~7 days ahead.",
+   "sources": [
+    {
+     "url": "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx",
+     "type": "government",
+     "page_updated": "2026-09-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c11",
+   "field": "reservation",
+   "text": "한 예약서로 최대 7명까지 예약할 수 있고, 단체 관광은 여행사가 예약하므로 개인이 따로 예약할 필요가 없다.",
+   "original_text": null,
+   "value": "최대 7명",
+   "verdict": "unverifiable",
+   "verify_note": "The only source is the whlyj FAQ dated 2022-01-14, written for COVID-era rules (stale). No current official page confirms it.",
+   "sources": [
+    {
+     "url": "https://whlyj.beijing.gov.cn/zmhd/hdrd/202201/t20220114_2591830.html",
+     "type": "government",
+     "page_updated": "2022-01-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c12",
+   "field": "caution",
+   "text": "예약한 날짜와 시간대에 맞춰 가야 하며, 예약일이 아니면 돌려보내진다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "2026-10-07 article: 未按照预约日期参观...将予以劝返.",
+   "sources": [
+    {
+     "url": "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx",
+     "type": "government",
+     "page_updated": "2026-09-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c13",
+   "field": "caution",
+   "text": "신분증을 지참해야 하며, 위험물·관제 기구·금지 물품과 드론, 라이터 반입이 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches the article. Its wording is '低慢小'航空器, meaning small low-altitude aircraft, which includes drones.",
+   "sources": [
+    {
+     "url": "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx",
+     "type": "government",
+     "page_updated": "2026-09-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c14",
+   "field": "caution",
+   "text": "광장에 들어가려면 보안 검사를 거쳐야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "unverifiable",
+   "verify_note": "The security check is stated only on the 2022 page (stale). None of the current cited pages state it.",
+   "sources": [
+    {
+     "url": "https://whlyj.beijing.gov.cn/zmhd/hdrd/202201/t20220114_2591830.html",
+     "type": "government",
+     "page_updated": "2022-01-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c15",
+   "field": "caution",
+   "text": "국가 행사나 외교 행사가 있으면 광장이 임시로 외부 개방을 중단한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "unverifiable",
+   "verify_note": "The only source is the 2022 page (stale). Not confirmed by a current page.",
+   "sources": [
+    {
+     "url": "https://whlyj.beijing.gov.cn/zmhd/hdrd/202201/t20220114_2591830.html",
+     "type": "government",
+     "page_updated": "2022-01-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c16",
+   "field": "caution",
+   "text": "연휴뿐 아니라 평소에도 예약한 날짜와 시간대에 맞춰 입장해야 하며, 예약한 날짜가 아니면 돌려보내진다(2026년 10월 7일 안내 기준).",
+   "original_text": "5월 1일·10월 1일 같은 주요 연휴에는 당일 예약한 시간대에 맞춰 입장해야 한다.",
+   "value": null,
+   "verdict": "outdated",
+   "verify_note": "Under the 2022 rule, a strict time slot applied only on holidays such as 五一 and 十一. The 2026-10-07 article tells everyone to go on the booked date and slot.",
+   "sources": [
+    {
+     "url": "https://whlyj.beijing.gov.cn/zmhd/hdrd/202201/t20220114_2591830.html",
+     "type": "government",
+     "page_updated": "2022-01-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c17",
+   "field": "description",
+   "text": "광장은 북쪽 톈안먼에서 서쪽 인민대회당까지 길이 880m, 폭 500m, 면적 44만㎡이며 100만 명을 수용할 수 있다.",
+   "original_text": null,
+   "value": "880m x 500m, 44만㎡",
+   "verdict": "verified",
+   "verify_note": "The text matches the page, including the page's own wording '北起天安门，西至人民大会堂'.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101404",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c18",
+   "field": "description",
+   "text": "광장 중앙에는 높이 37.94m의 인민영웅기념비가 있다.",
+   "original_text": null,
+   "value": "37.94m",
+   "verdict": "verified",
+   "verify_note": "Page: 通高37.94米.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101404",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-c19",
+   "field": "description",
+   "text": "톈안먼 성루는 높이 33.7m이며 아래 성대 높이는 14.6m이다.",
+   "original_text": null,
+   "value": "33.7m",
+   "verdict": "verified",
+   "verify_note": "Page: 天安门高33.7米，城台高14.6米. It is a physical fact.",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101404",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-s1",
+   "field": "description",
+   "text": "공식 관광 포털은 톈안먼 광장을 세계에서 가장 큰 도시 중심 광장으로 소개한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://s.visitbeijing.com.cn/attraction/101404",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  },
+  {
+   "cid": "r1-b26-s2",
+   "field": "access",
+   "text": "국기 하강식을 볼 때는 1·2·52·82·120번 버스나 관광 2선을 타고 톈안먼동 또는 톈안먼서 정류장에서 내려 걸어갈 수도 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b26"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b26",
+   "text": "Booking window: the visitbeijing article 4JvvKnxKXep (2024-10-21, byline 漫谈京津冀) says 1~9 days ahead. The attraction page and the 2026-10-07 article say 1~7 days."
+  },
+  {
+   "run": "r1-b26",
+   "text": "whlyj.beijing.gov.cn FAQ (2022-01-14): stale_source, COVID-era. It is the only source for c11, c14 and c15."
+  },
+  {
+   "run": "r1-b26",
+   "text": "Foreign-passport booking: a search plus the visitbeijing article found no official page on passport booking. Only a tour-operator page (imperialtours.net, not primary) mentions choosing 护照 in the mini-programme. Reservation for foreigners is still unconfirmed."
+  },
+  {
+   "run": "r1-b26",
+   "text": "Source type: 4TPf0IO0bNx is 北京旅游网 original content (editor 吴丽文) that cites 北京市人民政府天安门地区管理委员会 and is current. The attraction page has no date."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -181,6 +639,51 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b26",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 19,
+    "verdicts": {
+     "verified": 13,
+     "corrected": 2,
+     "outdated": 1,
+     "unverifiable": 3,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 2
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "official_portal",
+   "note": "천안문지구관리위원회 포털·예약 플랫폼 원문은 열어 보지 못함. 위 값은 북경시 관광 포털 조각과 북경시 문화관광국 Q&A(2022)에서 가져옴",
+   "run": "r1-b26"
+  },
+  {
+   "topic": "stale_source",
+   "note": "whlyj.beijing.gov.cn Q&A는 2022-01-14 자(12개월 초과)로 c8 일부, c11, c14~c16은 현행 확인 필요",
+   "run": "r1-b26"
+  },
+  {
+   "topic": "parking",
+   "note": "공식 페이지에 주차 정보 없음",
+   "run": "r1-b26"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'세계 최대급 도심 광장' is not backed by any claim. The page says 世界上最大的城市中心广场, but no claim was extracted from it.",
+   "'시작 1~7일 전에' looks like a typo for '방문 1~7일 전에'."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b26"
  }
 }

@@ -2,7 +2,7 @@
  "id": "east-sh-05",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "상하이 디즈니랜드",
   "local": "上海迪士尼乐园"
@@ -10,7 +10,7 @@
  "admin_region": "상하이시",
  "former_region": null,
  "city": "상하이",
- "address": null,
+ "address": "No. 310 Huangzhao Road, Chuansha Town, Pudong New District, Shanghai (上海市浦东新区川沙镇黄赵路310号)",
  "coord": {
   "lat": 31.146252,
   "lng": 121.656283,
@@ -21,93 +21,939 @@
   "osm": "way/494725605"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "상하이 디즈니랜드는 마법에 걸린 이야기 성(Enchanted Storybook Castle)과 미키 애비뉴, 상상의 정원, 판타지랜드, 어드벤처 아일, 트레저 코브, 투모로우랜드, 토이 스토리 랜드, 주토피아 등 8개 랜드로 이루어진 테마파크입니다.",
+ "description": "상하이 디즈니랜드는 마법에 걸린 이야기 성(Enchanted Storybook Castle)과 미키 애비뉴, 상상의 정원, 판타지랜드, 어드벤처 아일, 트레저 코브, 투모로우랜드, 토이 스토리 랜드, 주토피아 등 8개 랜드로 이루어진 테마파크입니다. 입장권 한 장으로 당일 운영시간 중 자유롭게 드나들며 8개 랜드를 모두 이용할 수 있고, 운영시간은 날짜마다 달라 공식 캘린더에서 확인해야 합니다(예: 2026년 10월 11일 8:30~20:30). 지하철 11호선 디즈니 리조트역에서 1번 또는 4번 출구로 나오면 되고, 티켓은 실명제여서 구매에 쓴 신분증 원본(외국인은 여권)을 입장할 때 제시해야 합니다. 2025년 8월 공식 발표 기준 티켓 가격대는 475~799위안이고 3세 미만은 무료이며, 디즈니타운은 입장료 없이 방문할 수 있습니다.",
+ "highlights": [
+  "마법에 걸린 이야기 성과 8개 테마 랜드",
+  "입장권 한 장으로 당일 자유 출입, 8개 랜드 모두 이용",
+  "지하철 11호선 디즈니 리조트역 1·4번 출구",
+  "구매에 쓴 신분증(외국인은 여권) 원본 지참 필수",
+  "디즈니 패스트패스는 공식 앱에서 무료 배부(발급 당일만 유효)",
+  "디즈니타운은 입장료 없이 방문 가능(주차는 별도 요금)"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b19-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b19-c2",
+    "r1-b19-c3",
+    "r1-b19-c4",
+    "r1-b19-c5",
+    "r1-b19-c6",
+    "r1-b19-c7",
+    "r1-b19-c8",
+    "r1-b19-c9",
+    "r1-b19-c10",
+    "r1-b19-c11",
+    "r1-b19-c12",
+    "r1-b19-c13"
+   ],
+   "gap": null
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 권장 소요시간 표기 없음."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b19-c14"
+   ],
+   "gap": null
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "정기 휴무일 안내를 찾지 못함(날짜별 운영시간 캘린더만 확인). 악천후 시 임시 휴장 가능성만 명시."
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b19-c15",
+    "r1-b19-c16",
+    "r1-b19-c17",
+    "r1-b19-c18",
+    "r1-b19-c19",
+    "r1-b19-c20",
+    "r1-b19-c21"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "official_unreachable",
+     "note": "티켓 판매 페이지(/en/commerce/product?id=ThemePark)가 JS 렌더링이고 날짜별 요금 API를 열 수 없어 성인 1일권의 날짜별 금액은 확인 못함. 범위 475~799위안만 확인(보도자료 2025-08, 12개월 이상 경과 stale_source).",
+     "detail": "fees.exact_adult_price",
+     "run": "r1-b19"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b19-c24",
+    "r1-b19-c25",
+    "r1-b19-c26",
+    "r1-b19-c27"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "어트랙션 사전 예약 외 프리미어 액세스 요금·오픈 시점은 확인하지 않음.",
+     "detail": "reservation.attraction",
+     "run": "r1-b19"
+    }
+   ]
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "파크 내 현금·외국 발행 카드·알리페이/위챗페이 수용 여부를 공식 페이지에서 찾지 못함(ATM 위치만 확인)."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b19-c30"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내·오디오가이드·한국어 지원 직원 여부를 공식 페이지에서 찾지 못함.",
+     "detail": "language.korean",
+     "run": "r1-b19"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b19-c31",
+    "r1-b19-c32",
+    "r1-b19-c33"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b19-c1",
+   "field": "location",
+   "text": "상하이 디즈니 리조트 주소는 상하이 푸둥신구 촨사진 황자오로 310호이다.",
+   "original_text": null,
+   "value": "No. 310 Huangzhao Road, Chuansha Town, Pudong New District",
+   "verdict": "verified",
+   "verify_note": "Taxi page: 'located at No. 310 Huangzhao Road, Chuansha Town, Pudong New District, Shanghai'.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/taxi",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c2",
+   "field": "access",
+   "text": "지하철 11호선을 타고 디즈니 리조트역에서 내려 1번 또는 4번 출구로 나온다.",
+   "original_text": null,
+   "value": "11호선 디즈니 리조트역 1·4번 출구",
+   "verdict": "verified",
+   "verify_note": "Transportation page: 'Take Line 11 to Disney Resort Station and exit from Gate 1 or 4'.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/information/transportation",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c3",
+   "field": "access",
+   "text": "11호선 디즈니 리조트역 도착 기준 첫차는 07:08, 막차는 23:39이다.",
+   "original_text": null,
+   "value": "07:08 / 23:39 (도착)",
+   "verdict": "verified",
+   "verify_note": "Rail page: 'To Disney Resort: First Train 07:08 (arrival) / Last Train 23:39 (arrival)', marked 'for reference only'.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/rail",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c4",
+   "field": "access",
+   "text": "역에서 내리면 상하이 디즈니랜드, 디즈니타운, 위시잉 스타 파크가 걸어서 갈 수 있는 거리이며 리조트 호텔까지는 셔틀을 타야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'just steps away from Shanghai Disneyland, Disneytown and Wishing Star Park, and only a short Disney Resort Shuttle ride from the Resort hotels'.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/rail",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c5",
+   "field": "access",
+   "text": "택시는 리조트 안 서쪽 대중교통 허브(West PTH)의 지정 승하차 지점을 이용하고 거기서 걸어서 공원으로 간다.",
+   "original_text": null,
+   "value": "West Public Transportation Hub",
+   "verdict": "verified",
+   "verify_note": "'designated pick-up and drop-off points for taxis at the West Public Transportation Hub (West PTH) ... quick stroll'. Taxis are not allowed in the Car & Coach Park.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/taxi",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c6",
+   "field": "access",
+   "text": "푸둥 버스 50·51·52·70·71번이 상하이 국제관광리조트구 서쪽 교통 허브까지 간다.",
+   "original_text": null,
+   "value": "50/51/52/70/71",
+   "verdict": "verified",
+   "verify_note": "The bus page lists Pudong 50/51/52/70/71. The transportation overview card lists only '50, 51, 52, or 70' (minor inconsistency).",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/bus",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c7",
+   "field": "access",
+   "text": "푸둥 국제공항에서 리조트까지는 약 30km이고 택시로 약 30~50분, 지하철로 약 80~90분 걸린다고 안내된다.",
+   "original_text": null,
+   "value": "택시 30-50분, 지하철 80-90분",
+   "verdict": "verified",
+   "verify_note": "Pudong International Airport: '~30km, Taxi ~30-50 minutes, Metro ~80-90 minutes'.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/information/transportation",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c8",
+   "field": "access",
+   "text": "훙차오 국제공항에서 리조트까지는 약 45km이고 택시로 약 60~80분, 지하철로 약 80~90분 걸린다고 안내된다.",
+   "original_text": null,
+   "value": "택시 60-80분, 지하철 80-90분",
+   "verdict": "verified",
+   "verify_note": "Hongqiao International Airport: '~45km, Taxi ~60-80 minutes, Metro ~80-90 minutes'.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/information/transportation",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c9",
+   "field": "parking",
+   "text": "디즈니 승용차·버스 주차장의 승용차 요금은 첫 1시간 14위안, 이후 30분마다 7위안이다.",
+   "original_text": null,
+   "value": "14위안/첫 1시간, 7위안/30분",
+   "verdict": "verified",
+   "verify_note": "Fee table image (gpl-notice-en-20240705-1.png) and page text: RMB 14/hour for the first hour, then RMB 7 per half hour.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/disney-car-and-coach-park",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c10",
+   "field": "parking",
+   "text": "디즈니 승용차·버스 주차장의 승용차 종일(1회 입장) 요금은 112위안이다.",
+   "original_text": null,
+   "value": "112위안",
+   "verdict": "verified",
+   "verify_note": "'Whole day (for entry to the Parking Lot once): RMB 112'.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/disney-car-and-coach-park",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c11",
+   "field": "parking",
+   "text": "디즈니 승용차·버스 주차장은 05:30~24:00 운영하며 매일 24:00에 닫으므로 그 전에 차를 빼야 한다.",
+   "original_text": null,
+   "value": "05:30-24:00",
+   "verdict": "verified",
+   "verify_note": "'Operating Hours: 05:30 - 24:00 (Adjustments may be made) ... will close at 24:00 every day'.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/disney-car-and-coach-park",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c12",
+   "field": "parking",
+   "text": "디즈니타운 주차장 요금은 첫 1시간 30위안, 이후 30분마다 15위안, 종일(1회 입장) 240위안이다.",
+   "original_text": null,
+   "value": "30위안/첫 1시간, 15위안/30분, 240위안/종일",
+   "verdict": "verified",
+   "verify_note": "RMB 30/hour for the first hour, then RMB 15 per half hour, whole day RMB 240. No free pick-up or drop-off.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/disneytown-parking-lot",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c13",
+   "field": "parking",
+   "text": "디즈니타운 주차장 운영시간은 월~목 9:00~21:30, 금~일 9:00~22:00이다.",
+   "original_text": null,
+   "value": "월-목 9:00-21:30 / 금-일 9:00-22:00",
+   "verdict": "verified",
+   "verify_note": "'Monday to Thursday: 9:00-21:30, Friday to Sunday: 9:00-22:00'.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/disneytown-parking-lot",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c14",
+   "field": "hours",
+   "text": "공식 파크 운영시간 캘린더에서 상하이 디즈니랜드는 2026-10-11 8:30~20:30, 10-12 8:30~20:00, 10-13 8:30~20:30으로 날짜마다 다르다.",
+   "original_text": null,
+   "value": "2026-10-11 08:30-20:30; 2026-10-12 08:30-20:00; 2026-10-13 08:30-20:30",
+   "verdict": "verified",
+   "verify_note": "Checked with a POST to /rap/parkhour (startDate/endDate): Shanghai Disneyland 10-11 8:30-20:30, 10-12 8:30-20:00, 10-13 8:30-20:30. Hours are only published about two weeks ahead.",
+   "sources": [
+    {
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/rap/parkhour",
+     "type": "operator",
+     "page_updated": "2026-10-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c15",
+   "field": "fees",
+   "text": "2025년 8월 25일 공식 보도자료 기준, 2025년 10월 중순 티켓 구조 개편 후에도 상하이 디즈니랜드 티켓 가격은 기본가 475위안~최고가 799위안 범위이며, 예상 방문객 수에 따라 날짜별 가격 등급이 정해진다.",
+   "original_text": "상하이 디즈니랜드의 티켓 가격은 475위안(기본가)부터 799위안(최고가) 사이이며 날짜별 수요에 따라 달라진다.",
+   "value": "475~799위안",
+   "verdict": "corrected",
+   "verify_note": "The press release is dated 2025-08-25 (more than 12 months old). A current price source on the official site could not be found (ticket pages render client-side, and the parkcalender API has no prices). Any use needs this period stated.",
+   "sources": [
+    {
+     "url": "https://shcorporate.shanghaidisneyresort.com/wp-content/uploads/2025/08/%E6%96%B0%E9%97%BB%E7%A8%BF-%E8%BF%99%E4%B8%AA%E9%87%91%E7%A7%8B%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%BA%A6%E5%81%87%E5%8C%BA%E8%90%8C%E8%81%9A%E8%BE%BE%E8%8F%B2%E6%9C%88%EF%BC%8C%E7%8E%A9%E8%BD%AC%E4%B8%87%E5%9C%A3%E5%AD%A3%EF%BC%8C%E7%95%85%E6%B8%B8%E5%A5%87%E5%A6%99%E5%81%87%E6%9C%9F.pdf",
+     "type": "operator",
+     "page_updated": "2025-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c16",
+   "field": "fees",
+   "text": "2025년 8월 공식 보도자료 기준, 리조트는 30일 앞까지 보여 주는 롤링 가격 캘린더를 제공하며 날짜별 티켓 가격은 그 캘린더에서 확인한다.",
+   "original_text": "리조트는 30일 앞까지 보여 주는 롤링 가격 캘린더를 제공하며 날짜별 티켓 가격은 그 캘린더에서 확인한다.",
+   "value": "30일 롤링 캘린더",
+   "verdict": "corrected",
+   "verify_note": "Same 2025-08-25 release ('提前30天的滚动价格日历'). The source is stale, so the period is added.",
+   "sources": [
+    {
+     "url": "https://shcorporate.shanghaidisneyresort.com/wp-content/uploads/2025/08/%E6%96%B0%E9%97%BB%E7%A8%BF-%E8%BF%99%E4%B8%AA%E9%87%91%E7%A7%8B%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%BA%A6%E5%81%87%E5%8C%BA%E8%90%8C%E8%81%9A%E8%BE%BE%E8%8F%B2%E6%9C%88%EF%BC%8C%E7%8E%A9%E8%BD%AC%E4%B8%87%E5%9C%A3%E5%AD%A3%EF%BC%8C%E7%95%85%E6%B8%B8%E5%A5%87%E5%A6%99%E5%81%87%E6%9C%9F.pdf",
+     "type": "operator",
+     "page_updated": "2025-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c17",
+   "field": "fees",
+   "text": "3세 미만 아동은 입장이 무료이다(방문 당일 기준).",
+   "original_text": null,
+   "value": "무료(3세 미만)",
+   "verdict": "verified",
+   "verify_note": "FAQ: 'Children under 3 years old on the day of their park visit can enter for free'.",
+   "sources": [
+    {
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c18",
+   "field": "fees",
+   "text": "3~11세(3세와 11세 포함)는 어린이 티켓, 60세 이상은 시니어 티켓을 구매해야 한다(방문 당일 나이 기준).",
+   "original_text": null,
+   "value": "어린이 3-11세, 시니어 60세 이상",
+   "verdict": "verified",
+   "verify_note": "FAQ: 'ages 3 to 11 (both inclusive) ... Child Ticket. Seniors who are 60 or older ... Senior Ticket'.",
+   "sources": [
+    {
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c19",
+   "field": "fees",
+   "text": "2025년 8월 공식 보도자료 기준, 어린이(3~11세), 60세 이상, 장애인(증빙 필요) 티켓은 일반 티켓의 약 75% 가격(약 25% 할인)이다.",
+   "original_text": "어린이(3~11세), 60세 이상, 장애인 티켓은 약 75% 가격(약 25% 할인)이라고 공식 보도자료에 적혀 있다.",
+   "value": "약 七五折(75%)",
+   "verdict": "corrected",
+   "verify_note": "Source text: '约七五折', disabled guests need proof. The release is dated 2025-08-25 (stale), so the period is added.",
+   "sources": [
+    {
+     "url": "https://shcorporate.shanghaidisneyresort.com/wp-content/uploads/2025/08/%E6%96%B0%E9%97%BB%E7%A8%BF-%E8%BF%99%E4%B8%AA%E9%87%91%E7%A7%8B%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%BA%A6%E5%81%87%E5%8C%BA%E8%90%8C%E8%81%9A%E8%BE%BE%E8%8F%B2%E6%9C%88%EF%BC%8C%E7%8E%A9%E8%BD%AC%E4%B8%87%E5%9C%A3%E5%AD%A3%EF%BC%8C%E7%95%85%E6%B8%B8%E5%A5%87%E5%A6%99%E5%81%87%E6%9C%9F.pdf",
+     "type": "operator",
+     "page_updated": "2025-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c20",
+   "field": "fees",
+   "text": "1일권·2일권은 최소 10일 전에 예약하면 얼리버드 할인을 받을 수 있다.",
+   "original_text": null,
+   "value": "10일 전",
+   "verdict": "verified",
+   "verify_note": "FAQ: 'Book at least 10 days in advance to enjoy our Early Bird ticket discount' (1-Day and 2-Day tickets).",
+   "sources": [
+    {
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c21",
+   "field": "fees",
+   "text": "디즈니타운은 입장료가 없어 파크 티켓 없이 방문할 수 있으나 주차에는 별도 요금이 들 수 있다.",
+   "original_text": null,
+   "value": "무료(디즈니타운)",
+   "verdict": "verified",
+   "verify_note": "FAQ: 'no admission fee ... without a ticket ... an additional fee may be required for parking'.",
+   "sources": [
+    {
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c22",
+   "field": "description",
+   "text": "파크 티켓 한 장으로 당일 운영시간 중 상하이 디즈니랜드에 횟수 제한 없이 드나들 수 있고 8개 테마 랜드를 모두 이용할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "FAQ: 'enter and exit ... an unlimited number of times on your day of visit during operating hours ... all 8 themed lands'.",
+   "sources": [
+    {
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c23",
+   "field": "description",
+   "text": "상하이 디즈니랜드는 마법에 걸린 이야기 성(Enchanted Storybook Castle)과 미키 애비뉴, 상상의 정원, 판타지랜드, 어드벤처 아일, 트레저 코브, 투모로우랜드, 토이 스토리 랜드, 주토피아의 8개 랜드로 이루어진다.",
+   "original_text": null,
+   "value": "8개 랜드",
+   "verdict": "verified",
+   "verify_note": "The theme-park page loads its text via POST /rap/facility/detail: 'Enchanted Storybook Castle and 8 unforgettable lands: Mickey Avenue, Gardens of Imagination, Fantasyland, Adventure Isle, Treasure Cove, Tomorrowland, Disney•Pixar Toy Story Land and Zootopia'.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/theme-park",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c24",
+   "field": "reservation",
+   "text": "티켓은 공식 웹사이트, 공식 앱, 공식 위챗 계정, 예약센터(+86-21-3158-0000) 등 공식 채널에서 구매한다.",
+   "original_text": null,
+   "value": "+86-21-3158-0000",
+   "verdict": "verified",
+   "verify_note": "FAQ lists the official website, App, WeChat account, Reservation Center (400-1800000 or +86-21-3158-0000), plus the official Douyin, JD and Fliggy stores.",
+   "sources": [
+    {
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c25",
+   "field": "reservation",
+   "text": "티켓 구매 때 구매자는 유효한 신분증 번호와 관련 정보를 제공해야 하고, 입장 시 구매 때 등록한 신분증 원본을 제시해야 한다.",
+   "original_text": null,
+   "value": "실명제",
+   "verdict": "verified",
+   "verify_note": "FAQ text matches. The real-name policy page is images only (policy effective 2024-12-23), so the claim rests on the FAQ.",
+   "sources": [
+    {
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/legal/shanghai-disney-resort-real-name-ticketing-policy",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c26",
+   "field": "reservation",
+   "text": "외국인 방문객은 유효한 외국 여권(또는 중국 외국인 영주증 번호)으로 티켓을 구매하고 입장 때 해당 신분증 원본을 제시한다.",
+   "original_text": null,
+   "value": "외국 여권",
+   "verdict": "verified",
+   "verify_note": "Weather & Packing page: 'Other guests—valid foreign passport or PRC Foreign Permanent Resident ID Card number'.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/weather-packing-information",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c27",
+   "field": "reservation",
+   "text": "신분증은 사본이나 디지털 버전이 인정되지 않고 원본만 유효한 입장 서류이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'The original copy ... is the only valid admission document. Copies, including digital versions, will not be accepted.'",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/weather-packing-information",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c28",
+   "field": "tip",
+   "text": "디즈니 패스트패스는 추가 요금 없이 공식 앱으로 배부되며 발급한 당일에만 유효하다.",
+   "original_text": null,
+   "value": "무료, 당일 유효",
+   "verdict": "verified",
+   "verify_note": "FAQ: 'Disney Fastpass is a complimentary ticketing system ... distributed on ... Official App ... valid only for the day it is issued'. The FAQ entry may be legacy, because the site also sells paid Disney Premier Access. Keep the two distinct.",
+   "sources": [
+    {
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c29",
+   "field": "tip",
+   "text": "공식 앱에서 안면 인식 입장을 선택하면 입장이 빨라진다고 안내된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Pre-arrival page card 'Facial Recognition Park Entry': 'Opt in to breeze through our park entry with the facial recognition' (with a Download the App button).",
+   "sources": [
+    {
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=dynamic-template&entityId=preArrivalInformation",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c30",
+   "field": "language",
+   "text": "공식 웹사이트는 중국어 간체와 영어로 제공되고 일본어는 일부 콘텐츠만 제공된다(한국어는 언급 없음).",
+   "original_text": null,
+   "value": "zh-Hans, en, 일부 ja",
+   "verdict": "verified",
+   "verify_note": "FAQ: 'Simplified Chinese and English, with limited content also provided in Japanese'. No Korean; the FAQ recommends browser translation.",
+   "sources": [
+    {
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c31",
+   "field": "caution",
+   "text": "바퀴 달린 캐리어는 크기와 관계없이, 56×36×23cm를 넘는 가방·상자·짐은 파크에 반입할 수 없다.",
+   "original_text": null,
+   "value": "56×36×23cm 초과, 바퀴 달린 짐 금지",
+   "verdict": "verified",
+   "verify_note": "'larger than 56cm X 36cm X 23cm. Wheeled luggage of any size.'",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/weather-packing-information",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c32",
+   "field": "caution",
+   "text": "삼각대, 셀카봉, 드론, 주류, 접이식 의자·스툴, 칼 등은 파크에 반입할 수 없다(안내견 제외 동물도 불가).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Prohibited: tripods, extendable selfie sticks, drones, alcohol, folding chairs and stools, knives; animals except guide dogs.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/weather-packing-information",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c33",
+   "field": "caution",
+   "text": "비나 더위에도 어트랙션·레스토랑·상점은 운영하지만, 극단적인 악천후에는 파크가 닫거나 운영 시간·범위를 줄일 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'remain open—rain or shine ... may be forced to close or operate under a limited range of offerings and park hours due to extreme ... inclement weather'.",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/weather-packing-information",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-c34",
+   "field": "tip",
+   "text": "리조트 안에서 ATM은 디즈니랜드, 디즈니타운, 리조트 호텔 등의 게스트 서비스 근처에서 찾을 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "FAQ: 'ATMs can be found near multiple Guest Services locations ... Shanghai Disneyland, Disneytown, the Resort hotels'.",
+   "sources": [
+    {
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-s1",
+   "field": "access",
+   "text": "공항선(机场联络线)을 타고 국제관광리조트역 3번 출구로 나와 촨잔로/탕황로 정류장에서 푸둥 50번 버스를 타면 디즈니 지하철역에 도착한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/rail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-s2",
+   "field": "parking",
+   "text": "주말·공휴일에는 리조트 주차장이 만차에 가까워지므로 지하철·택시 등 대중교통 이용이 권장된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/disney-car-and-coach-park",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-s3",
+   "field": "hours",
+   "text": "2026년 10월 11일 기준 디즈니타운은 10:00~22:00, 위시잉 스타 파크는 9:00~18:00 운영한다(날짜별로 다름).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/rap/parkhour",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-s4",
+   "field": "reservation",
+   "text": "장애인 티켓은 예약센터(400-180-0000 또는 +86-21-3158-0000), 공식 앱·웹사이트·위챗에서 구매하며 신분증 원본과 장애 증빙 원본이 필요하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  },
+  {
+   "cid": "r1-b19-s5",
+   "field": "tip",
+   "text": "공식 웹사이트는 한국어를 지원하지 않으며, 브라우저 번역 기능 사용이 안내된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b19"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b19",
+   "text": "The ticket price (475~799 RMB), the 30-day calendar and the about-75% concession all come only from the 2025-08-25 press release, which is more than 12 months old. A current official price page could not be read (client-rendered ticket pages; parkcalender API has no prices). Lookups tried: /en/tickets and the parkcalender POST. Payment and duration were also not found in the official FAQ."
+  },
+  {
+   "run": "r1-b19",
+   "text": "Bus lines: the bus page lists 50/51/52/70/71, while the transportation overview lists 50/51/52/70."
+  },
+  {
+   "run": "r1-b19",
+   "text": "The parkhour API currently publishes park hours only through about 2026-10-25. Later dates show 'defaultCloseReason', meaning not yet announced, not that the park is closed."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -194,6 +1040,42 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b19",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 34,
+    "verdicts": {
+     "verified": 31,
+     "corrected": 3,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 5
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "source_access",
+   "note": "공식 사이트가 JS 렌더링이라 내용은 공개 API에서 가져옴. 주차·교통·택시·버스·지하철·티켓 안내문은 POST https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/rap/facility/detail 본문 {\"entityType\":\"guest-service\",\"urlFriendlyId\":\"<disney-car-and-coach-park|disneytown-parking-lot|rail|taxi|bus|weather-packing-information>\"} 의 응답(공식 페이지 /en/experience/guest-service/<같은 slug>에 표시)과 같고, 운영시간은 POST .../api/rap/parkhour 본문 {\"startDate\":\"2026-10-11\",\"endDate\":\"2026-10-13\"}. FAQ·교통 개요는 GET으로 확인 가능.",
+   "run": "r1-b19"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'공식 안내상 티켓 가격대는 475~799위안' gives no period. It should state the 2025-08-25 press-release basis, per the corrected c15.",
+   "'2026년 10월 11일 운영시간은 8:30~20:30입니다' is backed by c14 but holds for that day only (10-12 is 8:30~20:00). It goes out of date immediately in an evergreen description, so say that hours vary by date and should be checked on the official calendar.",
+   "'디즈니 패스트패스는 공식 앱에서 무료 배부' is backed by c28, but the FAQ entry may be legacy; a paid Disney Premier Access is sold separately. Recommend adding the note 'paid Premier Access is separate' or removing this highlight."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b19"
  }
 }

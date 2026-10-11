@@ -2,7 +2,7 @@
  "id": "xa-terracotta",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "진시황제릉박물원·병마용",
   "local": "秦始皇帝陵博物院"
@@ -10,96 +10,611 @@
  "admin_region": "산시성(陝西)",
  "former_region": null,
  "city": "시안",
- "address": null,
+ "address": "陕西省西安市临潼区秦陵北路",
  "coord": null,
  "coord_note": "좌표 검증 대기 (geocode confidence: none)",
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "산시성 시안 린퉁구에 있는 진시황제릉박물원은 진시황 병마용박물관과 진시황릉 고고유적공원(리산위안) 두 곳으로 이루어진 대형 유적 박물원이다.",
+ "description": "산시성 시안 린퉁구에 있는 진시황제릉박물원은 진시황 병마용박물관과 진시황릉 고고유적공원(리산위안) 두 곳으로 이루어진 대형 유적 박물원이다. 병마용은 1974년 우물을 파던 농민들이 도용 파편을 발견하면서 알려졌고, 1호갱은 동서 230m, 남북 62m 규모에 도용과 도마 약 6000점이 묻힌 것으로 추정된다. 진시황릉은 1987년 유네스코 세계유산에 올랐고, 박물원은 2007년 첫 국가 5A급 관광지로 선정되었다. 두 구역은 2200m 떨어져 있어 무료 셔틀로 오갈 수 있으며 구역마다 관람에 약 1.5시간이 걸린다. 입장권은 실명 사전 예약제이고, 외국인은 여권 정보로 공식 사이트나 위챗 공식 계정에서 예약한다.",
+ "highlights": [
+  "병마용 1호갱은 동서 230m, 남북 62m 규모로 도용·도마 약 6000점이 묻힌 것으로 추정된다",
+  "1987년 진시황릉(병마용갱 포함)이 유네스코 세계유산에 등재되었다",
+  "병마용박물관과 리산위안 두 구역은 2200m 떨어져 있으며 무료 셔틀을 탈 수 있다",
+  "1980년 출토된 채색 청동 거마는 중국 고고학사에서 가장 크고 보존이 잘된 청동 거마로 소개된다",
+  "입장권은 실명 예약제이며 외국인도 여권으로 공식 사이트와 위챗 계정에서 예약할 수 있다"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b27-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b27-c3"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "guide.html 의 교통 안내(공항·고속철·대중교통)는 팝업 내용이 페이지 텍스트에 없어 가장 가까운 역·버스·소요시간 미확인.",
+     "detail": "access",
+     "run": "r1-b27"
+    }
+   ]
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b27-c4"
+   ],
+   "gap": null
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b27-c5",
+    "r1-b27-c6",
+    "r1-b27-c7"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "중문 공식 페이지(https://www.bmy.com.cn/guide.html)는 성수기 3월16일~11월15일 08:30-17:00 / 비수기 11월16일~3월15일 08:30-16:30(폐관 18:30/18:00)이나, 영문 공식 페이지(https://www.bmy.com.cn/jingtai/bmyweb/index.html)는 3월1일~11월30일 8:30-17:00 / 12월1일~2월28일 8:30-16:30으로 계절 구분일이 다름. 두 페이지 모두 갱신일 표시 없음. 방문 전 공식 공지 확인 필요.",
+     "detail": "hours.conflict",
+     "run": "r1-b27"
+    }
+   ]
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지(guide.html)에 정기 휴관일 기재 없음. 다만 영문 페이지에 Important Notice on Closure 공지 제목이 있으나 본문을 열지 못함."
    }
   },
   "fees": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 안내 페이지에 요금 기재 없음. 티켓 사이트(bmy.albatrip.cn)는 JS 렌더링이며 공개 API를 찾지 못함. 무료 입장 대상 존재(정책성 무료표 예약)는 확인되나 대상 기준·금액은 미확인."
    }
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b27-c8",
+    "r1-b27-c9",
+    "r1-b27-c10",
+    "r1-b27-c11"
+   ],
+   "gap": null
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "결제 수단(외국 카드·현금·알리페이/위챗페이) 공식 안내 미확인. 온라인 예약 후 신분증 검표 방식만 확인됨."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b27-c14"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내·오디오가이드 여부 미확인(영문 사이트만 확인). 해설 서비스는 존재하나 언어 불명.",
+     "detail": "language",
+     "run": "r1-b27"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b27-c12",
+    "r1-b27-c13"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b27-c1",
+   "field": "location",
+   "text": "박물원 주소는 산시성 시안시 린퉁구 친링베이로이다.",
+   "original_text": null,
+   "value": "陕西省西安市临潼区秦陵北路",
+   "verdict": "verified",
+   "verify_note": "guide.html footer: 帝陵地址：陕西省西安市临潼区秦陵北路",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/guide.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c2",
+   "field": "description",
+   "text": "진시황제릉박물원은 진시황 병마용박물관과 진시황릉 고고유적공원(리산위안) 두 곳으로 이루어져 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "guide.html: 由秦始皇兵马俑博物馆、秦始皇陵考古遗址公园（丽山园）组成",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/guide.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c3",
+   "field": "access",
+   "text": "두 관람 구역은 2200m 떨어져 있으며 무료 관광 셔틀로 왕복할 수 있다.",
+   "original_text": null,
+   "value": "2200m",
+   "verdict": "verified",
+   "verify_note": "about.html: 两个景点相距2200米，观众可乘坐免费旅游专车往返",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/about.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c4",
+   "field": "duration",
+   "text": "병마용박물관과 리산위안 두 곳 모두 관람에 각각 약 1.5시간이 걸린다고 안내하며, 사이 이동은 무료 셔틀을 이용할 수 있다.",
+   "original_text": null,
+   "value": "1.5시간(구역별)",
+   "verdict": "verified",
+   "verify_note": "guide.html: 两处参观均需约1.5小时，可免费乘坐摆渡车往返",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/guide.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c5",
+   "field": "hours",
+   "text": "성수기(3월 16일~11월 15일)의 운영 시간은 08:30-17:00이며 폐관 시각은 18:30이다.",
+   "original_text": null,
+   "value": "08:30-17:00 (폐관 18:30)",
+   "verdict": "verified",
+   "verify_note": "旺季 3月16日—11月15日 08:30-17:00, 闭馆18:30. The page is undated and its newest notice is from 2023-05-04, so it may be stale. The English page gives different season dates (see conflicts).",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/guide.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c6",
+   "field": "hours",
+   "text": "비수기(11월 16일~다음 해 3월 15일)의 운영 시간은 08:30-16:30이며 폐관 시각은 18:00이다.",
+   "original_text": null,
+   "value": "08:30-16:30 (폐관 18:00)",
+   "verdict": "verified",
+   "verify_note": "淡季 11月16日—次年3月15日 08:30-16:30, 闭馆18:00. Same freshness caveat and English-page conflict as c5.",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/guide.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c7",
+   "field": "hours",
+   "text": "병마용박물관과 리산위안 두 곳 모두 17:00에 검표를 마감하므로 일정을 여유 있게 짜야 한다.",
+   "original_text": null,
+   "value": "17:00 검표 마감",
+   "verdict": "verified",
+   "verify_note": "Literal: 以上两处均于17:00时停止检票. This does not fit the off-season 08:30-16:30 window on the same page (see conflicts).",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/guide.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c8",
+   "field": "reservation",
+   "text": "실명제 사전 예약 입장이며, 무료 입장 대상자와 홍콩·마카오·대만 및 외국인 관람객도 공식 사이트와 위챗 공식 계정으로 예약한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "实行实名制预约参观…含政策性免票人员、港澳台及外籍观众…官方网站和微信公众号",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/guide.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c9",
+   "field": "reservation",
+   "text": "공식 티켓 사이트(bmy.com.cn)에서 2세대 신분증 또는 여권 정보를 입력해 예약할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "方式一: 官方票务网站 http://bmy.com.cn，使用第二代身份证或护照信息预约购票",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/guide.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c10",
+   "field": "reservation",
+   "text": "위챗 공식 계정 [秦始皇帝陵博物院] 또는 [兵马俑票务在线]을 팔로우해 예약할 수도 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "方式二/三: 【秦始皇帝陵博物院】【兵马俑票务在线】",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/guide.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c11",
+   "field": "reservation",
+   "text": "입구 검표 때 예약자는 신분증(주민증, 홍콩·마카오 통행증, 대만 동포증, 회향증, 여권) 원본을 제시해 표를 확인받는다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "有效身份证件(身份证、港澳通行证、台胞证、回乡证、护照）原件",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/guide.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c12",
+   "field": "caution",
+   "text": "하루 최대 수용 인원은 6만 5천 명이며 상한에 도달하면 표 판매가 중단된다.",
+   "original_text": null,
+   "value": "65000",
+   "verdict": "verified",
+   "verify_note": "最大承载量每日6.5万人，达到上限将停止售票",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/guide.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c13",
+   "field": "caution",
+   "text": "교통 혼잡을 피하려면 반드시 온라인 구매를 마친 뒤 방문하라고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "为避免交通拥堵，请…务必完成网上购票后再前来",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/guide.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c14",
+   "field": "language",
+   "text": "공식 사이트에 영어판이 있다(한국어 안내는 확인되지 않음).",
+   "original_text": null,
+   "value": "English site",
+   "verdict": "verified",
+   "verify_note": "English site exists. The site's language switch offers only 中/En, with no Korean.",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/jingtai/bmyweb/index.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c15",
+   "field": "tip",
+   "text": "문의 전화는 티켓 029-81399127, 해설 029-81399047/029-81399048, 불만·도움 요청 029-81399174이다.",
+   "original_text": null,
+   "value": "029-81399127",
+   "verdict": "verified",
+   "verify_note": "Phone numbers match the footer exactly.",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/guide.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c16",
+   "field": "highlight",
+   "text": "1호갱은 동서 230m, 남북 62m, 면적 14260㎡이며 도용·도마 약 6000점이 묻힌 것으로 추정된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "pitone.html: 东西长230米，南北宽62米…面积14260平方米…约埋藏陶俑、陶马6000件",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/pitone.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c17",
+   "field": "description",
+   "text": "1974년 3월 린퉁구 시양촌 농민이 우물을 파다 도용 파편을 발견했고, 이후 1호 병마용갱으로 확인되었다.",
+   "original_text": null,
+   "value": "1974-03",
+   "verdict": "verified",
+   "verify_note": "pitone.html: 1974年3月，临潼区西杨村的农民打井时…",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/pitone.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c18",
+   "field": "highlight",
+   "text": "1987년 12월 유네스코가 진시황제릉(병마용갱 포함)을 세계유산 목록에 올렸다.",
+   "original_text": null,
+   "value": "1987-12-11",
+   "verdict": "verified",
+   "verify_note": "about.html: 1987年12月11日…列入《世界遗产名录》",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/about.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c19",
+   "field": "description",
+   "text": "박물원은 2007년 첫 국가 5A급 관광지로 선정되었다.",
+   "original_text": null,
+   "value": "2007",
+   "verdict": "verified",
+   "verify_note": "首批国家AAAAA旅游景区 (2007), i.e. among the first batch of 5A sites.",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/about.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c20",
+   "field": "highlight",
+   "text": "1980년 12월 진시황릉 봉토 서쪽에서 채색 청동 거마 두 대가 출토되었으며, 중국 고고학사에서 가장 일찍 발견된 최대·보존 상태 최상의 청동 거마로 소개된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "pithorse.html: 1980年12月, 封土西侧20米, 两乘大型彩绘铜车马; 发现最早、体形最大、保存最完整的青铜车马",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/pithorse.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-c21",
+   "field": "description",
+   "text": "진시황릉 구역에서는 부장갱·부장묘 등이 600여 곳 발견되었다.",
+   "original_text": null,
+   "value": "600+",
+   "verdict": "verified",
+   "verify_note": "about.html: 陪葬坑、陪葬墓等600余处",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/about.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-s1",
+   "field": "tip",
+   "text": "공식 사이트는 해설 서비스, 휠체어 대여, 수유실, 식수대, 의무실을 편의 서비스로 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/guide.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  },
+  {
+   "cid": "r1-b27-s2",
+   "field": "tip",
+   "text": "공식 사이트, 위챗 공식 계정, 웨이보, 더우인 등에서 운영 정보를 수시로 공지하므로 방문 전 확인하라고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.bmy.com.cn/guide.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b27"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b27",
+   "text": "Season dates differ between official pages. The Chinese guide.html gives 旺季 3/16-11/15 and 淡季 11/16-3/15. The official English page (bmy.com.cn/jingtai/bmyweb/index.html) gives 'Entering Timing' Mar 1-Nov 30 8:30-17:00 and Dec 1-Feb 28 8:30-16:30."
+  },
+  {
+   "run": "r1-b27",
+   "text": "guide.html contradicts itself. It gives off-season hours of 08:30-16:30, but also says both sites stop ticket checks at 17:00 year-round."
+  },
+  {
+   "run": "r1-b27",
+   "text": "guide.html is undated. Its newest 开放公告 is from 2023-05-04 and its copyright line reads 2012-2014. Flag it as a stale_source candidate even though it is the operator's live page."
+  },
+  {
+   "run": "r1-b27",
+   "text": "The visitor-notice link on guide.html (jingtai/bmyweb/ticketing110.html) returns 404."
+  },
+  {
+   "run": "r1-b27",
+   "text": "collector_unconfirmed: fees, closed_days, payment, parking and access details are not on the cited pages. A lookup of ticketing110.html (404) found nothing."
+  },
+  {
+   "run": "r1-b27",
+   "text": "Fetching guide.html was intermittent: TLS resets on several attempts, and http:// returned 503. The page loaded on retry."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -184,6 +699,45 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b27",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 21,
+    "verdicts": {
+     "verified": 21,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 2
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "공식 페이지에 주차 정보 없음.",
+   "run": "r1-b27"
+  },
+  {
+   "topic": "source_freshness",
+   "note": "guide.html 은 갱신일 미표시이며 개방 공고 목록의 최신 항목이 2023-05-04로 보여 stale_source 가능성 있음. 대체 공식 출처는 사이트가 열리지 않아 찾지 못함(bmy.com.cn 은 www 경로 일부만 접속 가능).",
+   "run": "r1-b27"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "Description has no hours, fees or closing/last-entry info. This is not an error, but travellers would find it useful. c5-c7 support adding hours with a 17:00 ticket-check cutoff."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b27"
  }
 }

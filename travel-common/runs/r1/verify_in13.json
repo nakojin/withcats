@@ -1,0 +1,925 @@
+[
+ {
+  "key": "central-035",
+  "name_ko": "도다이지 대불전",
+  "name_local": "東大寺 大仏殿",
+  "admin_region": "나라현 나라시",
+  "address": "〒630-8587 奈良県奈良市雑司町406-1",
+  "description": "도다이지 대불전은 도다이지의 금당으로 국보로 지정되어 있습니다. 현재 건물은 에도시대에 재건되었으며, 동서 57.012m, 남북 50.480m, 높이 48.742m로 세계 최대급 목조 건축물이라고 소개됩니다. 안에는 높이 14.98m의 노사나불, 곧 대불이 모셔져 있습니다. 참배 시간은 4월부터 10월까지 7시 30분~17시 30분, 11월부터 3월까지 8시~17시이며, 특별한 행사나 긴급 사태가 없으면 쉬는 날이 없습니다. 입당료는 현금만 받고 예약은 필요 없습니다. 한국어를 포함한 9개 언어 오디오 가이드를 500엔에 빌릴 수 있습니다. 경내에는 전용 주차장이 없어 긴테쓰 나라역에서 걸어서 약 20분 가거나 버스를 이용하는 방법이 안내되어 있습니다.",
+  "highlights": [
+   "국보 대불전: 에도시대에 재건된 세계 최대급 목조 건축물, 높이 48.742m",
+   "높이 14.98m의 노사나불(대불)을 모신 금당",
+   "4~10월 7:30~17:30 참배, 쉬는 날 없음(특별 행사·긴급 사태 제외)",
+   "한국어 포함 9개 언어 오디오 가이드 500엔(30분 분량), 개별 예약 불필요",
+   "대불전·도다이지 뮤지엄 세트권(성인 1,200엔)으로 함께 관람 가능"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "도다이지의 주소는 〒630-8587 나라시 조시초(雑司町) 406-1이다.",
+    "value": "630-8587 奈良市雑司町406-1",
+    "urls": [
+     "https://www.todaiji.or.jp/information/"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "긴테쓰 나라역에서 노보리오지초(登大路町)를 따라 동쪽으로 걸어 약 20분 걸린다.",
+    "value": "도보 약 20분",
+    "urls": [
+     "https://www.todaiji.or.jp/access/"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "JR나라역·긴테쓰 나라역에서 시내 순환버스를 타고 '도다이지 대불전·가스가타이샤마에'에서 내리면 도보 5분이다.",
+    "value": "버스 하차 후 도보 5분",
+    "urls": [
+     "https://www.todaiji.or.jp/access/"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "긴테쓰 나라역에서 '구루룻토 버스'(오미야도리 루트·나라공원 루트)를 타고 '대불전 앞 주차장'에서 내리면 바로 앞이다.",
+    "value": "하차 후 바로",
+    "urls": [
+     "https://www.todaiji.or.jp/access/"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "택시 하차 장소는 대불전 서쪽 사시즈도(指図堂) 앞이다.",
+    "value": "指図堂前",
+    "urls": [
+     "https://www.todaiji.or.jp/faq/"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "parking",
+    "text": "경내에는 전용 주차장이 없어 근처 주차장을 이용해야 한다.",
+    "value": "경내 주차장 없음",
+    "urls": [
+     "https://www.todaiji.or.jp/access/",
+     "https://www.todaiji.or.jp/faq/"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "parking",
+    "text": "근처 유료 주차장으로 GS파크 도다이지 니시다이몬 주차장(나라시 오시아게초 6-1)이 안내되어 있다.",
+    "value": "GSパーク東大寺西大門駐車場（有料）奈良市押上町6-1",
+    "urls": [
+     "https://www.todaiji.or.jp/access/"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "parking",
+    "text": "봄·가을 관광 시즌의 토·일·공휴일에는 나라현이 관광 무료 주차장을 열며, 거기서 구루룻토 버스(운임 100엔)를 이용하면 편하다.",
+    "value": "구루룻토 버스 100엔",
+    "urls": [
+     "https://www.todaiji.or.jp/access/"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "parking",
+    "text": "오토바이·자전거는 남대문(南大門) 남서쪽 주륜장에 세우고 걸어서 참배해야 하며, 남대문과 대불전을 잇는 참배길에는 진입할 수 없다.",
+    "value": "南大門南西の駐輪場",
+    "urls": [
+     "https://www.todaiji.or.jp/access/"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "hours",
+    "text": "대불전 참배 시간은 4~10월 7:30~17:30이다.",
+    "value": "4-10월 07:30-17:30",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "hours",
+    "text": "대불전 참배 시간은 11~3월 8:00~17:00이다.",
+    "value": "11-3월 08:00-17:00",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "hours",
+    "text": "홋케도(法華堂, 산가쓰도)와 가이단인 가이단도(戒壇院戒壇堂)는 8:30~16:00이다.",
+    "value": "08:30-16:00",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "hours",
+    "text": "도다이지 뮤지엄은 4~10월 9:30~17:30(최종 입관 17:00)이다.",
+    "value": "4-10월 09:30-17:30, 최종입관 17:00",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "hours",
+    "text": "도다이지 뮤지엄은 11~3월 9:30~17:00(최종 입관 16:30)이다.",
+    "value": "11-3월 09:30-17:00, 최종입관 16:30",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "closed_days",
+    "text": "특별한 행사나 긴급 사태가 없으면 쉬는 날 없이 운영한다.",
+    "value": "무휴(특별 행사·긴급 사태 제외)",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "fees",
+    "text": "대불전·홋케도·가이단도·도다이지 뮤지엄은 각각 입당료를 받는다.",
+    "value": "각 건물별 별도 요금",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "fees",
+    "text": "개인 입당료는 대학생 이상 성인 800엔이다.",
+    "value": "800 JPY",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "fees",
+    "text": "개인 입당료는 고등학생·중학생 모두 800엔이다.",
+    "value": "800 JPY",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "fees",
+    "text": "개인 입당료는 초등학생 400엔이다.",
+    "value": "400 JPY",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "fees",
+    "text": "30명 이상 단체 요금은 성인 700엔, 고등학생 500엔, 중학생 400엔, 초등학생 200엔이다.",
+    "value": "700/500/400/200 JPY",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "fees",
+    "text": "대불전·도다이지 뮤지엄 세트권은 중학생 이상 1,200엔, 초등학생 600엔이며 대불전 또는 뮤지엄에서 살 수 있다.",
+    "value": "1200 JPY / 600 JPY",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "fees",
+    "text": "장애인 수첩 소지자의 개인 요금은 대학생 이상·고등학생·중학생 400엔, 초등학생 200엔이다.",
+    "value": "400/400/400/200 JPY",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "fees",
+    "text": "나라시의 로순수첩(老春手帳)·나나마루 카드 소지자는 본인에 한해 무료이며, 창구에서 수첩 또는 카드를 제시해야 한다.",
+    "value": "본인 무료",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "reservation",
+    "text": "참배에 예약은 필요 없으며, 수학여행·소풍 등 단체도 사전 예약이 필요 없고 당일 매표소에서 인원을 말하면 된다.",
+    "value": "예약 불필요",
+    "urls": [
+     "https://www.todaiji.or.jp/faq/"
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "payment",
+    "text": "입당권 구입은 현금만 가능하며 여행사 쿠폰과 신용카드는 쓸 수 없다.",
+    "value": "현금만",
+    "urls": [
+     "https://www.todaiji.or.jp/faq/",
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "language",
+    "text": "오디오 가이드는 한국어를 포함해 일본어(어른·어린이), 영어, 중국어, 프랑스어, 독일어, 스페인어, 이탈리아어, 베트남어로 제공되며 대여료는 1인 500엔이다.",
+    "value": "500 JPY",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "language",
+    "text": "오디오 가이드는 대불전 개찰구에서 15m 앞(중문 앞)에서 빌리며, 접수는 4~10월 10:00~17:00, 11~3월 10:00~16:30이고 악천후에는 대여가 중단될 수 있다.",
+    "value": "4-10월 10:00-17:00, 11-3월 10:00-16:30",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "reservation",
+    "text": "오디오 가이드는 개인 예약이 필요 없고 10명 이상 단체만 예약해야 한다. 내용은 도다이지 역사와 건물·불상 해설이며 녹음 시간은 30분이다.",
+    "value": "개인 예약 불필요, 10명 이상 예약",
+    "urls": [
+     "https://www.todaiji.or.jp/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "language",
+    "text": "도다이지 공식 사이트에는 한국어 페이지(참배 시간·입장료)가 있다.",
+    "value": "ko 페이지 있음",
+    "urls": [
+     "https://www.todaiji.or.jp/ko/information/haikan/"
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "caution",
+    "text": "당 안에서는 스케치와 손전등 사용을 삼가야 하고, 단체 집합 사진 촬영과 삼각대 사용도 삼가달라고 요청한다.",
+    "value": "스케치·손전등·삼각대·단체 집합사진 자제",
+    "urls": [
+     "https://www.todaiji.or.jp/information/daibutsuden/"
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "caution",
+    "text": "반려동물은 대불전에 한해 케이지에 넣거나 안은 경우에만 입장할 수 있고, 다른 건물은 동반 입장이 안 된다.",
+    "value": "대불전만 가능(케이지·안고)",
+    "urls": [
+     "https://www.todaiji.or.jp/faq/"
+    ]
+   },
+   {
+    "cid": "c32",
+    "field": "caution",
+    "text": "경내는 전면 금연이며 드론 비행은 경내 전역에서 금지된다.",
+    "value": "전면 금연, 드론 금지",
+    "urls": [
+     "https://www.todaiji.or.jp/faq/"
+    ]
+   },
+   {
+    "cid": "c33",
+    "field": "tip",
+    "text": "코인로커는 도다이지 뮤지엄 매표소 뒤에 있다.",
+    "value": "뮤지엄 매표소 뒤",
+    "urls": [
+     "https://www.todaiji.or.jp/faq/"
+    ]
+   },
+   {
+    "cid": "c34",
+    "field": "tip",
+    "text": "휠체어는 예약 없이 당일 대불전 입구 매표소 또는 경비 초소에서 빌릴 수 있으나 수량이 한정되어 있다.",
+    "value": "무예약, 수량 한정",
+    "urls": [
+     "https://www.todaiji.or.jp/faq/"
+    ]
+   },
+   {
+    "cid": "c35",
+    "field": "description",
+    "text": "대불전은 도다이지의 금당이며 국보로, 현재 건물은 에도시대에 승려 고케이(公慶)가 재건했다.",
+    "value": null,
+    "urls": [
+     "https://www.todaiji.or.jp/information/daibutsuden/"
+    ]
+   },
+   {
+    "cid": "c36",
+    "field": "description",
+    "text": "대불전의 규모는 동서 57.012m, 남북 50.480m, 높이 48.742m이며 세계 최대급 목조 건축물로 소개된다.",
+    "value": "57.012m x 50.480m, 높이 48.742m",
+    "urls": [
+     "https://www.todaiji.or.jp/information/daibutsuden/"
+    ]
+   },
+   {
+    "cid": "c37",
+    "field": "description",
+    "text": "대불(노사나불)의 상 높이는 14.98m이다.",
+    "value": "14.98m",
+    "urls": [
+     "https://www.todaiji.or.jp/information/daibutsuden/"
+    ]
+   },
+   {
+    "cid": "c38",
+    "field": "description",
+    "text": "에도시대 재건 대불전은 천평·가마쿠라 시대보다 폭이 11칸에서 7칸으로 줄었지만 높이와 안길이는 창건 당시와 같다.",
+    "value": "11칸(약 88m)에서 7칸으로 축소",
+    "urls": [
+     "https://www.todaiji.or.jp/information/daibutsuden/"
+    ]
+   },
+   {
+    "cid": "c39",
+    "field": "highlight",
+    "text": "대불전 앞에는 도다이지 창건 당시의 것으로 병화를 면한 국보 팔각등롱이 있으며, 화창(火袋)의 음성보살 부조가 뛰어나다고 소개된다.",
+    "value": null,
+    "urls": [
+     "https://www.todaiji.or.jp/information/daibutsuden/"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "duration",
+   "fees.korean_age_bands",
+   "access.station_walk_gurutto"
+  ]
+ },
+ {
+  "key": "WEST-026",
+  "name_ko": "다자이후 덴만구",
+  "name_local": "太宰府天満宮",
+  "admin_region": "후쿠오카현 다자이후시",
+  "address": "〒818-0195 福岡県太宰府市宰府4丁目7-1",
+  "description": "다자이후 덴만구는 스가와라노 미치자네를 모신 전국 덴만구의 총본궁이며 학문의 신으로 알려져 있습니다. 경내 입장은 무료이고, 10월 현재 6시 30분에 문을 열어 19시에 닫습니다. 2026년 9월 19일부터 약 3년 반 만에 본전 정면 참배가 다시 열렸습니다. 경내에는 하룻밤 사이 교토에서 날아왔다고 전해지는 비매화, 마음 심 자 모양 연못에 걸린 다리, 수령 1,500년이 넘는 큰 녹나무, 신의 사자인 소 동상 11기가 있습니다. 매화는 약 200품종 6,000그루가 2월부터 3월 초에 절정이고, 보물전에서는 국보 한원 등 약 1만 점의 문화재를 소장합니다. 니시테쓰 다자이후역에서 걸어서 5분 정도입니다.",
+  "highlights": [
+   "입장 무료, 10월 현재 6:30~19:00 개방",
+   "2026-09-19부터 본전 정면 참배 재개(약 3년 반 만)",
+   "비매화·큰 녹나무(수령 1,500년 이상, 국가 천연기념물)·소 동상 11기",
+   "매화 약 200품종 6,000그루(2월~3월 초), 꽃창포 약 30,000그루(5월 하순~6월 상순)",
+   "보물전에 도서·미술 등 약 1만 점 소장, 국보 한원 포함",
+   "10월은 특별 수험 합격 기원 대제 기간, 10/18에 대제"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "다자이후 덴만구의 주소는 〒818-0195 후쿠오카현 다자이후시 사이후 4초메 7-1이다.",
+    "value": "818-0195 福岡県太宰府市宰府4丁目7-1",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/access"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "니시테쓰 후츠카이치역에서 니시테쓰 다자이후선 다자이후역까지 전철로 약 6분이다.",
+    "value": "약 6분",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/access"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "니시테쓰 다자이후역에서 내려 도보 5분이다.",
+    "value": "도보 5분",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/access"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "후쿠오카(텐진)역에서 니시테쓰 전철로 후츠카이치역 환승해 다자이후역까지 약 35분이다.",
+    "value": "약 35분",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/access"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "후쿠오카 공항 국제선 터미널에서 직행 버스 '타비토(旅人)'로 다자이후역까지 약 25분이며, 예약 없이 탈 수 있다.",
+    "value": "약 25분",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/access"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "access",
+    "text": "니시테쓰 후츠카이치역~다자이후역 구간에서 관광 열차 '타비토'가 예약·특별 요금 없이 운행된다.",
+    "value": "예약 불필요, 추가요금 없음",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/access"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "access",
+    "text": "자동차로는 규슈 자동차도 다자이후 IC에서 약 15분(약 6km)이다.",
+    "value": "약 15분, 약 6km",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/access"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "parking",
+    "text": "근처 주차장으로 다자이후 주차센터(8시~17시)가 있으며 참배길을 걸어 도보 7분이다. 대형버스·마이크로버스 23대, 승용차 850대, 오토바이 15대를 수용한다.",
+    "value": "승용차 850대 / 대형·마이크로 23대 / 오토바이 15대",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/access"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "parking",
+    "text": "혼잡기 정체 때는 '고조(五条)' 교차로 방면 외에서의 입고를 거절할 수 있고, 대형버스는 사전 연락이 필요하다.",
+    "value": null,
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/access"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "parking",
+    "text": "50cc 이상 오토바이는 다자이후 주차센터(도보 7분)를 유료 250엔에 이용할 수 있고, 자전거·원동기 자전거는 니시테쓰 다자이후역 주륜장(무료)을 이용한다.",
+    "value": "오토바이 250 JPY, 자전거 무료",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/faq"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "hours",
+    "text": "개문 시각은 춘분 날부터 6:00, 추분 날부터 6:30이다.",
+    "value": "춘분~ 06:00 / 추분~ 06:30",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/omairi",
+     "https://www.dazaifutenmangu.or.jp/access"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "hours",
+    "text": "폐문 시각은 4~5월·9~11월 19:00, 6~8월 19:30, 12~3월 18:30이다.",
+    "value": "4-5·9-11월 19:00 / 6-8월 19:30 / 12-3월 18:30",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/omairi"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "hours",
+    "text": "조사 시점(2026-10-11)에는 임시 참배 시간 안내가 없다고 공지되어 있다.",
+    "value": null,
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/omairi"
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "hours",
+    "text": "아침 참배(朝拝)는 매일 8:30부터 누구나 참석할 수 있으나 신사 사정으로 하지 않는 날도 있다.",
+    "value": "08:30",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/omairi"
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "hours",
+    "text": "기원 접수 시간은 8:45경~17:00경이며 제전 등에 따라 바뀔 수 있다.",
+    "value": "08:45경-17:00경",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/faq"
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "hours",
+    "text": "2026년 5월 17일 이후 기원제는 세이신칸 기시키덴(誠心館 儀式殿)에서 열리며 기원 시간은 9:00~16:30이다.",
+    "value": "09:00-16:30",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/archives/1866"
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "closed_days",
+    "text": "한국어 공식 FAQ는 다자이후 덴만구가 일 년 내내 운영된다고 안내한다(시기별 운영 시간만 다름).",
+    "value": "연중 운영",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/kr/plan/faq/"
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "fees",
+    "text": "다자이후 덴만구는 입장료가 없어 무료로 본전을 참배하고 경내를 산책할 수 있다.",
+    "value": "무료",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/kr/plan/faq/"
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "fees",
+    "text": "보물전 관람료는 개인 기준 일반 500엔, 대학생·고등학생 200엔, 중학생·소학생 100엔이다.",
+    "value": "500/200/100 JPY",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden"
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "fees",
+    "text": "보물전 단체(30명 이상) 요금은 일반 400엔, 대학생·고등학생 100엔, 중학생·소학생 50엔이다.",
+    "value": "400/100/50 JPY",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden"
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "hours",
+    "text": "보물전은 9:00~16:30(입관 16:00까지)이다.",
+    "value": "09:00-16:30, 입관 16:00",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden"
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "closed_days",
+    "text": "보물전은 월요일이 휴관이며(공휴일·대체 휴일이면 개관), 전시 교체로 임시 휴관할 수 있다.",
+    "value": "월요일",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden"
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "reservation",
+    "text": "개인 기원(ご祈願)은 예약이 필요 없고 누문 안 기원 접수소에서 신청한다.",
+    "value": "예약 불필요",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/faq"
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "reservation",
+    "text": "무료 가이드 서비스는 예약제이다.",
+    "value": "예약제",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/faq"
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "payment",
+    "text": "보물전과 경내 입구의 안내소는 신용카드로 결제할 수 있고, 그 밖의 부적 판매소 등은 현금만 받는다.",
+    "value": "보물전·안내소 카드 가능, 그 외 현금",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/kr/plan/faq/"
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "language",
+    "text": "공식 사이트에 한국어 페이지가 있고, 경내에서는 영어·한국어·번체·간체·프랑스어·태국어 팸플릿을 준비해 두었다.",
+    "value": "한국어 사이트·팸플릿",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/faq",
+     "https://www.dazaifutenmangu.or.jp/kr/"
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "duration",
+    "text": "공식 한국어 FAQ는 경내와 박물관을 여유 있게 보려면 하루 일정을 잡으라고 권한다.",
+    "value": "종일(하루)",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/kr/plan/faq/"
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "caution",
+    "text": "2024년 4월 1일부터 반려동물을 데리고 누문·회랑 안에 들어가는 것을 삼가야 한다(안내견·청도견·개조견 제외).",
+    "value": "2024-04-01부터",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/faq"
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "caution",
+    "text": "본전 안 촬영과 삼각대 등으로 같은 자리에서 오래 찍는 것은 금지이며, 누문 안에서는 다른 참배객에게 폐가 되지 않게 촬영해야 한다.",
+    "value": null,
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/faq"
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "caution",
+    "text": "흡연은 규슈국립박물관행 에스컬레이터 입구 부근과 휴게소의 지정 장소에서만 가능하다.",
+    "value": null,
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/faq"
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "tip",
+    "text": "경내에는 코인로커가 없어 니시테쓰 다자이후역이나 다자이후칸을 이용해야 한다.",
+    "value": null,
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/faq"
+    ]
+   },
+   {
+    "cid": "c32",
+    "field": "tip",
+    "text": "휠체어는 무료로 빌릴 수 있으며 사무소 또는 안내소에서 신청한다. 단차 없는 경로는 지도에 파란 선으로 표시된다.",
+    "value": "무료",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/keidaiannai/wheelchair"
+    ]
+   },
+   {
+    "cid": "c33",
+    "field": "description",
+    "text": "2026년 9월 19일부터 약 3년 반 만에 본전 정면 참배가 재개되었다.",
+    "value": "2026-09-19",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/archives/1980"
+    ]
+   },
+   {
+    "cid": "c34",
+    "field": "highlight",
+    "text": "비매화(飛梅)는 도읍에서 미치자네를 그리워해 하룻밤 사이 다자이후로 날아왔다고 전해지는 어신목으로, 본전을 향해 오른쪽에 있다.",
+    "value": null,
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/keidaiannai"
+    ]
+   },
+   {
+    "cid": "c35",
+    "field": "highlight",
+    "text": "경내에는 소 동상(神牛) 11기가 봉납되어 있다.",
+    "value": "11기",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/faq"
+    ]
+   },
+   {
+    "cid": "c36",
+    "field": "highlight",
+    "text": "큰 녹나무(大樟)는 수령 1,500년이 넘고 국가 천연기념물로 지정되어 있다.",
+    "value": "1,500년 이상",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/keidaiannai"
+    ]
+   },
+   {
+    "cid": "c37",
+    "field": "highlight",
+    "text": "마음 심(心) 자 모양의 연못 '심자지'에 놓인 세 개의 다리는 각각 과거·현재·미래를 뜻한다.",
+    "value": null,
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/keidaiannai"
+    ]
+   },
+   {
+    "cid": "c38",
+    "field": "highlight",
+    "text": "경내에는 약 200품종 6,000그루의 매화가 있고 예년 2월~3월 초가 절정이다.",
+    "value": "약 200품종 6,000그루",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/faq"
+    ]
+   },
+   {
+    "cid": "c39",
+    "field": "highlight",
+    "text": "꽃창포는 창포 연못에 약 55품종 30,000그루가 피며 예년 5월 하순~6월 상순이 절정이다.",
+    "value": "약 55품종 30,000그루",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/faq"
+    ]
+   },
+   {
+    "cid": "c40",
+    "field": "highlight",
+    "text": "보물전은 미치자네 관련 문화재 약 1만 점을 소장하고 국보 '한원(翰苑)' 등을 갖추고 있다.",
+    "value": "약 1만 점",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/keidaiannai",
+     "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden"
+    ]
+   },
+   {
+    "cid": "c41",
+    "field": "tip",
+    "text": "10월 1~31일은 '특별 수험 합격 기원 대제' 기간이며, 10월 18일(일)에 10시·14시 두 차례 대제를 올린다. 기간 중 수험 합격 기원을 신청하면 한정 부적·에마 등을 받는다.",
+    "value": "10/18 10:00·14:00",
+    "urls": [
+     "https://www.dazaifutenmangu.or.jp/archives/1807"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "parking.fee",
+   "access.conflict",
+   "stale_source",
+   "fees.prayer",
+   "language.audio_guide",
+   "caution.crowd"
+  ]
+ },
+ {
+  "key": "WEST-035",
+  "name_ko": "긴린코",
+  "name_local": "金鱗湖",
+  "admin_region": "오이타현 유후시",
+  "address": "大分県由布市湯布院町川上1561-1",
+  "description": "긴린코는 유후인을 대표하는 관광 명소로, 둘레가 약 400m인 호수입니다. 호수에 맑은 샘물과 온천수가 함께 흘러들어 물 온도가 일 년 내내 높고, 가을에서 겨울의 추운 이른 아침에는 호수 면에서 수증기가 피어오르는 풍경을 볼 수 있습니다. 이름은 1884년 유학자 모리 구소가 석양에 반짝이는 물고기 비늘을 보고 붙였다고 전해지며, 예전에는 '다케응시타 연못'이라 불렸습니다. 호숫가에는 산책로와 작은 잔교가 있고, 남동쪽에는 덴소 신사의 도리이가 있어 사진 명소로 꼽힙니다. 정기 휴무일은 없고, 전용 주차장이 없어 근처 유료 주차장을 이용해야 합니다. 오이타 자동차도 유후인 IC에서 차로 약 10분입니다.",
+  "highlights": [
+   "둘레 약 400m 산책로, 호수 위 잔교에서 수면에 비친 풍경 감상",
+   "가을~겨울 이른 아침 호수 면에서 오르는 수증기(朝靄)",
+   "호수 남동쪽 덴소 신사 도리이",
+   "샘물과 온천수가 흘러들어 일 년 내내 수온이 높음",
+   "정기 휴무 없음, 유후인 IC에서 차로 약 10분"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "긴린코의 주소는 오이타현 유후시 유후인초 가와카미 1561-1이다.",
+    "value": "大分県由布市湯布院町川上1561-1",
+    "urls": [
+     "https://yufuin.gr.jp/spot/spot-1268/",
+     "https://www.visit-oita.jp/spots/detail/4362"
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "오이타 자동차도 유후인 IC에서 차로 약 10분이다.",
+    "value": "약 10분",
+    "urls": [
+     "https://www.visit-oita.jp/spots/detail/4362",
+     "https://yufuin.gr.jp/feature/feature-1981/"
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "유후시 공식 관광 가이드는 JR 유후인역에서 도보 30분 정도로 안내한다.",
+    "value": "도보 약 30분",
+    "urls": [
+     "https://yufuin.gr.jp/feature/feature-1981/"
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "일본정부관광국(JNTO) 영문 페이지는 JR 유후인역에서 도보 25분이라고 안내한다.",
+    "value": "도보 25분",
+    "urls": [
+     "https://www.japan.travel/en/spot/712/"
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "parking",
+    "text": "전용 주차장은 안내되어 있지 않고 근처 유료 주차장을 이용하도록 되어 있다.",
+    "value": "근처 유료 주차장 이용",
+    "urls": [
+     "https://yufuin.gr.jp/spot/spot-1268/",
+     "https://www.visit-oita.jp/spots/detail/4362"
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "closed_days",
+    "text": "정기 휴무일은 없다.",
+    "value": "없음",
+    "urls": [
+     "https://yufuin.gr.jp/spot/spot-1268/"
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "description",
+    "text": "호수 둘레는 약 400m이며 산책로가 정비되어 있고 작은 잔교가 몇 곳 놓여 있다.",
+    "value": "약 400m",
+    "urls": [
+     "https://yufuin.gr.jp/feature/feature-1981/"
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "description",
+    "text": "호수에는 샘물과 온천수가 모두 흘러들어 일 년 내내 수온이 높고, 늦가을~겨울 추운 날에는 호수 면에서 수증기가 올라온다.",
+    "value": null,
+    "urls": [
+     "https://yufuin.gr.jp/feature/feature-1981/",
+     "https://www.city.yufu.oita.jp/kankou/kankou-2/kankou_cate1_1/kinrinko"
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "description",
+    "text": "1884년(메이지 17) 유학자 모리 구소가 석양에 반짝이는 물고기 비늘을 보고 '긴린코'라 이름 붙였다고 전해지며, 그전에는 '다케응시타응이케(岳ん下ん池)'라 불렸다.",
+    "value": "1884",
+    "urls": [
+     "https://yufuin.gr.jp/spot/spot-1268/",
+     "https://www.visit-oita.jp/spots/detail/4362"
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "highlight",
+    "text": "호수 남동쪽에 있는 덴소 신사의 도리이가 호수 위에 떠 있는 듯 보여 인기 촬영 포인트이다.",
+    "value": null,
+    "urls": [
+     "https://yufuin.gr.jp/feature/feature-1981/"
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "highlight",
+    "text": "추운 날 이른 아침이 수증기를 보기 좋은 시간대로 추천된다.",
+    "value": "이른 아침",
+    "urls": [
+     "https://yufuin.gr.jp/feature/feature-1981/"
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "tip",
+    "text": "문의처는 유후시 투어리스트 인포메이션 센터(전화 0977-84-2446)이다.",
+    "value": "0977-84-2446",
+    "urls": [
+     "https://www.visit-oita.jp/spots/detail/4362"
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "caution",
+    "text": "촬영·사용 허가 문의는 유후시가 받지 않으며 토지 소유자에게 직접 문의해야 한다.",
+    "value": null,
+    "urls": [
+     "https://www.city.yufu.oita.jp/kankou/kankou-2/kankou_cate1_1/kinrinko"
+    ]
+   }
+  ],
+  "collector_unconfirmed": [
+   "access.conflict",
+   "hours",
+   "fees",
+   "parking.fee",
+   "reservation",
+   "payment",
+   "duration",
+   "language",
+   "caution.safety"
+  ]
+ }
+]

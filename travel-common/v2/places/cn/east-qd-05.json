@@ -2,7 +2,7 @@
  "id": "east-qd-05",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "칭다오맥주박물관",
   "local": "青岛啤酒博物馆"
@@ -10,7 +10,7 @@
  "admin_region": "산둥성",
  "former_region": null,
  "city": "칭다오",
- "address": null,
+ "address": "青岛市登州路56号",
  "coord": {
   "lat": 36.078972,
   "lng": 120.342564,
@@ -21,93 +21,901 @@
   "osm": "way/554250276"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "칭다오맥주박물관은 칭다오 맥주가 태어난 덩저우로 56호, 1903년 독일식 공업 건물군에 자리한 맥주 테마 박물관입니다.",
+ "description": "칭다오맥주박물관은 칭다오 맥주가 태어난 덩저우로 56호, 1903년 독일식 공업 건물군에 자리한 맥주 테마 박물관입니다. 국가 1급 박물관으로 3만여 점의 문물을 다루고, 유리 벽 너머로 현대식 생산 라인을 내려다볼 수 있습니다. VR 양조 체험과 개인 맞춤 라벨 맥주도 마련돼 있습니다. 4월 1일~10월 31일 기준 기본 입장권은 성인 60위안, 학생 50위안, 60~69세 30위안이며 A관·B관 관람에 맥주 2잔(원장·순생)과 맥주콩이 포함됩니다. 입장권은 위챗 공식 계정이나 OTA에서 실명으로 미리 예약하고, 입장할 때 신분증 원본이나 구매 QR코드로 확인합니다(공식 안내는 중국 신분증 기준). 지하철 1·2호선 타이둥역에서 걸어서 갈 수 있습니다.",
+ "highlights": [
+  "1903년 독일식 공업 건물군을 그대로 쓰는 맥주 박물관",
+  "국가 1급 박물관, 3만여 점의 문물 소장",
+  "유리 벽 너머로 현대식 생산 라인을 내려다보는 전망",
+  "VR 양조 체험과 개인 맞춤 라벨 맥주",
+  "기본권(성인 60위안, 4~10월 기준)에 A관·B관 관람과 맥주 2잔·맥주콩 포함"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c1"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "공식 페이지에 구(区) 단위 주소 표기가 없어 '덩저우로 56호'까지만 기재했다.",
+     "detail": "location.district",
+     "run": "r1-b20"
+    }
+   ]
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c3",
+    "r1-b20-c4",
+    "r1-b20-c5",
+    "r1-b20-c6"
+   ],
+   "gap": null
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c20"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "전체 관람 소요시간에 대한 공식 안내가 없다(해설 서비스 50분만 있음).",
+     "detail": "duration",
+     "run": "r1-b20"
+    }
+   ]
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c7",
+    "r1-b20-c8",
+    "r1-b20-c9"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "홈페이지 첫 화면은 '每周一至周日 08:30-17:30, 16:30 입장 마감'(https://www.tsingtaomuseum.com/)이라고 쓰지만, 참관 안내 페이지는 계절별로 07:30~19:30 / 08:00~18:30 / 08:30~17:30을 안내한다(https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail). 10월 기준 값은 참관 안내(c7)를 쓰되 방문 전 재확인 필요.",
+     "detail": "hours.conflict",
+     "run": "r1-b20"
+    }
+   ]
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 정기 휴관일이나 임시 휴관 안내가 없다(홈페이지는 월~일 개관 시간만 표기)."
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c10",
+    "r1-b20-c11",
+    "r1-b20-c12",
+    "r1-b20-c13",
+    "r1-b20-c14",
+    "r1-b20-c15",
+    "r1-b20-c16",
+    "r1-b20-c17",
+    "r1-b20-c18",
+    "r1-b20-c19"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "무료 어린이 기준이 참관 안내 페이지에서는 '1.4米（含）以下'(https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail), 티켓 페이지에서는 '140CM以下'(https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail)로 달리 표기되어 140cm 포함 여부가 확정되지 않는다. 또한 티켓 가격표는 '4월 1일~10월 31일' 기간 기준이며 11~3월 가격은 해당 페이지에 없다.",
+     "detail": "fees.conflict",
+     "run": "r1-b20"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c21",
+    "r1-b20-c22",
+    "r1-b20-c23",
+    "r1-b20-c24"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "외국인 여권으로 예약·입장하는 방법은 공식 페이지에 없다(신분증 기준 안내만 확인됨). 위챗 계정 이용 불가 시 대안도 확인하지 못했다.",
+     "detail": "reservation",
+     "run": "r1-b20"
+    }
+   ]
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "입장권 구매·현장 결제 수단(해외 카드·현금 가능 여부)에 대한 공식 안내를 찾지 못했다."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c25"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내·한국어 오디오가이드 여부는 공식 페이지에서 확인하지 못했다. 2025-04-18 '多语种系统上线' 소식 페이지(https://www.tsingtaomuseum.com/articleTitleCus/1913101834158571522?viewName=newDetail)는 본문이 비어 있다.",
+     "detail": "language",
+     "run": "r1-b20"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b20-c26",
+    "r1-b20-c27"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b20-c1",
+   "field": "location",
+   "text": "박물관은 청도맥주가 태어난 곳인 덩저우로(登州路) 56호에 있다.",
+   "original_text": null,
+   "value": "登州路56号",
+   "verdict": "verified",
+   "verify_note": "博物馆介绍 page: 坐落于青岛啤酒诞生地——登州路56号",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c2",
+   "field": "description",
+   "text": "박물관은 1903년에 지어진 독일식 공업 건물군을 그대로 활용하고 있다.",
+   "original_text": null,
+   "value": "1903",
+   "verdict": "verified",
+   "verify_note": "以1903年德式工业建筑群为载体",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c3",
+   "field": "access",
+   "text": "지하철 1·2호선 타이둥(台东)역 A출구에서 타이둥1로를 따라 서쪽으로 80m, 이어 웨이하이로-덩저우로를 따라 남쪽으로 550m 걸어간다.",
+   "original_text": null,
+   "value": "80m + 550m",
+   "verdict": "verified",
+   "verify_note": "交通路线 page, exact match",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790373016308297729?viewName=newJiaotongDetail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c4",
+   "field": "access",
+   "text": "지하철 1호선 광라오로(广饶路)역 C출구에서 옌안로를 따라 동쪽으로 200m, 퉁산로를 따라 북쪽으로 300m, 덩저우로를 따라 동쪽으로 150m 걸어간다.",
+   "original_text": null,
+   "value": "200m + 300m + 150m",
+   "verdict": "verified",
+   "verify_note": "交通路线 page, exact match",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790373016308297729?viewName=newJiaotongDetail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c5",
+   "field": "access",
+   "text": "지하철 2호선 리진로(利津路)역 C출구에서 닝하이로를 따라 남쪽으로 400m, 덩저우로를 따라 서쪽으로 300m 걸어간다.",
+   "original_text": null,
+   "value": "400m + 300m",
+   "verdict": "verified",
+   "verify_note": "交通路线 page, exact match",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790373016308297729?viewName=newJiaotongDetail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c6",
+   "field": "access",
+   "text": "205·217·221·464번 버스는 '칭다오맥주박물관(青岛啤酒博物馆)' 정류장에 선다.",
+   "original_text": null,
+   "value": "205, 217, 221, 464",
+   "verdict": "verified",
+   "verify_note": "Page also lists 延安一路 stops (15/302/306/464; 1/4/25/... routes) +280m walk",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790373016308297729?viewName=newJiaotongDetail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c7",
+   "field": "hours",
+   "text": "5월 1일~6월 30일, 9월 1일~10월 31일에는 08:00~18:30에 열고 17:30에 입장을 마감한다.",
+   "original_text": null,
+   "value": "08:00-18:30 (last entry 17:30)",
+   "verdict": "verified",
+   "verify_note": "参观须知. Homepage banner shows only 08:30-17:30 (16:30 last entry), see conflicts",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c8",
+   "field": "hours",
+   "text": "1월 1일~4월 30일, 11월 1일~12월 31일에는 08:30~17:30에 열고 16:30에 입장을 마감한다.",
+   "original_text": null,
+   "value": "08:30-17:30 (last entry 16:30)",
+   "verdict": "verified",
+   "verify_note": "参观须知",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c9",
+   "field": "hours",
+   "text": "7월 1일~8월 31일에는 07:30~19:30에 열고 18:30에 입장을 마감한다.",
+   "original_text": null,
+   "value": "07:30-19:30 (last entry 18:30)",
+   "verdict": "verified",
+   "verify_note": "参观须知",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c10",
+   "field": "fees",
+   "text": "4월 1일~10월 31일 기간의 기본 입장권(A관 역사발전관+B관 양조공정관)은 성인 60위안, 학생 50위안, 노인(60~69세) 30위안이며, 원장(原浆) 맥주 1잔과 순생(纯生) 맥주 1잔(각 0.15L), 맥주콩 한 봉지가 포함된다.",
+   "original_text": "4월 1일~10월 31일 기간의 기본 입장권(A관 역사관+B관 양조공정관)은 성인 60위안, 학생 50위안, 노인 30위안이며 생맥주 0.15L 2잔과 맥주콩 한 봉지가 포함된다.",
+   "value": "성인 60 / 학생 50 / 노인 30 CNY",
+   "verdict": "corrected",
+   "verify_note": "Prices/period correct; the 2 beers are 原浆+纯生, not generic draft. Price period ends 10/31; prices from 11/1 are not on the page",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c11",
+   "field": "fees",
+   "text": "70세 이상 노인은 신분증을 제시하면 무료이며, 60~69세는 성인권 반값 우대(노인권)를 받는다.",
+   "original_text": null,
+   "value": "70+ 무료 / 60-69 반값",
+   "verdict": "verified",
+   "verify_note": "Page says 凭身份证; it does not say whether foreign passports qualify",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c12",
+   "field": "fees",
+   "text": "신장 1.4m(포함) 이하 어린이는 무료이며 성인이 동반해야 입장할 수 있다.",
+   "original_text": null,
+   "value": "1.4m 이하 무료",
+   "verdict": "verified",
+   "verify_note": "Ticket page also says 140CM以下儿童免费",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c13",
+   "field": "fees",
+   "text": "장애인(장애인증+신분증), 현역·퇴직 군인, 소방 인력 등은 안내데스크에서 정보를 등록하고 표를 교환하면 무료이다.",
+   "original_text": null,
+   "value": "무료 대상: 장애인, 현역·퇴직 군인, 소방 인력 등",
+   "verdict": "verified",
+   "verify_note": "The list also includes 退休军人 and 山东惠才卡 holders. These are administrative and of little use to Korean travellers",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c14",
+   "field": "fees",
+   "text": "학생권은 학생증과 신분증을 제시하는 만 23세 이하 전일제 본과 이하 학생이 살 수 있다.",
+   "original_text": null,
+   "value": "23세 이하 학생",
+   "verdict": "verified",
+   "verify_note": "参观须知 + ticket page note 6",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c15",
+   "field": "fees",
+   "text": "여러 종류 맥주를 맛보는 시음 패키지(A관+B관, 맥주 6종 각 0.15L와 맥주콩)는 1인 128위안이다.",
+   "original_text": null,
+   "value": "128 CNY",
+   "verdict": "verified",
+   "verify_note": "多品种品鉴套票 128元: 纯生/皮尔森/白啤/原浆/IPA/黑啤 each 0.15L + beer beans. Valid 4/1-10/31",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c16",
+   "field": "fees",
+   "text": "개인 맞춤 맥주 패키지(A관+B관, 생맥주 2잔과 맞춤 맥주 1병 포함)는 1인 90위안이다.",
+   "original_text": null,
+   "value": "90 CNY",
+   "verdict": "verified",
+   "verify_note": "定制啤酒套票 90元 also includes beer beans. Valid 4/1-10/31",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c17",
+   "field": "fees",
+   "text": "중국어 해설은 10명 이하 한 팀에 150위안이며, 10명을 넘으면 1인당 15위안이 추가된다.",
+   "original_text": null,
+   "value": "150 CNY/팀(10명 이하), +15 CNY/인",
+   "verdict": "verified",
+   "verify_note": "Overtime is charged at double the guide fee",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c18",
+   "field": "fees",
+   "text": "외국어 해설은 10명 이하 한 팀에 200위안이며, 10명을 넘으면 1인당 20위안이 추가된다.",
+   "original_text": null,
+   "value": "200 CNY/팀(10명 이하), +20 CNY/인",
+   "verdict": "verified",
+   "verify_note": "Language not specified",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c19",
+   "field": "fees",
+   "text": "셀프 가이드 기기는 대당 15위안이며 일회용 이어폰이 함께 제공된다.",
+   "original_text": null,
+   "value": "15 CNY",
+   "verdict": "verified",
+   "verify_note": "自助导览机 15元/台. Languages not stated",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c20",
+   "field": "duration",
+   "text": "해설 서비스(중국어·외국어)는 전 과정이 약 50분이다.",
+   "original_text": null,
+   "value": "약 50분",
+   "verdict": "verified",
+   "verify_note": "讲解全程约50分钟 (guided tour only, not the whole visit)",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c21",
+   "field": "reservation",
+   "text": "위챗 공식 계정 '青岛啤酒博物馆'을 팔로우한 뒤 '购票指南 > 预约购票'에서 실명으로 입장권을 예약하거나, OTA에서 '青岛啤酒博物馆'을 검색해 예약한다.",
+   "original_text": null,
+   "value": "위챗 공식 계정 / OTA 실명 예약",
+   "verdict": "verified",
+   "verify_note": "参观须知 门票预约方式 1/2",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c22",
+   "field": "reservation",
+   "text": "입장 때는 구매 증빙 원본(본인 2세대 신분증, 구매 QR코드 등)으로 확인하며, 관내에서 여러 번 검표하므로 신분증이나 구매 QR코드를 미리 꺼내 둔다.",
+   "original_text": null,
+   "value": "신분증 원본 또는 QR코드",
+   "verdict": "verified",
+   "verify_note": "Uses 二代身份证 (Chinese ID). No foreign-passport procedure is stated",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c23",
+   "field": "reservation",
+   "text": "박물관은 실명 예약제로 입장권을 판매하므로 예약할 때 실명 정보를 정확히 입력해야 한다.",
+   "original_text": null,
+   "value": "실명 예약제",
+   "verdict": "verified",
+   "verify_note": "备注一",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c24",
+   "field": "reservation",
+   "text": "VIP 입장권(1인 269위안)은 2일 전에 예약해야 한다.",
+   "original_text": null,
+   "value": "2일 전 예약",
+   "verdict": "verified",
+   "verify_note": "VIP 269元, 需提前2天预约",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c25",
+   "field": "language",
+   "text": "외국어 해설 서비스(10명 이하 200위안)를 이용할 수 있다.",
+   "original_text": null,
+   "value": "외국어 해설 있음",
+   "verdict": "verified",
+   "verify_note": "外语讲解 exists, but the language is not named. Do not imply Korean",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c26",
+   "field": "caution",
+   "text": "미성년자는 음주를 삼가고, 몸이 불편한 사람은 의사의 지시를 따르라고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "备注五",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c27",
+   "field": "caution",
+   "text": "귀중품은 각자 잘 보관하라고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "备注三",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c28",
+   "field": "description",
+   "text": "독일 점령기의 옛 문서 등 3만여 점의 문물을 볼 수 있다.",
+   "original_text": null,
+   "value": "30000+",
+   "verdict": "verified",
+   "verify_note": "德占时期的老档案等30000余件文物",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c29",
+   "field": "description",
+   "text": "박물관은 국가 1급 박물관, 국가 AAAA급 관광지로 소개된다.",
+   "original_text": null,
+   "value": "국가 1급 박물관 / AAAA",
+   "verdict": "verified",
+   "verify_note": "Honors list: 国家一级博物馆, 国家AAAA级旅游景区",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c30",
+   "field": "highlight",
+   "text": "유리 벽 너머로 '등대공장'이라 불리는 현대식 생산 라인을 내려다볼 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "透过玻璃幕墙俯瞰“灯塔工厂”智能化生产线",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c31",
+   "field": "highlight",
+   "text": "VR 양조 실험실에서 맥아 비율을 직접 조합해 보고, 개인 맞춤 라벨을 인쇄한 맥주를 만들 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "VR酿造实验室…个性化酒标印刷定制啤酒",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-c32",
+   "field": "tip",
+   "text": "티켓 문의 고객센터 전화는 400-169-1903이다.",
+   "original_text": null,
+   "value": "400-169-1903",
+   "verdict": "verified",
+   "verify_note": "客服电话:400-169-1903 (ticket page: 4001691903)",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-s1",
+   "field": "closed_days",
+   "text": "홈페이지 안내에 따르면 월요일부터 일요일까지 매일 개방한다(정기 휴무 표기 없음).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-s2",
+   "field": "location",
+   "text": "박물관은 칭다오시 스베이구(市北区) 타이둥(台东) 가도에 속한다(공식 사이트 공지 제목의 '市北区台东街道' 표기 기준).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-s3",
+   "field": "fees",
+   "text": "4월 1일~10월 31일 기준으로 일반 입장권+합류 해설(散拼讲解) 패키지는 성인 98위안, 학생 88위안, 노인 68위안이며, 해설은 8:30~16:30 사이 30분 간격으로 출발한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  },
+  {
+   "cid": "r1-b20-s4",
+   "field": "fees",
+   "text": "4월 1일~10월 31일 기준으로 특별전시관·A관·B관 3관권은 성인 100위안·학생 80위안, 1903극장을 더한 4관권은 성인 120위안·학생 95위안이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b20"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b20",
+   "text": "Homepage banner shows a single schedule, '08:30-17:30, 16:30 last entry, Mon-Sun' (it points to 参观须知 for details). 参观须知 gives seasonal hours, and today (10/11) they are 08:00-18:30 with 17:30 last entry. The homepage is the less specific page."
+  },
+  {
+   "run": "r1-b20",
+   "text": "The ticket price table is labelled '现行门票时间段 4月1日至10月31日'. Prices from 11/1 are not published, so re-check after 10/31."
+  },
+  {
+   "run": "r1-b20",
+   "text": "Site footer reads 'Copyright ©2024~2025' and the pages carry no update date, so the source may be stale (unconfirmed)."
+  },
+  {
+   "run": "r1-b20",
+   "text": "payment / foreign-passport booking / Korean language / parking: not found on official pages (2 lookups). The 2025-04-18 news item '多语种系统上线' has no readable text (image only), so the languages it covers are unknown."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -196,6 +1004,42 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b20",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 32,
+    "verdicts": {
+     "verified": 31,
+     "corrected": 1,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 4
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "공식 페이지에 주차장 위치·요금 정보가 없다.",
+   "run": "r1-b20"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'기본 입장권은 성인 60위안, 학생 50위안, 60~69세 30위안이며…' has no validity period. The official price period is 4/1~10/31 (ends 20 days from now), so add the period.",
+   "'입장할 때 신분증 원본이나 구매 QR코드로 확인합니다' — the official text names the Chinese 2nd-gen ID card. It is unconfirmed whether a foreign passport works, so state that.",
+   "'기본권(성인 60위안)에 A관·B관 관람과 맥주 2잔·맥주콩 포함' — no period (4/1~10/31) is stated."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b20"
  }
 }
