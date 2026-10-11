@@ -1,0 +1,1209 @@
+{
+ "country": "cn",
+ "source": "OpenStreetMap contributors (ODbL) via Nominatim",
+ "generated": "2026-10-10",
+ "items": [
+  {
+   "id": "east-sh-01",
+   "lat": 32.895287,
+   "lng": 115.834025,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/517148962",
+   "osm_class": "leisure",
+   "osm_type": "park",
+   "matched_name": "外滩",
+   "matched_display": "外滩, 文峰街道, 잉저우구, 푸양시, 안후이성, 중국",
+   "confidence": "low",
+   "flags": [
+    "region_not_in_display",
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "east-sh-02",
+   "lat": 31.228927,
+   "lng": 121.487975,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/40036584",
+   "osm_class": "leisure",
+   "osm_type": "garden",
+   "matched_name": "예원",
+   "matched_display": "예원, 小北门, 위위안가도, 상하이, 황푸구, 상하이, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "east-sh-03",
+   "lat": 31.237684,
+   "lng": 121.475302,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/27041875",
+   "osm_class": "highway",
+   "osm_type": "pedestrian",
+   "matched_name": "달러 샾 훠궈 전문점",
+   "matched_display": "달러 샾 훠궈 전문점, 龙泉园路社区, 난징둥루가도, 상하이, 황푸구, 상하이, 200085, 중국",
+   "confidence": "low",
+   "flags": [
+    "ancillary_facility"
+   ]
+  },
+  {
+   "id": "east-sh-04",
+   "lat": 31.221827,
+   "lng": 121.470357,
+   "geo_type": "point",
+   "precision": "place",
+   "geo_source": "osm_nominatim",
+   "osm": "node/11135920722",
+   "osm_class": "place",
+   "osm_type": "quarter",
+   "matched_name": "新天地",
+   "matched_display": "新天地, 화이하이중루가도, 상하이, 황푸구, 상하이, 200020, 중국",
+   "confidence": "medium",
+   "flags": [
+    "matched_a_place_not_a_poi"
+   ]
+  },
+  {
+   "id": "east-sh-05",
+   "lat": 31.146252,
+   "lng": 121.656283,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/494725605",
+   "osm_class": "tourism",
+   "osm_type": "theme_park",
+   "matched_name": "上海迪士尼乐园",
+   "matched_display": "上海迪士尼乐园, 753, 申迪北路, 黄楼, 촨사신진, 푸둥 신구, 상하이, 201205, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "east-sh-06",
+   "lat": 31.235455,
+   "lng": 121.500439,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "node/11221740642",
+   "osm_class": "tourism",
+   "osm_type": "attraction",
+   "matched_name": "上海中心大厦",
+   "matched_display": "上海中心大厦, 银城中路, 陆家嘴, 루자쭈이가도, 푸둥 신구, 상하이, 200121, 중국",
+   "confidence": "high",
+   "flags": [
+    "query_variant_2"
+   ]
+  },
+  {
+   "id": "east-sh-07",
+   "lat": 31.113088,
+   "lng": 121.048879,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/1476707831",
+   "osm_class": "tourism",
+   "osm_type": "theme_park",
+   "matched_name": "朱家角古镇旅游区",
+   "matched_display": "朱家角古镇旅游区, 张巷小港路, 주자자오진, 칭푸구, 상하이, 201713, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "east-sh-08",
+   "lat": 31.207963,
+   "lng": 121.434582,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/47451483",
+   "osm_class": "highway",
+   "osm_type": "residential",
+   "matched_name": "武康路",
+   "matched_display": "武康路, 후난루가도, 쉬후이구, 상하이, 200031, 중국",
+   "confidence": "low",
+   "flags": [
+    "ancillary_facility"
+   ]
+  },
+  {
+   "id": "east-su-01",
+   "lat": 31.326353,
+   "lng": 120.624712,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/468359738",
+   "osm_class": "leisure",
+   "osm_type": "garden",
+   "matched_name": "졸정원",
+   "matched_display": "졸정원, 小飞虹桥, 拙政园社区, 平江街道, 구쑤구, 쑤저우시, 장쑤성, 215005, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "east-su-02",
+   "lat": 31.317617,
+   "lng": 120.587959,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/420034522",
+   "osm_class": "leisure",
+   "osm_type": "garden",
+   "matched_name": "留园",
+   "matched_display": "留园, 留园社区, 虎丘街道, 구쑤구, 쑤저우시, 장쑤성, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "east-su-03",
+   "lat": 31.331282,
+   "lng": 120.429085,
+   "geo_type": "area",
+   "precision": "centroid",
+   "geo_source": "osm_nominatim",
+   "osm": "relation/7598901",
+   "osm_class": "boundary",
+   "osm_type": "administrative",
+   "matched_name": "후추구",
+   "matched_display": "후추구, 쑤저우시, 장쑤성, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "east-su-04",
+   "lat": 31.314929,
+   "lng": 120.629691,
+   "geo_type": "point",
+   "precision": "place",
+   "geo_source": "osm_nominatim",
+   "osm": "node/12104035258",
+   "osm_class": "place",
+   "osm_type": "suburb",
+   "matched_name": "平江路",
+   "matched_display": "平江路, 平江街道, 구쑤구, 쑤저우시, 장쑤성, 215005, 중국",
+   "confidence": "medium",
+   "flags": [
+    "matched_a_place_not_a_poi"
+   ]
+  },
+  {
+   "id": "east-su-05",
+   "lat": 43.304991,
+   "lng": 122.629352,
+   "geo_type": "point",
+   "precision": "place",
+   "geo_source": "osm_nominatim",
+   "osm": "node/5377255167",
+   "osm_class": "place",
+   "osm_type": "town",
+   "matched_name": "阿古拉镇 ᠠᠭᠤᠯᠠ",
+   "matched_display": "阿古拉镇 ᠠᠭᠤᠯᠠ, 퉁랴오시, 科尔沁左翼后旗, 내몽골자치구, 중국",
+   "confidence": "low",
+   "flags": [
+    "region_not_in_display",
+    "city_not_in_display",
+    "matched_a_place_not_a_poi"
+   ]
+  },
+  {
+   "id": "east-hz-01",
+   "lat": 30.245984,
+   "lng": 120.143132,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "relation/2308774",
+   "osm_class": "water",
+   "osm_type": "lake",
+   "matched_name": "西湖",
+   "matched_display": "西湖, 시후구, 항저우시, 저장성, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "east-hz-02",
+   "lat": 30.242795,
+   "lng": 120.096799,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "node/1218588822",
+   "osm_class": "amenity",
+   "osm_type": "place_of_worship",
+   "matched_name": "링인쓰",
+   "matched_display": "링인쓰, 1, 法云弄, 灵隐, 西湖街道, 시후구, 항저우시, 저장성, 310013, 중국",
+   "confidence": "high",
+   "flags": [
+    "query_variant_2"
+   ]
+  },
+  {
+   "id": "east-hz-03",
+   "lat": 30.267305,
+   "lng": 120.063259,
+   "geo_type": "area",
+   "precision": "centroid",
+   "geo_source": "osm_nominatim",
+   "osm": "way/783223294",
+   "osm_class": "boundary",
+   "osm_type": "national_park",
+   "matched_name": "西溪国家湿地公园",
+   "matched_display": "西溪国家湿地公园, 시후구, 항저우시, 저장성, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "east-hz-04",
+   "lat": 30.242143,
+   "lng": 120.16991,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/581139446",
+   "osm_class": "highway",
+   "osm_type": "tertiary",
+   "matched_name": "河坊街",
+   "matched_display": "河坊街, 西牌楼社区, 小营街道, 상청구, 항저우시, 저장성, 310009, 중국",
+   "confidence": "low",
+   "flags": [
+    "ancillary_facility"
+   ]
+  },
+  {
+   "id": "east-hz-05",
+   "lat": 30.1983,
+   "lng": 120.12661,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/159184108",
+   "osm_class": "man_made",
+   "osm_type": "tower",
+   "matched_name": "육화탑",
+   "matched_display": "육화탑, 16, 之江路, 西湖街道, 시후구, 항저우시, 저장성, 310053, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "east-hz-06",
+   "lat": 30.221804,
+   "lng": 120.109118,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "relation/13237505",
+   "osm_class": "tourism",
+   "osm_type": "museum",
+   "matched_name": "中国茶叶博物馆",
+   "matched_display": "中国茶叶博物馆, 268, 满觉陇路, 杨家山, 西湖街道, 시후구, 항저우시, 저장성, 310008, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "east-qd-01",
+   "lat": 36.061973,
+   "lng": 120.314381,
+   "geo_type": "point",
+   "precision": "place",
+   "geo_source": "osm_nominatim",
+   "osm": "node/5466225063",
+   "osm_class": "place",
+   "osm_type": "locality",
+   "matched_name": "栈桥",
+   "matched_display": "栈桥, 泰安路社区, 中山路街道, 스난구, 칭다오시, 산둥성, 266001, 중국",
+   "confidence": "medium",
+   "flags": [
+    "matched_a_place_not_a_poi"
+   ]
+  },
+  {
+   "id": "east-qd-02",
+   "lat": 36.053793,
+   "lng": 120.34565,
+   "geo_type": "point",
+   "precision": "place",
+   "geo_source": "osm_nominatim",
+   "osm": "node/4057340944",
+   "osm_class": "place",
+   "osm_type": "neighbourhood",
+   "matched_name": "八大关",
+   "matched_display": "八大关, 八大关社区, 八大关街道, 스난구, 칭다오시, 산둥성, 266001, 중국",
+   "confidence": "medium",
+   "flags": [
+    "matched_a_place_not_a_poi"
+   ]
+  },
+  {
+   "id": "east-qd-03",
+   "lat": 37.371647,
+   "lng": 118.022634,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/146238522",
+   "osm_class": "leisure",
+   "osm_type": "park",
+   "matched_name": "五四广场",
+   "matched_display": "五四广场, 北镇街道, 빈청구, 빈저우시, 산둥성, 256600, 중국",
+   "confidence": "medium",
+   "flags": [
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "east-qd-04",
+   "lat": 36.055703,
+   "lng": 120.39114,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "node/5329362105",
+   "osm_class": "tourism",
+   "osm_type": "attraction",
+   "matched_name": "青岛奥林匹克帆船中心",
+   "matched_display": "青岛奥林匹克帆船中心, 121, 澳门路, 澳门路社区, 珠海路街道, 스난구, 칭다오시, 산둥성, 266001, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "east-qd-05",
+   "lat": 36.078972,
+   "lng": 120.342564,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/554250276",
+   "osm_class": "tourism",
+   "osm_type": "museum",
+   "matched_name": "칭다오 맥주 박물관",
+   "matched_display": "칭다오 맥주 박물관, 56, 登州路, 青啤社区, 登州路街道, 스베이구, 칭다오시, 산둥성, 266011, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "east-qd-06",
+   "lat": 36.196807,
+   "lng": 120.629681,
+   "geo_type": "area",
+   "precision": "centroid",
+   "geo_source": "osm_nominatim",
+   "osm": "relation/15465997",
+   "osm_class": "leisure",
+   "osm_type": "nature_reserve",
+   "matched_name": "崂山风景名胜区",
+   "matched_display": "崂山风景名胜区, 칭다오시, 산둥성, 266061, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "bj-palace",
+   "lat": 39.917431,
+   "lng": 116.390782,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "node/3884441391",
+   "osm_class": "tourism",
+   "osm_type": "museum",
+   "matched_name": "자금성(고궁박물원)",
+   "matched_display": "자금성(고궁박물원), 4号, 景山前街, 智德社区, 둥화먼가도, 首都功能核心区, 둥청구, 베이징시, 100010, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "bj-temple-heaven",
+   "lat": 39.879907,
+   "lng": 116.402872,
+   "geo_type": "point",
+   "precision": "place",
+   "geo_source": "osm_nominatim",
+   "osm": "way/24824550",
+   "osm_class": "place",
+   "osm_type": "plot",
+   "matched_name": "천단 공원",
+   "matched_display": "천단 공원, 首都功能核心区, 둥청구, 베이징시, 100010, 중국",
+   "confidence": "medium",
+   "flags": [
+    "matched_a_place_not_a_poi"
+   ]
+  },
+  {
+   "id": "bj-summer-palace",
+   "lat": 39.990098,
+   "lng": 116.26474,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/29228773",
+   "osm_class": "leisure",
+   "osm_type": "park",
+   "matched_name": "이화원",
+   "matched_display": "이화원, 19, 하이뎬구, 베이징시, 100091, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "bj-jingshan",
+   "lat": 39.924459,
+   "lng": 116.390397,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/29201967",
+   "osm_class": "leisure",
+   "osm_type": "park",
+   "matched_name": "경산 공원",
+   "matched_display": "경산 공원, 首都功能核心区, 시청구, 베이징시, 100032, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "bj-badaling",
+   "lat": 40.357644,
+   "lng": 116.012063,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/1464136593",
+   "osm_class": "tourism",
+   "osm_type": "attraction",
+   "matched_name": "八达岭长城",
+   "matched_display": "八达岭长城, （非成熟路线）, 八达岭镇, 옌칭구, 베이징시, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "bj-mutianyu",
+   "lat": 40.434515,
+   "lng": 116.560575,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/756859585",
+   "osm_class": "leisure",
+   "osm_type": "nature_reserve",
+   "matched_name": "慕田峪长城旅游区",
+   "matched_display": "慕田峪长城旅游区, 渤海镇, 화이러우구, 베이징시, 101405, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "bj-tiananmen-square",
+   "lat": 39.902722,
+   "lng": 116.391441,
+   "geo_type": "point",
+   "precision": "place",
+   "geo_source": "osm_nominatim",
+   "osm": "relation/941596",
+   "osm_class": "place",
+   "osm_type": "square",
+   "matched_name": "천안문 광장(톈안먼 광장)",
+   "matched_display": "천안문 광장(톈안먼 광장), 正义路社区, 둥화먼가도, 首都功能核心区, 둥청구, 베이징시, 100010, 중국",
+   "confidence": "medium",
+   "flags": [
+    "matched_a_place_not_a_poi"
+   ]
+  },
+  {
+   "id": "bj-ming-tombs",
+   "lat": 40.258932,
+   "lng": 116.220163,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/1303123866",
+   "osm_class": "leisure",
+   "osm_type": "park",
+   "matched_name": "明十三陵神道",
+   "matched_display": "明十三陵神道, 十三陵镇, 창핑구, 베이징시, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "bj-798",
+   "lat": 28.589596,
+   "lng": 115.897483,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/1386144505",
+   "osm_class": "building",
+   "osm_type": "house",
+   "matched_name": "798",
+   "matched_display": "798, 兰宫中大道, 绿地山庄, 庄园路社区, 八月湖街道, 난창현, 邓埠村, 난창현, 난창시, 장시성, 330052, 중국",
+   "confidence": "low",
+   "flags": [
+    "query_variant_2",
+    "region_not_in_display",
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "bj-wtown",
+   "lat": 40.648912,
+   "lng": 117.266986,
+   "geo_type": "area",
+   "precision": "centroid",
+   "geo_source": "osm_nominatim",
+   "osm": "way/441960704",
+   "osm_class": "landuse",
+   "osm_type": "retail",
+   "matched_name": "古北水镇",
+   "matched_display": "古北水镇, 구베이커우진, 미윈구, 베이징시, 중국",
+   "confidence": "high",
+   "flags": [
+    "query_variant_2"
+   ]
+  },
+  {
+   "id": "bj-beihai",
+   "lat": 39.926402,
+   "lng": 116.382463,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/366464114",
+   "osm_class": "leisure",
+   "osm_type": "park",
+   "matched_name": "北海公园",
+   "matched_display": "北海公园, 首都功能核心区, 시청구, 베이징시, 100032, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "xa-terracotta",
+   "confidence": "none",
+   "flags": [
+    "no_result"
+   ]
+  },
+  {
+   "id": "xa-huaqing",
+   "lat": 34.364946,
+   "lng": 109.207538,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/88216827",
+   "osm_class": "leisure",
+   "osm_type": "park",
+   "matched_name": "华清宫",
+   "matched_display": "华清宫, 骊山街道, 린퉁구, 시안시, 섬서성, 중국",
+   "confidence": "low",
+   "flags": [
+    "region_not_in_display"
+   ]
+  },
+  {
+   "id": "xa-shaanxi-museum",
+   "confidence": "none",
+   "flags": [
+    "no_result"
+   ]
+  },
+  {
+   "id": "xa-city-wall",
+   "lat": 34.265123,
+   "lng": 108.920758,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "relation/3450809",
+   "osm_class": "tourism",
+   "osm_type": "attraction",
+   "matched_name": "西安城墙",
+   "matched_display": "西安城墙, 东四路, 五路口, 中山门街道, 신청구, 시안시, 섬서성, 710005, 중국",
+   "confidence": "low",
+   "flags": [
+    "region_not_in_display"
+   ]
+  },
+  {
+   "id": "xa-big-pagoda",
+   "lat": 34.219401,
+   "lng": 108.959436,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/1416050971",
+   "osm_class": "amenity",
+   "osm_type": "place_of_worship",
+   "matched_name": "大慈恩寺",
+   "matched_display": "大慈恩寺, 大慈恩寺广场, 大雁塔街道, 옌타구, 시안시, 섬서성, 710054, 중국",
+   "confidence": "low",
+   "flags": [
+    "region_not_in_display"
+   ]
+  },
+  {
+   "id": "xa-bell-drum",
+   "lat": 34.261751,
+   "lng": 108.938964,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "node/2958170395",
+   "osm_class": "tourism",
+   "osm_type": "museum",
+   "matched_name": "西安鼓楼博物馆",
+   "matched_display": "西安鼓楼博物馆, 钟鼓楼广场, 社会路社区, 北院门街道, 롄후구, 시안시, 섬서성, 710001, 중국",
+   "confidence": "low",
+   "flags": [
+    "query_variant_1",
+    "region_not_in_display"
+   ]
+  },
+  {
+   "id": "xa-small-pagoda",
+   "lat": 34.240073,
+   "lng": 108.936807,
+   "geo_type": "area",
+   "precision": "centroid",
+   "geo_source": "osm_nominatim",
+   "osm": "relation/16767834",
+   "osm_class": "leisure",
+   "osm_type": "park",
+   "matched_name": "小雁塔·西安博物院",
+   "matched_display": "小雁塔·西安博物院, 南稍门社区, 长安路街道, 베이린구, 시안시, 섬서성, 중국",
+   "confidence": "low",
+   "flags": [
+    "region_not_in_display"
+   ]
+  },
+  {
+   "id": "cd-panda-base",
+   "lat": 30.743228,
+   "lng": 104.132931,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/941885688",
+   "osm_class": "tourism",
+   "osm_type": "zoo",
+   "matched_name": "자이언트 판다 사육에 관한 청두 연구 기지",
+   "matched_display": "자이언트 판다 사육에 관한 청두 연구 기지, 1375, 熊猫大道, 白莲池街道, 청화구, 청두시, 쓰촨성, 610081, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "cd-wuhou-jinli",
+   "lat": 30.647841,
+   "lng": 104.045655,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/277942162",
+   "osm_class": "amenity",
+   "osm_type": "place_of_worship",
+   "matched_name": "무후사",
+   "matched_display": "무후사, 延熙大道, 浆洗街街道, 우허우구, 청두시, 쓰촨성, 610072, 중국",
+   "confidence": "high",
+   "flags": [
+    "query_variant_2"
+   ]
+  },
+  {
+   "id": "cd-dufu",
+   "lat": 30.662853,
+   "lng": 104.026229,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/299409723",
+   "osm_class": "leisure",
+   "osm_type": "park",
+   "matched_name": "杜甫草堂",
+   "matched_display": "杜甫草堂, 草堂路社区, 草堂街道, 칭양구, 청두시, 쓰촨성, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "cd-kuanzhai",
+   "lat": 30.666194,
+   "lng": 104.050808,
+   "geo_type": "area",
+   "precision": "centroid",
+   "geo_source": "osm_nominatim",
+   "osm": "way/588905842",
+   "osm_class": "landuse",
+   "osm_type": "retail",
+   "matched_name": "宽窄巷子",
+   "matched_display": "宽窄巷子, 宽巷子社区, 少城街道, 칭양구, 청두시, 쓰촨성, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "cd-jinsha",
+   "lat": 30.684148,
+   "lng": 104.01032,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/418288880",
+   "osm_class": "leisure",
+   "osm_type": "park",
+   "matched_name": "金沙遗址博物馆",
+   "matched_display": "金沙遗址博物馆, 金沙街道, 칭양구, 청두시, 쓰촨성, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "cd-dujiangyan",
+   "lat": 31.003438,
+   "lng": 103.609305,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/412705835",
+   "osm_class": "leisure",
+   "osm_type": "park",
+   "matched_name": "都江堰景区",
+   "matched_display": "都江堰景区, G213;G317;G350;S216, 龙池镇, 두장옌시, 청두시, 쓰촨성, 중국",
+   "confidence": "high",
+   "flags": []
+  },
+  {
+   "id": "cd-qingcheng",
+   "confidence": "none",
+   "flags": [
+    "no_result"
+   ]
+  },
+  {
+   "id": "nature-zjj-01",
+   "lat": 29.050289,
+   "lng": 110.478616,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/573098921",
+   "osm_class": "leisure",
+   "osm_type": "nature_reserve",
+   "matched_name": "张家界天门山国家森林公园",
+   "matched_display": "张家界天门山国家森林公园, 天门山国家森林公园, 융딩구, 장자제시, 후난성, 중국",
+   "confidence": "medium",
+   "flags": [
+    "query_variant_2",
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-zjj-02",
+   "lat": 29.045984,
+   "lng": 110.480881,
+   "geo_type": "area",
+   "precision": "centroid",
+   "geo_source": "osm_nominatim",
+   "osm": "relation/13042332",
+   "osm_class": "boundary",
+   "osm_type": "administrative",
+   "matched_name": "天门山国家森林公园",
+   "matched_display": "天门山国家森林公园, 융딩구, 장자제시, 후난성, 중국",
+   "confidence": "medium",
+   "flags": [
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-zjj-03",
+   "lat": 29.411932,
+   "lng": 110.693662,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/1352953746",
+   "osm_class": "leisure",
+   "osm_type": "nature_reserve",
+   "matched_name": "张家界大峡谷",
+   "matched_display": "张家界大峡谷, 三官寺乡, 츠리현, 장자제시, 후난성, 중국",
+   "confidence": "medium",
+   "flags": [
+    "query_variant_2",
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-zjj-04",
+   "lat": 29.368031,
+   "lng": 110.614667,
+   "geo_type": "area",
+   "precision": "centroid",
+   "geo_source": "osm_nominatim",
+   "osm": "node/2694283944",
+   "osm_class": "natural",
+   "osm_type": "cave_entrance",
+   "matched_name": "黄龙洞",
+   "matched_display": "黄龙洞, 黄龙路, 迎宾路居委会, 索溪峪, 铁厂, 军地坪街道, 우링위안구, 장자제시, 후난성, 427400, 중국",
+   "confidence": "medium",
+   "flags": [
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-zjj-05",
+   "lat": 29.325758,
+   "lng": 110.54692,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "relation/12885872",
+   "osm_class": "water",
+   "osm_type": "lake",
+   "matched_name": "宝峰湖",
+   "matched_display": "宝峰湖, 우링위안구, 军地坪街道, 우링위안구, 장자제시, 후난성, 중국",
+   "confidence": "medium",
+   "flags": [
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-gl-01",
+   "lat": 25.186084,
+   "lng": 110.393491,
+   "geo_type": "area",
+   "precision": "centroid",
+   "geo_source": "osm_nominatim",
+   "osm": "way/1046233526",
+   "osm_class": "landuse",
+   "osm_type": "residential",
+   "matched_name": "漓江奥林苑",
+   "matched_display": "漓江奥林苑, 링촨현, 구이린시, 광시 좡족 자치구, 중국",
+   "confidence": "low",
+   "flags": [
+    "region_not_in_display",
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-gl-02",
+   "confidence": "none",
+   "flags": [
+    "no_result"
+   ]
+  },
+  {
+   "id": "nature-gl-03",
+   "lat": 25.270073,
+   "lng": 110.29151,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "node/344461733",
+   "osm_class": "tourism",
+   "osm_type": "viewpoint",
+   "matched_name": "象鼻山",
+   "matched_display": "象鼻山, 滨江路, 象山街道, 샹산구, 구이린시, 광시 좡족 자치구, 541002, 중국",
+   "confidence": "low",
+   "flags": [
+    "region_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-gl-04",
+   "lat": 25.270321,
+   "lng": 110.294663,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "node/11497139411",
+   "osm_class": "tourism",
+   "osm_type": "hotel",
+   "matched_name": "桂林訾洲四景度假酒店(两江四湖象鼻山店)",
+   "matched_display": "桂林訾洲四景度假酒店(两江四湖象鼻山店), 穿山路, 穿山街道, 치싱구, 구이린시, 광시 좡족 자치구, 541002, 중국",
+   "confidence": "low",
+   "flags": [
+    "region_not_in_display",
+    "ancillary_facility"
+   ]
+  },
+  {
+   "id": "nature-gl-05",
+   "lat": 25.286565,
+   "lng": 110.299368,
+   "geo_type": "area",
+   "precision": "centroid",
+   "geo_source": "osm_nominatim",
+   "osm": "node/1618571712",
+   "osm_class": "natural",
+   "osm_type": "peak",
+   "matched_name": "伏波山",
+   "matched_display": "伏波山, 구이린시, 광시 좡족 자치구, 541001, 중국",
+   "confidence": "low",
+   "flags": [
+    "region_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-gl-06",
+   "lat": 25.095745,
+   "lng": 110.275069,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/1462495028",
+   "osm_class": "building",
+   "osm_type": "school",
+   "matched_name": "叠彩家苑",
+   "matched_display": "叠彩家苑, 晋善路, 옌산구, 구이린시, 광시 좡족 자치구, 541006, 중국",
+   "confidence": "low",
+   "flags": [
+    "region_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-gl-07",
+   "lat": 25.311858,
+   "lng": 110.267057,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/1490016117",
+   "osm_class": "leisure",
+   "osm_type": "park",
+   "matched_name": "芦笛岩",
+   "matched_display": "芦笛岩, 1, 甲山街道, 슈펑구, 구이린시, 광시 좡족 자치구, 541001, 중국",
+   "confidence": "low",
+   "flags": [
+    "region_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-sy-01",
+   "lat": 18.224358,
+   "lng": 109.624165,
+   "geo_type": "area",
+   "precision": "centroid",
+   "geo_source": "osm_nominatim",
+   "osm": "way/462460504",
+   "osm_class": "natural",
+   "osm_type": "beach",
+   "matched_name": "亚龙湾",
+   "matched_display": "亚龙湾, 지양구, 싼야시, 하이난성, 중국",
+   "confidence": "medium",
+   "flags": [
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-sy-02",
+   "lat": 18.253056,
+   "lng": 109.639624,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/1469685542",
+   "osm_class": "leisure",
+   "osm_type": "nature_reserve",
+   "matched_name": "亚龙湾热带天堂森林公园",
+   "matched_display": "亚龙湾热带天堂森林公园, 지양구, 싼야시, 하이난성, 중국",
+   "confidence": "medium",
+   "flags": [
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-sy-03",
+   "lat": 18.300091,
+   "lng": 109.206633,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/1300132266",
+   "osm_class": "leisure",
+   "osm_type": "nature_reserve",
+   "matched_name": "南山文化旅游区",
+   "matched_display": "南山文化旅游区, 야저우구, 싼야시, 하이난성, 중국",
+   "confidence": "medium",
+   "flags": [
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-sy-04",
+   "lat": 18.292624,
+   "lng": 109.345045,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "node/2272220538",
+   "osm_class": "tourism",
+   "osm_type": "attraction",
+   "matched_name": "天涯海角",
+   "matched_display": "天涯海角, 海南环岛旅游公路, 톈야구, 싼야시, 하이난성, 572029, 중국",
+   "confidence": "medium",
+   "flags": [
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-sy-05",
+   "lat": 40.717679,
+   "lng": 110.719096,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/1201088405",
+   "osm_class": "building",
+   "osm_type": "yes",
+   "matched_name": "九峰山生态旅游景区",
+   "matched_display": "九峰山生态旅游景区, 枣沟公路, 前脑包村, 九峰山生态管理委员会, 투모터우기, 바오터우시, 내몽골자치구, 014200, 중국",
+   "confidence": "low",
+   "flags": [
+    "region_not_in_display",
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-sy-06",
+   "lat": 18.311352,
+   "lng": 109.761849,
+   "geo_type": "point",
+   "precision": "place",
+   "geo_source": "osm_nominatim",
+   "osm": "relation/11567453",
+   "osm_class": "place",
+   "osm_type": "island",
+   "matched_name": "蜈支洲岛",
+   "matched_display": "蜈支洲岛, 하이탕구, 싼야시, 하이난성, 중국",
+   "confidence": "medium",
+   "flags": [
+    "city_not_in_display",
+    "matched_a_place_not_a_poi"
+   ]
+  },
+  {
+   "id": "nature-sy-07",
+   "lat": 18.236267,
+   "lng": 109.370432,
+   "geo_type": "point",
+   "precision": "place",
+   "geo_source": "osm_nominatim",
+   "osm": "relation/9443829",
+   "osm_class": "place",
+   "osm_type": "island",
+   "matched_name": "西岛",
+   "matched_display": "西岛, 톈야구, 싼야시, 하이난성, 중국",
+   "confidence": "medium",
+   "flags": [
+    "city_not_in_display",
+    "matched_a_place_not_a_poi"
+   ]
+  },
+  {
+   "id": "nature-cbs-01",
+   "lat": 42.181078,
+   "lng": 128.171039,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "node/8828812769",
+   "osm_class": "leisure",
+   "osm_type": "nature_reserve",
+   "matched_name": "长白山北景区",
+   "matched_display": "长白山北景区, 이도백하진, 장백산관리위원회, 안도현, 연변조선족자치주, 지린성, 중국",
+   "confidence": "medium",
+   "flags": [
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-cbs-02",
+   "lat": 34.228603,
+   "lng": 108.924564,
+   "geo_type": "area",
+   "precision": "centroid",
+   "geo_source": "osm_nominatim",
+   "osm": "way/974054940",
+   "osm_class": "landuse",
+   "osm_type": "residential",
+   "matched_name": "西安财经大学崇德坊生活区",
+   "matched_display": "西安财经大学崇德坊生活区, 丁白路社区, 小寨路街道, 옌타구, 시안시, 섬서성, 중국",
+   "confidence": "low",
+   "flags": [
+    "region_not_in_display",
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-cbs-03",
+   "lat": 44.825036,
+   "lng": 126.553683,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/918596597",
+   "osm_class": "building",
+   "osm_type": "retail",
+   "matched_name": "长白山商城",
+   "matched_display": "长白山商城, 三盛路, 南洋国际商业中心, 昌盛社区, 城郊街道, 위수시, 창춘시, 지린성, 130000, 중국",
+   "confidence": "medium",
+   "flags": [
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-yj-01",
+   "lat": 42.874979,
+   "lng": 129.48815,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "node/11422182515",
+   "osm_class": "highway",
+   "osm_type": "bus_stop",
+   "matched_name": "中国朝鲜族民俗园",
+   "matched_display": "中国朝鲜族民俗园, 룡상거리, 장룡사회구역, 건공가두, 룡포동, 연길시, 연변조선족자치주, 지린성, 133001, 중국",
+   "confidence": "low",
+   "flags": [
+    "only_poor_candidates",
+    "city_not_in_display",
+    "transport_or_parking",
+    "ancillary_facility"
+   ]
+  },
+  {
+   "id": "nature-yj-02",
+   "lat": 42.856472,
+   "lng": 129.460353,
+   "geo_type": "area",
+   "precision": "centroid",
+   "geo_source": "osm_nominatim",
+   "osm": "relation/18919173",
+   "osm_class": "leisure",
+   "osm_type": "nature_reserve",
+   "matched_name": "모아산국가삼림공원",
+   "matched_display": "모아산국가삼림공원, 룡포동, 소영진, 연길시, 연변조선족자치주, 지린성, 중국",
+   "confidence": "medium",
+   "flags": [
+    "city_not_in_display"
+   ]
+  },
+  {
+   "id": "nature-yj-03",
+   "lat": 42.887727,
+   "lng": 129.416468,
+   "geo_type": "point",
+   "precision": "poi",
+   "geo_source": "osm_nominatim",
+   "osm": "way/1290419675",
+   "osm_class": "tourism",
+   "osm_type": "museum",
+   "matched_name": "延边博物馆",
+   "matched_display": "延边博物馆, 8627, 장백산서로, 인평촌, 소영진, 연길시, 연변조선족자치주, 지린성, 133102, 중국",
+   "confidence": "medium",
+   "flags": [
+    "city_not_in_display"
+   ]
+  }
+ ]
+}
