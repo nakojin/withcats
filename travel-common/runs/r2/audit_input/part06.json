@@ -1,0 +1,602 @@
+[
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c17",
+  "field": "description",
+  "text": "광장은 북쪽 톈안먼에서 서쪽 인민대회당까지 길이 880m, 폭 500m, 면적 44만㎡이며 100만 명을 수용할 수 있다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101404"
+  ]
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c18",
+  "field": "description",
+  "text": "광장 중앙에는 높이 37.94m의 인민영웅기념비가 있다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101404"
+  ]
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c19",
+  "field": "description",
+  "text": "톈안먼 성루는 높이 33.7m이며 아래 성대 높이는 14.6m이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101404"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c1",
+  "field": "location",
+  "text": "구베이수이전은 베이징시 미윈구 구베이커우진, 쓰마타이 장성 기슭에 있다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/source.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c2",
+  "field": "location",
+  "text": "공식 연락처 페이지의 주소는 베이징시 미윈구 구베이커우진 쓰마타이촌 구베이수이전(쓰마타이 장성) 국제 관광 리조트이다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/connect.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c3",
+  "field": "description",
+  "text": "리조트 전체 면적은 9제곱킬로미터이고 6개 구역과 3개 계곡으로 계획되었다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/source.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c4",
+  "field": "description",
+  "text": "리조트 안에는 43만 제곱미터의 명·청 및 민국 양식 산지 합원 건축이 있다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/source.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c5",
+  "field": "description",
+  "text": "리조트 안에 테마 호텔이 7곳 있다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/source.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c6",
+  "field": "description",
+  "text": "리조트 안에 부티크 호텔이 10곳 있다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/source.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c7",
+  "field": "description",
+  "text": "리조트 안에 민박·객잔이 28곳 있다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/source.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c8",
+  "field": "description",
+  "text": "리조트 안에 독립 식당이 30여 곳 있다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/source.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c9",
+  "field": "description",
+  "text": "리조트 안에 상점이 50여 곳 있다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/source.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c10",
+  "field": "description",
+  "text": "쓰마타이 구간 장성은 험준함·촘촘함·기이함·정교함·완비를 특징으로 한다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/wall.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c11",
+  "field": "description",
+  "text": "쓰마타이 장성의 망루 사이 평균 간격은 140미터이다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/wall.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c12",
+  "field": "description",
+  "text": "구베이수이전은 2016년에 야간 관광 '팔대명완'(여덟 가지 야간 체험)을 새로 구성했다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/source.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c13",
+  "field": "tip",
+  "text": "장성 코스 1은 케이블카 상부역에서 5호 봉화대까지 걸은 뒤 2호 봉화대까지 내려가며 보고 케이블카역으로 돌아와 하부역으로 내려가는 경로이다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/wall.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c14",
+  "field": "tip",
+  "text": "장성 야경 코스는 케이블카로 올라 5호 봉화대에서 야경을 보고 걸어서 케이블카역으로 돌아와 내려가는 경로이다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/wall.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c15",
+  "field": "fees",
+  "text": "구베이수이전 입장권은 창구가 160위안, 개인 관광객 가격이 140위안이다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c16",
+  "field": "fees",
+  "text": "쓰마타이 장성 입장권은 40위안이다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c17",
+  "field": "fees",
+  "text": "하루에 쓰마타이 장성과 구베이수이전을 함께 보는 연합권은 창구가 180위안, 개인 관광객 가격이 170위안이다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c18",
+  "field": "fees",
+  "text": "키 1.2미터 초과 1.5미터 이하(1.5미터 포함) 어린이는 구베이수이전 할인표 대상이며, 1.2미터 이하(1.2미터 포함)는 무료다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c19",
+  "field": "fees",
+  "text": "16세 미만 미성년자는 신분증을 제시하면 구베이수이전 할인표 대상이다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c20",
+  "field": "fees",
+  "text": "초·중등학생과 전일제 재학 대학생(전문대·학부·대학원)은 학생증으로 할인표 대상이다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c21",
+  "field": "fees",
+  "text": "60세 이상 노인은 유효 신분증으로 할인표 대상이다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c25",
+  "field": "fees",
+  "text": "키 1.2미터 이하(1.2미터 포함) 어린이는 구베이수이전 입장이 무료이다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c26",
+  "field": "fees",
+  "text": "장애인은 장애인증을 제시하면 구베이수이전 입장이 무료이다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c29",
+  "field": "fees",
+  "text": "경내 호텔에 묵어도 입장권은 따로 사야 하며, 일부 호텔은 판매 정책에 따라 입장권을 증정하므로 예약 전화로 문의해야 한다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c30",
+  "field": "reservation",
+  "text": "온라인으로 입장권을 사려면 신분증 번호를 입력해야 한다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c31",
+  "field": "reservation",
+  "text": "단순 관람은 현장에서 코드를 스캔해 입장하며 신분증이 필요 없다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c32",
+  "field": "reservation",
+  "text": "할인 대상자는 해당 증명서를 지참해야 한다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c33",
+  "field": "payment",
+  "text": "방문자 서비스센터에 중국은행과 농업은행 ATM이 있다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c34",
+  "field": "payment",
+  "text": "식당은 영수증(發票)을 발급하는 대형 식당(烧肉馆·纳兰轩·古北烤鸭王·文昌阁 등)에서 바로 받을 수 있고, 상점 구매분은 구매처에서 '발票 발급서'를 받은 뒤 방문자센터 프런트에서 영수증을 발급받는다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c35",
+  "field": "parking",
+  "text": "7인승 이하 소형차 주차는 회당 25위안이다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c36",
+  "field": "parking",
+  "text": "7인승 초과 중·대형차 주차는 회당 50위안이며 시간 제한이 없다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c37",
+  "field": "access",
+  "text": "베이징 시내에서 자가용으로 약 120킬로미터, 약 2시간이며 징청고속도로 24번 쓰마타이 출구로 나간다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/index.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c38",
+  "field": "access",
+  "text": "미윈구에서는 약 60킬로미터, 약 40분이며 징미로(101번 국도)를 이용한다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/index.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c39",
+  "field": "access",
+  "text": "망징시(望京西)에서 구베이수이전행 직통 버스가 09:00와 13:00에 출발하고, 구베이수이전에서는 12:00와 17:00에 출발한다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/index.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c40",
+  "field": "access",
+  "text": "직통 버스는 134킬로미터, 약 120분이며 요금은 1인 48위안이다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/index.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c41",
+  "field": "access",
+  "text": "직통 버스 승차 장소는 망징시 환승센터 버스 중2층 5번 게이트이고, 구베이수이전에서는 경구 2번 주차장에서 탄다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/index.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c42",
+  "field": "access",
+  "text": "대중교통은 지하철 2호선 둥즈먼에서 980번(쾌속)을 타고 미윈시다차오역에서 미51번(쓰마타이 방면)으로 환승하는 방법이 안내되어 있다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/index.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c43",
+  "field": "access",
+  "text": "기차는 베이징북역 또는 칭허역에서 화이미선을 타고 구베이커우역에서 내려 접박 버스로 갈아탄다. 접박 버스는 수이전발 8:40·15:50, 구베이커우역발 9:40·17:10이다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/index.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c44",
+  "field": "access",
+  "text": "베이투청에서 구베이수이전 직통 버스는 6~10월 매주 토요일에 운행하며 베이투청 9:30, 구베이수이전 대호텔 20:30 출발, 요금 48위안이다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/index.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c45",
+  "field": "access",
+  "text": "중국청년여행사(中青旅) 빌딩에서 구베이수이전까지 관광 전용 버스가 있으며 약 135킬로미터, 약 120분, 요금 48위안이고 '중청뤼 문화여행' 미니프로그램으로 확인한다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/index.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c46",
+  "field": "tip",
+  "text": "쓰마타이 장성 경구와 구베이수이전은 서로 다른 경구이며 같은 리조트에 속한다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c47",
+  "field": "tip",
+  "text": "방문자 서비스센터 안내 데스크에서 휠체어·유모차·지팡이를 빌릴 수 있다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c48",
+  "field": "tip",
+  "text": "경구 예약·문의 전화는 010-81009999이다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/connect.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c49",
+  "field": "language",
+  "text": "공식 웹사이트는 중국어와 영어 페이지를 제공한다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/index.html"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c50",
+  "field": "description",
+  "text": "구베이수이전은 관광·휴양·비즈니스 행사·문화창의가 결합된 종합 휴양 목적지이다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/source.html"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c1",
+  "field": "location",
+  "text": "주소는 중국 쓰촨성 청두시 청화구 슝마오다다오 1375호다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/service/opentime"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c2",
+  "field": "location",
+  "text": "기지는 시내 중심(톈푸광장)에서 10km, 솽류 국제공항에서 약 30km, 톈푸 국제공항에서 약 50km 떨어져 있다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/about"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c3",
+  "field": "description",
+  "text": "기지는 1987년에 설립되었고 핵심 구역 면적은 3570무다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/about"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c4",
+  "field": "access",
+  "text": "서문은 지하철 3호선 군구총병원(军区总医院)역 B출구 후 도보 20m 정류장에서 409번 셔틀을 타면 약 10분에 도착한다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/service/transit"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c5",
+  "field": "access",
+  "text": "서문은 110·110A·659번 버스로 위레이로 추이웨이로 입구역에서 내려 600m 걸어도 된다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/service/transit"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c6",
+  "field": "access",
+  "text": "남문은 지하철 3호선 슝마오다다오(熊猫大道)역 A출구에서 408번 셔틀로 바로 갈 수 있다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/service/transit"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c7",
+  "field": "access",
+  "text": "남문은 지하철 3호선 동물원(动物园)역에서 655번 또는 87번 버스로도 갈 수 있다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/service/transit"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c8",
+  "field": "access",
+  "text": "춘시루·콴자이샹즈 등 시내 명소에서 출발하는 경구 직통 대형버스 전용 노선이 있다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/service/transit"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c9",
+  "field": "access",
+  "text": "택시 참고 요금은 춘시루에서 약 40위안(25-35분), 청두동역에서 약 40위안(25-30분)이다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/service/transit"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c10",
+  "field": "access",
+  "text": "택시 참고 요금은 솽류 국제공항에서 약 100위안(40-50분), 톈푸 국제공항에서 약 200위안(60-70분)이다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/service/transit"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c11",
+  "field": "parking",
+  "text": "서문으로 자가운전할 경우 ‘보링후이 지하주차장’을 내비 목적지로 하고 D569번 셔틀로 갈아탄다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/service/transit"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c12",
+  "field": "parking",
+  "text": "남문으로 자가운전할 경우 ‘잉잉주차장’에 주차하고 약 15분 걸어간다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/service/transit"
+  ]
+ }
+]

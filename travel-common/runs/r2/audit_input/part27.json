@@ -1,0 +1,611 @@
+[
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c16",
+  "field": "access",
+  "text": "전주역에서 택시로 이동하면 7~8천원 정도로 안내된다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/map"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c17",
+  "field": "access",
+  "text": "서울 강남 센트럴시티 터미널에서 전주까지 고속버스로 약 2시간 40분이 걸린다고 안내된다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/map"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c18",
+  "field": "hours",
+  "text": "경기전 투어는 매일 10·11·14·15·16시에 경기전 정문 안(홍살문)에서 출발하는 한국어 해설로 진행되고, 외국어(영·중·일) 해설은 매일 11시·14시에 진행된다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/tour"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c19",
+  "field": "duration",
+  "text": "문화관광 해설 투어는 1코스당 약 1시간이 걸린다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/tour"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c20",
+  "field": "reservation",
+  "text": "20인 미만 개인은 별도 예약 없이 시간표에서 원하는 코스를 확인하고 집결 장소로 가면 된다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/tour"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c21",
+  "field": "reservation",
+  "text": "해설사 단체 예약은 국내 20인 이상, 국외 10인 이상이 대상이며 두 달 전부터 일주일 전까지 한옥마을 관광안내소(063-284-1126) 또는 전주시청 관광정책과(063-281-2665)로 신청한다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/tour"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c22",
+  "field": "fees",
+  "text": "해설 예약은 무료이고 성수기에는 조기 마감될 수 있으며, 경기전 입장료는 별도이다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/tour"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c23",
+  "field": "language",
+  "text": "언어 표시가 없는 해설은 모두 한국어로 진행된다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/tour"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c25",
+  "field": "caution",
+  "text": "폭염 등에 대비해 14시 태조 이성계 로드투어는 한옥마을 골목길 위주로 변경 운영된다고 공지되어 있어, 정확한 해설 일정은 예약 전 관광안내소(한옥마을 063-282-1330)에 문의해야 한다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/tour"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c26",
+  "field": "tip",
+  "text": "한옥마을 관광안내소(기린대로 99, 063-282-1330)와 경기전 여행자 라운지(전동성당길 110)에서 휠체어·유모차를 빌릴 수 있다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/amenities"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c27",
+  "field": "caution",
+  "text": "유모차 대여는 24개월 이하 대상으로 연령 확인 서류가 필요하고, 휠체어는 선착순에 신분증이 필요하며, 점심시간(12:00~13:00)에는 대여·반납이 안 되고 유모차는 우천 시 대여할 수 없다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/amenities"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c28",
+  "field": "tip",
+  "text": "물품보관소는 경기전 여행자 라운지(16개, 무료), 한옥마을 관광안내소(38개, 500원 동전 2개 후 반환), 한옥마을지원과 사무실 앞(14개, 100원), 전주 종합 관광안내소(기린대로 69, 500원)에 있다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/amenities"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c29",
+  "field": "caution",
+  "text": "물품보관소는 선착순이라 주말에는 일찍 동난다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/amenities"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c30",
+  "field": "tip",
+  "text": "전주 종합 관광안내소(기린대로 69, 063-282-1335) 등 관광안내소에서 한옥마을 안내를 받을 수 있다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/amenities"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c31",
+  "field": "tip",
+  "text": "공영자전거는 화~일요일 운영(월요일·명절 전일 및 당일 휴무)하고 1회 1,000원이며, 한옥마을 평화의 전당·오목대·향교 대여소에서 빌릴 수 있고 휴대폰 본인 인증으로 대여한다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/question"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c32",
+  "field": "tip",
+  "text": "전북투어패스 전주한옥마을권(경기전 관람권 포함)은 4,200원~8,000원이며 경기전관광안내소·오목대관광안내소·한옥마을관광안내소에서 판매한다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/map"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c33",
+  "field": "tip",
+  "text": "전주한옥마을역사관(최명희길 17-10, 063-286-5125)은 한옥마을의 형성과 변천을 보여 주며, 주말에는 학예사 해설을 11:00와 14:00에 운영한다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/facility"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c34",
+  "field": "caution",
+  "text": "한옥마을 지구 안은 금연구역으로 전역 확대되었다(2016년 시행 안내).",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/info"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c35",
+  "field": "hours",
+  "text": "공식 누리집 하단은 한옥마을 관광안내소(기린대로 99)의 방문 가능 시간을 '연중무휴 24시간 개방'으로 표기하고, 대표전화 063-282-1330 또는 카카오톡 '전주한옥마을' 채널로 문의할 수 있다고 안내한다(마을 전체가 아니라 안내소에 대한 표기).",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/parking"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c1",
+  "field": "location",
+  "text": "순천만습지 주소는 전남광주통합특별시 순천시 순천만길 513-25이며 전화는 061-749-6052이다(이전 표기: 전라남도 순천시).",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0006/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c2",
+  "field": "hours",
+  "text": "순천만습지 매표(입장)는 11~2월 08:00~17:00, 3~4월·9~10월 08:00~18:00, 5~8월 08:00~19:00이다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0001/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c3",
+  "field": "hours",
+  "text": "습지 관람 시간은 08:00부터 입장 마감으로부터 1시간 뒤까지이다. 가로등이 마감 시각에 꺼지므로 일몰 30분 뒤까지만 이동 가능하다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0001/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c4",
+  "field": "hours",
+  "text": "순천만국가정원의 운영 시간은 공식 사이트 데이터 기준 09:00~20:00(입장 마감 19:00)이며 이 데이터는 2025-10-01 갱신이라 계절에 따라 달라질 수 있다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/garden/time/json/weatherLoad.do"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c6",
+  "field": "fees",
+  "text": "순천만습지 개인 입장료는 성인 10,000원, 청소년·군인 7,000원, 어린이 5,000원이다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0002/0001/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c7",
+  "field": "fees",
+  "text": "단체(20인 이상)는 6,000/5,000/3,000원, 순천시민은 2,000/1,500원(어린이 무료)이다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0002/0001/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c8",
+  "field": "fees",
+  "text": "연령 구분은 성인 19~64세, 청소년·군인 13~18세, 어린이 7~12세이다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0002/0001/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c9",
+  "field": "fees",
+  "text": "입장권은 당일만 유효하며 국가정원 입장권으로 7km 떨어진 순천만습지까지 볼 수 있다. 습지 입장권으로 국가정원에 입장할 때는 입장권을 제시해야 한다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0002/0001/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c10",
+  "field": "fees",
+  "text": "6세 이하와 65세 이상, 등록 장애인, 국가유공자 등은 무료이며 증빙이 없으면 정상 요금이 부과된다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0002/0002/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c11",
+  "field": "fees",
+  "text": "순천시 관광지 통합입장권(1박 2일)은 개인 성인 12,000원, 청소년·군인 8,500원, 어린이 5,500원이다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0002/0001/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c12",
+  "field": "fees",
+  "text": "순천만국가정원 야간 요금은 성인 5,000원, 청소년·군인 3,500원, 어린이 2,500원이다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0002/0001/",
+   "https://scbay.suncheon.go.kr/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c13",
+  "field": "fees",
+  "text": "재입장은 1일 1회 가능하며 나갈 때 출구에서 도장을 받아야 한다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0002/0001/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c14",
+  "field": "parking",
+  "text": "순천만국가정원 주차장은 무료이고, 순천만습지 주차장은 이륜차 500원, 소형(승용 15인승 이하·화물 2.5톤 이하) 3,000원, 대형(승용 15인승 초과·화물 2.5톤 초과) 5,000원이다. 경차(1,000cc 미만)는 50% 경감된다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0002/0003/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c15",
+  "field": "access",
+  "text": "순천역·종합버스터미널에서 66번 시내버스로 순천만습지 정류장에 간다. 순천역 출발 약 35분, 터미널 출발 약 40분 걸린다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0006/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c16",
+  "field": "access",
+  "text": "승용차로 순천역에서 16분(8.6km), 시외버스터미널에서 15분(8.5km), 여수공항에서 23분(20.4km)이다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0006/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c17",
+  "field": "access",
+  "text": "66번 버스는 순천역·종합터미널에서 순천만까지 06:05~22:00 약 25분 간격으로 운행한다고 안내한다(터미널 출발 05:50~22:10 약 30회로도 안내되어 표기가 다름).",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0006/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c18",
+  "field": "caution",
+  "text": "지정된 길만 걸어야 하며(추락·뱀·벌 위험) 식물·생물 채집, 음식물 반입, 흡연, 음주가 금지된다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0011/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c19",
+  "field": "caution",
+  "text": "자전거, 반려동물, 드론, 전동 이동 장비는 출입할 수 없다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0011/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c20",
+  "field": "caution",
+  "text": "탐방로에 조명 시설이 없어 일몰 감상 후 귀가 시 사고에 주의해야 한다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0011/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c21",
+  "field": "tip",
+  "text": "매표소 앞에서 유모차(20개월 미만)와 휠체어를 대여할 수 있다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0011/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c22",
+  "field": "tip",
+  "text": "용산전망대에는 음료·간식을 파는 곳이 없어 순천만쉼터에서 미리 챙겨 오르는 것이 좋다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0003/"
+  ]
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "cid": "r1-b03-c1",
+  "field": "location",
+  "text": "서울관광 공식 사이트는 북촌한옥마을의 주소를 서울 종로구 계동길 37(우편번호 03059)로 표기한다.",
+  "sources": [
+   "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261"
+  ]
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "cid": "r1-b03-c3",
+  "field": "access",
+  "text": "가장 가까운 지하철은 3호선 안국역 3번 출구이며 거리는 516m로 표기된다.",
+  "sources": [
+   "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261"
+  ]
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "cid": "r1-b03-c4",
+  "field": "hours",
+  "text": "관광객 방문 가능 시간은 10:00~17:00이고, 17:00부터 다음 날 10:00까지는 제한구역 출입이 금지된다.",
+  "sources": [
+   "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261",
+   "https://news.seoul.go.kr/culture/archives/526017"
+  ]
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "cid": "r1-b03-c5",
+  "field": "closed_days",
+  "text": "서울관광 공식 사이트는 북촌한옥마을을 연 365일 개방하는 곳(휴무 없음)으로 표기한다.",
+  "sources": [
+   "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261"
+  ]
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "cid": "r1-b03-c6",
+  "field": "caution",
+  "text": "제한구역(레드존)은 북촌로11길 일대 약 34,000㎡이며, 제한시간(17:00~익일 10:00) 내 관광객 방문이 금지된다.",
+  "sources": [
+   "https://hanok.seoul.go.kr/front/kor/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000031&nttId=2482",
+   "https://english.seoul.go.kr/notice-on-restrictions-for-tourist-visits-to-bukchon-special-management-area-effective-from-november-2024/"
+  ]
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "cid": "r1-b03-c7",
+  "field": "caution",
+  "text": "레드존 제한시간 위반 시 과태료 10만원이 부과되며, 2024년 11월 1일~2025년 2월 28일은 계도기간이고 2025년 3월 1일부터 시행되었다.",
+  "sources": [
+   "https://hanok.seoul.go.kr/front/kor/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000031&nttId=2482",
+   "https://english.seoul.go.kr/notice-on-restrictions-for-tourist-visits-to-bukchon-special-management-area-effective-from-november-2024/"
+  ]
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "cid": "r1-b03-c8",
+  "field": "caution",
+  "text": "오렌지존과 옐로우존은 방문시간 제한은 없고 각각 집중 계도, 집중 모니터링 구역으로 운영된다.",
+  "sources": [
+   "https://english.seoul.go.kr/notice-on-restrictions-for-tourist-visits-to-bukchon-special-management-area-effective-from-november-2024/"
+  ]
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "cid": "r1-b03-c9",
+  "field": "caution",
+  "text": "북촌로·북촌로5길·창덕궁1길 약 2.3km 구간은 상시(주말·공휴일 포함) 전세버스 통행이 금지되며 2026년 1월 1일부터 시행, 과태료는 1차 30만원·2차 40만원·3차 50만원이다.",
+  "sources": [
+   "https://hanok.seoul.go.kr/front/kor/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000031&nttId=2482",
+   "https://english.seoul.go.kr/notice-on-restrictions-for-tourist-visits-to-bukchon-special-management-area-effective-from-november-2024/"
+  ]
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "cid": "r1-b03-c10",
+  "field": "caution",
+  "text": "종로구는 2024년 7월 1일 북촌 일대를 관광진흥법에 따른 특별관리지역으로 지정했고, 문의는 종로구 관광체육과 02-2148-1853이다.",
+  "sources": [
+   "https://stay.visitseoul.net/cms/notice/14178_/14178",
+   "https://hanok.seoul.go.kr/front/kor/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000031&nttId=2482"
+  ]
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "cid": "r1-b03-c11",
+  "field": "description",
+  "text": "서울관광 공식 소개에 따르면 북촌은 경복궁과 창덕궁 사이에 한옥이 늘어선 600년 서울 역사를 담은 마을이며, 관광용으로 만든 곳이 아니라 서울 시민이 사는 주거 마을이다.",
+  "sources": [
+   "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261"
+  ]
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "cid": "r1-b03-c12",
+  "field": "description",
+  "text": "북촌에서 옛 한옥 분위기를 느끼기 가장 좋은 곳으로 가회동이 소개되며, 수백 채의 한옥이 어깨를 맞대고 있고 한옥을 개조한 갤러리·공방·식당도 있다.",
+  "sources": [
+   "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261"
+  ]
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "cid": "r1-b03-c13",
+  "field": "tip",
+  "text": "북촌문화센터(계동길 37, 안국역 3번 출구 410m)는 입장 무료이며 화·목·금 09:00~18:00, 수 09:00~20:00, 토·일 09:00~17:00(일요일 강좌 없음)에 운영하고 월요일은 휴관한다.",
+  "sources": [
+   "https://english.visitseoul.net/area/Bukchon-Traditional-Culture-Center-k/ENP018916"
+  ]
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "cid": "r1-b03-c14",
+  "field": "language",
+  "text": "북촌문화센터는 외국인 대상 전통문화 프로그램을 운영하고 여러 언어로 된 북촌 지도를 제공한다고 서울시가 소개한다.",
+  "sources": [
+   "https://english.seoul.go.kr/bukchon-hanok-path-gahoe-dong/"
+  ]
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "cid": "r1-b03-c15",
+  "field": "fees",
+  "text": "북촌문화센터 입장은 무료이다.",
+  "sources": [
+   "https://english.visitseoul.net/area/Bukchon-Traditional-Culture-Center-k/ENP018916"
+  ]
+ },
+ {
+  "place": "kr-seoul-changdeokgung",
+  "name": "창덕궁",
+  "cid": "r1-b02-c1",
+  "field": "location",
+  "text": "창덕궁 주소는 서울 종로구 율곡로 99이고 우편번호는 03072이다.",
+  "sources": [
+   "https://www.cha.go.kr/html/HtmlPage.do?pg=/watch_info/palacesCdgDstWay.jsp&mn=NS_01_25",
+   "https://english.visitseoul.net/attractions/changdeokgung%20palace%20_/296"
+  ]
+ },
+ {
+  "place": "kr-seoul-changdeokgung",
+  "name": "창덕궁",
+  "cid": "r1-b02-c2",
+  "field": "access",
+  "text": "지하철 3호선 안국역 3번 출구에서 도보 5분이다.",
+  "sources": [
+   "https://www.cha.go.kr/html/HtmlPage.do?pg=/watch_info/palacesCdgDstWay.jsp&mn=NS_01_25"
+  ]
+ },
+ {
+  "place": "kr-seoul-changdeokgung",
+  "name": "창덕궁",
+  "cid": "r1-b02-c3",
+  "field": "access",
+  "text": "종로3가역(1·3·5호선) 6번 출구에서 도보 10분이다.",
+  "sources": [
+   "https://www.cha.go.kr/html/HtmlPage.do?pg=/watch_info/palacesCdgDstWay.jsp&mn=NS_01_25"
+  ]
+ },
+ {
+  "place": "kr-seoul-changdeokgung",
+  "name": "창덕궁",
+  "cid": "r1-b02-c4",
+  "field": "access",
+  "text": "버스는 간선 109·151·162·171·172·272·601, 지선 7025, 순환 90S투어·91S투어, 공항 6011, 마을 종로01·종로12가 안내된다.",
+  "sources": [
+   "https://www.cha.go.kr/html/HtmlPage.do?pg=/watch_info/palacesCdgDstWay.jsp&mn=NS_01_25"
+  ]
+ },
+ {
+  "place": "kr-seoul-changdeokgung",
+  "name": "창덕궁",
+  "cid": "r1-b02-c5",
+  "field": "hours",
+  "text": "궁궐전각 관람시간은 2~5월·9~10월 09:00~18:00(입장마감 17:00), 6~8월 09:00~18:30(입장마감 17:30), 11~1월 09:00~17:30(입장마감 16:30)이다.",
+  "sources": [
+   "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide1.jsp&mn=NS_01_25",
+   "https://english.visitseoul.net/attractions/changdeokgung%20palace%20_/296"
+  ]
+ },
+ {
+  "place": "kr-seoul-changdeokgung",
+  "name": "창덕궁",
+  "cid": "r1-b02-c6",
+  "field": "closed_days",
+  "text": "정기 휴관일은 매주 월요일이다. 월요일이 공휴일이면 개방하고, 그 공휴일 다음의 첫 비공휴일이 휴관일이다.",
+  "sources": [
+   "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide1.jsp&mn=NS_01_25",
+   "https://english.visitseoul.net/area/2024-cdggarden/ENPl8f5md"
+  ]
+ }
+]

@@ -1,0 +1,611 @@
+[
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c3",
+  "field": "hours",
+  "text": "동절기(11~2월)는 06:00~18:00이고 매표는 06:00~17:00에 한다.",
+  "sources": [
+   "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c4",
+  "field": "hours",
+  "text": "춘·추절기(3~4월, 9~10월)는 05:00~19:00이고 매표는 05:00~18:00에 한다.",
+  "sources": [
+   "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c5",
+  "field": "hours",
+  "text": "하절기(5~8월)는 04:30~20:00이고 매표는 04:30~19:00에 한다.",
+  "sources": [
+   "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c6",
+  "field": "hours",
+  "text": "필요한 경우 관람시간을 따로 정할 수 있다고 공식 페이지에 적혀 있다.",
+  "sources": [
+   "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c7",
+  "field": "closed_days",
+  "text": "매달 첫 번째 월요일이 정기 휴무이며, 그날이 공휴일이면 다음 날 쉰다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+   "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c8",
+  "field": "fees",
+  "text": "개인 요금은 어른(25~64세) 5,000원, 청소년·군인(13~24세) 2,500원, 어린이(7~12세) 2,500원이다.",
+  "sources": [
+   "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c9",
+  "field": "fees",
+  "text": "단체(10인 이상) 요금은 어른 4,000원, 청소년·군인 2,000원, 어린이 2,000원이다.",
+  "sources": [
+   "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c10",
+  "field": "fees",
+  "text": "정상으로 오르는 구간은 유료이고, 우뭇개해안 등 주변을 둘러보는 구간은 무료 탐방구간이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c11",
+  "field": "duration",
+  "text": "유료 구간으로 정상까지 오르는 데 보통 약 30~40분이 걸린다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c12",
+  "field": "access",
+  "text": "버스는 제주공항에서 약 70분, 중문에서 약 68분, 서귀포에서 약 57분이며 1132번 지방도를 거쳐 '성산'에서 내려 걸어간다고 안내한다.",
+  "sources": [
+   "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c13",
+  "field": "parking",
+  "text": "세계유산본부 요금표 각주에 '단체는 10인 이상, 주차료 무료'라고 적혀 있어 주차료는 무료로 안내된다(단체에만 해당하는지는 문구상 분명하지 않다).",
+  "sources": [
+   "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c14",
+  "field": "caution",
+  "text": "음식물 반입이 금지되어 있다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c15",
+  "field": "tip",
+  "text": "관람 준비물은 운동화 등 간편복장이다.",
+  "sources": [
+   "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c16",
+  "field": "tip",
+  "text": "문의 전화는 064-783-0959(비짓제주 연락처) 또는 064-710-7923(세계유산본부 페이지 문의)이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+   "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c17",
+  "field": "description",
+  "text": "마그마가 얕은 바다에서 분출하는 수성 화산활동으로 만들어진 응회구이며, 본래 화산섬이었다가 모래와 자갈이 쌓여 육지와 연결되었다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c18",
+  "field": "description",
+  "text": "정상 분화구는 지름 약 600m, 면적 214,400㎡이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c19",
+  "field": "description",
+  "text": "2000년 7월 18일 천연기념물 제420호로 지정되었고, 2007년 유네스코 세계자연유산(제주 화산섬과 용암 동굴)의 구성 유산으로 등재되었다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c20",
+  "field": "highlight",
+  "text": "정상에서 우도와 성산 일대의 마을·바다를 내려다볼 수 있고, 일출은 영주십경의 하나인 '성산일출'이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c21",
+  "field": "highlight",
+  "text": "성산일출봉과 제주 본섬 사이 터진목 일대는 제주4·3의 역사를 간직한 곳이며 일제강점기 군사시설 흔적도 남아 있다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349"
+  ]
+ },
+ {
+  "place": "kr-jeju-seopjikoji",
+  "name": "섭지코지",
+  "cid": "r1-b05-c1",
+  "field": "location",
+  "text": "섭지코지의 도로명 주소는 제주특별자치도 서귀포시 성산읍 섭지코지로 262이다(지번상 성산읍 고성리).",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+  ]
+ },
+ {
+  "place": "kr-jeju-seopjikoji",
+  "name": "섭지코지",
+  "cid": "r1-b05-c3",
+  "field": "closed_days",
+  "text": "운영 안내에 '연중무휴'로 표기되어 있다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+  ]
+ },
+ {
+  "place": "kr-jeju-seopjikoji",
+  "name": "섭지코지",
+  "cid": "r1-b05-c4",
+  "field": "parking",
+  "text": "섭지코지주차장은 일반 소형 기준 최초 30분까지 1,000원, 이후 15분마다 500원, 1일 최대 3,000원이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+  ]
+ },
+ {
+  "place": "kr-jeju-seopjikoji",
+  "name": "섭지코지",
+  "cid": "r1-b05-c5",
+  "field": "parking",
+  "text": "휘닉스 아일랜드 주차장은 일반 소형 기준 1일 5,000원이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+  ]
+ },
+ {
+  "place": "kr-jeju-seopjikoji",
+  "name": "섭지코지",
+  "cid": "r1-b05-c6",
+  "field": "tip",
+  "text": "문의 전화는 064-784-2810이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+  ]
+ },
+ {
+  "place": "kr-jeju-seopjikoji",
+  "name": "섭지코지",
+  "cid": "r1-b05-c7",
+  "field": "description",
+  "text": "제주 동부 해안에서 바다 쪽으로 길게 뻗은 곶으로 성산일출봉을 배경으로 한 해안 풍경이 아름답다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+  ]
+ },
+ {
+  "place": "kr-jeju-seopjikoji",
+  "name": "섭지코지",
+  "cid": "r1-b05-c8",
+  "field": "description",
+  "text": "신양해변의 백사장, 봄철 유채꽃, 넓은 초원, 해안절벽, 선돌바위가 어우러진 경관을 보여준다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+  ]
+ },
+ {
+  "place": "kr-jeju-seopjikoji",
+  "name": "섭지코지",
+  "cid": "r1-b05-c9",
+  "field": "highlight",
+  "text": "붉은오름 일대에는 제주어로 송이라 부르는 붉은 화산쇄설물이 드러나 해안 기암괴석과 함께 독특한 화산 해안 경관을 이룬다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+  ]
+ },
+ {
+  "place": "kr-jeju-seopjikoji",
+  "name": "섭지코지",
+  "cid": "r1-b05-c10",
+  "field": "highlight",
+  "text": "초원의 협자연대는 조선시대 봉수 시설로 높이 약 4m, 한 변 약 9m의 석조 연대이며 제주특별자치도 기념물로 지정되어 있다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+  ]
+ },
+ {
+  "place": "kr-jeju-seopjikoji",
+  "name": "섭지코지",
+  "cid": "r1-b05-c11",
+  "field": "highlight",
+  "text": "선돌바위에는 용왕의 막내아들과 선녀에 관한 전설이 전해진다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c1",
+  "field": "location",
+  "text": "비짓제주 기준 주소는 제주특별자치도 제주시 우도면 우도로 153이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c2",
+  "field": "access",
+  "text": "성산항과 종달항에서 우도행 배를 탈 수 있고 항로에 따라 약 10~15분 걸린다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c3",
+  "field": "duration",
+  "text": "섬은 길이 약 3.8km, 둘레 약 17km이고 쉬지 않고 걸으면 약 3~4시간 걸린다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c4",
+  "field": "duration",
+  "text": "주요 관광지 1~2곳을 보고 카페·식당에서 쉬면 대략 3~4시간이 든다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c5",
+  "field": "hours",
+  "text": "이용 시간은 선박 운항 시간에 따르며 계절·기상·항로에 따라 바뀌고, 당일 운항 여부와 마지막 출항 시간을 확인해야 한다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c6",
+  "field": "fees",
+  "text": "우도해양도립공원 입장료는 어른 1,000원, 청소년·군인 800원, 어린이 500원이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c7",
+  "field": "fees",
+  "text": "장애인 등 조례상 면제 대상은 무료이고, 선박료는 입장료와 별도다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c8",
+  "field": "caution",
+  "text": "선박 운항은 기상과 해상 상황에 따라 달라질 수 있어 방문 당일 운항정보를 확인해야 한다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c9",
+  "field": "caution",
+  "text": "2026년 8월 1일부터 2029년 7월 31일까지 우도면 내 외부 차량 운행 제한이 연장된다. 16인승 전세버스, 제1종 저공해 렌터카, 교통약자용·우도 숙박객용 렌터카 등은 조건에 따라 운행할 수 있다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c10",
+  "field": "caution",
+  "text": "대여 이륜차·원동기장치자전거·개인형 이동장치는 차종, 최고속도, 동력원, 책임보험 가입 여부에 따라 제한 대상이 달라 반입 전 최신 안내 확인이 필요하다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c11",
+  "field": "language",
+  "text": "문화관광해설사 해설이 연중무휴로 운영된다. 예약은 064-728-4329 또는 현장 접수, 해설은 10:00~18:00(점심 12:00~13:00 제외), 1회 60분이다. 해설 언어는 안내에 없다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c12",
+  "field": "tip",
+  "text": "문의 전화는 우도해양도립공원 064-728-1527이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c13",
+  "field": "description",
+  "text": "소가 누워 있는 모습을 닮아 소섬 또는 쉐섬으로 불렸으며, 제주의 가장 큰 부속섬이다. 2024년 방문객은 약 121만 8,000명이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c14",
+  "field": "highlight",
+  "text": "제주 우도 홍조단괴 해빈(서빈백사)의 하얀 알갱이는 산호가 아니라 홍조류가 굳은 홍조단괴이며, 천연기념물로 보호된다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+   "https://www.jeju.go.kr/dorip/udo.htm"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c15",
+  "field": "highlight",
+  "text": "검멀레해변, 우도봉, 하고수동해변이 주요 관광지이며 우도봉에 오르면 우도 전경을 볼 수 있다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c16",
+  "field": "highlight",
+  "text": "자전거 하이킹과 허용된 전기 이동수단으로 섬을 돌아보는 관광객이 많다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c1",
+  "field": "location",
+  "text": "한옥마을 현황 안내에 따르면 위치는 전주시 완산구 풍남동·교동 일대이다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/info"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c2",
+  "field": "location",
+  "text": "한옥마을 면적은 298,260㎡로 안내되어 있다(통계 연도는 페이지에 표기되지 않음).",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/info"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c3",
+  "field": "description",
+  "text": "전주시는 한옥마을을 풍남동 일대에 700여 채의 한옥이 군락을 이룬 국내 최대 규모의 전통 한옥촌이자 전국 유일의 도심 한옥군이라고 소개한다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/info"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c4",
+  "field": "description",
+  "text": "마을에는 경기전·오목대·향교 등 중요 문화재와 20여 개의 문화시설이 흩어져 있다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/info"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c5",
+  "field": "parking",
+  "text": "한옥마을 제1·2·3공영주차장과 노상주차장은 유료이며 기본 30분 1,200원, 추가 15분마다 600원, 1일 최대 14,400원이다(제1주차장 293면 기린대로 99, 제2주차장 176면 어진길 30-10, 제3주차장 72면 간납로 20).",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/parking"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c6",
+  "field": "parking",
+  "text": "제1~3공영주차장은 24시간 연중무휴로 운영되고, 노상주차장은 하절기 10:00~19:00, 동절기 09:00~18:00에 운영된다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/parking"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c7",
+  "field": "parking",
+  "text": "제4공영주차장(구 대성주차장, 636면)은 무료이다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/parking"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c8",
+  "field": "parking",
+  "text": "제1~3공영주차장 문의는 전주시설관리공단 063-239-2767, 제4공영주차장 문의는 063-232-0788이다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/parking"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c9",
+  "field": "access",
+  "text": "무료 셔틀버스는 한옥마을 제4공영주차장(구 대성주차장)에서 자만 벽화마을을 거쳐 태조로 승강장(한옥마을 누리집 표기: 오목대 셔틀버스 승강장, 2.5km)을 오가며 운행한다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/parking",
+   "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106011000000"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c10",
+  "field": "access",
+  "text": "셔틀버스는 연중무휴로 운행하며 평일에는 1대, 주말·공휴일에는 최대 4대를 운행한다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/parking",
+   "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106011000000"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c11",
+  "field": "hours",
+  "text": "셔틀버스 운행 시간은 10:00~18:30(막차)이며, 평일 시간표는 제4공영주차장 출발 기준 10:20·10:50·11:20·11:50·13:00부터 30분 간격으로 18:30까지이고, 주말·공휴일은 10:00~18:30 수시 운행이다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/parking",
+   "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106011000000"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c12",
+  "field": "fees",
+  "text": "한옥마을 셔틀버스는 무료이다.",
+  "sources": [
+   "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106011000000"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c13",
+  "field": "access",
+  "text": "관광버스(15·25인승 포함) 이용객은 되도록 한옥마을 기린대로변 관광버스 승·하차장에서 내리도록 안내된다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/parking"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c14",
+  "field": "access",
+  "text": "전주역에서는 112, 79, 508, 536, 542, 545, 546, 101, 119, 999번 버스를 타고 전동성당(한옥마을) 앞에서 내리며 약 25분 걸린다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/map"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c15",
+  "field": "access",
+  "text": "고속버스터미널에서는 79, 999, 1994번 버스로 전동성당(한옥마을) 앞까지 약 15분이며, 택시는 약 5~6천원으로 안내된다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/map"
+  ]
+ }
+]

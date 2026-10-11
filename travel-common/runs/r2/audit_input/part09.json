@@ -1,0 +1,606 @@
+[
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c1",
+  "field": "location",
+  "text": "도다이지의 주소는 〒630-8587 나라시 조시초(雑司町) 406-1이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c2",
+  "field": "access",
+  "text": "긴테쓰 나라역에서 노보리오지초(登大路町)를 따라 동쪽으로 걸어 약 20분 걸린다.",
+  "sources": [
+   "https://www.todaiji.or.jp/access/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c3",
+  "field": "access",
+  "text": "JR나라역·긴테쓰 나라역에서 시내 순환버스를 타고 '도다이지 대불전·가스가타이샤마에'에서 내리면 도보 5분이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/access/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c4",
+  "field": "access",
+  "text": "긴테쓰 나라역에서 '구루룻토 버스'(오미야도리 루트·나라공원 루트)를 타고 '대불전 앞 주차장'에서 내리면 바로 앞이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/access/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c5",
+  "field": "access",
+  "text": "택시 하차 장소는 대불전 서쪽 사시즈도(指図堂) 앞이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/faq/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c6",
+  "field": "parking",
+  "text": "경내에는 전용 주차장이 없어 근처 주차장을 이용해야 한다.",
+  "sources": [
+   "https://www.todaiji.or.jp/access/",
+   "https://www.todaiji.or.jp/faq/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c7",
+  "field": "parking",
+  "text": "근처 유료 주차장으로 GS파크 도다이지 니시다이몬 주차장(나라시 오시아게초 6-1)이 안내되어 있다.",
+  "sources": [
+   "https://www.todaiji.or.jp/access/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c8",
+  "field": "parking",
+  "text": "봄·가을 관광 시즌의 토·일·공휴일에는 나라현이 관광 무료 주차장을 열며, 거기서 구루룻토 버스(운임 100엔)를 이용하면 편하다.",
+  "sources": [
+   "https://www.todaiji.or.jp/access/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c9",
+  "field": "parking",
+  "text": "오토바이·자전거는 남대문(南大門) 남서쪽 주륜장에 세우고 걸어서 참배해야 하며, 남대문과 대불전을 잇는 참배길에는 진입할 수 없다.",
+  "sources": [
+   "https://www.todaiji.or.jp/access/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c10",
+  "field": "hours",
+  "text": "대불전 참배 시간은 4~10월 7:30~17:30이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c11",
+  "field": "hours",
+  "text": "대불전 참배 시간은 11~3월 8:00~17:00이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c12",
+  "field": "hours",
+  "text": "홋케도(法華堂, 산가쓰도)와 가이단인 가이단도(戒壇院戒壇堂)는 8:30~16:00이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c13",
+  "field": "hours",
+  "text": "도다이지 뮤지엄은 4~10월 9:30~17:30(최종 입관 17:00)이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c14",
+  "field": "hours",
+  "text": "도다이지 뮤지엄은 11~3월 9:30~17:00(최종 입관 16:30)이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c15",
+  "field": "closed_days",
+  "text": "특별한 행사나 긴급 사태가 없으면 쉬는 날 없이 운영한다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c16",
+  "field": "fees",
+  "text": "대불전·홋케도·가이단도·도다이지 뮤지엄은 각각 입당료를 받는다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c17",
+  "field": "fees",
+  "text": "개인 입당료는 대학생 이상 성인 800엔이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c18",
+  "field": "fees",
+  "text": "개인 입당료는 고등학생·중학생 모두 800엔이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c19",
+  "field": "fees",
+  "text": "개인 입당료는 초등학생 400엔이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c20",
+  "field": "fees",
+  "text": "30명 이상 단체 요금은 성인 700엔, 고등학생 500엔, 중학생 400엔, 초등학생 200엔이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c21",
+  "field": "fees",
+  "text": "대불전·도다이지 뮤지엄 세트권은 중학생 이상 1,200엔, 초등학생 600엔이며 대불전 또는 뮤지엄에서 살 수 있다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c22",
+  "field": "fees",
+  "text": "장애인 수첩 소지자의 개인 요금은 대학생 이상·고등학생·중학생 400엔, 초등학생 200엔이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c23",
+  "field": "fees",
+  "text": "나라시의 로순수첩(老春手帳)·나나마루 카드 소지자는 본인에 한해 무료이며, 창구에서 수첩 또는 카드를 제시해야 한다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c24",
+  "field": "reservation",
+  "text": "참배에 예약은 필요 없으며, 수학여행·소풍 등 단체도 사전 예약이 필요 없고 당일 매표소에서 인원을 말하면 된다.",
+  "sources": [
+   "https://www.todaiji.or.jp/faq/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c25",
+  "field": "payment",
+  "text": "입당권 구입은 현금만 가능하며 여행사 쿠폰과 신용카드는 쓸 수 없다.",
+  "sources": [
+   "https://www.todaiji.or.jp/faq/",
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c26",
+  "field": "language",
+  "text": "오디오 가이드는 한국어를 포함해 일본어(어른·어린이), 영어, 중국어, 프랑스어, 독일어, 스페인어, 이탈리아어, 베트남어로 제공되며 대여료는 1인 500엔이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c27",
+  "field": "language",
+  "text": "오디오 가이드는 대불전 개찰구에서 15m 앞(중문 앞)에서 빌리며, 접수는 4~10월 10:00~17:00, 11~3월 10:00~16:30이고 악천후에는 대여가 중단될 수 있다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c28",
+  "field": "reservation",
+  "text": "오디오 가이드는 개인 예약이 필요 없고 10명 이상 단체만 예약해야 한다. 내용은 도다이지 역사와 건물·불상 해설이며 녹음 시간은 30분이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c29",
+  "field": "language",
+  "text": "도다이지 공식 사이트에는 한국어 페이지(참배 시간·입장료)가 있다.",
+  "sources": [
+   "https://www.todaiji.or.jp/ko/information/haikan/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c30",
+  "field": "caution",
+  "text": "당 안에서는 스케치와 손전등 사용을 삼가야 하고, 단체 집합 사진 촬영과 삼각대 사용도 삼가달라고 요청한다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/daibutsuden/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c31",
+  "field": "caution",
+  "text": "반려동물은 대불전에 한해 케이지에 넣거나 안은 경우에만 입장할 수 있고, 다른 건물은 동반 입장이 안 된다.",
+  "sources": [
+   "https://www.todaiji.or.jp/faq/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c32",
+  "field": "caution",
+  "text": "경내는 전면 금연이며 드론 비행은 경내 전역에서 금지된다.",
+  "sources": [
+   "https://www.todaiji.or.jp/faq/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c33",
+  "field": "tip",
+  "text": "코인로커는 도다이지 뮤지엄 매표소 뒤에 있다.",
+  "sources": [
+   "https://www.todaiji.or.jp/faq/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c34",
+  "field": "tip",
+  "text": "휠체어는 예약 없이 당일 대불전 입구 매표소 또는 경비 초소에서 빌릴 수 있으나 수량이 한정되어 있다.",
+  "sources": [
+   "https://www.todaiji.or.jp/faq/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c35",
+  "field": "description",
+  "text": "대불전은 도다이지의 금당이며 국보로, 현재 건물은 에도시대에 승려 고케이(公慶)가 재건했다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/daibutsuden/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c36",
+  "field": "description",
+  "text": "대불전의 규모는 동서 57.012m, 남북 50.480m, 높이 48.742m이며 세계 최대급 목조 건축물로 소개된다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/daibutsuden/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c37",
+  "field": "description",
+  "text": "대불(노사나불)의 상 높이는 14.98m이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/daibutsuden/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c38",
+  "field": "description",
+  "text": "에도시대 재건 대불전은 천평·가마쿠라 시대보다 폭이 11칸에서 7칸으로 줄었지만 높이와 안길이는 창건 당시와 같다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/daibutsuden/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c39",
+  "field": "highlight",
+  "text": "대불전 앞에는 도다이지 창건 당시의 것으로 병화를 면한 국보 팔각등롱이 있으며, 화창(火袋)의 음성보살 부조가 뛰어나다고 소개된다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/daibutsuden/"
+  ]
+ },
+ {
+  "place": "cn-shanghai-kpg-provisional-gov",
+  "name": "대한민국 임시정부 상하이 청사 유적",
+  "cid": "r1-b27-c1",
+  "field": "location",
+  "text": "주소는 상하이시 황푸구 마당로 306농 4호이다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/museum/office-of-the-former-site-of-the-provisional-government-of-the-republic-of-korea-444634/",
+   "https://whlyj.sh.gov.cn/gqfc/20250122/24f045609b9447d6b93a9741b59620c9.html"
+  ]
+ },
+ {
+  "place": "cn-shanghai-kpg-provisional-gov",
+  "name": "대한민국 임시정부 상하이 청사 유적",
+  "cid": "r1-b27-c2",
+  "field": "hours",
+  "text": "개방 시간은 09:00-11:30(11:00 발권 종료)과 13:30-17:00(16:30 발권 종료)이다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/museum/office-of-the-former-site-of-the-provisional-government-of-the-republic-of-korea-444634/",
+   "https://www.meet-in-shanghai.net/jpn/museums/former-provisional-government-of-the-republic-of-korea-site-management-office-382796/"
+  ]
+ },
+ {
+  "place": "cn-shanghai-kpg-provisional-gov",
+  "name": "대한민국 임시정부 상하이 청사 유적",
+  "cid": "r1-b27-c3",
+  "field": "description",
+  "text": "대한민국 임시정부는 1919년 상하이에서 수립되었고, 1926~1932년 이 유적 건물에서 업무를 보았다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/gqfc/20250122/24f045609b9447d6b93a9741b59620c9.html"
+  ]
+ },
+ {
+  "place": "cn-shanghai-kpg-provisional-gov",
+  "name": "대한민국 임시정부 상하이 청사 유적",
+  "cid": "r1-b27-c4",
+  "field": "highlight",
+  "text": "상하이 시기 임시정부 사무 기간이 가장 길었고 가장 온전히 보존된 청사로 소개된다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/gqfc/20250122/24f045609b9447d6b93a9741b59620c9.html"
+  ]
+ },
+ {
+  "place": "cn-shanghai-kpg-provisional-gov",
+  "name": "대한민국 임시정부 상하이 청사 유적",
+  "cid": "r1-b27-c5",
+  "field": "highlight",
+  "text": "상하이에 도착한 한국인 여행객이 꼭 가 보는 '정신적 명소'로 소개된다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/gqfc/20250122/24f045609b9447d6b93a9741b59620c9.html"
+  ]
+ },
+ {
+  "place": "cn-shanghai-kpg-provisional-gov",
+  "name": "대한민국 임시정부 상하이 청사 유적",
+  "cid": "r1-b27-c6",
+  "field": "caution",
+  "text": "1919년 4월 임시정부가 처음 수립된 '탄생지 구지'는 2016년 황푸구 구급 문화재 보호점으로 지정되었으며 일반에 개방하지 않는다(청사 유적과 별개 장소).",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/district-level-cultural-relics-protection-point/site-of-the-birthplace-of-the-provisional-government-of-the-republic-of-korea-786630/"
+  ]
+ },
+ {
+  "place": "cn-shanghai-oriental-pearl",
+  "name": "동방명주 타워",
+  "cid": "r1-b27-c1",
+  "field": "location",
+  "text": "동방명주 라디오·TV탑은 상하이 푸둥신구에 있다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/"
+  ]
+ },
+ {
+  "place": "cn-shanghai-oriental-pearl",
+  "name": "동방명주 타워",
+  "cid": "r1-b27-c2",
+  "field": "hours",
+  "text": "운영 시간은 매일 8:00-22:00이고 최종 입장 시각은 21:00이다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/"
+  ]
+ },
+ {
+  "place": "cn-shanghai-oriental-pearl",
+  "name": "동방명주 타워",
+  "cid": "r1-b27-c3",
+  "field": "closed_days",
+  "text": "운영 시간이 '매일'로 표기되어 있어 정기 휴관일은 안내되지 않는다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/"
+  ]
+ },
+ {
+  "place": "cn-shanghai-oriental-pearl",
+  "name": "동방명주 타워",
+  "cid": "r1-b27-c4",
+  "field": "description",
+  "text": "관광·식음·쇼핑·문화오락을 함께 갖춘 다기능 탑이며 국가 5A급 관광지이다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/"
+  ]
+ },
+ {
+  "place": "cn-shanghai-oriental-pearl",
+  "name": "동방명주 타워",
+  "cid": "r1-b27-c5",
+  "field": "highlight",
+  "text": "1995년 개장한 높이 468m의 탑으로, 개장 이후 1억 명 넘는 관람객이 다녀갔다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/"
+  ]
+ },
+ {
+  "place": "cn-shanghai-oriental-pearl",
+  "name": "동방명주 타워",
+  "cid": "r1-b27-c6",
+  "field": "highlight",
+  "text": "구체가 어우러진 탑 디자인은 '大珠小珠落玉盘'(큰 구슬 작은 구슬이 옥쟁반에 떨어진다)의 정취에서 영감을 얻었다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-oriental-pearl-radio-and-television-tower-946003/"
+  ]
+ },
+ {
+  "place": "cn-shanghai-oriental-pearl",
+  "name": "동방명주 타워",
+  "cid": "r1-b27-c7",
+  "field": "highlight",
+  "text": "2024년 9월 29일 개장 30주년을 맞아 1억 번째 관람객을 맞았다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/gqfc/20241025/f1e8ed9b284b42a9a5127591b28c15dc.html"
+  ]
+ },
+ {
+  "place": "cn-shanghai-oriental-pearl",
+  "name": "동방명주 타워",
+  "cid": "r1-b27-c8",
+  "field": "highlight",
+  "text": "2024년 10월 개장 30주년을 맞아 동방명주 도시광장에서 직경 20m 대형 회전 장치 '拾光@东方明珠'를 중심으로 한 빛·물 몰입형 체험 프로젝트가 2024년 10월 18일~11월 18일 한시로 운영되었다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/gqfc/20241025/f1e8ed9b284b42a9a5127591b28c15dc.html"
+  ]
+ },
+ {
+  "place": "cn-shanghai-oriental-pearl",
+  "name": "동방명주 타워",
+  "cid": "r1-b27-c9",
+  "field": "fees",
+  "text": "2025년 9월 상하이시 문화관광국 목록 기준 [2구 관광+동방명주 유람선] 연계표의 성인 정가는 279위안이다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html"
+  ]
+ },
+ {
+  "place": "cn-shanghai-oriental-pearl",
+  "name": "동방명주 타워",
+  "cid": "r1-b27-c10",
+  "field": "fees",
+  "text": "같은 목록 기준 [2구 관광+장난감박물관] 연계표의 성인 정가는 258위안이다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html"
+  ]
+ },
+ {
+  "place": "cn-shanghai-oriental-pearl",
+  "name": "동방명주 타워",
+  "cid": "r1-b27-c11",
+  "field": "fees",
+  "text": "2025년 9월 상하이시 문화관광국 목록 기준 동방명주 유람선 성인표(1등석) 정가는 130위안이었으며, 2025년 9월 13~19일 상하이 관광절 기간에 한해 낮 운항편(18:00 이전)에 반값 할인이 적용되었다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html"
+  ]
+ },
+ {
+  "place": "cn-shanghai-oriental-pearl",
+  "name": "동방명주 타워",
+  "cid": "r1-b27-c12",
+  "field": "reservation",
+  "text": "어린이표 구매 방법과 유람선 어린이 무료 규정은 위챗 공식 서비스 계정 [东方明珠]의 상품 상세 페이지에서 확인하도록 안내된다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html"
+  ]
+ },
+ {
+  "place": "cn-shanghai-oriental-pearl",
+  "name": "동방명주 타워",
+  "cid": "r1-b27-c13",
+  "field": "tip",
+  "text": "관광객 문의 전화는 58792888(상하이 시내번호)이다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html"
+  ]
+ },
+ {
+  "place": "east-qd-01",
+  "name": "잔교",
+  "cid": "r1-b24-c1",
+  "field": "location",
+  "text": "잔교는 칭다오시 시난구 중산로 남단에 있다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-01",
+  "name": "잔교",
+  "cid": "r1-b24-c2",
+  "field": "description",
+  "text": "잔교는 칭다오를 대표하는 상징 건축물이다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml"
+  ]
+ }
+]

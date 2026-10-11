@@ -1,0 +1,608 @@
+[
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c13",
+  "field": "language",
+  "text": "관광통역안내전화 1330은 한국어·영어·일본어·중국어를 지원한다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c14",
+  "field": "caution",
+  "text": "차이나타운은 반려견 동반이 가능하지만 목줄 착용과 배설물 처리용 봉투를 갖춘 이용객에 한해 허용된다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c15",
+  "field": "tip",
+  "text": "개항장 거리는 출입구까지 턱이 없어 휠체어 접근이 가능한 무장애 관광지로 등록되어 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c16",
+  "field": "description",
+  "text": "차이나타운은 1883년 인천항 개항 후 1884년 이 지역이 청의 치외법권 지역으로 지정되면서 생겨났고, 화교의 한국 정착 역사를 담고 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c17",
+  "field": "description",
+  "text": "패루를 지나 경사진 길을 300m 걸으면 길이 T자형으로 나뉘며, 치파오를 입은 화교 상인, 홍등, 최근 복원된 중국식 근대건축물이 보인다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c18",
+  "field": "highlight",
+  "text": "지금 거리는 대부분 중국 음식점이며 짜장면, 공갈빵, 월병이 대표 먹거리다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c19",
+  "field": "highlight",
+  "text": "개항누리길에서는 청·일 조계지 경계계단과 당시 지은 서양식 건축물, 인천개항박물관, 인천아트플랫폼, 차이나타운, 짜장면박물관 등을 만날 수 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c1",
+  "field": "location",
+  "text": "월미문화의거리의 공식 관광 포털 주소는 인천광역시 제물포구 월미로 252(북성동1가)이다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c2",
+  "field": "location",
+  "text": "인천시는 2026년 7월 1일부터 기존 중구 내륙과 동구를 제물포구로 통합했다고 안내한다. 현재 표기는 제물포구, 이전 표기는 중구다.",
+  "sources": [
+   "https://www.incheon.go.kr/IC010601/2187729"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c3",
+  "field": "access",
+  "text": "인천역(차이나타운)에서 2번 버스를 타고 월미도(시티투어) 정거장에서 내리는 대중교통 안내가 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c4",
+  "field": "hours",
+  "text": "이용 시간은 09:00~18:00으로 등록되어 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c5",
+  "field": "closed_days",
+  "text": "휴무일은 연중무휴로 등록되어 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c6",
+  "field": "closed_days",
+  "text": "거리 안 월미 달빛음악분수는 5월 1일부터 10월 31일까지 운영하고 매주 월요일은 정기 점검을 한다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c7",
+  "field": "parking",
+  "text": "월미문화의거리 항목의 주차 안내는 불가능으로 등록되어 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c8",
+  "field": "parking",
+  "text": "같은 페이지의 무장애 정보에는 월미도 제2공영주차장에 장애인 주차 3대가 있다고 적혀 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c9",
+  "field": "caution",
+  "text": "월미도 문화의 거리는 보행자 전용 도로로, 차량 출입 시간을 제외하고는 차량 출입이 통제된다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c10",
+  "field": "tip",
+  "text": "음악분수는 저녁에 음악에 맞춰 6~7가지 빛의 쇼가 펼쳐져 낮보다 밤에 보는 편이 더 멋지다고 소개된다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c11",
+  "field": "tip",
+  "text": "출입구까지 턱이 없어 휠체어 접근이 가능하고, 인근 월미전통공원 안내소에서 휠체어를 빌릴 수 있으며 장애인 화장실이 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c12",
+  "field": "caution",
+  "text": "보조견 동반이 가능하다고 안내되어 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c13",
+  "field": "description",
+  "text": "길거리 화가들이 초상화를 그려 주고 앉아 쉴 벤치가 있는 작은 쉼터 같은 거리다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c14",
+  "field": "highlight",
+  "text": "월미공원 월미 전망대에서는 인천항 일대 전경을 볼 수 있고, 월미테마파크에는 다양한 놀이기구가 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c15",
+  "field": "language",
+  "text": "관광통역안내전화 1330과 인천종합관광안내소 032-832-3031이 안내되어 있다. itour 사이트는 영어·일본어·중국어 버전도 제공한다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c1",
+  "field": "location",
+  "text": "한라산국립공원관리소 소재지 및 비짓제주 표기 주소는 제주특별자치도 제주시 1100로 2070-61이다. 탐방로는 어리목·영실·성판악·관음사·돈내코·어승생악·석굴암 7곳이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500685",
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=61"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c3",
+  "field": "access",
+  "text": "성판악 탐방로 대중교통은 281번(제주버스터미널~서귀포버스터미널, 06:00~22:00, 약 45~50분)과 181·182번(공항 연결)이 경유한다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=61"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c4",
+  "field": "access",
+  "text": "관음사 탐방로는 475번 버스(첫차 06:20, 막차 19:45, 배차 45~90분)를 이용하며 공항·터미널 직행이 없어 산천단 하차 후 475번으로 환승해야 한다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=62"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c5",
+  "field": "parking",
+  "text": "성판악 주차장은 최대 156대이며, 대체 주차장으로 5.16도로변(제주국제대학교 인근) 환승 주차장(199대, 무료)이 있다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=61"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c6",
+  "field": "parking",
+  "text": "관음사 주차장은 최대 192대 주차할 수 있다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=62"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c7",
+  "field": "fees",
+  "text": "입장료는 없고 주차 및 시설사용료만 부과된다.",
+  "sources": [
+   "https://jeju.go.kr/hallasan/notice/faq.htm"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c8",
+  "field": "fees",
+  "text": "소형차 주차료는 당일 최초 1시간 1,000원, 1시간 초과 20분당 500원 가산, 1일 최대 13,000원(9시간 이상)이며 최초 30분은 무료이다. 중·대형은 2,000원, 20분당 800원, 1일 최대 20,000원이다. 탐방로별로 따로 징수한다.",
+  "sources": [
+   "https://jeju.go.kr/hallasan/notice/faq.htm"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c9",
+  "field": "fees",
+  "text": "1종 저공해차량(전기차 포함)과 경차는 주차료 50% 감면 대상이다.",
+  "sources": [
+   "https://jeju.go.kr/hallasan/notice/faq.htm"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c10",
+  "field": "hours",
+  "text": "성판악·관음사 모두 입산은 05:00부터이며, 동절기(10~3월)와 하절기(4~9월) 시각이 같다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=62"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c11",
+  "field": "hours",
+  "text": "정상 방향 통제는 탐방로 입구와 진달래밭·삼각봉 대피소에서 하절기(4~9월) 12:30, 동절기(10~3월) 11:30부터이다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=62"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c12",
+  "field": "hours",
+  "text": "백록담 정상에서 하산을 시작해야 하는 시각은 하절기 14:30, 동절기 13:30이다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=62"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c13",
+  "field": "duration",
+  "text": "성판악 탐방로는 9.6km로 진달래밭까지 편도 3시간, 정상까지 편도 4시간 30분, 왕복 9시간이다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=61"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c14",
+  "field": "duration",
+  "text": "관음사 탐방로는 8.7km로 삼각봉대피소까지 편도 3시간 20분, 정상까지 편도 5시간, 왕복 10시간이다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=62"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c15",
+  "field": "reservation",
+  "text": "백록담 정상 탐방에는 사전 탐방예약이 필요하며 성판악 진달래밭~백록담, 관음사 삼각봉~백록담 구간에 적용된다. 어리목·영실·돈내코·어승생악·석굴암과 예약 구간 이전은 예약 없이 탐방한다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500685"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c16",
+  "field": "reservation",
+  "text": "예약은 한라산탐방로 예약시스템(visithalla.jeju.go.kr)에서 전월 첫 업무개시일 09:00부터 다음 달 말일까지 신청할 수 있고, 정상 운영 시 1일 성판악 1,000명, 관음사 500명이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500685"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c17",
+  "field": "reservation",
+  "text": "2022-03-29 공지 기준으로 1인 최대 4명, 주 1회(탐방일 기준)까지 예약할 수 있고, 예약한 입산 종료시간 전까지 취소해야 하며 이후 미입산은 부도 처리되어 페널티가 부과된다. 최초 예약과 같은 인증방법(실명/SNS)으로 로그인해야 취소할 수 있다. 공지 날짜가 오래되어 현재 규정은 예약시스템에서 재확인이 필요하다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/board/boardView.do?bbsId=notice&seq=1245"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c18",
+  "field": "caution",
+  "text": "2025년 5월 3일 이후 성판악은 사라오름~진달래밭대피소, 관음사는 탐라계곡~삼각봉대피소까지는 입산시간 내 예약 없이 이용할 수 있고, 대피소에서 백록담 구간은 예약자만 확인 후 진행한다.",
+  "sources": [
+   "https://jeju.go.kr/hallasan/notice/faq.htm"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c20",
+  "field": "caution",
+  "text": "정상은 해발 1,950m라 공기가 희박해 지병이 있는 탐방객의 안전사고가 잦다. 산행 경험이 없거나 지병이 있으면 1,700고지까지 가는 어리목·영실 탐방로를 권한다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=61"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c21",
+  "field": "caution",
+  "text": "성판악 탐방로는 여름철 말벌에 쏘이지 않도록 주의해야 하고, 하산 시 다리 골절과 탈진 사고가 날 수 있어 그룹 탐방을 권한다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=61"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c22",
+  "field": "caution",
+  "text": "청정 환경 보전을 위해 일회용 도시락 용기 반입이 금지된다(김밥, 햄버거는 허용). 백록담 남벽 코스는 낙석 위험으로 통제 중이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500685"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c23",
+  "field": "tip",
+  "text": "성판악에는 매점이 없고 화장실은 성판악사무실·속밭·진달래밭 대피소에 있으며, 관음사 입구에는 개인 운영 휴게소가 있다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=62"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c24",
+  "field": "tip",
+  "text": "문의는 성판악 064-725-9950, 관음사 064-756-9950이다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=62"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c25",
+  "field": "description",
+  "text": "한라산은 해발 1,950m로 남한 최고봉이며, 1966년 천연기념물 제182호 '한라산 천연보호구역'으로, 1970년 국립공원으로 지정되었다. 2007년 '제주 화산섬과 용암동굴' 세계자연유산 등재로 그 구성요소가 되었고, 2010년 한라산을 포함한 제주도가 세계지질공원으로 인증받았다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500685"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c26",
+  "field": "highlight",
+  "text": "성판악 탐방로는 한라산에서 가장 긴 9.6km이며 구상나무 숲이 가장 넓게 형성된 곳이고, 5.8km 지점에서 600m 오르면 사라오름 전망대(산정호수)가 있다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=61"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c27",
+  "field": "highlight",
+  "text": "관음사 탐방로는 계곡이 깊고 산세가 웅장하며, 입구에서 30분쯤 오르면 박쥐 집단서식지인 구린굴이 있다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=62"
+  ]
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "cid": "r1-b05-c1",
+  "field": "location",
+  "text": "협재해수욕장의 주소는 제주특별자치도 제주시 한림읍 협재리 2497-1이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+  ]
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "cid": "r1-b05-c3",
+  "field": "hours",
+  "text": "해수욕장 자체는 상시 개방으로 안내된다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+  ]
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "cid": "r1-b05-c4",
+  "field": "hours",
+  "text": "2026년 해수욕장 개장·안전관리 운영 기간은 6월 24일부터 9월 6일까지, 시간은 10:00~19:00이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+  ]
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "cid": "r1-b05-c5",
+  "field": "hours",
+  "text": "2026년에는 7월 15일부터 8월 15일까지 21:00까지 야간 연장 운영한다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+  ]
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "cid": "r1-b05-c6",
+  "field": "fees",
+  "text": "파라솔과 평상은 유료이며, 2026년 제주 지정 해수욕장 공통 이용료는 파라솔 20,000원, 평상 30,000원이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+  ]
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "cid": "r1-b05-c7",
+  "field": "caution",
+  "text": "반려동물은 해수욕장 개장 기간 중 지정 해수욕장 유영 구역에서 입욕이 통제되며, 민원이나 현장 상황에 따라 동반이 제재될 수 있다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+  ]
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "cid": "r1-b05-c8",
+  "field": "tip",
+  "text": "해수욕장 개장 기간에는 종합상황실(064-728-3981)이 운영된다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+  ]
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "cid": "r1-b05-c9",
+  "field": "description",
+  "text": "제주시 한림읍에 있으며 제주올레 14코스의 일부이고, 금능해수욕장과 이어져 쌍둥이 해변으로 불린다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+  ]
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "cid": "r1-b05-c10",
+  "field": "description",
+  "text": "물빛이 에메랄드색이고, 썰물 때는 조개껍질 가루가 많이 섞인 밝은 백사장이 길게 이어진다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+  ]
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "cid": "r1-b05-c11",
+  "field": "description",
+  "text": "경사가 완만하고 수심이 얕으며 소나무 숲이 있어 어린이가 있는 가족 단위 여행객에게 좋다고 안내된다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+  ]
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "cid": "r1-b05-c12",
+  "field": "highlight",
+  "text": "바다 앞으로 비양도가 보이며, 비양도와 바다 위로 지는 석양이 볼거리로 소개된다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+  ]
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "cid": "r1-b05-c13",
+  "field": "tip",
+  "text": "주변 관광지로 한림공원, 금능해수욕장, 금능석물원, 월령선인장자생지가 소개된다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c1",
+  "field": "location",
+  "text": "주소는 제주특별자치도 서귀포시 성산읍 일출로 284-12(구 지번 성산리 1)이며 우편번호는 63643이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349"
+  ]
+ }
+]

@@ -1,0 +1,603 @@
+[
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c21",
+  "field": "caution",
+  "text": "짚와이어 운영시간은 4~10월 09:00~19:00, 11~3월 09:00~18:00이며 날씨에 따라 바뀔 수 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c22",
+  "field": "caution",
+  "text": "관광공사 안내는 입장 시 보호자 동반을 권장한다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c1",
+  "field": "location",
+  "text": "설악동 탐방안내소 주소는 강원특별자치도 속초시 설악산로 833이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97563"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c2",
+  "field": "location",
+  "text": "설악산 소공원(등산로 시작점) 주소는 속초시 설악산로 1055다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=204732"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c3",
+  "field": "location",
+  "text": "설악 케이블카 주소는 강원도 속초시 설악산로 1085다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c4",
+  "field": "access",
+  "text": "속초 시외버스터미널에서 7번 또는 7-1번 시내버스를 타고 설악산 소공원 정류장에서 내리면 된다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=204732"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c5",
+  "field": "access",
+  "text": "케이블카 운영사는 소공원 입구에서 케이블카까지 걸어서 5분이라고 안내한다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c6",
+  "field": "access",
+  "text": "서울에서 속초행 고속버스는 약 2시간 30분, 시외버스는 약 2시간 10분이며 약 30분 간격으로 운행한다고 운영사가 안내한다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c7",
+  "field": "parking",
+  "text": "탐방안내소에는 주차장이 있고 주차요금은 무료다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97563"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c8",
+  "field": "parking",
+  "text": "케이블카 인근 국립공원 주차장 요금은 케이블카 운영사와 무관하며 주차장 문의는 033-636-4050이다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c9",
+  "field": "hours",
+  "text": "설악동 탐방안내소 운영시간은 09:00~17:00다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97563"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c10",
+  "field": "hours",
+  "text": "케이블카 운행시간은 계절·기후에 따라 달라 홈페이지 첫 화면에 매일 게시되며, 마지막 케이블카를 타면 권금성에서 20분 정도만 관람할 수 있다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c12",
+  "field": "duration",
+  "text": "트레킹 코스는 소공원~신흥사~흔들바위~울산바위~소공원 7.6km 약 4시간, 소공원~비선대~희운각대피소~대청봉~남설악(오색) 16km 약 10시간으로 안내된다(2024년 9월 기준).",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=204732"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c13",
+  "field": "duration",
+  "text": "케이블카는 편도 5분, 왕복 10분이며 권금성에서 머무는 시간은 제한이 없다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c14",
+  "field": "closed_days",
+  "text": "탐방안내소는 월요일이 휴무다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97563"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c15",
+  "field": "closed_days",
+  "text": "케이블카는 강풍·악천후나 안전점검이 필요할 때 운행이 중단될 수 있다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c16",
+  "field": "fees",
+  "text": "설악산 탐방안내소는 입장 요금이 무료다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97563"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c17",
+  "field": "fees",
+  "text": "케이블카 요금은 왕복이며 대인(중학생 이상) 16,000원, 소인(37개월~초등학생) 12,000원, 36개월 미만은 무료다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c18",
+  "field": "fees",
+  "text": "케이블카 할인은 국가유공자·중증~2급 장애 대인 13,000원, 소인 9,500원, 65세 이상 14,000원, 속초시민 대인 8,000원·소인 6,000원이며 중복 적용되지 않고 현장 증빙이 필요하다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c19",
+  "field": "fees",
+  "text": "운영사는 2026.07.18~08.23, 2026.09.19~11.15를 할인 비적용 기간으로 표기하며 경로우대는 성수기에는 적용되지 않는다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c21",
+  "field": "reservation",
+  "text": "케이블카는 사전 예약이 없고 당일 현장 구매만 가능하다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c22",
+  "field": "reservation",
+  "text": "탑승 10분 전까지 전액 환불되며 이후 환불·시간 변경은 20% 감액되고, 강풍 등으로 운행이 중단되면 미사용 표는 전액 환불된다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c24",
+  "field": "caution",
+  "text": "케이블카에는 유모차를 실을 수 없으며 탑승장 건물 외부 오른쪽의 무료 유모차 보관소를 이용한다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c25",
+  "field": "caution",
+  "text": "권금성에서 걸어 내려오는 등산로가 없어 반드시 케이블카로 내려와야 하며 설악산국립공원 전 지역은 금연이다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c27",
+  "field": "caution",
+  "text": "산불 예방 기간(3월 2일~5월 15일, 11월 15일~12월 15일)에는 비선대~대청봉 상부 구간이 통제되고 소공원~비선대만 열린다고 안내된 바 있다(2024년 9월 기준).",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=204732"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c28",
+  "field": "description",
+  "text": "설악산국립공원은 1982년 유네스코 생물권보전지역으로 지정된 한국 두 번째로 큰 국립공원이며 공룡능선과 천불동계곡이 유명하다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=204732"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c29",
+  "field": "highlight",
+  "text": "케이블카의 도착지는 권금성이며 정상에는 봉화대와 안락암이라는 암자가 있다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c30",
+  "field": "language",
+  "text": "관광공사 1330 여행 안내는 한국어·영어·일본어·중국어로 이용할 수 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97563"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c31",
+  "field": "tip",
+  "text": "권금성 쪽 1·2층에 스낵코너와 커피숍이 있고, 화장실은 물 대신 거품을 쓰는 방식이라 가급적 티켓 구매 전 소공원 화장실 이용을 권한다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c1",
+  "field": "location",
+  "text": "아바이마을 주소는 강원특별자치도 속초시 청호로 122-1이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107594"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c2",
+  "field": "location",
+  "text": "관광공사는 갯배 선착장 주소를 속초시 중앙부두길 51로 안내한다(영문 표기는 39번지로 달라 도로명 번호는 현장 확인 필요).",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70424"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c3",
+  "field": "access",
+  "text": "갯배는 속초 시내와 청초호 어귀의 아바이마을 사이 약 50m 물길을 건넌다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70424"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c4",
+  "field": "access",
+  "text": "서울에서 속초행 고속버스는 약 2시간 30분, 시외버스는 약 2시간 10분이며 약 30분 간격이라고 설악 케이블카 운영사가 안내한다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c5",
+  "field": "access",
+  "text": "속초 시외버스터미널에서 7번·7-1번 버스로 설악산 입구와 소공원 방면으로 갈 수 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=204732"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c6",
+  "field": "parking",
+  "text": "아바이마을 주차는 가능하며 무료다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107594"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c7",
+  "field": "parking",
+  "text": "갯배 선착장 주차는 소형차 약 50대 규모다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70424"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c8",
+  "field": "duration",
+  "text": "갯배로 물길을 건너는 데 약 5분이 걸린다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70424"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c9",
+  "field": "closed_days",
+  "text": "아바이마을은 휴무일이 없이 연중 개방된다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107594"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c10",
+  "field": "tip",
+  "text": "갯배는 엔진이 없고 양쪽에 고정된 철 와이어를 갈고리로 당겨 움직이며 뱃사공이 없어 승객이 함께 당긴다고 안내된다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70424"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c11",
+  "field": "description",
+  "text": "아바이마을은 한국전쟁 때 함경도에서 내려온 피란민이 만든 마을로 벽화와 북한식 음식점 골목이 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107594"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c12",
+  "field": "description",
+  "text": "설악 관광특구는 속초(104.9㎢)·고성(30.5㎢)·양양(2.8㎢)에 걸쳐 총 138.2㎢이며 속초가 가장 넓다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=74222"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c13",
+  "field": "highlight",
+  "text": "아바이마을은 드라마 가을동화 촬영지로 알려졌고 함흥식 냉면·순대국 등 향토 음식점이 모여 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107594"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c14",
+  "field": "highlight",
+  "text": "속초 시내는 바다와 해안 호수, 설악산 풍경과 속초해변을 함께 즐길 수 있고 아바이순대·닭강정 같은 향토 음식이 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=74222"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c15",
+  "field": "language",
+  "text": "관광공사 1330 여행 안내는 한국어·영어·일본어·중국어로 이용할 수 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70424"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c16",
+  "field": "tip",
+  "text": "아바이마을 문의 전화는 033-633-3171이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107594"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c1",
+  "field": "location",
+  "text": "하회마을 주소는 경상북도 안동시 풍천면 전서로 186-8이다(한국관광공사 기준).",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c2",
+  "field": "location",
+  "text": "하회마을 관리사무소의 주소는 안동시 풍천면 하회리 전서로 186-10이다.",
+  "sources": [
+   "http://www.hahoe.or.kr/coding/sub5/sub3.asp"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c4",
+  "field": "description",
+  "text": "하회마을은 풍산 류씨가 대대로 살아온 전형적인 집성촌이며, 겸암 류운룡과 서애 류성룡이 태어난 곳이다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c5",
+  "field": "description",
+  "text": "하회(河回)라는 지명은 낙동강이 동쪽으로 흐르다 S자를 이루며 마을을 감싸 도는 데서 유래했다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c6",
+  "field": "highlight",
+  "text": "2010년 7월 31일 안동 하회마을과 경주 양동마을이 '한국의 역사마을'로 유네스코 세계문화유산에 등재되었다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c7",
+  "field": "highlight",
+  "text": "마을에서는 하회별신굿탈놀이를 상설공연으로 진행하고, 부용대 앞 물길에서는 나룻배를 이용할 수 있다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c8",
+  "field": "tip",
+  "text": "체험 프로그램으로 전통혼례체험, 세시풍속, 서원소확행, 가훈쓰기 체험 등이 안내된다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c9",
+  "field": "hours",
+  "text": "한국관광공사 기준 하절기(4~9월)는 09:00~18:00(입장 마감 17:30), 동절기(10~3월)는 09:00~17:00(입장 마감 16:30)이다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c10",
+  "field": "hours",
+  "text": "안동시 관광 사이트의 관람시간표는 하회마을을 (4~9월) 09:00~17:30, (10~3월) 09:00~16:30으로 적는다.",
+  "sources": [
+   "https://www.tourandong.com/public/sub5/sub2_2.cshtml"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c11",
+  "field": "closed_days",
+  "text": "하회마을은 연중무휴이다.",
+  "sources": [
+   "https://www.tourandong.com/public/sub5/sub2_2.cshtml",
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c12",
+  "field": "duration",
+  "text": "안동시 관람시간표의 하회마을 전체 관람 소요시간은 약 1시간~1시간 30분이다.",
+  "sources": [
+   "https://www.tourandong.com/public/sub5/sub2_2.cshtml"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c13",
+  "field": "fees",
+  "text": "하회마을 입장료는 성인 개인 5,000원, 청소년·군인 개인 2,500원, 어린이 개인 1,500원이다.",
+  "sources": [
+   "https://www.tourandong.com/public/sub5/sub2.cshtml"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c14",
+  "field": "fees",
+  "text": "하회마을 단체(30인 이상) 요금은 성인 4,000원, 청소년·군인 2,000원, 어린이 1,200원이다.",
+  "sources": [
+   "https://www.tourandong.com/public/sub5/sub2.cshtml"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c15",
+  "field": "fees",
+  "text": "안동시민 요금은 성인 1,000원, 청소년·군인 500원, 어린이 400원(개인 기준)이다.",
+  "sources": [
+   "https://www.tourandong.com/public/sub5/sub2.cshtml"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c16",
+  "field": "fees",
+  "text": "무료 입장 대상은 6세 이하, 65세 이상, 장애인, 국가유공자, 공무상 답사이다. 연령 기준은 어린이 7~12세, 청소년 13~18세, 군인 하사 이하, 성인 19~64세이다.",
+  "sources": [
+   "https://www.tourandong.com/public/sub5/sub2.cshtml"
+  ]
+ }
+]

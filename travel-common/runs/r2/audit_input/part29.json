@@ -1,0 +1,604 @@
+[
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "cid": "r1-b03-c21",
+  "field": "fees",
+  "text": "남산케이블카 요금(개인)은 대인 왕복 15,000원·편도 12,000원, 소인 왕복 11,500원·편도 9,000원이며 소인은 36개월~12세에 적용된다.",
+  "sources": [
+   "https://www.nseoultower.co.kr/visit/traffic2.asp"
+  ]
+ },
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "cid": "r1-b03-c22",
+  "field": "access",
+  "text": "남산 오르미(경사형 엘리베이터)는 남산 3호 터널 입구에서 케이블카 승강장까지 2분이며 무료이고, 09:00~23:00 운행하되 매주 월요일 점검으로 09:00~14:00에는 멈추고 강풍·호우 시에도 중단된다.",
+  "sources": [
+   "https://www.nseoultower.co.kr/visit/traffic2.asp"
+  ]
+ },
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "cid": "r1-b03-c26",
+  "field": "caution",
+  "text": "N서울타워 내부에서는 음식물을 먹을 수 없고 도시락은 팔각정 앞 광장에서 먹어야 한다.",
+  "sources": [
+   "https://www.nseoultower.co.kr/global/customer/faq.asp?page=1"
+  ]
+ },
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "cid": "r1-b03-c27",
+  "field": "caution",
+  "text": "반려견 보호 공간이 없어 애완견은 동반 입장할 수 없다.",
+  "sources": [
+   "https://www.nseoultower.co.kr/global/customer/faq.asp?page=1"
+  ]
+ },
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "cid": "r1-b03-c28",
+  "field": "caution",
+  "text": "기상 때문에 영업을 중단하는 기준은 정해져 있지 않지만, 남산공원 관리 측의 차량 통행 제한이 있으면 부득이 영업을 중단한다.",
+  "sources": [
+   "https://www.nseoultower.co.kr/global/customer/faq.asp?page=3"
+  ]
+ },
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "cid": "r1-b03-c29",
+  "field": "tip",
+  "text": "맑은 날에는 전방 50km까지 보이며 동쪽 아차산·뚝섬, 서쪽 양화대교·난지도, 남쪽 관악산·예술의전당, 북쪽 북한산·청계천을 볼 수 있다.",
+  "sources": [
+   "https://www.nseoultower.co.kr/global/customer/faq.asp?page=3"
+  ]
+ },
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "cid": "r1-b03-c30",
+  "field": "tip",
+  "text": "디지털 망원경은 Tower 5F·4F·2F(루프테라스)에 있고 최대 36배 광학 줌으로 도심을 볼 수 있다.",
+  "sources": [
+   "https://www.nseoultower.co.kr/visit/observatory.asp"
+  ]
+ },
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "cid": "r1-b03-c31",
+  "field": "tip",
+  "text": "문의는 안내데스크 02-3455-9277/9288로 하며, 분실물도 안내데스크에서 확인한다.",
+  "sources": [
+   "https://www.nseoultower.co.kr/global/customer/faq.asp?page=2",
+   "https://www.nseoultower.co.kr/global/customer/faq.asp?page=1"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c1",
+  "field": "location",
+  "text": "박물관 주소는 서울특별시 용산구 서빙고로 137(용산동6가 168-6), 우편번호 04383이다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0106010000.do?menuId=subway-map"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c2",
+  "field": "hours",
+  "text": "월·화·목·금·일요일은 9:30~17:30(입장 마감 17:00)에 운영한다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c3",
+  "field": "hours",
+  "text": "수요일과 토요일은 9:30~21:00까지 열며 입장 마감은 20:30이다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c4",
+  "field": "hours",
+  "text": "옥외 전시장(정원)은 오전 7시부터 오후 10시까지 관람할 수 있다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c5",
+  "field": "hours",
+  "text": "입장 마감은 폐관 30분 전이고 폐관 유도는 폐관 10분 전부터 시작한다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c6",
+  "field": "hours",
+  "text": "어린이박물관은 월~일 9:30~17:20에 회차별 예약제로 운영한다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c7",
+  "field": "closed_days",
+  "text": "2026년 휴관일은 1월 1일, 설날(2월 17일), 추석(9월 25일)이다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c8",
+  "field": "closed_days",
+  "text": "매년 3·6·9·12월 첫째 월요일은 상설전시관과 특별전시실 1·2가 휴실하고 야외전시장은 정상 개관한다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c9",
+  "field": "closed_days",
+  "text": "2026년 휴실일은 6/1, 9/7, 12/7이며 2026년 3월은 휴실이 없다. 오늘(2026-10-11) 기준 남은 휴실일은 12월 7일이다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c10",
+  "field": "fees",
+  "text": "상설전시관 관람은 무료이며 유료 특별전시만 입장권이 필요하다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0201010000.do",
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c11",
+  "field": "fees",
+  "text": "어린이박물관과 무료 특별전시도 무료이다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c12",
+  "field": "fees",
+  "text": "유료 특별전시 관람권은 특별전시실 1 앞 매표소에서 팔고, 관람 종료 30분 전까지 판매한다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c13",
+  "field": "reservation",
+  "text": "초·중·고 학생 단체(30명 이상)는 사전 예약제이며 예약하지 않은 학생 단체는 입장할 수 없다. 일반 개인 관람은 예약 안내가 없다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c14",
+  "field": "access",
+  "text": "지하철 4호선·경의중앙선 이촌역 2번 출구 방향의 지하보도 '박물관 나들길'로 박물관 서문에 이어진다. 엘리베이터는 이촌역 1번 출구와 이촌역 2번 출구 방향 '박물관 나들길'에 있다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0106010000.do?menuId=subway-map"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c15",
+  "field": "access",
+  "text": "박물관 나들길은 07:00~23:00 개방하며 휴관일에는 열지 않는다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0106010000.do?menuId=subway-map"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c16",
+  "field": "access",
+  "text": "간선버스 400번과 502번이 국립중앙박물관을 지난다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0106010000.do?menuId=bus-map"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c17",
+  "field": "parking",
+  "text": "옥내주차장 754대(지하1층 관람객용 522대) 및 옥외 149대를 운영하지만 공간이 부족해 박물관은 대중교통 이용을 권한다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c18",
+  "field": "parking",
+  "text": "승용차(15인승 이하) 주차요금은 기본 60분 1,000원, 초과 10분당 500원, 1일 최대 30,000원(06:00~23:00)이다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c19",
+  "field": "parking",
+  "text": "경차(1,000cc 이하)와 환경친화적 자동차(전기·하이브리드·수소)는 주차요금 50% 할인이 즉시 감면 적용되고, 다자녀 가족 중 세 자녀 이상은 50%, 두 자녀 가족과 임산부는 30% 할인된다(증빙 제시 필요).",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c20",
+  "field": "payment",
+  "text": "주차요금은 전자주차관제시스템으로 자동 부과되며 지하주차장 무인정산기를 쓰면 출차가 빠르다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c21",
+  "field": "caution",
+  "text": "음식물과 안내견 외 반려동물 반입 금지, 플래시·삼각대·셀카봉·짐벌 촬영 금지, 바퀴 달린 신발 입장 불가, 배낭은 1층 물품보관함에 보관해야 한다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c22",
+  "field": "caution",
+  "text": "2024년 6월 11일부터 보안검색대에서 소지품을 확인한다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c23",
+  "field": "caution",
+  "text": "2026-07-06~2027-01-28 동안 3층 조각·공예관 불교조각실·금속공예실 및 2층 불교회화실·목칠공예실 등이 휴실한다. 청자실(303호)과 분청사기·백자실(304호), 서화실 202-1·2는 관람 가능하다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0201010000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c24",
+  "field": "description",
+  "text": "상설전시장은 7개 관 39개 실에 유물 9,884점을 전시한다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0201010000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c25",
+  "field": "highlight",
+  "text": "2층 사유의 방에는 국보 반가사유상 두 점이 나란히 전시되어 있다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0201010000.do"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c26",
+  "field": "tip",
+  "text": "상설전시관 3층에는 세계문화관(중국·일본·중앙아시아·인도·동남아시아)이 있다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0201010000.do"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c1",
+  "field": "location",
+  "text": "관리 기관인 창바이산 보호개발구 관리위원회의 주소가 지린성 창바이산 보호개발구 츠베이구로 표기되어 있다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/mtcbs/202610/t20261009_272015.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c2",
+  "field": "location",
+  "text": "북경구는 이도백하(二道白河) 진을 거쳐 산에 들어간다고 관리위원회 페이지에 적혀 있다(2021년 게시글).",
+  "sources": [
+   "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c3",
+  "field": "description",
+  "text": "북경구에는 천지, 폭포, 온천군, 소천지, 뤼위안탄(绿渊潭), 지하삼림(谷底森林)이 있다고 관리위원회가 답변했다(2024년 10월).",
+  "sources": [
+   "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c6",
+  "field": "fees",
+  "text": "현행 입장권은 당일 1회만 유효하며, 북·서·남 경구는 각각 따로 예약·구매해야 한다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c7",
+  "field": "fees",
+  "text": "북·서 경구 5일 유효 연계 입장권 정책은 2023년 7월 1일 폐지되었다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c8",
+  "field": "reservation",
+  "text": "예약·요금 규정은 ‘长白山’ 공식 미니프로그램과 경구 현장 공고를 기준으로 하라고 안내한다(2026-09-17 관리위원회 답변).",
+  "sources": [
+   "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c9",
+  "field": "tip",
+  "text": "경구 공식 서비스 핫라인은 400-000-6789이며 운영 시간은 7:50-19:00이다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c10",
+  "field": "reservation",
+  "text": "2026년 10월 국경절 연휴에 북경구는 시간대별 예약과 시차 입장을 핵심으로 운영했다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/zbsly/lydt/202610/t20261008_272004.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c11",
+  "field": "access",
+  "text": "츠베이구 교통집산센터에서 사전 점검 통로를 거친 뒤 A관 검표구에서 안면 인식으로 확인하고, 경구 버스로 핵심 관람 구역에 간다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/zbsly/lydt/202610/t20261008_272004.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c12",
+  "field": "access",
+  "text": "교통집산센터 B관에는 대기 구역이 있고 매표 상담·식당·화장실이 갖춰져 있다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/zbsly/lydt/202610/t20261008_272004.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c13",
+  "field": "parking",
+  "text": "2026년 10월 1일 북파 스마트 주차빌딩이 개장했고 주차면은 552개(SUV 전용 336개)다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/mtcbs/202610/t20261009_272015.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c14",
+  "field": "parking",
+  "text": "주차빌딩은 온라인 예약 입출고와 실시간 빈자리 확인 기능을 갖췄고, 차량 인출은 평균 약 80초 걸린다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/mtcbs/202610/t20261009_272015.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c15",
+  "field": "caution",
+  "text": "국경절 연휴(2026) 기간 주차빌딩이 거의 만차였고 성수기 자가용 이용 시 주차가 빠듯하다고 설명한다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/mtcbs/202610/t20261009_272015.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c16",
+  "field": "access",
+  "text": "츠베이구 시내버스 1호선은 창바이산 기차역에서 츠베이구 교통집산센터까지 가며 첫차 7:00, 막차 18:20, 요금 2위안이다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/zbsly/lyfw/jt/202607/t20260728_271246.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c17",
+  "field": "access",
+  "text": "시내버스 3호선도 창바이산 역에서 츠베이구 교통집산센터까지 운행하며 첫차 7:00, 막차 18:20, 요금 2위안이다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/zbsly/lyfw/jt/202607/t20260728_271246.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c18",
+  "field": "tip",
+  "text": "시내버스 노선·정류장은 비상 상황이나 날씨로 바뀔 수 있고 문의 전화는 0433-5675666이다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/zbsly/lyfw/jt/202607/t20260728_271246.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c19",
+  "field": "description",
+  "text": "창바이산 천지는 세계에서 해발고도가 가장 높은 화구호(火山口湖)이며, 북경구에서는 천지를 내려다보는(부감) 시점이지만 앞 봉우리에 가려 보이는 각도가 비교적 좁다고 소개된다(2021년 게시글).",
+  "sources": [
+   "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c20",
+  "field": "highlight",
+  "text": "북경구 볼거리는 천지, 폭포, 온천군, 소천지, 뤼위안탄, 지하삼림이다.",
+  "sources": [
+   "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c21",
+  "field": "highlight",
+  "text": "입장권은 당일 1회 유효하고 북·서·남 경구는 각각 예약한다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-02",
+  "name": "백두산 중국 측 서경구",
+  "cid": "r1-b22-c1",
+  "field": "location",
+  "text": "서경구는 푸쑹현(抚松县) 쪽에서 산에 들어가는 코스라고 관리위원회가 소개했다(2021년 게시글).",
+  "sources": [
+   "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-02",
+  "name": "백두산 중국 측 서경구",
+  "cid": "r1-b22-c2",
+  "field": "access",
+  "text": "서경구에는 츠시구 유객 집산 센터가 있으며 창바이산 공항에서 서경구 유객 집산 센터까지 18km라고 안내했다(2021년 게시글).",
+  "sources": [
+   "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202107/t20210726_210154.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-02",
+  "name": "백두산 중국 측 서경구",
+  "cid": "r1-b22-c3",
+  "field": "description",
+  "text": "서경구에는 천지, 창바이산 대협곡(진장 대협곡), 고산화원, 왕츠가 있다.",
+  "sources": [
+   "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-02",
+  "name": "백두산 중국 측 서경구",
+  "cid": "r1-b22-c4",
+  "field": "caution",
+  "text": "서경구에서 천지를 보려면 1442개 계단을 올라야 한다.",
+  "sources": [
+   "https://changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202410/t20241017_265041.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-02",
+  "name": "백두산 중국 측 서경구",
+  "cid": "r1-b22-c9",
+  "field": "fees",
+  "text": "현행 입장권은 당일 1회만 유효하며 북·서·남 경구는 각각 따로 예약·구매한다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-02",
+  "name": "백두산 중국 측 서경구",
+  "cid": "r1-b22-c10",
+  "field": "reservation",
+  "text": "예약·요금 규정은 ‘长白山’ 공식 미니프로그램과 현장 공고를 기준으로 하라고 안내한다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-02",
+  "name": "백두산 중국 측 서경구",
+  "cid": "r1-b22-c11",
+  "field": "tip",
+  "text": "경구 공식 서비스 핫라인은 400-000-6789이며 7:50-19:00 운영된다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html"
+  ]
+ }
+]

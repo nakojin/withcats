@@ -1,0 +1,603 @@
+[
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c22",
+  "field": "access",
+  "text": "서울 잠실역에서는 직행버스 1007번을 타고 화성행궁·여민각 정류장에서 내려 도보 약 5분이면 화성행궁에 닿는다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=68"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c23",
+  "field": "access",
+  "text": "수원역 4번 출구 앞(노보텔 정류장)에서 시내버스 11·13번을 타고 화성행궁·수원성지 정류장에서 내려 도보 약 5분이다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=68"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c24",
+  "field": "access",
+  "text": "강남역에서는 직행버스 3000번을 타고 팔달문 정류장에서 내려 도보 약 5분이면 화성행궁이다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=68"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c25",
+  "field": "language",
+  "text": "수원 종합 관광안내소(수원역 4번 출구 근처, 09:00~18:00)는 영어·중국어·일본어 통역이 가능하다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=8"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c26",
+  "field": "language",
+  "text": "한국관광공사가 만든 오디오가이드 앱 오디(Odii)에 수원화성과 화성행궁 해설이 들어 있고, 수원화성 리플렛은 한국어·영어·중국어·일본어로 내려받을 수 있다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=67"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c27",
+  "field": "description",
+  "text": "수원화성은 정조 18년(1794)에 공사를 시작해 1796년 완공했고 정약용이 설계했으며, 1997년 유네스코 세계문화유산으로 지정되었다.",
+  "sources": [
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c28",
+  "field": "description",
+  "text": "화성행궁은 576칸 규모로 국내 최대의 행궁이며 1996년 복원 공사를 시작해 2003년 일반에 공개했다.",
+  "sources": [
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c29",
+  "field": "highlight",
+  "text": "성 안팎 문화관광해설사 안내소가 화성행궁, 팔달문, 서장대, 장안문 등 여러 곳에 있고 10:00~17:00에 운영한다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=8"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c30",
+  "field": "tip",
+  "text": "문의는 수원문화재단 031-290-3600이다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=8"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c1",
+  "field": "location",
+  "text": "진주성의 도로명 주소는 경상남도 진주시 남강로 626이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c2",
+  "field": "hours",
+  "text": "진주성은 3~10월에는 05:00~23:00, 11~2월에는 05:00~22:00에 이용할 수 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c3",
+  "field": "closed_days",
+  "text": "진주성은 정기 휴무일 없이 연중 개방한다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c4",
+  "field": "fees",
+  "text": "진주성 개인 입장료는 성인 2,000원, 청소년 1,000원, 어린이 600원이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199",
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c5",
+  "field": "fees",
+  "text": "30명 이상 단체는 성인 1,400원, 청소년 600원, 어린이 400원이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c6",
+  "field": "fees",
+  "text": "6세 이하 미취학 아동과 65세 이상은 입장료가 무료이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c7",
+  "field": "parking",
+  "text": "주차가 가능하다. 촉석문 앞(소형차만), 공북문, 보건소, 진주성 관광버스 전용 주차장 등 4곳이 안내되어 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c8",
+  "field": "parking",
+  "text": "주차 요금은 소형차 첫 30분 500원에 추가 10분마다 200원, 대형차 첫 30분 1,000원에 추가 10분마다 400원이며, 관광버스 전용 구역 주차는 무료이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c9",
+  "field": "language",
+  "text": "한국관광공사 1330 여행안내 전화는 한국어, 영어, 일본어, 중국어로 문의할 수 있다. 진주성 자체 한국어 오디오가이드 여부는 확인되지 않았다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c10",
+  "field": "tip",
+  "text": "진주성 문의 전화는 +82-55-749-5171이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c11",
+  "field": "description",
+  "text": "진주성은 고대에 처음 축조되어 1379년 왜구 침입을 막으려고 확장되었고, 임진왜란(1592~1598) 중 두 차례 전투가 벌어졌다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c12",
+  "field": "highlight",
+  "text": "성 안에는 촉석루, 국립진주박물관, 승전 기념비, 야외무대, 카페가 있고 남강을 내려다본다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c13",
+  "field": "highlight",
+  "text": "방문객은 한복 체험을 하거나 남강에서 배를 탈 수 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75199"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c14",
+  "field": "tip",
+  "text": "성 안 촉석루는 별도 운영시간 09:00~18:00으로 안내되어 있어 성곽 개방시간과 다르다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86040"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c15",
+  "field": "tip",
+  "text": "성 안 국립진주박물관 관람은 무료이며 09:00~18:00(입장 마감 17:30), 매주 월요일(월요일이 공휴일이면 다음 첫 평일)과 1월 1일, 설·추석 당일은 휴관한다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=21f2f7aa-5ed6-4121-9d00-596444fbe174"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c16",
+  "field": "tip",
+  "text": "성 안 의기사·의암 구역에 장애인 전용 주차 1면, 경사로, 장애인 화장실, 휠체어 대여(13대)가 있다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=bab49ec5-4bff-483e-b3de-3658da2796d0"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c1",
+  "field": "location",
+  "text": "통도사 주소는 경상남도 양산시 하북면 통도사로 108(우편번호 50501)이다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c2",
+  "field": "location",
+  "text": "종무소 연락처는 전화 055-382-7182, 055-381-1442, 이메일 tongdosa@tongdosa.or.kr이다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01401"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c3",
+  "field": "access",
+  "text": "승용차는 부산·창원 방향에서 경부고속도로 통도사 하이패스 나들목, 서울·대구·울산 방향에서 통도사 IC를 이용한다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c4",
+  "field": "access",
+  "text": "부산에서는 동부시외버스터미널(노포동)에서 신평(통도사)행을 타고 신평터미널에서 내린다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c5",
+  "field": "access",
+  "text": "울산 태화강역에서는 1723번(신평터미널 방면) 버스를 타며, 첫차 6시 25분, 배차 간격 35~40분이라고 안내한다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c6",
+  "field": "access",
+  "text": "경주에서는 시외버스터미널에서 통도사 인터체인지를 거치는 부산행 버스를 타고 통도사에서 내린다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c7",
+  "field": "hours",
+  "text": "개방 시간은 08:30~17:30이다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c8",
+  "field": "hours",
+  "text": "새벽예불에 참여하면 04시부터 입장할 수 있다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c9",
+  "field": "hours",
+  "text": "금강계단 참배 가능 시간은 오전 11시~오후 2시이며, 입장 가능일은 음력 1~3일, 15일, 18일, 24일이다. 비가 오거나 바닥이 젖어 있으면 열지 않는다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c10",
+  "field": "closed_days",
+  "text": "성보박물관은 공사 후 재개관 예정이며 2026년 12월 준공 예정이라 현재 관람이 어렵다고 안내한다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c11",
+  "field": "fees",
+  "text": "입장료는 2023년 5월 4일부터 무료다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c12",
+  "field": "parking",
+  "text": "주차비는 경차 3,000원, 중소형(17인승 미만) 6,000원, 대형(17인승 이상) 15,000원이다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c13",
+  "field": "parking",
+  "text": "주차비 면제 대상은 해당 연도 회비를 낸 전국 신도증 소지자와 통도사 신도증 소지자, 그리고 '장애인 주차가능' 스티커 부착 복지카드 대상자 차량이다(주차불가 스티커 차량은 50% 부과).",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c14",
+  "field": "payment",
+  "text": "단체 새벽예불 참여자의 주차료는 현금 결제 또는 계좌 입금으로 낼 수 있고, 입금 후 회계실(055-382-7187)에 확인 전화를 해야 한다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c15",
+  "field": "caution",
+  "text": "금강계단에는 부처님 진신사리가 봉안되어 있어 대웅전에는 불상이 없다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c16",
+  "field": "caution",
+  "text": "금강계단에서는 합장한 상태로 묵언하며 천천히 오른쪽(시계방향)으로 탑돌이를 3번 한다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c17",
+  "field": "description",
+  "text": "가람은 법당을 중심으로 상로전·중로전·하로전 세 구역으로 나뉘고, 상로전에는 금강계단, 중로전에는 해장보각, 하로전에는 극락보전 등이 있다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501_01"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c18",
+  "field": "description",
+  "text": "'영축산통도사' 편액이 걸린 일주문에서부터 본격적인 경내가 시작되고, 가람 배치는 동서로 길게 이루어져 있다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501_01"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c19",
+  "field": "description",
+  "text": "공식 사이트는 통도사를 세계문화유산 영축총림 통도사로 소개한다.",
+  "sources": [
+   "https://tongdosa.or.kr/"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c20",
+  "field": "highlight",
+  "text": "구룡지는 자장스님이 구룡소의 용들을 승천시키고 못을 메워 절을 창건했다고 전하는 유적으로 상로전 구역에 있다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501_01"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c21",
+  "field": "tip",
+  "text": "제1주차장에는 다정카페, 다정한식 등이 있고, 성보박물관·일주문 옆에는 한송정, 한송매점, 산중다원(전통차·단팥죽) 등이 있다고 안내한다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01402"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c22",
+  "field": "language",
+  "text": "통도사는 템플스테이 영문 안내 페이지(https://tongdosa.or.kr/eng/)를 운영하며 영어로 사찰을 소개한다.",
+  "sources": [
+   "https://tongdosa.or.kr/eng/"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c23",
+  "field": "tip",
+  "text": "10월에는 18일 약사재일, 19일 개산대재, 31일 자비도량참법기도 등 연중 행사가 공지되어 있어 방문 전 행사 일정을 확인할 수 있다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/board.php?bo_table=menu03304"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c1",
+  "field": "location",
+  "text": "인천 차이나타운의 인천 관광 포털(itour) 등록 주소는 인천 제물포구 차이나타운로26번길 12-17이며 전화번호는 032-777-1330이다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c2",
+  "field": "location",
+  "text": "한국관광공사 영문 안내는 인천 차이나타운 주소를 인천광역시 제물포구 차이나타운로59번길 20으로 적고 있다(c1과 표기 지점이 다름).",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=105442"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c3",
+  "field": "location",
+  "text": "개항장 거리는 인천광역시 제물포구 관동1가 일대로 등록되어 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c4",
+  "field": "location",
+  "text": "인천시는 2026년 7월 1일부터 기존 중구 내륙과 동구를 제물포구로 통합 개편했다고 안내한다. 따라서 현재 행정구역은 제물포구이고 이전 표기는 중구다.",
+  "sources": [
+   "https://www.incheon.go.kr/IC010601/2187729"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c5",
+  "field": "access",
+  "text": "한국관광공사는 개항 누리길 1시간 코스를 인천역에서 출발해 차이나타운, 삼국지벽화거리, 자유공원, 제물포구락부, 인천근대건축전시관을 지나 한중문화관에서 끝나는 도보 코스로 소개한다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c6",
+  "field": "duration",
+  "text": "개항 누리길은 소요 시간별 3개 코스가 있고 그중 인천역~한중문화관 코스가 1시간 코스다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c7",
+  "field": "hours",
+  "text": "개항장 거리는 이용 시간이 상시 개방으로 등록되어 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c8",
+  "field": "closed_days",
+  "text": "개항장 거리는 휴무일이 연중무휴로 등록되어 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c9",
+  "field": "hours",
+  "text": "한국관광공사 영문 페이지는 개항 누리길 1시간 코스의 운영시간을 10:00~17:00, 휴일을 월요일로 적고, 투어 가이드(해설)는 예약이 필요하다고 표시한다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34369"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c10",
+  "field": "parking",
+  "text": "인천 차이나타운에는 유료 주차장이 있고 장애인 전용 주차칸이 따로 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c11",
+  "field": "parking",
+  "text": "개항장 거리 항목은 주차 안내가 불가능으로 등록되어 있어 거리 자체에는 주차할 수 없다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c12",
+  "field": "reservation",
+  "text": "개항장 거리에서는 인천 문화관광해설사 해설을 예약하면 들으며 도보 관광을 할 수 있다. 일반 방문에 예약이 필요하다는 안내는 없다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+  ]
+ }
+]

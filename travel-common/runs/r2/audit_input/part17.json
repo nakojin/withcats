@@ -1,0 +1,603 @@
+[
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c12",
+  "field": "access",
+  "text": "나리타공항역에서 게이세이 나리타 스카이액세스선으로 오시아게역까지 약 49분이 걸린다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/public-transport/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c13",
+  "field": "access",
+  "text": "도쿄 스카이트리 타운으로 가는 직행 버스 '스카이트리 셔틀'이 있다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/public-transport/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c14",
+  "field": "access",
+  "text": "신주쿠·시부야에서 자동차로 약 25~35분이 걸린다고 안내한다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/car/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c15",
+  "field": "parking",
+  "text": "도쿄 스카이트리 타운의 동쪽(지하 주차장)과 서쪽(입체 주차장) 두 곳에 유료 주차장이 있다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/car/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c16",
+  "field": "parking",
+  "text": "주차장 운영시간은 7:30~23:00이며 입차는 22:00까지다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/car/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c17",
+  "field": "parking",
+  "text": "주차 요금은 30분마다 450엔(세금 포함)이다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/car/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c18",
+  "field": "parking",
+  "text": "주차 가능 차량은 길이 5.0m 이하다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/car/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c19",
+  "field": "parking",
+  "text": "주차 가능 차량은 전폭 1.9m 이하다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/car/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c20",
+  "field": "parking",
+  "text": "주차 가능 차량은 높이 2.1m 이하다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/car/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c21",
+  "field": "parking",
+  "text": "주차 가능 차량은 총중량 2.3t 이하다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/car/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c22",
+  "field": "parking",
+  "text": "전망대 입장권으로는 도쿄 스카이트리 타운 주차 할인 서비스를 받을 수 없다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/car/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c23",
+  "field": "caution",
+  "text": "주말·공휴일에는 타워 주변 도로가 매우 붐빌 것으로 예상되어 대중교통 이용을 권한다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/car/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c24",
+  "field": "hours",
+  "text": "전망대 영업시간은 날짜마다 달라 2026-10-01~2027-01-01 캘린더에는 9:00~22:00, 10:00~22:00, 9:00~22:30 세 가지가 표시된다(예: 2026-10-11은 9:00~22:30, 평일 다수는 10:00~22:00).",
+  "sources": [
+   "https://www.tokyo-skytree.jp/open-hours/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c25",
+  "field": "hours",
+  "text": "최종 입장은 폐장 시간의 1시간 전이다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/open-hours/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c26",
+  "field": "hours",
+  "text": "영업시간은 예고 없이 바뀔 수 있다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/open-hours/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c27",
+  "field": "closed_days",
+  "text": "공식 영업 캘린더에는 2026년 10월 1일~12월 31일 모든 날짜에 영업시간이 적혀 있고, 2027년 1월 1일 칸에는 영업시간이 표시되지 않는다(휴무·점검 여부는 문구로 안내되지 않음).",
+  "sources": [
+   "https://www.tokyo-skytree.jp/open-hours/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c28",
+  "field": "fees",
+  "text": "덴보 데크+덴보 회랑 세트 입장권은 어른(15세 이상) 3,000엔부터, 어린이(6~14세) 1,500엔부터이며 날짜별로 가격이 다르다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/ticket/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c29",
+  "field": "fees",
+  "text": "덴보 데크(350m) 입장권은 어른(15세 이상) 1,800엔부터, 어린이(6~14세) 900엔부터이며 날짜별로 가격이 다르다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/ticket/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c30",
+  "field": "fees",
+  "text": "덴보 회랑(450m) 추가 입장권은 어른 1,400엔, 어린이(6~14세) 700엔이다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/ticket/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c31",
+  "field": "fees",
+  "text": "5세 이하 유아와 6세 이하 미취학 아동은 무료다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/ticket/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c32",
+  "field": "fees",
+  "text": "4층 티켓 카운터·발권기에서 사면 1장당 창구 발권료 500엔이 추가되며, 덴보 회랑 티켓에는 이 발권료가 없다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/ticket/",
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c33",
+  "field": "fees",
+  "text": "공식 티켓 페이지는 어린이 요금을 '중학생까지', 어른 요금을 '고등학생 이상'이라고도 설명한다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/ticket/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c34",
+  "field": "fees",
+  "text": "덴보 회랑 티켓은 덴보 데크 티켓이 있는 사람만 방문 당일 덴보 데크(지상 350m) 안의 발권기에서 살 수 있고, 입장 제한 시 판매가 중단될 수 있다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/ticket/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c35",
+  "field": "reservation",
+  "text": "날짜·시간대를 지정한 티켓을 미리 사면 현장 매표 줄에서 기다리지 않고 입장할 수 있다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c36",
+  "field": "reservation",
+  "text": "날짜·시간을 지정하지 않는 입장권은 판매하지 않는다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c37",
+  "field": "reservation",
+  "text": "온라인(LINKTIVITY)과 세븐일레븐 멀티복사기 모두 1회 신청에 최대 8명분까지 살 수 있다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c38",
+  "field": "reservation",
+  "text": "구매 후에는 인원·날짜·시간 변경이 불가능하고, 취소 후 다시 사야 한다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c39",
+  "field": "reservation",
+  "text": "입장일 30일 전 이내에 취소하면 취소 수수료가 든다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c40",
+  "field": "reservation",
+  "text": "우선 입장 옵션은 없다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c41",
+  "field": "payment",
+  "text": "온라인 구매는 현금이 안 되고 신용카드, PayPay, WeChat Pay, Alipay로 결제한다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c42",
+  "field": "payment",
+  "text": "웹 구매에 쓸 수 있는 카드는 VISA, Mastercard, JCB, American Express, Diners Club이다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c43",
+  "field": "payment",
+  "text": "현금으로 사려면 세븐일레븐 멀티복사기를 이용하면 된다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c44",
+  "field": "payment",
+  "text": "시설 내 상점·카페에서는 신용카드, 교통카드 등 전자머니, QR 결제(Alipay·WeChat Pay 등)를 쓸 수 있고 현금은 엔화만 받는다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c45",
+  "field": "duration",
+  "text": "덴보 데크만 보면 약 1시간, 덴보 데크와 덴보 회랑을 함께 보면 약 1~1.5시간이 걸린다(혼잡·엘리베이터 대기에 따라 달라짐).",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c46",
+  "field": "language",
+  "text": "안내 브로슈어는 일본어판과 다국어판(영어·중국어 간체·번체·한국어) 두 종류가 있다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c47",
+  "field": "language",
+  "text": "공식 사이트는 한국어를 포함한 8개 언어 선택을 제공한다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c48",
+  "field": "caution",
+  "text": "일단 입장하면 전망대 재입장은 불가능하다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c49",
+  "field": "caution",
+  "text": "음식물 반입은 뚜껑 있는 페트병 음료만 허용된다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c50",
+  "field": "caution",
+  "text": "반려동물은 케이지에 넣어도 전망대에 들어갈 수 없다(보조견은 가능).",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c51",
+  "field": "caution",
+  "text": "드론 등 무인기는 도쿄 스카이트리 타운 부지 내에서 금지된다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c52",
+  "field": "caution",
+  "text": "현장에서 금연이며, 흡연은 소라마치의 흡연 구역을 이용해야 한다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c53",
+  "field": "caution",
+  "text": "혼자 입장할 수 있는 어린이는 초등학생(6세 이상)부터다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c54",
+  "field": "tip",
+  "text": "개장 직후가 비교적 한산하며 평일 10시경, 주말·공휴일 9시경을 권하고, 석양과 야경 시간대인 16~19시는 붐비는 편이다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c55",
+  "field": "tip",
+  "text": "짐 보관용 코인 로커가 4층과 도쿄 소라마치 곳곳에 있다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c1",
+  "field": "location",
+  "text": "시설 주소는 1-1-7 Kasugacho, Nerima-ku, Tokyo 179-0074이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/location/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c2",
+  "field": "access",
+  "text": "도시마엔역에서 도보 2분이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/location/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c3",
+  "field": "access",
+  "text": "세이부 이케부쿠로선(도시마선)으로 이케부쿠로역에서 도시마엔역까지 직통 17분이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/location/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c4",
+  "field": "access",
+  "text": "도에이 오에도선으로 신주쿠역에서 도시마엔역까지 직통 20분이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/location/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c5",
+  "field": "access",
+  "text": "공항 리무진 버스의 하네다공항-히카리가오카/네리마 노선에 'WARNER BROS. STUDIO TOUR TOKYO' 정류장이 추가되어 시설 정문까지 바로 갈 수 있으며, 2026년 3월 1일부터 운행한다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/location/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c6",
+  "field": "access",
+  "text": "혼잡을 피하려면 열차 이용을 권장한다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/location/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c7",
+  "field": "parking",
+  "text": "주차장은 투어 오픈 시간부터 이용할 수 있고, 스튜디오 투어 방문객 전용이며 인근 시설 방문용 주차는 불가하다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c8",
+  "field": "parking",
+  "text": "2026년 12월 31일까지의 방문은 주차권을 투어 티켓 구매 시 함께 예약해야 하며 주차 공간이 한정되어 있다. 요금은 승용차·오토바이(스쿠터 제외) 1대 ¥2,000이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c9",
+  "field": "parking",
+  "text": "2027년 1월 1일 이후 방문부터는 주차권 사전 구매가 없어지고 도착 시 현장에서 요금을 낸다. 승용차 ¥2,000, 오토바이는 무료이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c10",
+  "field": "parking",
+  "text": "주차는 유효한 스튜디오 투어 티켓 소지자만 가능하며, 전기차 충전은 불가하고 반려동물 동반 주차는 금지이다(인증된 보조견 제외).",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c11",
+  "field": "parking",
+  "text": "스쿠터는 자전거 주차 구역을 무료로 이용할 수 있고, 자전거 주차는 티켓을 제시해 직원 안내를 받아 이용한다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c12",
+  "field": "parking",
+  "text": "버스 주차 공간은 소수이며 사전 예약이 필요하고 요금은 5,000엔이다(방문자 서비스 팀에 문의).",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c13",
+  "field": "duration",
+  "text": "방문 소요시간은 3~4시간을 권장하며, 체류 시간 제한은 없다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/faqs/facilities/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c14",
+  "field": "hours",
+  "text": "운영시간은 연중 달라지며 공식 운영 캘린더에서 날짜별로 확인해야 한다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/opening-times/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c15",
+  "field": "hours",
+  "text": "공식 캘린더 데이터상 2026-10-12~2027-03-31 중 'Off Peak 2' 일정인 날(예: 2026-10-14)은 스튜디오 오픈 08:30, 첫 투어 09:00, 마지막 투어 시작 15:00, 마감 19:00이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c16",
+  "field": "hours",
+  "text": "'Super Peak 2' 일정인 날(예: 2026-10-17)은 오픈 08:30, 첫 투어 09:00, 마지막 투어 시작 17:00, 마감 21:00이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php"
+  ]
+ }
+]

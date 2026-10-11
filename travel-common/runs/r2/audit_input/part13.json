@@ -1,0 +1,603 @@
+[
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c10",
+  "field": "access",
+  "text": "지하철 14호선 루자주이역 9A번 출구에서도 걸어서 갈 수 있다.",
+  "sources": [
+   "https://en.shanghaitower.com/Publictransit.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c11",
+  "field": "access",
+  "text": "푸둥공항에서는 택시나 자가용으로 약 40km, 50분이 걸린다.",
+  "sources": [
+   "https://en.shanghaitower.com/Publictransit.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c12",
+  "field": "access",
+  "text": "푸둥공항에서 자기부상열차를 타고 룽양루역에서 2호선으로 갈아타 둥창루역에서 내리면 약 50분이다.",
+  "sources": [
+   "https://en.shanghaitower.com/Publictransit.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c13",
+  "field": "access",
+  "text": "훙차오공항에서는 택시나 자가용으로 약 25km, 40분이 걸린다.",
+  "sources": [
+   "https://en.shanghaitower.com/Publictransit.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c14",
+  "field": "parking",
+  "text": "건물 지하주차장 출입구는 인청중로, 루자주이환로, 화위안스차오로 세 곳에 있다.",
+  "sources": [
+   "https://en.shanghaitower.com/PARKINGLOT.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c15",
+  "field": "parking",
+  "text": "지하주차장은 B3~B5 세 개 층에 총 1,800면이며 전기차 충전기가 십여 대 있다.",
+  "sources": [
+   "https://en.shanghaitower.com/PARKINGLOT.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c16",
+  "field": "parking",
+  "text": "B4·B5 주차면은 월 임대용이며, 방문객용으로 안내된 곳은 B3의 641면이다.",
+  "sources": [
+   "https://en.shanghaitower.com/PARKINGLOT.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c17",
+  "field": "hours",
+  "text": "운영시간은 매일 08:30~22:00이며 마지막 입장은 21:00이다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/en/tourist-attraction/top-of-shanghai-observatory-914985/"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c18",
+  "field": "fees",
+  "text": "전망대만 입장하는 정가는 성인 180위안, 어린이 90위안, 노인 120위안이다.",
+  "sources": [
+   "https://english.shanghai.gov.cn/en-FestivalsCelebrations/20260515/ee03e0a7bc6e4d87acc0a1cbe5d8ca49.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c19",
+  "field": "fees",
+  "text": "전망대와 SKY632 예술 공간을 묶은 결합권 정가는 268위안이다.",
+  "sources": [
+   "https://english.shanghai.gov.cn/en-FestivalsCelebrations/20260515/ee03e0a7bc6e4d87acc0a1cbe5d8ca49.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c20",
+  "field": "fees",
+  "text": "전망대(118층) 성인 정가는 2025년 9월 시 관광 공지에서도 180위안이었다.",
+  "sources": [
+   "https://english.shanghai.gov.cn/en-FestivalsCelebrations/20250911/9502fe309abc41a9a2f61966e5725b6a.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c21",
+  "field": "reservation",
+  "text": "상하이시 문화관광국 공지에 상하이즈뎬 전망대는 실명 구매가 필요한 시설로 올라 있다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw4411/20240611/7d585934fa1e44f39a358ee54bfdfe76.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c22",
+  "field": "reservation",
+  "text": "공식 사이트는 신분증 또는 여권을 지참하라고 안내한다.",
+  "sources": [
+   "https://en.shanghaitower.com/shagnhai.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c23",
+  "field": "reservation",
+  "text": "공식 온라인 구매 채널은 씨트립, 퉁청(LY.com), 메이퇀, 다중덴핑이다(영문 페이지에는 뤼마마도 표기되어 있다).",
+  "sources": [
+   "https://en.shanghaitower.com/shagnhai.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c24",
+  "field": "tip",
+  "text": "전망대 상담 전화는 (8621)2065 6999이고, 공식 사이트의 문의 핫라인은 (8621)80370150(월~일 09:00~18:00)이다.",
+  "sources": [
+   "https://en.shanghaitower.com/contactus.html",
+   "https://en.shanghaitower.com/shagnhai.html"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c1",
+  "field": "location",
+  "text": "우캉루-안푸루 거리는 상하이시 쉬후이구에 있다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/tourism-and-leisure-district/wukang-roadanfu-road-block-582543/"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c2",
+  "field": "description",
+  "text": "우캉루-안푸루 거리는 쉬후이구 헝푸 역사문화풍모구 안에 있고 전체 길이는 1.5km로 안내된다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/tourism-and-leisure-district/wukang-roadanfu-road-block-582543/"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c3",
+  "field": "hours",
+  "text": "우캉루-안푸루 거리는 하루 종일 개방된다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/tourism-and-leisure-district/wukang-roadanfu-road-block-582543/"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c4",
+  "field": "location",
+  "text": "우캉빌딩의 주소는 화이하이중루 1850호이다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/tc/shanghai-citywalk-route-recommendation/roam-the-city-walk-on-wukang-road-699518/"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c5",
+  "field": "caution",
+  "text": "우캉빌딩은 주민 거주 건물이라 내부는 일반에 공개되지 않는다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/tc/shanghai-citywalk-route-recommendation/roam-the-city-walk-on-wukang-road-699518/"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c6",
+  "field": "description",
+  "text": "우캉빌딩은 1924년 다섯 갈래 길이 만나는 교차로에서 완공되었다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/wbzx/20220627/ca2550ff9a7c4646b58668e4bec959c4.html"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c7",
+  "field": "location",
+  "text": "우캉빌딩이 있는 교차로에서 화이하이중루, 우캉루, 싱궈루, 톈핑루, 위칭루가 만난다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/wbzx/20220627/ca2550ff9a7c4646b58668e4bec959c4.html"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c8",
+  "field": "location",
+  "text": "우캉루 관광안내센터의 주소는 쉬후이구 우캉루 393호 갑(甲)이다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/gqfc/20260223/89afcd3c4e3c410ab793679a9c788ae5.html"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c9",
+  "field": "hours",
+  "text": "우캉루 관광안내센터는 일요일~금요일 9:00~17:00, 토요일과 법정 공휴일 9:00~20:30에 운영한다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/gqfc/20260223/89afcd3c4e3c410ab793679a9c788ae5.html"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c10",
+  "field": "tip",
+  "text": "우캉루 관광안내센터 전화번호는 021-64335000이다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/gqfc/20260223/89afcd3c4e3c410ab793679a9c788ae5.html"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c11",
+  "field": "tip",
+  "text": "관광안내센터의 짐 보관 요금은 가방 크기에 따라 시간당 2~4위안이다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/gqfc/20260223/89afcd3c4e3c410ab793679a9c788ae5.html"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c12",
+  "field": "caution",
+  "text": "관광안내센터 짐은 17:00 전에 찾아야 하며 폐관 후에는 센터에 들어갈 수 없고 장기 보관은 지원되지 않는다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/gqfc/20260223/89afcd3c4e3c410ab793679a9c788ae5.html"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c13",
+  "field": "tip",
+  "text": "2024년 6월 신문 보도(해방일보)에 따르면 지하철 교통대학역에서 우캉빌딩 사이 상점 상당수가 짐 보관을 제공했으며, 캐리어 하나당 크기에 따라 하루 10~20위안이었다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw4411/20240627/e2f1197c66194f7bafc8e6dc4537d554.html"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c14",
+  "field": "tip",
+  "text": "우캉빌딩 인근 쑹칭링 고거 기념관(화이하이중루 1843호)은 화~일 9:00~17:00에 열고 16:30부터 입장이 중지된다(2024-10 기준).",
+  "sources": [
+   "https://www.meet-in-shanghai.net/tc/shanghai-citywalk-route-recommendation/roam-the-city-walk-on-wukang-road-699518/"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c15",
+  "field": "tip",
+  "text": "바진 고거(우캉루 113호)는 수리 중이라 공개되지 않는다고 안내된다(2024-10 기준).",
+  "sources": [
+   "https://www.meet-in-shanghai.net/tc/shanghai-citywalk-route-recommendation/roam-the-city-walk-on-wukang-road-699518/"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c1",
+  "field": "location",
+  "text": "주소는 쑤저우시 동북가(东北街) 178호다.",
+  "sources": [
+   "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c2",
+  "field": "description",
+  "text": "졸정원은 쑤저우 고성 안에 있으며 면적은 5.2헥타르다.",
+  "sources": [
+   "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c3",
+  "field": "description",
+  "text": "1961년 국가 중요 문물로 등재되었고 1997년 유네스코 세계유산 목록에 올랐다.",
+  "sources": [
+   "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c4",
+  "field": "description",
+  "text": "정원 동쪽은 강남 마을 같은 소박하고 트인 풍경이다.",
+  "sources": [
+   "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c5",
+  "field": "description",
+  "text": "정원 중부는 핵심 구역으로 수변 풍경이 중심이다.",
+  "sources": [
+   "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c6",
+  "field": "description",
+  "text": "정원 서쪽은 굽이치는 지붕 회랑이 특징이다.",
+  "sources": [
+   "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c7",
+  "field": "highlight",
+  "text": "연못이 넓어 물이 전체 면적의 5분의 1을 차지하고, 정자와 누각이 모두 물가에 배치되어 있다.",
+  "sources": [
+   "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c8",
+  "field": "highlight",
+  "text": "연꽃에서 이름을 딴 건물이 10채 넘고, 해마다 열리는 연꽃 축제로 알려져 있다.",
+  "sources": [
+   "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c9",
+  "field": "hours",
+  "text": "쑤저우시 원림녹화관리국 안내(2025년 1월 게시) 기준 3~10월 개방시간은 07:30~17:30이며 입장(검표) 마감은 17:00다.",
+  "sources": [
+   "http://ylj.suzhou.gov.cn/szsylj/kfsj/wztt.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c10",
+  "field": "hours",
+  "text": "쑤저우시 원림녹화관리국 안내(2025년 1월 게시) 기준 11월~이듬해 2월 개방시간은 07:30~17:00이며 입장 마감은 16:30다.",
+  "sources": [
+   "http://ylj.suzhou.gov.cn/szsylj/kfsj/wztt.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c11",
+  "field": "hours",
+  "text": "쑤저우시 원림녹화관리국 안내(2025년 1월 게시) 기준 청명, 노동절, 중추절, 국경절 연휴에는 30분 늦은 18:00에 문을 닫는다.",
+  "sources": [
+   "http://ylj.suzhou.gov.cn/szsylj/kfsj/wztt.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c12",
+  "field": "hours",
+  "text": "2026년 6월 19일부터 10월 7일까지는 개원 시간이 06:45로 앞당겨졌다(기간 종료).",
+  "sources": [
+   "http://www.suzhou.gov.cn/szsrmzf/dstx/202606/b12c95b19bd14f499300f2324c9aa7dd.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c13",
+  "field": "hours",
+  "text": "쑤저우시 원림녹화관리국 안내(2025년 1월 게시) 기준 야간 프로그램 '拙政问雅'는 화~일 18:30~22:00, 입장 마감 21:00이며 세부 시간은 공식 위챗(苏州园林旅游) 공지를 따른다.",
+  "sources": [
+   "http://ylj.suzhou.gov.cn/szsylj/kfsj/wztt.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c14",
+  "field": "fees",
+  "text": "쑤저우시 원림녹화관리국 요금표(2024년 7월 게시) 기준 입장료는 성수기(4·5·7·8·9·10월) 80위안, 비수기(1·2·3·6·11·12월) 70위안이며 10월은 성수기다.",
+  "sources": [
+   "https://ylj.suzhou.gov.cn/szsylj/mpjg/wztt.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c15",
+  "field": "fees",
+  "text": "2025년 6월 쑤저우시 보도 기준, 키 1.4m 이상 아동, 만 6세 초과~18세 이하 미성년자, 대학 학부 이하 재학생은 신분증·학생증을 제시하면 상시 반값 우대를 받는다.",
+  "sources": [
+   "https://www.suzhou.gov.cn/szsrmzf/mszx/202506/71af3fd4cda04e3f9dab4f55c79ead8f.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c16",
+  "field": "reservation",
+  "text": "졸정원은 실명제 시간대 예약 구매 방식이며 방문객은 1~7일 전에 온라인 플랫폼으로 예약해야 한다.",
+  "sources": [
+   "http://www.suzhou.gov.cn/szsrmzf/dstx/202606/b12c95b19bd14f499300f2324c9aa7dd.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c17",
+  "field": "reservation",
+  "text": "예약 때 등록한 신분증을 단말기에 대고 입장한다.",
+  "sources": [
+   "http://www.suzhou.gov.cn/szsrmzf/dstx/202606/b12c95b19bd14f499300f2324c9aa7dd.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c18",
+  "field": "reservation",
+  "text": "쑤저우시는 2024년 6월 졸정원 등 7곳만 실명 예약을 유지하고 나머지 A급 관광지는 취소한다고 공지했다.",
+  "sources": [
+   "https://www.suzhou.gov.cn/szsrmzf/szyw/202406/40f954ccaae94c33b74a5a4aa08bf968.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c19",
+  "field": "reservation",
+  "text": "2025년 9월 쑤저우시 보도 기준, 무료 입장 대상자와 연간 회원은 예약 없이 바로 확인 후 입장할 수 있다.",
+  "sources": [
+   "https://www.suzhou.gov.cn/szsrmzf/szyw/202509/c6128d90df5b4d2e871ce1812c582c64.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c20",
+  "field": "access",
+  "text": "입장 방식으로 신분증, 사회보장카드, 안면 인식을 지원하는 개찰구가 도입되었다.",
+  "sources": [
+   "https://www.suzhou.gov.cn/szsrmzf/szyw/202509/c6128d90df5b4d2e871ce1812c582c64.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c21",
+  "field": "payment",
+  "text": "쑤저우 직속 정원의 현장 매표 창구는 여러 결제 수단을 지원한다고 안내된다.",
+  "sources": [
+   "https://www.suzhou.gov.cn/szsrmzf/szyw/202509/c6128d90df5b4d2e871ce1812c582c64.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c22",
+  "field": "language",
+  "text": "쑤저우 정원 다수가 다국어 안내판과 명소 설명을 갱신했다고 보도되었다.",
+  "sources": [
+   "https://www.suzhou.gov.cn/szsrmzf/szyw/202509/c6128d90df5b4d2e871ce1812c582c64.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c23",
+  "field": "tip",
+  "text": "대부분의 쑤저우 정원은 휠체어와 유모차를 무료로 빌려준다.",
+  "sources": [
+   "https://www.suzhou.gov.cn/szsrmzf/szyw/202509/c6128d90df5b4d2e871ce1812c582c64.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c24",
+  "field": "tip",
+  "text": "문의 전화는 962015, 0512-67576116이다.",
+  "sources": [
+   "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c25",
+  "field": "caution",
+  "text": "정원 안에서 꽃과 나무 꺾기, 난간 넘기, 잔디 밟기, 나무·대나무 낙서는 금지된다.",
+  "sources": [
+   "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c26",
+  "field": "caution",
+  "text": "정원 안은 금연이며 화기와 바비큐 도구 반입이 금지된다.",
+  "sources": [
+   "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c27",
+  "field": "caution",
+  "text": "반려동물 동반, 수영·낚시, 허가 없는 상행위와 가이드 행위가 금지된다.",
+  "sources": [
+   "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c28",
+  "field": "caution",
+  "text": "입장하려면 표를 구입하거나 유효한 신분증을 제시한 뒤 입구에서 검표를 받아야 한다.",
+  "sources": [
+   "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c1",
+  "field": "location",
+  "text": "도쿄 디즈니 리조트(도쿄 디즈니랜드·디즈니씨·이크스피아리 포함)의 주소는 1-1 Maihama, Urayasu-shi, Chiba-ken이다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c2",
+  "field": "location",
+  "text": "'도쿄' 디즈니 리조트라는 이름과 달리 파크는 도쿄만 건너편 지바현 우라야스시에 있다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ }
+]

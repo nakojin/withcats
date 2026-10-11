@@ -1,0 +1,610 @@
+[
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c20",
+  "field": "fees",
+  "text": "단체(20명 이상) 요금은 현재 어른 320엔·고등학생 240엔·초중학생 120엔이며, 11월 23일부터 800엔·610엔·300엔이 된다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/14/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c21",
+  "field": "fees",
+  "text": "오키나와현 거주 70세 이상은 입장 무료이며 창구에서 운전면허증·건강보험증 등 공적 증명서 원본을 제시해야 한다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/14/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c22",
+  "field": "fees",
+  "text": "장애인 수첩 소지자는 본인과 보호자 1명까지 무료이며, 유이레일 1일·2일 승차권을 제시하면 단체 요금이 적용된다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/14/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c23",
+  "field": "fees",
+  "text": "정전 내부 관람에 추가 요금은 없으며 유료 구역 입장료만 내면 된다. 연간 패스포트는 일반 어른 2,000엔, 현민 어른 1,500엔(11월 23일 입장분부터)이다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/qa/",
+   "https://oki-park.jp/shurijo/ticket_guide/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c24",
+  "field": "reservation",
+  "text": "정전 내부는 2026년 11월 23일 일반 공개되며, 30분 단위 날짜·시간 지정 사전 예약제다. 개인 예약 입장권은 2026년 9월 1일 13:00부터 판매 중이다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/qa/",
+   "https://oki-park.jp/shurijo/ticket_guide/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c25",
+  "field": "reservation",
+  "text": "정전 내부를 보지 않는 입장권은 예약이 필요 없으며, 입장 예정일 1개월 전부터 마지막 입장 15분 전까지 웹 또는 당일 창구에서 살 수 있다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/ticket_guide/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c26",
+  "field": "reservation",
+  "text": "예약 시간대 목안은 모노레일 이용 시 슈리역 도착 예정 시각 40~50분 후, 자가용은 공원 주변 도착 예정 시각 30~50분 후이다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/ticket_guide/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c27",
+  "field": "reservation",
+  "text": "버스 주차장은 예약 시스템을 통한 완전 사전 예약제이며, 예약은 이용 2일 전까지 해야 한다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/access/192/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c28",
+  "field": "payment",
+  "text": "당일권은 고후쿠문(広福門) 매표소와 온라인 티켓으로 살 수 있다. 창구와 공원 내 시설에서 신용카드, 교통계 IC 등 전자머니, PayPay·Alipay·WeChat Pay 등 QR 결제를 쓸 수 있다(일부 시설 제외).",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/14/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c29",
+  "field": "duration",
+  "text": "슈이무칸에서 정전 내부 관람을 포함한 전체 소요 시간은 혼잡에 따라 약 90~120분이다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/ticket_guide/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c30",
+  "field": "language",
+  "text": "공식 사이트에 한국어 페이지가 있고, 공식 웹앱 '슈리성 앱'의 일부 사적 스폿에서 일·영·중·한 4개 언어 음성 해설을 스마트폰으로 들을 수 있다(무료, 설치 불필요).",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/19/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c31",
+  "field": "caution",
+  "text": "공원 안에서는 드론 반입·비행이 금지된다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/1315/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c32",
+  "field": "caution",
+  "text": "성벽 안은 전면 금연이고, 자전거·킥보드·스케이트보드류와 불꽃놀이, 총검류 모조품 등의 반입은 금지된다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/1315/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c33",
+  "field": "caution",
+  "text": "소형견·고양이류는 리드를 하거나 케이지에 넣으면 공원에 들어갈 수 있으나 건물 안과 유료 구역에는 동반할 수 없다(보조견 제외).",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/1315/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c34",
+  "field": "caution",
+  "text": "휠체어·지팡이 대여는 무료이며 예약은 받지 않는다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/qa/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c35",
+  "field": "tip",
+  "text": "공원 관리센터 전화는 098-886-2020이며 전화 접수 시간은 8:00~18:00이다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/15/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c1",
+  "field": "location",
+  "text": "주소는 〒905-0206 오키나와현 구니가미군 모토부쵸 이시카와 424번지이며 해양박공원 안에 있다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/hour/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c2",
+  "field": "access",
+  "text": "나하공항에서 자가용(고속도로 이용)으로 약 2시간, 고속버스로 약 3시간 걸린다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/access/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c3",
+  "field": "access",
+  "text": "주된 교통수단은 자가용(렌터카 포함), 고속버스, 노선버스, 택시이며, 기념공원앞 버스정류장에서 수족관 입구까지 도보 약 10분이다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/access/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c4",
+  "field": "access",
+  "text": "카 내비게이션에서 '오키나와 추라우미 수족관'이 검색되지 않으면 '해양박기념공원' 또는 '해양박공원'으로 검색하고, 맵코드는 553075797, 전화번호 검색은 0980-48-2741이다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/access/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c5",
+  "field": "parking",
+  "text": "해양박공원 주차장 9곳은 모두 무료다. 북쪽 주차 구역(P7)이나 북문 앞 주차 구역(P6)이 가장 편리하다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/access/",
+   "https://churaumi.okinawa/kr/faq/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c6",
+  "field": "parking",
+  "text": "북게이트 입체주차장에 EV 보통충전기가 1층 10기·3층 2기 있고 무료이나 예약은 받지 않으며 완충에 약 5~7시간 걸린다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/access/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c7",
+  "field": "parking",
+  "text": "오토바이·자전거 주차장은 P5 주차장에서 이용할 수 있다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/faq/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c8",
+  "field": "caution",
+  "text": "비를 피할 지붕이 없는 동선이라 비 오는 날 주차장에서 수족관까지 우산이 필요하고, 우산 대여는 없다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/faq/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c9",
+  "field": "hours",
+  "text": "평상시 운영시간은 8:30~18:30이고 입장 마감은 17:30이다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/hour/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c10",
+  "field": "hours",
+  "text": "성수기①(2026년 4월 25일~5월 6일, 7월 18일~7월 31일)은 8:30~20:00이고 입장 마감은 19:00이다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/hour/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c11",
+  "field": "hours",
+  "text": "성수기②(2026년 8월 1일~8월 31일)는 8:30~21:00이고 입장 마감은 20:00이다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/hour/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c12",
+  "field": "closed_days",
+  "text": "태풍 등 임시휴관을 제외하면 2027년 3월 31일까지 휴관 예정이 없고, 연말연시에도 평소 시간으로 개관한다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/hour/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c13",
+  "field": "caution",
+  "text": "2027년 1월 4일~9일 돌고래 쇼가 일시 중단된다. 태풍 등 날씨나 생물 상태에 따라 쇼 내용이 바뀌거나 중지될 수 있다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/",
+   "https://churaumi.okinawa/kr/faq/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c14",
+  "field": "hours",
+  "text": "돌고래 라군·바다거북관 등 수족관 주변 시설은 평상시 8:30~17:30, 성수기(2026.4.25~5.6, 7.18~8.31)에는 8:30~19:00이다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/hour/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c15",
+  "field": "fees",
+  "text": "일반 입장료는 성인 2,180엔, 고등학생 1,440엔, 초·중학생 710엔이다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/info/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c16",
+  "field": "fees",
+  "text": "6세 미만(미취학 아동)은 무료다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/info/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c17",
+  "field": "fees",
+  "text": "신체장애인수첩·요육수첩·정신장애인 보건복지수첩 소지자는 무료이고 동반자 1명도 무료이며, 한국의 장애인 복지카드도 인정 목록에 있다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/info/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c18",
+  "field": "fees",
+  "text": "단체(20명 이상) 요금은 성인 1,730엔, 고등학생 1,140엔, 초·중학생 560엔이고, 연간이용권은 성인 4,360엔(고등학생 2,880엔, 초·중학생 1,420엔)이다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/info/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c19",
+  "field": "fees",
+  "text": "오키나와현민 요금과 경로우대 요금은 없다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/faq/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c20",
+  "field": "tip",
+  "text": "입장권은 수족관 입장권 판매소와 웹사이트(アソビュー)에서 살 수 있고, 단체 티켓과 연간이용권은 판매소에서만 판다. 매표소에서 신분증이나 학생증 제시를 요청받을 수 있다. 당일에 한해 재입장이 가능하며 재입장 시 입구에서 입장권을 제시한다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/info/",
+   "https://churaumi.okinawa/kr/faq/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c21",
+  "field": "reservation",
+  "text": "일반 개인 입장에 사전 예약이 필요하다는 안내는 없다. 학교 단체를 제외한 단체는 예약이 필요 없었으나 2026년 10월 1일부터 해외 단체는 20명 이상, 국내 일반 단체는 100명 이상이면 예약이 필요하다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/faq/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c22",
+  "field": "payment",
+  "text": "매표소, 레스토랑 '이노', 모든 상점(기념품점)에서 신용카드를 쓸 수 있다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/faq/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c23",
+  "field": "payment",
+  "text": "해양박공원 유람차는 현금으로 지불한다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/faq/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c25",
+  "field": "language",
+  "text": "공식 사이트는 한국어를 지원하며, 무료 와이파이(Churaumi_Free_WiFi, 1회 30분)는 영어·중국어·한국어로 이용할 수 있다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/faq/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c26",
+  "field": "tip",
+  "text": "각 수조 해설을 들을 수 있는 음성 가이드를 무료로 제공하며, 스마트폰으로 재생하고 관내에서는 이어폰으로 이용한다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/service/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c27",
+  "field": "tip",
+  "text": "코인 로커는 300~1,000엔이며 8시 30분부터 입장 마감까지 이용할 수 있다(캐시리스 대응, 동전 사용 가능).",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/service/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c28",
+  "field": "caution",
+  "text": "관내 음식물 반입·취식은 삼가야 하고(밀폐 용기의 수분 보충 음료만 가능), 전면 금연이며, 반려동물은 안내견·보조견을 제외하면 입장할 수 없다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/caution/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c29",
+  "field": "caution",
+  "text": "수족관 안에서는 셀카봉 사용을 삼가야 하고 삼각대는 사용할 수 없으며, 개인 촬영은 가능하고(플래시 가능) 업무용 촬영은 사전 신청이 필요하다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/caution/",
+   "https://churaumi.okinawa/kr/faq/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c30",
+  "field": "duration",
+  "text": "관람 시간 제한은 없다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/faq/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c31",
+  "field": "description",
+  "text": "수족관은 수면에서 수심 700m 부근까지 오키나와 바다를 재현하고, 4층에서 1층까지 대해로의 초대·산호초 여행·쿠로시오 여행·심해 여행으로 구성된다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/outline/",
+   "https://churaumi.okinawa/kr/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c32",
+  "field": "highlight",
+  "text": "대형 수조 '쿠로시오의 바다'에서는 세계 최대의 물고기 고래상어와 세계 최초로 번식에 성공한 난요만타(쥐가오리)를 볼 수 있다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c33",
+  "field": "highlight",
+  "text": "'산호 바다' 수조에서는 대규모 산호 사육 전시를 볼 수 있다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/"
+  ]
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "cid": "r1-b20-c1",
+  "field": "location",
+  "text": "바다링 만리장성은 베이징시 옌칭구에 있다(공식 안내의 경내 주소는 '北京市延庆区八达岭长城景区').",
+  "sources": [
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1",
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnJczn&limit=20&page=1"
+  ]
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "cid": "r1-b20-c2",
+  "field": "access",
+  "text": "자가용은 징짱(G6) 또는 징리(G7) 고속도로로 접근해 안내판과 직원의 지시에 따라 지정 주차장에 세운 뒤 무료 셔틀로 경내에 들어간다.",
+  "sources": [
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexLineRouter&limit=20&page=1"
+  ]
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "cid": "r1-b20-c3",
+  "field": "access",
+  "text": "대중교통은 버스 919·880·877번, 교외 철도 S2선, 징장(京张) 고속철도로 갈 수 있으며 운행 상황은 철도 부문 공고를 따른다.",
+  "sources": [
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexLineRouter&limit=20&page=1"
+  ]
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "cid": "r1-b20-c4",
+  "field": "access",
+  "text": "국경절·중추절 기간에는 '장성버스'가 매일 9시 국가도서관 지하철역 C출구에서 출발하고, 15:30에 장성서점 앞에서 돌아오며 왕복 80위안(입장권 별도)이다. 이 기간 한정 안내이다.",
+  "sources": [
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexLineRouter&limit=20&page=1"
+  ]
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "cid": "r1-b20-c5",
+  "field": "access",
+  "text": "징장 고속철도 바다링창청역은 북선 케이블카 하부역에서 100m, 교외철도 S2선 바다링역은 남선 지상 케이블카에서 300m 거리이다.",
+  "sources": [
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1"
+  ]
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "cid": "r1-b20-c6",
+  "field": "hours",
+  "text": "성수기(4월 1일~10월 31일)에는 매일 6:30~16:30에 개방한다.",
+  "sources": [
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1"
+  ]
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "cid": "r1-b20-c7",
+  "field": "hours",
+  "text": "비수기(11월 1일~다음 해 3월 31일)에는 매일 7:30~16:00에 개방한다.",
+  "sources": [
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1"
+  ]
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "cid": "r1-b20-c8",
+  "field": "description",
+  "text": "개방 구간은 북12루(北十二楼)부터 남7.5루(南七楼半)까지이다.",
+  "sources": [
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1"
+  ]
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "cid": "r1-b20-c9",
+  "field": "description",
+  "text": "대외 개방 길이는 3,741m이고 성대(城台)와 장대(墙台)가 21개이다.",
+  "sources": [
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1"
+  ]
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "cid": "r1-b20-c10",
+  "field": "description",
+  "text": "수도를 지키는 중요한 관문이라 '북문쇄약(北门锁钥)'으로 불렸다.",
+  "sources": [
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1"
+  ]
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "cid": "r1-b20-c11",
+  "field": "description",
+  "text": "1961년 전국중점문물보호단위, 1987년 유네스코 세계유산 목록에 올랐다.",
+  "sources": [
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1"
+  ]
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "cid": "r1-b20-c12",
+  "field": "reservation",
+  "text": "입장권은 위챗 공식 계정 '长城内外旅游'·'八达岭长城', 공식 웹사이트, '长城内外' 온라인 판매 시스템에서 실명제로 예약 구매한다.",
+  "sources": [
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1"
+  ]
+ }
+]

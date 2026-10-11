@@ -1,0 +1,615 @@
+[
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c38",
+  "field": "highlight",
+  "text": "경내에는 약 200품종 6,000그루의 매화가 있고 예년 2월~3월 초가 절정이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/faq"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c39",
+  "field": "highlight",
+  "text": "꽃창포는 창포 연못에 약 55품종 30,000그루가 피며 예년 5월 하순~6월 상순이 절정이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/faq"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c40",
+  "field": "highlight",
+  "text": "보물전은 미치자네 관련 문화재 약 1만 점을 소장하고 국보 '한원(翰苑)' 등을 갖추고 있다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/keidaiannai",
+   "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c41",
+  "field": "tip",
+  "text": "10월 1~31일은 '특별 수험 합격 기원 대제' 기간이며, 10월 18일(일)에 10시·14시 두 차례 대제를 올린다. 기간 중 수험 합격 기원을 신청하면 한정 부적·에마 등을 받는다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/archives/1807"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c1",
+  "field": "location",
+  "text": "구마모토성 입장·관람 문의를 맡는 구마모토성 관리센터의 주소는 구마모토시 주오구 혼마루 1-1이다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/en/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c2",
+  "field": "hours",
+  "text": "개원 시간은 9~6월 9:00~17:00(최종 입장 16:00), 7~8월 9:00~19:00(최종 입장 18:00)이다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/en/info/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c3",
+  "field": "hours",
+  "text": "천수각 최종 입장 시간은 9~6월 오후 4시 30분, 7~8월 오후 6시 30분이다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/info/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c4",
+  "field": "closed_days",
+  "text": "영문 안내 페이지에 적힌 휴원일은 12월 29일 하루이며, 악천후 시 공원이 닫힐 수 있다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/en/info/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c5",
+  "field": "fees",
+  "text": "입장료는 고등학생 이상 800엔(30명 이상 단체 640엔), 초·중학생 300엔(단체 240엔)이다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/en/info/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c6",
+  "field": "fees",
+  "text": "영문 페이지는 6세 미만 어린이를 무료로, 한국어 페이지는 미취학 아동을 무료로 안내한다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/en/info/",
+   "https://castle.kumamoto-guide.jp/ko/info/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c7",
+  "field": "fees",
+  "text": "성(구마모토성)과 와쿠와쿠자 2개 시설 공통권은 고교생 이상 850엔, 초·중학생 300엔이고, 구마모토시립박물관을 더한 3개 시설권은 1,100엔/400엔이다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/info/",
+   "https://castle.kumamoto-guide.jp/en/info/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c8",
+  "field": "fees",
+  "text": "구마모토시 초·중학생, 장애인수첩 소지자, 65세 이상 구마모토 시민 등은 면제 대상이 될 수 있으며, 면제 대상도 창구에서 티켓을 받아야 한다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/info/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c9",
+  "field": "reservation",
+  "text": "입장권은 공식 사이트에 링크된 외부 예약 사이트에서 사전 구매할 수 있으며, 매표소가 붐빌 수 있어 시간 여유가 필요하다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/",
+   "https://castle.kumamoto-guide.jp/ko/info/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c10",
+  "field": "payment",
+  "text": "현금 외에 신용카드(VISA, MASTER, JCB, UnionPay, DINERS, AMEX, DISCOVER), 교통 IC카드·전자화폐(Edy, WAON, nanaco, iD, QUICPay), QR결제(WeChat Pay, Alipay, PayPay 등)를 쓸 수 있다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/info/",
+   "https://castle.kumamoto-guide.jp/en/info/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c11",
+  "field": "payment",
+  "text": "결제 가능 카드 종류는 매표소마다 다르며, 발권기는 UnionPay와 DISCOVER를 받지 않는다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/en/info/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c12",
+  "field": "language",
+  "text": "공식 사이트와 팸플릿은 일본어·영어·한국어·중국어 간체·번체로 제공된다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/en/info/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c13",
+  "field": "language",
+  "text": "자원봉사 가이드(구마모토 요카토코 가이드 그룹)를 종합관광안내소에서 요청할 수 있다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/en/info/",
+   "https://castle.kumamoto-guide.jp/ko/info/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c14",
+  "field": "access",
+  "text": "구마모토역에서 성과 주변 시설을 도는 순환버스 '시로메구린'이 있고, 1일 승차권에는 각 시설 할인권이 붙는다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/access/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c15",
+  "field": "access",
+  "text": "사쿠라노바바 조사이엔, 남쪽 출구, 니노마루 주차장을 잇는 무료 셔틀버스가 9:00~17:00에 10~15분 간격으로 다닌다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/access/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c16",
+  "field": "parking",
+  "text": "니노마루 주차장은 승용차 210대·이륜차 약 10대 규모이며 승용차 요금은 2시간까지 400엔, 이후 1시간마다 200엔이다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/access/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c17",
+  "field": "parking",
+  "text": "니노마루 주차장 영업시간은 7~8월 8:00~20:30(최종 입고 19:30), 9~6월 8:00~18:30(최종 입고 17:30)이다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/access/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c18",
+  "field": "parking",
+  "text": "승용차는 니노마루, 산노마루 제1·제2, 미야우치, 사쿠라노바바 관광교류시설 주차장을 이용할 수 있다. 버스 주차장은 예약이 필요하다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/access/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c19",
+  "field": "caution",
+  "text": "비 오는 날 바닥이 매우 미끄럽고, 혼잡 시 입장 제한이나 대기가 있을 수 있다. 천수각에는 반려동물을 데리고 들어갈 수 없고(보조견 제외), 유료 구역에서는 얼굴이 보이지 않는 케이지에 넣은 경우에만 실외 동반이 가능하다. 공원 내 화기 금지, 흡연은 니노마루 쉼터 옆·조사이엔 흡연소에서만 가능하다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/info/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c20",
+  "field": "caution",
+  "text": "혼마루고텐은 출입 불가이며, 우토야구라·아카즈노몬·니시오테몬은 철거 상태로 복구 공사가 예정되어 있다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/about/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c21",
+  "field": "tip",
+  "text": "휠체어는 무료로 빌릴 수 있고(수량 한정), 유모차 사용이 가능하며 천수각에는 엘리베이터 3대가 있다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/info/",
+   "https://castle.kumamoto-guide.jp/en/info/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c22",
+  "field": "description",
+  "text": "천수각은 외관 3중, 내부는 지상 6층 지하 1층이며, 2021년 3월에 완전히 복구되었다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/about/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c23",
+  "field": "description",
+  "text": "나가베이는 직선으로 242m 길이이고, 우토야구라는 3중 5층 지하 1층 구조로 '제3의 천수'로도 불린다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/about/"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c24",
+  "field": "description",
+  "text": "2016년 지진으로 천수각 최상층 기와와 샤치가와라가 떨어지고 지하 석축이 무너지는 등 피해를 입었다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/about/"
+  ]
+ },
+ {
+  "place": "WEST-035",
+  "name": "긴린코",
+  "cid": "r1-b13-c1",
+  "field": "location",
+  "text": "긴린코의 주소는 오이타현 유후시 유후인초 가와카미 1561-1이다.",
+  "sources": [
+   "https://yufuin.gr.jp/spot/spot-1268/",
+   "https://www.visit-oita.jp/spots/detail/4362"
+  ]
+ },
+ {
+  "place": "WEST-035",
+  "name": "긴린코",
+  "cid": "r1-b13-c2",
+  "field": "access",
+  "text": "오이타 자동차도 유후인 IC에서 차로 약 10분이다.",
+  "sources": [
+   "https://www.visit-oita.jp/spots/detail/4362",
+   "https://yufuin.gr.jp/feature/feature-1981/"
+  ]
+ },
+ {
+  "place": "WEST-035",
+  "name": "긴린코",
+  "cid": "r1-b13-c3",
+  "field": "access",
+  "text": "유후시 공식 관광 가이드는 JR 유후인역에서 도보 30분 정도로 안내한다.",
+  "sources": [
+   "https://yufuin.gr.jp/feature/feature-1981/"
+  ]
+ },
+ {
+  "place": "WEST-035",
+  "name": "긴린코",
+  "cid": "r1-b13-c4",
+  "field": "access",
+  "text": "일본정부관광국(JNTO) 영문 페이지는 JR 유후인역에서 도보 25분이라고 안내한다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/712/"
+  ]
+ },
+ {
+  "place": "WEST-035",
+  "name": "긴린코",
+  "cid": "r1-b13-c5",
+  "field": "parking",
+  "text": "전용 주차장은 안내되어 있지 않고 근처 유료 주차장을 이용하도록 되어 있다.",
+  "sources": [
+   "https://yufuin.gr.jp/spot/spot-1268/",
+   "https://www.visit-oita.jp/spots/detail/4362"
+  ]
+ },
+ {
+  "place": "WEST-035",
+  "name": "긴린코",
+  "cid": "r1-b13-c6",
+  "field": "closed_days",
+  "text": "정기 휴무일은 없다.",
+  "sources": [
+   "https://yufuin.gr.jp/spot/spot-1268/"
+  ]
+ },
+ {
+  "place": "WEST-035",
+  "name": "긴린코",
+  "cid": "r1-b13-c7",
+  "field": "description",
+  "text": "호수 둘레는 약 400m이며 산책로가 정비되어 있고 작은 잔교가 몇 곳 놓여 있다.",
+  "sources": [
+   "https://yufuin.gr.jp/feature/feature-1981/"
+  ]
+ },
+ {
+  "place": "WEST-035",
+  "name": "긴린코",
+  "cid": "r1-b13-c8",
+  "field": "description",
+  "text": "호수에는 샘물과 온천수가 모두 흘러들어 일 년 내내 수온이 높고, 늦가을~겨울 추운 날에는 호수 면에서 수증기가 올라온다.",
+  "sources": [
+   "https://yufuin.gr.jp/feature/feature-1981/",
+   "https://www.city.yufu.oita.jp/kankou/kankou-2/kankou_cate1_1/kinrinko"
+  ]
+ },
+ {
+  "place": "WEST-035",
+  "name": "긴린코",
+  "cid": "r1-b13-c9",
+  "field": "description",
+  "text": "1884년(메이지 17) 유학자 모리 구소가 석양에 반짝이는 물고기 비늘을 보고 '긴린코'라 이름 붙였다고 전해지며, 그전에는 '다케응시타응이케(岳ん下ん池)'라 불렸다.",
+  "sources": [
+   "https://yufuin.gr.jp/spot/spot-1268/",
+   "https://www.visit-oita.jp/spots/detail/4362"
+  ]
+ },
+ {
+  "place": "WEST-035",
+  "name": "긴린코",
+  "cid": "r1-b13-c10",
+  "field": "highlight",
+  "text": "호수 남동쪽에 있는 덴소 신사의 도리이가 호수 위에 떠 있는 듯 보여 인기 촬영 포인트이다.",
+  "sources": [
+   "https://yufuin.gr.jp/feature/feature-1981/"
+  ]
+ },
+ {
+  "place": "WEST-035",
+  "name": "긴린코",
+  "cid": "r1-b13-c11",
+  "field": "highlight",
+  "text": "추운 날 이른 아침이 수증기를 보기 좋은 시간대로 추천된다.",
+  "sources": [
+   "https://yufuin.gr.jp/feature/feature-1981/"
+  ]
+ },
+ {
+  "place": "WEST-035",
+  "name": "긴린코",
+  "cid": "r1-b13-c12",
+  "field": "tip",
+  "text": "문의처는 유후시 투어리스트 인포메이션 센터(전화 0977-84-2446)이다.",
+  "sources": [
+   "https://www.visit-oita.jp/spots/detail/4362"
+  ]
+ },
+ {
+  "place": "WEST-035",
+  "name": "긴린코",
+  "cid": "r1-b13-c13",
+  "field": "caution",
+  "text": "촬영·사용 허가 문의는 유후시가 받지 않으며 토지 소유자에게 직접 문의해야 한다.",
+  "sources": [
+   "https://www.city.yufu.oita.jp/kankou/kankou-2/kankou_cate1_1/kinrinko"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c1",
+  "field": "location",
+  "text": "관리센터 주소는 〒903-0815 오키나와현 나하시 슈리킨조초 1-2이다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/15/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c2",
+  "field": "description",
+  "text": "슈리성은 류큐 왕국의 정치·외교·문화 중심지였고, 중국과 일본의 축성 문화를 융합한 건축 양식과 석조 기술의 가치를 인정받아 세계문화유산에 등록되었다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/guide/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c3",
+  "field": "highlight",
+  "text": "공원 안에는 슈레이문, 소노히얀우타키 석문, 엔카쿠지 터 등의 문화재가 흩어져 있다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/guide/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c4",
+  "field": "highlight",
+  "text": "정전 주변에는 나하 시내를 한눈에 내려다볼 수 있는 전망대 니시노아자나가 있다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/guide/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c5",
+  "field": "highlight",
+  "text": "봉신문에서는 매일 아침 개문 때 어개문식(우케조)이 실시된다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/guide/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c6",
+  "field": "access",
+  "text": "가장 가까운 역은 유이레일 슈리역이며, 슈리역에서 슈레이문까지 도보 약 15분이다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/access/9751/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c7",
+  "field": "access",
+  "text": "나하공항역에서 슈리역까지 유이레일로 약 27분, 요금은 어른 360엔·어린이 180엔이다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/access/9751/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c8",
+  "field": "access",
+  "text": "슈리역 앞에서 나하버스 7·8번(슈리성시타마치선)을 타고 '슈리성마에'에서 내리면 슈레이문까지 도보 약 1분이다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/access/9751/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c9",
+  "field": "access",
+  "text": "택시는 나하공항에서 약 10km(약 40~60분), 고쿠사이도리에서 약 4km(약 15~25분)이며 도로 상황에 따라 달라진다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/access/9751/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c10",
+  "field": "parking",
+  "text": "주차장(슈이무칸 P1·P2)은 4~11월 8:30~19:30, 12~3월 8:30~18:30에 열며 주차 시간은 3시간 이내를 요청한다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/15/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c11",
+  "field": "parking",
+  "text": "소형차 주차 요금은 처음 60분 500엔, 이후 30분마다 250엔, 최대 1,000엔이며 현금과 신용카드(JCB, VISA, Mastercard, AMEX, Diners Club)로 낼 수 있다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/access/192/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c12",
+  "field": "parking",
+  "text": "일반 차량은 사전 예약이 불가하며 당일 빈자리 상황에 따라 이용한다. 만차일 때는 주변 민간 주차장을 안내받을 수 있다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/access/192/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c13",
+  "field": "parking",
+  "text": "주차장은 버스·승용차 겸용이며 50~116대 규모다(계절과 버스 주차에 따라 조정). 특히 오전에는 만차가 되기 쉬워 모노레일·노선버스 등 대중교통 이용을 권한다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/qa/",
+   "https://oki-park.jp/shurijo/access/9751/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c14",
+  "field": "hours",
+  "text": "무료 구역(환회문·목예문·구경문·계세문)은 4~11월 8:00~19:30, 12~3월 8:00~18:30에 연다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/15/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c15",
+  "field": "hours",
+  "text": "유료 구역(봉신문·세호전·히가시노아자나)은 4~11월 8:30~19:00(입장 마감 18:30), 12~3월 8:30~18:00(입장 마감 17:30)이다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/15/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c16",
+  "field": "closed_days",
+  "text": "2026년 11월 22일(일)은 공원 전체가 휴원·휴장한다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/15/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c17",
+  "field": "closed_days",
+  "text": "2026년 11월 23일은 정전 오프닝 행사로 무료 구역은 11:15부터, 유료 구역은 12:00부터 열며 정전 일반 공개도 정오에 시작한다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/15/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c18",
+  "field": "fees",
+  "text": "2026년 11월 21일까지의 유료 구역 개인(20명 미만) 요금은 어른 400엔, 고등학생 300엔, 초·중학생 160엔이고 6세 미만은 무료다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/14/"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c19",
+  "field": "fees",
+  "text": "2026년 11월 23일 입장분부터 개인 요금이 어른 1,000엔, 고등학생 760엔, 초·중학생 370엔으로 개정되며 6세 미만은 무료다(세금 포함).",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/14/"
+  ]
+ }
+]

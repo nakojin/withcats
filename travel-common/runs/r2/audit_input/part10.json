@@ -1,0 +1,603 @@
+[
+ {
+  "place": "east-qd-01",
+  "name": "잔교",
+  "cid": "r1-b24-c3",
+  "field": "description",
+  "text": "1892년에 지어졌으며 처음에는 길이 200m, 폭 10m의 부두였다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-01",
+  "name": "잔교",
+  "cid": "r1-b24-c4",
+  "field": "description",
+  "text": "독일 점령기에 350m로 확장되고 다리 위에 가벼운 철로가 깔렸다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-01",
+  "name": "잔교",
+  "cid": "r1-b24-c5",
+  "field": "description",
+  "text": "1931년 시 당국이 확장해 길이가 394.38m가 되었고 다리 면이 0.5m 높아졌다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-01",
+  "name": "잔교",
+  "cid": "r1-b24-c6",
+  "field": "description",
+  "text": "다리 남쪽 끝에 반원형 방파제를 더하고 그 안에 2층 처마의 팔각 누각을 지어 회란각(回澜阁)이라 이름 붙였다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-01",
+  "name": "잔교",
+  "cid": "r1-b24-c7",
+  "field": "description",
+  "text": "해방 이후 칭다오시 정부가 여러 차례 예산을 배정해 다리를 보수했다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-01",
+  "name": "잔교",
+  "cid": "r1-b24-c8",
+  "field": "fees",
+  "text": "회란각은 2016년 무료 개방을 시작했고, 개방 첫날 방문객이 4,200명이었다(2016년 보도).",
+  "sources": [
+   "http://www.qingdao.gov.cn/ywdt/tpxw/202010/t20201012_325848.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-01",
+  "name": "잔교",
+  "cid": "r1-b24-c9",
+  "field": "caution",
+  "text": "시난구 관계 부서 설명에 따르면 회란각의 순간 최대 수용 인원은 40명이다(2016년 보도).",
+  "sources": [
+   "http://www.qingdao.gov.cn/ywdt/tpxw/202010/t20201012_325848.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "cid": "r1-b25-c1",
+  "field": "location",
+  "text": "팔대관은 칭다오시 스난구 타이핑산 남쪽 기슭, 타이핑자오와 후이취안자오 사이에 있다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "cid": "r1-b25-c2",
+  "field": "location",
+  "text": "2022년 칭다오시 공안국 교통경찰 안내는 팔대관 주변 혼잡 도로로 자위관로와 산하이관로를 꼽았다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/zwgk/xxgk/gaj/ywflxx_561/jtgl/202206/t20220601_6089001.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "cid": "r1-b25-c3",
+  "field": "description",
+  "text": "팔대관은 1930년대에 조성되었다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "cid": "r1-b25-c4",
+  "field": "description",
+  "text": "팔대관의 면적은 66만 6천 제곱미터이다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "cid": "r1-b25-c5",
+  "field": "description",
+  "text": "옛 관문 이름을 붙인 여덟 개 거리가 있어 '팔대관'이라 부른다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "cid": "r1-b25-c6",
+  "field": "description",
+  "text": "독일·러시아·미국·영국·프랑스 등 수십 개국의 서로 다른 양식 건축 300여 채가 있어 '만국건축박람회'로 불린다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "cid": "r1-b25-c7",
+  "field": "description",
+  "text": "2001년 팔대관 근현대 건축군이 국무원에 의해 전국 중점 문물보호단위로 공포되었다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "cid": "r1-b25-c8",
+  "field": "description",
+  "text": "2005년 팔대관 풍경구는 '중국에서 가장 아름다운 도심 지역' 칭호를 받았다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "cid": "r1-b25-c9",
+  "field": "description",
+  "text": "팔대관은 후이취안자오 풍경구 북쪽에 있으며 지금은 거리가 10개이지만 이름은 그대로 유지된다.",
+  "sources": [
+   "http://english.qingdao.gov.cn/about/attractions/202112/t20211228_4153036.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "cid": "r1-b25-c10",
+  "field": "description",
+  "text": "칭다오시 문화관광국 2026년 6월 안내는 팔대관에서 화스러우·궁주러우·후디에러우를 둘러볼 수 있다고 소개한다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202606/t20260618_10638992.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "cid": "r1-b25-c11",
+  "field": "description",
+  "text": "화스러우 바로 옆에 제2해수욕장이 있고, 가까이에 타이핑자오 공원이 있다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202606/t20260618_10638992.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "cid": "r1-b25-c12",
+  "field": "tip",
+  "text": "팔대관은 좁은 일방통행 거리가 많아 걸어서 둘러보기 좋다고 칭다오시 영문 안내가 설명한다.",
+  "sources": [
+   "http://english.qingdao.gov.cn/services/travel/202112/t20211228_4153227.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "cid": "r1-b25-c13",
+  "field": "tip",
+  "text": "제1해수욕장은 팔대관에서 아주 가깝다.",
+  "sources": [
+   "http://english.qingdao.gov.cn/services/travel/202112/t20211228_4153227.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "cid": "r1-b25-c14",
+  "field": "access",
+  "text": "칭다오시 공안 공지는 4월 1일부터 11월 30일까지 팔대관 일부 구역의 차량 통행을 제한한다고 밝혔다(2024년 9월 공지 기준). 제한 구역은 타이핑자오1로 서쪽, 정양관1지로 동쪽, 정양관로 남쪽 일대이다.",
+  "sources": [
+   "http://www.qingdao.gov.cn/zwgk/xxgk/gaj/ywflxx_561/jtgl/202409/t20240914_8272650.shtml"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c1",
+  "field": "location",
+  "text": "박물관은 청도맥주가 태어난 곳인 덩저우로(登州路) 56호에 있다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c2",
+  "field": "description",
+  "text": "박물관은 1903년에 지어진 독일식 공업 건물군을 그대로 활용하고 있다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c3",
+  "field": "access",
+  "text": "지하철 1·2호선 타이둥(台东)역 A출구에서 타이둥1로를 따라 서쪽으로 80m, 이어 웨이하이로-덩저우로를 따라 남쪽으로 550m 걸어간다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1790373016308297729?viewName=newJiaotongDetail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c4",
+  "field": "access",
+  "text": "지하철 1호선 광라오로(广饶路)역 C출구에서 옌안로를 따라 동쪽으로 200m, 퉁산로를 따라 북쪽으로 300m, 덩저우로를 따라 동쪽으로 150m 걸어간다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1790373016308297729?viewName=newJiaotongDetail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c5",
+  "field": "access",
+  "text": "지하철 2호선 리진로(利津路)역 C출구에서 닝하이로를 따라 남쪽으로 400m, 덩저우로를 따라 서쪽으로 300m 걸어간다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1790373016308297729?viewName=newJiaotongDetail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c6",
+  "field": "access",
+  "text": "205·217·221·464번 버스는 '칭다오맥주박물관(青岛啤酒博物馆)' 정류장에 선다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1790373016308297729?viewName=newJiaotongDetail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c7",
+  "field": "hours",
+  "text": "5월 1일~6월 30일, 9월 1일~10월 31일에는 08:00~18:30에 열고 17:30에 입장을 마감한다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c8",
+  "field": "hours",
+  "text": "1월 1일~4월 30일, 11월 1일~12월 31일에는 08:30~17:30에 열고 16:30에 입장을 마감한다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c9",
+  "field": "hours",
+  "text": "7월 1일~8월 31일에는 07:30~19:30에 열고 18:30에 입장을 마감한다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c10",
+  "field": "fees",
+  "text": "4월 1일~10월 31일 기간의 기본 입장권(A관 역사발전관+B관 양조공정관)은 성인 60위안, 학생 50위안, 노인(60~69세) 30위안이며, 원장(原浆) 맥주 1잔과 순생(纯生) 맥주 1잔(각 0.15L), 맥주콩 한 봉지가 포함된다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c11",
+  "field": "fees",
+  "text": "70세 이상 노인은 신분증을 제시하면 무료이며, 60~69세는 성인권 반값 우대(노인권)를 받는다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c12",
+  "field": "fees",
+  "text": "신장 1.4m(포함) 이하 어린이는 무료이며 성인이 동반해야 입장할 수 있다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c13",
+  "field": "fees",
+  "text": "장애인(장애인증+신분증), 현역·퇴직 군인, 소방 인력 등은 안내데스크에서 정보를 등록하고 표를 교환하면 무료이다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c14",
+  "field": "fees",
+  "text": "학생권은 학생증과 신분증을 제시하는 만 23세 이하 전일제 본과 이하 학생이 살 수 있다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c15",
+  "field": "fees",
+  "text": "여러 종류 맥주를 맛보는 시음 패키지(A관+B관, 맥주 6종 각 0.15L와 맥주콩)는 1인 128위안이다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c16",
+  "field": "fees",
+  "text": "개인 맞춤 맥주 패키지(A관+B관, 생맥주 2잔과 맞춤 맥주 1병 포함)는 1인 90위안이다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c17",
+  "field": "fees",
+  "text": "중국어 해설은 10명 이하 한 팀에 150위안이며, 10명을 넘으면 1인당 15위안이 추가된다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c18",
+  "field": "fees",
+  "text": "외국어 해설은 10명 이하 한 팀에 200위안이며, 10명을 넘으면 1인당 20위안이 추가된다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c19",
+  "field": "fees",
+  "text": "셀프 가이드 기기는 대당 15위안이며 일회용 이어폰이 함께 제공된다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c20",
+  "field": "duration",
+  "text": "해설 서비스(중국어·외국어)는 전 과정이 약 50분이다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c21",
+  "field": "reservation",
+  "text": "위챗 공식 계정 '青岛啤酒博物馆'을 팔로우한 뒤 '购票指南 > 预约购票'에서 실명으로 입장권을 예약하거나, OTA에서 '青岛啤酒博物馆'을 검색해 예약한다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c22",
+  "field": "reservation",
+  "text": "입장 때는 구매 증빙 원본(본인 2세대 신분증, 구매 QR코드 등)으로 확인하며, 관내에서 여러 번 검표하므로 신분증이나 구매 QR코드를 미리 꺼내 둔다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+   "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c23",
+  "field": "reservation",
+  "text": "박물관은 실명 예약제로 입장권을 판매하므로 예약할 때 실명 정보를 정확히 입력해야 한다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c24",
+  "field": "reservation",
+  "text": "VIP 입장권(1인 269위안)은 2일 전에 예약해야 한다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c25",
+  "field": "language",
+  "text": "외국어 해설 서비스(10명 이하 200위안)를 이용할 수 있다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c26",
+  "field": "caution",
+  "text": "미성년자는 음주를 삼가고, 몸이 불편한 사람은 의사의 지시를 따르라고 안내한다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c27",
+  "field": "caution",
+  "text": "귀중품은 각자 잘 보관하라고 안내한다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c28",
+  "field": "description",
+  "text": "독일 점령기의 옛 문서 등 3만여 점의 문물을 볼 수 있다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c29",
+  "field": "description",
+  "text": "박물관은 국가 1급 박물관, 국가 AAAA급 관광지로 소개된다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c30",
+  "field": "highlight",
+  "text": "유리 벽 너머로 '등대공장'이라 불리는 현대식 생산 라인을 내려다볼 수 있다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c31",
+  "field": "highlight",
+  "text": "VR 양조 실험실에서 맥아 비율을 직접 조합해 보고, 개인 맞춤 라벨을 인쇄한 맥주를 만들 수 있다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1778381632533716994?viewName=gaikuangJieshao"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c32",
+  "field": "tip",
+  "text": "티켓 문의 고객센터 전화는 400-169-1903이다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c1",
+  "field": "location",
+  "text": "라오산은 칭다오 동쪽 황해 연안에 있다.",
+  "sources": [
+   "https://qdlaoshan.cn/Index-laoshan.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c2",
+  "field": "location",
+  "text": "공식 웹사이트 하단에 기재된 주소는 칭다오시 라오산구 메이링로 29호(우편번호 266061)이다.",
+  "sources": [
+   "https://qdlaoshan.cn/New-Index-index.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c3",
+  "field": "description",
+  "text": "라오산 전체 면적은 446제곱킬로미터이다.",
+  "sources": [
+   "https://qdlaoshan.cn/Index-laoshan.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c4",
+  "field": "description",
+  "text": "주봉 쥐펑은 해발 1132.7미터로 중국 대륙 해안선에서 가장 높은 봉우리이다.",
+  "sources": [
+   "https://qdlaoshan.cn/Index-laoshan.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c5",
+  "field": "description",
+  "text": "라오산은 1982년 국무원이 첫 국가중점풍경명승구로 지정했다.",
+  "sources": [
+   "https://qdlaoshan.cn/Index-laoshan.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c6",
+  "field": "description",
+  "text": "라오산은 국가 AAAAA급 관광지이자 국가삼림공원이다.",
+  "sources": [
+   "https://qdlaoshan.cn/Index-laoshan.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c7",
+  "field": "description",
+  "text": "핵심 관광 구역은 류칭, 쥐펑, 타이칭, 화옌, 양커우, 주수이, 화러우 일곱 곳이다.",
+  "sources": [
+   "https://qdlaoshan.cn/Index-laoshan.html"
+  ]
+ }
+]

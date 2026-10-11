@@ -1,0 +1,605 @@
+[
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c3",
+  "field": "access",
+  "text": "도쿄 디즈니랜드, 디즈니씨, 이크스피아리는 JR 게이요선 마이하마역에서 걸어서 몇 분 거리이다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c4",
+  "field": "access",
+  "text": "도쿄역에서 JR로 마이하마역까지 20분, 파크 입구까지 버스로 35분 걸린다.",
+  "sources": [
+   "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c5",
+  "field": "access",
+  "text": "신주쿠역에서 JR로 마이하마역까지 40분, 파크 입구까지 버스로 50분 걸린다.",
+  "sources": [
+   "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c6",
+  "field": "access",
+  "text": "하네다공항에서 JR로 마이하마역까지 50분, 파크 입구까지 버스로 45분 걸린다.",
+  "sources": [
+   "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c7",
+  "field": "access",
+  "text": "나리타공항에서 JR로 마이하마역까지 1시간 20분, 파크 입구까지 버스로 1시간 걸린다.",
+  "sources": [
+   "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c8",
+  "field": "access",
+  "text": "도쿄역에서 파크까지 가는 직행 버스가 있고, 공항에서도 버스로 파크에 바로 갈 수 있다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c9",
+  "field": "description",
+  "text": "도쿄 디즈니랜드는 미국 밖에서 처음 문을 연 디즈니 테마파크이다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c10",
+  "field": "description",
+  "text": "도쿄 디즈니랜드에는 어드벤처랜드, 웨스턴랜드, 판타지랜드, 투모로랜드, 크리터 컨트리, 미키의 툰타운, 월드 바자회 등의 구역이 있다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c11",
+  "field": "description",
+  "text": "스페이스 마운틴, 캐리비안의 해적, 빅 썬더 마운틴, 해운티드 맨션 같은 어트랙션이 있다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c12",
+  "field": "description",
+  "text": "스타 투어스, 몬스터 주식회사 '라이드&고 시크!', 푸우의 허니 헌트 같은 어트랙션도 있다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c13",
+  "field": "description",
+  "text": "도쿄 디즈니랜드·디즈니씨에는 일본 디즈니 파크에서만 즐길 수 있는 어트랙션과 체험이 있다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c14",
+  "field": "description",
+  "text": "밤에는 '도쿄 디즈니랜드 일렉트릭 퍼레이드 드림라이츠'가 열리며, 퍼레이드는 연중 진행된다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c15",
+  "field": "highlight",
+  "text": "월드 바자회는 도쿄 디즈니랜드에만 있는 완전히 독자적인 구역이다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneysea",
+  "name": "도쿄 디즈니씨",
+  "cid": "r1-b16-c1",
+  "field": "location",
+  "text": "도쿄 디즈니 리조트(도쿄 디즈니랜드·디즈니씨·이크스피아리 포함)의 주소는 1-1 Maihama, Urayasu-shi, Chiba-ken이다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneysea",
+  "name": "도쿄 디즈니씨",
+  "cid": "r1-b16-c2",
+  "field": "access",
+  "text": "도쿄 디즈니랜드, 디즈니씨, 이크스피아리는 JR 게이요선 마이하마역에서 걸어서 몇 분 거리이다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneysea",
+  "name": "도쿄 디즈니씨",
+  "cid": "r1-b16-c3",
+  "field": "access",
+  "text": "도쿄역에서 JR로 마이하마역까지 20분, 파크 입구까지 버스로 35분 걸린다.",
+  "sources": [
+   "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneysea",
+  "name": "도쿄 디즈니씨",
+  "cid": "r1-b16-c4",
+  "field": "access",
+  "text": "신주쿠역에서 JR로 마이하마역까지 40분, 파크 입구까지 버스로 50분 걸린다.",
+  "sources": [
+   "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneysea",
+  "name": "도쿄 디즈니씨",
+  "cid": "r1-b16-c5",
+  "field": "access",
+  "text": "하네다공항에서 JR로 마이하마역까지 50분, 파크 입구까지 버스로 45분 걸린다.",
+  "sources": [
+   "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneysea",
+  "name": "도쿄 디즈니씨",
+  "cid": "r1-b16-c6",
+  "field": "access",
+  "text": "나리타공항에서 JR로 마이하마역까지 1시간 20분, 파크 입구까지 버스로 1시간 걸린다.",
+  "sources": [
+   "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneysea",
+  "name": "도쿄 디즈니씨",
+  "cid": "r1-b16-c7",
+  "field": "description",
+  "text": "도쿄 디즈니씨는 바다의 신화와 전설을 테마로 한 유일한 디즈니 파크이다.",
+  "sources": [
+   "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneysea",
+  "name": "도쿄 디즈니씨",
+  "cid": "r1-b16-c8",
+  "field": "description",
+  "text": "도쿄 디즈니씨는 2001년에 문을 열었다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneysea",
+  "name": "도쿄 디즈니씨",
+  "cid": "r1-b16-c9",
+  "field": "description",
+  "text": "도쿄 디즈니씨는 테마 랜드 대신 서로 다른 테마 포트로 이루어져 있다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneysea",
+  "name": "도쿄 디즈니씨",
+  "cid": "r1-b16-c10",
+  "field": "description",
+  "text": "도쿄 디즈니씨에는 일본에서만 만날 수 있는 어트랙션 외에 레스토랑, 쇼 등 엔터테인먼트가 있고, 어트랙션에서 풍경을 즐길 수 있다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c1",
+  "field": "location",
+  "text": "오타루 운하의 주소는 오타루시 미나토마치 5(우편번호 047-0007)이다.",
+  "sources": [
+   "https://otaru.gr.jp/tourist/otarucanal"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c2",
+  "field": "access",
+  "text": "오타루 관광협회 안내는 JR 오타루역에서 도보 약 10분이다.",
+  "sources": [
+   "https://otaru.gr.jp/tourist/otarucanal"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c3",
+  "field": "access",
+  "text": "오타루시 안내는 JR 오타루역에서 도보 8분이다.",
+  "sources": [
+   "https://www.city.otaru.lg.jp/docs/2020100900367/"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c4",
+  "field": "access",
+  "text": "삿포로에서 쾌속 에어포트로 오타루까지 최단 32분, 신치토세 공항에서 최단 75분이다.",
+  "sources": [
+   "https://otaru.gr.jp/access"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c5",
+  "field": "access",
+  "text": "일반도로 이용 시 자동차로 삿포로→오타루 약 1시간 20분(국도 5호선), 신치토세 공항→오타루 약 2시간 30분이다(구글맵 측정, 도로 상황에 따라 변동).",
+  "sources": [
+   "https://otaru.gr.jp/access"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c6",
+  "field": "hours",
+  "text": "운하는 연중 산책할 수 있다.",
+  "sources": [
+   "https://otaru.gr.jp/tourist/otarucanal"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c7",
+  "field": "hours",
+  "text": "산책로 가스등은 일몰~24:00 점등, 돌 창고 조명은 일몰~22:30이며, 오타루 유키아카리노미치 기간에는 가스등이 15:00부터 켜진다.",
+  "sources": [
+   "https://otaru.gr.jp/tourist/otarucanal"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c8",
+  "field": "parking",
+  "text": "오타루 관광주차장(제1·제2)은 24시간 운영하는 게이트식이며 제1 89대, 제2 178대(오토바이 23대)이다. 요금은 60분 300엔, 24시까지 하루 최대 1,000엔이다.",
+  "sources": [
+   "https://otaru.gr.jp/citizen/parking-information"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c9",
+  "field": "parking",
+  "text": "오타루 사카이마치도리 상점가 주차장(미나토마치 7-7)은 9:00~19:00(계절에 따라 변동), 1시간 300엔·하루 최대 1,000엔이며 운하까지 도보 약 5분이다.",
+  "sources": [
+   "https://otaru.gr.jp/citizen/parking-information"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c10",
+  "field": "caution",
+  "text": "주차장 요금판은 2024-04-01에 확인된 내용이며 운영자별로 시간·요금이 달라질 수 있으니 방문 전 확인이 필요하다.",
+  "sources": [
+   "https://otaru.gr.jp/citizen/parking-information"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c11",
+  "field": "caution",
+  "text": "대표 사진 명소인 아사쿠사바시 거리공원은 낮에 관광객이 많아 붐빈다.",
+  "sources": [
+   "https://otaru.gr.jp/tourist/otarucanal"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c12",
+  "field": "description",
+  "text": "운하는 1923년(다이쇼 12년)에 완성되었고 바다를 매립해 만들어서 완만하게 휘어 있다.",
+  "sources": [
+   "https://www.city.otaru.lg.jp/docs/2020100900367/",
+   "https://otaru.gr.jp/tourist/otarucanal"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c13",
+  "field": "description",
+  "text": "운하의 전체 길이는 1,140m이고 도도 린코선 쪽 구간은 폭 20m, 북운하는 원래대로 40m이다.",
+  "sources": [
+   "https://www.city.otaru.lg.jp/docs/2020100900367/",
+   "https://otaru.gr.jp/tourist/otarucanal"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c14",
+  "field": "description",
+  "text": "1986년(쇼와 61년)에 운하 일부가 매립되어 폭의 절반은 도로, 나머지는 산책로와 공원이 되었다.",
+  "sources": [
+   "https://www.city.otaru.lg.jp/docs/2020100900367/"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c15",
+  "field": "description",
+  "text": "산책로에는 가스등이 63기 있고, 해 질 녘 가스등과 돌 창고 조명이 낮과 다른 분위기를 만든다.",
+  "sources": [
+   "https://www.city.otaru.lg.jp/docs/2020100900367/"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c16",
+  "field": "highlight",
+  "text": "겨울에 운하에서 오타루 유키아카리노미치 행사가 열린다.",
+  "sources": [
+   "https://www.city.otaru.lg.jp/docs/2020100900367/"
+  ]
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "cid": "r1-b14-c17",
+  "field": "tip",
+  "text": "운하 근처에 사카이마치도리 상점가, 옛 일본은행 오타루지점, 옛 데미야선 철로가 걸어서 갈 수 있는 거리에 있다.",
+  "sources": [
+   "https://otaru.gr.jp/tourist/otarucanal"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c1",
+  "field": "location",
+  "text": "주소는 〒111-0032 도쿄도 다이토구 아사쿠사 2-3-1이다.",
+  "sources": [
+   "https://www.senso-ji.jp/access/"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c2",
+  "field": "access",
+  "text": "도부 스카이트리라인, 도쿄메트로 긴자선, 쓰쿠바 익스프레스의 아사쿠사역에서 도보 5분이다.",
+  "sources": [
+   "https://www.senso-ji.jp/access/"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c3",
+  "field": "access",
+  "text": "도에이 지하철 아사쿠사선은 아사쿠사역 A4 출구에서 도보 5분이다.",
+  "sources": [
+   "https://www.senso-ji.jp/access/"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c4",
+  "field": "access",
+  "text": "버스는 도에이 버스, 게이세이 타운버스, 다이토구 순환버스 메구린이 안내된다.",
+  "sources": [
+   "https://www.senso-ji.jp/access/"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c5",
+  "field": "parking",
+  "text": "센소지에는 주차장이 없으며, 다이토구 가미나리몬 지하주차장 등 주변 주차장을 이용하도록 안내한다.",
+  "sources": [
+   "https://www.senso-ji.jp/access/"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c6",
+  "field": "hours",
+  "text": "본당 개당 시간은 오전 6시~오후 5시이며, 10월~3월은 오전 6시 30분부터다.",
+  "sources": [
+   "https://www.senso-ji.jp/access/"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c7",
+  "field": "hours",
+  "text": "본당 외 다른 건물의 개당 시간은 공식 사이트에 없고 문의하도록 되어 있다.",
+  "sources": [
+   "https://www.senso-ji.jp/access/"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c8",
+  "field": "hours",
+  "text": "센소지 문의 전화는 03-3842-0181이며 일요일·공휴일을 제외한 오전 9시~오후 4시 30분에 받는다.",
+  "sources": [
+   "https://www.senso-ji.jp/access/"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c9",
+  "field": "hours",
+  "text": "일본정부관광국은 센소지가 매일 일몰부터 밤 11시경까지 라이트업된다고 소개한다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1691/"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c10",
+  "field": "fees",
+  "text": "도쿄도 관광 사이트(GO TOKYO)는 센소지에 무료(Free) 키워드를 붙여 입장 무료로 분류한다.",
+  "sources": [
+   "https://www.gotokyo.org/en/spot/15/index.html"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c11",
+  "field": "language",
+  "text": "센소지 공식 사이트는 영어·중국어(간체·번체)·한국어 페이지를 제공한다.",
+  "sources": [
+   "https://www.senso-ji.jp/korean/"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c12",
+  "field": "language",
+  "text": "GO TOKYO는 시설 정보에 일본어·영어·중국어(번체)·한국어를 지원 언어로 표시한다.",
+  "sources": [
+   "https://www.gotokyo.org/en/spot/15/index.html"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c13",
+  "field": "caution",
+  "text": "본당 왼쪽에 엘리베이터가 있고 경내는 평탄하며, 다목적 화장실은 호조몬 오른쪽과 본당 뒤쪽 안에 각 1곳 있다(오스토메이트 설비 없음).",
+  "sources": [
+   "https://www.senso-ji.jp/faq/"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c14",
+  "field": "tip",
+  "text": "반도 33관음 13번 영장이자 에도 33관음 1번 영장이며, 고슈인(御朱印) 접수처는 경내 서쪽 에고도(影向堂)에 있다.",
+  "sources": [
+   "https://www.senso-ji.jp/faq/"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c15",
+  "field": "description",
+  "text": "전승에 따르면 628년 3월 18일 새벽 스미다강에서 고기잡이하던 형제의 그물에 관음상이 걸려 센소지가 시작되었다.",
+  "sources": [
+   "https://www.senso-ji.jp/about/"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c16",
+  "field": "description",
+  "text": "센소지 공식 한국어 페이지는 센소지를 도쿄에서 가장 오래된 사찰로 소개하며 연간 약 3,000만 명이 참배한다고 적고 있다.",
+  "sources": [
+   "https://www.senso-ji.jp/korean/"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c17",
+  "field": "highlight",
+  "text": "현재의 가미나리몬은 1960년에 재건되었고, 초롱은 높이 3.9m, 폭 3.3m, 무게 700kg이다.",
+  "sources": [
+   "https://www.senso-ji.jp/guide/guide01.html"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c18",
+  "field": "highlight",
+  "text": "호조몬에는 높이 4.5m, 무게 500kg의 대형 짚신이 걸려 있으며 인왕상을 안치한다.",
+  "sources": [
+   "https://www.senso-ji.jp/guide/guide03.html"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c19",
+  "field": "highlight",
+  "text": "오층탑이 경내 어디에서나 보이며, 가미나리몬에서 이어지는 나카미세 거리는 길이 250m의 상점가다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1691/"
+  ]
+ },
+ {
+  "place": "jp-fukuoka-canal-city",
+  "name": "캐널시티 하카타",
+  "cid": "r1-b18-c1",
+  "field": "location",
+  "text": "주소는 〒812-0018 후쿠오카현 후쿠오카시 하카타구 스미요시 1초메 2이다.",
+  "sources": [
+   "https://www.canalcity.co.jp/access/"
+  ]
+ }
+]

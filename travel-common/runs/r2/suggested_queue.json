@@ -1,0 +1,2036 @@
+[
+ {
+  "place": "east-qd-01",
+  "name": "잔교",
+  "sid": "r1-b24-s1",
+  "field": "caution",
+  "hint_text": "칭다오 해빈경구관리서비스센터가 2026년 10월 5일 낸 공고에 따라 2026년 10월 13일 22시부터 회란각과 주변 구역이 보수 공사로 폐쇄되며, 공사 기간(2026년 10월 중순 착공, 12월 중순 완공 예정)에는 관람할 수 없다.",
+  "hint_url": "http://www.qingdao.gov.cn/ywdt/zwyw/202610/t20261006_10746545.shtml",
+  "priority": 1
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "sid": "r1-b25-s1",
+  "field": "caution",
+  "hint_text": "타이칭 케이블카는 국가 여객 삭도 안전 규정에 따라 2026년 4월 24일부터 운행이 중단되었고 재개 시점은 추후 공지된다.",
+  "hint_url": "https://qdlaoshan.cn/News-info-nid-6319.html",
+  "priority": 1
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "sid": "r1-b20-s1",
+  "field": "tip",
+  "hint_text": "매표 문의 010-69121474(9:00~17:00), 환불·영수증 문의 010-61118002(9:00~17:00), 케이블카 문의 010-69121016이다.",
+  "hint_url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+  "priority": 2
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "sid": "r1-b20-s2",
+  "field": "access",
+  "hint_text": "자가용 차량은 직원 지시에 따라 지정 장소에 주차해야 하며, 불법 영업 차량은 타지 말라고 안내한다(주차 요금은 공식 페이지에 없음).",
+  "hint_url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1",
+  "priority": 2
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "sid": "r1-b20-s3",
+  "field": "fees",
+  "hint_text": "(확인 불가) 공식 사이트의 공개 JSON(购票指南·通知·景点介绍)에는 장성 입장료 금액이 없다. 외국인 여권 예약 방법과 결제 수단도 나와 있지 않다.",
+  "hint_url": "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnIndexCcNotice&limit=30&page=1",
+  "priority": 2
+ },
+ {
+  "place": "bj-mutianyu",
+  "name": "무톈위 만리장성",
+  "sid": "r1-b21-s1",
+  "field": "caution",
+  "hint_text": "2026년 5월 26일부터 16~17호 적루 사이 일부 성벽에서 문화재 보수 공사가 진행 중이며, 16호 적루 안쪽은 정상 통행할 수 있다.",
+  "hint_url": "https://www.mutianyugreatwall.com/cndetailcon3364",
+  "priority": 2
+ },
+ {
+  "place": "bj-mutianyu",
+  "name": "무톈위 만리장성",
+  "sid": "r1-b21-s2",
+  "field": "caution",
+  "hint_text": "2026년 7~8월에 기상 등으로 임시 폐쇄가 여러 차례 있었으므로 방문 전 경구 공고(景区公告)를 확인한다.",
+  "hint_url": "https://www.mutianyugreatwall.com/",
+  "priority": 2
+ },
+ {
+  "place": "bj-mutianyu",
+  "name": "무톈위 만리장성",
+  "sid": "r1-b21-s3",
+  "field": "fees",
+  "hint_text": "무료 대상(18세 이하 중국 국적 미성년자, 베이징 60세 이상 노인 등)이 사전 예약하지 못한 경우 매표 서비스센터 창구에서 무료입장권을 받는다(1.2m 이하 어린이 제외).",
+  "hint_url": "https://www.mutianyugreatwall.com/cnInformation",
+  "priority": 2
+ },
+ {
+  "place": "bj-mutianyu",
+  "name": "무톈위 만리장성",
+  "sid": "r1-b21-s4",
+  "field": "tip",
+  "hint_text": "명신편(엽서) 입장권은 관람 후 매표 서비스센터 창구에서 주문 정보로 기념 엽서를 받을 수 있고, 일반 전자 입장권에는 엽서가 없다.",
+  "hint_url": "https://www.mutianyugreatwall.com/cnInformation",
+  "priority": 2
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "sid": "r1-b20-s1",
+  "field": "reservation",
+  "hint_text": "외국인 관광객은 온라인 예약 때 여권 번호를 입력해야 하며, 하루 관람객 수는 4만 명으로 제한된다.",
+  "hint_url": "https://intl.dpm.org.cn/visit.html?l=en",
+  "priority": 2
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "sid": "r1-b20-s2",
+  "field": "closed_days",
+  "hint_text": "월요일이 국가 공휴일이면 개방하지만, 섣달그믐(춘절 전날)은 예외이다.",
+  "hint_url": "https://intl.dpm.org.cn/visit.html?l=en",
+  "priority": 2
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "sid": "r1-b20-s3",
+  "field": "reservation",
+  "hint_text": "관람 당일 일행 일부가 오지 못하면 검표 전에 원래 예약 채널이나 오문 '종합서비스창구'(성수기 08:30~16:00)에서 그 사람의 표를 환불해야 한다.",
+  "hint_url": "https://ticket.dpm.org.cn/",
+  "priority": 2
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "sid": "r1-b20-s4",
+  "field": "access",
+  "hint_text": "고궁만 관람한다면 동·서 퉁쯔허로(筒子河路)를 따라 오문 입구로 가서 검표하면 된다. 톈안먼 광장과 함께 예약했다면 광장 주변 보안검색대를 거쳐 남에서 북으로 이동한다.",
+  "hint_url": "https://ticket.dpm.org.cn/",
+  "priority": 2
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "sid": "r1-b20-s5",
+  "field": "payment",
+  "hint_text": "(확인 불가) 공식 페이지에는 '원래 결제 계좌로 5영업일 안에 환불'이라는 문구만 있고, 결제 수단(위챗페이 등)이나 외국 카드 사용 여부는 적혀 있지 않다.",
+  "hint_url": "https://ticket.dpm.org.cn/",
+  "priority": 2
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "sid": "r1-b26-s1",
+  "field": "caution",
+  "hint_text": "유람선은 풍력 4급 이상의 강풍이 불면 운항을 멈추며, 배 운항 시간은 용선·화방 8:30~16:30, 소형 보트 8:00~16:30이다.",
+  "hint_url": "https://s.visitbeijing.com.cn/attraction/101407",
+  "priority": 2
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "sid": "r1-b26-s2",
+  "field": "tip",
+  "hint_text": "배이윈뎬↔난후다오, 스팡↔난후다오, 퉁뉴↔스팡 구간 셔틀 유람선은 1인 15위안이다.",
+  "hint_url": "https://s.visitbeijing.com.cn/attraction/101407",
+  "priority": 2
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "sid": "r1-b26-s3",
+  "field": "hours",
+  "hint_text": "불향각·덕화원·이화원박물관·쑤저우제는 성수기 17:30, 비수기 16:30에 입장을 마감한다(2024-09 기사, 현재 공식 확인 필요).",
+  "hint_url": "https://www.visitbeijing.com.cn/article/4JW2RSxuEs9",
+  "priority": 2
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "sid": "r1-b26-s1",
+  "field": "description",
+  "hint_text": "공식 관광 포털은 톈안먼 광장을 세계에서 가장 큰 도시 중심 광장으로 소개한다.",
+  "hint_url": "https://s.visitbeijing.com.cn/attraction/101404",
+  "priority": 2
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "sid": "r1-b26-s2",
+  "field": "access",
+  "hint_text": "국기 하강식을 볼 때는 1·2·52·82·120번 버스나 관광 2선을 타고 톈안먼동 또는 톈안먼서 정류장에서 내려 걸어갈 수도 있다.",
+  "hint_url": "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx",
+  "priority": 2
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "sid": "r1-b25-s1",
+  "field": "access",
+  "hint_text": "망징시 직통 버스는 베이징 교통카드 앱(北京公交一卡通·亿通行·北京公交), 실물 교통카드, 휴대폰 NFC 교통카드, 현금(거스름돈 없음)으로만 탈 수 있으며 미니프로그램·알리페이·위챗으로는 결제할 수 없다.",
+  "hint_url": "https://www.wtown.com/pc/travel/index.html",
+  "priority": 2
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "sid": "r1-b25-s2",
+  "field": "access",
+  "hint_text": "중국청년여행사 관광 전용 버스는 둥즈먼 지하철역 남서쪽 출구 근처 중청뤼 빌딩 서문 북쪽에서 타고, 구베이수이전에서는 수이전 대호텔에서 탄다.",
+  "hint_url": "https://www.wtown.com/pc/travel/index.html",
+  "priority": 2
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "sid": "r1-b25-s3",
+  "field": "access",
+  "hint_text": "베이투청 직통 버스는 중청뤼 문화여행 미니프로그램, 현금 또는 현장 QR 결제로 표를 산다.",
+  "hint_url": "https://www.wtown.com/pc/travel/index.html",
+  "priority": 2
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "sid": "r1-b25-s4",
+  "field": "tip",
+  "hint_text": "가이드 서비스 전화는 010-81008002, 도움 요청·불만 접수 전화는 010-81008100이다.",
+  "hint_url": "https://www.wtown.com/pc/about/connect.html",
+  "priority": 2
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "sid": "r1-b22-s1",
+  "field": "access",
+  "hint_text": "원내 관광차는 남문↔서문 노선(판다 별장·태양 산실·판다탑·별 산실·판다 계곡 등 경유)으로 운행하며, 종점 도착 후 다시 타려면 새로 줄 서서 검표해야 한다.",
+  "hint_url": "https://www.panda.org.cn/cn/service/sightseeingbus",
+  "priority": 2
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "sid": "r1-b22-s2",
+  "field": "reservation",
+  "hint_text": "관광차표는 공식 미니프로그램·공식계정에서 14일 전부터 예약하거나 당일 현장 구매할 수 있고, 미사용 표는 당일 17:00부터 30일 안에 환불한다(2026-08-27 시행).",
+  "hint_url": "https://www.panda.org.cn/cn/service/sightseeingbus",
+  "priority": 2
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "sid": "r1-b22-s3",
+  "field": "fees",
+  "hint_text": "입장권은 청두 판다기지 전용이며 두장옌 판다곡(都江堰熊猫谷)은 포함되지 않는다.",
+  "hint_url": "https://www.panda.org.cn/cn/service/ticket",
+  "priority": 2
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "sid": "r1-b22-s4",
+  "field": "fees",
+  "hint_text": "18세 초과 학생은 학생증과 신분증을 함께 제시해야 학생권(27위안)으로 입장할 수 있고, 조건이 안 맞으면 차액을 내야 한다.",
+  "hint_url": "https://www.panda.org.cn/cn/service/ticket",
+  "priority": 2
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "sid": "r1-b22-s5",
+  "field": "tip",
+  "hint_text": "원내 여러 곳에 무료 직음수대가 있고 서문·남문 방문자 센터에 수유실과 휴게·독서 공간이 있다.",
+  "hint_url": "https://www.panda.org.cn/cn/service/notice",
+  "priority": 2
+ },
+ {
+  "place": "cn-shanghai-kpg-provisional-gov",
+  "name": "대한민국 임시정부 상하이 청사 유적",
+  "sid": "r1-b27-s1",
+  "field": "description",
+  "hint_text": "1926년 7월부터 1932년 5월까지 김구의 거처에 임시정부가 있었고, 1932년 4월 윤봉길 의거 뒤 항저우·난징·창사·충칭 등으로 옮겼다.",
+  "hint_url": "https://www.meet-in-shanghai.net/jpn/museums/former-provisional-government-of-the-republic-of-korea-site-management-office-382796/",
+  "priority": 2
+ },
+ {
+  "place": "cn-shanghai-kpg-provisional-gov",
+  "name": "대한민국 임시정부 상하이 청사 유적",
+  "sid": "r1-b27-s2",
+  "field": "description",
+  "hint_text": "청사 유적은 1993년 4월부터 일반에 공개되었으며, 석고문식 3층 벽돌·목조 연립 건물(건축면적 476.5㎡)이다.",
+  "hint_url": "https://www.meet-in-shanghai.net/jpn/museums/former-provisional-government-of-the-republic-of-korea-site-management-office-382796/",
+  "priority": 2
+ },
+ {
+  "place": "east-qd-01",
+  "name": "잔교",
+  "sid": "r1-b24-s2",
+  "field": "description",
+  "hint_text": "잔교와 회란각은 산둥성 문물보호단위다(2026년 10월 칭다오시 정부 사이트 게재 기사).",
+  "hint_url": "http://www.qingdao.gov.cn/ywdt/zwyw/202610/t20261006_10746545.shtml",
+  "priority": 2
+ },
+ {
+  "place": "east-qd-01",
+  "name": "잔교",
+  "sid": "r1-b24-s3",
+  "field": "description",
+  "hint_text": "회란각은 부지 151㎡, 건축면적 340㎡이며 노란 유리기와 지붕과 24개의 둥근 기둥, 34단 나선형 계단이 있다.",
+  "hint_url": "http://www.qingdao.gov.cn/ywdt/zwyw/202610/t20261006_10746545.shtml",
+  "priority": 2
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "sid": "r1-b25-s1",
+  "field": "access",
+  "hint_text": "칭다오시 정무망 팔대관 소개(2020년 9월)에는 버스 노선 6·15·26·31·202·206·215·220·223·231·304·312·316·317·321·501·604·605·801·802번이 안내되어 있다.",
+  "hint_url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+  "priority": 2
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "sid": "r1-b20-s1",
+  "field": "closed_days",
+  "hint_text": "홈페이지 안내에 따르면 월요일부터 일요일까지 매일 개방한다(정기 휴무 표기 없음).",
+  "hint_url": "https://www.tsingtaomuseum.com/",
+  "priority": 2
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "sid": "r1-b20-s2",
+  "field": "location",
+  "hint_text": "박물관은 칭다오시 스베이구(市北区) 타이둥(台东) 가도에 속한다(공식 사이트 공지 제목의 '市北区台东街道' 표기 기준).",
+  "hint_url": "https://www.tsingtaomuseum.com/",
+  "priority": 2
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "sid": "r1-b20-s3",
+  "field": "fees",
+  "hint_text": "4월 1일~10월 31일 기준으로 일반 입장권+합류 해설(散拼讲解) 패키지는 성인 98위안, 학생 88위안, 노인 68위안이며, 해설은 8:30~16:30 사이 30분 간격으로 출발한다.",
+  "hint_url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+  "priority": 2
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "sid": "r1-b20-s4",
+  "field": "fees",
+  "hint_text": "4월 1일~10월 31일 기준으로 특별전시관·A관·B관 3관권은 성인 100위안·학생 80위안, 1903극장을 더한 4관권은 성인 120위안·학생 95위안이다.",
+  "hint_url": "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail",
+  "priority": 2
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "sid": "r1-b25-s2",
+  "field": "reservation",
+  "hint_text": "화러우 유람구 표(10위안)는 경구 공식 계정, 씨트립(携程), 메이퇀(美团) 등 온라인 채널에서 살 수 있다.",
+  "hint_url": "https://qdlaoshan.cn/News-info-nid-6282.html",
+  "priority": 2
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "sid": "r1-b25-s3",
+  "field": "language",
+  "hint_text": "경구 가이드 센터 명단에 중국어·영어 이중 언어 해설사가 소개되어 있다(타이칭궁 도교 문화 중·영 해설 등).",
+  "hint_url": "https://qdlaoshan.cn/Index-daofu.html",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-02",
+  "name": "예원",
+  "sid": "pilot2-s1",
+  "field": "highlight",
+  "hint_text": "'해상명원' 제자는 당시 국가주석 장쩌민이 1999년 5월 18일 예원 창건 440주년을 기념해 썼다.",
+  "hint_url": "https://www.yugarden.com.cn/page/articleview/introduce-01.html",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-02",
+  "name": "예원",
+  "sid": "pilot2-s2",
+  "field": "caution",
+  "hint_text": "원내 야생 소동물을 쫓거나 만지는 것뿐 아니라 먹이 주기와 촬영도 금지된다.",
+  "hint_url": "https://www.yugarden.com.cn/page/articleview/index.html",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-02",
+  "name": "예원",
+  "sid": "pilot2-s3",
+  "field": "caution",
+  "hint_text": "허가 없는 대규모 촬영(웨딩·항공촬영·영상·상업)은 금지된다.",
+  "hint_url": "https://www.yugarden.com.cn/page/articleview/index.html",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "sid": "r1-b23-s1",
+  "field": "tip",
+  "hint_text": "거리에서 옛 노면전차를 축소한 듯한 관광 열차 '당당처(铛铛车)'를 탈 수 있다.",
+  "hint_url": "http://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "sid": "r1-b23-s2",
+  "field": "description",
+  "hint_text": "보행거리의 총 부지 면적은 약 3만㎡이다.",
+  "hint_url": "http://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "sid": "r1-b23-s3",
+  "field": "payment",
+  "hint_text": "외국인 방문객은 알리페이나 위챗에 본인 명의 Visa·Mastercard·JCB 등 해외 카드를 연결해 모바일 결제를 할 수 있다(2023-11 상하이시 문화관광국 기사).",
+  "hint_url": "https://whlyj.sh.gov.cn/wlyw/20231106/781e20eb51f64849ad604cee30f89a70.html",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "sid": "r1-b23-s1",
+  "field": "description",
+  "hint_text": "신톈디 거리는 2000년 10월 1일 개장했다.",
+  "hint_url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "sid": "r1-b23-s2",
+  "field": "language",
+  "hint_text": "거리에 다국어 안내 시설이 설치되어 있다(2025-06 상하이시 상무위원회 기준).",
+  "hint_url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "sid": "r1-b23-s3",
+  "field": "tip",
+  "hint_text": "거리에 짐 보관함, 외화 환전소, 즉시 환급이 되는 집중 세금 환급 창구가 새로 생겼다(2025-06 기준).",
+  "hint_url": "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "sid": "r1-b23-s4",
+  "field": "tip",
+  "hint_text": "신톈디 광장 컨시어지 021-6333 0066, 신톈디 시상 컨시어지 021-53820666, 후빈다오 컨시어지 021-6333 6688(모두 10:00~22:00).",
+  "hint_url": "https://www.xintiandi.com/project/xintiandi-shanghai/",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "sid": "r1-b19-s1",
+  "field": "access",
+  "hint_text": "공항선(机场联络线)을 타고 국제관광리조트역 3번 출구로 나와 촨잔로/탕황로 정류장에서 푸둥 50번 버스를 타면 디즈니 지하철역에 도착한다.",
+  "hint_url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/rail",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "sid": "r1-b19-s2",
+  "field": "parking",
+  "hint_text": "주말·공휴일에는 리조트 주차장이 만차에 가까워지므로 지하철·택시 등 대중교통 이용이 권장된다.",
+  "hint_url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/disney-car-and-coach-park",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "sid": "r1-b19-s3",
+  "field": "hours",
+  "hint_text": "2026년 10월 11일 기준 디즈니타운은 10:00~22:00, 위시잉 스타 파크는 9:00~18:00 운영한다(날짜별로 다름).",
+  "hint_url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/rap/parkhour",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "sid": "r1-b19-s4",
+  "field": "reservation",
+  "hint_text": "장애인 티켓은 예약센터(400-180-0000 또는 +86-21-3158-0000), 공식 앱·웹사이트·위챗에서 구매하며 신분증 원본과 장애 증빙 원본이 필요하다.",
+  "hint_url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "sid": "r1-b19-s5",
+  "field": "tip",
+  "hint_text": "공식 웹사이트는 한국어를 지원하지 않으며, 브라우저 번역 기능 사용이 안내된다.",
+  "hint_url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "sid": "r1-b24-s1",
+  "field": "reservation",
+  "hint_text": "공식 사이트(중문)는 상하이즈뎬 전망대가 실명제 구매를 시행하며 신분증 또는 여권을 지참하라고 안내한다.",
+  "hint_url": "https://www.shanghaitower.com/shagnhai.html",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "sid": "r1-b24-s2",
+  "field": "hours",
+  "hint_text": "마지막 입장은 21:00이다.",
+  "hint_url": "https://www.meet-in-shanghai.net/en/tourist-attraction/top-of-shanghai-observatory-914985/",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "sid": "r1-b23-s1",
+  "field": "access",
+  "hint_text": "지하철 교통대학역에서 우캉빌딩까지 걸어가는 구간이 관광객의 주요 동선이다(2024-06 보도).",
+  "hint_url": "https://www.shanghai.gov.cn/nw4411/20240627/e2f1197c66194f7bafc8e6dc4537d554.html",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "sid": "r1-b23-s2",
+  "field": "tip",
+  "hint_text": "우캉빌딩 맞은편 우캉빌딩 우체국(화이하이중루 1883호)에서는 커피와 엽서를 살 수 있고, 운영시간은 월~금·일요일 8:30~11:30, 12:00~17:00이다(2024-10 기준).",
+  "hint_url": "https://www.meet-in-shanghai.net/tc/shanghai-citywalk-route-recommendation/roam-the-city-walk-on-wukang-road-699518/",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "sid": "r1-b23-s3",
+  "field": "description",
+  "hint_text": "우캉빌딩은 헝가리 출신 건축가 라슬로 후데크(邬达克)가 설계했으며, 상하이 최초의 외랑식 아파트이다.",
+  "hint_url": "https://www.meet-in-shanghai.net/tc/shanghai-citywalk-route-recommendation/roam-the-city-walk-on-wukang-road-699518/",
+  "priority": 2
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "sid": "r1-b23-s4",
+  "field": "description",
+  "hint_text": "우캉루-안푸루 거리는 2022년 2월 첫 국가급 관광레저 거리 목록에 선정되었다.",
+  "hint_url": "https://whlyj.sh.gov.cn/wbzx/20220627/ca2550ff9a7c4646b58668e4bec959c4.html",
+  "priority": 2
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "sid": "r1-b24-s1",
+  "field": "payment",
+  "hint_text": "현장 매표 창구는 위챗페이, 알리페이, 카드, 현금 결제를 지원한다(2026년 2월 쑤저우시 보도).",
+  "hint_url": "http://www.suzhou.gov.cn/szsrmzf/bmdt/202602/08abc52bc6254edc94bbcb310677b621.shtml",
+  "priority": 2
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "sid": "r1-b24-s2",
+  "field": "tip",
+  "hint_text": "2026년 춘절 기간 쑤저우 원림은 짐 보관, 휠체어, 유모차를 무료로 제공했다.",
+  "hint_url": "http://www.suzhou.gov.cn/szsrmzf/bmdt/202602/08abc52bc6254edc94bbcb310677b621.shtml",
+  "priority": 2
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "sid": "r1-b24-s3",
+  "field": "access",
+  "hint_text": "쑤저우시 영문 안내(2021년 게시)에 따르면 관광버스 1·2·5번 또는 178·202·309·40·313번 버스로 갈 수 있다.",
+  "hint_url": "http://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+  "priority": 2
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "sid": "r1-b22-s1",
+  "field": "tip",
+  "hint_text": "북파 스마트 주차빌딩에는 외투 대여 등 편의 서비스와 문창 전시·카페 공간이 함께 운영된다(2026-10-09 게시).",
+  "hint_url": "http://www.changbaishan.gov.cn/mtcbs/202610/t20261009_272015.html",
+  "priority": 2
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "sid": "r1-b22-s2",
+  "field": "reservation",
+  "hint_text": "2026년 국경절 연휴에는 북경구 유객중심으로 가는 방문객도 시간대별 사전 점검 입장 규정을 따랐다.",
+  "hint_url": "http://www.changbaishan.gov.cn/zbsly/lydt/202610/t20261008_272004.html",
+  "priority": 2
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "sid": "r1-b22-s3",
+  "field": "tip",
+  "hint_text": "인터넷에 도는 ‘5일 유효 북·서 연계권’ 정보는 2023년 7월 1일 폐지된 옛 정책이라고 관리위원회가 밝혔다(2026-09-17).",
+  "hint_url": "http://www.changbaishan.gov.cn/hdjl/zfsqpt/jlszbsbhkfqglwyh/sqck/blhf/202609/t20260917_271820.html",
+  "priority": 2
+ },
+ {
+  "place": "nature-cbs-02",
+  "name": "백두산 중국 측 서경구",
+  "sid": "r1-b22-s1",
+  "field": "description",
+  "hint_text": "서경구에는 제자하(梯子河), 진장 폭포(총 낙차 약 70m), 원앙지(鸳鸯池) 등도 있다고 소개된다(2021년 게시글).",
+  "hint_url": "http://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html",
+  "priority": 2
+ },
+ {
+  "place": "nature-zjj-02",
+  "name": "천문산",
+  "sid": "r1-b21-s1",
+  "field": "location",
+  "hint_text": "천문산 경구의 소재지는 후난성 장자제시 융딩구(永定区)다.",
+  "hint_url": "https://fgw.hunan.gov.cn/fgw/jgzc11/202507/t20250724_33748635.html",
+  "priority": 2
+ },
+ {
+  "place": "nature-zjj-02",
+  "name": "천문산",
+  "sid": "r1-b21-s2",
+  "field": "hours",
+  "hint_text": "2026년 3월 21일부터 매표 시간은 7:30~16:00, 탑승 운영은 8:00부터다.",
+  "hint_url": "https://m.voc.com.cn/rmt/article/16078535.html",
+  "priority": 2
+ },
+ {
+  "place": "nature-zjj-02",
+  "name": "천문산",
+  "sid": "r1-b21-s3",
+  "field": "access",
+  "hint_text": "2026년 3월 20일부터 톈먼둥 쾌속 케이블카(天门洞快线索道)가 운행을 재개해 왕복 케이블카 A·B·C선 투어가 운영되며, 편도 케이블카 1·2선은 계속 중단되었다. 결빙·짙은 안개·폭우 때는 A·B선이 C선 경로로 임시 변경된다.",
+  "hint_url": "https://m.voc.com.cn/rmt/article/16078535.html",
+  "priority": 2
+ },
+ {
+  "place": "xa-terracotta",
+  "name": "진시황제릉박물원·병마용",
+  "sid": "r1-b27-s1",
+  "field": "tip",
+  "hint_text": "공식 사이트는 해설 서비스, 휠체어 대여, 수유실, 식수대, 의무실을 편의 서비스로 안내한다.",
+  "hint_url": "https://www.bmy.com.cn/guide.html",
+  "priority": 2
+ },
+ {
+  "place": "xa-terracotta",
+  "name": "진시황제릉박물원·병마용",
+  "sid": "r1-b27-s2",
+  "field": "tip",
+  "hint_text": "공식 사이트, 위챗 공식 계정, 웨이보, 더우인 등에서 운영 정보를 수시로 공지하므로 방문 전 확인하라고 안내한다.",
+  "hint_url": "https://www.bmy.com.cn/guide.html",
+  "priority": 2
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "sid": "r1-b14-s1",
+  "field": "ops.closed_days",
+  "hint_text": "본관·아스카노유·츠바키노유는 매년 12월 대청소를 위해 하루 임시 휴관한다.",
+  "hint_url": "https://dogo.jp/ko/faq.php",
+  "priority": 2
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "sid": "r1-b14-s2",
+  "field": "access",
+  "hint_text": "도고온천역에서 도고온천 본관까지 도보 약 3분이다.",
+  "hint_url": "https://dogo.jp/ko/faq.php",
+  "priority": 2
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "sid": "r1-b14-s3",
+  "field": "tip",
+  "hint_text": "본관 탈의실에 무료 로커가 있고 헤어드라이어는 무료이며, 시설 내 음식 반입은 삼가야 한다.",
+  "hint_url": "https://dogo.jp/ko/faq.php",
+  "priority": 2
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "sid": "r1-b13-s1",
+  "field": "fees.prayer",
+  "hint_text": "수험 합격 기원의 초穂료(하쓰호료)는 10,000엔·8,000엔·6,000엔이며 단체는 10,000엔부터이다. 10월 대제 기간에만 받는 특별 수험 합격 기원은 20,000엔·15,000엔·8,000엔이다.",
+  "hint_url": "https://www.dazaifutenmangu.or.jp/kigan/juken",
+  "priority": 2
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "sid": "r1-b13-s2",
+  "field": "caution.crowd",
+  "hint_text": "정월에는 후쿠오카현 경찰 지도로 임시 교통 규제가 있다(12월 31일 23시~1월 1일 18시, 1월 2·3일 9시~18시). 대중교통 이용을 권한다. 1월 4~6일은 기업 업무 시작 기원으로 붐빈다.",
+  "hint_url": "https://www.dazaifutenmangu.or.jp/faq",
+  "priority": 2
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "sid": "r1-b13-s3",
+  "field": "access.conflict",
+  "hint_text": "한국어 공식 FAQ는 덴진에서 30분, 하카타에서 45분이라고 안내한다. 일본어 액세스 페이지는 후쿠오카(텐진)역에서 약 35분, 하카타 버스터미널에서 직행버스 약 40분이다.",
+  "hint_url": "https://www.dazaifutenmangu.or.jp/kr/plan/faq/",
+  "priority": 2
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "sid": "r1-b14-s1",
+  "field": "duration",
+  "hint_text": "공식 모델 루트 기준 소요시간은 약 2시간(와쿠와쿠 코스), 약 3시간 30분~4시간(더 알기 코스), 약 4~5시간(느긋한 코스)이며 주변 시설 이용을 포함한다.",
+  "hint_url": "https://castle.kumamoto-guide.jp/info/",
+  "priority": 2
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "sid": "r1-b14-s2",
+  "field": "ops.fees",
+  "hint_text": "입장료 면제 대상자는 본인 확인이 가능한 증명서를 제시해야 하며, 최종 입장 시간까지 매표소에서 무료권을 받아야 한다.",
+  "hint_url": "https://castle.kumamoto-guide.jp/info/",
+  "priority": 2
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "sid": "r1-b14-s3",
+  "field": "ops.fees",
+  "hint_text": "고교생 이상 대상 연간 입장권은 1,600엔이며 니노마루 매표소에서 8:45~16:00에 판매한다.",
+  "hint_url": "https://castle.kumamoto-guide.jp/info/",
+  "priority": 2
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "sid": "r1-b14-s4",
+  "field": "ops.closed_days",
+  "hint_text": "일본어 공식 페이지도 휴원일을 12월 29일로 안내하며, 악천후 시 휴원할 수 있다.",
+  "hint_url": "https://castle.kumamoto-guide.jp/info/",
+  "priority": 2
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "sid": "r1-b15-s1",
+  "field": "ops.closed_days",
+  "hint_text": "공식 FAQ의 휴원일 항목에는 정기 휴원일 없이 2026년 11월 22일(일) 임시 휴원·휴장만 안내되어 있다.",
+  "hint_url": "https://oki-park.jp/shurijo/qa/",
+  "priority": 2
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "sid": "r1-b15-s2",
+  "field": "ops.reservation",
+  "hint_text": "예약 없이 당일 정전 내부 관람은 예약 틀에 빈자리가 있을 때만 가능하며(당일 시간대 15분 전까지 웹 또는 고후쿠문 창구), 무료 입장 대상자와 연간 패스 소지자도 미취학 아동을 빼고는 예약해야 한다.",
+  "hint_url": "https://oki-park.jp/shurijo/ticket_guide/",
+  "priority": 2
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "sid": "r1-b15-s3",
+  "field": "caution",
+  "hint_text": "혼잡 예상은 8:30~11:00 매우 혼잡, 12:00~14:00과 17:00 이후 비교적 한산하며, 정전 안에서는 신발을 벗어야 한다.",
+  "hint_url": "https://oki-park.jp/shurijo/ticket_guide/",
+  "priority": 2
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "sid": "r1-b11-s1",
+  "field": "payment",
+  "hint_text": "PayPay는 매표소·레스토랑·상점·카페 모두에서 쓸 수 있고, 위챗페이·알리페이는 레스토랑 '이노'와 상점·카페에서 쓸 수 있으나 매표소에서는 쓸 수 없다.",
+  "hint_url": "https://churaumi.okinawa/en/guide/service/",
+  "priority": 2
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "sid": "r1-b11-s2",
+  "field": "payment",
+  "hint_text": "매표소에서 VISA, MasterCard, American Express, JCB, Diners Club, 은련(China UnionPay) 카드를 쓸 수 있다.",
+  "hint_url": "https://churaumi.okinawa/en/guide/service/",
+  "priority": 2
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "sid": "r1-b11-s3",
+  "field": "payment",
+  "hint_text": "수족관에는 ATM이 없으며, 나하공항에서 미리 환전해 오라고 안내한다.",
+  "hint_url": "https://churaumi.okinawa/kr/faq/",
+  "priority": 2
+ },
+ {
+  "place": "central-019",
+  "name": "나고야성·혼마루어전",
+  "sid": "r1-b15-s1",
+  "field": "language",
+  "hint_text": "공식 사이트에 혼마루어전 음성 가이드(웹, 20개 지점)와 해설 PDF가 있으며, 이용 시 이어폰 사용을 요청한다. 페이지에 지원 언어는 표시되어 있지 않다.",
+  "hint_url": "https://www.nagoyajo.city.nagoya.jp/info/castle_guide/voiceguide/",
+  "priority": 2
+ },
+ {
+  "place": "central-019",
+  "name": "나고야성·혼마루어전",
+  "sid": "r1-b15-s2",
+  "field": "caution",
+  "hint_text": "혼마루어전 안에서는 휴대전화를 사용할 수 없고 맨발·스타킹 차림은 비치된 슬리퍼로 갈아신어야 한다.",
+  "hint_url": "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/",
+  "priority": 2
+ },
+ {
+  "place": "central-026",
+  "name": "기요미즈데라",
+  "sid": "pilot1-s1",
+  "field": "tip",
+  "hint_text": "기요미즈데라 입구 부근과 주변 상점에서 무료 KYOTO Wi-Fi를 쓸 수 있다.",
+  "hint_url": "https://www.kiyomizudera.or.jp/faq.php",
+  "priority": 2
+ },
+ {
+  "place": "central-026",
+  "name": "기요미즈데라",
+  "sid": "pilot1-s2",
+  "field": "access",
+  "hint_text": "교토버스 18계통(토·휴일만 운행)을 타고 고조자카에서 내려 도보 10분이다.",
+  "hint_url": "https://www.kiyomizudera.or.jp/access.php",
+  "priority": 2
+ },
+ {
+  "place": "central-027",
+  "name": "후시미 이나리 타이샤",
+  "sid": "r1-b12-s1",
+  "field": "location.coordinates",
+  "hint_text": "OSM 좌표(伏見稲荷大社 本殿): 34.96714, 135.77324. 참고로 OSM 경내 전체(landuse) 중심점 34.96752, 135.77971은 본전에서 동쪽으로 약 600m 떨어져 있으므로 본전 좌표를 쓴다.",
+  "hint_url": "https://nominatim.openstreetmap.org/search?q=伏見稲荷大社 本殿&format=json",
+  "priority": 2
+ },
+ {
+  "place": "central-032",
+  "name": "오사카성 천수각",
+  "sid": "r1-b12-s1",
+  "field": "language",
+  "hint_text": "공식 사이트는 한국어판 오사카성 리플릿(PDF)을 제공하지만, 사이트의 다국어(Language) 메뉴는 'Coming Soon'으로 표시되어 있어 한국어 웹페이지는 아직 없다.",
+  "hint_url": "https://www.osakacastle.net/leaflet/",
+  "priority": 2
+ },
+ {
+  "place": "central-032",
+  "name": "오사카성 천수각",
+  "sid": "r1-b12-s2",
+  "field": "location.coordinates",
+  "hint_text": "OSM 좌표(大阪城天守閣, tourism=museum): 34.68749, 135.52589",
+  "hint_url": "https://nominatim.openstreetmap.org/search?q=大阪城天守閣&format=json",
+  "priority": 2
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "sid": "r1-b13-s1",
+  "field": "fees.korean_age_bands",
+  "hint_text": "한국어 공식 페이지는 개인 입장료를 성인 800엔, 16~18세 800엔, 13~15세 800엔, 6~12세 400엔으로, 세트권을 성인 1,200엔, 6~12세 600엔으로 안내한다.",
+  "hint_url": "https://www.todaiji.or.jp/ko/information/haikan/",
+  "priority": 2
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "sid": "r1-b16-s1",
+  "field": "duration",
+  "hint_text": "JNTO는 도쿄 디즈니랜드와 디즈니씨에서 각각 하루씩 보내고, 두 파크를 모두 즐기려면 여러 날 머무르기를 권한다.",
+  "hint_url": "https://www.japan.travel/en/spot/1556/",
+  "priority": 2
+ },
+ {
+  "place": "jp-chiba-tokyo-disneysea",
+  "name": "도쿄 디즈니씨",
+  "sid": "r1-b16-s1",
+  "field": "description",
+  "hint_text": "도쿄 디즈니씨는 8개의 테마 포트로 이루어져 있다.",
+  "hint_url": "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html",
+  "priority": 2
+ },
+ {
+  "place": "jp-chiba-tokyo-disneysea",
+  "name": "도쿄 디즈니씨",
+  "sid": "r1-b16-s2",
+  "field": "duration",
+  "hint_text": "JNTO는 도쿄 디즈니랜드와 디즈니씨에서 각각 하루씩 보내고, 두 파크를 모두 즐기려면 여러 날 머무르기를 권한다.",
+  "hint_url": "https://www.japan.travel/en/spot/1556/",
+  "priority": 2
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "sid": "r1-b14-s1",
+  "field": "ops.closed_days",
+  "hint_text": "정기 휴일 없이 연중 산책할 수 있다.",
+  "hint_url": "https://otaru.gr.jp/tourist/otarucanal",
+  "priority": 2
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "sid": "r1-b14-s2",
+  "field": "highlight",
+  "hint_text": "제28회 오타루 유키아카리노미치는 2026년 2월 7일~14일에 열렸으며, 2027년 일정은 공식 사이트에서 확인되지 않았다.",
+  "hint_url": "https://otaru.gr.jp/category/tourist/2026otaruyukiakarinomiti28",
+  "priority": 2
+ },
+ {
+  "place": "jp-east-otaru-canal",
+  "name": "오타루 운하",
+  "sid": "r1-b14-s3",
+  "field": "ops.hours",
+  "hint_text": "북운하 산책로 가스등은 광센서로 점등·소등되며 6~8월에는 18:00~다음 날 4:00에 켜진다.",
+  "hint_url": "https://otaru.gr.jp/tourist/otarucanal",
+  "priority": 2
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "sid": "r1-b12-s1",
+  "field": "hours",
+  "hint_text": "센소지 공식 사이트에 따르면 본당·오층탑·호조몬·가미나리몬 라이트업은 매일 일몰부터 오후 11시경까지 진행된다(2003년 10월 1일 시작).",
+  "hint_url": "https://www.senso-ji.jp/info/lightup.html",
+  "priority": 2
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "sid": "r1-b12-s2",
+  "field": "location.coordinates",
+  "hint_text": "OSM 좌표(金龍山 浅草寺, amenity=place_of_worship): 35.71340, 139.79553",
+  "hint_url": "https://nominatim.openstreetmap.org/search?q=浅草寺&format=json",
+  "priority": 2
+ },
+ {
+  "place": "jp-fukuoka-canal-city",
+  "name": "캐널시티 하카타",
+  "sid": "r1-b18-s1",
+  "field": "ops.hours",
+  "hint_text": "2026년 8월 31일~10월 16일 상연 일정: 분수 쇼는 10:00~22:00 사이 정시·30분에 열리고, 캐널 아쿠아파노라마는 19:00·21:00(GUNDAM SCRAMBLE in FUKUOKA, 약 10분)과 20:00(Imagination, 약 5분)에 상연한다. 10월 17일 이후 일정은 정해지는 대로 공지한다.",
+  "hint_url": "https://www.canalcity.co.jp/event/detail/40",
+  "priority": 2
+ },
+ {
+  "place": "jp-fukuoka-canal-city",
+  "name": "캐널시티 하카타",
+  "sid": "r1-b18-s2",
+  "field": "caution",
+  "hint_text": "캐널 아쿠아파노라마는 현재 일부 연출 장비 고장으로 일부 영상이 정상적으로 표시되지 않는다고 공지되어 있다.",
+  "hint_url": "https://www.canalcity.co.jp/event/detail/40",
+  "priority": 2
+ },
+ {
+  "place": "jp-fukuoka-canal-city",
+  "name": "캐널시티 하카타",
+  "sid": "r1-b18-s3",
+  "field": "tip",
+  "hint_text": "면세는 여권과 신용카드 명의가 다르거나 법인카드로 결제하면 받을 수 없고, 자동화·안면인식 게이트로 입국해 입국 도장이 없으면 면세가 불가하다.",
+  "hint_url": "https://www.canalcity.co.jp/service/tax_free",
+  "priority": 2
+ },
+ {
+  "place": "jp-nara-nara-park",
+  "name": "나라 공원",
+  "sid": "r1-b18-s1",
+  "field": "ops.hours",
+  "hint_text": "나라 공원은 연중무휴 24시간 개방하며, 공원 안 시설과 사적의 운영시간은 각각 다르다.",
+  "hint_url": "https://narashikanko.or.jp/en/feature/narapark",
+  "priority": 2
+ },
+ {
+  "place": "jp-nara-nara-park",
+  "name": "나라 공원",
+  "sid": "r1-b18-s2",
+  "field": "duration",
+  "hint_text": "나라 공원을 충분히 즐기려면 최소 반나절을 잡는 것이 좋다고 안내한다.",
+  "hint_url": "https://narashikanko.or.jp/en/feature/narapark",
+  "priority": 2
+ },
+ {
+  "place": "jp-nara-nara-park",
+  "name": "나라 공원",
+  "sid": "r1-b18-s3",
+  "field": "tip",
+  "hint_text": "공원은 출입구가 따로 정해져 있지 않아 어느 곳에서나 자유롭게 드나들 수 있다.",
+  "hint_url": "https://narashikanko.or.jp/en/feature/narapark",
+  "priority": 2
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "sid": "r1-b19-s1",
+  "field": "caution",
+  "hint_text": "나하 오쓰나히키 마쓰리 기간(2026년 10월 10~12일)에는 일요일 트랜짓 마일이 쉬고, 축제용 교통 규제가 평소 트랜짓 마일과 다른 시간에 시행된다.",
+  "hint_url": "https://naha-kokusaidori.okinawa/eventinfo/%e2%98%8510%e6%9c%8810%e6%97%a5%e5%9c%9f%e3%83%bb11%e6%97%a5%e6%97%a5%e3%83%bb12%e6%97%a5%e6%9c%88%e3%81%af%e3%80%8c%e9%82%a3%e8%a6%87%e5%a4%a7%e7%b6%b1%e6%8c%bd%e3%81%be%e3%81%a4%e3%82%8a",
+  "priority": 2
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "sid": "r1-b19-s2",
+  "field": "tip",
+  "hint_text": "국제거리 수하물 보관소(나하시 마쓰오 2-8-19 5층)는 10:00~19:00 연중무휴로 운영한다.",
+  "hint_url": "https://naha-kokusaidori.okinawa/en/areainfo.html",
+  "priority": 2
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "sid": "r1-b19-s3",
+  "field": "tip",
+  "hint_text": "팔레트 구모지 B1F·1F·2F에 코인로커가 있으며 1F·2F는 24시간, B1F는 10:00~22:00 이용할 수 있다.",
+  "hint_url": "https://naha-kokusaidori.okinawa/en/areainfo.html",
+  "priority": 2
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "sid": "r1-b19-s4",
+  "field": "tip",
+  "hint_text": "환전은 미에바시 우체국(7:00~23:00), 오키나와은행 마키시점(8:00~22:00), 팔레트 구모지 1F(9:00~21:00) 등에서 할 수 있다.",
+  "hint_url": "https://naha-kokusaidori.okinawa/en/areainfo.html",
+  "priority": 2
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "sid": "r1-b19-s5",
+  "field": "tip",
+  "hint_text": "2026년 제32회 1만 명 에이사 춤 퍼레이드는 10월 18일(일) 14:00~21:00 국제거리에서 열린다.",
+  "hint_url": "https://www.ichimannin-eisa.kokusaidoori.jp/en/",
+  "priority": 2
+ },
+ {
+  "place": "jp-osaka-dotonbori",
+  "name": "도톤보리",
+  "sid": "pilot2-s1",
+  "field": "access",
+  "hint_text": "돈보리 리버워크까지 지하철 미도스지선·센니치마에선 난바역에서 걸어서 5분, 요쓰바시선 난바역에서 10분, 긴테쓰·한신 오사카난바역에서 5분, 난카이 난바역과 JR 난바역에서 10분 걸린다.",
+  "hint_url": "http://www.tonbori.jp/",
+  "priority": 2
+ },
+ {
+  "place": "jp-osaka-dotonbori",
+  "name": "도톤보리",
+  "sid": "pilot2-s2",
+  "field": "highlight",
+  "hint_text": "돈보리 리버워크는 2004년(헤이세이 16년) 12월에 생긴 강변 산책로다.",
+  "hint_url": "http://www.tonbori.jp/",
+  "priority": 2
+ },
+ {
+  "place": "jp-osaka-dotonbori",
+  "name": "도톤보리",
+  "sid": "pilot2-s3",
+  "field": "access",
+  "hint_text": "돈보리 리버워크는 배리어프리로 표시되어 있다.",
+  "hint_url": "https://osaka-info.jp/en/spot/tombori-riverwalk/",
+  "priority": 2
+ },
+ {
+  "place": "jp-osaka-dotonbori",
+  "name": "도톤보리",
+  "sid": "pilot2-s4",
+  "field": "caution",
+  "hint_text": "돈보리 리버워크 사무소(난카이 전철) 전화는 06-6644-7565이다.",
+  "hint_url": "https://osaka-info.jp/en/spot/tombori-riverwalk/",
+  "priority": 2
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "sid": "r1-b15-s1",
+  "field": "ops.closed_days",
+  "hint_text": "공식 영업시간 데이터상 2026년 10월 11~30일은 매일 영업하며(휴무일 없음), 대부분 8:00~22:00이고 10월 25일은 8:30~21:30이다.",
+  "hint_url": "https://mobile-service.usj.co.jp/api/venues/10251/Hours?endDate=2026-10-31",
+  "priority": 2
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "sid": "r1-b15-s2",
+  "field": "ops.fees",
+  "hint_text": "한국어 공식 사이트는 입장권 가격을 직접 표시하지 않으며, 입장일별 가격 캘린더는 여행사(판매 대리점) 사이트에서 확인하도록 안내한다.",
+  "hint_url": "https://www.usj.co.jp/contentdata/usj/ko/kr/tickets/index.html",
+  "priority": 2
+ },
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "sid": "r1-b17-s1",
+  "field": "caution",
+  "hint_text": "시부야구는 길거리 음주 금지 구역 밖에서도 구 전역에 '민폐 길거리 음주 제로 선언'을 내걸고 길거리 음주를 줄이는 데 힘쓰고 있다.",
+  "hint_url": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html",
+  "priority": 2
+ },
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "sid": "r1-b17-s2",
+  "field": "caution",
+  "hint_text": "구가 후원하는 행사나 정내회·상점회 행사는 날짜·시간·구역을 정해 음주 제한이 해제될 수 있다.",
+  "hint_url": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html",
+  "priority": 2
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "sid": "r1-b17-s1",
+  "field": "closed_days",
+  "hint_text": "공식 영업 캘린더(2026년 10월 1일~12월 31일)에는 정기 휴무일 없이 매일 영업시간이 표시되어 있다.",
+  "hint_url": "https://www.tokyo-skytree.jp/open-hours/",
+  "priority": 2
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "sid": "r1-b17-s2",
+  "field": "parking",
+  "hint_text": "주차 가능 차량은 최저 지상고 15cm 초과여야 한다.",
+  "hint_url": "https://www.tokyo-skytree.jp/en/access/car/",
+  "priority": 2
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "sid": "r1-b17-s3",
+  "field": "parking",
+  "hint_text": "높이 2.1m를 넘는 복지 차량(리프트 장착 왜건)은 도쿄 스카이트리 타운 주차장을 이용할 수 없다.",
+  "hint_url": "https://www.tokyo-skytree.jp/en/access/car/",
+  "priority": 2
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "sid": "r1-b17-s4",
+  "field": "reservation",
+  "hint_text": "단체 버스 주차장은 사전 예약제이며 예약 없는 차량은 들어갈 수 없다(승용차는 일반 주차장 이용).",
+  "hint_url": "https://www.tokyo-skytree.jp/en/faq/",
+  "priority": 2
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "sid": "r1-b17-s5",
+  "field": "fees",
+  "hint_text": "입장권 가격은 날짜마다 달라 방문일 가격은 웹 예약 사이트에서 확인해야 한다.",
+  "hint_url": "https://www.tokyo-skytree.jp/ticket/",
+  "priority": 2
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "sid": "r1-b16-s1",
+  "field": "ops.fees",
+  "hint_text": "2026년 7월 1일 이후 입장분 일반 티켓은 방문일에 따라 성인 ¥6,600~¥7,300, 주니어 ¥5,500~¥6,000, 어린이 ¥4,000~¥4,400이다.",
+  "hint_url": "https://www.wbstudiotour.jp/en/news_20251120/",
+  "priority": 2
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "sid": "r1-b16-s2",
+  "field": "ops.payment",
+  "hint_text": "실내 코인 로커는 현금(100엔·500엔 동전, 1,000엔 지폐), 교통 IC카드·전자화폐, QR 결제(PayPay·Alipay+·WeChat Pay 등), 비접촉 신용카드를 받고, 실외 로커는 100엔 동전만 받는다.",
+  "hint_url": "https://www.wbstudiotour.jp/en/plan-your-visit/facilities/",
+  "priority": 2
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "sid": "r1-b16-s3",
+  "field": "ops.closed_days",
+  "hint_text": "정기 휴무일은 공지되어 있지 않고, 휴관일은 공식 운영 캘린더에 날짜별로 표시된다.",
+  "hint_url": "https://www.wbstudiotour.jp/en/plan-your-visit/opening-times/",
+  "priority": 2
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "sid": "r1-b17-s1",
+  "field": "access",
+  "hint_text": "고속버스는 신주쿠 고속버스터미널에서 출발해 가와구치코역까지 2시간 조금 못 되게 걸린다.",
+  "hint_url": "https://www.japan.travel/en/spot/1329/",
+  "priority": 2
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "sid": "r1-b17-s2",
+  "field": "caution",
+  "hint_text": "후지카와구치코 단풍 축제는 11월 1일부터 한 달간 호수 북쪽 연안에서 열린다.",
+  "hint_url": "https://www.japan.travel/en/spot/1329/",
+  "priority": 2
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "sid": "r1-b17-s3",
+  "field": "tip",
+  "hint_text": "4월 중순 후지카와구치코 벚꽃 축제 때는 북쪽 연안 벚나무에 밤 조명을 밝힌다.",
+  "hint_url": "https://www.japan.travel/en/spot/1329/",
+  "priority": 2
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "sid": "r1-b17-s4",
+  "field": "ops.payment",
+  "hint_text": "(등산 시즌 중) 요시다 루트 등산료는 온라인에서 주요 신용카드·PayPay로, 현장에서는 카드·은련·알리페이+·위챗페이·PayPay 등으로 낼 수 있다.",
+  "hint_url": "https://www.fujisan-climb.jp/en/faq",
+  "priority": 2
+ },
+ {
+  "place": "kr-busan-gamcheon-culture-village",
+  "name": "감천문화마을",
+  "sid": "r1-b11-s1",
+  "field": "parking.fee",
+  "hint_text": "감천문화마을 홈페이지 주차 예약은 기본 이용시간 90분 기준으로 요금을 계산하며, 초과 시 차량 1대당 30분마다 1,000원이 추가된다. 방문 인원 1명당 지도 1개가 필수로 포함된다.",
+  "hint_url": "https://www.gamcheon.or.kr/gamcheon/page/user/group-tour-reservation/detail/3",
+  "priority": 2
+ },
+ {
+  "place": "kr-busan-gamcheon-culture-village",
+  "name": "감천문화마을",
+  "sid": "r1-b11-s2",
+  "field": "payment",
+  "hint_text": "주차 예약 결제수단은 무통장 입금, 신용카드, 실시간 계좌이체다.",
+  "hint_url": "https://www.gamcheon.or.kr/gamcheon/page/user/group-tour-reservation/detail/3",
+  "priority": 2
+ },
+ {
+  "place": "kr-busan-gamcheon-culture-village",
+  "name": "감천문화마을",
+  "sid": "r1-b11-s3",
+  "field": "reservation",
+  "hint_text": "주차 예약은 당일 예약이 불가하며 당월부터 3개월 이내까지 가능하다. 여행사명·가이드명·가이드 연락처 입력이 필수다.",
+  "hint_url": "https://www.gamcheon.or.kr/gamcheon/page/user/group-tour-reservation/detail/3",
+  "priority": 2
+ },
+ {
+  "place": "kr-busan-gwangalli-bridge-overview",
+  "name": "광안리·광안대교",
+  "sid": "r1-b02-s1",
+  "field": "access",
+  "hint_text": "지하철 2호선 광안역 3번 출구 또는 금련산역 3번 출구에서 걸어서 약 10분이다.",
+  "hint_url": "https://www.gwangallimdrone.co.kr/contact",
+  "priority": 2
+ },
+ {
+  "place": "kr-busan-gwangalli-bridge-overview",
+  "name": "광안리·광안대교",
+  "sid": "r1-b02-s2",
+  "field": "access",
+  "hint_text": "버스 41·49·38·42·51·62·83·83-1·108-1번을 타고 광안리해수욕장 정류장에서 내려 걸어서 약 3분이다.",
+  "hint_url": "https://www.gwangallimdrone.co.kr/contact",
+  "priority": 2
+ },
+ {
+  "place": "kr-busan-gwangalli-bridge-overview",
+  "name": "광안리·광안대교",
+  "sid": "r1-b02-s3",
+  "field": "parking",
+  "hint_text": "주변 공영주차장으로 광안리해수욕장 공영주차장(남천바다로33번길 75), 민락해변공원, 민락매립지, 민락수변공원 제1·제2, 수변어린이공원 공영주차장이 있으며, 드론쇼 날에는 대중교통 이용이 권장된다.",
+  "hint_url": "https://www.gwangallimdrone.co.kr/contact",
+  "priority": 2
+ },
+ {
+  "place": "kr-busan-gwangalli-bridge-overview",
+  "name": "광안리·광안대교",
+  "sid": "r1-b02-s4",
+  "field": "hours",
+  "hint_text": "광안리 M 드론라이트쇼 동절기(10~2월) 공연시간은 19시·21시이다.",
+  "hint_url": "https://www.gwangallimdrone.co.kr/notice/gwanganri-m-deuronraiteusyo-dongjeolgi-gongyeonsigan-byeongyeongannae-2",
+  "priority": 2
+ },
+ {
+  "place": "kr-chungnam-daecheon-beach",
+  "name": "보령 대천해수욕장",
+  "sid": "r1-b10-s1",
+  "field": "access",
+  "hint_text": "대천관광협회 안내에 따르면 용산역에서 새마을호·무궁화호로 대천역까지 약 2시간 19분~2시간 45분 걸리며, 서울 동서울터미널·남부터미널에서 고속버스(약 2시간 50분~3시간)가 다닌다.",
+  "hint_url": "http://daecheonbeach.kr/home/beach/02",
+  "priority": 2
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "sid": "r1-b07-s1",
+  "field": "caution",
+  "hint_text": "짚와이어는 체중 35~120kg, 키 140~200cm이고 건강한 사람만 탈 수 있다.",
+  "hint_url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88021",
+  "priority": 2
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "sid": "r1-b07-s2",
+  "field": "duration",
+  "hint_text": "짚와이어는 장비 착용부터 도착까지 약 4분 걸린다.",
+  "hint_url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88021",
+  "priority": 2
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "sid": "r1-b07-s1",
+  "field": "parking",
+  "hint_text": "설악 케이블카 전용 주차장은 없고 신흥사 유료 주차장을 이용해야 한다(주차 문의 033-636-4050).",
+  "hint_url": "https://www.sorakcablecar.co.kr/guide",
+  "priority": 2
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "sid": "r1-b07-s2",
+  "field": "hours",
+  "hint_text": "케이블카는 손님이 적으면 10~15분, 많으면 5분 간격으로 운행한다.",
+  "hint_url": "https://www.sorakcablecar.co.kr/guide",
+  "priority": 2
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "sid": "r1-b07-s3",
+  "field": "caution",
+  "hint_text": "케이블카 캐빈에는 냉난방이 없고, 탑승권은 분실 시 재발급되지 않으며, 주말에는 대체로 붐빈다.",
+  "hint_url": "https://www.sorakcablecar.co.kr/guide",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "sid": "r1-b06-s1",
+  "field": "hours.performance",
+  "hint_text": "2026년 하회별신굿탈놀이 상설공연은 1~2월 매주 토·일, 3~12월 매주 화~일 오후 2시~3시 하회별신굿탈놀이전수관에서 열리며 관람료는 무료이다(사정에 따라 변경 가능).",
+  "hint_url": "http://www.hahoe.or.kr/coding/sub3/sub1.asp",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "sid": "r1-b06-s2",
+  "field": "language",
+  "hint_text": "한국관광공사 무장애 정보상 하회마을에는 오디오 가이드(한국어, 외국어)가 있다.",
+  "hint_url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "sid": "r1-b06-s3",
+  "field": "caution",
+  "hint_text": "한국관광공사 무장애 정보상 하회마을은 출입구에 턱이 없어 휠체어 접근이 가능하고, 장애인 주차장 15면(1·2주차장)과 장애인 화장실이 있으며, 휠체어(사무실 5대·보관함 3대)와 유모차(3대)를 빌릴 수 있다.",
+  "hint_url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "sid": "r1-b06-s4",
+  "field": "reservation",
+  "hint_text": "하회마을 공식 사이트 메뉴에 온라인 예매(taap.co.kr) 링크가 있다(예매 대상은 페이지에서 확인 필요).",
+  "hint_url": "http://www.hahoe.or.kr/coding/sub5/sub3.asp",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "sid": "r1-b05-s1",
+  "field": "access.bus_schedule",
+  "hint_text": "12번 버스는 불국사–불국사매표소–석굴암주차장 구간을 하루 10회 운행한다(경주시내버스 노선안내, 시각표는 페이지에 표시되지 않음).",
+  "hint_url": "http://www.newsmilebus.com/sub01/bus.asp?idx=8",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "sid": "r1-b05-s2",
+  "field": "description",
+  "hint_text": "석굴암은 1995년 12월 불국사와 함께 유네스코 세계문화유산으로 등록되었다.",
+  "hint_url": "http://www.seokguram.org/bbs/content.php?co_id=history",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "sid": "r1-b05-s3",
+  "field": "description",
+  "hint_text": "불국사는 임진왜란 때인 1593년 왜군의 방화로 크게 소실되었고, 1969~1973년 복원공사로 무설전·관음전·비로전 등이 복원되었다.",
+  "hint_url": "http://www.bulguksa.or.kr/bbs/content.php?co_id=history",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "sid": "r1-b06-s1",
+  "field": "tip",
+  "hint_text": "한국관광공사는 대릉원 문의처를 054-771-8650으로 안내한다(경주시 요금표는 054-750-8652).",
+  "hint_url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6da54421-9ab9-4853-80d6-1eadbf0ad73b",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "sid": "r1-b06-s2",
+  "field": "parking",
+  "hint_text": "천마총(대릉원) 주차장은 장애인·국가유공자 50% 할인이 있고, 학생단체 차량은 3,000원이다.",
+  "hint_url": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeongbuk-pohang-homigot",
+  "name": "포항 호미곶",
+  "sid": "r1-b06-s1",
+  "field": "location.coord",
+  "hint_text": "한국관광공사 자료상 호미곶 해맞이광장 좌표는 위도 36.0768, 경도 129.5680이다(OSM 해맞이광장·상생의 손과 약 100m 이내로 일치).",
+  "hint_url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeongbuk-pohang-homigot",
+  "name": "포항 호미곶",
+  "sid": "r1-b06-s2",
+  "field": "caution",
+  "hint_text": "한국관광공사 무장애 정보상 해맞이광장은 출입구까지 완만한 경사로가 있고 주출입구에 턱이 없으며, 장애인 주차장과 장애인 화장실(휠체어 활동공간 좁음)이 있고 휠체어를 빌릴 수 있다.",
+  "hint_url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeonggi-everland",
+  "name": "에버랜드",
+  "sid": "r1-b01-s1",
+  "field": "hours",
+  "hint_text": "2026년 10월 11일 에버랜드 운영시간은 10:00~22:00이다(운영시간은 날짜마다 다르다).",
+  "hint_url": "https://wwwapi.everland.com/api/v1/iam/facilities/parkOpenTime?salesDate=20261011&parkKindCd=01",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeonggi-everland",
+  "name": "에버랜드",
+  "sid": "r1-b01-s2",
+  "field": "location",
+  "hint_text": "주소는 경기도 용인시 처인구 포곡읍 에버랜드로 199이다.",
+  "hint_url": "https://wwwapi.everland.com/api/v1/iam/common/message-resource",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeonggi-everland",
+  "name": "에버랜드",
+  "sid": "r1-b01-s3",
+  "field": "access",
+  "hint_text": "용인경전철 에버라인 종점에서 내려 무료 셔틀버스로 에버랜드·캐리비안 베이까지 간다. 셔틀은 첫차 7:30, 막차는 파크 운영 종료 1시간 뒤이고 5~10분 간격이다.",
+  "hint_url": "https://wwwapi.everland.com/api/v1/iam/common/message-resource",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeonggi-everland",
+  "name": "에버랜드",
+  "sid": "r1-b01-s4",
+  "field": "parking",
+  "hint_text": "각 주차장과 정문 사이에 무료 셔틀버스(유아차 탑승 가능)가 다니고, 정문 주차장이 차면 주차요원이 운영 중인 가장 가까운 주차장으로 안내한다. 정문 주차장에는 캠핑카·카라반을 세울 수 없다.",
+  "hint_url": "https://wwwapi.everland.com/api/v1/iam/common/message-resource",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeonggi-everland",
+  "name": "에버랜드",
+  "sid": "r1-b01-s5",
+  "field": "parking.fee",
+  "hint_text": "유료주차장 요금은 사전·출구 정산 시 최소 60분 3,000원, 이후 30분당 1,500원, 하루 최대 15,000원이다. 카카오T 주차패스로 정산하면 60분 2,400원, 30분당 1,200원, 하루 최대 12,000원이다.",
+  "hint_url": "https://wwwapi.everland.com/api/v1/iam/common/message-resource",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "sid": "r1-b08-s1",
+  "field": "access.bus",
+  "hint_text": "지하철 8호선 산성역에서 52·9·9-1(휴일)번 버스를 타고 남한산성(종점)에서 내린다. 버스 구간은 약 26~43분이다. 모란역 2·3번 출구에서도 52·9번이 다닌다.",
+  "hint_url": "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1286&menuId=3514",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "sid": "r1-b08-s1",
+  "field": "parking.fee",
+  "hint_text": "화성행궁·연무대 주차장 요금은 소형차 기준 최초 30분 900원, 이후 10분마다 400원, 1일 주차권 14,000원이다. 화홍문·장안동·연무동·남수동 공영주차장은 최초 60분 무료이다.",
+  "hint_url": "https://www.swcf.or.kr/?p=69",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "sid": "r1-b08-s2",
+  "field": "access.subway",
+  "hint_text": "수원역(1호선·분당선) 또는 매교역(분당선)에서 시내버스를 타고 화성행궁 정류장에서 내려 도보 약 5분이다. 매교역은 7번 출구에서 112·25·25-2·25-5번을 탄다.",
+  "hint_url": "https://www.swcf.or.kr/?p=68",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "sid": "r1-b08-s3",
+  "field": "language.korean_guide",
+  "hint_text": "문화관광해설사의 한국어 해설은 10:00·11:00·13:30·14:30·15:30에 진행한다. 현장 신청은 4인 이상이다.",
+  "hint_url": "https://www.swcf.or.kr/?p=404",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "sid": "r1-b08-s4",
+  "field": "reservation",
+  "hint_text": "20인 이상 단체 해설은 온라인으로 예약하며 방문일 7일 전에 마감한다. 예약이 몰리는 날은 현장 신청이 안 될 수 있다.",
+  "hint_url": "https://www.swcf.or.kr/?p=404",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "sid": "r1-b08-s5",
+  "field": "payment",
+  "hint_text": "화성행궁·연무대 주차장은 카드 결제만 받는다. 야간개장 표는 화성행궁 매표소에서 판다.",
+  "hint_url": "https://www.swcf.or.kr/?p=69",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "sid": "r1-b10-s1",
+  "field": "language",
+  "hint_text": "성 안 국립진주박물관은 QR코드로 국립박물관 전시안내 앱을 내려받으면 음성안내를 제공하며, 주요 문화유산에 점자 설명문이 있다.",
+  "hint_url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=21f2f7aa-5ed6-4121-9d00-596444fbe174",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "sid": "r1-b10-s2",
+  "field": "tip",
+  "hint_text": "국립진주박물관은 휠체어(2대)와 유모차(2대, 24개월 이하)를 신분증을 맡기면 무료로 빌려 주며, 수유실과 장애인 화장실이 있다.",
+  "hint_url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=21f2f7aa-5ed6-4121-9d00-596444fbe174",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "sid": "r1-b09-s1",
+  "field": "access",
+  "hint_text": "KTX 울산(통도사)역에서 13번 시내버스를 타면 신평터미널까지 약 30분, 택시로는 약 25분 걸리며, 터미널에서 택시나 보행로로 통도사에 갈 수 있다.",
+  "hint_url": "https://tongdosa.or.kr/bbs/content.php?co_id=menu01105",
+  "priority": 2
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "sid": "r1-b09-s2",
+  "field": "access",
+  "hint_text": "통도사 영문 안내는 부산 노포 버스터미널에서 통도사행 버스가 06:30~21:00에 20분 간격으로 다니며 약 25분 걸린다고 적고 있다.",
+  "hint_url": "https://tongdosa.or.kr/eng/?core=5",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "sid": "r1-b04-s1",
+  "field": "caution.gwaneumsa_reopen",
+  "hint_text": "한라산 예약시스템의 관음사 탐방로 페이지는 현재 '탐방 가능(기상 이변 발생 시 통제)'으로 표시하며, 삼각봉대피소 정상 탐방 통제 시각을 하절기 12:30, 동절기 11:30으로 안내한다.",
+  "hint_url": "https://visithalla.jeju.go.kr/contents/contents.do?id=62",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "sid": "r1-b04-s2",
+  "field": "reservation.current_rules",
+  "hint_text": "예약 후 취소 없이 탐방하지 않으면 1회는 3개월, 2회는 1년간 예약할 수 없다. 예약 완료 시 입력한 전화번호로 입·하산 QR코드가 전송되고, 예약대기 제도는 없다.",
+  "hint_url": "https://visithalla.jeju.go.kr/contents/contents.do?id=49",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "sid": "r1-b04-s3",
+  "field": "hours",
+  "hint_text": "탐방로별 입산 통제 시각은 어리목·영실 통제소 동절기 12:00/하절기 15:00, 돈내코 안내소 10:00/11:00, 어승생악·석굴암 17:00이다.",
+  "hint_url": "https://visithalla.jeju.go.kr/contents/contents.do?id=49",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "sid": "r1-b04-s4",
+  "field": "location.admin_region",
+  "hint_text": "한라산국립공원관리소 주소는 제주특별자치도 제주시 1100로 2070-61(해안동)로 표기된다.",
+  "hint_url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "sid": "r1-b04-s5",
+  "field": "parking.fee_per_course",
+  "hint_text": "주차장 시설사용료는 탐방로별로 따로 징수한다.",
+  "hint_url": "https://jeju.go.kr/hallasan/notice/faq.htm",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "sid": "r1-b05-s1",
+  "field": "description",
+  "hint_text": "제주 서쪽에서 가 볼 만한 해수욕장으로 추천된다.",
+  "hint_url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "sid": "r1-b05-s2",
+  "field": "caution",
+  "hint_text": "여름에는 물놀이객으로 붐빈다.",
+  "hint_url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "sid": "r1-b05-s3",
+  "field": "tube_rental",
+  "hint_text": "공식 페이지에 '튜브 대여 여부 및 요금 공식 확인 필요'로만 적혀 있어 값을 확인할 수 없다(확인 불가 이유로 기록).",
+  "hint_url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "sid": "r1-b04-s1",
+  "field": "fees.exemption",
+  "hint_text": "비짓제주 상세 페이지에 '제주 나우다' 발급 시 'LEVEL 2 이상 전액 감면'이라는 배너가 있다(조건은 나우다 안내에서 확인 필요).",
+  "hint_url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "sid": "r1-b04-s2",
+  "field": "description",
+  "hint_text": "성산일출봉은 높이 180m로, 약 5천 년 전 얕은 바다의 수성화산 활동으로 만들어진 응회구이다.",
+  "hint_url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "sid": "r1-b04-s3",
+  "field": "access",
+  "hint_text": "렌터카·자가용은 제주공항에서 1132번 지방도를 따라 함덕·김녕을 거쳐 성산일출봉으로 간다.",
+  "hint_url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-seopjikoji",
+  "name": "섭지코지",
+  "sid": "r1-b05-s1",
+  "field": "description",
+  "hint_text": "'코지'는 바다 쪽으로 튀어나온 곶을 뜻하는 제주어이며, '섭지'의 유래에는 재사가 많이 나는 지세라는 견해와 좁은 땅(협지)에서 왔다는 견해가 있다.",
+  "hint_url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "sid": "r1-b04-s1",
+  "field": "hours.ferry_timetable",
+  "hint_text": "도립공원 페이지 시간표상 성산항 첫 배는 연중 08:00이고 막배는 월별로 다르다. 정확한 시간은 도항선 운영 업체에서 확인하라고 안내한다.",
+  "hint_url": "https://www.jeju.go.kr/dorip/udo.htm",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "sid": "r1-b04-s2",
+  "field": "access.terminal_address",
+  "hint_text": "도항선은 성산항↔우도(하우목동항·천진항), 종달항↔우도(하우목동항) 노선이다. 대합실 전화는 성산 064-782-5671, 종달 064-782-7719, 우도 064-783-0448이다.",
+  "hint_url": "https://www.jeju.go.kr/dorip/udo.htm",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "sid": "r1-b04-s3",
+  "field": "fees",
+  "hint_text": "도립공원 입장료에는 소형자동차 4,000원, 대형자동차 6,000원 항목이 있으며 도항선 탑승료·터미널 이용료는 포함되지 않는다.",
+  "hint_url": "https://www.jeju.go.kr/dorip/udo.htm",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "sid": "r1-b04-s4",
+  "field": "fees.exemption",
+  "hint_text": "입장료 면제 대상에는 6세 이하, 65세 이상 내국인, 등록 장애인, 제주도 주민등록자·재외도민증·명예도민증 소지자 등이 포함된다.",
+  "hint_url": "https://www.jeju.go.kr/dorip/udo.htm",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "sid": "r1-b04-s5",
+  "field": "location",
+  "hint_text": "비짓제주 좌표는 위도 33.506439, 경도 126.9534006이며 OSM의 우도로 153과 50m 안에서 일치한다.",
+  "hint_url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "sid": "r1-b03-s1",
+  "field": "ops.fees",
+  "hint_text": "경기전 관람료는 일반권 어른 3,000원·청소년/군인 2,000원·어린이 1,000원이고, 전주시민·완주군민 할인권은 1,000원·800원·500원이다. 65세 이상 내국인과 만 6세 이하 영유아는 무료이고, 매월 마지막 주 수요일(문화가 있는 날)은 무료입장이다.",
+  "hint_url": "https://hanok.jeonju.go.kr/contents/place",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "sid": "r1-b03-s2",
+  "field": "ops.hours",
+  "hint_text": "경기전 관람시간은 3~5월·9~10월 09:00~19:00, 6~8월 09:00~20:00, 11~2월 09:00~18:00이다(문의 063-281-2788).",
+  "hint_url": "https://hanok.jeonju.go.kr/contents/place",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "sid": "r1-b03-s3",
+  "field": "ops.hours",
+  "hint_text": "전동성당은 09:00~17:00에 개방(미사 시간 제외)하고 관람료가 없으며, 전주향교는 10:00~18:00 무료 관람이다.",
+  "hint_url": "https://hanok.jeonju.go.kr/contents/place",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "sid": "r1-b03-s4",
+  "field": "tip",
+  "hint_text": "공영자전거 운영시간은 봄·가을(4·5·9·10월) 09:00~18:00, 겨울(11~3월) 10:00~17:00, 여름(6~8월) 09:00~19:00이고, 대여시간 안에 11개 대여소 어디서나 반납할 수 있다(문의 063-281-2568).",
+  "hint_url": "https://hanok.jeonju.go.kr/contents/question",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "sid": "r1-b03-s5",
+  "field": "ops.reservation",
+  "hint_text": "단체 해설은 10:00~16:00 사이에 회당 2시간 이내로 진행된다.",
+  "hint_url": "https://hanok.jeonju.go.kr/contents/tour",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "sid": "r1-b03-s6",
+  "field": "tip",
+  "hint_text": "관광지도 우편 발송은 경기전 여행자 라운지(063-287-1330)에 신청하며 매주 월·목요일에 발송된다.",
+  "hint_url": "https://hanok.jeonju.go.kr/contents/map",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "sid": "r1-b01-s1",
+  "field": "closed_days",
+  "hint_text": "순천만국가정원과 순천만습지는 매월 마지막 주 월요일에 쉰다.",
+  "hint_url": "https://scbay.suncheon.go.kr/garden/0016/0001/",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "sid": "r1-b01-s2",
+  "field": "hours",
+  "hint_text": "순천만국가정원은 10~6월에 09:00~19:00 매표, 09:00~20:00 관람(입장 마감 19:00)이고, 7~9월에도 입장은 매일 19:00까지다. 기상 등 사정에 따라 바뀔 수 있다.",
+  "hint_url": "https://scbay.suncheon.go.kr/garden/0016/0001/",
+  "priority": 2
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "sid": "r1-b01-s3",
+  "field": "hours",
+  "hint_text": "순천만습지 관람시간은 11~2월 08:00~18:00, 3~4월·9~10월 08:00~19:00, 5~8월 08:00~20:00이다.",
+  "hint_url": "https://scbay.suncheon.go.kr/garden/0016/0001/",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "sid": "r1-b03-s1",
+  "field": "caution",
+  "hint_text": "서울관광 공식 사이트는 '조용한 관광'을 요청한다. 특히 가회동 31번지 일대에서 소음을 줄이고, 쓰레기를 버리지 않으며, 단체는 최대 10명으로 하고, 마이크·확성기를 쓰지 않으며, 문이 열려 있어도 집 내부를 촬영하지 말아야 한다.",
+  "hint_url": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "sid": "r1-b03-s2",
+  "field": "caution",
+  "hint_text": "가회동 31·33번지 등 북촌한옥마을 일대 문화 투어는 단계적으로 중단될 예정이라고 안내된다.",
+  "hint_url": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "sid": "r1-b03-s3",
+  "field": "tip",
+  "hint_text": "서울관광 공식 사이트에 표기된 북촌한옥마을 문의 전화는 +82-2-2133-1372이다.",
+  "hint_url": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "sid": "r1-b03-s4",
+  "field": "tip",
+  "hint_text": "북촌문화센터 전화는 +82-2-741-1033이며 서예·다도·판소리·전통공예 강좌와 공연·영화 상영을 운영한다.",
+  "hint_url": "https://english.visitseoul.net/area/Bukchon-Traditional-Culture-Center-k/ENP018916",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-bukchon",
+  "name": "북촌한옥마을",
+  "sid": "r1-b03-s5",
+  "field": "location",
+  "hint_text": "북촌 특별관리지역은 삼청동·가회동·계동 등 11개 법정동, 1,128,372.7㎡이다. 오렌지존은 북촌로5가길·계동길 일대, 옐로우존은 북촌로12길 일대이다.",
+  "hint_url": "https://stay.visitseoul.net/cms/notice/14178_/14178",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-changdeokgung",
+  "name": "창덕궁",
+  "sid": "r1-b02-s1",
+  "field": "hours",
+  "hint_text": "후원 관람시간은 2월 10:00~16:10(입장마감 15:00), 3~6월 10:00~17:30(16:00), 7~8월 10:00~17:10(16:00), 9~10월 10:00~17:30(16:00), 11월 10:00~17:00(15:30), 12~1월 10:00~16:10(15:00)이다.",
+  "hint_url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide2.jsp&mn=NS_01_25",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-changdeokgung",
+  "name": "창덕궁",
+  "sid": "r1-b02-s2",
+  "field": "fees",
+  "hint_text": "후원 특별관람 무료 대상은 만6세 이하(내·외국인)와 내국인 장애인·국가유공자이며, 종로구민은 50% 할인된다.",
+  "hint_url": "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide2.jsp&mn=NS_01_25",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-changdeokgung",
+  "name": "창덕궁",
+  "sid": "r1-b02-s3",
+  "field": "fees",
+  "hint_text": "창덕궁 궁궐전각 상시관람권은 1개월 30,000원(사진 1매 필요), 점심시간(12:00~14:00) 관람권은 5,000원(3개월 내 10회, 인근 직장인 대상)이다.",
+  "hint_url": "https://www.khs.go.kr/html/HtmlPage.do?pg=/watch_info/palacesCdgGuide1.jsp&mn=NS_01_25",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-changdeokgung",
+  "name": "창덕궁",
+  "sid": "r1-b02-s4",
+  "field": "reservation",
+  "hint_text": "후원 예매 조회·취소는 궁능유적본부 통합예약 페이지에서 한다.",
+  "hint_url": "https://royal.khs.go.kr/ROYAL/contents/R601000000.do",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-changdeokgung",
+  "name": "창덕궁",
+  "sid": "r1-b02-s5",
+  "field": "closed_days",
+  "hint_text": "명절 연휴에는 전각을 무료 개방하기도 한다(2026년 추석 9.24~9.27, 후원 제외, 전각 해설 미운영).",
+  "hint_url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260921134912308090&schBcid=notice01",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-gyeongbokgung",
+  "name": "경복궁",
+  "sid": "pilot1-s1",
+  "field": "hours",
+  "hint_text": "2026년 10월 관람시간은 09:00~18:00(입장마감 17:00), 11월은 09:00~17:00(입장마감 16:00)이다.",
+  "hint_url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260930144202825885&schBcid=notice01",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-gyeongbokgung",
+  "name": "경복궁",
+  "sid": "pilot1-s2",
+  "field": "fees",
+  "hint_text": "코리아 그랜드 페스티벌 기간인 2026년 10월 29일~11월 15일에는 무료 개방한다(화요일 휴궁일 제외). 이 기간 정규해설은 30분 단축 운영한다.",
+  "hint_url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260930144202825885&schBcid=notice01",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-gyeongbokgung",
+  "name": "경복궁",
+  "sid": "pilot1-s3",
+  "field": "reservation",
+  "hint_text": "경회루·향원정 특별관람은 추석 연휴(9.24~9.27), 한글날(10.9), 궁중문화축전 기간(10.7~10.11)에는 운영하지 않는다.",
+  "hint_url": "https://royal.khs.go.kr/ROYAL/contents/R601000000.do",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-gyeongbokgung",
+  "name": "경복궁",
+  "sid": "pilot1-s4",
+  "field": "fees",
+  "hint_text": "궁능 소재지 기초자치단체 주민은 신분증·등본 등 증빙을 내면 일반관람료 50% 할인을 받는다(중복 할인 불가).",
+  "hint_url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-lotte-world",
+  "name": "롯데월드 어드벤처(잠실)",
+  "sid": "pilot1-s1",
+  "field": "payment",
+  "hint_text": "롯데백화점 상품권과 롯데호텔 상품권(사용처에 롯데월드 어드벤처 기재)을 쓸 수 있다. 클린카드(청소년·법인카드)는 사용이 일부 제한될 수 있다.",
+  "hint_url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=3",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-lotte-world",
+  "name": "롯데월드 어드벤처(잠실)",
+  "sid": "pilot1-s2",
+  "field": "reservation",
+  "hint_text": "매직패스 Premium은 방문 2일 전 00시부터 전날 23:59까지 앱에서 사전 예매할 수 있다. 모든 권종은 당일 08:30부터 앱에서 판매한다.",
+  "hint_url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=3",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-lotte-world",
+  "name": "롯데월드 어드벤처(잠실)",
+  "sid": "pilot1-s3",
+  "field": "reservation",
+  "hint_text": "온라인 예매는 매월 1일 00시부터 다음 달 상품을 판매한다.",
+  "hint_url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=5",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-lotte-world",
+  "name": "롯데월드 어드벤처(잠실)",
+  "sid": "pilot1-s4",
+  "field": "caution",
+  "hint_text": "기온 0℃ 이하 또는 30℃ 이상, 풍속 7~14㎧ 이상, 0.2㎜ 이상 비가 오면 매직아일랜드 일부 어트랙션 운행이 중단될 수 있다.",
+  "hint_url": "https://adventure.lotteworld.com/kor/usage-guide/service/index.do",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-lotte-world",
+  "name": "롯데월드 어드벤처(잠실)",
+  "sid": "pilot1-s5",
+  "field": "caution",
+  "hint_text": "장애인 탑승예약제: 손님상담실에서 복지카드로 본인 확인 후 탑승예약카드를 받아 어트랙션별로 예약한다.",
+  "hint_url": "https://adventure.lotteworld.com/kor/usage-guide/service/convenient-facilities/disabled-person/index.do",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-myeongdong",
+  "name": "명동",
+  "sid": "r1-b11-s1",
+  "field": "location",
+  "hint_text": "서울 공식 관광 사이트는 명동 대표 주소를 서울 중구 명동8길 27(우편번호 04536)로 표기한다.",
+  "hint_url": "https://english.visitseoul.net/shopping/Myeong-dong/ENP000067",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-myeongdong",
+  "name": "명동",
+  "sid": "r1-b11-s2",
+  "field": "location",
+  "hint_text": "한국관광공사는 명동 도로명 주소를 서울 중구 을지로 66으로 표기한다.",
+  "hint_url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88011",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "sid": "r1-b03-s1",
+  "field": "language",
+  "hint_text": "N서울타워 공식 누리집에는 영어 페이지(Hours & Admission, Getting Here 등)가 있다.",
+  "hint_url": "https://www.nseoultower.co.kr/eng/index.asp",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "sid": "r1-b03-s2",
+  "field": "tip",
+  "hint_text": "타워 2층 더플레이스 다이닝은 전망대 입장권 없이 이용할 수 있고, 엔그릴(7층)·한쿡(3층)은 지하로 내려와 엘리베이터를 타야 한다.",
+  "hint_url": "https://www.nseoultower.co.kr/global/customer/faq.asp?page=2",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "sid": "r1-b03-s3",
+  "field": "caution",
+  "hint_text": "N서울타워 안에서 촬영하려면 최소 3일 전(주말·공휴일 제외) 협조공문으로 촬영허가를 받아야 한다.",
+  "hint_url": "https://www.nseoultower.co.kr/global/customer/faq.asp?page=1",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "sid": "r1-b01-s1",
+  "field": "parking",
+  "hint_text": "입차 후 20분 이내에 출차하면 주차요금이 면제되고, 23시 이후 주차장 출입문을 닫으므로 운영시간 안에 출차해야 한다.",
+  "hint_url": "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map",
+  "priority": 2
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "sid": "r1-b01-s2",
+  "field": "parking.entrance",
+  "hint_text": "2026년 7월부터 대형주차장을 거쳐 용산어린이정원 주차장으로 진입할 수 있다.",
+  "hint_url": "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map",
+  "priority": 2
+ }
+]

@@ -1,0 +1,605 @@
+[
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c13",
+  "field": "fees",
+  "text": "만 18세 미만 중국 국적자(홍콩·마카오·대만 거주민과 영주권 외국인 포함)는 무료이나 예약은 해야 하며, 만 14세 미만은 성인 1명이 최대 3명까지 동반할 수 있다.",
+  "sources": [
+   "https://www.dpm.org.cn/Visit.html"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c14",
+  "field": "fees",
+  "text": "만 18세 이상 본과 이하 학생은 학생권을 사며 성수기·비수기 모두 20위안이고, 학생증이나 학교 소개서가 필요하다.",
+  "sources": [
+   "https://www.dpm.org.cn/Visit.html"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c15",
+  "field": "fees",
+  "text": "만 60세 이상은 유효한 신분증 원본을 제시하면 입장권이 반값이다(성수기 30위안, 비수기 20위안).",
+  "sources": [
+   "https://www.dpm.org.cn/Visit.html"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c16",
+  "field": "fees",
+  "text": "장애인(장애인증)과 현역 군인·소방구조 인력은 무료이며, 장애인 보호자는 우대가 없고 예약해야 한다.",
+  "sources": [
+   "https://www.dpm.org.cn/Visit.html"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c17",
+  "field": "reservation",
+  "text": "실명제로 운영하며 당일권은 팔지 않는다. 입장권은 관람 7일 전 20:00부터 예약할 수 있고 당일에만 유효하다.",
+  "sources": [
+   "https://ticket.dpm.org.cn/"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c18",
+  "field": "reservation",
+  "text": "외국인(중국 본토 외 관광객)은 홍콩·마카오 통행증, 대만 통행증, 거주증, 외국인 영주증 또는 여권으로 예약·검표하며, 같은 증명서로 하루에 한 장만 예약할 수 있다.",
+  "sources": [
+   "https://ticket.dpm.org.cn/"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c19",
+  "field": "reservation",
+  "text": "공식 채널은 위챗 '故宫博物院' 미니프로그램이며, 박물관은 어떤 제3자에게도 입장권 대리 판매를 위임하지 않았다고 밝힌다.",
+  "sources": [
+   "https://ticket.dpm.org.cn/"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c20",
+  "field": "reservation",
+  "text": "예약은 오전·오후 두 시간대로 나뉜다. 오전 예약자는 늦어도 12:00까지, 오후 예약자는 빨라야 11:00부터 검표할 수 있다.",
+  "sources": [
+   "https://ticket.dpm.org.cn/"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c21",
+  "field": "reservation",
+  "text": "입장 때는 예약에 쓴 증명서 원본을 지참해 오문에서 검표하며, 얼굴 인식 장비를 보조로 써서 실명을 확인한다(얼굴 정보는 저장하지 않는다고 안내).",
+  "sources": [
+   "https://ticket.dpm.org.cn/"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c22",
+  "field": "reservation",
+  "text": "구매한 입장권은 사용 후 환불이 안 되며, 미사용 표는 관람 전날 24:00까지 원래 예약 채널에서 환불하면 노쇼로 치지 않는다. 그 후(당일 포함) 환불은 노쇼 1회로 계산된다.",
+  "sources": [
+   "https://ticket.dpm.org.cn/"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c23",
+  "field": "reservation",
+  "text": "180일 안에 노쇼가 3회 쌓이면 3회째 다음 날부터 60일 동안 입장권·전시 예약을 할 수 없다.",
+  "sources": [
+   "https://ticket.dpm.org.cn/"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c24",
+  "field": "reservation",
+  "text": "무영전 도자관(武英殿陶瓷馆)과 각종 특별·임시 전시는 따로 사전 예약이 필요하다.",
+  "sources": [
+   "https://ticket.dpm.org.cn/"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c25",
+  "field": "language",
+  "text": "공식 사이트는 영어·스페인어·러시아어·일본어·프랑스어·번체 중국어 버전을 제공하며 한국어 버전은 목록에 없다.",
+  "sources": [
+   "https://intl.dpm.org.cn/visit.html?l=en"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c26",
+  "field": "language",
+  "text": "안내 지도에 음성 가이드(语音导览器)와 해설 서비스 위치가 표시된다.",
+  "sources": [
+   "https://www.dpm.org.cn/Visit.html"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c27",
+  "field": "duration",
+  "text": "공식 추천 코스는 2시간 코스, 반나절 코스, 하루 코스로 나뉜다.",
+  "sources": [
+   "https://www.dpm.org.cn/Visit.html"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c28",
+  "field": "caution",
+  "text": "2026-09-01~10-31 연희궁(延禧宫)은 보호 조사로 닫히며 11월 1일 다시 개방된다.",
+  "sources": [
+   "https://www.dpm.org.cn/Visit.html"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c29",
+  "field": "caution",
+  "text": "태화문(太和门)은 8월 3일부터 공사로 봉쇄된다고 공고되었다.",
+  "sources": [
+   "https://www.dpm.org.cn/Visit.html"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c30",
+  "field": "caution",
+  "text": "고건축관·청동기관·무비관은 '임시 폐쇄(暂闭)'로 표시되어 있다.",
+  "sources": [
+   "https://www.dpm.org.cn/Visit.html"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c31",
+  "field": "caution",
+  "text": "고궁은 세계 최대급 목조 궁전 건물군이라 화재 위험이 크므로 금연이며, 반려동물 반입과 전시장 안 플래시·삼각대 촬영이 금지된다.",
+  "sources": [
+   "https://www.dpm.org.cn/Visit.html"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c32",
+  "field": "caution",
+  "text": "혼잡할 때는 직원의 안내에 따라 질서 있게 관람하고, 소매치기와 호객·상품 권유에 주의하라고 안내한다. 길을 잃으면 경운문 안쪽 서남쪽 방송실로 가면 된다.",
+  "sources": [
+   "https://www.dpm.org.cn/Visit.html"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c33",
+  "field": "tip",
+  "text": "입장권 문의 고객센터는 400-950-1925이며 연중무휴 08:00~20:00에 운영된다.",
+  "sources": [
+   "https://ticket.dpm.org.cn/"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c34",
+  "field": "description",
+  "text": "공식 영문 사이트는 고궁을 유네스코 세계유산인 명·청 황궁으로 소개한다.",
+  "sources": [
+   "https://intl.dpm.org.cn/index.html?l=en"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c35",
+  "field": "description",
+  "text": "궁성은 높이 10m의 성벽과 폭 52m의 해자로 둘러싸여 있다.",
+  "sources": [
+   "https://intl.dpm.org.cn/visit.html?l=en"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c1",
+  "field": "location",
+  "text": "공식 관광 포털에 실린 이화원의 주소는 베이징시 하이뎬구 신젠궁먼루 19호이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c2",
+  "field": "location",
+  "text": "이화원은 베이징 도심에서 15km 떨어진 하이뎬구에 있으며 면적은 약 290헥타르이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c3",
+  "field": "access",
+  "text": "지하철 4호선을 타고 베이궁먼(北宫门)역에서 내리면 이화원에 바로 닿는다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c4",
+  "field": "access",
+  "text": "지하철 4호선 시위안(西苑)역에서 내려 퉁칭제를 따라 서쪽으로 500m 걸으면 동문(정문)에 도착한다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c5",
+  "field": "duration",
+  "text": "권장 관람 시간은 3시간이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c6",
+  "field": "hours",
+  "text": "성수기(4월 1일~10월 31일)에는 6:00에 개원하고 19:00에 입장을 마감하며 20:00에 폐원한다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c7",
+  "field": "hours",
+  "text": "비수기(11월 1일~3월 31일)에는 6:30에 개원하고 18:00에 입장을 마감하며 19:00에 폐원한다.",
+  "sources": [
+   "https://gygl.beijing.gov.cn/xxgk/xxgk_gyxx/202311/t20231116_3303366.html",
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c8",
+  "field": "hours",
+  "text": "불향각·덕화원·이화원박물관·쑤저우제는 성수기(4월 1일~10월 31일) 8:00 개문~18:00 폐문, 비수기(11월 1일~3월 31일) 8:30 개문~17:00 폐문이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c9",
+  "field": "hours",
+  "text": "셰취위안·지칭쉬안·양윈쉬안·이서우탕·위란탕·이윈관·러서우탕·화중유·난후다오 내 원락·겅즈투 수조학당은 성수기(4월 1일~10월 31일) 8:00~18:00, 비수기(11월 1일~3월 31일) 8:30~17:00에 운영한다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c10",
+  "field": "closed_days",
+  "text": "덕화원·불향각·박물관·쑤저우제 4개 원중원과 지칭쉬안·양윈쉬안·이서우탕·난후다오 내 원락·겅즈투 수조학당 등은 법정 공휴일을 제외하고 월요일에 문을 닫는다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407",
+   "https://gygl.beijing.gov.cn/xxgk/xxgk_gyxx/202311/t20231116_3303366.html"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c11",
+  "field": "fees",
+  "text": "공원 입장권은 성수기(4월 1일~10월 31일) 30위안, 비수기(11월 1일~3월 31일) 20위안이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c12",
+  "field": "fees",
+  "text": "입장권과 원중원 입장권이 포함된 연표(联票)는 성수기(4월 1일~10월 31일) 60위안, 비수기(11월 1일~3월 31일) 50위안이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c13",
+  "field": "fees",
+  "text": "원중원 개별 입장권은 덕화원 5위안, 이화원박물관 20위안, 불향각 10위안, 쑤저우제 10위안이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c14",
+  "field": "fees",
+  "text": "할인 입장권은 15위안, 할인 연표는 30위안이며 원중원 할인표는 반값이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c15",
+  "field": "fees",
+  "text": "만 6세(6세 포함) 이하이거나 키 1.2m(포함) 이하인 어린이는 무료이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c16",
+  "field": "fees",
+  "text": "60세 이상 외국인 관광객은 여권을 제시하면 무료로 입장할 수 있다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c17",
+  "field": "fees",
+  "text": "만 6세 초과~18세(포함) 미성년자와 학부 이하 전일제 학생은 유효한 신분증이나 학생증으로 할인표를 살 수 있다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c18",
+  "field": "fees",
+  "text": "장애인과 현역 군인 등은 유효 증서를 제시하면 무료로 입장하고, 어린이날(6월 1일)에는 어린이가 무료이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c20",
+  "field": "payment",
+  "text": "이화원은 7개 문에서 모두 표를 살 수 있으며 그중 동문·북문·신젠궁먼 문구에서는 카드 결제가 가능하다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c21",
+  "field": "language",
+  "text": "동문·북문·신젠궁먼 문구에서는 전자 화면으로 영상 안내를 받을 수 있고, 동문 밖 관광객 서비스센터(전화 010-62881144 내선 6831)에서 관람 안내 자료를 제공한다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c22",
+  "field": "tip",
+  "text": "7개 문 지역과 관광객 서비스센터에서 구급상자·바느질 세트·휠체어를 무료로 빌려 쓸 수 있으며, 휠체어는 보증금 500위안을 냈다가 반납할 때 돌려받는다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c23",
+  "field": "description",
+  "text": "이화원은 중국에 현존하는 가장 큰 규모이자 가장 잘 보존된 황실 정원이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c24",
+  "field": "description",
+  "text": "쿤밍호와 만수산을 바탕으로 항저우 서호 풍경을 본뜨고 강남 정원의 기법을 받아들여 만든 대형 자연 산수 정원이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c25",
+  "field": "description",
+  "text": "전신 칭이위안은 1750년에 짓기 시작해 1764년에 완공되었다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c1",
+  "field": "location",
+  "text": "톈안먼 광장의 주소는 베이징시 둥청구 시창안제이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101404"
+  ]
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c2",
+  "field": "access",
+  "text": "1·4·5·8·10·20·22·37·52·728번 버스를 타고 톈안먼동(天安门东)에서 내린다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101404"
+  ]
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c3",
+  "field": "access",
+  "text": "국기 하강식을 볼 때는 지하철 1호선 톈안먼동(天安门东) 또는 톈안먼서(天安门西)역에서 내려 걸어간다.",
+  "sources": [
+   "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx"
+  ]
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c4",
+  "field": "access",
+  "text": "국기 게양식을 보러 갈 때는 야간버스 야1로(톈안먼동·톈안먼서 하차), 야2·야17로(톈안먼동·톈안먼광장동 하차)를 탈 수 있으며, 세 노선 모두 첫차 23:20, 막차 04:50에 출발한다.",
+  "sources": [
+   "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx"
+  ]
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c5",
+  "field": "duration",
+  "text": "권장 관람 시간은 1시간이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101404"
+  ]
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c6",
+  "field": "hours",
+  "text": "광장은 매일 국기 게양 시각 1시간 전에 열고 22:00에 청장한다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101404"
+  ]
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c7",
+  "field": "hours",
+  "text": "국기 게양·하강 시각은 날마다 달라지며, 2026년 10월 8일에는 게양 06:17, 하강 17:46이었다.",
+  "sources": [
+   "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx"
+  ]
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c8",
+  "field": "fees",
+  "text": "입장료는 무료이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101404",
+   "https://whlyj.beijing.gov.cn/zmhd/hdrd/202201/t20220114_2591830.html"
+  ]
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c9",
+  "field": "reservation",
+  "text": "관람객은 1~7일 전에 '天安门广场预约参观' 위챗 미니프로그램, '京通' 미니프로그램(위챗·알리페이·바이두), '北京日报'·'北京时间' 앱 또는 천안문지구관리위원회 포털로 예약한다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101404"
+  ]
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c10",
+  "field": "reservation",
+  "text": "국기 게양식을 보려면 예약 플랫폼에서 '升旗' 시간대를 골라 1~7일 전에 예약해야 한다.",
+  "sources": [
+   "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx"
+  ]
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c12",
+  "field": "caution",
+  "text": "예약한 날짜와 시간대에 맞춰 가야 하며, 예약일이 아니면 돌려보내진다.",
+  "sources": [
+   "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx"
+  ]
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c13",
+  "field": "caution",
+  "text": "신분증을 지참해야 하며, 위험물·관제 기구·금지 물품과 드론, 라이터 반입이 금지된다.",
+  "sources": [
+   "https://www.visitbeijing.com.cn/article/4TPf0IO0bNx"
+  ]
+ },
+ {
+  "place": "bj-tiananmen-square",
+  "name": "톈안먼 광장",
+  "cid": "r1-b26-c16",
+  "field": "caution",
+  "text": "연휴뿐 아니라 평소에도 예약한 날짜와 시간대에 맞춰 입장해야 하며, 예약한 날짜가 아니면 돌려보내진다(2026년 10월 7일 안내 기준).",
+  "sources": [
+   "https://whlyj.beijing.gov.cn/zmhd/hdrd/202201/t20220114_2591830.html"
+  ]
+ }
+]

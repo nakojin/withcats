@@ -1,0 +1,609 @@
+[
+ {
+  "place": "kr-busan-haedong-yonggungsa",
+  "name": "해동용궁사",
+  "cid": "r1-b10-c14",
+  "field": "tip",
+  "text": "기장군 문화관광 사이트는 해동용궁사를 기장권역 추천 역사 코스(오랑대, 죽성리 해송 등과 함께)로 소개하며, 시랑대는 해동용궁사와 인접하다고 설명한다.",
+  "sources": [
+   "https://www.gijang.go.kr/tour/index.gijang?menuCd=DOM_000000306002004000",
+   "https://www.gijang.go.kr/tour/index.gijang?menuCd=DOM_000000306001001000"
+  ]
+ },
+ {
+  "place": "kr-busan-haedong-yonggungsa",
+  "name": "해동용궁사",
+  "cid": "r1-b10-c15",
+  "field": "language",
+  "text": "기장군은 외국인 관광객을 위해 1330 관광통역전화를 안내한다. 전화는 8개 국어(한국어·영어·일본어·중국어는 24시간 연중무휴, 러시아어·베트남어·태국어·말레이·인도네시아어는 08:00~19:00), 실시간 문자채팅은 한국어·영어·일본어·중국어로 24시간 이용할 수 있다.",
+  "sources": [
+   "https://www.gijang.go.kr/tour/index.gijang?menuCd=DOM_000000310008003000"
+  ]
+ },
+ {
+  "place": "kr-busan-haedong-yonggungsa",
+  "name": "해동용궁사",
+  "cid": "r1-b10-c16",
+  "field": "tip",
+  "text": "가까운 관광안내소는 기장역사 2층(기장읍 차성로288번길 86)이며 09:00~18:00(13:00~14:00 휴게), 신정·명절 당일 휴무, 문의 051-709-4077이다.",
+  "sources": [
+   "https://www.gijang.go.kr/tour/index.gijang?menuCd=DOM_000000310008002000"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c1",
+  "field": "location",
+  "text": "해운대해수욕장의 주소는 부산광역시 해운대구 해운대해변로 264이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053",
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c2",
+  "field": "access",
+  "text": "지하철 2호선 해운대역에서 3번 또는 5번 출구로 나가 걸어서 약 5분이다(2025년 시즌 기사 기준).",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=228475"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c3",
+  "field": "parking",
+  "text": "해운대해수욕장에는 주차가 가능하다고 안내된다(요금은 미확인).",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c4",
+  "field": "parking",
+  "text": "장애인 주차장은 광장주차장에 있다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c5",
+  "field": "hours",
+  "text": "한국관광공사 무장애 정보에는 이용시간이 매년 6월~9월 09:00~18:00로 적혀 있다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c6",
+  "field": "closed_days",
+  "text": "휴무일 없이 연중무휴이다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c7",
+  "field": "fees",
+  "text": "해운대해수욕장 입장료는 무료이다. 시설별 요금은 시설마다 다르다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c8",
+  "field": "language",
+  "text": "해운대관광안내소 문의 전화는 051-749-5700이다(한국어 안내 여부는 명시 없음).",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c9",
+  "field": "tip",
+  "text": "1층 관광안내소에서 신분증을 맡기면 휠체어를 빌릴 수 있고, 장애인 화장실은 관광안내소 옆 송림공원 인근에 있다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c10",
+  "field": "tip",
+  "text": "해변을 따라 난 무장애길 중 두 곳의 휠체어 경사로와 목재 데크길로 모래사장까지 휠체어 이동이 가능하고, 장애인 보조견 동반도 가능하다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=65cb9bcc-a7f9-4dac-ab2a-7ead31f54a0c"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c11",
+  "field": "description",
+  "text": "백사장은 길이 약 1.5km, 폭 30~50m이며 얕은 만이어서 해수욕에 알맞다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c12",
+  "field": "description",
+  "text": "여름마다 국내에서 가장 많은 인파가 몰리는 곳이며, 부산을 대표하는 명소로 소개된다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=36f54304-e9a8-4615-9226-eb749bf6ce75"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c13",
+  "field": "highlight",
+  "text": "매년 정월 대보름 달맞이 축제, 겨울 북극곰수영대회, 모래 작품전, 부산 바다 축제 등이 열린다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=36f54304-e9a8-4615-9226-eb749bf6ce75"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c14",
+  "field": "highlight",
+  "text": "주변에 동백섬, 오륙도, 아쿠아리움, 요트경기장, 벡스코, 달맞이고개가 있다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=36f54304-e9a8-4615-9226-eb749bf6ce75"
+  ]
+ },
+ {
+  "place": "kr-chungnam-daecheon-beach",
+  "name": "보령 대천해수욕장",
+  "cid": "r1-b10-c1",
+  "field": "location",
+  "text": "대천해수욕장의 도로명 주소는 충청남도 보령시 머드로 123이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704"
+  ]
+ },
+ {
+  "place": "kr-chungnam-daecheon-beach",
+  "name": "보령 대천해수욕장",
+  "cid": "r1-b10-c2",
+  "field": "parking",
+  "text": "주차가 가능하다고 안내되어 있다(주차 요금·면수는 해당 페이지에 없음).",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704"
+  ]
+ },
+ {
+  "place": "kr-chungnam-daecheon-beach",
+  "name": "보령 대천해수욕장",
+  "cid": "r1-b10-c3",
+  "field": "tip",
+  "text": "해수욕장 시설로 화장실이 안내되어 있고 문의 전화는 +82-41-930-6810(보령시 해수욕장경영과)이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704",
+   "https://access.visitkorea.or.kr/opentour/detail.do?cotId=7d7bd27c-9d19-443b-adb6-6867c21e15dc"
+  ]
+ },
+ {
+  "place": "kr-chungnam-daecheon-beach",
+  "name": "보령 대천해수욕장",
+  "cid": "r1-b10-c4",
+  "field": "description",
+  "text": "서해안에서 가장 큰 해수욕장으로, 백사장 길이 3.5km, 폭 100m이며 경사가 완만하고 모래가 깨끗하다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704"
+  ]
+ },
+ {
+  "place": "kr-chungnam-daecheon-beach",
+  "name": "보령 대천해수욕장",
+  "cid": "r1-b10-c5",
+  "field": "highlight",
+  "text": "다보도 너머로 지는 노을이 특히 아름답다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704"
+  ]
+ },
+ {
+  "place": "kr-chungnam-daecheon-beach",
+  "name": "보령 대천해수욕장",
+  "cid": "r1-b10-c6",
+  "field": "highlight",
+  "text": "해변은 노을광장과 머드광장 두 구역으로 나뉘며, 해마다 보령머드축제가 열린다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704"
+  ]
+ },
+ {
+  "place": "kr-chungnam-daecheon-beach",
+  "name": "보령 대천해수욕장",
+  "cid": "r1-b10-c7",
+  "field": "highlight",
+  "text": "해변 끝의 보령머드체험관에서 머드 사우나, 머드 온돌방, 머드팩, 머드 마사지를 이용할 수 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704"
+  ]
+ },
+ {
+  "place": "kr-chungnam-daecheon-beach",
+  "name": "보령 대천해수욕장",
+  "cid": "r1-b10-c8",
+  "field": "highlight",
+  "text": "대천 집트렉과, 대천해변과 대천항 위를 지나는 바다 위 레일바이크 스카이바이크가 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704"
+  ]
+ },
+ {
+  "place": "kr-chungnam-daecheon-beach",
+  "name": "보령 대천해수욕장",
+  "cid": "r1-b10-c9",
+  "field": "tip",
+  "text": "공식 누리집으로 daecheonbeach.kr 와 보령 문화관광 사이트(brcn.go.kr/tour.do)가 안내되어 있다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/opentour/detail.do?cotId=7d7bd27c-9d19-443b-adb6-6867c21e15dc"
+  ]
+ },
+ {
+  "place": "kr-chungnam-daecheon-beach",
+  "name": "보령 대천해수욕장",
+  "cid": "r1-b10-c10",
+  "field": "tip",
+  "text": "해변에는 장애인 주차장과 장애인 화장실, 촉지형 종합안내판, 점자가이드북 등이 갖춰져 있으며 열린관광지로 소개되어 있다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/opentour/detail.do?cotId=7d7bd27c-9d19-443b-adb6-6867c21e15dc"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c1",
+  "field": "location",
+  "text": "경포대의 주소는 강릉시 경포로 365이다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+   "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c2",
+  "field": "hours",
+  "text": "경포대는 시간 제한 없이 상시 이용할 수 있다.",
+  "sources": [
+   "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c3",
+  "field": "closed_days",
+  "text": "경포대는 정기 휴무 없이 연중 개방한다.",
+  "sources": [
+   "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255",
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c4",
+  "field": "fees",
+  "text": "경포대 입장료는 무료이며 별도 시설이용료도 없다.",
+  "sources": [
+   "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c5",
+  "field": "parking",
+  "text": "경포대에는 주차가 가능하고 주차요금은 무료이다.",
+  "sources": [
+   "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c6",
+  "field": "parking",
+  "text": "주출입구 근처 지상주차장에 장애인 전용 주차구역이 4면 있다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c7",
+  "field": "caution",
+  "text": "주출입구는 계단으로 이어져 휠체어로 들어가기 어렵고, 장애인 화장실은 있다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c8",
+  "field": "description",
+  "text": "경포대는 관동팔경의 하나로 경포호 북쪽 언덕에 있는 누각이며 국가지정문화재 보물 제2046호이다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31",
+   "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c9",
+  "field": "description",
+  "text": "고려 충숙왕 13년에 창건된 것으로 전해지며, 이후 한 차례 이건과 여러 차례 중수 기록이 남아 있다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c10",
+  "field": "highlight",
+  "text": "비교적 높은 곳에 지어져 경포호수와 경포대해수욕장을 조망할 수 있다.",
+  "sources": [
+   "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c11",
+  "field": "highlight",
+  "text": "누각 내부에는 숙종의 어제시, 율곡 이이가 10세에 지었다는 경포대부, 조하망의 상량문 등 여러 글이 게시되어 있다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c12",
+  "field": "tip",
+  "text": "경포해수욕장 일대는 1월 1일 일출을 보려는 방문객이 많아 숙박을 미리 예약해 두라고 안내한다.",
+  "sources": [
+   "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c13",
+  "field": "tip",
+  "text": "경포대 문의 전화는 033-640-5119이다.",
+  "sources": [
+   "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c14",
+  "field": "tip",
+  "text": "주변 관광지로 경포호와 경포해수욕장이 있고, 경포호와 인접한 초당동의 초당두부를 강릉 별미로 추천한다.",
+  "sources": [
+   "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c1",
+  "field": "location",
+  "text": "남이섬 주소는 강원특별자치도 춘천시 남이섬길 1이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c2",
+  "field": "access",
+  "text": "섬에 들어가려면 경기도 가평군 가평읍 북한강변로 1024의 남이섬 선착장에서 배를 타야 한다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c3",
+  "field": "access",
+  "text": "가평역에서 선착장까지는 도보 약 30분 또는 택시 약 5분이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c4",
+  "field": "access",
+  "text": "서울 주요 지역(홍대입구·명동·동대문역사문화공원)에서 선착장으로 가는 셔틀버스가 있으며 온라인 예약이 필요하다고 안내된다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c5",
+  "field": "access",
+  "text": "동서울버스터미널에서 가평터미널까지 시외버스는 약 1시간 10분이며 가평터미널에서 선착장까지 약 3km다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c6",
+  "field": "parking",
+  "text": "주차장이 있으며 600면으로 안내된다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c7",
+  "field": "parking",
+  "text": "주차요금은 소형 6,000원, 대형 10,000원이며 12시간 초과 시 1시간마다 1,000원이 추가된다(호텔 정관루 투숙객 제외).",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c8",
+  "field": "hours",
+  "text": "섬 운영시간은 08:00~21:00이며 봄꽃·여름휴가·단풍철에는 더 길어진다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c9",
+  "field": "hours",
+  "text": "선착장 출발 배는 08:00~09:00에 30분 간격, 09:00~18:00에 10~20분 간격이며 사정에 따라 바뀔 수 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c11",
+  "field": "closed_days",
+  "text": "휴무일이 없고 연중 운영한다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c12",
+  "field": "fees",
+  "text": "입장료는 일반 19,000원, 할인 16,000원, 특별 13,000원이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c13",
+  "field": "fees",
+  "text": "3세 이하 미취학 아동은 입장료가 무료다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c14",
+  "field": "fees",
+  "text": "선착장 안내 기사는 성인 19,000원, 중·고생 16,000원, 초등학생 이하 13,000원으로 구분한다(2024년 8월 기준).",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c15",
+  "field": "tip",
+  "text": "짚와이어(가평 선착장 출발)는 남이섬 입장료와 왕복 배삯이 포함되며 가족 코스 55,000원, 어드벤처 코스 58,000원이다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88021"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c16",
+  "field": "tip",
+  "text": "섬 안 이동은 스토리투어버스 8,000원(20분), 유니세프 열차 4,000원(10분), 자전거 30분 5,000원/1시간 8,000원이며 전기자전거는 운전면허가 필요하다(2024년 8월 기준).",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c17",
+  "field": "tip",
+  "text": "자전거 대여 마지막 시간은 17:20이다(2024년 8월 기준).",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c18",
+  "field": "language",
+  "text": "관광공사 1330 여행안내는 한국어·영어·일본어·중국어 등으로 이용할 수 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c19",
+  "field": "description",
+  "text": "한국관광공사는 남이섬을 동화나라와 노래나라를 콘셉트로 공연·전시·콘서트를 여는 곳으로 소개한다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c20",
+  "field": "highlight",
+  "text": "겨울연가로 알려진 메타세쿼이아길과 27개 테마 정원이 있고 토끼·공작 같은 동물을 볼 수 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120"
+  ]
+ }
+]

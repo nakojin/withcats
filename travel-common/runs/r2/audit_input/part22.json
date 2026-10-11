@@ -1,0 +1,604 @@
+[
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c17",
+  "field": "parking",
+  "text": "안동시 요금 안내는 하회마을 주차료와 셔틀버스를 모두 무료로 적는다.",
+  "sources": [
+   "https://www.tourandong.com/public/sub5/sub2.cshtml"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c18",
+  "field": "parking",
+  "text": "한국관광공사 정보에도 주차 가능, 요금 무료로 표시된다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c19",
+  "field": "access",
+  "text": "승용차는 중앙고속도로 서안동IC에서 하회마을·봉정사 방면으로 나간다.",
+  "sources": [
+   "http://www.hahoe.or.kr/coding/sub5/sub2.asp"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c20",
+  "field": "access",
+  "text": "하회마을 사이트의 시내버스 안내(2022년 3월 21일 기준)는 210번 버스로 안동에서 하회까지 약 50분, 현금 1,500원이다. 시간표는 갱신 여부를 확인해야 한다.",
+  "sources": [
+   "http://www.hahoe.or.kr/coding/sub5/sub3.asp"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c21",
+  "field": "reservation",
+  "text": "문화관광해설사 예약은 안동축제관광조직위원회 온라인 예약을 통한다. 매표소는 054-840-3801, 관광안내소·해설·통역 안내는 054-840-3803이다.",
+  "sources": [
+   "http://www.hahoe.or.kr/coding/sub5/sub3.asp"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c22",
+  "field": "language",
+  "text": "하회마을 관광안내소에서 문화관광 해설과 통역 안내를 제공한다(어느 언어인지는 페이지에 없음).",
+  "sources": [
+   "http://www.hahoe.or.kr/coding/sub5/sub3.asp"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c23",
+  "field": "tip",
+  "text": "종합안내소 전화는 054-840-3795, 관리사무소 전화는 054-854-3669이다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+   "http://www.hahoe.or.kr/coding/sub5/sub3.asp"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c1",
+  "field": "location",
+  "text": "불국사의 주소는 경상북도 경주시 불국로 385(진현동 15-1)이다.",
+  "sources": [
+   "http://www.bulguksa.or.kr/bbs/content.php?co_id=location"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c2",
+  "field": "location",
+  "text": "석굴암의 주소는 경상북도 경주시 석굴로 238이다.",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=map"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c3",
+  "field": "fees",
+  "text": "불국사 관람료는 개정 문화재보호법에 따라 2023년 5월 4일부터 무료이다.",
+  "sources": [
+   "http://www.bulguksa.or.kr/bbs/content.php?co_id=application"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c4",
+  "field": "fees",
+  "text": "석굴암 관람료도 2023년 5월 4일부터 무료이다.",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=price"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c5",
+  "field": "hours",
+  "text": "불국사 입장 시간은 11~1월 9:00~17:00, 2월과 10월 9:00~17:30, 3~9월 9:00~18:00이며 각 시각은 입장 마감이다. 평일·주말·공휴일이 같다.",
+  "sources": [
+   "http://www.bulguksa.or.kr/bbs/content.php?co_id=application"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c6",
+  "field": "hours",
+  "text": "석굴암 입장 시간도 11~1월 9:00~17:00, 2월과 10월 9:00~17:30, 3~9월 9:00~18:00(입장 마감)이며 주중·주말·공휴일이 같다.",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=price"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c7",
+  "field": "closed_days",
+  "text": "불국사는 연중무휴이다.",
+  "sources": [
+   "http://www.bulguksa.or.kr/bbs/content.php?co_id=application"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c8",
+  "field": "closed_days",
+  "text": "석굴암은 연중무휴이다.",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=price"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c9",
+  "field": "caution",
+  "text": "불국사에는 반려동물이 입장할 수 없다.",
+  "sources": [
+   "http://www.bulguksa.or.kr/bbs/content.php?co_id=application"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c10",
+  "field": "caution",
+  "text": "석굴암에도 반려동물이 입장할 수 없다.",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=price"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c11",
+  "field": "caution",
+  "text": "호우·태풍·폭설 등 기상특보(주의보·경보)가 발효되면 안전을 위해 석굴암 경내 출입이 통제될 수 있다.",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=price"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c12",
+  "field": "parking",
+  "text": "불국사 주차요금은 승용차(1,000cc 미만)와 중형차(1,000cc 이상) 각 2,000원, 대형차(버스) 4,000원이다.",
+  "sources": [
+   "http://www.bulguksa.or.kr/bbs/content.php?co_id=application"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c13",
+  "field": "parking",
+  "text": "석굴암 주차요금은 소형·중형차 2,000원, 대형차(버스) 4,000원이다.",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=price"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c14",
+  "field": "access",
+  "text": "경주 시내(터미널 등)에서 불국사까지는 10번·11번 버스를 이용하며, 경주역과 버스터미널에서 불국사행 버스를 이용할 수 있다.",
+  "sources": [
+   "http://www.bulguksa.or.kr/bbs/content.php?co_id=location"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c15",
+  "field": "access",
+  "text": "석굴암 공식 안내는 터미널·경주 시내에서 불국사행 10번·11번·700번을 타고, 신경주역에서는 하루 4번 운행하는 700번을 이용하라고 한다.",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=map"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c16",
+  "field": "access",
+  "text": "불국사에서 석굴암으로 갈 때는 12번 버스로 환승하며, 석굴암에서 불국사로 돌아오는 버스는 매시 정각에 출발한다.",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=map"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c17",
+  "field": "access",
+  "text": "자가운전은 경주 시내에서 7번 국도로 울산 방면 불국사역 앞 구정동 삼거리에서 좌회전해 902번 지방도로 2.5km 가면 불국사이고, 석굴암은 이정표를 따라 토함산을 약 20분 오르면 주차장에 닿는다.",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=map"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c18",
+  "field": "access",
+  "text": "석굴암 주차장에서 경내까지는 도보로 약 10분 걸린다.",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=map"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c19",
+  "field": "tip",
+  "text": "불국사 문의 전화는 054-746-9913, 석굴암 문의 전화는 054-746-9933이다.",
+  "sources": [
+   "http://www.bulguksa.or.kr/bbs/content.php?co_id=application",
+   "http://www.seokguram.org/bbs/content.php?co_id=price"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c20",
+  "field": "tip",
+  "text": "석굴암 공식 사이트의 주차요금 안내 바로 아래에 '운영은 경주시 시설관리공단 관광사업팀에서 하고 있습니다'라고 적혀 있다(주차장 운영 주체에 관한 안내로 보인다).",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=price"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c21",
+  "field": "description",
+  "text": "석굴암은 신라 경덕왕 10년(751) 재상 김대성이 짓기 시작해 혜공왕 10년(774)에 완성했고, 건립 당시 이름은 석불사였다.",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=history"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c22",
+  "field": "description",
+  "text": "석굴암은 본존불을 중심으로 벽면에 보살상·제자상·역사상·천왕상 등 총 40구를 조각했으나 현재 38구가 남아 있다.",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=history"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c23",
+  "field": "highlight",
+  "text": "석굴암 주실 천장은 360여 개의 넓적한 돌로 쌓은 구조이며 공식 사이트는 세계에 유례가 없는 기술이라고 소개한다.",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=history"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c24",
+  "field": "description",
+  "text": "불국사 공식 사이트의 역사 기록에는 528년(법흥왕 15) 영제부인의 발원으로 창건되었고 751년(경덕왕 10) 김대성이 크게 개수했다고 되어 있다.",
+  "sources": [
+   "http://www.bulguksa.or.kr/bbs/content.php?co_id=history"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c1",
+  "field": "location",
+  "text": "대릉원 일원의 주소는 경상북도 경주시 황남동 31-1이다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6da54421-9ab9-4853-80d6-1eadbf0ad73b"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c3",
+  "field": "location",
+  "text": "경주시 문화관광 사이트는 경주 대릉원 일원을 사적으로 소개하며 소재지를 경북 경주시 노동동 261 등, 면적 602,314㎡로 적는다.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4786&code_uid=1049&area_uid=185&cmd=2&pageNo=1"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c4",
+  "field": "description",
+  "text": "대릉원 일원은 노동리·노서리·황남리·황오리·인왕리 고분군으로 나뉘어 있던 것을 2011년 7월 28일 국가유산청이 하나로 통합해 다시 지정한 신라 시대 고분군이다.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4786&code_uid=1049&area_uid=185&cmd=2&pageNo=1"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c5",
+  "field": "highlight",
+  "text": "노동동 고분군의 봉황대는 높이 22m, 지름 82m로 황남대총 다음으로 규모가 큰 돌무지덧널무덤이다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6da54421-9ab9-4853-80d6-1eadbf0ad73b"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c6",
+  "field": "hours",
+  "text": "대릉원은 정문이 09:00~22:00(입장 마감 21:30), 후문과 천마총은 09:00~21:30이다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6da54421-9ab9-4853-80d6-1eadbf0ad73b"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c7",
+  "field": "closed_days",
+  "text": "대릉원은 연중무휴로 안내된다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6da54421-9ab9-4853-80d6-1eadbf0ad73b"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c8",
+  "field": "fees",
+  "text": "대릉원 입장은 무료이고, 내부를 볼 수 있는 천마총만 별도 요금을 받는다.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c9",
+  "field": "fees",
+  "text": "천마총 개인 요금은 어른(만 19~64세) 3,000원, 청소년·군인(만 13~18세) 2,000원, 어린이(만 7~12세) 1,000원이다.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c10",
+  "field": "fees",
+  "text": "천마총 단체(30인 이상) 요금은 어른 2,400원, 청소년·군인 1,600원, 어린이 800원이다.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c11",
+  "field": "fees",
+  "text": "천마총·동궁과 월지 등 9개소는 경주시민, 만 6세 이하·만 65세 이상, 장애인등록증 소지자, 국가유공자 본인·배우자·유족, 기초생활수급자가 무료이다.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c12",
+  "field": "fees",
+  "text": "천마총·동궁과 월지 등에서는 국세청 세금포인트 모바일 쿠폰(1포인트 차감)으로 1,000원 정액 할인을 받을 수 있다.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c13",
+  "field": "parking",
+  "text": "대릉원에는 주차가 가능하다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6da54421-9ab9-4853-80d6-1eadbf0ad73b"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c14",
+  "field": "parking",
+  "text": "경주시 요금표의 천마총 행 주차료는 소형 2,000원, 대형 4,000원이며, 2시간 초과 후 1시간마다 50%가 추가되고 경차·친환경차는 50% 할인된다.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c15",
+  "field": "access",
+  "text": "경주시 요금표는 첨성대 행에 '대릉원주차장이용'이라고 적어, 첨성대 방문 시에도 대릉원 주차장을 쓰도록 안내한다.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c16",
+  "field": "tip",
+  "text": "대릉원·천마총 문의 전화는 054-750-8652이다.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c17",
+  "field": "caution",
+  "text": "한국관광공사 무장애 정보상 대릉원은 출입구까지 턱이 없어 휠체어로 접근할 수 있고, 장애인 화장실과 장애인 주차장이 있으며, 휠체어와 유모차(정문 매표소)를 빌릴 수 있다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6da54421-9ab9-4853-80d6-1eadbf0ad73b"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c18",
+  "field": "location",
+  "text": "동궁과 월지의 주소는 경상북도 경주시 원화로 102(인왕동)이다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c19",
+  "field": "description",
+  "text": "동궁과 월지는 신라 왕궁의 별궁 터로, 왕자가 거처하던 동궁이며 나라의 경사나 귀한 손님을 맞을 때 연회를 베풀던 곳이다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c20",
+  "field": "description",
+  "text": "예전 이름 안압지는 2011년 '경주 동궁과 월지'로 바뀌었고, 1980년 복원 이후 동궁 27동 중 현재 3채만 복원되어 있다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c21",
+  "field": "highlight",
+  "text": "복원된 건물을 비추는 조명과 월지에 비친 모습이 경주의 대표 야경 명소로 꼽힌다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c22",
+  "field": "hours",
+  "text": "동궁과 월지는 09:00~22:00에 운영하고 입장 마감은 21:30이다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c23",
+  "field": "closed_days",
+  "text": "동궁과 월지는 연중무휴이다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c24",
+  "field": "fees",
+  "text": "동궁과 월지 개인 요금은 어른 3,000원, 청소년·군인 2,000원, 어린이 1,000원이고 단체는 2,400원/1,600원/800원이다.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c25",
+  "field": "parking",
+  "text": "경주시 요금표에서 동궁과 월지의 주차료는 '무료'로 표시된다.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c26",
+  "field": "parking",
+  "text": "한국관광공사 무장애 정보상 동궁과 월지에는 입구 맞은편 가장 가까운 곳에 장애인 주차장 7면이 있다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c27",
+  "field": "language",
+  "text": "동궁과 월지는 음성안내 QR코드로 음성안내 앱을 제공한다(언어 종류는 페이지에 없음).",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c28",
+  "field": "caution",
+  "text": "야경을 보러 오는 관광객이 많아 입장 마감 시간에 임박해 도착하면 입장이 어려울 수 있다.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c29",
+  "field": "caution",
+  "text": "동궁과 월지 관람로는 대부분 흙길이고 외부 탐방로는 기울거나 경사진 곳이 있어 휠체어 접근이 어렵지만, 주출입구와 전각 주변은 평탄해 큰 어려움이 없다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c30",
+  "field": "tip",
+  "text": "동궁과 월지는 관리사무소에서 휠체어 3대를 빌릴 수 있고 장애인 보조견 동반이 가능하다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=2d9265e5-ea4d-4b89-8325-6b7978ce29fe"
+  ]
+ }
+]

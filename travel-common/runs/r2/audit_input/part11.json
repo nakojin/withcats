@@ -1,0 +1,603 @@
+[
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c8",
+  "field": "description",
+  "text": "타이칭궁은 기원전 140년(서한 건원 원년)에 세워져 2100년 넘은 역사를 가지며 라오산 도교의 조정(祖庭)이다.",
+  "sources": [
+   "https://qdlaoshan.cn/Index-laoshan.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c9",
+  "field": "description",
+  "text": "라오산은 화강암 빙하 지형으로 상형석이 많아 '천연 조각 공원'이라 불린다.",
+  "sources": [
+   "https://qdlaoshan.cn/Index-laoshan.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c10",
+  "field": "fees",
+  "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 남선 유람구(쥐펑 포함, 쥐펑·타이칭·화옌·양커우, 2일 유효): 문표 90위안, 관광버스표 60위안, 합계 150위안이다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6407.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c11",
+  "field": "fees",
+  "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 남선 유람구(쥐펑 제외, 타이칭·화옌·양커우, 2일 유효): 문표 90위안, 관광버스표 40위안, 합계 130위안이다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6407.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c12",
+  "field": "fees",
+  "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 쥐펑 유람구(당일 유효): 문표 80위안, 관광버스표 40위안, 합계 120위안이다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6407.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c13",
+  "field": "fees",
+  "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 주수이 유람구(주수이·화러우, 당일 유효): 문표 60위안, 관광버스표 30위안, 합계 90위안이다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6407.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c14",
+  "field": "fees",
+  "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 화러우 유람구(당일 유효): 문표 10위안이다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6407.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c15",
+  "field": "fees",
+  "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 일표제(남선+주수이, 3일 유효): 문표 140위안, 관광버스표 70위안, 합계 210위안이다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6407.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c16",
+  "field": "fees",
+  "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 남선 유람구(쥐펑 포함, 2일 유효): 문표 60위안, 관광버스표 60위안, 합계 120위안이다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6407.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c17",
+  "field": "fees",
+  "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 남선 유람구(쥐펑 제외, 2일 유효): 문표 60위안, 관광버스표 40위안, 합계 100위안이다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6407.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c18",
+  "field": "fees",
+  "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 쥐펑 유람구(당일 유효): 문표 50위안, 관광버스표 40위안, 합계 90위안이다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6407.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c19",
+  "field": "fees",
+  "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 주수이 유람구(주수이·화러우, 당일 유효): 문표 40위안, 관광버스표 30위안, 합계 70위안이다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6407.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c20",
+  "field": "fees",
+  "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 일표제(남선+주수이, 3일 유효): 문표 90위안, 관광버스표 70위안, 합계 160위안이다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6407.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c21",
+  "field": "fees",
+  "text": "화러우 유람구 문표는 2026년 4월 1일부터 10위안이며, 이미 주수이 유람구 표를 산 사람은 다시 사지 않아도 된다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6282.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c22",
+  "field": "fees",
+  "text": "타이칭궁은 별도 유료 도관이라 현지에서 직접 표를 사야 하며 요금은 1인 27위안이다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6407.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c24",
+  "field": "fees",
+  "text": "60세 이상(60세 포함) 노인은 유효 신분증으로 문표 무료, 관광버스표 반값이다.",
+  "sources": [
+   "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c25",
+  "field": "fees",
+  "text": "6세 이하 또는 키 1.4미터 이하 어린이는 문표·관광버스표·케이블카표가 모두 무료이다.",
+  "sources": [
+   "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c26",
+  "field": "fees",
+  "text": "6세 초과~18세 미성년자와 전일제 대학 이하 재학생은 문표가 반값이며 관광버스표 할인은 없다.",
+  "sources": [
+   "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c27",
+  "field": "fees",
+  "text": "장애인은 증명서로 문표가 무료이고 관광버스표 할인은 없다.",
+  "sources": [
+   "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c33",
+  "field": "hours",
+  "text": "2025년 10월 23일 공지는 주수이 유람구와 얼룽산 경구의 개방 시간이 변동 없이 7:00~17:30이라고 밝혔다(해당일 조정 공지 속 기재).",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6078.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c34",
+  "field": "hours",
+  "text": "같은 공지에서 주수이 방면 관광버스는 첫차 7:00, 막차 17:30이다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6078.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c35",
+  "field": "reservation",
+  "text": "화러우 유람구는 공식 계정 '칭다오 라오산 풍경명승구'에서 '라오산 표무통' 미니프로그램으로 가서 날짜를 고르고 방문자 정보(이름·신분증 번호·휴대폰 번호)를 입력해 예약한다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6155.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c36",
+  "field": "reservation",
+  "text": "화러우는 예약한 날 본인 신분증 원본을 스캔해 입장하며 현장 표 교환은 필요 없다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6155.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c37",
+  "field": "reservation",
+  "text": "2026년 10월 3일 공지에 따르면 남선(쥐펑·타이칭)과 동선(양커우·화옌)은 예약 구매 정원이 가득 차 인원 제한이 시행되었고, 구매한 방문자는 예약 시간에 맞춰 입장해야 한다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6558.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c38",
+  "field": "reservation",
+  "text": "연간 회원권 중 개인 카드는 사전 예약 없이 신분증을 스캔해 입장하고 가족 카드는 실물 카드를 스캔한다.",
+  "sources": [
+   "https://qdlaoshan.cn/Zixun-index.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c39",
+  "field": "reservation",
+  "text": "2024년 9월 게시된 경구 관람 수칙에 따르면, 할인 대상 특수 계층은 유효 증명서를 지참해 방문자센터(客服中心) 현장에서 문의·구매해야 한다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-5571.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c40",
+  "field": "access",
+  "text": "남선(쥐펑·타이칭)은 지하철 4호선 다허둥역 A출구에서 나와 다허둥 방문자센터에서 관광버스로 갈아탄다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6223.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c41",
+  "field": "access",
+  "text": "북선(주수이·화러우)은 란구쾌선 베이주수이역 B출구로 나가 주수이 환승센터에서 관광버스를 탄다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6223.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c42",
+  "field": "access",
+  "text": "동선(양커우·화옌)은 란구쾌선 푸리역 A출구로 나가 620번 또는 926번 버스로 갈아타 양커우역에서 내린다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6223.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c43",
+  "field": "parking",
+  "text": "다허둥·양커우·주수이 방문자센터는 무료로 주차할 수 있다.",
+  "sources": [
+   "https://qdlaoshan.cn/Zixun-qinfo-qid-2.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c44",
+  "field": "tip",
+  "text": "라오산·양커우·주수이 방문자센터와 주수이 유람구 내 싼수이 검표소에서 짐을 무료로 맡길 수 있다.",
+  "sources": [
+   "https://qdlaoshan.cn/Zixun-qinfo-qid-1.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c45",
+  "field": "tip",
+  "text": "경구 관광 서비스 전화는 0532-96616이다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6282.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c46",
+  "field": "caution",
+  "text": "2026년 2월 공지는 양커우 방향 도로가 막히므로 자가용 방문을 피하고 대중교통을 먼저 이용하라고 안내했다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6223.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c47",
+  "field": "caution",
+  "text": "2026년 9월 5일부터 타이칭 케이블카 노선의 탐방로가 24시간 폐쇄되며 재개 시점은 추후 공지된다(야구~타오위안커우~케이블카 상부역 등).",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6527.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c48",
+  "field": "caution",
+  "text": "타이칭 케이블카 구간이 폐쇄되는 동안 밍샤동·상칭궁은 바수이허에서 룽탄폭포 등산로로 왕복해 가라고 안내했다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6527.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c49",
+  "field": "caution",
+  "text": "2024년 9월 게시된 경구 관람 수칙에 따르면 야간 입산, 반려동물 동반, 경구 내 물에 들어가거나 수영하기, 암벽·나무·위험한 바위 오르기, 비개방 구역 출입이 금지된다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-5571.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c50",
+  "field": "caution",
+  "text": "심장병·고혈압·저혈당·고소공포증이 있는 사람은 등산 관광 표 구매를 신중히 하라고 안내한다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6407.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c51",
+  "field": "caution",
+  "text": "안전·날씨·정비·수용 인원 조절로 제한이나 폐쇄가 있을 수 있으며 경구 공지를 따라야 한다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-5571.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c52",
+  "field": "language",
+  "text": "공식 웹사이트는 중국어·영어·일본어·한국어 페이지를 제공한다.",
+  "sources": [
+   "https://qdlaoshan.cn/New-Index-index.html"
+  ]
+ },
+ {
+  "place": "east-sh-01",
+  "name": "와이탄",
+  "cid": "r1-b19-c1",
+  "field": "location",
+  "text": "와이탄은 황푸구 중산동일로(East Zhongshan No. 1 Road) 일대에 있다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/en/huangpu-district/the-bund-648313/"
+  ]
+ },
+ {
+  "place": "east-sh-01",
+  "name": "와이탄",
+  "cid": "r1-b19-c2",
+  "field": "location",
+  "text": "와이탄은 길이 1.5km로 남쪽 옌안동로에서 북쪽 와이바이두교까지 이어지며 동쪽은 황푸강이다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/en/huangpu-district/the-bund-648313/"
+  ]
+ },
+ {
+  "place": "east-sh-01",
+  "name": "와이탄",
+  "cid": "r1-b19-c3",
+  "field": "hours",
+  "text": "와이탄 풍경구는 하루 종일 개방하는 곳으로 안내되어 있다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/en/nighttime-culture/bund-sightseeing-area-026252/"
+  ]
+ },
+ {
+  "place": "east-sh-01",
+  "name": "와이탄",
+  "cid": "r1-b19-c4",
+  "field": "description",
+  "text": "와이탄 풍경구에는 고딕, 로마네스크, 바로크 등 서로 다른 양식의 고전 부흥 양식 건물 52동이 있고 '와이탄 만국건축박람군'으로 불린다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/en/nighttime-culture/bund-sightseeing-area-026252/",
+   "https://www.shanghai.gov.cn/citywalk/20260625/9dfb6f86b9664e018607b5cc9ec9a53c.html"
+  ]
+ },
+ {
+  "place": "east-sh-01",
+  "name": "와이탄",
+  "cid": "r1-b19-c5",
+  "field": "access",
+  "text": "상하이 시 정부 영문 사이트의 지하철 연선 명소 목록에서 2호선과 10호선 연선 명소로 와이탄이 소개된다.",
+  "sources": [
+   "https://english.shanghai.gov.cn/en-144-hourtransfer-stayinShanghai/20240104/3b5c92d3c61a4cdc9aa65e1c970ed9a8.html"
+  ]
+ },
+ {
+  "place": "east-sh-01",
+  "name": "와이탄",
+  "cid": "r1-b19-c6",
+  "field": "description",
+  "text": "저녁에는 와이탄 건물에 조명이 켜져 사진 찍기 좋은 야경이 된다.",
+  "sources": [
+   "https://english.shanghai.gov.cn/en-ScenicSpots/20231205/584672cc6d044eabb5f7f6fc9049a19f.html"
+  ]
+ },
+ {
+  "place": "east-sh-01",
+  "name": "와이탄",
+  "cid": "r1-b19-c7",
+  "field": "description",
+  "text": "난징동루 보행가 동쪽 구간은 개조되어 난징로와 와이탄을 직접 연결하며 밤에 조명이 켜진다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/en/nighttime-culture/bund-sightseeing-area-026252/"
+  ]
+ },
+ {
+  "place": "east-sh-01",
+  "name": "와이탄",
+  "cid": "r1-b19-c8",
+  "field": "tip",
+  "text": "BFC의 펑징루 야시장은 길이 360m에 노점 100여 개가 늘어선다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/en/nighttime-culture/bund-sightseeing-area-026252/"
+  ]
+ },
+ {
+  "place": "east-sh-01",
+  "name": "와이탄",
+  "cid": "r1-b19-c9",
+  "field": "tip",
+  "text": "위안밍위안로에는 '와이탄위안 주말 시장'이 생겼다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/en/nighttime-culture/bund-sightseeing-area-026252/"
+  ]
+ },
+ {
+  "place": "east-sh-01",
+  "name": "와이탄",
+  "cid": "r1-b19-c10",
+  "field": "description",
+  "text": "와이탄 끝의 와이바이두교는 쑤저우허와 황푸강이 만나는 곳에 있는 중국 최초의 전강(全鋼) 리벳 교량이자 유일하게 남은 높이가 다른 트러스 구조 교량이다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/en/huangpu-district/the-bund-648313/"
+  ]
+ },
+ {
+  "place": "east-sh-01",
+  "name": "와이탄",
+  "cid": "r1-b19-c11",
+  "field": "language",
+  "text": "와이탄 관광 안내·서비스 센터 '번드 인포'는 개편 후 재개장했으며 다국어 안내 자료를 제공한다(구체적 언어는 미표기).",
+  "sources": [
+   "https://english.shanghai.gov.cn/en-EasyShanghai/20260113/c8289a2cada8454cb5d54f9381a0724c.html"
+  ]
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c1",
+  "field": "location",
+  "text": "난징루 보행거리의 주소는 상하이시 황푸구 난징둥루 299호이다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/"
+  ]
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c2",
+  "field": "location",
+  "text": "보행거리는 서쪽 시짱중루에서 동쪽 중산둥이루(와이탄)까지 이어진다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/"
+  ]
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c3",
+  "field": "location",
+  "text": "보행거리의 전체 길이는 1,033m이다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/"
+  ]
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c4",
+  "field": "description",
+  "text": "도로 폭은 18~28m이다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/"
+  ]
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c5",
+  "field": "description",
+  "text": "보행거리는 1999년 9월 20일에 완공되었다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/"
+  ]
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c6",
+  "field": "access",
+  "text": "가장 가까운 지하철역은 2·10호선 난징둥루역이다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/"
+  ]
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c7",
+  "field": "hours",
+  "text": "거리는 0:00~24:00 개방된다고 안내되어 있다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/"
+  ]
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c8",
+  "field": "hours",
+  "text": "거리 내 쇼핑몰 영업시간은 10:00~22:00이다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/"
+  ]
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c9",
+  "field": "description",
+  "text": "현대식 건물과 유럽풍 옛 건물이 함께 서 있고, 세로 간판과 네온 불빛이 밤에 특히 눈에 띈다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/shopping/nanjing-road-pedestrian-street-428737/"
+  ]
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c10",
+  "field": "location",
+  "text": "관리 규정상 '보행거리'는 동쪽 중산둥이루, 서쪽 시짱중루 사이 난징둥루 구간과 양쪽 건물까지 포함한 구역이며, 더 넓은 '보행가구'는 동쪽 중산둥이루, 서쪽 황허루, 남쪽 주장루 등으로 둘러싸인 구역이다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw12344/20220127/4d4d52f387ea43909221b0f7c82dbfe9.html"
+  ]
+ }
+]

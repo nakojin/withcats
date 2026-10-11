@@ -1,0 +1,611 @@
+[
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c1",
+  "field": "location",
+  "text": "도고온천 본관의 주소는 에히메현 마쓰야마시 도고 유노마치 5번지 6호(우편번호 790-0842)이다.",
+  "sources": [
+   "https://dogo.jp/ko/access.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c2",
+  "field": "hours",
+  "text": "본관 가미노유 1층 탕은 6:00~23:00(최종 입장 22:30), 2층 휴게석 코스는 6:00~22:00(최종 입장 21:00)이다.",
+  "sources": [
+   "https://dogo.jp/ko/honkan.php",
+   "https://dogo.jp/en/"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c3",
+  "field": "hours",
+  "text": "다마노유 2층 휴게석은 6:00~22:00(최종 입장 21:00), 3층 개인실은 6:00~22:00(최종 입장 20:30)이다.",
+  "sources": [
+   "https://dogo.jp/ko/honkan.php",
+   "https://dogo.jp/en/"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c4",
+  "field": "duration",
+  "text": "공식 코스별 이용 시간은 가미노유·다마노유 2층 60분, 다마노유 3층 개인실 90분이며 유신덴만 관람은 30분이다.",
+  "sources": [
+   "https://dogo.jp/ko/honkan.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c5",
+  "field": "fees",
+  "text": "가미노유 1층(탕만) 성인 700엔·어린이 350엔, 가미노유 2층 휴게 1,300엔/650엔, 다마노유 2층 2,000엔/1,000엔, 다마노유 3층 개인실 2,500엔/1,250엔이다.",
+  "sources": [
+   "https://dogo.jp/ko/honkan.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c6",
+  "field": "fees",
+  "text": "요금표에서 성인은 12세 이상, 어린이는 2~11세(유신덴은 6~11세)이며 2세 미만 요금은 기재되어 있지 않다.",
+  "sources": [
+   "https://dogo.jp/ko/honkan.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c7",
+  "field": "fees",
+  "text": "유신덴만 관람(안내 포함)은 성인 500엔, 어린이(6~11세) 250엔이며 9:00~17:00(최종 입장 16:30)이다. 다마노유·대여실 코스에는 유신덴 관람이 포함된다.",
+  "sources": [
+   "https://dogo.jp/ko/honkan.php",
+   "https://dogo.jp/ko/howto.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c8",
+  "field": "fees",
+  "text": "3관 순탕 통합권은 성인 1,440엔·어린이 680엔이며 판매일과 다음 날까지 유효하고 각 시설을 1회씩 쓸 수 있다.",
+  "sources": [
+   "https://dogo.jp/en/",
+   "https://dogo.jp/ko/honkan.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c9",
+  "field": "fees",
+  "text": "수건 대여는 110엔, 목욕 수건 대여는 320엔이다.",
+  "sources": [
+   "https://dogo.jp/ko/honkan.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c10",
+  "field": "reservation",
+  "text": "대여 객실(시라사기노마·히쇼노마)·유신덴·아스카노유 2층 특별탕만 예약 가능하며, 온라인 예약은 전날 22:00 마감, 당일은 전화(089-921-5141)로 받는다.",
+  "sources": [
+   "https://dogo.jp/en/",
+   "https://dogo.jp/ko/honkan.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c11",
+  "field": "reservation",
+  "text": "가미노유 1층 코스는 예약할 수 없다. 혼잡 시에는 번호표를 받고, 호출 후 15분 안에 돌아와야 한다.",
+  "sources": [
+   "https://dogo.jp/ko/honkan.php",
+   "https://dogo.jp/ko/howto.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c12",
+  "field": "payment",
+  "text": "신용카드·체크카드(브랜드 직불)·전자화폐·교통 IC카드·QR코드 결제를 쓸 수 있다. 현금은 이 페이지에 언급이 없다.",
+  "sources": [
+   "https://dogo.jp/ko/honkan.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c13",
+  "field": "language",
+  "text": "공식 사이트는 일본어·영어·번체·간체·한국어로 제공된다.",
+  "sources": [
+   "https://dogo.jp/ko/honkan.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c14",
+  "field": "access",
+  "text": "JR 마쓰야마역에서 도고온천행 시내 전차로 약 25분, 마쓰야마시역에서 약 20분이다.",
+  "sources": [
+   "https://dogo.jp/ko/access.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c15",
+  "field": "access",
+  "text": "마쓰야마 공항에서 리무진버스로 도고온천역까지 약 43분이다.",
+  "sources": [
+   "https://dogo.jp/ko/access.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c16",
+  "field": "parking",
+  "text": "본관 남쪽 도고온천 주차장은 5:30~23:30, 93대이며 30분 100엔이고 외탕 3관 입욕 시 1시간 무료이다. 시영 주차장은 일반 승용차만 가능하다.",
+  "sources": [
+   "https://dogo.jp/ko/access.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c17",
+  "field": "parking",
+  "text": "이와이다니 히가시마치 주차장은 24시간, 43대이며 입욕 여부와 관계없이 첫 1시간 무료이다. 관광 임시주차장(60대)은 개방일 5:30~23:00 무료이나 개방일은 달력 이미지로만 안내된다.",
+  "sources": [
+   "https://dogo.jp/ko/access.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c18",
+  "field": "caution",
+  "text": "본관은 공중탕으로 숙박은 할 수 없고, 유신덴은 관람 시설이며 목욕할 수 없다. 대여 객실에는 욕조가 없다.",
+  "sources": [
+   "https://dogo.jp/ko/honkan.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c19",
+  "field": "caution",
+  "text": "혼잡 시 번호표가 발급되며 당일 접수 종료 안내가 뜨면 번호표 소지자만 입장할 수 있다.",
+  "sources": [
+   "https://dogo.jp/ko/"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c20",
+  "field": "tip",
+  "text": "본관 탈의실 사물함은 무료이며 유카타·오비·수건 대여가 제공된다(코스별 유카타 무늬 지정).",
+  "sources": [
+   "https://dogo.jp/ko/howto.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c21",
+  "field": "description",
+  "text": "본관은 1894년(메이지 27년)에 개축되었고 3층 누각 지붕 위 신로카쿠(振鷺閣)에 시각을 알리는 토키타이코가 있어 오전 6시·정오·오후 6시에 울린다.",
+  "sources": [
+   "https://dogo.jp/ko/about.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c22",
+  "field": "description",
+  "text": "온수는 18개 원천(20~55도)을 섞어 약 42도로 맞추며, 알칼리성 단순천이다.",
+  "sources": [
+   "https://dogo.jp/ko/about.php"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c23",
+  "field": "description",
+  "text": "본관 보존 수리는 2019년 1월 영업 중 시작되어 휴게실을 포함한 전체가 2024년 7월 11일 재개장했다.",
+  "sources": [
+   "https://dogo.jp/en/",
+   "https://dogo.jp/ko/"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c1",
+  "field": "location",
+  "text": "다자이후 덴만구의 주소는 〒818-0195 후쿠오카현 다자이후시 사이후 4초메 7-1이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/access"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c2",
+  "field": "access",
+  "text": "니시테쓰 후츠카이치역에서 니시테쓰 다자이후선 다자이후역까지 전철로 약 6분이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/access"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c3",
+  "field": "access",
+  "text": "니시테쓰 다자이후역에서 내려 도보 5분이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/access"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c4",
+  "field": "access",
+  "text": "후쿠오카(텐진)역에서 니시테쓰 전철로 후츠카이치역 환승해 다자이후역까지 약 35분이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/access"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c5",
+  "field": "access",
+  "text": "후쿠오카 공항 국제선 터미널에서 직행 버스 '타비토(旅人)'로 다자이후역까지 약 25분이며, 예약 없이 탈 수 있다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/access"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c6",
+  "field": "access",
+  "text": "니시테쓰 후츠카이치역~다자이후역 구간에서 관광 열차 '타비토'가 예약·특별 요금 없이 운행된다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/access"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c7",
+  "field": "access",
+  "text": "자동차로는 규슈 자동차도 다자이후 IC에서 약 15분(약 6km)이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/access"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c8",
+  "field": "parking",
+  "text": "근처 주차장으로 다자이후 주차센터(8시~17시)가 있으며 참배길을 걸어 도보 7분이다. 대형버스·마이크로버스 23대, 승용차 850대, 오토바이 15대를 수용한다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/access"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c9",
+  "field": "parking",
+  "text": "혼잡기 정체 때는 '고조(五条)' 교차로 방면 외에서의 입고를 거절할 수 있고, 대형버스는 사전 연락이 필요하다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/access"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c10",
+  "field": "parking",
+  "text": "50cc 이상 오토바이는 다자이후 주차센터(도보 7분)를 유료 250엔에 이용할 수 있고, 자전거·원동기 자전거는 니시테쓰 다자이후역 주륜장(무료)을 이용한다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/faq"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c11",
+  "field": "hours",
+  "text": "개문 시각은 춘분 날부터 6:00, 추분 날부터 6:30이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/omairi",
+   "https://www.dazaifutenmangu.or.jp/access"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c12",
+  "field": "hours",
+  "text": "폐문 시각은 4~5월·9~11월 19:00, 6~8월 19:30, 12~3월 18:30이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/omairi"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c13",
+  "field": "hours",
+  "text": "조사 시점(2026-10-11)에는 임시 참배 시간 안내가 없다고 공지되어 있다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/omairi"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c14",
+  "field": "hours",
+  "text": "아침 참배(朝拝)는 매일 8:30부터 누구나 참석할 수 있으나 신사 사정으로 하지 않는 날도 있다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/omairi"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c15",
+  "field": "hours",
+  "text": "기원 접수 시간은 9:00~16:30이며 제전 등에 따라 바뀔 수 있다(1월 1~3일은 24시간 접수).",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/faq"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c16",
+  "field": "hours",
+  "text": "2026년 5월 17일 이후 기원제는 세이신칸 기시키덴(誠心館 儀式殿)에서 열리며 기원 시간은 9:00~16:30이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/archives/1866"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c17",
+  "field": "closed_days",
+  "text": "한국어 공식 FAQ는 다자이후 덴만구가 일 년 내내 운영된다고 안내한다(시기별 운영 시간만 다름).",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/kr/plan/faq/"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c18",
+  "field": "fees",
+  "text": "다자이후 덴만구는 입장료가 없어 무료로 본전을 참배하고 경내를 산책할 수 있다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/kr/plan/faq/"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c19",
+  "field": "fees",
+  "text": "보물전 관람료는 개인 기준 일반 500엔, 대학생·고등학생 200엔, 중학생·소학생 100엔이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c20",
+  "field": "fees",
+  "text": "보물전 단체(30명 이상) 요금은 일반 400엔, 대학생·고등학생 100엔, 중학생·소학생 50엔이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c21",
+  "field": "hours",
+  "text": "보물전은 9:00~16:30(입관 16:00까지)이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c22",
+  "field": "closed_days",
+  "text": "보물전은 월요일이 휴관이며(공휴일·대체 휴일이면 개관), 전시 교체로 임시 휴관할 수 있다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c23",
+  "field": "reservation",
+  "text": "개인 기원(ご祈願)은 예약이 필요 없고 누문 안 기원 접수소에서 신청한다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/faq"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c24",
+  "field": "reservation",
+  "text": "무료 가이드 서비스는 예약제이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/faq"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c25",
+  "field": "payment",
+  "text": "보물전과 경내 입구의 안내소는 신용카드로 결제할 수 있고, 그 밖의 부적 판매소 등은 현금만 받는다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/kr/plan/faq/"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c26",
+  "field": "language",
+  "text": "공식 사이트에 한국어 페이지가 있고, 경내에서는 영어·한국어·번체·간체·프랑스어·태국어 팸플릿을 준비해 두었다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/faq",
+   "https://www.dazaifutenmangu.or.jp/kr/"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c27",
+  "field": "duration",
+  "text": "공식 한국어 FAQ는 경내와 박물관을 여유 있게 보려면 하루 일정을 잡으라고 권한다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/kr/plan/faq/"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c28",
+  "field": "caution",
+  "text": "2024년 4월 1일부터 반려동물을 데리고 누문·회랑 안에 들어가는 것을 삼가야 한다(안내견·청도견·개조견 제외).",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/faq"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c29",
+  "field": "caution",
+  "text": "본전 안 촬영과 삼각대 등으로 같은 자리에서 오래 찍는 것은 금지이며, 누문 안에서는 다른 참배객에게 폐가 되지 않게 촬영해야 한다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/faq"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c30",
+  "field": "caution",
+  "text": "흡연은 규슈국립박물관행 에스컬레이터 입구 부근과 휴게소의 지정 장소에서만 가능하다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/faq"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c31",
+  "field": "tip",
+  "text": "경내에는 코인로커가 없어 니시테쓰 다자이후역이나 다자이후칸을 이용해야 한다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/faq"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c32",
+  "field": "tip",
+  "text": "휠체어는 무료로 빌릴 수 있으며 사무소 또는 안내소에서 신청한다. 단차 없는 경로는 지도에 파란 선으로 표시된다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/keidaiannai/wheelchair"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c33",
+  "field": "description",
+  "text": "2026년 9월 19일부터 약 3년 반 만에 본전 정면 참배가 재개되었다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/archives/1980"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c34",
+  "field": "highlight",
+  "text": "비매화(飛梅)는 도읍에서 미치자네를 그리워해 하룻밤 사이 다자이후로 날아왔다고 전해지는 어신목으로, 본전을 향해 오른쪽에 있다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/keidaiannai"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c35",
+  "field": "highlight",
+  "text": "경내에는 소 동상(神牛) 11기가 봉납되어 있다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/faq"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c36",
+  "field": "highlight",
+  "text": "큰 녹나무(大樟)는 수령 1,500년이 넘고 국가 천연기념물로 지정되어 있다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/keidaiannai"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c37",
+  "field": "highlight",
+  "text": "마음 심(心) 자 모양의 연못 '심자지'에 놓인 세 개의 다리는 각각 과거·현재·미래를 뜻한다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/keidaiannai"
+  ]
+ }
+]

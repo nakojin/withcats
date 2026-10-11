@@ -1,0 +1,605 @@
+[
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c17",
+  "field": "hours",
+  "text": "'Peak' 일정인 날(예: 2026-12-24)은 오픈 08:30, 첫 투어 09:00, 마지막 투어 시작 16:00, 마감 20:00이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c18",
+  "field": "hours",
+  "text": "'Off Peak' 일정인 날(2026-11-09, 11-10)은 오픈 08:30, 첫 투어 09:00, 마지막 투어 시작 13:30, 마감 17:30이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c19",
+  "field": "hours",
+  "text": "이벤트 데이인 2027-01-01은 오픈 10:30, 첫 투어 11:00, 마지막 투어 시작 16:00, 마감 20:00이고, 2027-02-25는 오픈 10:30, 첫 투어 11:00, 마지막 투어 시작 15:00, 마감 19:00이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c20",
+  "field": "hours",
+  "text": "마지막 투어 시작 시각 이후에 도착하면 투어 일부만 체험하거나 입장이 거부될 수 있다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/faqs/facilities/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c21",
+  "field": "closed_days",
+  "text": "공식 캘린더상 2026-10-12~2027-03-31 사이의 휴관일은 2026-11-11, 2026-11-12, 2027-01-12, 2027-01-13, 2027-02-24이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c22",
+  "field": "closed_days",
+  "text": "티켓은 2027년 3월 31일까지 판매 중이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/opening-times/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c23",
+  "field": "fees",
+  "text": "연령 구분은 성인 18세 이상, 주니어 12~17세, 어린이 4~11세이며 0~3세 유아는 입장료가 없다(보호자는 유효한 티켓이 필요).",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/ticket-terms/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c24",
+  "field": "fees",
+  "text": "네리마구 주민 티켓(13:00 이후 투어)은 성인 ¥5,000, 주니어 ¥4,150, 어린이 ¥3,000이며 유효한 신분증이 필요하다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/ticket-information/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c25",
+  "field": "fees",
+  "text": "20명 이상 단체 티켓은 성인 ¥6,000, 주니어 ¥5,000, 어린이 ¥3,600이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/ticket-information/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c26",
+  "field": "fees",
+  "text": "디지털 가이드(일·영·중(간체/번체)·한국어) 추가 옵션은 1대 ¥1,480이며 표시 가격은 세금 포함이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/ticket-information/price/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c27",
+  "field": "fees",
+  "text": "장애가 있는 방문객 1명당 유효 티켓을 구매하면 무료 동반자 티켓이 1장 제공된다(4세 미만은 이미 무료여서 추가 불가).",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/help-centre/accessibility/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c28",
+  "field": "fees",
+  "text": "예약 날짜·시간을 변경할 때마다 ¥1,500의 수수료가 부과되며, 티켓은 환불·양도가 불가하다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/ticket-information/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c29",
+  "field": "reservation",
+  "text": "방문 전에 입장 날짜와 시간대를 지정한 사전 예약이 필요하며, 공식 웹사이트나 현장 매표소에서 구매할 수 있으나 현장은 매진될 수 있어 사전 예약을 권장한다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/ticket-terms/",
+   "https://www.wbstudiotour.jp/en/faqs/tickets/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c30",
+  "field": "reservation",
+  "text": "지정 입장 시간 1시간 전부터 로비에 들어갈 수 있고(당일 첫 시간대는 30분 전), 지정 시간으로부터 30분 이내에 입장해야 한다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/ticket-terms/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c31",
+  "field": "reservation",
+  "text": "입장 시 e-티켓의 바코드와 예약 번호를 제시하며, 결제에 쓴 카드나 신분증 확인을 요청받을 수 있다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/ticket-terms/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c32",
+  "field": "reservation",
+  "text": "세븐일레븐 멀티복사기 또는 7ticket 사이트(일본어만)에서도 티켓을 구매할 수 있다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/faqs/tickets/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c33",
+  "field": "payment",
+  "text": "공식 웹사이트 티켓 결제는 Amex, Mastercard, Visa, JCB, 유니온페이, Discover, Diners, Apple Pay, Google Pay를 받으며, 현금은 현장 매표소에서만 가능하다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/faqs/tickets/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c34",
+  "field": "payment",
+  "text": "티켓 결제에 교통 IC카드와 iD·QUICPay 같은 비접촉 결제는 받지 않는다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/faqs/tickets/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c35",
+  "field": "payment",
+  "text": "시설 내 숍(스튜디오 숍·레일웨이 숍)은 현금, 신용·체크카드(VISA, MasterCard, American Express, JCB, Diners, UnionPay), Apple Pay, 바코드 결제(PayPay, Alipay, WeChat Pay)를 받고 교통 IC카드·iD·QUICPay는 받지 않는다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/faqs/facilities/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c36",
+  "field": "payment",
+  "text": "시설 내 ATM, 택배 서비스, 면세 서비스는 없다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/faqs/facilities/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c37",
+  "field": "language",
+  "text": "디지털 가이드는 일본어 해설이며 영어·한국어·중국어 간체·번체도 제공된다(영상·제작 비하인드 콘텐츠).",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/help-centre/accessibility/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c38",
+  "field": "language",
+  "text": "2026년 9월 29일 시설 일부 화재의 영향으로 디지털 가이드의 구매·이용이 별도 공지 시까지 일시 중단되었으며, 투어는 평소처럼 운영한다(2026-09-30 공지).",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c39",
+  "field": "description",
+  "text": "놀이기구는 없으며, 관람객이 걸어서 영화 세트·의상·소품을 둘러보고 여러 인터랙티브 체험에 참여한다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/faqs/facilities/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c40",
+  "field": "description",
+  "text": "시설에는 대연회장, 9와 3/4 승강장, 금지된 숲, 마법부, 다이애건 앨리 세트가 있다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/inside-the-tour/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c41",
+  "field": "highlight",
+  "text": "마법부 세트는 도쿄에서만 볼 수 있으며, 높이 3m가 넘는 벽난로에 들어가 연기·조명 효과 속에서 사진과 영상을 찍을 수 있다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/inside-the-tour/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c42",
+  "field": "highlight",
+  "text": "빗자루를 타고 나는 체험 등 사진 촬영 포인트가 여러 곳 있다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/faqs/facilities/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c43",
+  "field": "highlight",
+  "text": "투어 중간의 백롯 카페에서 논알코올 음료 버터비어를 마실 수 있다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/facilities/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c44",
+  "field": "caution",
+  "text": "사진·영상 촬영은 프리쇼 시네마와 그린스크린 구역 등 제한 구역을 제외하고 가능하며, 플래시·삼각대·교환렌즈 등 전문 장비와 드론은 사용할 수 없다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/ticket-terms/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c45",
+  "field": "caution",
+  "text": "입장 시 소지품 검사가 있고 촬영은 그 구역 이후에만 가능하며, 큰 짐이나 여러 개의 짐은 가져오지 말라고 안내한다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c46",
+  "field": "caution",
+  "text": "반려동물은 인증된 보조견(안내견·보조견·청도견)을 제외하고 입장할 수 없고, 흡연, 지정된 구역 밖에서의 음식물 섭취, 롤러스케이트·스케이트보드·자전거·킥보드 이용, 드론 사용이 금지된다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/ticket-terms/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c47",
+  "field": "caution",
+  "text": "일부 구역에서 갑작스러운 큰 소리와 스트로브 조명이 사용되므로 고혈압·심장 질환 등이 있으면 직원에게 문의하고 해당 구역을 피할 것을 권한다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/ticket-terms/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c48",
+  "field": "caution",
+  "text": "4~11세 어린이와 0~3세 유아는 성인 동반이 필요하고, 12~17세 주니어는 성인 없이 방문할 수 있다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/ticket-terms/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c49",
+  "field": "caution",
+  "text": "나이트 버스는 정비 작업으로 현재 관람할 수 없고 11월 초 재전시 예정이다(2026-09-10 공지).",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c50",
+  "field": "caution",
+  "text": "휠체어(수동·전동)는 입장 가능하나 전동 스쿠터·이동 차량은 불가하고, 무료 수동 휠체어와 유모차를 안내 데스크에서 빌릴 수 있다(수량 한정). 왜건형 유모차는 불가하다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/help-centre/accessibility/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c51",
+  "field": "tip",
+  "text": "시설 내 코인 로커(실내 S ¥300 / M ¥500 / L ¥700 / XL ¥1,000, 실외 S ¥300 / M ¥500 / L ¥700)와 무료 와이파이가 있고, 큰 캐리어는 실외 로커에 보관하길 권한다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/facilities/",
+   "https://www.wbstudiotour.jp/en/faqs/facilities/"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c1",
+  "field": "location",
+  "text": "후지카와구치코 지역은 후지산 북쪽에 위치하며 후지 5호(가와구치코·야마나카코·사이코·쇼지코·모토스코)를 품고 있다.",
+  "sources": [
+   "https://www.yamanashi-kankou.jp/smp/en/fujikawaguchiko/index.html"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c2",
+  "field": "location",
+  "text": "가와구치코는 야마나시현 남동부, 시즈오카현 경계 가까이에 있다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1329/"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c3",
+  "field": "description",
+  "text": "일본정부관광국은 가와구치코를 후지 5호 중 도쿄에서 가장 접근하기 쉬운 호수로 소개한다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1329/"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c4",
+  "field": "highlight",
+  "text": "맑고 잔잔한 날에는 호수에 비친 후지산의 완벽한 반영을 볼 수 있다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1329/"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c5",
+  "field": "tip",
+  "text": "겨울이 후지산을 가장 또렷하게 볼 수 있는 계절이다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1329/"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c6",
+  "field": "highlight",
+  "text": "호수 주변 박물관·미술관을 자전거나 버스로 돌아보고, 호수 유람선과 텐조산 로프웨이로 후지산 전망을 즐길 수 있다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1329/"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c7",
+  "field": "description",
+  "text": "호수 남동쪽 끝의 텐조산 공원은 가치가치 로프웨이로 올라가는 사진 명소다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1329/"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c9",
+  "field": "access",
+  "text": "신주쿠 고속버스터미널에서 고속버스를 타면 가와구치코역까지 2시간 조금 못 되게 걸린다.",
+  "sources": [
+   "https://www.yamanashi-kankou.jp/smp/en/fujikawaguchiko/index.html"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c11",
+  "field": "access",
+  "text": "JR 신주쿠역에서 JR 주오선으로 오쓰키역(약 1시간)까지 간 뒤 후지큐코선으로 가와구치코역에 가며, 이 구간에는 JR 레일패스를 쓸 수 없다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1329/"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c12",
+  "field": "language",
+  "text": "가와구치코 관광연맹의 공식 관광 사이트(fujisan.ne.jp)는 한국어 언어 선택을 제공한다.",
+  "sources": [
+   "https://www.fujisan.ne.jp/"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c13",
+  "field": "hours",
+  "text": "2026년 후지산 등산 시즌은 종료되었고 후지산은 현재 폐쇄 중이다.",
+  "sources": [
+   "https://www.fujisan-climb.jp/en/"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c14",
+  "field": "hours",
+  "text": "야마나시현 쪽 요시다 루트의 통상 등산 시즌은 7월 1일~9월 10일이다.",
+  "sources": [
+   "https://www.fujisan-climb.jp/en/off-season/"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c15",
+  "field": "closed_days",
+  "text": "등산 시즌 밖에는 정상으로 가는 모든 루트가 폐쇄된다.",
+  "sources": [
+   "https://www.fujisan-climb.jp/en/off-season/"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c16",
+  "field": "caution",
+  "text": "시즌 밖에는 5합목에서 정상까지 도로법 제46조에 따라 통행이 금지되며, 위반 시 6개월 이하 징역 또는 30만 엔 이하 벌금을 받을 수 있다.",
+  "sources": [
+   "https://www.fujisan-climb.jp/en/off-season/"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c17",
+  "field": "caution",
+  "text": "시즌 밖에는 구호소와 산장이 닫혀 있고 눈보라·강풍이 잦아 사고 위험이 매우 높다.",
+  "sources": [
+   "https://www.fujisan-climb.jp/en/off-season/"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c18",
+  "field": "fees",
+  "text": "등산 시즌 중 시즈오카현 쪽 등산로(후지노미야·고텐바·스바시리)의 등산료(Hiking Fee)는 나이와 관계없이 1인 4,000엔 정액이며, 장애인 수첩 소지자나 학교 수업으로 입산하는 사람은 사전 신청하면 면제될 수 있다. 이전의 '후지산 보전 협력금'은 2025년도부터 등산료로 통합되었다.",
+  "sources": [
+   "https://www.fujisan-climb.jp/en/faq"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c19",
+  "field": "reservation",
+  "text": "등산 예약·등록은 웹 시스템으로 할 수 있으며, 산장 예약과는 별개다.",
+  "sources": [
+   "https://www.fujisan-climb.jp/en/things-to-know-before-climbing"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c20",
+  "field": "payment",
+  "text": "산장과 화장실 이용에 대비해 현금과 100엔 동전을 넉넉히 준비하라고 안내한다.",
+  "sources": [
+   "https://www.fujisan-climb.jp/en/things-to-know-before-climbing"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c21",
+  "field": "payment",
+  "text": "화장실 팁은 100~300엔 정도이며 거스름돈 없이 잔돈으로 내 달라고 요청한다.",
+  "sources": [
+   "https://www.fujisan-climb.jp/en/faq"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c22",
+  "field": "language",
+  "text": "후지산 등산 공식 사이트에는 시즌 외 등산의 위험을 알리는 한국어 영상이 올라와 있다(한국어 전용 페이지는 제공되지 않음).",
+  "sources": [
+   "https://www.fujisan-climb.jp/en/"
+  ]
+ },
+ {
+  "place": "kr-busan-gamcheon-culture-village",
+  "name": "감천문화마을",
+  "cid": "r1-b11-c1",
+  "field": "location",
+  "text": "마을안내센터의 주소는 부산광역시 사하구 감내2로 203(감천동)이다.",
+  "sources": [
+   "https://www.gamcheon.or.kr/",
+   "https://eulsukdo.saha.go.kr/tour/contents.do?mId=0101010000"
+  ]
+ },
+ {
+  "place": "kr-busan-gamcheon-culture-village",
+  "name": "감천문화마을",
+  "cid": "r1-b11-c2",
+  "field": "description",
+  "text": "감천문화마을은 한국전쟁 때 피란민이 정착하며 형성된 산복마을로, 근현대사의 흔적과 주민의 삶이 남아 있다.",
+  "sources": [
+   "https://www.gamcheon.or.kr/gamcheon/page/user/intro1"
+  ]
+ },
+ {
+  "place": "kr-busan-gamcheon-culture-village",
+  "name": "감천문화마을",
+  "cid": "r1-b11-c3",
+  "field": "description",
+  "text": "1950년대 태극도 신앙촌이 조성되면서 오늘날의 마을 모습이 갖추어졌고, 천마산 자락을 따라 계단식 주거지가 이어진다.",
+  "sources": [
+   "https://www.gamcheon.or.kr/gamcheon/page/user/intro1"
+  ]
+ },
+ {
+  "place": "kr-busan-gamcheon-culture-village",
+  "name": "감천문화마을",
+  "cid": "r1-b11-c4",
+  "field": "description",
+  "text": "뒷집의 햇빛과 조망을 배려해 지은 독특한 마을 구조가 이곳만의 경관과 공동체 문화를 보여준다.",
+  "sources": [
+   "https://www.gamcheon.or.kr/gamcheon/page/user/intro1"
+  ]
+ },
+ {
+  "place": "kr-busan-gamcheon-culture-village",
+  "name": "감천문화마을",
+  "cid": "r1-b11-c5",
+  "field": "access",
+  "text": "대중교통은 시내버스 61번과 마을버스 서구2, 서구2-2, 사하구1, 사하구1-1을 안내한다.",
+  "sources": [
+   "https://www.gamcheon.or.kr/gamcheon/page/user/intro4"
+  ]
+ }
+]

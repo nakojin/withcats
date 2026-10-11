@@ -1,0 +1,603 @@
+[
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c11",
+  "field": "caution",
+  "text": "보행가구 구역에서는 무허가로 노점을 열어 물건을 파는 행위가 금지된다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw12344/20220127/4d4d52f387ea43909221b0f7c82dbfe9.html"
+  ]
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c12",
+  "field": "caution",
+  "text": "보행가구 구역의 도로에서 스케이트보드나 롤러스케이트 같은 활주 기구를 쓰는 것이 금지된다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw12344/20220127/4d4d52f387ea43909221b0f7c82dbfe9.html"
+  ]
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c13",
+  "field": "caution",
+  "text": "보행가구 구역에서는 큰 소리로 방송하는 확성기 광고와 영업용 전단 배포도 금지된다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw12344/20220127/4d4d52f387ea43909221b0f7c82dbfe9.html"
+  ]
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c14",
+  "field": "payment",
+  "text": "난징루 보행거리의 신세계청(新世界城)에 있는 외국 카드 POS 단말기가 모두 업그레이드를 마쳤다고 2023년에 공지되었다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/wlyw/20231106/781e20eb51f64849ad604cee30f89a70.html"
+  ]
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "cid": "r1-b23-c1",
+  "field": "location",
+  "text": "신톈디의 주소는 황푸구 타이창루 181농이다.",
+  "sources": [
+   "https://english.shanghai.gov.cn/en-SpecialtyShoppingAreas/20231207/521159f5af35430ab1641004f5c68d03.html"
+  ]
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "cid": "r1-b23-c2",
+  "field": "location",
+  "text": "신톈디는 황푸구에 있으며 북쪽 타이창루, 남쪽 싱예루, 서쪽 마당루, 동쪽 황피난루로 둘러싸여 있다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html"
+  ]
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "cid": "r1-b23-c3",
+  "field": "description",
+  "text": "신톈디 거리의 길이는 412m이다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html"
+  ]
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "cid": "r1-b23-c4",
+  "field": "access",
+  "text": "지하철 10·13호선 신톈디역과 1호선 황피난루역(South Huangpi Road)이 가깝다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/en/shopping/xintiandi-cbd-001664/"
+  ]
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "cid": "r1-b23-c5",
+  "field": "parking",
+  "text": "신톈디 일대 주차 공간이 661면으로 확충되었다고 소개된다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html"
+  ]
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "cid": "r1-b23-c6",
+  "field": "hours",
+  "text": "신톈디 구역은 24시간 연중무휴로 열려 있다고 안내된다.",
+  "sources": [
+   "https://english.shanghai.gov.cn/en-SpecialtyShoppingAreas/20231207/521159f5af35430ab1641004f5c68d03.html"
+  ]
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "cid": "r1-b23-c7",
+  "field": "hours",
+  "text": "상하이시 문화관광 사이트의 신톈디 쇼핑 항목에는 운영시간이 10:00~22:00로 적혀 있다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/en/shopping/xintiandi-cbd-001664/"
+  ]
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "cid": "r1-b23-c8",
+  "field": "tip",
+  "text": "운영사 신톈디의 컨시어지 데스크(신톈디, 광장, 시상, 후빈다오)는 10:00~22:00에 응대하며 신톈디 대표 데스크 전화는 021-6311 2288이다.",
+  "sources": [
+   "https://www.xintiandi.com/project/xintiandi-shanghai/"
+  ]
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "cid": "r1-b23-c9",
+  "field": "payment",
+  "text": "신톈디 거리 전체 상가에서 외국 카드 결제가 가능하다고 공식 발표되었다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html"
+  ]
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "cid": "r1-b23-c10",
+  "field": "description",
+  "text": "신톈디는 20세기 초 스쿠먼 건축의 모습을 살리면서 현대적 상업 기능을 더한 복합 지구이다.",
+  "sources": [
+   "https://www.xintiandi.com/project/xintiandi-shanghai/"
+  ]
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "cid": "r1-b23-c11",
+  "field": "description",
+  "text": "상하이 신톈디의 총 건축면적은 609,000㎡이다.",
+  "sources": [
+   "https://www.xintiandi.com/project/xintiandi-shanghai/"
+  ]
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "cid": "r1-b23-c12",
+  "field": "description",
+  "text": "신톈디는 2023년 12월 27일 문화관광부의 제3차 국가급 관광레저 거리 목록에 포함되었다.",
+  "sources": [
+   "https://english.shanghai.gov.cn/en-HeritageZones/20240104/292e9fb43eec407783af83e547e61281.html"
+  ]
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "cid": "r1-b23-c13",
+  "field": "highlight",
+  "text": "거리에서 패션쇼, 부티크 마켓, 창작 워크숍, 음악·와인 축제가 열린다.",
+  "sources": [
+   "https://english.shanghai.gov.cn/en-HeritageZones/20240104/292e9fb43eec407783af83e547e61281.html"
+  ]
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "cid": "r1-b23-c14",
+  "field": "description",
+  "text": "운영사는 신톈디가 포브스 선정 세계 문화 랜드마크 20곳과 세계은행의 도시재생 대표 사례에 올랐다고 소개한다.",
+  "sources": [
+   "https://www.xintiandi.com/project/xintiandi-shanghai/"
+  ]
+ },
+ {
+  "place": "east-sh-04",
+  "name": "신톈디",
+  "cid": "r1-b23-c15",
+  "field": "description",
+  "text": "신톈디 거리의 식당 입점 업체는 26곳이고 식음 영업 면적은 24,000㎡이다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw31406/20250707/93b77d0a95794a39a75b7e8ef69ccfed.html"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c1",
+  "field": "location",
+  "text": "상하이 디즈니 리조트 주소는 상하이 푸둥신구 촨사진 황자오로 310호이다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/guest-service/taxi"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c2",
+  "field": "access",
+  "text": "지하철 11호선을 타고 디즈니 리조트역에서 내려 1번 또는 4번 출구로 나온다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/information/transportation"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c3",
+  "field": "access",
+  "text": "11호선 디즈니 리조트역 도착 기준 첫차는 07:08, 막차는 23:39이다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/guest-service/rail"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c4",
+  "field": "access",
+  "text": "역에서 내리면 상하이 디즈니랜드, 디즈니타운, 위시잉 스타 파크가 걸어서 갈 수 있는 거리이며 리조트 호텔까지는 셔틀을 타야 한다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/guest-service/rail"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c5",
+  "field": "access",
+  "text": "택시는 리조트 안 서쪽 대중교통 허브(West PTH)의 지정 승하차 지점을 이용하고 거기서 걸어서 공원으로 간다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/guest-service/taxi"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c6",
+  "field": "access",
+  "text": "푸둥 버스 50·51·52·70·71번이 상하이 국제관광리조트구 서쪽 교통 허브까지 간다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/guest-service/bus"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c7",
+  "field": "access",
+  "text": "푸둥 국제공항에서 리조트까지는 약 30km이고 택시로 약 30~50분, 지하철로 약 80~90분 걸린다고 안내된다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/information/transportation"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c8",
+  "field": "access",
+  "text": "훙차오 국제공항에서 리조트까지는 약 45km이고 택시로 약 60~80분, 지하철로 약 80~90분 걸린다고 안내된다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/information/transportation"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c9",
+  "field": "parking",
+  "text": "디즈니 승용차·버스 주차장의 승용차 요금은 첫 1시간 14위안, 이후 30분마다 7위안이다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/guest-service/disney-car-and-coach-park"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c10",
+  "field": "parking",
+  "text": "디즈니 승용차·버스 주차장의 승용차 종일(1회 입장) 요금은 112위안이다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/guest-service/disney-car-and-coach-park"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c11",
+  "field": "parking",
+  "text": "디즈니 승용차·버스 주차장은 05:30~24:00 운영하며 매일 24:00에 닫으므로 그 전에 차를 빼야 한다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/guest-service/disney-car-and-coach-park"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c13",
+  "field": "parking",
+  "text": "디즈니타운 주차장 운영시간은 월~목 9:00~21:30, 금~일 9:00~22:00이다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/guest-service/disneytown-parking-lot"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c15",
+  "field": "fees",
+  "text": "2025년 8월 25일 공식 보도자료 기준, 2025년 10월 중순 티켓 구조 개편 후에도 상하이 디즈니랜드 티켓 가격은 기본가 475위안~최고가 799위안 범위이며, 예상 방문객 수에 따라 날짜별 가격 등급이 정해진다.",
+  "sources": [
+   "https://shcorporate.shanghaidisneyresort.com/wp-content/uploads/2025/08/%E6%96%B0%E9%97%BB%E7%A8%BF-%E8%BF%99%E4%B8%AA%E9%87%91%E7%A7%8B%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%BA%A6%E5%81%87%E5%8C%BA%E8%90%8C%E8%81%9A%E8%BE%BE%E8%8F%B2%E6%9C%88%EF%BC%8C%E7%8E%A9%E8%BD%AC%E4%B8%87%E5%9C%A3%E5%AD%A3%EF%BC%8C%E7%95%85%E6%B8%B8%E5%A5%87%E5%A6%99%E5%81%87%E6%9C%9F.pdf"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c16",
+  "field": "fees",
+  "text": "2025년 8월 공식 보도자료 기준, 리조트는 30일 앞까지 보여 주는 롤링 가격 캘린더를 제공하며 날짜별 티켓 가격은 그 캘린더에서 확인한다.",
+  "sources": [
+   "https://shcorporate.shanghaidisneyresort.com/wp-content/uploads/2025/08/%E6%96%B0%E9%97%BB%E7%A8%BF-%E8%BF%99%E4%B8%AA%E9%87%91%E7%A7%8B%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%BA%A6%E5%81%87%E5%8C%BA%E8%90%8C%E8%81%9A%E8%BE%BE%E8%8F%B2%E6%9C%88%EF%BC%8C%E7%8E%A9%E8%BD%AC%E4%B8%87%E5%9C%A3%E5%AD%A3%EF%BC%8C%E7%95%85%E6%B8%B8%E5%A5%87%E5%A6%99%E5%81%87%E6%9C%9F.pdf"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c17",
+  "field": "fees",
+  "text": "3세 미만 아동은 입장이 무료이다(방문 당일 기준).",
+  "sources": [
+   "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c18",
+  "field": "fees",
+  "text": "3~11세(3세와 11세 포함)는 어린이 티켓, 60세 이상은 시니어 티켓을 구매해야 한다(방문 당일 나이 기준).",
+  "sources": [
+   "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c19",
+  "field": "fees",
+  "text": "2025년 8월 공식 보도자료 기준, 어린이(3~11세), 60세 이상, 장애인(증빙 필요) 티켓은 일반 티켓의 약 75% 가격(약 25% 할인)이다.",
+  "sources": [
+   "https://shcorporate.shanghaidisneyresort.com/wp-content/uploads/2025/08/%E6%96%B0%E9%97%BB%E7%A8%BF-%E8%BF%99%E4%B8%AA%E9%87%91%E7%A7%8B%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%BA%A6%E5%81%87%E5%8C%BA%E8%90%8C%E8%81%9A%E8%BE%BE%E8%8F%B2%E6%9C%88%EF%BC%8C%E7%8E%A9%E8%BD%AC%E4%B8%87%E5%9C%A3%E5%AD%A3%EF%BC%8C%E7%95%85%E6%B8%B8%E5%A5%87%E5%A6%99%E5%81%87%E6%9C%9F.pdf"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c20",
+  "field": "fees",
+  "text": "1일권·2일권은 최소 10일 전에 예약하면 얼리버드 할인을 받을 수 있다.",
+  "sources": [
+   "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c21",
+  "field": "fees",
+  "text": "디즈니타운은 입장료가 없어 파크 티켓 없이 방문할 수 있으나 주차에는 별도 요금이 들 수 있다.",
+  "sources": [
+   "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c22",
+  "field": "description",
+  "text": "파크 티켓 한 장으로 당일 운영시간 중 상하이 디즈니랜드에 횟수 제한 없이 드나들 수 있고 8개 테마 랜드를 모두 이용할 수 있다.",
+  "sources": [
+   "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c23",
+  "field": "description",
+  "text": "상하이 디즈니랜드는 마법에 걸린 이야기 성(Enchanted Storybook Castle)과 미키 애비뉴, 상상의 정원, 판타지랜드, 어드벤처 아일, 트레저 코브, 투모로우랜드, 토이 스토리 랜드, 주토피아의 8개 랜드로 이루어진다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/theme-park"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c24",
+  "field": "reservation",
+  "text": "티켓은 공식 웹사이트, 공식 앱, 공식 위챗 계정, 예약센터(+86-21-3158-0000) 등 공식 채널에서 구매한다.",
+  "sources": [
+   "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c25",
+  "field": "reservation",
+  "text": "티켓 구매 때 구매자는 유효한 신분증 번호와 관련 정보를 제공해야 하고, 입장 시 구매 때 등록한 신분증 원본을 제시해야 한다.",
+  "sources": [
+   "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data",
+   "https://www.shanghaidisneyresort.com/en/legal/shanghai-disney-resort-real-name-ticketing-policy"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c26",
+  "field": "reservation",
+  "text": "외국인 방문객은 유효한 외국 여권(또는 중국 외국인 영주증 번호)으로 티켓을 구매하고 입장 때 해당 신분증 원본을 제시한다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/guest-service/weather-packing-information"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c27",
+  "field": "reservation",
+  "text": "신분증은 사본이나 디지털 버전이 인정되지 않고 원본만 유효한 입장 서류이다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/guest-service/weather-packing-information"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c28",
+  "field": "tip",
+  "text": "디즈니 패스트패스는 추가 요금 없이 공식 앱으로 배부되며 발급한 당일에만 유효하다.",
+  "sources": [
+   "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c29",
+  "field": "tip",
+  "text": "공식 앱에서 안면 인식 입장을 선택하면 입장이 빨라진다고 안내된다.",
+  "sources": [
+   "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=dynamic-template&entityId=preArrivalInformation"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c30",
+  "field": "language",
+  "text": "공식 웹사이트는 중국어 간체와 영어로 제공되고 일본어는 일부 콘텐츠만 제공된다(한국어는 언급 없음).",
+  "sources": [
+   "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c31",
+  "field": "caution",
+  "text": "바퀴 달린 캐리어는 크기와 관계없이, 56×36×23cm를 넘는 가방·상자·짐은 파크에 반입할 수 없다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/guest-service/weather-packing-information"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c32",
+  "field": "caution",
+  "text": "삼각대, 셀카봉, 드론, 주류, 접이식 의자·스툴, 칼 등은 파크에 반입할 수 없다(안내견 제외 동물도 불가).",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/guest-service/weather-packing-information"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c33",
+  "field": "caution",
+  "text": "비나 더위에도 어트랙션·레스토랑·상점은 운영하지만, 극단적인 악천후에는 파크가 닫거나 운영 시간·범위를 줄일 수 있다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/guest-service/weather-packing-information"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c34",
+  "field": "tip",
+  "text": "리조트 안에서 ATM은 디즈니랜드, 디즈니타운, 리조트 호텔 등의 게스트 서비스 근처에서 찾을 수 있다.",
+  "sources": [
+   "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c1",
+  "field": "location",
+  "text": "관광 안내 공식 페이지의 주소는 상하이시 푸둥신구 루자주이 인청중로(银城中路) 501호다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/en/tourist-attraction/top-of-shanghai-observatory-914985/"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c2",
+  "field": "location",
+  "text": "전망대는 상하이타워 118층, 높이 546m에 있다.",
+  "sources": [
+   "https://en.shanghaitower.com/shagnhai.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c3",
+  "field": "description",
+  "text": "관람 동선은 지하 1층 '상하이즈뎬 전시관', 118층 전망대, 125·126층 SKY632 예술 공간으로 이어진다.",
+  "sources": [
+   "https://en.shanghaitower.com/shagnhai.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c4",
+  "field": "highlight",
+  "text": "118층 전망대에서는 세계에서 가장 빠른 엘리베이터로 올라가 360도 전경을 본다고 공식 사이트가 소개한다.",
+  "sources": [
+   "https://en.shanghaitower.com/shagnhai.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c5",
+  "field": "description",
+  "text": "상하이즈뎬 전망대는 2017년 4월 정식 개장한 국가 4A급 관광지다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw4411/20260210/757750e6b47b4f1fb9b728b87615a118.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c6",
+  "field": "description",
+  "text": "전망대의 연평균 방문객은 약 170만 명이며 외국인 비율이 30%를 넘는다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw4411/20260210/757750e6b47b4f1fb9b728b87615a118.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c7",
+  "field": "language",
+  "text": "전망대는 다국어 서비스를 개선하고 있다고 상하이시 보도가 전한다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw4411/20260210/757750e6b47b4f1fb9b728b87615a118.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c8",
+  "field": "payment",
+  "text": "전망대에는 출국 시 세금 환급(离境退税) 지점이 추가되었다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw4411/20260210/757750e6b47b4f1fb9b728b87615a118.html"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c9",
+  "field": "access",
+  "text": "지하철 2호선 루자주이역 6번 출구에서 상하이 IFC몰 LG2를 지나 걸어서 간다.",
+  "sources": [
+   "https://en.shanghaitower.com/Publictransit.html"
+  ]
+ }
+]

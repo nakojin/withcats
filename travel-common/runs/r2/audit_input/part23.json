@@ -1,0 +1,615 @@
+[
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c31",
+  "field": "tip",
+  "text": "동궁과 월지 문의 전화는 054-750-8655이다.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-pohang-homigot",
+  "name": "포항 호미곶",
+  "cid": "r1-b06-c1",
+  "field": "location",
+  "text": "호미곶 해맞이광장의 주소는 경상북도 포항시 남구 호미곶면 해맞이로150번길 20이며 관리기관은 관광진흥과(호미곶광장관리)이다.",
+  "sources": [
+   "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-pohang-homigot",
+  "name": "포항 호미곶",
+  "cid": "r1-b06-c2",
+  "field": "location",
+  "text": "한국관광공사는 호미곶 해맞이광장 주소를 경북 포항시 남구 호미곶면 대보리로 표기한다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-pohang-homigot",
+  "name": "포항 호미곶",
+  "cid": "r1-b06-c3",
+  "field": "description",
+  "text": "호미곶은 한반도 최동단에 있어 지형상 호랑이 꼬리에 해당하며, 한국천문연구원 자료 기준으로 한반도에서 가장 먼저 해가 뜨는 곳이라고 포항시가 소개한다.",
+  "sources": [
+   "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-pohang-homigot",
+  "name": "포항 호미곶",
+  "cid": "r1-b06-c4",
+  "field": "highlight",
+  "text": "상생의 손은 바다에 오른손, 육지에 왼손 모양으로 세워진 대형 청동 조형물로 화합과 상생을 뜻한다.",
+  "sources": [
+   "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191",
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-pohang-homigot",
+  "name": "포항 호미곶",
+  "cid": "r1-b06-c5",
+  "field": "highlight",
+  "text": "광장에는 영원의 불씨함, 연오랑세오녀상, 일기와 무관하게 채화할 수 있는 햇빛 채화기, 성화대 등 기념 조형물이 있다.",
+  "sources": [
+   "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-pohang-homigot",
+  "name": "포항 호미곶",
+  "cid": "r1-b06-c6",
+  "field": "highlight",
+  "text": "광장 진입로의 유채꽃단지는 매년 4~5월경 유채꽃이 만개한다.",
+  "sources": [
+   "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-pohang-homigot",
+  "name": "포항 호미곶",
+  "cid": "r1-b06-c7",
+  "field": "highlight",
+  "text": "주변에는 1908년 건립된 국내 최대 규모의 호미곶등대, 국내 유일의 등대박물관, 이육사 청포도 시비, 대보 해수탕이 있다.",
+  "sources": [
+   "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-pohang-homigot",
+  "name": "포항 호미곶",
+  "cid": "r1-b06-c8",
+  "field": "description",
+  "text": "새천년 국가행사로 1999년 12월 31일~2000년 1월 1일 한민족 해맞이 축전이 열렸고, 이후 해마다 한민족 해맞이 축전이 열린다고 안내된다.",
+  "sources": [
+   "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-pohang-homigot",
+  "name": "포항 호미곶",
+  "cid": "r1-b06-c9",
+  "field": "hours",
+  "text": "호미곶 해맞이광장은 이용시간이 '상시 개방'으로 안내된다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-pohang-homigot",
+  "name": "포항 호미곶",
+  "cid": "r1-b06-c10",
+  "field": "closed_days",
+  "text": "호미곶 해맞이광장은 연중무휴이다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-pohang-homigot",
+  "name": "포항 호미곶",
+  "cid": "r1-b06-c11",
+  "field": "parking",
+  "text": "호미곶 해맞이광장에는 주차가 가능하다(요금은 해당 페이지에 없음).",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-pohang-homigot",
+  "name": "포항 호미곶",
+  "cid": "r1-b06-c12",
+  "field": "tip",
+  "text": "문의는 호미곶 해맞이광장 관리사무소 054-270-5806, 054-270-5855로 한다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-everland",
+  "name": "에버랜드",
+  "cid": "r1-b01-c1",
+  "field": "reservation",
+  "text": "셀렉트 투어는 방문 예정일 D-30~D-2까지 사전 예약하며 선착순으로 조기 마감될 수 있다.",
+  "sources": [
+   "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date="
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-everland",
+  "name": "에버랜드",
+  "cid": "r1-b01-c2",
+  "field": "reservation",
+  "text": "셀렉트 투어는 1팀 최대 4명, 최소 2인 결제, 성인 보호자 1명 이상 동행이 필요하다.",
+  "sources": [
+   "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date="
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-everland",
+  "name": "에버랜드",
+  "cid": "r1-b01-c3",
+  "field": "parking",
+  "text": "셀렉트 투어에는 정문 가까이 발레파킹 1대와 정문 게이트 우선 입장, 이용권, Q-PASS 쿠폰(1인 5매)이 포함된다.",
+  "sources": [
+   "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date="
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-everland",
+  "name": "에버랜드",
+  "cid": "r1-b01-c4",
+  "field": "fees",
+  "text": "셀렉트 투어 요금은 예약 일자별로 다르고 대인·소인 공통이며 36개월 미만 영유아는 요금에 포함되지 않는다.",
+  "sources": [
+   "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date="
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-everland",
+  "name": "에버랜드",
+  "cid": "r1-b01-c5",
+  "field": "caution",
+  "text": "셀렉트 투어는 방문 2일 전까지 취소하면 100% 환불, 1일 전 90%, 당일 취소·노쇼는 환불 불가이며 우천 등 기상 사유 환불도 안 된다.",
+  "sources": [
+   "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date="
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-everland",
+  "name": "에버랜드",
+  "cid": "r1-b01-c6",
+  "field": "caution",
+  "text": "판다월드 우선 입장은 11시 이후에만 가능하고, 어트랙션마다 신장 제한과 운영시간이 다르다.",
+  "sources": [
+   "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date="
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c1",
+  "field": "location",
+  "text": "남한산성세계유산센터의 도로명 주소는 경기도 광주시 남한산성면 남한산성로 731이고 지번은 산성리 158-1이다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1287&menuId=3515",
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c2",
+  "field": "fees",
+  "text": "남한산성 입장요금은 2007년 1월 1일부로 폐지되어 산성 출입은 무료이다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c3",
+  "field": "fees",
+  "text": "남한산성행궁 관람료는 어른(만 19~64세) 2,000원, 청소년(만 7~18세) 1,000원이다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c4",
+  "field": "fees",
+  "text": "30인 이상 단체는 어른 1,600원, 청소년 800원이다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c5",
+  "field": "fees",
+  "text": "행궁은 만 6세 이하, 만 65세 이상(신분증), 경기도민(신분증), 장애인과 보호자 1인(장애인등록증), 한복 등 전통의복 착용자(상하의 모두), 군인(예비군 제외) 등이 무료이다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c6",
+  "field": "hours",
+  "text": "남한산성행궁 관람시간은 하절기(4~10월) 10:00~18:00, 동절기(11~3월) 10:00~17:00이다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c7",
+  "field": "closed_days",
+  "text": "행궁은 매주 월요일이 휴궁일이며(공휴일 제외), 매표는 관람 종료 30분 전까지 가능하다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c8",
+  "field": "parking",
+  "text": "성내 주차장(남문, 로타리, 중앙, 센터)은 유료이고, 광주 방면 동문·하행선·검복리1·2·불당리·농산물·오전리·광지원 주차장은 무료이다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1287&menuId=3515"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c9",
+  "field": "parking",
+  "text": "유료 주차요금은 후불이며 1000cc 이상 승용차는 평일 3,000원, 공휴일 5,000원, 경차·1000cc 미만 승용차는 평일 1,500원, 공휴일 2,500원이다. 20:00~09:00와 30분 이내 출차는 무료이다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c10",
+  "field": "parking",
+  "text": "주차요금 무료 대상에 장애인(자동차 표지), 전통의복 착용자, 18세 미만 자녀 3명 이상 가족, 친환경 자동차가 포함되고, 18세 미만 자녀 2명 이상 가족은 50% 감면된다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c12",
+  "field": "access",
+  "text": "자가용 기준 경기광주IC에서 약 18분(10.41km), 양재IC에서 약 37분(17.43km), 모란역에서 약 26분(9.7km)이다 (출처 갱신 2024-10-23).",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1287&menuId=3515"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c13",
+  "field": "caution",
+  "text": "공휴일에는 남한산성 내 도로가 매우 혼잡하고 주차 공간이 부족해 대중교통 이용이 권장된다 (출처 갱신 2024-10-23).",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1287&menuId=3515"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c14",
+  "field": "duration",
+  "text": "탐방로 1코스 약 3.8km 1시간 20분, 2코스 약 3km 1시간, 3코스 약 5.7km 2시간, 4코스 약 3.8km 1시간 20분, 5코스 약 7.7km 3시간 20분이다 (출처 갱신 2024-10-24).",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1280&menuId=3494"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c15",
+  "field": "hours",
+  "text": "남한산성 역사문화관은 10:00~18:00(입장마감 17:30)에 운영한다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/bbs/boardView.do?bsIdx=765&bIdx=110883248&page=1&menuId=3503&bcIdx="
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c16",
+  "field": "closed_days",
+  "text": "역사문화관은 매주 월요일(공휴일 제외)과 1월 1일, 설날, 추석 당일에 휴관한다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/bbs/boardView.do?bsIdx=765&bIdx=110883248&page=1&menuId=3503&bcIdx="
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c17",
+  "field": "fees",
+  "text": "역사문화관 관람료는 무료이다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/bbs/boardView.do?bsIdx=765&bIdx=110883248&page=1&menuId=3503&bcIdx="
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c18",
+  "field": "location",
+  "text": "남한산성 역사문화관 주소는 경기도 광주시 남한산성면 남한산성로 812이다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/bbs/boardView.do?bsIdx=765&bIdx=110883248&page=1&menuId=3503&bcIdx="
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c19",
+  "field": "description",
+  "text": "남한산성은 2014년 6월 제38차 유네스코 세계유산위원회에서 등재가 결정되었고 성곽 길이는 약 12.4km이다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1263&menuId=3473"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c20",
+  "field": "description",
+  "text": "신라 문무왕 672년 주장성 터를 이용했고, 조선 인조 4년(1626)에 대대적으로 쌓았다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1263&menuId=3473"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c21",
+  "field": "tip",
+  "text": "문의는 남한산성세계유산센터 031-8008-5155이다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c1",
+  "field": "location",
+  "text": "수원화성의 공식 주소는 수원시 장안구 영화동 320-2 일원이다.",
+  "sources": [
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c2",
+  "field": "location",
+  "text": "화성행궁의 주소는 수원시 팔달구 정조로 825(남창동)이다.",
+  "sources": [
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+   "https://www.swcf.or.kr/?p=68"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c3",
+  "field": "hours",
+  "text": "수원화성 성곽은 개방형이라 연중 상시 관람할 수 있고 야간 관람도 가능하다.",
+  "sources": [
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+   "https://www.swcf.or.kr/?p=8"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c4",
+  "field": "fees",
+  "text": "수원화성 성곽 관람은 무료이다.",
+  "sources": [
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+   "https://www.swcf.or.kr/?p=8"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c5",
+  "field": "closed_days",
+  "text": "수원화성 성곽은 연중무휴이다.",
+  "sources": [
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c6",
+  "field": "hours",
+  "text": "화성행궁 관람시간은 1~12월 09:00~18:00이며 입장 마감은 관람시간 1시간 전이다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=8",
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c7",
+  "field": "closed_days",
+  "text": "화성행궁은 연중무휴이다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=8",
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c8",
+  "field": "fees",
+  "text": "화성(행궁 및 화령전) 개인 요금은 어른 2,000원, 군인·청소년 1,500원, 어린이 1,000원이다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=8",
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c9",
+  "field": "fees",
+  "text": "20인 이상 단체 요금은 어른 1,500원, 군인·청소년 1,200원, 어린이 800원이다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=8"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c10",
+  "field": "fees",
+  "text": "화성행궁, 수원화성박물관, 수원박물관 3종 통합관람권은 개인 어른 4,000원, 군인·청소년 2,500원, 어린이 1,000원이다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=8",
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c11",
+  "field": "fees",
+  "text": "매달 마지막 주 수요일 문화가 있는 날에는 화성행궁이 무료이나 야간개장은 제외된다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=8"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c12",
+  "field": "fees",
+  "text": "한복(개량한복 포함) 착용자는 관람료 면제·감면 대상이며, 65세 이상(신분증 소지), 6세 이하 취학 전 아동, 장애인복지법상 해당자(중증은 돌보는 사람 1명 포함)는 관람료가 전액 면제된다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=8",
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c13",
+  "field": "fees",
+  "text": "수원시민 대상 감면도 있다: 두 자녀 이상 동반한 다자녀가정은 전액 면제(수원시민 한정), 수원시 청년(19~39세)은 매주 금요일 면제.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=8"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c14",
+  "field": "hours",
+  "text": "2026년 야간개장은 5월 1일(금)부터 11월 1일(일)까지 매주 금~일요일과 공휴일 18:00~21:30이며 입장 마감은 21:00이다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=392",
+   "https://www.swcf.or.kr/?p=8"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c15",
+  "field": "fees",
+  "text": "야간개장 입장료는 어른 2,000원, 청소년·군인 1,500원, 어린이 1,000원이며 한복 착용자, 만 6세 이하, 만 65세 이상은 무료이다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=392"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c16",
+  "field": "caution",
+  "text": "수원화성문화제(10.4~10.11) 기간에는 야간개장 운영이 바뀔 수 있고, 야간개장 기간은 재단 사정에 따라 변경될 수 있다.",
+  "sources": [
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+   "https://www.swcf.or.kr/?p=8"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c17",
+  "field": "caution",
+  "text": "화성행궁에는 위험물, 주류, 텐트·돗자리 등 야영용품, 취사도구, 반려동물(장애인 보조견 제외), 확성기 등을 가지고 들어갈 수 없다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=8"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c18",
+  "field": "parking",
+  "text": "화성행궁 주차장은 수원시 팔달구 행궁로 18에 있고 24시간 운영하며 카드 결제 전용이다. 총 212면이며 대형차량은 주차할 수 없다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=69"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c19",
+  "field": "parking",
+  "text": "연무대 주차장은 수원시 팔달구 매향동 3-17에 있고 24시간 운영하며 카드 결제 전용이다. 대형 17면을 포함해 총 122면이다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=69"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c20",
+  "field": "parking",
+  "text": "성곽 주변에 화홍문·장안동·연무동·남수동 공영주차장이 있으며 화성행궁·연무대 주차장과 함께 유료이다.",
+  "sources": [
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+   "https://www.swcf.or.kr/?p=69"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c21",
+  "field": "parking",
+  "text": "장애인 주차장은 화성행궁 3면, 연무대 6면이다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=8"
+  ]
+ }
+]

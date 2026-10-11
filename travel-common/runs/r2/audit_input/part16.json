@@ -1,0 +1,606 @@
+[
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "cid": "r1-b19-c3",
+  "field": "access",
+  "text": "일요일 보행자 구간은 현청 북쪽 입구에서 유이레일 마키시역까지로 안내되어, 마키시역이 국제거리 구간 안에 있다.",
+  "sources": [
+   "https://www.naha-navi.or.jp/en/magazine/2016/03/11322/"
+  ]
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "cid": "r1-b19-c4",
+  "field": "hours",
+  "text": "트랜짓 마일(보행자 우선 도로)은 매주 일요일 12:00~18:00에 열리며 비가 오면 취소된다.",
+  "sources": [
+   "https://naha-kokusaidori.okinawa/en/eventinfo/transitmall.html"
+  ]
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "cid": "r1-b19-c5",
+  "field": "tip",
+  "text": "트랜짓 마일 구간은 현청 북쪽 출구 교차로와 사이온바시 교차로 사이 약 1,300m이다.",
+  "sources": [
+   "https://naha-kokusaidori.okinawa/en/eventinfo/transitmall.html"
+  ]
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "cid": "r1-b19-c6",
+  "field": "tip",
+  "text": "트랜짓 마일 시간에는 오픈 카페, 거리 공연, 각종 이벤트, 국제거리 마르셰가 열린다.",
+  "sources": [
+   "https://naha-kokusaidori.okinawa/en/eventinfo/transitmall.html"
+  ]
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "cid": "r1-b19-c7",
+  "field": "caution",
+  "text": "2026년 9월 6일과 9월 27일 트랜짓 마일은 중지 공지가 났으므로, 일요일에 가려면 공식 사이트의 당일 공지를 확인해야 한다.",
+  "sources": [
+   "https://naha-kokusaidori.okinawa/en/"
+  ]
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "cid": "r1-b19-c8",
+  "field": "caution",
+  "text": "2026년 10월 10일(토)~12일(월)은 나하 오쓰나히키 마쓰리가 열린다고 공식 사이트에 공지되어 있다.",
+  "sources": [
+   "https://naha-kokusaidori.okinawa/en/"
+  ]
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "cid": "r1-b19-c9",
+  "field": "description",
+  "text": "국제거리에는 백화점, 식당, 서비스 업소, 잡화점, 호텔, 기념품 가게 등 약 600개의 상점과 사업장이 있다.",
+  "sources": [
+   "https://naha-kokusaidori.okinawa/en/"
+  ]
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "cid": "r1-b19-c11",
+  "field": "tip",
+  "text": "마키시 3-2-10의 나하시 관광안내소에 코인로커가 있으며, 공식 사이트에 표기된 이용 시간은 9:00~19:00이다.",
+  "sources": [
+   "https://naha-kokusaidori.okinawa/en/areainfo.html"
+  ]
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "cid": "r1-b19-c12",
+  "field": "tip",
+  "text": "코인로커는 마키시역과 현청앞역에서 6:00~23:00 이용할 수 있다.",
+  "sources": [
+   "https://naha-kokusaidori.okinawa/en/areainfo.html"
+  ]
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "cid": "r1-b19-c13",
+  "field": "tip",
+  "text": "미에바시 우체국에 ATM이 있으며 7:00~23:00 이용할 수 있다.",
+  "sources": [
+   "https://naha-kokusaidori.okinawa/en/areainfo.html"
+  ]
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "cid": "r1-b19-c14",
+  "field": "language",
+  "text": "국제거리 상점가 공식 사이트는 일본어, 영어, 한국어, 중국어 간체, 중국어 번체로 제공된다.",
+  "sources": [
+   "https://naha-kokusaidori.okinawa/en/"
+  ]
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "cid": "r1-b19-c15",
+  "field": "tip",
+  "text": "국제거리 상점가 진흥조합 연합회 문의 전화는 098-863-2755이며 평일 10:00~17:00에 받는다.",
+  "sources": [
+   "https://naha-kokusaidori.okinawa/en/"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c1",
+  "field": "location",
+  "text": "주소는 〒554-0031 오사카부 오사카시 고노하나구 사쿠라지마 2-1-33이다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/access/car/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c2",
+  "field": "description",
+  "text": "영화를 주제로 한 라이드와 인기 캐릭터 쇼 등을 갖춘 테마파크로, 슈퍼 닌텐도 월드 등 여러 구역이 있다.",
+  "sources": [
+   "https://www.usj.co.jp/web/ko/kr/"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c3",
+  "field": "access",
+  "text": "유니버설 시티역까지 소요 시간은 니시쿠조역에서 약 5분, 오사카(우메다)역에서 약 11분, 신오사카역에서 약 16분, 오사카 난바역에서 약 13분, 덴노지역에서 약 13분이다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/access/train/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c4",
+  "field": "access",
+  "text": "유니버설 시티역까지 오사카공항(이타미)에서 약 35분, 간사이공항에서 약 65분이 걸린다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/access/train/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c5",
+  "field": "access",
+  "text": "자동차는 한신고속 완간선 홋코 JCT를 타고 유니버설 시티 출구로 나오면 바로이다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/access/car/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c6",
+  "field": "parking",
+  "text": "보통 자동차 주차장은 약 2,800대 수용이고 요금은 날짜에 따라 다르며 주차 요금 캘린더에서 확인한다. 주차장 안 프리퍼드 구획은 당일 요금에 1,000엔을 더하면 쓸 수 있다(선착순, 예약 불가).",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/access/parking/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c7",
+  "field": "parking",
+  "text": "대형차(차체 길이 5.6m 이상)는 6,000엔(약 80대)이고 4일 전까지 사전 예약이 필요하며, 51cc 이상 오토바이는 1,000엔(약 60대)이다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/access/parking/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c8",
+  "field": "parking",
+  "text": "주차장 이용 시간은 파크 개장 1시간 30분 전부터 폐장 2시간 후까지이며 숙박은 할 수 없다. 시간을 넘기면 추가 요금이 든다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/access/parking/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c9",
+  "field": "parking",
+  "text": "주변 도로에서의 주정차는 금지이며, 파크 주차장 안 송영 구획은 20분간 무료이다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/access/parking/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c10",
+  "field": "hours",
+  "text": "영업 시간은 날짜에 따라 다르며 예고 없이 바뀔 수 있다. 공식 데이터상 2026년 10월 11일은 8:00 개장, 22:00 폐장이다.",
+  "sources": [
+   "https://mobile-service.usj.co.jp/api/venues/10251/Hours?endDate=2026-10-31",
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/park-guide/schedule/park-hour2/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c11",
+  "field": "hours",
+  "text": "당일 파크 개장 시각보다 빨리 입장이 시작될 수 있다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/park-guide/schedule/park-hour2/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c12",
+  "field": "fees",
+  "text": "입장권(스튜디오 패스)에는 파크 입장과 모든 어트랙션 이용이 포함되고, 입장만 가능한 티켓은 판매하지 않는다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html",
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/tickets/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c13",
+  "field": "fees",
+  "text": "입장권 가격은 입장일에 따라 달라진다. 만 4~11세는 어린이 요금, 만 12세 이상은 성인 요금이다(4월에 중학교 입학 예정자는 3월 31일까지 어린이, 4월 1일부터 성인).",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/tickets/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c14",
+  "field": "reservation",
+  "text": "입장권은 구매 시 입장일을 지정해야 하며, 구매 후 입장일 변경 페이지에서 날짜를 바꿀 수 있다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/tickets/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c15",
+  "field": "reservation",
+  "text": "어트랙션 무료 예약 시스템은 없고, 대기를 줄이는 유료 유니버설 익스프레스 패스를 판매한다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c16",
+  "field": "reservation",
+  "text": "슈퍼 닌텐도 월드는 당일 상황에 따라 '에어리어 입장 확약권' 또는 '입장 정리권/추첨권'이 필요하며, 확약권은 사전 구매, 정리권·추첨권은 당일 공식 앱에서 발권한다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c17",
+  "field": "payment",
+  "text": "파크 안에서는 VISA, Mastercard, JCB, AEON, AMEX, Diners Club, Discover, 일본 발행 기프트카드, iD·QUICPay·WAON·d払い·PayPay·메루페이·au PAY, 유니온페이와 Alipay+를 쓸 수 있다(일시불 한정). 왜건 판매와 주차장 등 일부는 제외된다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c18",
+  "field": "language",
+  "text": "공식 사이트에 한국어 페이지가 있고, 한국 판매 대리점 링크 페이지가 안내된다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/tickets/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c19",
+  "field": "language",
+  "text": "인포메이션 센터 전화(국외 +81-6-6465-4005, 국내 0570-20-0606)는 9:00~17:00(일본 시간)이며 오퍼레이터 언어는 영어만 지원된다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/access/parking/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c20",
+  "field": "caution",
+  "text": "연간 스튜디오 패스 외 입장권으로는 재입장할 수 없다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c21",
+  "field": "caution",
+  "text": "파크 안으로 도시락 등 음식물 반입은 삼가야 하며 물통은 가능하다. 장애인 보조견 외 반려동물 동반은 금지이고 롤러슈즈는 이용할 수 없다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c22",
+  "field": "caution",
+  "text": "전매 사이트 등에서 구입한 티켓은 QR 코드가 비활성화되어 파크에서 쓸 수 없다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/tickets/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c23",
+  "field": "tip",
+  "text": "휠체어는 정문 입장 후 오른쪽 대여 카운터에서 1대 500엔(비과세), 유모차(1인용)는 1,100엔(세금 포함)에 빌릴 수 있다. 휠체어는 예약을 받지 않고, 유모차는 예약이 필요 없다. 유모차는 생후 1~48개월 대상이며 수량이 한정되어 있다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c24",
+  "field": "tip",
+  "text": "파크 밖 물품 보관함은 개장 1시간 전부터 폐장 시간까지 이용할 수 있다. 공식 앱으로 어트랙션 대기 시간을 확인할 수 있다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html",
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/park-guide/schedule/park-hour2/index.html"
+  ]
+ },
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "cid": "r1-b17-c1",
+  "field": "location",
+  "text": "도쿄 관광 공식 사이트는 이 교차로의 소재지를 도쿄도 시부야구 도겐자카시타(道玄坂下) 시부야 크로싱으로 표기한다.",
+  "sources": [
+   "https://www.gotokyo.org/en/spot/78/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "cid": "r1-b17-c2",
+  "field": "location",
+  "text": "일본정부관광국은 교차로가 시부야역 하치코 출구 바로 앞에 있다고 안내한다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/2177/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "cid": "r1-b17-c3",
+  "field": "access",
+  "text": "JR선, 지하철 긴자선, 게이오 이노카시라선, 도큐 도요코선이 시부야역에 정차하는 노선으로 안내된다.",
+  "sources": [
+   "https://www.gotokyo.org/en/spot/78/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "cid": "r1-b17-c4",
+  "field": "access",
+  "text": "JR 야마노테선으로 시부야역에서 내리면 되고, JR 사이쿄선·쇼난신주쿠라인, 도큐 덴엔토시선, 도쿄메트로 한조몬선·후쿠토신선도 시부야역에 선다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/2177/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "cid": "r1-b17-c5",
+  "field": "fees",
+  "text": "도쿄 관광 공식 사이트가 이 명소에 '무료(Free)' 키워드를 붙여 두었으며, 교차로 관람에 요금이 들지 않는다.",
+  "sources": [
+   "https://www.gotokyo.org/en/spot/78/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "cid": "r1-b17-c6",
+  "field": "description",
+  "text": "도쿄 관광 공식 사이트는 이 교차로를 한 번에 1,000명 이상이 건너는 다방향 교차로이자 도쿄의 상징적 랜드마크로 소개한다.",
+  "sources": [
+   "https://www.gotokyo.org/en/spot/78/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "cid": "r1-b17-c7",
+  "field": "description",
+  "text": "일본정부관광국은 가장 붐빌 때 2분마다 약 1,000~2,500명이 이 교차로를 건넌다고 추정한다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/2177/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "cid": "r1-b17-c8",
+  "field": "description",
+  "text": "교차로 건너편의 센터가이에는 수백 개의 상점·바·식당이 있다.",
+  "sources": [
+   "https://www.gotokyo.org/en/spot/78/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "cid": "r1-b17-c9",
+  "field": "tip",
+  "text": "교차로 바로 위층의 스타벅스(QFRONT 빌딩)에서 인파를 내려다보며 사진을 찍을 수 있다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/2177/",
+   "https://www.gotokyo.org/en/spot/78/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "cid": "r1-b17-c10",
+  "field": "tip",
+  "text": "역 안에서 JR선과 게이오 이노카시라선 입구 사이는 상대적으로 사람이 덜 몰리는 조망 지점이다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/2177/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "cid": "r1-b17-c11",
+  "field": "caution",
+  "text": "시부야구는 2024년 10월 1일부터 18시~다음 날 5시 사이 길·공원 등 공공장소의 음주를 연중 금지하며, 금지 구역도 넓혔다.",
+  "sources": [
+   "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html"
+  ]
+ },
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "cid": "r1-b17-c12",
+  "field": "caution",
+  "text": "구는 길거리 음주 금지 안내문을 한국어 PDF로도 제공한다.",
+  "sources": [
+   "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html"
+  ]
+ },
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "cid": "r1-b17-c13",
+  "field": "language",
+  "text": "도쿄 관광 공식 사이트는 이 명소 안내를 한국어 사이트로도 제공한다.",
+  "sources": [
+   "https://www.gotokyo.org/kr/spot/78/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c1",
+  "field": "location",
+  "text": "도쿄 스카이트리의 주소는 도쿄도 스미다구 오시아게 1-1-2(우편번호 131-0045)이다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c2",
+  "field": "description",
+  "text": "도쿄 스카이트리의 높이는 634m이다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c3",
+  "field": "description",
+  "text": "전망 시설은 덴보 데크(340·345·350층)와 덴보 회랑(445·450층)으로 나뉜다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c4",
+  "field": "highlight",
+  "text": "340층 덴보 데크에는 발밑으로 도쿄 전경이 펼쳐지는 유리 바닥이 있다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c5",
+  "field": "highlight",
+  "text": "유리 바닥은 덴보 데크 입장료만 내면 누구나 체험할 수 있다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c6",
+  "field": "highlight",
+  "text": "맑은 날에는 350m 덴보 데크에서 후지산도 보인다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c7",
+  "field": "tip",
+  "text": "공기가 더 맑아 멀리까지 보이기 쉬운 시기는 11월부터 2월이다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/faq/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c8",
+  "field": "access",
+  "text": "가장 쉬운 방법은 도부 스카이트리라인 도쿄 스카이트리역 또는 한조몬선 오시아게(스카이트리마에)역을 이용하는 것이다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/public-transport/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c9",
+  "field": "access",
+  "text": "도쿄역에서는 JR 소부선 쾌속으로 약 8분 간 긴시초역까지 가서 한조몬선으로 약 3분 가면 오시아게역이다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/public-transport/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c10",
+  "field": "access",
+  "text": "아사쿠사역에서 도부 스카이트리라인으로 약 3분이면 도쿄 스카이트리역에 닿는다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/public-transport/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c11",
+  "field": "access",
+  "text": "하네다공항역에서 게이큐선·도에이 아사쿠사선으로 오시아게역까지 약 39분이 걸린다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/public-transport/"
+  ]
+ }
+]

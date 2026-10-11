@@ -1,0 +1,449 @@
+[
+ {
+  "key": null,
+  "country": "jp",
+  "name_ko": "삿포로 눈축제",
+  "name_local": "さっぽろ雪まつり",
+  "region": "홋카이도",
+  "strength": "strong",
+  "signal": "Named across Korean lists"
+ },
+ {
+  "key": null,
+  "country": "cn",
+  "name_ko": "티엔즈팡",
+  "name_local": "田子坊",
+  "region": "상하이시",
+  "strength": "medium",
+  "signal": "호텔스닷컴 기사와 트립스토어 블로그 모두 언급."
+ },
+ {
+  "key": null,
+  "country": "cn",
+  "name_ko": "하이창 해양공원",
+  "name_local": "上海海昌海洋公园",
+  "region": "상하이시",
+  "strength": "medium",
+  "signal": "트립.베스트 4위, 트립닷컴 상하이 가이드 대표 이미지."
+ },
+ {
+  "key": null,
+  "country": "cn",
+  "name_ko": "칭다오 극지해양세계",
+  "name_local": "青岛极地海洋世界",
+  "region": "산둥성",
+  "strength": "medium",
+  "signal": "트립닷컴 4.6점, 리뷰 약 6만."
+ },
+ {
+  "key": null,
+  "country": "cn",
+  "name_ko": "소어산 공원",
+  "name_local": "小鱼山",
+  "region": "산둥성",
+  "strength": "medium",
+  "signal": "호텔스닷컴 기사에서 칭다오 핵심으로 언급."
+ },
+ {
+  "key": null,
+  "country": "cn",
+  "name_ko": "이도백하 자작나무 숲 트레킹",
+  "name_local": "二道白河桦树林",
+  "region": "지린성",
+  "strength": "medium",
+  "signal": "하나투어 신상품 북파 자작나무 트레킹."
+ },
+ {
+  "key": null,
+  "country": "cn",
+  "name_ko": "용정(윤동주 생가·명동촌·일송정)",
+  "name_local": "龙井/明东村/一松亭",
+  "region": "지린성",
+  "strength": "medium",
+  "signal": "연길 거점 한국인 코스 단골, 단 일부 현장 접근 제한 가능."
+ },
+ {
+  "key": null,
+  "country": "cn",
+  "name_ko": "도문 두만강 국경",
+  "name_local": "图们江边境",
+  "region": "지린성",
+  "strength": "medium",
+  "signal": "신화사가 두만강 국경 풍경을 연변 관광으로 소개."
+ },
+ {
+  "key": null,
+  "country": "cn",
+  "name_ko": "하얼빈 빙설대세계/빙등제",
+  "name_local": "哈尔滨冰雪大世界",
+  "region": "헤이룽장성",
+  "strength": "medium",
+  "signal": "한국 여행사가 겨울 수요 증가 확인, 장관 발언 관광객 약 300만."
+ },
+ {
+  "key": null,
+  "country": "cn",
+  "name_ko": "안중근 의사 기념관(하얼빈역)",
+  "name_local": "安重根义士纪念馆",
+  "region": "헤이룽장성",
+  "strength": "medium",
+  "signal": "헤럴드가 하얼빈 수요 요인으로 안중근 의거지를 언급."
+ },
+ {
+  "key": null,
+  "country": "cn",
+  "name_ko": "장강 케이블카",
+  "name_local": "长江索道",
+  "region": "충칭시",
+  "strength": "medium",
+  "signal": "호텔스닷컴 및 블로그 언급."
+ },
+ {
+  "key": null,
+  "country": "jp",
+  "name_ko": "아베노 하루카스 300 전망대",
+  "name_local": "あべのハルカス300",
+  "region": "오사카부",
+  "strength": "medium",
+  "signal": "Listed in MyRealTrip Osaka top products"
+ },
+ {
+  "key": null,
+  "country": "jp",
+  "name_ko": "도쿄 타워",
+  "name_local": "東京タワー",
+  "region": "도쿄도",
+  "strength": "medium",
+  "signal": "Named in three Korean lists"
+ },
+ {
+  "key": null,
+  "country": "jp",
+  "name_ko": "후지노미야(후지산 시즈오카측)",
+  "name_local": "富士宮",
+  "region": "시즈오카현",
+  "strength": "medium",
+  "signal": "Klook bookings up 38x"
+ },
+ {
+  "key": null,
+  "country": "jp",
+  "name_ko": "나카스 포장마차(야타이)",
+  "name_local": "中洲屋台",
+  "region": "후쿠오카현",
+  "strength": "medium",
+  "signal": "Named in Travie and Wanjeon"
+ },
+ {
+  "key": null,
+  "country": "jp",
+  "name_ko": "비에이·후라노 꽃밭",
+  "name_local": "美瑛・富良野",
+  "region": "홋카이도",
+  "strength": "medium",
+  "signal": "Travie and all-nationality list"
+ },
+ {
+  "key": null,
+  "country": "jp",
+  "name_ko": "니세코",
+  "name_local": "ニセコ",
+  "region": "홋카이도",
+  "strength": "medium",
+  "signal": "Gen Z Klook survey and Travie"
+ },
+ {
+  "key": null,
+  "country": "jp",
+  "name_ko": "아메리칸 빌리지(차탄)",
+  "name_local": "アメリカンビレッジ",
+  "region": "오키나와현",
+  "strength": "medium",
+  "signal": "Three lists"
+ },
+ {
+  "key": null,
+  "country": "jp",
+  "name_ko": "미야코지마",
+  "name_local": "宮古島",
+  "region": "오키나와현",
+  "strength": "medium",
+  "signal": "Jin Air route launched May 2024; Triple searches surged"
+ },
+ {
+  "key": null,
+  "country": "jp",
+  "name_ko": "오스 상점가",
+  "name_local": "大須商店街",
+  "region": "아이치현",
+  "strength": "medium",
+  "signal": "Three lists"
+ },
+ {
+  "key": null,
+  "country": "jp",
+  "name_ko": "지브리 파크",
+  "name_local": "ジブリパーク",
+  "region": "아이치현",
+  "strength": "medium",
+  "signal": "Cited as Nagoya interest driver"
+ },
+ {
+  "key": null,
+  "country": "jp",
+  "name_ko": "레고랜드 재팬",
+  "name_local": "レゴランド・ジャパン",
+  "region": "아이치현",
+  "strength": "medium",
+  "signal": "Travie x2, Trip.com"
+ },
+ {
+  "key": null,
+  "country": "jp",
+  "name_ko": "쓰시마 이즈하라 항구 일대",
+  "name_local": "厳原",
+  "region": "나가사키현",
+  "strength": "medium",
+  "signal": "Izuhara/Hitakatsu ports about 266k Korean arrivals 2025"
+ },
+ {
+  "key": null,
+  "country": "kr",
+  "name_ko": "코엑스",
+  "name_local": "",
+  "region": "서울특별시",
+  "strength": "medium",
+  "signal": "설연휴 티맵 목적지 1위(관광공사 분석); 외국인 유동인구 서울 3위권"
+ },
+ {
+  "key": null,
+  "country": "kr",
+  "name_ko": "KINTEX",
+  "name_local": "",
+  "region": "경기도",
+  "strength": "medium",
+  "signal": "2022, 2023 입장객 전국 2~3위권(2023 약 584만); 설연휴 티맵 7위. 순수 관광지가 아닌 전시장이라 성격 확인 필요"
+ },
+ {
+  "key": null,
+  "country": "kr",
+  "name_ko": "함덕해수욕장",
+  "name_local": "",
+  "region": "제주특별자치도",
+  "strength": "medium",
+  "signal": "한국관광지500 75위"
+ },
+ {
+  "key": null,
+  "country": "kr",
+  "name_ko": "서울랜드",
+  "name_local": "",
+  "region": "경기도",
+  "strength": "medium",
+  "signal": "한국관광지500 13위"
+ },
+ {
+  "key": null,
+  "country": "kr",
+  "name_ko": "송도센트럴파크",
+  "name_local": "",
+  "region": "인천광역시",
+  "strength": "medium",
+  "signal": "한국관광지500 25위; 100선 선정"
+ },
+ {
+  "key": null,
+  "country": "kr",
+  "name_ko": "태안 꽃지해수욕장",
+  "name_local": "",
+  "region": "충청남도",
+  "strength": "medium",
+  "signal": "100선 7회 연속(보도); 500 순위 108위"
+ },
+ {
+  "key": null,
+  "country": "kr",
+  "name_ko": "충주호(충주)",
+  "name_local": "",
+  "region": "충청북도",
+  "strength": "medium",
+  "signal": "한국관광지500 47위; 관광공사 데이터랩 2025 뜨는 여행지(충주 외지인 방문 19% 증가)"
+ },
+ {
+  "key": null,
+  "country": "kr",
+  "name_ko": "서문시장",
+  "name_local": "",
+  "region": "대구광역시",
+  "strength": "medium",
+  "signal": "한국관광지500 34위; 100선 '서문시장&동성로' 2회 연속"
+ },
+ {
+  "key": "kr-gyeongnam-sacheon-sea-cable-car",
+  "country": "kr",
+  "name_ko": "사천바다케이블카",
+  "name_local": "사천바다케이블카",
+  "region": "경상남도",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-gyeongnam-upo-wetland",
+  "country": "kr",
+  "name_ko": "창녕 우포늪",
+  "name_local": "창녕 우포늪",
+  "region": "경상남도",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-gwangju-mudeungsan",
+  "country": "kr",
+  "name_ko": "무등산국립공원",
+  "name_local": "무등산국립공원",
+  "region": "광주광역시",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-gwangju-asia-culture-center",
+  "country": "kr",
+  "name_ko": "국립아시아문화전당",
+  "name_local": "국립아시아문화전당",
+  "region": "광주광역시",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-daejeon-jangtaesan-forest",
+  "country": "kr",
+  "name_ko": "장태산자연휴양림",
+  "name_local": "장태산자연휴양림",
+  "region": "대전광역시",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-sejong-national-arboretum",
+  "country": "kr",
+  "name_ko": "국립세종수목원",
+  "name_local": "국립세종수목원",
+  "region": "세종특별자치시",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-ulsan-ganjeolgot",
+  "country": "kr",
+  "name_ko": "간절곶",
+  "name_local": "간절곶",
+  "region": "울산광역시",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-ulsan-daewangam-park",
+  "country": "kr",
+  "name_ko": "울산 대왕암공원",
+  "name_local": "울산 대왕암공원",
+  "region": "울산광역시",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-ulsan-taehwagang-garden",
+  "country": "kr",
+  "name_ko": "태화강 국가정원",
+  "name_local": "태화강 국가정원",
+  "region": "울산광역시",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-incheon-jeondeungsa",
+  "country": "kr",
+  "name_ko": "전등사",
+  "name_local": "전등사",
+  "region": "인천광역시",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-jeonnam-gwangyang-maehwa-village",
+  "country": "kr",
+  "name_ko": "광양 매화마을",
+  "name_local": "광양 매화마을",
+  "region": "전라남도",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-jeonbuk-seonunsa",
+  "country": "kr",
+  "name_ko": "고창 선운사",
+  "name_local": "고창 선운사",
+  "region": "전북특별자치도",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-jeonbuk-naesosa",
+  "country": "kr",
+  "name_ko": "부안 내소사",
+  "name_local": "부안 내소사",
+  "region": "전북특별자치도",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-jeonbuk-naejangsan",
+  "country": "kr",
+  "name_ko": "내장산국립공원 정읍권",
+  "name_local": "내장산국립공원 정읍권",
+  "region": "전북특별자치도",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-chungnam-haemieupseong",
+  "country": "kr",
+  "name_ko": "서산 해미읍성",
+  "name_local": "서산 해미읍성",
+  "region": "충청남도",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-chungnam-independence-hall",
+  "country": "kr",
+  "name_ko": "독립기념관",
+  "name_local": "독립기념관",
+  "region": "충청남도",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-chungnam-hyeonchungsa",
+  "country": "kr",
+  "name_ko": "현충사",
+  "name_local": "현충사",
+  "region": "충청남도",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-chungnam-chollipo-arboretum",
+  "country": "kr",
+  "name_ko": "천리포수목원",
+  "name_local": "천리포수목원",
+  "region": "충청남도",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-chungbuk-danyang-parent",
+  "country": "kr",
+  "name_ko": "단양",
+  "name_local": "단양",
+  "region": "충청북도",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-chungbuk-beopjusa",
+  "country": "kr",
+  "name_ko": "속리산 법주사",
+  "name_local": "속리산 법주사",
+  "region": "충청북도",
+  "strength": "weak"
+ },
+ {
+  "key": "kr-chungbuk-uirimji",
+  "country": "kr",
+  "name_ko": "의림지",
+  "name_local": "의림지",
+  "region": "충청북도",
+  "strength": "weak"
+ }
+]
