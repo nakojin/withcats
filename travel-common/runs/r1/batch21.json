@@ -1,0 +1,26 @@
+[
+ {
+  "key": "bj-mutianyu",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "무톈위 만리장성",
+  "name_local": "慕田峪长城",
+  "region": "베이징시 베이징"
+ },
+ {
+  "key": "nature-zjj-02",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "천문산",
+  "name_local": "天门山国家森林公园",
+  "region": "후난성 장자제 융딩구"
+ },
+ {
+  "key": "nature-zjj-01",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "장자제 국가삼림공원·우링위안 핵심 관광구",
+  "name_local": "张家界国家森林公园／武陵源核心景区",
+  "region": "후난성 장자제 우링위안구"
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "key": "east-qd-05",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "칭다오맥주박물관",
+  "name_local": "青岛啤酒博物馆",
+  "region": "산둥성 칭다오"
+ },
+ {
+  "key": "bj-palace",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "고궁박물원(자금성)",
+  "name_local": "故宫博物院",
+  "region": "베이징시 베이징"
+ },
+ {
+  "key": "bj-badaling",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "바다링 만리장성",
+  "name_local": "八达岭长城",
+  "region": "베이징시 베이징"
+ }
+]

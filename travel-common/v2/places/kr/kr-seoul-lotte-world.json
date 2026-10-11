@@ -849,5 +849,6 @@
   "fixed_by": null,
   "basis": "수집 claim 으로만 작성, 검증자 검토",
   "run": "pilot1"
- }
+ },
+ "coord_candidates": []
 }

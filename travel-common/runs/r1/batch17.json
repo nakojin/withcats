@@ -1,0 +1,26 @@
+[
+ {
+  "key": "new:jp-tokyo-shibuya-scramble",
+  "status": "new",
+  "country": "jp",
+  "name_ko": "시부야 스크램블 교차로",
+  "name_local": "渋谷スクランブル交差点",
+  "region": "도쿄도 시부야구"
+ },
+ {
+  "key": "new:jp-tokyo-skytree",
+  "status": "new",
+  "country": "jp",
+  "name_ko": "도쿄 스카이트리",
+  "name_local": "東京スカイツリー",
+  "region": "도쿄도 스미다구"
+ },
+ {
+  "key": "new:jp-yamanashi-fuji-kawaguchiko",
+  "status": "new",
+  "country": "jp",
+  "name_ko": "후지산·가와구치코",
+  "name_local": "富士山・河口湖",
+  "region": "야마나시현 후지카와구치코마치"
+ }
+]

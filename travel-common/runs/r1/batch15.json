@@ -1,0 +1,26 @@
+[
+ {
+  "key": "WEST-041",
+  "status": "existing",
+  "country": "jp",
+  "name_ko": "슈리성공원",
+  "name_local": "首里城公園",
+  "region": "오키나와 나하시"
+ },
+ {
+  "key": "central-019",
+  "status": "existing",
+  "country": "jp",
+  "name_ko": "나고야성·혼마루어전",
+  "name_local": "名古屋城・本丸御殿",
+  "region": "아이치 나고야시"
+ },
+ {
+  "key": "new:jp-osaka-usj",
+  "status": "new",
+  "country": "jp",
+  "name_ko": "유니버설 스튜디오 재팬",
+  "name_local": "ユニバーサル・スタジオ・ジャパン",
+  "region": "오사카부 오사카시 고노하나구"
+ }
+]

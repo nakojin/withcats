@@ -2,7 +2,7 @@
  "id": "kr-gangwon-seoraksan-parent",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "설악산",
   "local": "설악산"
@@ -10,7 +10,7 @@
  "admin_region": "강원특별자치도",
  "former_region": null,
  "city": "설악산 외설악 중심 탐방권",
- "address": null,
+ "address": "강원특별자치도 속초시 설악산로 1055 (소공원) / 탐방안내소 설악산로 833 / 케이블카 설악산로 1085",
  "coord": {
   "lat": 38.194264,
   "lng": 128.474536,
@@ -21,93 +21,832 @@
   "osm": "node/3803636181"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "설악산은 1982년 유네스코 생물권보전지역으로 지정된 한국 두 번째로 큰 국립공원으로, 공룡능선과 천불동계곡이 대표 경관이다.",
+ "description": "설악산은 1982년 유네스코 생물권보전지역으로 지정된 한국 두 번째로 큰 국립공원으로, 공룡능선과 천불동계곡이 대표 경관이다. 속초 소공원에서 시작하는 울산바위 코스는 7.6km에 약 4시간, 대청봉 코스는 16km에 약 10시간으로 안내된다. 걷기 어렵다면 소공원 부근 케이블카로 권금성까지 오를 수 있고 편도 5분, 왕복 10분이 걸린다. 케이블카는 강풍·점검 때 운행이 중단될 수 있으며 사전 예약 없이 당일 현장에서만 산다. 설악동 탐방안내소는 무료로 09:00~17:00에 열고 월요일은 쉰다. 산불 예방 기간에는 비선대~대청봉 상부 구간이 통제된 바 있어 입산 전 확인이 필요하다.",
+ "highlights": [
+  "공룡능선·천불동계곡 등 유네스코 생물권보전지역의 경관",
+  "소공원에서 울산바위까지 7.6km, 약 4시간 코스",
+  "케이블카로 권금성까지 편도 5분, 왕복 10분",
+  "케이블카는 예약 없이 당일 현장 구매",
+  "설악동 탐방안내소는 무료이며 안내소 주차장도 무료"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c1",
+    "r1-b07-c2",
+    "r1-b07-c3"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c4",
+    "r1-b07-c5",
+    "r1-b07-c6",
+    "r1-b07-c7",
+    "r1-b07-c8"
+   ],
+   "gap": null
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c12",
+    "r1-b07-c13"
+   ],
+   "gap": null
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c9",
+    "r1-b07-c10"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "오늘(2026-10-11) 케이블카 운행시간은 매일 갱신되는 홈페이지 표시 내용이라 고정 URL로 확인 불가. 게시된 예시는 7월 날짜뿐",
+     "detail": "hours",
+     "run": "r1-b07"
+    }
+   ]
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c14",
+    "r1-b07-c15"
+   ],
+   "gap": null
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c16",
+    "r1-b07-c17",
+    "r1-b07-c18",
+    "r1-b07-c19"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "설악산 입장료 3,500원 표기를 일부 검색 결과에서 봤으나 공식 페이지에서 확인되지 않음. 관광공사 탐방안내소는 무료, 운영사는 문화재구역 입장료 없음으로 안내. 국립공원공단(knps.or.kr)은 WAF로 차단되어 직접 확인 불가",
+     "detail": "fees.conflict",
+     "run": "r1-b07"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c21",
+    "r1-b07-c22"
+   ],
+   "gap": null
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "결제수단(카드·현금·모바일)은 운영사 페이지에 명시되지 않음"
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c30"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내·오디오가이드 여부는 출처에 없음",
+     "detail": "language",
+     "run": "r1-b07"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c24",
+    "r1-b07-c25",
+    "r1-b07-c26",
+    "r1-b07-c27"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "입산 통제 2026년 정확한 구간·기간은 국립공원공단 접근 불가로 확인 못함. 2024-09 갱신 기사 기준은 stale_source(12개월 이상 경과)",
+     "detail": "caution",
+     "run": "r1-b07"
+    }
+   ]
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b07-c1",
+   "field": "location",
+   "text": "설악동 탐방안내소 주소는 강원특별자치도 속초시 설악산로 833이다.",
+   "original_text": null,
+   "value": "속초시 설악산로 833",
+   "verdict": "verified",
+   "verify_note": "Page gives 설악산로 833 (설악동)",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97563",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c2",
+   "field": "location",
+   "text": "설악산 소공원(등산로 시작점) 주소는 속초시 설악산로 1055다.",
+   "original_text": null,
+   "value": "속초시 설악산로 1055",
+   "verdict": "verified",
+   "verify_note": "Page gives 설악산로 1055 설악산소공원. Stale source (Sep 2024)",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=204732",
+     "type": "national_tourism",
+     "page_updated": "2024-09",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c3",
+   "field": "location",
+   "text": "설악 케이블카 주소는 강원도 속초시 설악산로 1085다.",
+   "original_text": null,
+   "value": "속초시 설악산로 1085",
+   "verdict": "verified",
+   "verify_note": "Operator site still uses the old name 강원도. The current official name is 강원특별자치도",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c4",
+   "field": "access",
+   "text": "속초 시외버스터미널에서 7번 또는 7-1번 시내버스를 타고 설악산 소공원 정류장에서 내리면 된다.",
+   "original_text": null,
+   "value": "7번, 7-1번",
+   "verdict": "verified",
+   "verify_note": "Bus No. 7 or 7-1 to the Sogongwon Park stop",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=204732",
+     "type": "national_tourism",
+     "page_updated": "2024-09",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c5",
+   "field": "access",
+   "text": "케이블카 운영사는 소공원 입구에서 케이블카까지 걸어서 5분이라고 안내한다.",
+   "original_text": null,
+   "value": "도보 5분",
+   "verdict": "verified",
+   "verify_note": "Found on https://www.sorakcablecar.co.kr/guide, not on the root URL that was cited. Update the source URL",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c6",
+   "field": "access",
+   "text": "서울에서 속초행 고속버스는 약 2시간 30분, 시외버스는 약 2시간 10분이며 약 30분 간격으로 운행한다고 운영사가 안내한다.",
+   "original_text": null,
+   "value": "고속 2시간30분 / 시외 2시간10분",
+   "verdict": "verified",
+   "verify_note": "Found on /guide, not on the root URL",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c7",
+   "field": "parking",
+   "text": "탐방안내소에는 주차장이 있고 주차요금은 무료다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "Parking available, ParkingFees: Free",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97563",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c8",
+   "field": "parking",
+   "text": "케이블카 인근 국립공원 주차장 요금은 케이블카 운영사와 무관하며 주차장 문의는 033-636-4050이다.",
+   "original_text": null,
+   "value": "033-636-4050",
+   "verdict": "verified",
+   "verify_note": "From /guide. It also says the cable car has no dedicated parking and visitors must use the paid Sinheungsa lot",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c9",
+   "field": "hours",
+   "text": "설악동 탐방안내소 운영시간은 09:00~17:00다.",
+   "original_text": null,
+   "value": "09:00-17:00",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97563",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c10",
+   "field": "hours",
+   "text": "케이블카 운행시간은 계절·기후에 따라 달라 홈페이지 첫 화면에 매일 게시되며, 마지막 케이블카를 타면 권금성에서 20분 정도만 관람할 수 있다.",
+   "original_text": "케이블카 운행시간은 계절·기후에 따라 달라 홈페이지 첫 화면에 매일 게시되며 마지막 탑승 시 권금성에서는 10분 정도만 머물 수 있다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "The /guide FAQ says 20 minutes, not 10",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c11",
+   "field": "hours",
+   "text": "케이블카 운영사 게시 예시는 2026-07-12 08:30~19:00, 2026-07-13 09:00~19:00이다(오늘 기준 과거 날짜).",
+   "original_text": null,
+   "value": "08:30-19:00 / 09:00-19:00 (7월 예시)",
+   "verdict": "unverifiable",
+   "verify_note": "Hours on the site are loaded dynamically and showed '확인중'. The July examples were not found, and those dates are in the past anyway",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c12",
+   "field": "duration",
+   "text": "트레킹 코스는 소공원~신흥사~흔들바위~울산바위~소공원 7.6km 약 4시간, 소공원~비선대~희운각대피소~대청봉~남설악(오색) 16km 약 10시간으로 안내된다(2024년 9월 기준).",
+   "original_text": "트레킹 코스는 소공원~울산바위 7.6km 약 4시간, 소공원~대청봉 16km 약 10시간으로 안내된다.",
+   "value": "7.6km 4시간 / 16km 10시간",
+   "verdict": "corrected",
+   "verify_note": "The Daecheongbong route ends at Osaek, not at Sogongwon. Stale source (Sep 2024)",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=204732",
+     "type": "national_tourism",
+     "page_updated": "2024-09",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c13",
+   "field": "duration",
+   "text": "케이블카는 편도 5분, 왕복 10분이며 권금성에서 머무는 시간은 제한이 없다.",
+   "original_text": null,
+   "value": "편도 5분 / 왕복 10분",
+   "verdict": "verified",
+   "verify_note": "/guide FAQ, and the homepage gives about 5 min one way",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c14",
+   "field": "closed_days",
+   "text": "탐방안내소는 월요일이 휴무다.",
+   "original_text": null,
+   "value": "월요일",
+   "verdict": "verified",
+   "verify_note": "Holiday: Mondays",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97563",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c15",
+   "field": "closed_days",
+   "text": "케이블카는 강풍·악천후나 안전점검이 필요할 때 운행이 중단될 수 있다.",
+   "original_text": "케이블카는 연중무휴이나 기상이변이나 안전점검 때 전면 중단된다.",
+   "value": "연중무휴",
+   "verdict": "corrected",
+   "verify_note": "'연중무휴' does not appear on the root, /guide or /about pages. The suspension wording comes from /about and /guide",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c16",
+   "field": "fees",
+   "text": "설악산 탐방안내소는 입장 요금이 무료다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "Fees: Free",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97563",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c17",
+   "field": "fees",
+   "text": "케이블카 요금은 왕복이며 대인(중학생 이상) 16,000원, 소인(37개월~초등학생) 12,000원, 36개월 미만은 무료다.",
+   "original_text": "케이블카 요금은 왕복이며 대인(중학생 이상) 16,000원, 소인(36개월~초등생) 12,000원, 36개월 미만은 무료다.",
+   "value": "16000/12000원, 유아 무료",
+   "verdict": "corrected",
+   "verify_note": "The child band starts at 37 months, not 36. Fares are round trip only; no one-way tickets are sold",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c18",
+   "field": "fees",
+   "text": "케이블카 할인은 국가유공자·중증~2급 장애 대인 13,000원, 소인 9,500원, 65세 이상 14,000원, 속초시민 대인 8,000원·소인 6,000원이며 중복 적용되지 않고 현장 증빙이 필요하다.",
+   "original_text": null,
+   "value": "13000/9500/14000/8000/6000원",
+   "verdict": "verified",
+   "verify_note": "/guide. It adds: discounts apply only to Korean nationals in person, 속초시민 1 ticket per person, no group discount",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c19",
+   "field": "fees",
+   "text": "운영사는 2026.07.18~08.23, 2026.09.19~11.15를 할인 비적용 기간으로 표기하며 경로우대는 성수기에는 적용되지 않는다.",
+   "original_text": null,
+   "value": "2026-07-18~08-23, 09-19~11-15",
+   "verdict": "verified",
+   "verify_note": "/guide",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c20",
+   "field": "fees",
+   "text": "소공원 쪽 문화재구역(신흥사) 입구에는 입장료가 없다고 운영사가 안내한다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "unverifiable",
+   "verify_note": "The site only gives an inquiry number for 문화재구역 admission (033-636-8755, Sinheungsa). It does not say admission is free",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c21",
+   "field": "reservation",
+   "text": "케이블카는 사전 예약이 없고 당일 현장 구매만 가능하다.",
+   "original_text": null,
+   "value": "예약 불가, 현장 구매",
+   "verdict": "verified",
+   "verify_note": "Stated on both the homepage and /guide",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c22",
+   "field": "reservation",
+   "text": "탑승 10분 전까지 전액 환불되며 이후 환불·시간 변경은 20% 감액되고, 강풍 등으로 운행이 중단되면 미사용 표는 전액 환불된다.",
+   "original_text": null,
+   "value": "10분 전까지 전액 환불",
+   "verdict": "verified",
+   "verify_note": "/guide",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c23",
+   "field": "tip",
+   "text": "매표소는 창구와 키오스크가 있으며 휠체어 이용 시 창구에서 구매해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "unverifiable",
+   "verify_note": "Kiosk and wheelchair ticket-window wording not found. The site only mentions the 1층 매표소",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c24",
+   "field": "caution",
+   "text": "케이블카에는 유모차를 실을 수 없으며 탑승장 건물 외부 오른쪽의 무료 유모차 보관소를 이용한다.",
+   "original_text": "케이블카는 유모차 탑승 불가(건물 우측 무료 보관소 이용)이고 반려동물은 어떤 방식으로도 탑승·건물 출입이 불가하다(시각장애인 안내견 제외).",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "No pet rule found on the site",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c25",
+   "field": "caution",
+   "text": "권금성에서 걸어 내려오는 등산로가 없어 반드시 케이블카로 내려와야 하며 설악산국립공원 전 지역은 금연이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "/guide FAQ, and the homepage says there is no trail down",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c26",
+   "field": "caution",
+   "text": "휠체어도 탑승할 수 있으며 엘리베이터로 2층 탑승장까지 이동한다.",
+   "original_text": "휠체어는 탑승 가능하며 창구에서 종류와 대수를 알려야 하고 케이블카 안에는 의자가 없어 서서 이용한다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "The ticket-window notice and 'no seats' details were not found",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c27",
+   "field": "caution",
+   "text": "산불 예방 기간(3월 2일~5월 15일, 11월 15일~12월 15일)에는 비선대~대청봉 상부 구간이 통제되고 소공원~비선대만 열린다고 안내된 바 있다(2024년 9월 기준).",
+   "original_text": null,
+   "value": "3/2-5/15, 11/15-12/15 (2024 기준)",
+   "verdict": "verified",
+   "verify_note": "Matches the article. Stale source (Sep 2024). Check the current KNPS closure notice",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=204732",
+     "type": "national_tourism",
+     "page_updated": "2024-09",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c28",
+   "field": "description",
+   "text": "설악산국립공원은 1982년 유네스코 생물권보전지역으로 지정된 한국 두 번째로 큰 국립공원이며 공룡능선과 천불동계곡이 유명하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Page also says it was the first site in Korea designated (1982)",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=204732",
+     "type": "national_tourism",
+     "page_updated": "2024-09",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c29",
+   "field": "highlight",
+   "text": "케이블카의 도착지는 권금성이며 정상에는 봉화대와 안락암이라는 암자가 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "/guide FAQ, and the homepage mentions 봉화대 and 안락암",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c30",
+   "field": "language",
+   "text": "관광공사 1330 여행 안내는 한국어·영어·일본어·중국어로 이용할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97563",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c31",
+   "field": "tip",
+   "text": "권금성 쪽 1·2층에 스낵코너와 커피숍이 있고, 화장실은 물 대신 거품을 쓰는 방식이라 가급적 티켓 구매 전 소공원 화장실 이용을 권한다.",
+   "original_text": "권금성에는 1·2층 스낵코너와 커피숍이 있고 화장실은 거품식이라 탑승 전 소공원이나 건물 2층 화장실 이용을 권한다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "The site does not mention the 2nd-floor toilet",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "type": "operator",
+     "page_updated": "2026-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-s1",
+   "field": "parking",
+   "text": "설악 케이블카 전용 주차장은 없고 신흥사 유료 주차장을 이용해야 한다(주차 문의 033-636-4050).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/guide",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-s2",
+   "field": "hours",
+   "text": "케이블카는 손님이 적으면 10~15분, 많으면 5분 간격으로 운행한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/guide",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-s3",
+   "field": "caution",
+   "text": "케이블카 캐빈에는 냉난방이 없고, 탑승권은 분실 시 재발급되지 않으며, 주말에는 대체로 붐빈다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.sorakcablecar.co.kr/guide",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b07",
+   "text": "Visitor center parking is free (visitkorea 97563), but the operator says cable-car visitors must use the paid Sinheungsa lot (/guide)"
+  },
+  {
+   "run": "r1-b07",
+   "text": "The cable-car operator uses the old region name 강원도. Visitkorea uses 강원특별자치도"
+  },
+  {
+   "run": "r1-b07",
+   "text": "Article 204732 (last updated Sep 2024) is more than 12 months old. stale_source applies to c2, c4, c12, c27 and c28. The KNPS site seorak.knps.or.kr was blocked by WAF and could not be cross-checked"
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -197,6 +936,47 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b07",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 31,
+    "verdicts": {
+     "verified": 21,
+     "corrected": 7,
+     "outdated": 0,
+     "unverifiable": 3,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "소공원·케이블카 인근 주차장 요금은 운영사가 무관하다고 밝히며 금액은 출처에 없음(033-636-4050 문의)",
+   "run": "r1-b07"
+  },
+  {
+   "topic": "stale_source",
+   "note": "trail 정보 출처(visitkorea 204732)는 2024-09 갱신, 12개월 이상 경과. knps.or.kr 대체 출처 접근 불가",
+   "run": "r1-b07"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "케이블카는 연중무휴 (c15 unverifiable for that part)",
+   "케이블카는 연중무휴, 예약 없이 당일 현장 구매 - the 연중무휴 part has no source",
+   "탐방안내소는 무료이며 주차도 무료 - true only for the visitor center (설악산로 833). The cable car/소공원 area uses the paid Sinheungsa lot, so the sentence is misleading"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b07"
  }
 }

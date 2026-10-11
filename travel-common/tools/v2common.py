@@ -18,7 +18,8 @@ CONTENT_FIELDS = ('description', 'highlight', 'tip')
 
 # 공개 가능한 판정. owner_verified 는 운영자가 직접 채운 값(사이트에 별도 표시).
 PUBLISHABLE = {'verified', 'corrected', 'outdated', 'owner_verified'}
-VERDICTS = PUBLISHABLE | {'unverifiable', 'rejected', 'pending', 'suggested'}
+VERDICTS = PUBLISHABLE | {'unverifiable', 'rejected', 'pending', 'suggested', 'superseded'}
+# superseded: 검증자가 '지금은 다르다(outdated)'고 했지만 새 문장을 주지 않은 경우. 옛 문장이므로 공개하지 않는다.
 SOURCE_TYPES = {'official', 'government', 'national_tourism', 'operator', 'owner_input'}
 GAP_REASONS = {'not_in_official_source', 'official_unreachable', 'conflicting_sources', 'not_collected'}
 

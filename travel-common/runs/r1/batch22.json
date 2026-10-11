@@ -1,0 +1,26 @@
+[
+ {
+  "key": "nature-cbs-01",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "백두산 중국 측 북경구",
+  "name_local": "长白山北景区",
+  "region": "지린성 장백산 보호개발구 츠베이·이도백하 거점"
+ },
+ {
+  "key": "nature-cbs-02",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "백두산 중국 측 서경구",
+  "name_local": "长白山西景区",
+  "region": "지린성 장백산 보호개발구 츠시·송강하 거점"
+ },
+ {
+  "key": "cd-panda-base",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "청두 판다번식연구기지",
+  "name_local": "成都大熊猫繁育研究基地",
+  "region": "쓰촨성 청두"
+ }
+]

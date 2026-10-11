@@ -1,0 +1,26 @@
+[
+ {
+  "key": "kr-gangwon-gyeongpodae",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "경포대",
+  "name_local": "경포대",
+  "region": "강원특별자치도 강릉시 경포로 365"
+ },
+ {
+  "key": "kr-gyeonggi-suwon-hwaseong",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "수원화성",
+  "name_local": "수원화성",
+  "region": "경기도 수원시 장안구 영화동 320-2 일원; 화성행궁은 팔달구 정조로 825"
+ },
+ {
+  "key": "kr-gyeonggi-namhansanseong",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "남한산성",
+  "name_local": "남한산성",
+  "region": "경기도 광주시 남한산성면 산성리"
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "key": "kr-busan-gamcheon-culture-village",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "감천문화마을",
+  "name_local": "감천문화마을",
+  "region": "부산광역시 부산 사하구 감내2로 203(안내센터) 일대"
+ },
+ {
+  "key": "new:kr-seoul-myeongdong",
+  "status": "new",
+  "country": "kr",
+  "name_ko": "명동",
+  "name_local": "명동",
+  "region": "서울특별시 중구"
+ },
+ {
+  "key": "WEST-042",
+  "status": "existing",
+  "country": "jp",
+  "name_ko": "오키나와 추라우미수족관",
+  "name_local": "沖縄美ら海水族館",
+  "region": "오키나와 모토부정"
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "key": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "경주 대릉원·동궁과 월지",
+  "name_local": "경주 대릉원·동궁과 월지",
+  "region": "경상북도 경북 경주시 황남동 대릉원·원화로 102 동궁과 월지"
+ },
+ {
+  "key": "kr-gyeongbuk-andong-hahoe-village",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "안동 하회마을",
+  "name_local": "안동 하회마을",
+  "region": "경상북도 안동시 풍천면 하회리"
+ },
+ {
+  "key": "kr-gyeongbuk-pohang-homigot",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "포항 호미곶",
+  "name_local": "포항 호미곶",
+  "region": "경상북도 경북 포항시 남구 호미곶면 해맞이광장 일대"
+ }
+]

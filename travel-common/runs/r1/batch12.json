@@ -1,0 +1,26 @@
+[
+ {
+  "key": "central-032",
+  "status": "existing",
+  "country": "jp",
+  "name_ko": "오사카성 천수각",
+  "name_local": "大阪城天守閣",
+  "region": "오사카 오사카시"
+ },
+ {
+  "key": "jp-east-sensoji",
+  "status": "existing",
+  "country": "jp",
+  "name_ko": "센소지",
+  "name_local": "浅草寺",
+  "region": "도쿄 다이토구"
+ },
+ {
+  "key": "central-027",
+  "status": "existing",
+  "country": "jp",
+  "name_ko": "후시미 이나리 타이샤",
+  "name_local": "伏見稲荷大社",
+  "region": "교토 교토시"
+ }
+]

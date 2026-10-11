@@ -1,0 +1,26 @@
+[
+ {
+  "key": "WEST-032",
+  "status": "existing",
+  "country": "jp",
+  "name_ko": "구마모토성",
+  "name_local": "熊本城",
+  "region": "구마모토 구마모토시"
+ },
+ {
+  "key": "WEST-021",
+  "status": "existing",
+  "country": "jp",
+  "name_ko": "도고온천 본관",
+  "name_local": "道後温泉本館",
+  "region": "에히메 마쓰야마시"
+ },
+ {
+  "key": "jp-east-otaru-canal",
+  "status": "existing",
+  "country": "jp",
+  "name_ko": "오타루 운하",
+  "name_local": "小樽運河",
+  "region": "홋카이도 오타루시"
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "key": "kr-jeju-seongsan-ilchulbong",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "성산일출봉",
+  "name_local": "성산일출봉",
+  "region": "제주특별자치도 서귀포시 성산읍 일출로 284-12"
+ },
+ {
+  "key": "kr-jeju-udo",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "우도",
+  "name_local": "우도",
+  "region": "제주특별자치도 제주시 우도면"
+ },
+ {
+  "key": "kr-jeju-hallasan",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "한라산",
+  "name_local": "한라산",
+  "region": "제주특별자치도 제주 한라산국립공원; 탐방로별 출발점 상이"
+ }
+]

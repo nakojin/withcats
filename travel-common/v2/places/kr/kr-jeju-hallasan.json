@@ -2,7 +2,7 @@
  "id": "kr-jeju-hallasan",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "한라산",
   "local": "한라산"
@@ -10,7 +10,7 @@
  "admin_region": "제주특별자치도",
  "former_region": null,
  "city": "제주 한라산국립공원; 탐방로별 출발점 상이",
- "address": null,
+ "address": "제주특별자치도 제주시 1100로 2070-61 (한라산국립공원관리소 소재지, 탐방로별 출발점 상이)",
  "coord": {
   "lat": 33.361754,
   "lng": 126.529198,
@@ -21,93 +21,815 @@
   "osm": "node/8334051398"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "한라산은 해발 1,950m로 남한에서 가장 높은 산이며, 천연기념물 제182호로 지정되었고 1970년 국립공원이 되었으며 유네스코 세계자연유산 구성 요소이다.",
+ "description": "한라산은 해발 1,950m로 남한에서 가장 높은 산이며, 천연기념물 제182호로 지정되었고 1970년 국립공원이 되었으며 유네스코 세계자연유산 구성 요소이다. 백록담 정상은 성판악(9.6km, 편도 약 4시간 30분)과 관음사(8.7km, 편도 약 5시간) 탐방로로만 오를 수 있고, 진달래밭~백록담과 삼각봉~백록담 구간은 사전 탐방예약이 필요하다. 어리목·영실·돈내코·어승생악·석굴암 코스는 예약 없이 걸을 수 있다. 입장료는 없고 주차료만 낸다. 성판악·관음사 탐방로는 05:00부터 입산할 수 있으며 정상 방향 통제 시각은 4~9월 12:30, 10~3월 11:30이다. 일회용 도시락 용기 반입은 금지된다.",
+ "highlights": [
+  "해발 1,950m, 남한 최고봉 / 천연기념물 제182호",
+  "백록담 코스는 성판악 9.6km·관음사 8.7km뿐",
+  "진달래밭~백록담, 삼각봉~백록담은 사전 예약 필수",
+  "입장료 없음(주차료만 부과)",
+  "성판악·관음사 입산 05:00부터, 정상 방향 통제 4~9월 12:30 / 10~3월 11:30"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c1"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한라산 전체의 행정구역(제주시·서귀포시 걸침)을 명시한 공식 문구는 못 찾음. 관리소 소재지가 제주시인 점만 확인됨.",
+     "detail": "location.admin_region",
+     "run": "r1-b04"
+    }
+   ]
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c3",
+    "r1-b04-c4",
+    "r1-b04-c5",
+    "r1-b04-c6"
+   ],
+   "gap": null
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c13",
+    "r1-b04-c14"
+   ],
+   "gap": null
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c10",
+    "r1-b04-c11",
+    "r1-b04-c12"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "visithalla 탐방로 페이지와 비짓제주 페이지에 갱신일 표기가 없음.",
+     "detail": "hours.page_updated",
+     "run": "r1-b04"
+    }
+   ]
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "정기 휴무일 안내 없음. 기상 이변 시 통제된다는 문구만 있음."
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c7",
+    "r1-b04-c8",
+    "r1-b04-c9"
+   ],
+   "gap": null
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c15",
+    "r1-b04-c16",
+    "r1-b04-c17"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "1인 4명·주1회·취소 규정은 2022-03-29 공지이며, 2025-12-01 이후 시간대 변경 공지는 본문을 확인하지 못해 현재 규정과 같은지 불명.",
+     "detail": "reservation.current_rules",
+     "run": "r1-b04"
+    }
+   ]
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "주차장·야영장 결제 수단 안내를 공식 페이지에서 찾지 못함."
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내판·외국어 지원 정보를 공식 페이지에서 찾지 못함(예약시스템 언어 지원 미확인)."
    }
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c18",
+    "r1-b04-c20",
+    "r1-b04-c21",
+    "r1-b04-c22"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "관음사 삼각봉~백록담 통제가 9월 30일 종료 후 정상 재개됐는지 공식 페이지에서 확인하지 못함. 방문 전 예약시스템 공지 확인 필요.",
+     "detail": "caution.gwaneumsa_reopen",
+     "run": "r1-b04"
+    }
+   ]
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b04-c1",
+   "field": "location",
+   "text": "한라산국립공원관리소 소재지 및 비짓제주 표기 주소는 제주특별자치도 제주시 1100로 2070-61이다. 탐방로는 어리목·영실·성판악·관음사·돈내코·어승생악·석굴암 7곳이다.",
+   "original_text": null,
+   "value": "제주시 1100로 2070-61",
+   "verdict": "verified",
+   "verify_note": "VisitJeju address. The visithalla footer gives 관리소 at 1100로 2070-61(해안동). VisitJeju also lists 7 official trails",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500685",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c3",
+   "field": "access",
+   "text": "성판악 탐방로 대중교통은 281번(제주버스터미널~서귀포버스터미널, 06:00~22:00, 약 45~50분)과 181·182번(공항 연결)이 경유한다.",
+   "original_text": null,
+   "value": "281번 06:00-22:00",
+   "verdict": "verified",
+   "verify_note": "vh61: 281번 06:00-22:00, about 45/50min; 181/182 airport",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c4",
+   "field": "access",
+   "text": "관음사 탐방로는 475번 버스(첫차 06:20, 막차 19:45, 배차 45~90분)를 이용하며 공항·터미널 직행이 없어 산천단 하차 후 475번으로 환승해야 한다.",
+   "original_text": null,
+   "value": "475번 06:20-19:45",
+   "verdict": "verified",
+   "verify_note": "vh62 matches",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=62",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c5",
+   "field": "parking",
+   "text": "성판악 주차장은 최대 156대이며, 대체 주차장으로 5.16도로변(제주국제대학교 인근) 환승 주차장(199대, 무료)이 있다.",
+   "original_text": "성판악 주차장은 최대 156대이며, 대체로 5.16도로변(제주국제대학교 인근) 환승 주차장(199대, 무료)이 있다.",
+   "value": "156대 / 대체 199대 무료",
+   "verdict": "corrected",
+   "verify_note": "The source says '대체 주차장' (an alternative car park), not '대체로' ('generally')",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c6",
+   "field": "parking",
+   "text": "관음사 주차장은 최대 192대 주차할 수 있다.",
+   "original_text": null,
+   "value": "192대",
+   "verdict": "verified",
+   "verify_note": "vh62",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=62",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c7",
+   "field": "fees",
+   "text": "입장료는 없고 주차 및 시설사용료만 부과된다.",
+   "original_text": null,
+   "value": "입장료 무료",
+   "verdict": "verified",
+   "verify_note": "FAQ: 입장료는 없으며 주차및 시설사용료 부과",
+   "sources": [
+    {
+     "url": "https://jeju.go.kr/hallasan/notice/faq.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c8",
+   "field": "fees",
+   "text": "소형차 주차료는 당일 최초 1시간 1,000원, 1시간 초과 20분당 500원 가산, 1일 최대 13,000원(9시간 이상)이며 최초 30분은 무료이다. 중·대형은 2,000원, 20분당 800원, 1일 최대 20,000원이다. 탐방로별로 따로 징수한다.",
+   "original_text": null,
+   "value": "소형 1000원/h, 최대 13000원",
+   "verdict": "verified",
+   "verify_note": "FAQ table matches",
+   "sources": [
+    {
+     "url": "https://jeju.go.kr/hallasan/notice/faq.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c9",
+   "field": "fees",
+   "text": "1종 저공해차량(전기차 포함)과 경차는 주차료 50% 감면 대상이다.",
+   "original_text": null,
+   "value": "50% 감면",
+   "verdict": "verified",
+   "verify_note": "FAQ 요금감면대상(50%)",
+   "sources": [
+    {
+     "url": "https://jeju.go.kr/hallasan/notice/faq.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c10",
+   "field": "hours",
+   "text": "성판악·관음사 모두 입산은 05:00부터이며, 동절기(10~3월)와 하절기(4~9월) 시각이 같다.",
+   "original_text": null,
+   "value": "입산 05:00",
+   "verdict": "verified",
+   "verify_note": "vh61/62",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=62",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c11",
+   "field": "hours",
+   "text": "정상 방향 통제는 탐방로 입구와 진달래밭·삼각봉 대피소에서 하절기(4~9월) 12:30, 동절기(10~3월) 11:30부터이다.",
+   "original_text": null,
+   "value": "하절기 12:30 / 동절기 11:30",
+   "verdict": "verified",
+   "verify_note": "vh61/62. The vh49 table also matches",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=62",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c12",
+   "field": "hours",
+   "text": "백록담 정상에서 하산을 시작해야 하는 시각은 하절기 14:30, 동절기 13:30이다.",
+   "original_text": null,
+   "value": "하절기 14:30 / 동절기 13:30",
+   "verdict": "verified",
+   "verify_note": "vh61/62",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=62",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c13",
+   "field": "duration",
+   "text": "성판악 탐방로는 9.6km로 진달래밭까지 편도 3시간, 정상까지 편도 4시간 30분, 왕복 9시간이다.",
+   "original_text": null,
+   "value": "편도 4h30 / 왕복 9h",
+   "verdict": "verified",
+   "verify_note": "vh61",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c14",
+   "field": "duration",
+   "text": "관음사 탐방로는 8.7km로 삼각봉대피소까지 편도 3시간 20분, 정상까지 편도 5시간, 왕복 10시간이다.",
+   "original_text": null,
+   "value": "편도 5h / 왕복 10h",
+   "verdict": "verified",
+   "verify_note": "vh62",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=62",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c15",
+   "field": "reservation",
+   "text": "백록담 정상 탐방에는 사전 탐방예약이 필요하며 성판악 진달래밭~백록담, 관음사 삼각봉~백록담 구간에 적용된다. 어리목·영실·돈내코·어승생악·석굴암과 예약 구간 이전은 예약 없이 탐방한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "VisitJeju 예약 section",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500685",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c16",
+   "field": "reservation",
+   "text": "예약은 한라산탐방로 예약시스템(visithalla.jeju.go.kr)에서 전월 첫 업무개시일 09:00부터 다음 달 말일까지 신청할 수 있고, 정상 운영 시 1일 성판악 1,000명, 관음사 500명이다.",
+   "original_text": null,
+   "value": "성판악 1000명/관음사 500명",
+   "verdict": "verified",
+   "verify_note": "VisitJeju. vh49 also gives 매월 첫 업무시작일 09시",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500685",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c17",
+   "field": "reservation",
+   "text": "2022-03-29 공지 기준으로 1인 최대 4명, 주 1회(탐방일 기준)까지 예약할 수 있고, 예약한 입산 종료시간 전까지 취소해야 하며 이후 미입산은 부도 처리되어 페널티가 부과된다. 최초 예약과 같은 인증방법(실명/SNS)으로 로그인해야 취소할 수 있다. 공지 날짜가 오래되어 현재 규정은 예약시스템에서 재확인이 필요하다.",
+   "original_text": null,
+   "value": "1인 4명, 주1회",
+   "verdict": "verified",
+   "verify_note": "Notice matches, but it is dated 2022-03-29 (stale). It also allows next-day rebooking after a used QR",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/board/boardView.do?bbsId=notice&seq=1245",
+     "type": "government",
+     "page_updated": "2022-03-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c18",
+   "field": "caution",
+   "text": "2025년 5월 3일 이후 성판악은 사라오름~진달래밭대피소, 관음사는 탐라계곡~삼각봉대피소까지는 입산시간 내 예약 없이 이용할 수 있고, 대피소에서 백록담 구간은 예약자만 확인 후 진행한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "FAQ",
+   "sources": [
+    {
+     "url": "https://jeju.go.kr/hallasan/notice/faq.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c19",
+   "field": "caution",
+   "text": "2026년 8월 1일~9월 30일에는 관음사 삼각봉~백록담 구간이 낙석방지시설 보수공사로 통제되어 성판악으로만 정상에 오를 수 있다고 공지되어 있다. 오늘(2026-10-11)은 이 기간 이후이며 재개 여부는 확인하지 못했다.",
+   "original_text": null,
+   "value": "2026-08-01~2026-09-30",
+   "verdict": "superseded",
+   "verify_note": "The 8/1-9/30 closure has ended. vh62 now shows '탐방 가능' with normal 삼각봉 control times. VisitJeju still carries the notice",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500685",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c20",
+   "field": "caution",
+   "text": "정상은 해발 1,950m라 공기가 희박해 지병이 있는 탐방객의 안전사고가 잦다. 산행 경험이 없거나 지병이 있으면 1,700고지까지 가는 어리목·영실 탐방로를 권한다.",
+   "original_text": null,
+   "value": "1,950m",
+   "verdict": "verified",
+   "verify_note": "vh61",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c21",
+   "field": "caution",
+   "text": "성판악 탐방로는 여름철 말벌에 쏘이지 않도록 주의해야 하고, 하산 시 다리 골절과 탈진 사고가 날 수 있어 그룹 탐방을 권한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "vh61",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c22",
+   "field": "caution",
+   "text": "청정 환경 보전을 위해 일회용 도시락 용기 반입이 금지된다(김밥, 햄버거는 허용). 백록담 남벽 코스는 낙석 위험으로 통제 중이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "VisitJeju",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500685",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c23",
+   "field": "tip",
+   "text": "성판악에는 매점이 없고 화장실은 성판악사무실·속밭·진달래밭 대피소에 있으며, 관음사 입구에는 개인 운영 휴게소가 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "vh61/62",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=62",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c24",
+   "field": "tip",
+   "text": "문의는 성판악 064-725-9950, 관음사 064-756-9950이다.",
+   "original_text": null,
+   "value": "064-725-9950 / 064-756-9950",
+   "verdict": "verified",
+   "verify_note": "vh61/62",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=62",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c25",
+   "field": "description",
+   "text": "한라산은 해발 1,950m로 남한 최고봉이며, 1966년 천연기념물 제182호 '한라산 천연보호구역'으로, 1970년 국립공원으로 지정되었다. 2007년 '제주 화산섬과 용암동굴' 세계자연유산 등재로 그 구성요소가 되었고, 2010년 한라산을 포함한 제주도가 세계지질공원으로 인증받았다.",
+   "original_text": "한라산은 해발 1,950m로 남한 최고봉이며, 1966년 천연기념물 제182호, 1970년 국립공원, 2007년 유네스코 세계자연유산 구성 요소, 2010년 세계지질공원 인증을 받았다.",
+   "value": "1,950m",
+   "verdict": "corrected",
+   "verify_note": "The geopark certification went to Jeju Island as a whole. The designated monument is 한라산 천연보호구역",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500685",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c26",
+   "field": "highlight",
+   "text": "성판악 탐방로는 한라산에서 가장 긴 9.6km이며 구상나무 숲이 가장 넓게 형성된 곳이고, 5.8km 지점에서 600m 오르면 사라오름 전망대(산정호수)가 있다.",
+   "original_text": null,
+   "value": "9.6km",
+   "verdict": "verified",
+   "verify_note": "vh61",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c27",
+   "field": "highlight",
+   "text": "관음사 탐방로는 계곡이 깊고 산세가 웅장하며, 입구에서 30분쯤 오르면 박쥐 집단서식지인 구린굴이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "vh62",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=62",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-s1",
+   "field": "caution.gwaneumsa_reopen",
+   "text": "한라산 예약시스템의 관음사 탐방로 페이지는 현재 '탐방 가능(기상 이변 발생 시 통제)'으로 표시하며, 삼각봉대피소 정상 탐방 통제 시각을 하절기 12:30, 동절기 11:30으로 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=62",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-s2",
+   "field": "reservation.current_rules",
+   "text": "예약 후 취소 없이 탐방하지 않으면 1회는 3개월, 2회는 1년간 예약할 수 없다. 예약 완료 시 입력한 전화번호로 입·하산 QR코드가 전송되고, 예약대기 제도는 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=49",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-s3",
+   "field": "hours",
+   "text": "탐방로별 입산 통제 시각은 어리목·영실 통제소 동절기 12:00/하절기 15:00, 돈내코 안내소 10:00/11:00, 어승생악·석굴암 17:00이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=49",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-s4",
+   "field": "location.admin_region",
+   "text": "한라산국립공원관리소 주소는 제주특별자치도 제주시 1100로 2070-61(해안동)로 표기된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-s5",
+   "field": "parking.fee_per_course",
+   "text": "주차장 시설사용료는 탐방로별로 따로 징수한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://jeju.go.kr/hallasan/notice/faq.htm",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b04",
+   "text": "VisitJeju still shows the 2026-08-01~09-30 관음사 삼각봉~백록담 closure, while the live visithalla 관음사 page shows '탐방 가능'."
+  },
+  {
+   "run": "r1-b04",
+   "text": "The 2022-03-29 reservation notice (seq=1245) is more than 12 months old (stale_source). The current vh49 guide neither repeats nor contradicts the 4명/주1회 limits."
+  },
+  {
+   "run": "r1-b04",
+   "text": "Coordinates: VisitJeju 33.36132,126.54195 is about 1.19km from OSM 한라산 (33.36175,126.52920) and about 0.8km from 백록담. It is also about 5-6km from the 관리소 address, which OSM places at 33.3921,126.4941. These coordinates do not match the address."
+  },
+  {
+   "run": "r1-b04",
+   "text": "Admin area: visithalla footer says 1100로 2070-61(해안동), but OSM resolves it to 애월읍 광령리. Confirm from an official address source."
+  },
+  {
+   "run": "r1-b04",
+   "text": "The VisitJeju Hallasan page contradicts itself: older text says '총 5개 코스', newer text says '총 7개'."
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -182,6 +904,49 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b04",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 27,
+    "verdicts": {
+     "verified": 23,
+     "corrected": 2,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 5
+    }
+   }
+  ]
+ },
+ "coord_candidates": [
+  {
+   "lat": 33.36132,
+   "lng": 126.54195,
+   "source": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500685",
+   "verify_note": "VisitJeju value matches, but it is about 1.2km from OSM 한라산 and about 5-6km from the address. See conflicts",
+   "run": "r1-b04"
+  }
+ ],
+ "open_questions": [
+  {
+   "topic": "parking.fee_per_course",
+   "note": "FAQ에 탐방로별 따로 징수한다고만 있고 성판악·관음사 각각의 확정 요금은 불명. FAQ는 목록형 페이지라 안정 URL 여부가 불확실함.",
+   "run": "r1-b04"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "입산은 05:00부터이며 (05:00 is sourced only for 성판악·관음사; other trails follow a different schedule, see vh49)",
+   "입산 05:00부터 (only for 성판악·관음사)"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b04"
  }
 }

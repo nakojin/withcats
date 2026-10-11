@@ -1,0 +1,26 @@
+[
+ {
+  "key": "central-035",
+  "status": "existing",
+  "country": "jp",
+  "name_ko": "도다이지 대불전",
+  "name_local": "東大寺 大仏殿",
+  "region": "나라 나라시"
+ },
+ {
+  "key": "WEST-026",
+  "status": "existing",
+  "country": "jp",
+  "name_ko": "다자이후 덴만구",
+  "name_local": "太宰府天満宮",
+  "region": "후쿠오카 다자이후시"
+ },
+ {
+  "key": "WEST-035",
+  "status": "existing",
+  "country": "jp",
+  "name_ko": "긴린코",
+  "name_local": "金鱗湖",
+  "region": "오이타 유후시"
+ }
+]

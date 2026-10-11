@@ -1,0 +1,26 @@
+[
+ {
+  "key": "kr-seoul-national-museum-korea",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "국립중앙박물관",
+  "name_local": "국립중앙박물관",
+  "region": "서울특별시 용산구 서빙고로 137"
+ },
+ {
+  "key": "kr-gyeonggi-everland",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "에버랜드",
+  "name_local": "에버랜드",
+  "region": "경기도 경기 용인시 처인구 포곡읍 에버랜드로 199"
+ },
+ {
+  "key": "kr-jeonnam-suncheon-bay-garden-overview",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "순천만습지·국가정원",
+  "name_local": "순천만습지·국가정원",
+  "region": "전라남도 순천시 순천만습지·순천만국가정원"
+ }
+]

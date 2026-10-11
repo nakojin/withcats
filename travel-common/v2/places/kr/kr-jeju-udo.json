@@ -2,7 +2,7 @@
  "id": "kr-jeju-udo",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "우도",
   "local": "우도"
@@ -10,7 +10,7 @@
  "admin_region": "제주특별자치도",
  "former_region": null,
  "city": "제주시 우도면",
- "address": null,
+ "address": "제주특별자치도 제주시 우도면 우도로 153",
  "coord": {
   "lat": 33.507257,
   "lng": 126.955001,
@@ -21,93 +21,574 @@
   "osm": "relation/9742044"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "우도는 제주 본섬에 딸린 가장 큰 부속섬으로, 소가 누운 모습을 닮아 소섬 또는 쉐섬으로 불려 왔다.",
+ "description": "우도는 제주 본섬에 딸린 가장 큰 부속섬으로, 소가 누운 모습을 닮아 소섬 또는 쉐섬으로 불려 왔다. 성산항과 종달항에서 배로 약 10~15분 걸리며, 섬 길이는 약 3.8km, 둘레는 약 17km다. 쉬지 않고 걸으면 3~4시간, 검멀레해변·우도봉·서빈백사(홍조단괴 해빈)·하고수동해변 중 한두 곳을 보고 쉬면 3~4시간쯤 든다. 우도해양도립공원 입장료는 어른 1,000원, 청소년·군인 800원, 어린이 500원이고 배 요금은 따로 낸다. 2026년 8월 1일부터 2029년 7월 31일까지 외부 차량 운행 제한이 이어지며 배는 날씨에 따라 못 뜰 수 있다.",
+ "highlights": [
+  "성산항·종달항에서 배로 약 10~15분",
+  "서빈백사(홍조단괴 해빈)는 천연기념물",
+  "검멀레해변, 우도봉, 하고수동해변 중심 코스",
+  "공원 입장료 어른 1,000원, 배 요금 별도",
+  "외부 차량 운행 제한 2026.8.1~2029.7.31 연장"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c2"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "성산포항·종달항 여객터미널 주소는 공식 출처로 확인하지 못함.",
+     "detail": "access.terminal_address",
+     "run": "r1-b04"
+    }
+   ]
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c3",
+    "r1-b04-c4"
+   ],
+   "gap": null
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c5"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "첫배·막배·배차 간격의 공식 시간표를 찾지 못함. 공식 페이지는 당일 확인을 권고할 뿐임.",
+     "detail": "hours.ferry_timetable",
+     "run": "r1-b04"
+    },
+    {
+     "reason": "not_in_official_source",
+     "note": "공식 페이지에 갱신일 표기가 없음. 본문에 2026년 8월 시행 내용이 있어 비교적 최근으로 보임.",
+     "detail": "hours.page_updated",
+     "run": "r1-b04"
+    }
+   ]
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 휴무 안내가 없음. 배는 날씨에 따라 결항 가능."
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c6",
+    "r1-b04-c7"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "도항선 운임은 공식 해운사·행정 페이지에서 확인하지 못함(검색에 나온 금액은 블로그뿐이라 제외).",
+     "detail": "fees.ferry",
+     "run": "r1-b04"
+    }
+   ]
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "배표 사전 예약 여부를 공식 출처에서 확인하지 못함. 해설사 예약만 확인됨."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "결제 수단 안내를 공식 출처에서 찾지 못함."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c11"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 오디오가이드 여부는 확인하지 못함(해설사 해설은 언어 표기 없음).",
+     "detail": "language",
+     "run": "r1-b04"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c8",
+    "r1-b04-c9",
+    "r1-b04-c10"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b04-c1",
+   "field": "location",
+   "text": "비짓제주 기준 주소는 제주특별자치도 제주시 우도면 우도로 153이다.",
+   "original_text": null,
+   "value": "제주특별자치도 제주시 우도면 우도로 153",
+   "verdict": "verified",
+   "verify_note": "VisitJeju: 우도로 153 (지번 연평리 1451-3, 63365)",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c2",
+   "field": "access",
+   "text": "성산항과 종달항에서 우도행 배를 탈 수 있고 항로에 따라 약 10~15분 걸린다.",
+   "original_text": null,
+   "value": "10~15분",
+   "verdict": "verified",
+   "verify_note": "VisitJeju body text",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c3",
+   "field": "duration",
+   "text": "섬은 길이 약 3.8km, 둘레 약 17km이고 쉬지 않고 걸으면 약 3~4시간 걸린다.",
+   "original_text": null,
+   "value": "도보 3~4시간",
+   "verdict": "verified",
+   "verify_note": "VisitJeju body text",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c4",
+   "field": "duration",
+   "text": "주요 관광지 1~2곳을 보고 카페·식당에서 쉬면 대략 3~4시간이 든다.",
+   "original_text": null,
+   "value": "3~4시간",
+   "verdict": "verified",
+   "verify_note": "VisitJeju body text",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c5",
+   "field": "hours",
+   "text": "이용 시간은 선박 운항 시간에 따르며 계절·기상·항로에 따라 바뀌고, 당일 운항 여부와 마지막 출항 시간을 확인해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "VisitJeju 이용안내",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c6",
+   "field": "fees",
+   "text": "우도해양도립공원 입장료는 어른 1,000원, 청소년·군인 800원, 어린이 500원이다.",
+   "original_text": null,
+   "value": "1000/800/500원",
+   "verdict": "verified",
+   "verify_note": "VisitJeju and jeju.go.kr/dorip both give 1000/800/500",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c7",
+   "field": "fees",
+   "text": "장애인 등 조례상 면제 대상은 무료이고, 선박료는 입장료와 별도다.",
+   "original_text": null,
+   "value": "면제 대상 무료, 선박료 별도",
+   "verdict": "verified",
+   "verify_note": "VisitJeju 이용안내",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c8",
+   "field": "caution",
+   "text": "선박 운항은 기상과 해상 상황에 따라 달라질 수 있어 방문 당일 운항정보를 확인해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "VisitJeju body text",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c9",
+   "field": "caution",
+   "text": "2026년 8월 1일부터 2029년 7월 31일까지 우도면 내 외부 차량 운행 제한이 연장된다. 16인승 전세버스, 제1종 저공해 렌터카, 교통약자용·우도 숙박객용 렌터카 등은 조건에 따라 운행할 수 있다.",
+   "original_text": null,
+   "value": "2026-08-01~2029-07-31",
+   "verdict": "verified",
+   "verify_note": "VisitJeju body text",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c10",
+   "field": "caution",
+   "text": "대여 이륜차·원동기장치자전거·개인형 이동장치는 차종, 최고속도, 동력원, 책임보험 가입 여부에 따라 제한 대상이 달라 반입 전 최신 안내 확인이 필요하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "VisitJeju body text",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c11",
+   "field": "language",
+   "text": "문화관광해설사 해설이 연중무휴로 운영된다. 예약은 064-728-4329 또는 현장 접수, 해설은 10:00~18:00(점심 12:00~13:00 제외), 1회 60분이다. 해설 언어는 안내에 없다.",
+   "original_text": null,
+   "value": "해설 10:00-18:00, 60분",
+   "verdict": "verified",
+   "verify_note": "Matches. Page also lists 예약 가능시간 09:00~18:00 and '운영정보는 문의 필요'",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c12",
+   "field": "tip",
+   "text": "문의 전화는 우도해양도립공원 064-728-1527이다.",
+   "original_text": null,
+   "value": "064-728-1527",
+   "verdict": "verified",
+   "verify_note": "VisitJeju 이용안내: 문의 064-728-1527",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c13",
+   "field": "description",
+   "text": "소가 누워 있는 모습을 닮아 소섬 또는 쉐섬으로 불렸으며, 제주의 가장 큰 부속섬이다. 2024년 방문객은 약 121만 8,000명이다.",
+   "original_text": null,
+   "value": "2024 약 121.8만 명",
+   "verdict": "verified",
+   "verify_note": "VisitJeju body text",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c14",
+   "field": "highlight",
+   "text": "제주 우도 홍조단괴 해빈(서빈백사)의 하얀 알갱이는 산호가 아니라 홍조류가 굳은 홍조단괴이며, 천연기념물로 보호된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "VisitJeju body text. Dorip lists 제주 우도 홍조단괴해빈 (천연기념물 438)",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.jeju.go.kr/dorip/udo.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c15",
+   "field": "highlight",
+   "text": "검멀레해변, 우도봉, 하고수동해변이 주요 관광지이며 우도봉에 오르면 우도 전경을 볼 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "VisitJeju body text",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c16",
+   "field": "highlight",
+   "text": "자전거 하이킹과 허용된 전기 이동수단으로 섬을 돌아보는 관광객이 많다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "VisitJeju body text",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-s1",
+   "field": "hours.ferry_timetable",
+   "text": "도립공원 페이지 시간표상 성산항 첫 배는 연중 08:00이고 막배는 월별로 다르다. 정확한 시간은 도항선 운영 업체에서 확인하라고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.jeju.go.kr/dorip/udo.htm",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-s2",
+   "field": "access.terminal_address",
+   "text": "도항선은 성산항↔우도(하우목동항·천진항), 종달항↔우도(하우목동항) 노선이다. 대합실 전화는 성산 064-782-5671, 종달 064-782-7719, 우도 064-783-0448이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.jeju.go.kr/dorip/udo.htm",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-s3",
+   "field": "fees",
+   "text": "도립공원 입장료에는 소형자동차 4,000원, 대형자동차 6,000원 항목이 있으며 도항선 탑승료·터미널 이용료는 포함되지 않는다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.jeju.go.kr/dorip/udo.htm",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-s4",
+   "field": "fees.exemption",
+   "text": "입장료 면제 대상에는 6세 이하, 65세 이상 내국인, 등록 장애인, 제주도 주민등록자·재외도민증·명예도민증 소지자 등이 포함된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.jeju.go.kr/dorip/udo.htm",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-s5",
+   "field": "location",
+   "text": "비짓제주 좌표는 위도 33.506439, 경도 126.9534006이며 OSM의 우도로 153과 50m 안에서 일치한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b04",
+   "text": "The jeju.go.kr/dorip/udo.htm page looks stale: its visitor statistics stop at 2016, it gives the designation date twice (2009.09.19 and 2008.09.19), and it shows no update date. Its ferry timetable is undated, and its month columns are hard to read past row 20. Use it only as a lead."
+  },
+  {
+   "run": "r1-b04",
+   "text": "Phone numbers differ by source: dorip gives 관리기관 제주시 환경관리과 064-728-3124, VisitJeju gives 064-728-1527. These are not necessarily conflicting."
+  },
+  {
+   "run": "r1-b04",
+   "text": "fees.ferry was not found. udoship.com (linked from dorip) redirects to udoboat.smart9.net, whose fare and timetable menus load through JavaScript. Two lookups found no fare."
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -161,6 +642,38 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b04",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 16,
+    "verdicts": {
+     "verified": 16,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 5
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "성산항·종달항 터미널 주차 정보와 요금을 공식 페이지에서 찾지 못함.",
+   "run": "r1-b04"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b04"
  }
 }

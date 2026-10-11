@@ -8,6 +8,7 @@
 4. 페이지 번호가 바뀌는 목록(FAQ ?pageIndex= 등)보다 고정 URL 을 인용한다. 인용한 문장이 그 URL 에 실제로 있는지 다시 확인한다.
 5. 찾지 못한 항목은 `unconfirmed` 에 이유와 함께 쓴다. 추정·기억으로 채우지 않는다. 공식 출처끼리 값이 다르면 `unconfirmed` 에 `<항목>.conflict` 로 두 값과 URL 을 적는다.
 6. 한국어, 우리 문장. 원문 인용은 `evidence` 에 15단어 이하.
-7. `description`(300~500자)과 `highlights`(4~6개)는 claim 에 있는 사실로만 쓴다. 요약문은 쓰지 않는다.
+7. `description`(300~500자)과 `highlights`(4~6개)는 claim 에 있는 사실로만 쓴다. 요약문은 쓰지 않는다. **여행자에게 보여 줄 글이므로 조사 과정("공식 사이트가 열리지 않아" 등)은 쓰지 않는다.** 그런 사정은 `unconfirmed` 에만 적는다.
+8. 자연 명소·거리·지구는 시·군 관광 페이지와 국가관광기관(VISITKOREA 등)도 확인한다. 지역 포털에 없는 접근·주차·요금 정보가 그쪽에 있는 경우가 많다.
 
 출력: `[{key, name_ko, name_local, admin_region, address, description, highlights, claims:[{cid, field, text, value, evidence, sources:[{url, type, page_updated}]}], unconfirmed:[{field, reason}]}]`

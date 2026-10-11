@@ -1,0 +1,26 @@
+[
+ {
+  "key": "kr-gyeongnam-jinjuseong",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "진주성",
+  "name_local": "진주성",
+  "region": "경상남도 진주시 남강로 626"
+ },
+ {
+  "key": "kr-chungnam-daecheon-beach",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "보령 대천해수욕장",
+  "name_local": "보령 대천해수욕장",
+  "region": "충청남도 충남 보령시 머드로 123 일대"
+ },
+ {
+  "key": "kr-busan-haedong-yonggungsa",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "해동용궁사",
+  "name_local": "해동용궁사",
+  "region": "부산광역시 기장군 기장읍 용궁길 86"
+ }
+]

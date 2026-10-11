@@ -2,7 +2,7 @@
  "id": "kr-jeju-seopjikoji",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "섭지코지",
   "local": "섭지코지"
@@ -10,7 +10,7 @@
  "admin_region": "제주특별자치도",
  "former_region": null,
  "city": "서귀포시 성산읍 섭지코지로 262; 고성리",
- "address": null,
+ "address": "제주특별자치도 서귀포시 성산읍 섭지코지로 262",
  "coord": {
   "lat": 33.424041,
   "lng": 126.930731,
@@ -21,93 +21,336 @@
   "osm": "node/2501640367"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "제주 동부 해안에서 바다 쪽으로 길게 뻗은 곶으로, 성산일출봉을 배경으로 한 해안 풍경이 아름다운 곳이다.",
+ "description": "제주 동부 해안에서 바다 쪽으로 길게 뻗은 곶으로, 성산일출봉을 배경으로 한 해안 풍경이 아름다운 곳이다. 신양해변의 백사장, 봄철 유채꽃, 넓은 초원, 해안절벽과 선돌바위가 어우러진다. 붉은오름 일대에는 붉은 화산쇄설물인 송이가 드러나 있고, 초원에는 높이 약 4m, 한 변 약 9m의 석조 협자연대가 제주특별자치도 기념물로 남아 있다. 선돌바위에는 용왕의 막내아들과 선녀의 전설이 전해진다. 연중무휴로 안내되며, 섭지코지주차장은 소형차 기준 최초 30분 1,000원, 이후 15분마다 500원, 1일 최대 3,000원이다.",
+ "highlights": [
+  "성산일출봉을 배경으로 한 제주 동부 해안 절경",
+  "붉은오름 일대의 붉은 화산쇄설물(송이)",
+  "높이 약 4m의 협자연대(제주특별자치도 기념물)",
+  "선돌바위와 용왕 막내아들 전설",
+  "봄철 유채꽃과 넓은 초원",
+  "연중무휴, 섭지코지주차장 1일 최대 3,000원"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b05-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b05-c4",
+    "r1-b05-c5"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "공식 페이지에 가장 가까운 정류장·도보/차량 시간 안내가 없다.",
+     "detail": "access",
+     "run": "r1-b05"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 소요시간 안내를 찾지 못했다."
    }
   },
   "hours": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "'연중무휴'만 기재되고 시간대(개방·마감) 안내가 없다. 24시간 개방이라는 정보는 비공식 목록에서만 보여 채택하지 않음."
    }
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b05-c3"
+   ],
+   "gap": null
   },
   "fees": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "입장료(무료 여부)가 공식 페이지에 명시되어 있지 않다. 주차요금만 확인됨."
    }
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "예약 관련 안내가 공식 페이지에 없다."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "결제수단 안내가 없다."
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내·오디오가이드 기재가 없다."
    }
   },
   "caution": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 상세 본문에 안전·금지 사항 안내가 없다(검색 요약에 경사·화장실 접근성 언급이 있었으나 페이지 원문에서 확인되지 않아 제외)."
    }
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b05-c1",
+   "field": "location",
+   "text": "섭지코지의 도로명 주소는 제주특별자치도 서귀포시 성산읍 섭지코지로 262이다(지번상 성산읍 고성리).",
+   "original_text": null,
+   "value": "제주특별자치도 서귀포시 성산읍 섭지코지로 262",
+   "verdict": "verified",
+   "verify_note": "섭지코지로 262; lot address 성산읍 고성리",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b05"
+  },
+  {
+   "cid": "r1-b05-c3",
+   "field": "closed_days",
+   "text": "운영 안내에 '연중무휴'로 표기되어 있다.",
+   "original_text": null,
+   "value": "연중무휴",
+   "verdict": "verified",
+   "verify_note": "Page says '연중무휴'",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b05"
+  },
+  {
+   "cid": "r1-b05-c4",
+   "field": "parking",
+   "text": "섭지코지주차장은 일반 소형 기준 최초 30분까지 1,000원, 이후 15분마다 500원, 1일 최대 3,000원이다.",
+   "original_text": null,
+   "value": "최초30분 1000원, 15분당 500원, 일최대 3000원",
+   "verdict": "verified",
+   "verify_note": "Matches the page exactly",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b05"
+  },
+  {
+   "cid": "r1-b05-c5",
+   "field": "parking",
+   "text": "휘닉스 아일랜드 주차장은 일반 소형 기준 1일 5,000원이다.",
+   "original_text": null,
+   "value": "1일 5000원",
+   "verdict": "verified",
+   "verify_note": "휘닉스 아일랜드 car park 1일 5,000원",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b05"
+  },
+  {
+   "cid": "r1-b05-c6",
+   "field": "tip",
+   "text": "문의 전화는 064-784-2810이다.",
+   "original_text": null,
+   "value": "064-784-2810",
+   "verdict": "verified",
+   "verify_note": "064-784-2810",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b05"
+  },
+  {
+   "cid": "r1-b05-c7",
+   "field": "description",
+   "text": "제주 동부 해안에서 바다 쪽으로 길게 뻗은 곶으로 성산일출봉을 배경으로 한 해안 풍경이 아름답다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches the page",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b05"
+  },
+  {
+   "cid": "r1-b05-c8",
+   "field": "description",
+   "text": "신양해변의 백사장, 봄철 유채꽃, 넓은 초원, 해안절벽, 선돌바위가 어우러진 경관을 보여준다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches the page",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b05"
+  },
+  {
+   "cid": "r1-b05-c9",
+   "field": "highlight",
+   "text": "붉은오름 일대에는 제주어로 송이라 부르는 붉은 화산쇄설물이 드러나 해안 기암괴석과 함께 독특한 화산 해안 경관을 이룬다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches the page",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b05"
+  },
+  {
+   "cid": "r1-b05-c10",
+   "field": "highlight",
+   "text": "초원의 협자연대는 조선시대 봉수 시설로 높이 약 4m, 한 변 약 9m의 석조 연대이며 제주특별자치도 기념물로 지정되어 있다.",
+   "original_text": null,
+   "value": "높이 약 4m, 한 변 약 9m",
+   "verdict": "verified",
+   "verify_note": "Page says a Joseon-era tower that passed urgent news by fire and smoke, about 4m high and 9m per side, a Jeju provincial monument (기념물)",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b05"
+  },
+  {
+   "cid": "r1-b05-c11",
+   "field": "highlight",
+   "text": "선돌바위에는 용왕의 막내아들과 선녀에 관한 전설이 전해진다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches the page",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b05"
+  },
+  {
+   "cid": "r1-b05-s1",
+   "field": "description",
+   "text": "'코지'는 바다 쪽으로 튀어나온 곶을 뜻하는 제주어이며, '섭지'의 유래에는 재사가 많이 나는 지세라는 견해와 좁은 땅(협지)에서 왔다는 견해가 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b05"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b05",
+   "text": "Small inconsistency on the official page: it tags the site '제주도서쪽코스' but describes it as an eastern coast spot. The guide's 'east' wording follows the body text."
+  },
+  {
+   "run": "r1-b05",
+   "text": "Not found on any official page: hours, entry fee, access, time needed. One secondary source (telltrip) says entry is free and about 1 hour is enough. It is a single non-official source, so no claim is suggested."
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -160,6 +403,40 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
- }
+  "runs": [
+   {
+    "run": "r1-b05",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 11,
+    "verdicts": {
+     "verified": 10,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 1
+    }
+   }
+  ]
+ },
+ "open_questions": [],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b05"
+ },
+ "coord_candidates": [
+  {
+   "lat": 33.4236948,
+   "lng": 126.9296022,
+   "source": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343",
+   "verify_note": "33.4236948 / 126.9296022. Not cross-checked against OSM",
+   "run": "r1-b05"
+  }
+ ]
 }

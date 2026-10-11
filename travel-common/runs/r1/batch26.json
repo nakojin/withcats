@@ -1,0 +1,26 @@
+[
+ {
+  "key": "bj-summer-palace",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "이화원",
+  "name_local": "颐和园",
+  "region": "베이징시 베이징"
+ },
+ {
+  "key": "bj-tiananmen-square",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "톈안먼 광장",
+  "name_local": "天安门广场",
+  "region": "베이징시 베이징"
+ },
+ {
+  "key": "nature-zjj-03",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "장자제 대협곡·유리다리",
+  "name_local": "张家界大峡谷／玻璃桥",
+  "region": "후난성 장자제 츠리현"
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "key": "east-sh-03",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "난징둥루 보행거리",
+  "name_local": "南京路步行街",
+  "region": "상하이시 상하이"
+ },
+ {
+  "key": "east-sh-04",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "신톈디",
+  "name_local": "新天地",
+  "region": "상하이시 상하이"
+ },
+ {
+  "key": "east-sh-08",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "우캉루 역사거리",
+  "name_local": "武康路",
+  "region": "상하이시 상하이"
+ }
+]

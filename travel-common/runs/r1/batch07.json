@@ -1,0 +1,26 @@
+[
+ {
+  "key": "kr-gangwon-namiseom",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "남이섬",
+  "name_local": "남이섬",
+  "region": "강원특별자치도 강원 춘천시 남산면 남이섬길 1; 주요 선착장은 경기 가평"
+ },
+ {
+  "key": "kr-gangwon-seoraksan-parent",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "설악산",
+  "name_local": "설악산",
+  "region": "강원특별자치도 설악산 외설악 중심 탐방권"
+ },
+ {
+  "key": "kr-gangwon-sokcho-overview",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "속초",
+  "name_local": "속초",
+  "region": "강원특별자치도 강원 속초시 청초호·아바이마을·영랑호 일대"
+ }
+]

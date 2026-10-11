@@ -1,0 +1,26 @@
+[
+ {
+  "key": "kr-jeonbuk-jeonju-hanok-village",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "전주한옥마을",
+  "name_local": "전주한옥마을",
+  "region": "전북특별자치도 전주시 완산구 풍남동·교동 일대"
+ },
+ {
+  "key": "kr-seoul-n-seoul-tower",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "N서울타워(남산)",
+  "name_local": "N서울타워(남산)",
+  "region": "서울특별시 서울 남산"
+ },
+ {
+  "key": "kr-seoul-bukchon",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "북촌한옥마을",
+  "name_local": "북촌한옥마을",
+  "region": "서울특별시 서울 종로구 북촌 일대; 시간 제한 레드존은 북촌로11길 일대"
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "key": "kr-jeju-hyeopjae",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "협재해수욕장",
+  "name_local": "협재해수욕장",
+  "region": "제주특별자치도 제주시 한림읍 협재리 2497-1"
+ },
+ {
+  "key": "kr-jeju-seopjikoji",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "섭지코지",
+  "name_local": "섭지코지",
+  "region": "제주특별자치도 서귀포시 성산읍 섭지코지로 262; 고성리"
+ },
+ {
+  "key": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "경주 불국사·석굴암",
+  "name_local": "경주 불국사·석굴암",
+  "region": "경상북도 경주 토함산 일대의 별도 사찰·석굴 시설"
+ }
+]

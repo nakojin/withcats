@@ -1,0 +1,387 @@
+{
+ "places": [
+  {
+   "key": "kr-jeju-hyeopjae",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "VisitJeju lists 협재리 2497-1, postcode 63011"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "33.3924809 / 126.2389861 match the page data. Not cross-checked against OSM"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Usage info says '상시 개방'"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "6월 24일~9월 6일 10:00~19:00"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "7월 15일~8월 15일 10:00~21:00"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Parasol 20,000원, platform bed (평상) 30,000원, both paid"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Body text matches. The usage-info line also says '반려동물 동반 및 유영구역 입수 기준 공식 확인 필요'"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "064-728-3981, staffed only while the beach is open"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [
+    "'제주 서쪽 해변' (the 서쪽 part is on the page, '제주 서쪽에 가볼 만한 해수욕장', but no claim covers it)"
+   ],
+   "suggested_claims": [
+    {
+     "field": "description",
+     "text": "제주 서쪽에서 가 볼 만한 해수욕장으로 추천된다.",
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    },
+    {
+     "field": "caution",
+     "text": "여름에는 물놀이객으로 붐빈다.",
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    },
+    {
+     "field": "tube_rental",
+     "text": "공식 페이지에 '튜브 대여 여부 및 요금 공식 확인 필요'로만 적혀 있어 값을 확인할 수 없다(확인 불가 이유로 기록).",
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+    }
+   ],
+   "conflicts": [
+    "The VisitJeju page contradicts itself on pets: the body text says swimming with pets is banned in the swimming zone while the beach is open, but the usage-info line says the pet and swimming-zone rules still need official confirmation.",
+    "Access and parking: no official source found. Secondary sources disagree (one says the public car park is free; another says first 30 minutes free, then 500원 per 15 minutes, daily max 10,000원). None of these were used."
+   ]
+  },
+  {
+   "key": "kr-jeju-seopjikoji",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "섭지코지로 262; lot address 성산읍 고성리"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "33.4236948 / 126.9296022. Not cross-checked against OSM"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says '연중무휴'"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page exactly"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "휘닉스 아일랜드 car park 1일 5,000원"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "064-784-2810"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says a Joseon-era tower that passed urgent news by fire and smoke, about 4m high and 9m per side, a Jeju provincial monument (기념물)"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "description",
+     "text": "'코지'는 바다 쪽으로 튀어나온 곶을 뜻하는 제주어이며, '섭지'의 유래에는 재사가 많이 나는 지세라는 견해와 좁은 땅(협지)에서 왔다는 견해가 있다.",
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343"
+    }
+   ],
+   "conflicts": [
+    "Small inconsistency on the official page: it tags the site '제주도서쪽코스' but describes it as an eastern coast spot. The guide's 'east' wording follows the body text.",
+    "Not found on any official page: hours, entry fee, access, time needed. One secondary source (telltrip) says entry is free and about 1 hour is enough. It is a single non-official source, so no claim is suggested."
+   ]
+  },
+  {
+   "key": "kr-gyeongbuk-bulguksa-seokguram-group",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "불국로 385 (진현동 15-1)"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "석굴로 238"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Free from 2023-05-04 under the revised 문화재보호법"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Same notice on the Seokguram site"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches exactly, including '주중, 주말 공휴일 동일'"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches exactly"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says '연중무휴'"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says '연중무휴'"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says '반려동물 입장 불가'"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says '반려동물 입장 불가'"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Covers 호우, 태풍, 폭설 주의보 and 경보"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2,000 / 2,000 / 4,000원"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2,000 / 4,000원"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Buses 10 and 11; mentions 경주역 and the bus terminal"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Bus 700 from 신경주역, 4 runs a day"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says '도보로 10분정도'"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Both numbers match"
+    },
+    {
+     "cid": "c20",
+     "verdict": "corrected",
+     "corrected_text": "석굴암 공식 사이트의 주차요금 안내 바로 아래에 '운영은 경주시 시설관리공단 관광사업팀에서 하고 있습니다'라고 적혀 있다(주차장 운영 주체에 관한 안내로 보인다).",
+     "note": "The sentence sits under the parking-fee table, so it most likely refers to the car park, not the whole Seokguram site"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page (page credits 문화재청)"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "40 figures carved, 38 remain"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "360여 개, '세계에 유례가 없는'"
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Per 불국사고금창기: founded 528, rebuilt 751. The page also cites other records and notes this account is weakly sourced"
+    }
+   ],
+   "unsupported_in_description": [
+    "경주 토함산 일대의 불국사와 석굴암은 각각 별도의 사찰·석굴 시설로 운영된다. (토함산 is backed only for Seokguram, as '토함산 중턱' on its history page; no claim backs '각각 별도 운영')"
+   ],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "access.bus_schedule",
+     "text": "12번 버스는 불국사–불국사매표소–석굴암주차장 구간을 하루 10회 운행한다(경주시내버스 노선안내, 시각표는 페이지에 표시되지 않음).",
+     "url": "http://www.newsmilebus.com/sub01/bus.asp?idx=8"
+    },
+    {
+     "field": "description",
+     "text": "석굴암은 1995년 12월 불국사와 함께 유네스코 세계문화유산으로 등록되었다.",
+     "url": "http://www.seokguram.org/bbs/content.php?co_id=history"
+    },
+    {
+     "field": "description",
+     "text": "불국사는 임진왜란 때인 1593년 왜군의 방화로 크게 소실되었고, 1969~1973년 복원공사로 무설전·관음전·비로전 등이 복원되었다.",
+     "url": "http://www.bulguksa.or.kr/bbs/content.php?co_id=history"
+    }
+   ],
+   "conflicts": [
+    "Possibly stale sources: both official sites show 'COPYRIGHT 2018'. Editor images in the Bulguksa and Seokguram history pages are dated 2018-05, and the newest edit on the Bulguksa directions page is 2025-04. All are more than 12 months old, so mark them stale_source. The fees and hours pages carry no update date.",
+    "The two official pages differ on public transport: the Bulguksa page gives only buses 10 and 11 from 경주역 and the terminal, while the Seokguram page adds bus 700 from 신경주역. Whether 경주역 is still current needs another official source (for example the city of Gyeongju).",
+    "Secondary sources (not official) say the walk from the car park to Seokguram is about 15–20 minutes. The official page says about 10 minutes, so the official figure was kept.",
+    "Seokguram history page says '국보 제24호', an old-style designation number. Its credited source is 문화재청 (the old agency name). Treat the page as stale."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 48,
+  "verified": 47,
+  "corrected": 1,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "I opened every cited URL myself with curl. All pages loaded and the VisitJeju body text was in the HTML.",
+   "No coordinates were cross-checked against OSM.",
+   "For collector_unconfirmed items (access, parking, duration, payment, language, reservation) I tried 1–2 web searches each. They returned only secondary sources (blogs, listings), so no claims were suggested. These still need an official source or a recorded reason they can't be confirmed.",
+   "Hyeopjae: the official page itself says tube rental and the pet and swimming-zone rules need official confirmation.",
+   "Bulguksa/Seokguram: no official pages for reservation, payment or Korean-language guides were found. The admin region 경상북도 경주시 shows no change on the official pages."
+  ]
+ }
+}

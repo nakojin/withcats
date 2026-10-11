@@ -1,0 +1,509 @@
+{
+ "places": [
+  {
+   "key": "kr-gangwon-namiseom",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "111127 page gives the address 강원특별자치도 춘천시 남이섬길 1"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "215120 page gives the pier address 북한강변로 1024. That article was last updated Aug 2024, so it is stale"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says 30 min on foot or 5 min by taxi. Stale source (Aug 2024)"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says online reservation is required and gives a timetable. Stale source (Aug 2024)"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says about 1 h 10 min and about 3 km, and recommends a taxi. Stale source (Aug 2024)"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says Available (600 spaces)"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the page, which spells the hotel 'Jeongwallu'"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "08:00–21:00, with longer hours in the spring blossom, summer vacation and fall foliage seasons"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Ferry departures from Gapyeongnaru Pier, schedule subject to change"
+    },
+    {
+     "cid": "c10",
+     "verdict": "outdated",
+     "corrected_text": "관광공사 기본정보는 가평나루 출발 배를 08:00~09:00 30분 간격, 09:00~18:00 10~20분 간격으로 안내하고 상황에 따라 바뀔 수 있다고 적는다. 봄꽃·여름휴가·단풍철에는 운영시간이 길어진다.",
+     "note": "The 18:00–21:00 interval and the 07:30–21:30 extension (9/13–11/17) come only from the Aug 2024 article. The current basic-info page does not list them"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says N/A (Open all year round)"
+    },
+    {
+     "cid": "c12",
+     "verdict": "corrected",
+     "corrected_text": "입장료는 일반 19,000원, 할인 16,000원, 특별 13,000원이다.",
+     "note": "The fee amounts match. On the page, the note 'Admission to Nami Island and ferry fare are included' sits inside the zip-wire block, so it does not support a ferry-included claim for regular admission"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says Preschoolers (ages 3 & younger) are free"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the article. Stale source (Aug 2024). The current page names the tiers regular, discount and special without giving age groups"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "88021 page: Family 55,000 won and Adventure 58,000 won, includes Nami admission and return ferry. 111127 labels the same prices '5%/15% grade slope'"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the article. Stale source (Aug 2024)"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Last rental time 17:20. Stale source (Aug 2024)"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page also lists Russian, Vietnamese, Thai and Indonesian"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page describes the island's concept as 'Fairy Tale Village and Song Village'"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Metasequoia Lane, 27 thematic gardens, rabbits and peacocks are all on the page. Stale source (Aug 2024)"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "April–October 09:00–19:00, November–March 09:00–18:00, depending on weather"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says 'Parental guidance recommended'"
+    }
+   ],
+   "unsupported_in_description": [
+    "입장료에 배삯이 포함된다 (after the c12 correction, no source supports ferry fare being included in regular admission)"
+   ],
+   "unsupported_in_highlights": [
+    "배로 들어가는 북한강 위의 섬(입장료에 배삯 포함) - the part in parentheses has no source"
+   ],
+   "suggested_claims": [
+    {
+     "field": "caution",
+     "text": "짚와이어는 체중 35~120kg, 키 140~200cm이고 건강한 사람만 탈 수 있다.",
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88021"
+    },
+    {
+     "field": "duration",
+     "text": "짚와이어는 장비 착용부터 도착까지 약 4분 걸린다.",
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88021"
+    }
+   ],
+   "conflicts": [
+    "Zip-wire page 88021: parking 4,000 won. Basic-info page 111127: small cars 6,000 won, large cars 10,000 won",
+    "Zip-wire hours: 88021 says 09:00–18:00. 111127 says April–October 09:00–19:00 and November–March 09:00–18:00",
+    "Zip-wire fee and naming: the 2024 article gives a single 55,000 won fee. 88021 says Family/Adventure 55,000/58,000 won. 111127 says 5%/15% grade slope",
+    "Article 215120 (last updated Aug 2024) is more than 12 months old. stale_source applies to c2–c5, c10, c14, c16, c17 and c20",
+    "Article 215120 places the island in 'Gapyeong, Gyeonggi-do', but the official address is 춘천시 남산면 in Gangwon"
+   ]
+  },
+  {
+   "key": "kr-gangwon-seoraksan-parent",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page gives 설악산로 833 (설악동)"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page gives 설악산로 1055 설악산소공원. Stale source (Sep 2024)"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Operator site still uses the old name 강원도. The current official name is 강원특별자치도"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Bus No. 7 or 7-1 to the Sogongwon Park stop"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Found on https://www.sorakcablecar.co.kr/guide, not on the root URL that was cited. Update the source URL"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Found on /guide, not on the root URL"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Parking available, ParkingFees: Free"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "From /guide. It also says the cable car has no dedicated parking and visitors must use the paid Sinheungsa lot"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c10",
+     "verdict": "corrected",
+     "corrected_text": "케이블카 운행시간은 계절·기후에 따라 달라 홈페이지 첫 화면에 매일 게시되며, 마지막 케이블카를 타면 권금성에서 20분 정도만 관람할 수 있다.",
+     "note": "The /guide FAQ says 20 minutes, not 10"
+    },
+    {
+     "cid": "c11",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "Hours on the site are loaded dynamically and showed '확인중'. The July examples were not found, and those dates are in the past anyway"
+    },
+    {
+     "cid": "c12",
+     "verdict": "corrected",
+     "corrected_text": "트레킹 코스는 소공원~신흥사~흔들바위~울산바위~소공원 7.6km 약 4시간, 소공원~비선대~희운각대피소~대청봉~남설악(오색) 16km 약 10시간으로 안내된다(2024년 9월 기준).",
+     "note": "The Daecheongbong route ends at Osaek, not at Sogongwon. Stale source (Sep 2024)"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "/guide FAQ, and the homepage gives about 5 min one way"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Holiday: Mondays"
+    },
+    {
+     "cid": "c15",
+     "verdict": "corrected",
+     "corrected_text": "케이블카는 강풍·악천후나 안전점검이 필요할 때 운행이 중단될 수 있다.",
+     "note": "'연중무휴' does not appear on the root, /guide or /about pages. The suspension wording comes from /about and /guide"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Fees: Free"
+    },
+    {
+     "cid": "c17",
+     "verdict": "corrected",
+     "corrected_text": "케이블카 요금은 왕복이며 대인(중학생 이상) 16,000원, 소인(37개월~초등학생) 12,000원, 36개월 미만은 무료다.",
+     "note": "The child band starts at 37 months, not 36. Fares are round trip only; no one-way tickets are sold"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "/guide. It adds: discounts apply only to Korean nationals in person, 속초시민 1 ticket per person, no group discount"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "/guide"
+    },
+    {
+     "cid": "c20",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "The site only gives an inquiry number for 문화재구역 admission (033-636-8755, Sinheungsa). It does not say admission is free"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Stated on both the homepage and /guide"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "/guide"
+    },
+    {
+     "cid": "c23",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "Kiosk and wheelchair ticket-window wording not found. The site only mentions the 1층 매표소"
+    },
+    {
+     "cid": "c24",
+     "verdict": "corrected",
+     "corrected_text": "케이블카에는 유모차를 실을 수 없으며 탑승장 건물 외부 오른쪽의 무료 유모차 보관소를 이용한다.",
+     "note": "No pet rule found on the site"
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "/guide FAQ, and the homepage says there is no trail down"
+    },
+    {
+     "cid": "c26",
+     "verdict": "corrected",
+     "corrected_text": "휠체어도 탑승할 수 있으며 엘리베이터로 2층 탑승장까지 이동한다.",
+     "note": "The ticket-window notice and 'no seats' details were not found"
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the article. Stale source (Sep 2024). Check the current KNPS closure notice"
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page also says it was the first site in Korea designated (1982)"
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "/guide FAQ, and the homepage mentions 봉화대 and 안락암"
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c31",
+     "verdict": "corrected",
+     "corrected_text": "권금성 쪽 1·2층에 스낵코너와 커피숍이 있고, 화장실은 물 대신 거품을 쓰는 방식이라 가급적 티켓 구매 전 소공원 화장실 이용을 권한다.",
+     "note": "The site does not mention the 2nd-floor toilet"
+    }
+   ],
+   "unsupported_in_description": [
+    "케이블카는 연중무휴 (c15 unverifiable for that part)"
+   ],
+   "unsupported_in_highlights": [
+    "케이블카는 연중무휴, 예약 없이 당일 현장 구매 - the 연중무휴 part has no source",
+    "탐방안내소는 무료이며 주차도 무료 - true only for the visitor center (설악산로 833). The cable car/소공원 area uses the paid Sinheungsa lot, so the sentence is misleading"
+   ],
+   "suggested_claims": [
+    {
+     "field": "parking",
+     "text": "설악 케이블카 전용 주차장은 없고 신흥사 유료 주차장을 이용해야 한다(주차 문의 033-636-4050).",
+     "url": "https://www.sorakcablecar.co.kr/guide"
+    },
+    {
+     "field": "hours",
+     "text": "케이블카는 손님이 적으면 10~15분, 많으면 5분 간격으로 운행한다.",
+     "url": "https://www.sorakcablecar.co.kr/guide"
+    },
+    {
+     "field": "caution",
+     "text": "케이블카 캐빈에는 냉난방이 없고, 탑승권은 분실 시 재발급되지 않으며, 주말에는 대체로 붐빈다.",
+     "url": "https://www.sorakcablecar.co.kr/guide"
+    }
+   ],
+   "conflicts": [
+    "Visitor center parking is free (visitkorea 97563), but the operator says cable-car visitors must use the paid Sinheungsa lot (/guide)",
+    "The cable-car operator uses the old region name 강원도. Visitkorea uses 강원특별자치도",
+    "Article 204732 (last updated Sep 2024) is more than 12 months old. stale_source applies to c2, c4, c12, c27 and c28. The KNPS site seorak.knps.or.kr was blocked by WAF and could not be cross-checked"
+   ]
+  },
+  {
+   "key": "kr-gangwon-sokcho-overview",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The English address says 39 and the Korean says 51. The claim already flags this mismatch"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Found on https://www.sorakcablecar.co.kr/guide, not on the root URL"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Stale source (Sep 2024)"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page says mainly from Hamgyeong-do, with North Korean food restaurants"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page lists Hamheung-style naengmyeon, stuffed squid and North Korean-style sausage soup"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [],
+   "conflicts": [
+    "Gaetbae pier address: the English page gives 39 Jungangbudu-gil, the Korean field gives 중앙부두길 51 (same visitkorea page 70424)",
+    "Gaetbae hours and fare could not be found. The official sites abai.co.kr and sokchotour.com were blocked by WAF"
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 69,
+  "verified": 57,
+  "corrected": 8,
+  "outdated": 1,
+  "unverifiable": 3,
+  "rejected": 0,
+  "notes": [
+   "I opened all cited pages with curl -sL. The pages are server-rendered, so their content was readable.",
+   "sorakcablecar.co.kr root URL: most cable-car claims are actually on /guide of the same official site. I judged them from /guide; replace the cited URL with https://www.sorakcablecar.co.kr/guide.",
+   "Visitkorea articles 215120 (Aug 2024) and 204732 (Sep 2024) are stale (more than 12 months old). Claims taken only from them need a current official source before publishing.",
+   "Collector-unconfirmed lookups: I tried 2 per place. namisum.com returned 403; seorak.knps.or.kr, knps.or.kr, abai.co.kr and sokchotour.com were blocked by WAF. Payment, reservation, language (beyond 1330) and Gaetbae hours/fare are still unconfirmed.",
+   "No coordinates were provided, so no OSM check was done."
+  ]
+ }
+}

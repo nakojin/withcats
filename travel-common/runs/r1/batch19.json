@@ -1,0 +1,26 @@
+[
+ {
+  "key": "new:jp-okinawa-kokusai-dori",
+  "status": "new",
+  "country": "jp",
+  "name_ko": "국제거리(나하)",
+  "name_local": "国際通り",
+  "region": "오키나와현 나하시"
+ },
+ {
+  "key": "east-sh-01",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "와이탄",
+  "name_local": "外滩",
+  "region": "상하이시 상하이"
+ },
+ {
+  "key": "east-sh-05",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "상하이 디즈니랜드",
+  "name_local": "上海迪士尼乐园",
+  "region": "상하이시 상하이"
+ }
+]

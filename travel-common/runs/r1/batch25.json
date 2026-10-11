@@ -1,0 +1,26 @@
+[
+ {
+  "key": "east-qd-02",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "팔대관",
+  "name_local": "八大关",
+  "region": "산둥성 칭다오"
+ },
+ {
+  "key": "east-qd-06",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "라오산 풍경구",
+  "name_local": "崂山风景名胜区",
+  "region": "산둥성 칭다오"
+ },
+ {
+  "key": "bj-wtown",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "구베이수이전·쓰마타이 장성 리조트",
+  "name_local": "古北水镇（司马台长城）",
+  "region": "베이징시 베이징"
+ }
+]

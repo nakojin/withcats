@@ -134,5 +134,6 @@
    "note": "검증자 재시도용 후보 URL: https://www.cq.gov.cn/zjcq/cycq/jplyxl/dsy/dsjp/202608/t20260826_15982330.html (충칭시 정부, 2026-08), https://www.cqyz.gov.cn/bm_229/qwhlyw/zwgk_97157/jczwgk/xxgk/ggfw_122762/ggwljg_122627/202508/t20250819_14915593.html (위중구 A급 景区 표), https://cq.gov.cn/ywdt/bmts/202505/t20250509_14596557.html (점등시간 변경), https://whlyw.cq.gov.cn/zjwl/yzq/jqjd_1/202203/t20220304_10463056.html",
    "run": "pilot2"
   }
- ]
+ ],
+ "coord_candidates": []
 }

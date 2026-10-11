@@ -46,6 +46,7 @@ def main(root, run, date, col_path, ver_path, fix_path=None):
         ver = vers.get(col['key'])
         verdicts = {v['cid']: v for v in (ver or {}).get('verdicts', [])}
         place['claims'] = [c for c in place['claims'] if not c['cid'].startswith(run + '-')]   # 같은 회차 재병합 대비
+        place['coord_candidates'] = [x for x in place.get('coord_candidates', []) if x.get('run') != run]
         for c in col['claims']:
             v = verdicts.get(c['cid'])
             verdict = v['verdict'] if v else 'pending'
@@ -53,6 +54,14 @@ def main(root, run, date, col_path, ver_path, fix_path=None):
             orig = None
             if v and verdict in ('corrected', 'outdated') and v.get('corrected_text'):
                 orig, text = text, v['corrected_text']
+            elif verdict in ('corrected', 'outdated'):
+                verdict = 'superseded'                      # 고친 문장이 없으면 옛 문장을 공개하지 않는다
+            # 좌표는 claim 이 아니라 좌표 후보로 따로 보관(지도 대조 후 coord 에 반영)
+            if c['field'] == 'location' and re.fullmatch(r'\s*-?\d+\.\d+\s*,\s*-?\d+\.\d+\s*', str(c.get('value') or '')):
+                lat, lng = [float(x) for x in c['value'].split(',')]
+                place['coord_candidates'].append({'lat': lat, 'lng': lng, 'source': c['sources'][0]['url'] if c['sources'] else None,
+                                                  'verify_note': (v or {}).get('note'), 'run': run})
+                continue
             place['claims'].append({
                 'cid': f"{run}-{c['cid']}", 'field': c['field'], 'text': text, 'original_text': orig,
                 'value': c.get('value'), 'verdict': verdict, 'verify_note': (v or {}).get('note'),
@@ -100,11 +109,24 @@ def main(root, run, date, col_path, ver_path, fix_path=None):
             for old, new in fixes.get(col['key'], []):
                 desc = desc.replace(old, new)
                 hl = [h.replace(old, new) for h in hl]
+            # 수정·비공개된 claim 의 옛 표현(숫자+뒤 6글자)이 본문에 그대로 남아 있으면 공개를 막는다
+            body = re.sub(r'\s', '', desc + ' '.join(hl))
+            for c in place['claims']:
+                if c['run'] != run or c['verdict'] not in ('corrected', 'outdated', 'superseded', 'unverifiable', 'rejected'):
+                    continue
+                old = re.sub(r'\s', '', c.get('original_text') or c['text'])
+                new_t = re.sub(r'\s', '', c['text']) if c['verdict'] in ('corrected', 'outdated') else ''
+                stale = sorted({old[m.start():m.end() + 6] for m in re.finditer(r'\d[\d,.:~]*', old)
+                                if old[m.start():m.end() + 6] in body and old[m.start():m.end() + 6] not in new_t
+                                and len(old[m.start():m.end() + 6]) >= 5})
+                if stale:
+                    unsupported.append(f"{c['cid']} 판정({c['verdict']}) 전 수치 {stale} 가 본문에 남음")
             fixed = col['key'] in fixes
             # 요약문은 검증자가 보지 않으므로 쓰지 않고, 검토된 설명문의 첫 문장을 요약으로 쓴다.
             first = re.split(r'(?<=다\.)\s', desc, maxsplit=1)[0]
             place['summary'], place['description'], place['highlights'] = first, desc, hl
-            place['content_review'] = {'status': 'ok' if (not unsupported or fixed) else 'needs_fix',
+            stale_left = [u for u in unsupported if '수치' in u and '본문에 남음' in u]
+            place['content_review'] = {'status': 'ok' if ((not unsupported or fixed) and not stale_left) else 'needs_fix',
                                        'unsupported': unsupported, 'fixed_by': 'content_fix' if fixed else None,
                                        'basis': '수집 claim 으로만 작성, 검증자 검토', 'run': run}
         if col.get('address'):

@@ -1,0 +1,26 @@
+[
+ {
+  "key": "new:jp-chiba-tokyo-disneyland",
+  "status": "new",
+  "country": "jp",
+  "name_ko": "도쿄 디즈니랜드",
+  "name_local": "東京ディズニーランド",
+  "region": "지바현 우라야스시"
+ },
+ {
+  "key": "new:jp-chiba-tokyo-disneysea",
+  "status": "new",
+  "country": "jp",
+  "name_ko": "도쿄 디즈니씨",
+  "name_local": "東京ディズニーシー",
+  "region": "지바현 우라야스시"
+ },
+ {
+  "key": "new:jp-tokyo-wb-studio-tour",
+  "status": "new",
+  "country": "jp",
+  "name_ko": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "name_local": "ワーナー ブラザース スタジオツアー東京 ‐ メイキング・オブ・ハリー・ポッター",
+  "region": "도쿄도 네리마구"
+ }
+]

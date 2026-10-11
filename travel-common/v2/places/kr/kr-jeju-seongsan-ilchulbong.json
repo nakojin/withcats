@@ -2,7 +2,7 @@
  "id": "kr-jeju-seongsan-ilchulbong",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "성산일출봉",
   "local": "성산일출봉"
@@ -10,7 +10,7 @@
  "admin_region": "제주특별자치도",
  "former_region": null,
  "city": "서귀포시 성산읍 일출로 284-12",
- "address": null,
+ "address": "제주특별자치도 서귀포시 성산읍 일출로 284-12",
  "coord": {
   "lat": 33.458889,
   "lng": 126.940818,
@@ -21,93 +21,634 @@
   "osm": "node/330006952"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "성산일출봉은 마그마가 얕은 바다에서 터져 나오며 만들어진 수성 화산체(응회구)로, 천연기념물 제420호이자 유네스코 세계자연유산 구성 유산이다.",
+ "description": "성산일출봉은 마그마가 얕은 바다에서 터져 나오며 만들어진 수성 화산체(응회구)로, 천연기념물 제420호이자 유네스코 세계자연유산 구성 유산이다. 정상 분화구는 지름 약 600m, 면적 214,400㎡이다. 탐방로는 정상으로 오르는 유료 구간과 우뭇개해안 등을 둘러보는 무료 구간으로 나뉘며, 정상까지는 보통 30~40분이 걸린다. 개인 요금은 어른 5,000원, 청소년·군인과 어린이 2,500원이고 매달 첫째 월요일은 쉰다. 개장 시간은 계절에 따라 4시 30분~6시에 열어 18~20시에 닫으며 매표는 한 시간 먼저 마감한다. 음식물 반입은 금지된다.",
+ "highlights": [
+  "천연기념물 제420호, 유네스코 세계자연유산 구성 유산",
+  "정상 오르막 유료 구간 약 30~40분, 우뭇개해안 쪽은 무료 구간",
+  "정상 분화구 지름 약 600m, 우도와 성산 일대 조망",
+  "계절별 개장 04:30~06:00, 폐장 18:00~20:00",
+  "개인 요금 어른 5,000원, 청소년·어린이 2,500원"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c12",
+    "r1-b04-c13"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "가장 가까운 정류장 이름·도보 시간이 공식 페이지에 없음(버스는 '성산' 하차 문구만 있음).",
+     "detail": "access.station",
+     "run": "r1-b04"
+    }
+   ]
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c11"
+   ],
+   "gap": null
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c3",
+    "r1-b04-c4",
+    "r1-b04-c5",
+    "r1-b04-c6"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "두 공식 페이지 모두 갱신일 표기가 없어 12개월 이내 갱신 여부 확인 불가.",
+     "detail": "hours.page_updated",
+     "run": "r1-b04"
+    }
+   ]
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c7"
+   ],
+   "gap": null
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c8",
+    "r1-b04-c9",
+    "r1-b04-c10"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "도민·장애인 등 면제 대상은 검색 요약에서만 보였고 공식 페이지 원문으로 확인하지 못해 제외함.",
+     "detail": "fees.exemption",
+     "run": "r1-b04"
+    }
+   ]
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 사전 예약 안내가 없음. 필요 여부 확인 불가."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "매표소 결제 수단 안내를 공식 페이지에서 찾지 못함."
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내·해설 관련 내용을 공식 페이지에서 찾지 못함(세계자연유산해설안내 별도 페이지는 미확인)."
    }
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b04-c14"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "기상 통제·혼잡 시기 등 안전 안내를 공식 페이지에서 찾지 못함.",
+     "detail": "caution",
+     "run": "r1-b04"
+    }
+   ]
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b04-c1",
+   "field": "location",
+   "text": "주소는 제주특별자치도 서귀포시 성산읍 일출로 284-12(구 지번 성산리 1)이며 우편번호는 63643이다.",
+   "original_text": null,
+   "value": "제주특별자치도 서귀포시 성산읍 일출로 284-12",
+   "verdict": "verified",
+   "verify_note": "VisitJeju lists 일출로 284-12, 지번 성산리 1, 63643",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c3",
+   "field": "hours",
+   "text": "동절기(11~2월)는 06:00~18:00이고 매표는 06:00~17:00에 한다.",
+   "original_text": null,
+   "value": "11~2월 06:00-18:00, 매표 06:00-17:00",
+   "verdict": "verified",
+   "verify_note": "WNH: 동절기(1~2월, 11~12월) 6~18시, 매표마감 17시. VisitJeju matches",
+   "sources": [
+    {
+     "url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c4",
+   "field": "hours",
+   "text": "춘·추절기(3~4월, 9~10월)는 05:00~19:00이고 매표는 05:00~18:00에 한다.",
+   "original_text": null,
+   "value": "3~4월·9~10월 05:00-19:00, 매표 05:00-18:00",
+   "verdict": "verified",
+   "verify_note": "Both pages match",
+   "sources": [
+    {
+     "url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c5",
+   "field": "hours",
+   "text": "하절기(5~8월)는 04:30~20:00이고 매표는 04:30~19:00에 한다.",
+   "original_text": null,
+   "value": "5~8월 04:30-20:00, 매표 04:30-19:00",
+   "verdict": "verified",
+   "verify_note": "Both pages match",
+   "sources": [
+    {
+     "url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c6",
+   "field": "hours",
+   "text": "필요한 경우 관람시간을 따로 정할 수 있다고 공식 페이지에 적혀 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "WNH: *필요시에는 관람시간을 따로 정할 수 있음",
+   "sources": [
+    {
+     "url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c7",
+   "field": "closed_days",
+   "text": "매달 첫 번째 월요일이 정기 휴무이며, 그날이 공휴일이면 다음 날 쉰다.",
+   "original_text": null,
+   "value": "매월 첫째 월요일(공휴일이면 다음 날)",
+   "verdict": "verified",
+   "verify_note": "'공휴일이면 다음 날' appears only on VisitJeju. WNH gives just 매달 첫 번째 월요일",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c8",
+   "field": "fees",
+   "text": "개인 요금은 어른(25~64세) 5,000원, 청소년·군인(13~24세) 2,500원, 어린이(7~12세) 2,500원이다.",
+   "original_text": null,
+   "value": "개인 5000/2500/2500원",
+   "verdict": "verified",
+   "verify_note": "WNH fee table matches",
+   "sources": [
+    {
+     "url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c9",
+   "field": "fees",
+   "text": "단체(10인 이상) 요금은 어른 4,000원, 청소년·군인 2,000원, 어린이 2,000원이다.",
+   "original_text": null,
+   "value": "단체 4000/2000/2000원",
+   "verdict": "verified",
+   "verify_note": "WNH: 단체는 10인 이상",
+   "sources": [
+    {
+     "url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c10",
+   "field": "fees",
+   "text": "정상으로 오르는 구간은 유료이고, 우뭇개해안 등 주변을 둘러보는 구간은 무료 탐방구간이다.",
+   "original_text": null,
+   "value": "정상 유료 / 주변 무료",
+   "verdict": "verified",
+   "verify_note": "VisitJeju body text",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c11",
+   "field": "duration",
+   "text": "유료 구간으로 정상까지 오르는 데 보통 약 30~40분이 걸린다.",
+   "original_text": null,
+   "value": "정상까지 30~40분",
+   "verdict": "verified",
+   "verify_note": "VisitJeju: 보통 약 30~40분",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c12",
+   "field": "access",
+   "text": "버스는 제주공항에서 약 70분, 중문에서 약 68분, 서귀포에서 약 57분이며 1132번 지방도를 거쳐 '성산'에서 내려 걸어간다고 안내한다.",
+   "original_text": null,
+   "value": "공항 70분/중문 68분/서귀포 57분",
+   "verdict": "verified",
+   "verify_note": "WNH matches. Route is given by road number (1132번 지방도), not bus number",
+   "sources": [
+    {
+     "url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c13",
+   "field": "parking",
+   "text": "세계유산본부 요금표 각주에 '단체는 10인 이상, 주차료 무료'라고 적혀 있어 주차료는 무료로 안내된다(단체에만 해당하는지는 문구상 분명하지 않다).",
+   "original_text": "단체 방문객의 주차료는 무료라고 안내한다. 개인·승용차 주차 요금은 확인하지 못했다.",
+   "value": "단체 주차 무료",
+   "verdict": "corrected",
+   "verify_note": "The footnote does not clearly limit free parking to groups",
+   "sources": [
+    {
+     "url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c14",
+   "field": "caution",
+   "text": "음식물 반입이 금지되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "VisitJeju 이용안내: 음식물 반입 금지",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c15",
+   "field": "tip",
+   "text": "관람 준비물은 운동화 등 간편복장이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "WNH 관람준비물",
+   "sources": [
+    {
+     "url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c16",
+   "field": "tip",
+   "text": "문의 전화는 064-783-0959(비짓제주 연락처) 또는 064-710-7923(세계유산본부 페이지 문의)이다.",
+   "original_text": "문의는 매표소 064-783-0959(비짓제주) 또는 064-710-7923(세계유산본부)이다.",
+   "value": "064-783-0959 / 064-710-7923",
+   "verdict": "corrected",
+   "verify_note": "VisitJeju does not label 064-783-0959 as 매표소",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c17",
+   "field": "description",
+   "text": "마그마가 얕은 바다에서 분출하는 수성 화산활동으로 만들어진 응회구이며, 본래 화산섬이었다가 모래와 자갈이 쌓여 육지와 연결되었다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "VisitJeju body text",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c18",
+   "field": "description",
+   "text": "정상 분화구는 지름 약 600m, 면적 214,400㎡이다.",
+   "original_text": null,
+   "value": "지름 600m, 214,400㎡",
+   "verdict": "verified",
+   "verify_note": "VisitJeju body text",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c19",
+   "field": "description",
+   "text": "2000년 7월 18일 천연기념물 제420호로 지정되었고, 2007년 유네스코 세계자연유산(제주 화산섬과 용암 동굴)의 구성 유산으로 등재되었다.",
+   "original_text": null,
+   "value": "천연기념물 제420호, 2007 세계자연유산",
+   "verdict": "verified",
+   "verify_note": "VisitJeju: 2000.7.18 designated 천연기념물 제420호; 2007 UNESCO",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c20",
+   "field": "highlight",
+   "text": "정상에서 우도와 성산 일대의 마을·바다를 내려다볼 수 있고, 일출은 영주십경의 하나인 '성산일출'이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "VisitJeju body text",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-c21",
+   "field": "highlight",
+   "text": "성산일출봉과 제주 본섬 사이 터진목 일대는 제주4·3의 역사를 간직한 곳이며 일제강점기 군사시설 흔적도 남아 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "VisitJeju body text",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-s1",
+   "field": "fees.exemption",
+   "text": "비짓제주 상세 페이지에 '제주 나우다' 발급 시 'LEVEL 2 이상 전액 감면'이라는 배너가 있다(조건은 나우다 안내에서 확인 필요).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-s2",
+   "field": "description",
+   "text": "성산일출봉은 높이 180m로, 약 5천 년 전 얕은 바다의 수성화산 활동으로 만들어진 응회구이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  },
+  {
+   "cid": "r1-b04-s3",
+   "field": "access",
+   "text": "렌터카·자가용은 제주공항에서 1132번 지방도를 따라 함덕·김녕을 거쳐 성산일출봉으로 간다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b04"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b04",
+   "text": "The holiday-shift closure rule ('공휴일이면 다음 날') is on VisitJeju only. The WNH official page gives just '매달 첫 번째 월요일'."
+  },
+  {
+   "run": "r1-b04",
+   "text": "Coordinates: VisitJeju 33.462147,126.936424 is 545m from OSM 성산일출봉 (284-12) at 33.45889,126.94082. This exceeds the 500m threshold, so it needs a manual map check before publishing."
+  },
+  {
+   "run": "r1-b04",
+   "text": "The WNH page shows no update date (footer Copyright 2019), and its bus directions use road numbers only. Freshness is unknown, so treat it as possible stale_source. Neither page gives an update date (hours.page_updated not found)."
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -162,6 +703,46 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b04",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 21,
+    "verdicts": {
+     "verified": 18,
+     "corrected": 2,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [
+  {
+   "lat": 33.462147,
+   "lng": 126.936424,
+   "source": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+   "verify_note": "VisitJeju value matches. OSM 성산일출봉 node (33.45889,126.94082) is 545m away, which exceeds the 500m rule. See conflicts",
+   "run": "r1-b04"
+  }
+ ],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "개인 승용차 주차장 위치·요금·대수가 공식 페이지에 없음(단체 무료 문구만 확인).",
+   "run": "r1-b04"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b04"
  }
 }

@@ -1,0 +1,26 @@
+[
+ {
+  "key": "east-sh-06",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "상하이타워 전망대",
+  "name_local": "上海中心大厦·上海之巅观光厅",
+  "region": "상하이시 상하이"
+ },
+ {
+  "key": "east-su-01",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "졸정원",
+  "name_local": "拙政园",
+  "region": "장쑤성 쑤저우"
+ },
+ {
+  "key": "east-qd-01",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "잔교",
+  "name_local": "栈桥",
+  "region": "산둥성 칭다오"
+ }
+]

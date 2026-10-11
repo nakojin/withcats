@@ -2,7 +2,7 @@
  "id": "kr-gangwon-namiseom",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "남이섬",
   "local": "남이섬"
@@ -10,7 +10,7 @@
  "admin_region": "강원특별자치도",
  "former_region": null,
  "city": "강원 춘천시 남산면 남이섬길 1; 주요 선착장은 경기 가평",
- "address": null,
+ "address": "강원특별자치도 춘천시 남이섬길 1 (선착장: 경기도 가평군 가평읍 북한강변로 1024)",
  "coord": {
   "lat": 37.791728,
   "lng": 127.525144,
@@ -21,93 +21,636 @@
   "osm": "way/238212575"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "남이섬은 강원 춘천시 남산면 북한강 위의 섬으로, 한국관광공사는 동화나라·노래나라를 콘셉트로 공연·전시·콘서트가 열린다고 소개한다.",
+ "description": "남이섬은 강원 춘천시 남산면 북한강 위의 섬으로, 한국관광공사는 동화나라·노래나라를 콘셉트로 공연·전시·콘서트가 열린다고 소개한다. 섬으로 가려면 경기 가평읍 선착장에서 배를 타야 한다. 섬은 08:00~21:00에 열고 연중무휴이며 봄꽃·여름휴가·단풍철에는 시간이 길어진다. 입장료는 일반 19,000원, 할인 16,000원, 특별 13,000원이고 3세 이하는 무료다. 겨울연가로 알려진 메타세쿼이아길, 27개 테마 정원, 토끼와 공작, 자전거와 스토리투어버스를 즐길 수 있다. 주차장은 600면이며 소형 6,000원, 대형 10,000원이다.",
+ "highlights": [
+  "겨울연가로 알려진 메타세쿼이아길",
+  "27개 테마 정원과 토끼·공작 같은 동물",
+  "배로 들어가는 북한강 위의 섬",
+  "스토리투어버스·유니세프 자선열차·자전거로 섬 돌아보기",
+  "연중무휴, 봄꽃·여름휴가·단풍철 연장 운영"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c2",
+    "r1-b07-c3",
+    "r1-b07-c4",
+    "r1-b07-c5",
+    "r1-b07-c6",
+    "r1-b07-c7"
+   ],
+   "gap": null
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 안내의 권장 소요시간을 찾지 못함"
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c8",
+    "r1-b07-c9",
+    "r1-b07-c10"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "111127 페이지는 08:00~21:00(연장 시즌 있음), 215120 기사(2024-08 갱신)는 9/13~11/17 07:30~21:30. 기사가 12개월 이상 경과한 stale_source이며 2026년 값은 공식 사이트 확인 불가",
+     "detail": "hours.conflict",
+     "run": "r1-b07"
+    }
+   ]
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c11"
+   ],
+   "gap": null
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c12",
+    "r1-b07-c13",
+    "r1-b07-c14"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "입장료 구분 라벨이 관광공사 두 페이지에서 다름: 111127 페이지는 일반/할인/특별 19,000/16,000/13,000원 및 3세 이하 무료, 215120 기사(2024-08)는 성인/중고생/초등생 이하 19,000/16,000/13,000원. 금액 자체는 같고 대상 구분만 다름. 공식 namisum.com 확인 불가",
+     "detail": "fees.conflict",
+     "run": "r1-b07"
+    }
+   ]
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "입장권 사전 예약 여부는 공식 사이트 접근 불가로 확인하지 못함. 셔틀버스만 온라인 예약 필요(관광공사 기사)"
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "official_unreachable",
+    "note": "남이섬 공식 사이트(namisum.com)가 이 환경에서 403/접근 제한으로 열리지 않아 결제수단을 확인하지 못함"
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c18"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "남이섬 자체의 한국어 안내·오디오가이드 여부는 출처에 없음",
+     "detail": "language",
+     "run": "r1-b07"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b07-c21",
+    "r1-b07-c22"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "혼잡 시기·금지사항(반려동물 등)은 공식 출처에서 확인하지 못함",
+     "detail": "caution",
+     "run": "r1-b07"
+    }
+   ]
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b07-c1",
+   "field": "location",
+   "text": "남이섬 주소는 강원특별자치도 춘천시 남이섬길 1이다.",
+   "original_text": null,
+   "value": "강원특별자치도 춘천시 남이섬길 1",
+   "verdict": "verified",
+   "verify_note": "111127 page gives the address 강원특별자치도 춘천시 남이섬길 1",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c2",
+   "field": "access",
+   "text": "섬에 들어가려면 경기도 가평군 가평읍 북한강변로 1024의 남이섬 선착장에서 배를 타야 한다.",
+   "original_text": null,
+   "value": "경기도 가평군 가평읍 북한강변로 1024",
+   "verdict": "verified",
+   "verify_note": "215120 page gives the pier address 북한강변로 1024. That article was last updated Aug 2024, so it is stale",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120",
+     "type": "national_tourism",
+     "page_updated": "2024-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c3",
+   "field": "access",
+   "text": "가평역에서 선착장까지는 도보 약 30분 또는 택시 약 5분이다.",
+   "original_text": null,
+   "value": "도보 30분 / 택시 5분",
+   "verdict": "verified",
+   "verify_note": "Page says 30 min on foot or 5 min by taxi. Stale source (Aug 2024)",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120",
+     "type": "national_tourism",
+     "page_updated": "2024-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c4",
+   "field": "access",
+   "text": "서울 주요 지역(홍대입구·명동·동대문역사문화공원)에서 선착장으로 가는 셔틀버스가 있으며 온라인 예약이 필요하다고 안내된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Page says online reservation is required and gives a timetable. Stale source (Aug 2024)",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120",
+     "type": "national_tourism",
+     "page_updated": "2024-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c5",
+   "field": "access",
+   "text": "동서울버스터미널에서 가평터미널까지 시외버스는 약 1시간 10분이며 가평터미널에서 선착장까지 약 3km다.",
+   "original_text": null,
+   "value": "약 1시간 10분 / 3km",
+   "verdict": "verified",
+   "verify_note": "Page says about 1 h 10 min and about 3 km, and recommends a taxi. Stale source (Aug 2024)",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120",
+     "type": "national_tourism",
+     "page_updated": "2024-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c6",
+   "field": "parking",
+   "text": "주차장이 있으며 600면으로 안내된다.",
+   "original_text": null,
+   "value": "600면",
+   "verdict": "verified",
+   "verify_note": "Page says Available (600 spaces)",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c7",
+   "field": "parking",
+   "text": "주차요금은 소형 6,000원, 대형 10,000원이며 12시간 초과 시 1시간마다 1,000원이 추가된다(호텔 정관루 투숙객 제외).",
+   "original_text": null,
+   "value": "소형 6000원 / 대형 10000원",
+   "verdict": "verified",
+   "verify_note": "Matches the page, which spells the hotel 'Jeongwallu'",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c8",
+   "field": "hours",
+   "text": "섬 운영시간은 08:00~21:00이며 봄꽃·여름휴가·단풍철에는 더 길어진다.",
+   "original_text": null,
+   "value": "08:00-21:00",
+   "verdict": "verified",
+   "verify_note": "08:00–21:00, with longer hours in the spring blossom, summer vacation and fall foliage seasons",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c9",
+   "field": "hours",
+   "text": "선착장 출발 배는 08:00~09:00에 30분 간격, 09:00~18:00에 10~20분 간격이며 사정에 따라 바뀔 수 있다.",
+   "original_text": null,
+   "value": "08:00-09:00 30분 / 09:00-18:00 10-20분",
+   "verdict": "verified",
+   "verify_note": "Ferry departures from Gapyeongnaru Pier, schedule subject to change",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c10",
+   "field": "hours",
+   "text": "관광공사 기본정보는 가평나루 출발 배를 08:00~09:00 30분 간격, 09:00~18:00 10~20분 간격으로 안내하고 상황에 따라 바뀔 수 있다고 적는다. 봄꽃·여름휴가·단풍철에는 운영시간이 길어진다.",
+   "original_text": "같은 관광공사 기사는 18:00~21:00에 배가 30분 간격이고 9월 13일~11월 17일에는 07:30~21:30으로 연장된다고 적었다(2024년 8월 기준 기사).",
+   "value": "07:30-21:30 (9/13-11/17, 2024 기사)",
+   "verdict": "outdated",
+   "verify_note": "The 18:00–21:00 interval and the 07:30–21:30 extension (9/13–11/17) come only from the Aug 2024 article. The current basic-info page does not list them",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120",
+     "type": "national_tourism",
+     "page_updated": "2024-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c11",
+   "field": "closed_days",
+   "text": "휴무일이 없고 연중 운영한다.",
+   "original_text": null,
+   "value": "연중무휴",
+   "verdict": "verified",
+   "verify_note": "Page says N/A (Open all year round)",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c12",
+   "field": "fees",
+   "text": "입장료는 일반 19,000원, 할인 16,000원, 특별 13,000원이다.",
+   "original_text": "입장료는 일반 19,000원, 할인 16,000원, 특별 13,000원이며 남이섬 입장과 배삯이 포함된다.",
+   "value": "19000/16000/13000원",
+   "verdict": "corrected",
+   "verify_note": "The fee amounts match. On the page, the note 'Admission to Nami Island and ferry fare are included' sits inside the zip-wire block, so it does not support a ferry-included claim for regular admission",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c13",
+   "field": "fees",
+   "text": "3세 이하 미취학 아동은 입장료가 무료다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "Page says Preschoolers (ages 3 & younger) are free",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c14",
+   "field": "fees",
+   "text": "선착장 안내 기사는 성인 19,000원, 중·고생 16,000원, 초등학생 이하 13,000원으로 구분한다(2024년 8월 기준).",
+   "original_text": null,
+   "value": "19000/16000/13000원",
+   "verdict": "verified",
+   "verify_note": "Matches the article. Stale source (Aug 2024). The current page names the tiers regular, discount and special without giving age groups",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120",
+     "type": "national_tourism",
+     "page_updated": "2024-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c15",
+   "field": "tip",
+   "text": "짚와이어(가평 선착장 출발)는 남이섬 입장료와 왕복 배삯이 포함되며 가족 코스 55,000원, 어드벤처 코스 58,000원이다.",
+   "original_text": null,
+   "value": "55000/58000원",
+   "verdict": "verified",
+   "verify_note": "88021 page: Family 55,000 won and Adventure 58,000 won, includes Nami admission and return ferry. 111127 labels the same prices '5%/15% grade slope'",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88021",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c16",
+   "field": "tip",
+   "text": "섬 안 이동은 스토리투어버스 8,000원(20분), 유니세프 열차 4,000원(10분), 자전거 30분 5,000원/1시간 8,000원이며 전기자전거는 운전면허가 필요하다(2024년 8월 기준).",
+   "original_text": null,
+   "value": "버스 8000원 / 열차 4000원 / 자전거 5000·8000원",
+   "verdict": "verified",
+   "verify_note": "Matches the article. Stale source (Aug 2024)",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120",
+     "type": "national_tourism",
+     "page_updated": "2024-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c17",
+   "field": "tip",
+   "text": "자전거 대여 마지막 시간은 17:20이다(2024년 8월 기준).",
+   "original_text": null,
+   "value": "17:20",
+   "verdict": "verified",
+   "verify_note": "Last rental time 17:20. Stale source (Aug 2024)",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120",
+     "type": "national_tourism",
+     "page_updated": "2024-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c18",
+   "field": "language",
+   "text": "관광공사 1330 여행안내는 한국어·영어·일본어·중국어 등으로 이용할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Page also lists Russian, Vietnamese, Thai and Indonesian",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120",
+     "type": "national_tourism",
+     "page_updated": "2024-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c19",
+   "field": "description",
+   "text": "한국관광공사는 남이섬을 동화나라와 노래나라를 콘셉트로 공연·전시·콘서트를 여는 곳으로 소개한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Page describes the island's concept as 'Fairy Tale Village and Song Village'",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c20",
+   "field": "highlight",
+   "text": "겨울연가로 알려진 메타세쿼이아길과 27개 테마 정원이 있고 토끼·공작 같은 동물을 볼 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Metasequoia Lane, 27 thematic gardens, rabbits and peacocks are all on the page. Stale source (Aug 2024)",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120",
+     "type": "national_tourism",
+     "page_updated": "2024-08",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c21",
+   "field": "caution",
+   "text": "짚와이어 운영시간은 4~10월 09:00~19:00, 11~3월 09:00~18:00이며 날씨에 따라 바뀔 수 있다.",
+   "original_text": null,
+   "value": "4-10월 09:00-19:00 / 11-3월 09:00-18:00",
+   "verdict": "verified",
+   "verify_note": "April–October 09:00–19:00, November–March 09:00–18:00, depending on weather",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-c22",
+   "field": "caution",
+   "text": "관광공사 안내는 입장 시 보호자 동반을 권장한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Page says 'Parental guidance recommended'",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-s1",
+   "field": "caution",
+   "text": "짚와이어는 체중 35~120kg, 키 140~200cm이고 건강한 사람만 탈 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88021",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  },
+  {
+   "cid": "r1-b07-s2",
+   "field": "duration",
+   "text": "짚와이어는 장비 착용부터 도착까지 약 4분 걸린다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88021",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b07"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b07",
+   "text": "Zip-wire page 88021: parking 4,000 won. Basic-info page 111127: small cars 6,000 won, large cars 10,000 won"
+  },
+  {
+   "run": "r1-b07",
+   "text": "Zip-wire hours: 88021 says 09:00–18:00. 111127 says April–October 09:00–19:00 and November–March 09:00–18:00"
+  },
+  {
+   "run": "r1-b07",
+   "text": "Zip-wire fee and naming: the 2024 article gives a single 55,000 won fee. 88021 says Family/Adventure 55,000/58,000 won. 111127 says 5%/15% grade slope"
+  },
+  {
+   "run": "r1-b07",
+   "text": "Article 215120 (last updated Aug 2024) is more than 12 months old. stale_source applies to c2–c5, c10, c14, c16, c17 and c20"
+  },
+  {
+   "run": "r1-b07",
+   "text": "Article 215120 places the island in 'Gapyeong, Gyeonggi-do', but the official address is 춘천시 남산면 in Gangwon"
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -197,6 +740,46 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b07",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 22,
+    "verdicts": {
+     "verified": 20,
+     "corrected": 1,
+     "outdated": 1,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 2
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.conflict",
+   "note": "111127 페이지는 소형 6,000원/대형 10,000원, 88021(짚와이어) 페이지는 남이섬 주차장 4,000원으로 표기. 어느 주차장 기준인지와 최신 요금은 공식 확인 불가",
+   "run": "r1-b07"
+  },
+  {
+   "topic": "stale_source",
+   "note": "111127 페이지의 갱신일을 확인하지 못함. 215120 기사는 2024-08 갱신으로 12개월 이상 경과. namisum.com 접근 불가로 대체 공식 출처 미확보",
+   "run": "r1-b07"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "입장료에 배삯이 포함된다 (after the c12 correction, no source supports ferry fare being included in regular admission)",
+   "배로 들어가는 북한강 위의 섬(입장료에 배삯 포함) - the part in parentheses has no source"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b07"
  }
 }

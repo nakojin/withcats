@@ -1,0 +1,26 @@
+[
+ {
+  "key": "kr-incheon-chinatown-open-port-parent",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "인천 차이나타운·개항장",
+  "name_local": "인천 차이나타운·개항장",
+  "region": "인천광역시 인천 제물포구 차이나타운·개항장 일대"
+ },
+ {
+  "key": "kr-incheon-wolmi-culture-street",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "월미문화의거리",
+  "name_local": "월미문화의거리",
+  "region": "인천광역시 중구"
+ },
+ {
+  "key": "kr-gyeongnam-tongdosa",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "양산 통도사",
+  "name_local": "양산 통도사",
+  "region": "경상남도 양산시 하북면 통도사로 108"
+ }
+]

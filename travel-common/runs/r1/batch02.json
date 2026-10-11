@@ -1,0 +1,26 @@
+[
+ {
+  "key": "kr-busan-haeundae-parent",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "부산 해운대",
+  "name_local": "부산 해운대",
+  "region": "부산광역시 해운대구 해변·미포 해안 관광권"
+ },
+ {
+  "key": "kr-busan-gwangalli-bridge-overview",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "광안리·광안대교",
+  "name_local": "광안리·광안대교",
+  "region": "부산광역시 부산 수영구 광안해변로 일대"
+ },
+ {
+  "key": "kr-seoul-changdeokgung",
+  "status": "existing",
+  "country": "kr",
+  "name_ko": "창덕궁",
+  "name_local": "창덕궁",
+  "region": "서울특별시 서울 종로구 율곡로 99"
+ }
+]

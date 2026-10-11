@@ -1,0 +1,26 @@
+[
+ {
+  "key": "new:jp-kyoto-arashiyama-bamboo",
+  "status": "new",
+  "country": "jp",
+  "name_ko": "아라시야마 대나무숲",
+  "name_local": "嵐山 竹林の小径",
+  "region": "교토부 교토시 우쿄구"
+ },
+ {
+  "key": "new:jp-nara-nara-park",
+  "status": "new",
+  "country": "jp",
+  "name_ko": "나라 공원",
+  "name_local": "奈良公園",
+  "region": "나라현 나라시"
+ },
+ {
+  "key": "new:jp-fukuoka-canal-city",
+  "status": "new",
+  "country": "jp",
+  "name_ko": "캐널시티 하카타",
+  "name_local": "キャナルシティ博多",
+  "region": "후쿠오카현 후쿠오카시 하카타구"
+ }
+]

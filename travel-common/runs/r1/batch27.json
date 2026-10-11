@@ -1,0 +1,26 @@
+[
+ {
+  "key": "xa-terracotta",
+  "status": "existing",
+  "country": "cn",
+  "name_ko": "진시황제릉박물원·병마용",
+  "name_local": "秦始皇帝陵博物院",
+  "region": "산시성(陝西) 시안"
+ },
+ {
+  "key": "new:cn-shanghai-kpg-provisional-gov",
+  "status": "new",
+  "country": "cn",
+  "name_ko": "대한민국 임시정부 상하이 청사 유적",
+  "name_local": "大韩民国临时政府旧址",
+  "region": "상하이시 황푸구"
+ },
+ {
+  "key": "new:cn-shanghai-oriental-pearl",
+  "status": "new",
+  "country": "cn",
+  "name_ko": "동방명주 타워",
+  "name_local": "东方明珠广播电视塔",
+  "region": "상하이시 푸둥신구"
+ }
+]
