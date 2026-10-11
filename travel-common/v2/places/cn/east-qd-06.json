@@ -2,7 +2,7 @@
  "id": "east-qd-06",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "라오산 풍경구",
   "local": "崂山风景名胜区"
@@ -10,7 +10,7 @@
  "admin_region": "산둥성",
  "former_region": null,
  "city": "칭다오",
- "address": null,
+ "address": "青岛市崂山区梅岭路29号(崂山风景名胜区管理局)",
  "coord": {
   "lat": 36.196807,
   "lng": 120.629681,
@@ -21,93 +21,1285 @@
   "osm": "relation/15465997"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "라오산은 칭다오 동쪽 황해 연안에 솟은 국가 5A급 관광지이자 국가중점풍경명승구로, 면적은 446제곱킬로미터다.",
+ "description": "라오산은 칭다오 동쪽 황해 연안에 솟은 국가 5A급 관광지이자 국가중점풍경명승구로, 면적은 446제곱킬로미터다. 주봉 쥐펑은 해발 1132.7미터로 중국 대륙 해안선에서 가장 높다. 류칭, 쥐펑, 타이칭, 화옌, 양커우, 주수이, 화러우 일곱 구역이 핵심이며, 2100여 년 역사의 타이칭궁은 라오산 도교의 조정으로 꼽힌다. 4월 1일부터 12월 31일까지 남선 구역 문표는 90위안, 주수이 구역은 60위안이고 관광버스표는 따로 받는다. 남선 방면 다허둥 방문자센터는 지하철 4호선 다허둥역 A출구에서 이어지고 센터 주차는 무료다. 성수기에는 예약 구매 정원이 마감되어 인원 제한이 걸리기도 한다.",
+ "highlights": [
+  "쥐펑은 해발 1132.7미터로 중국 대륙 해안선에서 가장 높은 봉우리",
+  "기원전 140년에 세워진 타이칭궁은 라오산 도교의 조정",
+  "남선 문표 90위안, 주수이 문표 60위안(4~12월), 화러우는 10위안",
+  "지하철 4호선 다허둥역 A출구에서 관광버스로 연결",
+  "다허둥·양커우·주수이 방문자센터는 무료 주차와 무료 짐 보관 제공",
+  "2026년 9월 5일부터 타이칭 케이블카 노선 탐방로 폐쇄, 룽탄폭포 길로 우회"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b25-c1",
+    "r1-b25-c2"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b25-c40",
+    "r1-b25-c41",
+    "r1-b25-c42",
+    "r1-b25-c43"
+   ],
+   "gap": null
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 안내에 권장 소요 시간이 없다. 표 유효기간(당일·2일·3일)만 확인."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b25-c33",
+    "r1-b25-c34"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "평시 개방 시간과 매표 마감을 하나로 정리한 현행 공식 페이지를 찾지 못했다. 위 7:00~17:30은 2025년 10월 조정 공지 속 기재이며, 한국어 공지(노산관광풍경구 운영 시간)는 구버전이라 현행 값으로 쓰지 않았다.",
+     "detail": "hours",
+     "run": "r1-b25"
+    }
+   ]
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "정기 휴무일 안내가 공식 페이지에 없다. 폭우·정비 시 임시 폐쇄 공지만 있다."
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b25-c10",
+    "r1-b25-c11",
+    "r1-b25-c12",
+    "r1-b25-c13",
+    "r1-b25-c14",
+    "r1-b25-c15",
+    "r1-b25-c16",
+    "r1-b25-c17",
+    "r1-b25-c18",
+    "r1-b25-c19",
+    "r1-b25-c20",
+    "r1-b25-c21",
+    "r1-b25-c22",
+    "r1-b25-c24",
+    "r1-b25-c25",
+    "r1-b25-c26",
+    "r1-b25-c27"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "요금표는 이미지이며 2026-06-04 공지로 12개월 이내이다. 공식 홈페이지 FAQ의 특수 계층 우대는 갱신일이 표기되지 않았다. 유의사항(5571호)은 2024-09-17 게시라 12개월 이상 경과(stale_source) — 다른 공식 출처가 있으면 재확인 필요.",
+     "detail": "fees.stale",
+     "run": "r1-b25"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b25-c35",
+    "r1-b25-c36",
+    "r1-b25-c37",
+    "r1-b25-c38",
+    "r1-b25-c39"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "외국인 여권으로 예약하는 방법은 공식 페이지에 없다. 확인된 예약 절차는 신분증 번호 기준(화러우 안내)뿐이고, 일반 유람구 예약 절차 전문은 확인하지 못했다(공식 구매 페이지 Index-yuyue.html은 본문이 비어 있음).",
+     "detail": "reservation",
+     "run": "r1-b25"
+    }
+   ]
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "official_unreachable",
+    "note": "외국 카드·현금·모바일 결제 가능 여부는 공식 페이지에서 확인되지 않았다. 온라인 구매 창구(미니프로그램)는 JS 렌더링이라 열리지 않았다."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b25-c52"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내·오디오가이드 현장 서비스는 확인하지 못했다. 웹사이트 한국어 페이지는 2019년 이전 내용이라 인용하지 않았다.",
+     "detail": "language",
+     "run": "r1-b25"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b25-c46",
+    "r1-b25-c47",
+    "r1-b25-c48",
+    "r1-b25-c49",
+    "r1-b25-c50",
+    "r1-b25-c51"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b25-c1",
+   "field": "location",
+   "text": "라오산은 칭다오 동쪽 황해 연안에 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "位于青岛市东部、黄海之滨",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Index-laoshan.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c2",
+   "field": "location",
+   "text": "공식 웹사이트 하단에 기재된 주소는 칭다오시 라오산구 메이링로 29호(우편번호 266061)이다.",
+   "original_text": "관리국의 소재지 주소는 칭다오시 라오산구 메이링로 29호이다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "Page footer gives only '地址'; it does not say this is the bureau's seat. It is not a visitor entrance address",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/New-Index-index.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c3",
+   "field": "description",
+   "text": "라오산 전체 면적은 446제곱킬로미터이다.",
+   "original_text": null,
+   "value": "446km2",
+   "verdict": "verified",
+   "verify_note": "总面积446平方公里",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Index-laoshan.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c4",
+   "field": "description",
+   "text": "주봉 쥐펑은 해발 1132.7미터로 중국 대륙 해안선에서 가장 높은 봉우리이다.",
+   "original_text": null,
+   "value": "1132.7m",
+   "verdict": "verified",
+   "verify_note": "1132.7米, 中国大陆海岸线第一高峰",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Index-laoshan.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c5",
+   "field": "description",
+   "text": "라오산은 1982년 국무원이 첫 국가중점풍경명승구로 지정했다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "1982 首批国家重点风景名胜区",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Index-laoshan.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c6",
+   "field": "description",
+   "text": "라오산은 국가 AAAAA급 관광지이자 국가삼림공원이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Index-laoshan.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c7",
+   "field": "description",
+   "text": "핵심 관광 구역은 류칭, 쥐펑, 타이칭, 화옌, 양커우, 주수이, 화러우 일곱 곳이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "七个游览区",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Index-laoshan.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c8",
+   "field": "description",
+   "text": "타이칭궁은 기원전 140년(서한 건원 원년)에 세워져 2100년 넘은 역사를 가지며 라오산 도교의 조정(祖庭)이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Index-laoshan.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c9",
+   "field": "description",
+   "text": "라오산은 화강암 빙하 지형으로 상형석이 많아 '천연 조각 공원'이라 불린다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "花岗岩冰川地貌, 天然雕塑公园",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Index-laoshan.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c10",
+   "field": "fees",
+   "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 남선 유람구(쥐펑 포함, 쥐펑·타이칭·화옌·양커우, 2일 유효): 문표 90위안, 관광버스표 60위안, 합계 150위안이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Fee image (notice 2026-06-04) read directly: 90/60/150, 两日有效",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+     "type": "official",
+     "page_updated": "2026-06-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c11",
+   "field": "fees",
+   "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 남선 유람구(쥐펑 제외, 타이칭·화옌·양커우, 2일 유효): 문표 90위안, 관광버스표 40위안, 합계 130위안이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "image: 90/40/130",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+     "type": "official",
+     "page_updated": "2026-06-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c12",
+   "field": "fees",
+   "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 쥐펑 유람구(당일 유효): 문표 80위안, 관광버스표 40위안, 합계 120위안이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "image: 80/40/120 当日",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+     "type": "official",
+     "page_updated": "2026-06-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c13",
+   "field": "fees",
+   "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 주수이 유람구(주수이·화러우, 당일 유효): 문표 60위안, 관광버스표 30위안, 합계 90위안이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "image: 60/30/90 九水·华楼",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+     "type": "official",
+     "page_updated": "2026-06-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c14",
+   "field": "fees",
+   "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 화러우 유람구(당일 유효): 문표 10위안이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "image: 华楼 10元",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+     "type": "official",
+     "page_updated": "2026-06-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c15",
+   "field": "fees",
+   "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 일표제(남선+주수이, 3일 유효): 문표 140위안, 관광버스표 70위안, 합계 210위안이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "image: 140/70/210 三日有效",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+     "type": "official",
+     "page_updated": "2026-06-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c16",
+   "field": "fees",
+   "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 남선 유람구(쥐펑 포함, 2일 유효): 문표 60위안, 관광버스표 60위안, 합계 120위안이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "image: 60/60/120",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+     "type": "official",
+     "page_updated": "2026-06-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c17",
+   "field": "fees",
+   "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 남선 유람구(쥐펑 제외, 2일 유효): 문표 60위안, 관광버스표 40위안, 합계 100위안이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "image: 60/40/100",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+     "type": "official",
+     "page_updated": "2026-06-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c18",
+   "field": "fees",
+   "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 쥐펑 유람구(당일 유효): 문표 50위안, 관광버스표 40위안, 합계 90위안이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "image: 50/40/90",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+     "type": "official",
+     "page_updated": "2026-06-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c19",
+   "field": "fees",
+   "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 주수이 유람구(주수이·화러우, 당일 유효): 문표 40위안, 관광버스표 30위안, 합계 70위안이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "image: 40/30/70",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+     "type": "official",
+     "page_updated": "2026-06-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c20",
+   "field": "fees",
+   "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 일표제(남선+주수이, 3일 유효): 문표 90위안, 관광버스표 70위안, 합계 160위안이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "image: 90/70/160",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+     "type": "official",
+     "page_updated": "2026-06-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c21",
+   "field": "fees",
+   "text": "화러우 유람구 문표는 2026년 4월 1일부터 10위안이며, 이미 주수이 유람구 표를 산 사람은 다시 사지 않아도 된다.",
+   "original_text": null,
+   "value": 10,
+   "verdict": "verified",
+   "verify_note": "notice 2026-03-27",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6282.html",
+     "type": "official",
+     "page_updated": "2026-03-27",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c22",
+   "field": "fees",
+   "text": "타이칭궁은 별도 유료 도관이라 현지에서 직접 표를 사야 하며 요금은 1인 27위안이다.",
+   "original_text": null,
+   "value": 27,
+   "verdict": "verified",
+   "verify_note": "image note 1: 27元/人",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+     "type": "official",
+     "page_updated": "2026-06-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c23",
+   "field": "fees",
+   "text": "케이블카는 별도 구매이며 날씨로 운행이 중단될 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "unverifiable",
+   "verify_note": "병합 시 처리: 타이칭 케이블카가 2026-04-24부터 운행 중단(공식 공지)이라 정상 운행 전제 문장은 비공개. 원 판정 verified / 원 메모: Image note 2 matches, but Taiqing cableway suspended since 2026-04-24 (see conflicts)",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+     "type": "official",
+     "page_updated": "2026-06-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c24",
+   "field": "fees",
+   "text": "60세 이상(60세 포함) 노인은 유효 신분증으로 문표 무료, 관광버스표 반값이다.",
+   "original_text": "60세 이상(60세 포함) 노인은 유효 신분증으로 문표 무료, 관광버스표와 케이블카 반값이다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "병합 시 처리: 운행 중단 중인 케이블카 반값 부분을 뺌. 원 판정 verified / 원 메모: FAQ 长期执行的优惠政策; page undated",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c25",
+   "field": "fees",
+   "text": "6세 이하 또는 키 1.4미터 이하 어린이는 문표·관광버스표·케이블카표가 모두 무료이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "6周岁(含)以下或1.4米(含)以下",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c26",
+   "field": "fees",
+   "text": "6세 초과~18세 미성년자와 전일제 대학 이하 재학생은 문표가 반값이며 관광버스표 할인은 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches (18 inclusive)",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c27",
+   "field": "fees",
+   "text": "장애인은 증명서로 문표가 무료이고 관광버스표 할인은 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "page adds one companion for severely disabled or visually impaired visitors gets the same discount",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c28",
+   "field": "fees",
+   "text": "현역 군인과 군 학원생은 문표가 무료이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "unverifiable",
+   "verify_note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; low traveller value",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c29",
+   "field": "fees",
+   "text": "퇴역 군인과 영군카(荣军卡) 소지자는 문표가 무료이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "unverifiable",
+   "verify_note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; low traveller value",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c30",
+   "field": "fees",
+   "text": "소방구조대원은 문표가 무료이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "unverifiable",
+   "verify_note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; low traveller value",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c31",
+   "field": "fees",
+   "text": "기자는 유효 증명서로 문표가 무료이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "unverifiable",
+   "verify_note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; low traveller value",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c32",
+   "field": "fees",
+   "text": "인솔 가이드는 증명서와 단체 일정표를 제시하면 문표·관광버스표가 무료이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "unverifiable",
+   "verify_note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; low traveller value",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c33",
+   "field": "hours",
+   "text": "2025년 10월 23일 공지는 주수이 유람구와 얼룽산 경구의 개방 시간이 변동 없이 7:00~17:30이라고 밝혔다(해당일 조정 공지 속 기재).",
+   "original_text": null,
+   "value": "07:00-17:30",
+   "verdict": "verified",
+   "verify_note": "Notice dated 2025-10-23 (under 12 months old) about the 10-26 race day. It only shows 九水/二龙山 normal hours. Claim text states its date",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6078.html",
+     "type": "official",
+     "page_updated": "2025-10-23",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c34",
+   "field": "hours",
+   "text": "같은 공지에서 주수이 방면 관광버스는 첫차 7:00, 막차 17:30이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "九水游客服务中心 首车7:00 末车17:30",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6078.html",
+     "type": "official",
+     "page_updated": "2025-10-23",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c35",
+   "field": "reservation",
+   "text": "화러우 유람구는 공식 계정 '칭다오 라오산 풍경명승구'에서 '라오산 표무통' 미니프로그램으로 가서 날짜를 고르고 방문자 정보(이름·신분증 번호·휴대폰 번호)를 입력해 예약한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Notice 2025-12-29. Says '免费预约', which predates the 10元 fee (see conflicts)",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6155.html",
+     "type": "official",
+     "page_updated": "2025-12-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c36",
+   "field": "reservation",
+   "text": "화러우는 예약한 날 본인 신분증 원본을 스캔해 입장하며 현장 표 교환은 필요 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "刷证入园 无需线下换票",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6155.html",
+     "type": "official",
+     "page_updated": "2025-12-29",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c37",
+   "field": "reservation",
+   "text": "2026년 10월 3일 공지에 따르면 남선(쥐펑·타이칭)과 동선(양커우·화옌)은 예약 구매 정원이 가득 차 인원 제한이 시행되었고, 구매한 방문자는 예약 시간에 맞춰 입장해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "notice 2026-10-03",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6558.html",
+     "type": "official",
+     "page_updated": "2026-10-03",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c38",
+   "field": "reservation",
+   "text": "연간 회원권 중 개인 카드는 사전 예약 없이 신분증을 스캔해 입장하고 가족 카드는 실물 카드를 스캔한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Official reply 2026-10-10. Annual card not usable on May Day/National Day holidays. Low value for foreign travellers",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Zixun-index.html",
+     "type": "official",
+     "page_updated": "2026-10-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c39",
+   "field": "reservation",
+   "text": "2024년 9월 게시된 경구 관람 수칙에 따르면, 할인 대상 특수 계층은 유효 증명서를 지참해 방문자센터(客服中心) 현장에서 문의·구매해야 한다.",
+   "original_text": "할인 대상 특수 계층은 유효 증명서를 지참해 방문자센터 현장에서 구매 수속을 해야 한다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "Source 2024-09-17 (over 12 months old). No current page confirms it, so the date must be stated. Page says 现场咨询办理",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-5571.html",
+     "type": "official",
+     "page_updated": "2024-09-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c40",
+   "field": "access",
+   "text": "남선(쥐펑·타이칭)은 지하철 4호선 다허둥역 A출구에서 나와 다허둥 방문자센터에서 관광버스로 갈아탄다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "notice 2026-02-20",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6223.html",
+     "type": "official",
+     "page_updated": "2026-02-20",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c41",
+   "field": "access",
+   "text": "북선(주수이·화러우)은 란구쾌선 베이주수이역 B출구로 나가 주수이 환승센터에서 관광버스를 탄다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "北九水站B出入口, 九水换乘中心",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6223.html",
+     "type": "official",
+     "page_updated": "2026-02-20",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c42",
+   "field": "access",
+   "text": "동선(양커우·화옌)은 란구쾌선 푸리역 A출구로 나가 620번 또는 926번 버스로 갈아타 양커우역에서 내린다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "浦里站A, 620/926, 仰口站",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6223.html",
+     "type": "official",
+     "page_updated": "2026-02-20",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c43",
+   "field": "parking",
+   "text": "다허둥·양커우·주수이 방문자센터는 무료로 주차할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "FAQ undated; 大河东/仰口/九水 free",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-2.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c44",
+   "field": "tip",
+   "text": "라오산·양커우·주수이 방문자센터와 주수이 유람구 내 싼수이 검표소에서 짐을 무료로 맡길 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "FAQ undated",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-1.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c45",
+   "field": "tip",
+   "text": "경구 관광 서비스 전화는 0532-96616이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "0532-96616",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6282.html",
+     "type": "official",
+     "page_updated": "2026-03-27",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c46",
+   "field": "caution",
+   "text": "2026년 2월 공지는 양커우 방향 도로가 막히므로 자가용 방문을 피하고 대중교통을 먼저 이용하라고 안내했다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "2026-02-20 notice",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6223.html",
+     "type": "official",
+     "page_updated": "2026-02-20",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c47",
+   "field": "caution",
+   "text": "2026년 9월 5일부터 타이칭 케이블카 노선의 탐방로가 24시간 폐쇄되며 재개 시점은 추후 공지된다(야구~타오위안커우~케이블카 상부역 등).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "notice 2026-08-31",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6527.html",
+     "type": "official",
+     "page_updated": "2026-08-31",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c48",
+   "field": "caution",
+   "text": "타이칭 케이블카 구간이 폐쇄되는 동안 밍샤동·상칭궁은 바수이허에서 룽탄폭포 등산로로 왕복해 가라고 안내했다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "由八水河沿龙潭瀑步行登山路往返",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6527.html",
+     "type": "official",
+     "page_updated": "2026-08-31",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c49",
+   "field": "caution",
+   "text": "2024년 9월 게시된 경구 관람 수칙에 따르면 야간 입산, 반려동물 동반, 경구 내 물에 들어가거나 수영하기, 암벽·나무·위험한 바위 오르기, 비개방 구역 출입이 금지된다.",
+   "original_text": "야간 산행, 반려동물 동반, 계곡 수영, 암벽·나무 오르기는 금지된다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "Source 2024-09-17 (over 12 months old), so the date must be stated. The swimming ban covers the whole site, not only valleys",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-5571.html",
+     "type": "official",
+     "page_updated": "2024-09-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c50",
+   "field": "caution",
+   "text": "심장병·고혈압·저혈당·고소공포증이 있는 사람은 등산 관광 표 구매를 신중히 하라고 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "fee image note 3",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+     "type": "official",
+     "page_updated": "2026-06-04",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c51",
+   "field": "caution",
+   "text": "안전·날씨·정비·수용 인원 조절로 제한이나 폐쇄가 있을 수 있으며 경구 공지를 따라야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "2024 须知 item 5. The 2026-10-03 limit notice confirms the practice continues",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-5571.html",
+     "type": "official",
+     "page_updated": "2024-09-17",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c52",
+   "field": "language",
+   "text": "공식 웹사이트는 중국어·영어·일본어·한국어 페이지를 제공한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "中文/English/日本語/한국어 links. Korean page content is outdated",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/New-Index-index.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-s1",
+   "field": "caution",
+   "text": "타이칭 케이블카는 국가 여객 삭도 안전 규정에 따라 2026년 4월 24일부터 운행이 중단되었고 재개 시점은 추후 공지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6319.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-s2",
+   "field": "reservation",
+   "text": "화러우 유람구 표(10위안)는 경구 공식 계정, 씨트립(携程), 메이퇀(美团) 등 온라인 채널에서 살 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/News-info-nid-6282.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-s3",
+   "field": "language",
+   "text": "경구 가이드 센터 명단에 중국어·영어 이중 언어 해설사가 소개되어 있다(타이칭궁 도교 문화 중·영 해설 등).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://qdlaoshan.cn/Index-daofu.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b25",
+   "text": "Cableway: c23/c24 present the Taiqing cableway as a normal option (separate ticket, half price for seniors). The official notice (2026-04-18) says it has been suspended since 2026-04-24, and the 2026-08-31 notice says safety rectification is ongoing. The guide should say it is currently suspended."
+  },
+  {
+   "run": "r1-b25",
+   "text": "Hualou: the 2025-12-29 reservation flow (c35/c36) calls booking '免费预约'. Since 2026-04-01 Hualou costs 10元 (2026-03-27 notice; fee table 2026-06-04). The booking flow is probably still valid but no longer free."
+  },
+  {
+   "run": "r1-b25",
+   "text": "Hours: no official page gives the normal opening hours of the south and east lines (太清/巨峰/仰口/华严). The only hours found (c33) come from a single-day 2025-10-23 adjustment notice. Keep hours unconfirmed. Lookups tried: home notices and guide centre."
+  },
+  {
+   "run": "r1-b25",
+   "text": "Stale source: News-info-nid-5571 (游览须知) is dated 2024-09-17, over 12 months old. c39 and c49 now state the date."
+  },
+  {
+   "run": "r1-b25",
+   "text": "The official Korean page (New-Korean-index.html) describes 9 scenic areas. The current Chinese page lists 7 (c7). The Korean page is outdated; follow the Chinese page."
+  },
+  {
+   "run": "r1-b25",
+   "text": "Record address (梅岭路29号) is the site footer address, not a visitor entrance. For travellers, give the 大河东/仰口/九水 visitor centres instead."
+  },
+  {
+   "run": "r1-b25",
+   "text": "Not useful for travellers: c28–c32 (military, veterans, fire-rescue, press, tour guides) are administrative discount groups. Collapse them to seniors 60+, children ≤6 or ≤1.4m, students/minors half price. Whether passports count as 有效证件 is not stated."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -186,6 +1378,32 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b25",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 52,
+    "verdicts": {
+     "verified": 42,
+     "corrected": 4,
+     "outdated": 0,
+     "unverifiable": 6,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 3
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b25"
  }
 }

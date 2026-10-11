@@ -2,7 +2,7 @@
  "id": "bj-wtown",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "구베이수이전·쓰마타이 장성 리조트",
   "local": "古北水镇（司马台长城）"
@@ -10,7 +10,7 @@
  "admin_region": "베이징시",
  "former_region": null,
  "city": "베이징",
- "address": null,
+ "address": "北京市密云区古北口镇司马台村古北水镇（司马台长城）国际旅游度假区",
  "coord": {
   "lat": 40.648912,
   "lng": 117.266986,
@@ -21,93 +21,1264 @@
   "osm": "way/441960704"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "구베이수이전은 베이징 미윈구 구베이커우진의 쓰마타이 장성 기슭에 있는 약 9제곱킬로미터 규모의 종합 휴양지다.",
+ "description": "구베이수이전은 베이징 미윈구 구베이커우진의 쓰마타이 장성 기슭에 있는 약 9제곱킬로미터 규모의 종합 휴양지다. 여섯 구역과 세 계곡으로 나뉘며, 43만 제곱미터에 명·청과 민국 양식의 산지 합원 건축이 들어서 있다. 테마 호텔 7곳, 부티크 호텔 10곳, 민박 28곳에 독립 식당 30여 곳과 상점 50여 곳이 있어 머물며 즐기기 좋다. 쓰마타이 장성은 험준하고 망루 간격이 촘촘한 것으로 알려졌고, 케이블카를 탄 뒤 5호 봉화대까지 걷는 코스와 야경 코스가 있다. 온라인 구매 때는 신분증 번호를 입력하지만 현장에서 코드를 스캔해 입장하면 신분증은 필요 없다. 시내에서 자가용으로 약 2시간 걸린다.",
+ "highlights": [
+  "쓰마타이 장성 기슭의 약 9제곱킬로미터 휴양지로 6개 구역과 3개 계곡으로 구성",
+  "명·청과 민국 양식의 산지 합원 건축 43만 제곱미터",
+  "쓰마타이 장성은 험준함·촘촘함·기이함으로 유명하고 망루 평균 간격이 140미터",
+  "케이블카로 올라 5호 봉화대까지 걷는 코스와 야경 코스",
+  "2016년에 조성한 야간 관광 '팔대명완'",
+  "현장 코드 스캔 입장은 신분증이 필요 없고, 온라인 구매는 신분증 번호 입력"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b25-c1",
+    "r1-b25-c2"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b25-c35",
+    "r1-b25-c36",
+    "r1-b25-c37",
+    "r1-b25-c38",
+    "r1-b25-c39",
+    "r1-b25-c40",
+    "r1-b25-c41",
+    "r1-b25-c42",
+    "r1-b25-c43",
+    "r1-b25-c44",
+    "r1-b25-c45"
+   ],
+   "gap": null
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 안내에서 권장 소요 시간을 찾지 못했다."
    }
   },
   "hours": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 사이트의 운영 시간은 티켓 페이지(로그인 필요한 API로 불러오는 JS 렌더링)에만 있고 정적 페이지에는 없다. 현재 시간을 확인하지 못했다."
    }
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 사이트에서 정기 휴무 안내를 찾지 못했다."
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b25-c15",
+    "r1-b25-c16",
+    "r1-b25-c17",
+    "r1-b25-c18",
+    "r1-b25-c19",
+    "r1-b25-c20",
+    "r1-b25-c21",
+    "r1-b25-c25",
+    "r1-b25-c26",
+    "r1-b25-c29"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "FAQ 요금 페이지에는 갱신일 표시가 없어 현재 판매가는 티켓 페이지에서 재확인이 필요하다.",
+     "detail": "fees.stale",
+     "run": "r1-b25"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b25-c30",
+    "r1-b25-c31",
+    "r1-b25-c32"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "외국인·여권 소지자의 예약/구매 방법은 공식 정적 페이지에 없다. 공식 티켓 페이지는 로그인형 API로 렌더링되어 확인하지 못했다. 신분증 입력 규칙만 FAQ에 있다.",
+     "detail": "reservation",
+     "run": "r1-b25"
+    }
+   ]
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b25-c33",
+    "r1-b25-c34"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "외국 카드·현금·모바일 결제 가능 여부는 공식 페이지에 없다. ATM 위치만 확인.",
+     "detail": "payment",
+     "run": "r1-b25"
+    }
+   ]
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b25-c49"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내·오디오가이드 여부를 공식 페이지에서 찾지 못했다.",
+     "detail": "language",
+     "run": "r1-b25"
+    }
+   ]
   },
   "caution": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에서 혼잡 시기·금지 사항 안내를 찾지 못했다."
    }
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b25-c1",
+   "field": "location",
+   "text": "구베이수이전은 베이징시 미윈구 구베이커우진, 쓰마타이 장성 기슭에 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "source.html: 位于北京市密云区古北口镇坐落在司马台长城脚下",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/source.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c2",
+   "field": "location",
+   "text": "공식 연락처 페이지의 주소는 베이징시 미윈구 구베이커우진 쓰마타이촌 구베이수이전(쓰마타이 장성) 국제 관광 리조트이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "connect.html address matches; postcode 101508",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/connect.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c3",
+   "field": "description",
+   "text": "리조트 전체 면적은 9제곱킬로미터이고 6개 구역과 3개 계곡으로 계획되었다.",
+   "original_text": null,
+   "value": "9km2",
+   "verdict": "verified",
+   "verify_note": "9平方公里, 六区三谷",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/source.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c4",
+   "field": "description",
+   "text": "리조트 안에는 43만 제곱미터의 명·청 및 민국 양식 산지 합원 건축이 있다.",
+   "original_text": null,
+   "value": "430000m2",
+   "verdict": "verified",
+   "verify_note": "43万平方米 明清及民国风格山地合院建筑",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/source.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c5",
+   "field": "description",
+   "text": "리조트 안에 테마 호텔이 7곳 있다.",
+   "original_text": null,
+   "value": 7,
+   "verdict": "verified",
+   "verify_note": "7家主题酒店",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/source.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c6",
+   "field": "description",
+   "text": "리조트 안에 부티크 호텔이 10곳 있다.",
+   "original_text": null,
+   "value": 10,
+   "verdict": "verified",
+   "verify_note": "10家精品酒店",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/source.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c7",
+   "field": "description",
+   "text": "리조트 안에 민박·객잔이 28곳 있다.",
+   "original_text": null,
+   "value": 28,
+   "verdict": "verified",
+   "verify_note": "28家民宿客栈",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/source.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c8",
+   "field": "description",
+   "text": "리조트 안에 독립 식당이 30여 곳 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "30余家独立餐厅",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/source.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c9",
+   "field": "description",
+   "text": "리조트 안에 상점이 50여 곳 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "50余处商铺",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/source.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c10",
+   "field": "description",
+   "text": "쓰마타이 구간 장성은 험준함·촘촘함·기이함·정교함·완비를 특징으로 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "险、密、奇、巧、全",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/wall.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c11",
+   "field": "description",
+   "text": "쓰마타이 장성의 망루 사이 평균 간격은 140미터이다.",
+   "original_text": null,
+   "value": "140m",
+   "verdict": "verified",
+   "verify_note": "平均间距仅140米",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/wall.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c12",
+   "field": "description",
+   "text": "구베이수이전은 2016년에 야간 관광 '팔대명완'(여덟 가지 야간 체험)을 새로 구성했다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "2016年全新打造夜游八大名玩",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/source.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c13",
+   "field": "tip",
+   "text": "장성 코스 1은 케이블카 상부역에서 5호 봉화대까지 걸은 뒤 2호 봉화대까지 내려가며 보고 케이블카역으로 돌아와 하부역으로 내려가는 경로이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "路线一 matches",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/wall.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c14",
+   "field": "tip",
+   "text": "장성 야경 코스는 케이블카로 올라 5호 봉화대에서 야경을 보고 걸어서 케이블카역으로 돌아와 내려가는 경로이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "夜游路线 matches",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/wall.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c15",
+   "field": "fees",
+   "text": "구베이수이전 입장권은 창구가 160위안, 개인 관광객 가격이 140위안이다.",
+   "original_text": null,
+   "value": {
+    "window": 160,
+    "individual": 140,
+    "unit": "CNY"
+   },
+   "verdict": "verified",
+   "verify_note": "FAQ 160/140; FAQ page undated (see conflicts)",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c16",
+   "field": "fees",
+   "text": "쓰마타이 장성 입장권은 40위안이다.",
+   "original_text": null,
+   "value": 40,
+   "verdict": "verified",
+   "verify_note": "40元/人; undated FAQ",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c17",
+   "field": "fees",
+   "text": "하루에 쓰마타이 장성과 구베이수이전을 함께 보는 연합권은 창구가 180위안, 개인 관광객 가격이 170위안이다.",
+   "original_text": null,
+   "value": {
+    "window": 180,
+    "individual": 170
+   },
+   "verdict": "verified",
+   "verify_note": "日游联票 180/170; undated FAQ",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c18",
+   "field": "fees",
+   "text": "키 1.2미터 이상 1.5미터 이하(1.5미터 포함) 어린이는 구베이수이전 할인표 대상이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "1.2–1.5m(含)",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c19",
+   "field": "fees",
+   "text": "16세 미만 미성년자는 신분증을 제시하면 구베이수이전 할인표 대상이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "16周岁以下凭身份证",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c20",
+   "field": "fees",
+   "text": "초·중등학생과 전일제 재학 대학생(전문대·학부·대학원)은 학생증으로 할인표 대상이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c21",
+   "field": "fees",
+   "text": "60세 이상 노인은 유효 신분증으로 할인표 대상이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches; whether foreign passports accepted not stated",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c22",
+   "field": "fees",
+   "text": "현역 군인은 유효 증명서로 할인표 대상이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "unverifiable",
+   "verify_note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; administrative group, low traveller value",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c23",
+   "field": "fees",
+   "text": "국가 소방구조대원은 소방원증·간부증·학원증 중 하나로 할인표 대상이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "unverifiable",
+   "verify_note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; low traveller value",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c24",
+   "field": "fees",
+   "text": "퇴역 군인은 퇴역증 등으로 할인표 대상이며 군인보장카드는 인정되지 않는다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "unverifiable",
+   "verify_note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; low traveller value",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c25",
+   "field": "fees",
+   "text": "키 1.2미터 이하(1.2미터 포함) 어린이는 구베이수이전 입장이 무료이다.",
+   "original_text": null,
+   "value": "free",
+   "verdict": "verified",
+   "verify_note": "1.2米(含)以下免票",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c26",
+   "field": "fees",
+   "text": "장애인은 장애인증을 제시하면 구베이수이전 입장이 무료이다.",
+   "original_text": null,
+   "value": "free",
+   "verdict": "verified",
+   "verify_note": "中国残联《残疾人证》 — Chinese certificate only",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c27",
+   "field": "fees",
+   "text": "이휴(離休) 간부는 이휴 간부 영예증으로 입장이 무료이다.",
+   "original_text": null,
+   "value": "free",
+   "verdict": "unverifiable",
+   "verify_note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: 离休干部荣誉证; low traveller value",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c28",
+   "field": "fees",
+   "text": "기자는 기자증으로 입장이 무료이다.",
+   "original_text": null,
+   "value": "free",
+   "verdict": "unverifiable",
+   "verify_note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: 新闻出版总署记者证 (Chinese press card); low traveller value",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c29",
+   "field": "fees",
+   "text": "경내 호텔에 묵어도 입장권은 따로 사야 하며, 일부 호텔은 판매 정책에 따라 입장권을 증정하므로 예약 전화로 문의해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c30",
+   "field": "reservation",
+   "text": "온라인으로 입장권을 사려면 신분증 번호를 입력해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "网上购票需要录入身份证号",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c31",
+   "field": "reservation",
+   "text": "단순 관람은 현장에서 코드를 스캔해 입장하며 신분증이 필요 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "现场扫码入园无需身份证",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c32",
+   "field": "reservation",
+   "text": "할인 대상자는 해당 증명서를 지참해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c33",
+   "field": "payment",
+   "text": "방문자 서비스센터에 중국은행과 농업은행 ATM이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "中国银行、农业银行ATM",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c34",
+   "field": "payment",
+   "text": "식당은 영수증(發票)을 발급하는 대형 식당(烧肉馆·纳兰轩·古北烤鸭王·文昌阁 등)에서 바로 받을 수 있고, 상점 구매분은 구매처에서 '발票 발급서'를 받은 뒤 방문자센터 프런트에서 영수증을 발급받는다.",
+   "original_text": "식당과 상점의 영수증(發票)은 안내에 따라 방문자센터 프런트에서 발급받을 수 있다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "Front desk applies only to shop purchases, not restaurants",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c35",
+   "field": "parking",
+   "text": "7인승 이하 소형차 주차는 회당 25위안이다.",
+   "original_text": null,
+   "value": 25,
+   "verdict": "verified",
+   "verify_note": "7座以下(含) 25元/次",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c36",
+   "field": "parking",
+   "text": "7인승 초과 중·대형차 주차는 회당 50위안이며 시간 제한이 없다.",
+   "original_text": null,
+   "value": 50,
+   "verdict": "verified",
+   "verify_note": "50元/次 不限时",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c37",
+   "field": "access",
+   "text": "베이징 시내에서 자가용으로 약 120킬로미터, 약 2시간이며 징청고속도로 24번 쓰마타이 출구로 나간다.",
+   "original_text": null,
+   "value": {
+    "km": 120,
+    "hours": 2
+   },
+   "verdict": "verified",
+   "verify_note": "marked 参考 on page",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/index.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c38",
+   "field": "access",
+   "text": "미윈구에서는 약 60킬로미터, 약 40분이며 징미로(101번 국도)를 이용한다.",
+   "original_text": null,
+   "value": {
+    "km": 60,
+    "min": 40
+   },
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/index.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c39",
+   "field": "access",
+   "text": "망징시(望京西)에서 구베이수이전행 직통 버스가 09:00와 13:00에 출발하고, 구베이수이전에서는 12:00와 17:00에 출발한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/index.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c40",
+   "field": "access",
+   "text": "직통 버스는 134킬로미터, 약 120분이며 요금은 1인 48위안이다.",
+   "original_text": null,
+   "value": {
+    "km": 134,
+    "min": 120,
+    "cny": 48
+   },
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/index.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c41",
+   "field": "access",
+   "text": "직통 버스 승차 장소는 망징시 환승센터 버스 중2층 5번 게이트이고, 구베이수이전에서는 경구 2번 주차장에서 탄다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "望京西枢纽站公交夹层5号门 / 景区2号停车场",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/index.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c42",
+   "field": "access",
+   "text": "대중교통은 지하철 2호선 둥즈먼에서 980번(쾌속)을 타고 미윈시다차오역에서 미51번(쓰마타이 방면)으로 환승하는 방법이 안내되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/index.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c43",
+   "field": "access",
+   "text": "기차는 베이징북역 또는 칭허역에서 화이미선을 타고 구베이커우역에서 내려 접박 버스로 갈아탄다. 접박 버스는 수이전발 8:40·15:50, 구베이커우역발 9:40·17:10이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches; suspended in bad weather",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/index.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c44",
+   "field": "access",
+   "text": "베이투청에서 구베이수이전 직통 버스는 6~10월 매주 토요일에 운행하며 베이투청 9:30, 구베이수이전 대호텔 20:30 출발, 요금 48위안이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/index.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c45",
+   "field": "access",
+   "text": "중국청년여행사(中青旅) 빌딩에서 구베이수이전까지 관광 전용 버스가 있으며 약 135킬로미터, 약 120분, 요금 48위안이고 '중청뤼 문화여행' 미니프로그램으로 확인한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/index.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c46",
+   "field": "tip",
+   "text": "쓰마타이 장성 경구와 구베이수이전은 서로 다른 경구이며 같은 리조트에 속한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c47",
+   "field": "tip",
+   "text": "방문자 서비스센터 안내 데스크에서 휠체어·유모차·지팡이를 빌릴 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "游客服务中心礼宾台",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/question.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c48",
+   "field": "tip",
+   "text": "경구 예약·문의 전화는 010-81009999이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "咨询预订电话 010-81009999",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/connect.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c49",
+   "field": "language",
+   "text": "공식 웹사이트는 중국어와 영어 페이지를 제공한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "中文/English switch present",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/index.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c50",
+   "field": "description",
+   "text": "구베이수이전은 관광·휴양·비즈니스 행사·문화창의가 결합된 종합 휴양 목적지이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/source.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-s1",
+   "field": "access",
+   "text": "망징시 직통 버스는 베이징 교통카드 앱(北京公交一卡通·亿通行·北京公交), 실물 교통카드, 휴대폰 NFC 교통카드, 현금(거스름돈 없음)으로만 탈 수 있으며 미니프로그램·알리페이·위챗으로는 결제할 수 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/index.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-s2",
+   "field": "access",
+   "text": "중국청년여행사 관광 전용 버스는 둥즈먼 지하철역 남서쪽 출구 근처 중청뤼 빌딩 서문 북쪽에서 타고, 구베이수이전에서는 수이전 대호텔에서 탄다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/index.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-s3",
+   "field": "access",
+   "text": "베이투청 직통 버스는 중청뤼 문화여행 미니프로그램, 현금 또는 현장 QR 결제로 표를 산다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/travel/index.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-s4",
+   "field": "tip",
+   "text": "가이드 서비스 전화는 010-81008002, 도움 요청·불만 접수 전화는 010-81008100이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.wtown.com/pc/about/connect.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b25",
+   "text": "hours/closed_days: 2 lookups (official notice list wtown.com/pc/about/notice.html, web search) found no official opening hours. The only results were Ctrip and a 2025 notice quoted secondhand, which cannot be used. Keep hours unconfirmed."
+  },
+  {
+   "run": "r1-b25",
+   "text": "Fees c15–c28 come from an undated FAQ page (some images on the page date from 2021–2022), so the page's age cannot be established and no dated official fee notice was found. Recommend showing the checked date and telling readers to confirm on the official booking channel."
+  },
+  {
+   "run": "r1-b25",
+   "text": "Free-entry and discount rules name Chinese-issued documents (中国残联残疾人证, 新闻出版总署记者证, Chinese ID). The page does not say whether foreign equivalents or passports are accepted."
+  },
+  {
+   "run": "r1-b25",
+   "text": "Not useful for travellers: c22–c24 and c27–c28 (active and retired military, fire-rescue staff, retired cadres, press) form a long list of administrative discount groups. Collapse it to children (height-based), students, 60+ seniors, plus a line saying discounts need a valid document."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -181,6 +1352,32 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b25",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 50,
+    "verdicts": {
+     "verified": 44,
+     "corrected": 1,
+     "outdated": 0,
+     "unverifiable": 5,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 4
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b25"
  }
 }

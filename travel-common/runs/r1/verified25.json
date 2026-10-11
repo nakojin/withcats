@@ -1,0 +1,806 @@
+{
+ "places": [
+  {
+   "key": "bj-wtown",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "source.html: 位于北京市密云区古北口镇坐落在司马台长城脚下"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "connect.html address matches; postcode 101508"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "9平方公里, 六区三谷"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "43万平方米 明清及民国风格山地合院建筑"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "7家主题酒店"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "10家精品酒店"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "28家民宿客栈"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "30余家独立餐厅"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "50余处商铺"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "险、密、奇、巧、全"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "平均间距仅140米"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2016年全新打造夜游八大名玩"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "路线一 matches"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "夜游路线 matches"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ 160/140; FAQ page undated (see conflicts)"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "40元/人; undated FAQ"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "日游联票 180/170; undated FAQ"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1.2–1.5m(含)"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "16周岁以下凭身份证"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches; whether foreign passports accepted not stated"
+    },
+    {
+     "cid": "c22",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; administrative group, low traveller value"
+    },
+    {
+     "cid": "c23",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; low traveller value"
+    },
+    {
+     "cid": "c24",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; low traveller value"
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1.2米(含)以下免票"
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "中国残联《残疾人证》 — Chinese certificate only"
+    },
+    {
+     "cid": "c27",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: 离休干部荣誉证; low traveller value"
+    },
+    {
+     "cid": "c28",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: 新闻出版总署记者证 (Chinese press card); low traveller value"
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "网上购票需要录入身份证号"
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "现场扫码入园无需身份证"
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    },
+    {
+     "cid": "c33",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "中国银行、农业银行ATM"
+    },
+    {
+     "cid": "c34",
+     "verdict": "corrected",
+     "corrected_text": "식당은 영수증(發票)을 발급하는 대형 식당(烧肉馆·纳兰轩·古北烤鸭王·文昌阁 등)에서 바로 받을 수 있고, 상점 구매분은 구매처에서 '발票 발급서'를 받은 뒤 방문자센터 프런트에서 영수증을 발급받는다.",
+     "note": "Front desk applies only to shop purchases, not restaurants"
+    },
+    {
+     "cid": "c35",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "7座以下(含) 25元/次"
+    },
+    {
+     "cid": "c36",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "50元/次 不限时"
+    },
+    {
+     "cid": "c37",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "marked 参考 on page"
+    },
+    {
+     "cid": "c38",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    },
+    {
+     "cid": "c39",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    },
+    {
+     "cid": "c40",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    },
+    {
+     "cid": "c41",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "望京西枢纽站公交夹层5号门 / 景区2号停车场"
+    },
+    {
+     "cid": "c42",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    },
+    {
+     "cid": "c43",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches; suspended in bad weather"
+    },
+    {
+     "cid": "c44",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    },
+    {
+     "cid": "c45",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    },
+    {
+     "cid": "c46",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    },
+    {
+     "cid": "c47",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "游客服务中心礼宾台"
+    },
+    {
+     "cid": "c48",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "咨询预订电话 010-81009999"
+    },
+    {
+     "cid": "c49",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "中文/English switch present"
+    },
+    {
+     "cid": "c50",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "access",
+     "text": "망징시 직통 버스는 베이징 교통카드 앱(北京公交一卡通·亿通行·北京公交), 실물 교통카드, 휴대폰 NFC 교통카드, 현금(거스름돈 없음)으로만 탈 수 있으며 미니프로그램·알리페이·위챗으로는 결제할 수 없다.",
+     "url": "https://www.wtown.com/pc/travel/index.html"
+    },
+    {
+     "field": "access",
+     "text": "중국청년여행사 관광 전용 버스는 둥즈먼 지하철역 남서쪽 출구 근처 중청뤼 빌딩 서문 북쪽에서 타고, 구베이수이전에서는 수이전 대호텔에서 탄다.",
+     "url": "https://www.wtown.com/pc/travel/index.html"
+    },
+    {
+     "field": "access",
+     "text": "베이투청 직통 버스는 중청뤼 문화여행 미니프로그램, 현금 또는 현장 QR 결제로 표를 산다.",
+     "url": "https://www.wtown.com/pc/travel/index.html"
+    },
+    {
+     "field": "tip",
+     "text": "가이드 서비스 전화는 010-81008002, 도움 요청·불만 접수 전화는 010-81008100이다.",
+     "url": "https://www.wtown.com/pc/about/connect.html"
+    }
+   ],
+   "conflicts": [
+    "hours/closed_days: 2 lookups (official notice list wtown.com/pc/about/notice.html, web search) found no official opening hours. The only results were Ctrip and a 2025 notice quoted secondhand, which cannot be used. Keep hours unconfirmed.",
+    "Fees c15–c28 come from an undated FAQ page (some images on the page date from 2021–2022), so the page's age cannot be established and no dated official fee notice was found. Recommend showing the checked date and telling readers to confirm on the official booking channel.",
+    "Free-entry and discount rules name Chinese-issued documents (中国残联残疾人证, 新闻出版总署记者证, Chinese ID). The page does not say whether foreign equivalents or passports are accepted.",
+    "Not useful for travellers: c22–c24 and c27–c28 (active and retired military, fire-rescue staff, retired cadres, press) form a long list of administrative discount groups. Collapse it to children (height-based), students, 60+ seniors, plus a line saying discounts need a valid document."
+   ]
+  },
+  {
+   "key": "east-qd-06",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "位于青岛市东部、黄海之滨"
+    },
+    {
+     "cid": "c2",
+     "verdict": "corrected",
+     "corrected_text": "공식 웹사이트 하단에 기재된 주소는 칭다오시 라오산구 메이링로 29호(우편번호 266061)이다.",
+     "note": "Page footer gives only '地址'; it does not say this is the bureau's seat. It is not a visitor entrance address"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "总面积446平方公里"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1132.7米, 中国大陆海岸线第一高峰"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1982 首批国家重点风景名胜区"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "七个游览区"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "花岗岩冰川地貌, 天然雕塑公园"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Fee image (notice 2026-06-04) read directly: 90/60/150, 两日有效"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "image: 90/40/130"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "image: 80/40/120 当日"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "image: 60/30/90 九水·华楼"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "image: 华楼 10元"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "image: 140/70/210 三日有效"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "image: 60/60/120"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "image: 60/40/100"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "image: 50/40/90"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "image: 40/30/70"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "image: 90/70/160"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "notice 2026-03-27"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "image note 1: 27元/人"
+    },
+    {
+     "cid": "c23",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "병합 시 처리: 타이칭 케이블카가 2026-04-24부터 운행 중단(공식 공지)이라 정상 운행 전제 문장은 비공개. 원 판정 verified / 원 메모: Image note 2 matches, but Taiqing cableway suspended since 2026-04-24 (see conflicts)"
+    },
+    {
+     "cid": "c24",
+     "verdict": "corrected",
+     "corrected_text": "60세 이상(60세 포함) 노인은 유효 신분증으로 문표 무료, 관광버스표 반값이다.",
+     "note": "병합 시 처리: 운행 중단 중인 케이블카 반값 부분을 뺌. 원 판정 verified / 원 메모: FAQ 长期执行的优惠政策; page undated"
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "6周岁(含)以下或1.4米(含)以下"
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches (18 inclusive)"
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "page adds one companion for severely disabled or visually impaired visitors gets the same discount"
+    },
+    {
+     "cid": "c28",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; low traveller value"
+    },
+    {
+     "cid": "c29",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; low traveller value"
+    },
+    {
+     "cid": "c30",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; low traveller value"
+    },
+    {
+     "cid": "c31",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; low traveller value"
+    },
+    {
+     "cid": "c32",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "병합 시 처리: 행정 대상 할인 목록(여행자 가치 낮음)이라 비공개. 원 판정 verified / 원 메모: matches; low traveller value"
+    },
+    {
+     "cid": "c33",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Notice dated 2025-10-23 (under 12 months old) about the 10-26 race day. It only shows 九水/二龙山 normal hours. Claim text states its date"
+    },
+    {
+     "cid": "c34",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "九水游客服务中心 首车7:00 末车17:30"
+    },
+    {
+     "cid": "c35",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Notice 2025-12-29. Says '免费预约', which predates the 10元 fee (see conflicts)"
+    },
+    {
+     "cid": "c36",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "刷证入园 无需线下换票"
+    },
+    {
+     "cid": "c37",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "notice 2026-10-03"
+    },
+    {
+     "cid": "c38",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Official reply 2026-10-10. Annual card not usable on May Day/National Day holidays. Low value for foreign travellers"
+    },
+    {
+     "cid": "c39",
+     "verdict": "corrected",
+     "corrected_text": "2024년 9월 게시된 경구 관람 수칙에 따르면, 할인 대상 특수 계층은 유효 증명서를 지참해 방문자센터(客服中心) 현장에서 문의·구매해야 한다.",
+     "note": "Source 2024-09-17 (over 12 months old). No current page confirms it, so the date must be stated. Page says 现场咨询办理"
+    },
+    {
+     "cid": "c40",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "notice 2026-02-20"
+    },
+    {
+     "cid": "c41",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "北九水站B出入口, 九水换乘中心"
+    },
+    {
+     "cid": "c42",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "浦里站A, 620/926, 仰口站"
+    },
+    {
+     "cid": "c43",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ undated; 大河东/仰口/九水 free"
+    },
+    {
+     "cid": "c44",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ undated"
+    },
+    {
+     "cid": "c45",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "0532-96616"
+    },
+    {
+     "cid": "c46",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2026-02-20 notice"
+    },
+    {
+     "cid": "c47",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "notice 2026-08-31"
+    },
+    {
+     "cid": "c48",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "由八水河沿龙潭瀑步行登山路往返"
+    },
+    {
+     "cid": "c49",
+     "verdict": "corrected",
+     "corrected_text": "2024년 9월 게시된 경구 관람 수칙에 따르면 야간 입산, 반려동물 동반, 경구 내 물에 들어가거나 수영하기, 암벽·나무·위험한 바위 오르기, 비개방 구역 출입이 금지된다.",
+     "note": "Source 2024-09-17 (over 12 months old), so the date must be stated. The swimming ban covers the whole site, not only valleys"
+    },
+    {
+     "cid": "c50",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "fee image note 3"
+    },
+    {
+     "cid": "c51",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2024 须知 item 5. The 2026-10-03 limit notice confirms the practice continues"
+    },
+    {
+     "cid": "c52",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "中文/English/日本語/한국어 links. Korean page content is outdated"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "caution",
+     "text": "타이칭 케이블카는 국가 여객 삭도 안전 규정에 따라 2026년 4월 24일부터 운행이 중단되었고 재개 시점은 추후 공지된다.",
+     "url": "https://qdlaoshan.cn/News-info-nid-6319.html"
+    },
+    {
+     "field": "reservation",
+     "text": "화러우 유람구 표(10위안)는 경구 공식 계정, 씨트립(携程), 메이퇀(美团) 등 온라인 채널에서 살 수 있다.",
+     "url": "https://qdlaoshan.cn/News-info-nid-6282.html"
+    },
+    {
+     "field": "language",
+     "text": "경구 가이드 센터 명단에 중국어·영어 이중 언어 해설사가 소개되어 있다(타이칭궁 도교 문화 중·영 해설 등).",
+     "url": "https://qdlaoshan.cn/Index-daofu.html"
+    }
+   ],
+   "conflicts": [
+    "Cableway: c23/c24 present the Taiqing cableway as a normal option (separate ticket, half price for seniors). The official notice (2026-04-18) says it has been suspended since 2026-04-24, and the 2026-08-31 notice says safety rectification is ongoing. The guide should say it is currently suspended.",
+    "Hualou: the 2025-12-29 reservation flow (c35/c36) calls booking '免费预约'. Since 2026-04-01 Hualou costs 10元 (2026-03-27 notice; fee table 2026-06-04). The booking flow is probably still valid but no longer free.",
+    "Hours: no official page gives the normal opening hours of the south and east lines (太清/巨峰/仰口/华严). The only hours found (c33) come from a single-day 2025-10-23 adjustment notice. Keep hours unconfirmed. Lookups tried: home notices and guide centre.",
+    "Stale source: News-info-nid-5571 (游览须知) is dated 2024-09-17, over 12 months old. c39 and c49 now state the date.",
+    "The official Korean page (New-Korean-index.html) describes 9 scenic areas. The current Chinese page lists 7 (c7). The Korean page is outdated; follow the Chinese page.",
+    "Record address (梅岭路29号) is the site footer address, not a visitor entrance. For travellers, give the 大河东/仰口/九水 visitor centres instead.",
+    "Not useful for travellers: c28–c32 (military, veterans, fire-rescue, press, tour guides) are administrative discount groups. Collapse them to seniors 60+, children ≤6 or ≤1.4m, students/minors half price. Whether passports count as 有效证件 is not stated."
+   ]
+  },
+  {
+   "key": "east-qd-02",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "gov page 2020-09-10"
+    },
+    {
+     "cid": "c2",
+     "verdict": "corrected",
+     "corrected_text": "2022년 칭다오시 공안국 교통경찰 안내는 팔대관 주변 혼잡 도로로 자위관로와 산하이관로를 꼽았다.",
+     "note": "The page only lists them as congestion-prone roads in a 2022 holiday guide"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "建于20世纪30年代"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "66.6万平方米"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "matches"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "中国国家地理杂志社主办评选"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "English page 2021-12-28"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Source 青岛市文化和旅游局. Page publish date is 2026-06-14, not 06-18"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "花石楼旁就是第二海水浴场; 毗邻太平角公园"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "English guide 2021"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'a stone's throw away from Badaguan'"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the 2024-09-14 notice, which is over 12 months old. The 2022 notice has the same rule. No 2026 official notice found (1 search, only secondary hits), so keep the date stated in the text"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "access",
+     "text": "칭다오시 정무망 팔대관 소개(2020년 9월)에는 버스 노선 6·15·26·31·202·206·215·220·223·231·304·312·316·317·321·501·604·605·801·802번이 안내되어 있다.",
+     "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml"
+    }
+   ],
+   "conflicts": [
+    "Fees: no official statement found that Badaguan is free. The 2026-06 文旅局 article says only '大部分景区都免费'. Do not write 무료 without a source; keep the field unconfirmed.",
+    "Hours, reservation, payment, language: none found on the cited official pages (2 lookups). Keep them unconfirmed.",
+    "Stale sources: c1, c3–c8 (2020) and c9, c12, c13 (2021) are descriptive facts, so acceptable. c14 (2024 traffic restriction) is an operating rule and is not confirmed by a current official page.",
+    "Suggested bus list comes from a 2020 page whose numbers are unlabelled in the visible text. Treat it as a weak lead and re-check.",
+    "Minor wording difference: the English page says 'north of Huiquanjiao Scenic Zone'; the Chinese page says between 太平角 and 汇泉角. The two do not contradict each other."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 116,
+  "verified": 111,
+  "corrected": 5,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "All 26 cited URLs were opened with curl; HTML comments, scripts and styles were stripped before judging.",
+   "The Laoshan fee table (News-info-nid-6407, an image dated 2026-06-04) was downloaded and read directly. All fee figures in c10–c20, plus c22, c23 and c50, match the image.",
+   "Biggest traveller-impact issue: the Taiqing cableway has been suspended since 2026-04-24 per an official notice. Claims c23/c24 do not mention it; add the suggested claim.",
+   "Hualou reservation flow (2025-12) describes free booking. It has cost 10元 since 2026-04-01.",
+   "Opening hours are unconfirmed for all three places; no official hours page was found.",
+   "Long administrative discount-group lists (wtown c22–c24, c27–c28; Laoshan c28–c32) are verified but have little value for travellers. Recommend collapsing them.",
+   "Undated official FAQ pages (wtown question.html, Laoshan Zixun-qinfo) carry current fee and parking rules; show the checked date."
+  ]
+ }
+}

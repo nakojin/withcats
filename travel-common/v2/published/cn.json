@@ -2861,14 +2861,14 @@
   {
    "id": "bj-wtown",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "구베이수이전·쓰마타이 장성 리조트",
     "local": "古北水镇（司马台长城）"
    },
    "admin_region": "베이징시",
    "city": "베이징",
-   "address": null,
+   "address": "北京市密云区古北口镇司马台村古北水镇（司马台长城）国际旅游度假区",
    "coord": {
     "lat": 40.648912,
     "lng": 117.266986,
@@ -2878,35 +2878,391 @@
     "confidence": "high",
     "osm": "way/441960704"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "구베이수이전은 베이징 미윈구 구베이커우진의 쓰마타이 장성 기슭에 있는 약 9제곱킬로미터 규모의 종합 휴양지다.",
+   "description": "구베이수이전은 베이징 미윈구 구베이커우진의 쓰마타이 장성 기슭에 있는 약 9제곱킬로미터 규모의 종합 휴양지다. 여섯 구역과 세 계곡으로 나뉘며, 43만 제곱미터에 명·청과 민국 양식의 산지 합원 건축이 들어서 있다. 테마 호텔 7곳, 부티크 호텔 10곳, 민박 28곳에 독립 식당 30여 곳과 상점 50여 곳이 있어 머물며 즐기기 좋다. 쓰마타이 장성은 험준하고 망루 간격이 촘촘한 것으로 알려졌고, 케이블카를 탄 뒤 5호 봉화대까지 걷는 코스와 야경 코스가 있다. 온라인 구매 때는 신분증 번호를 입력하지만 현장에서 코드를 스캔해 입장하면 신분증은 필요 없다. 시내에서 자가용으로 약 2시간 걸린다.",
+   "highlights": [
+    "쓰마타이 장성 기슭의 약 9제곱킬로미터 휴양지로 6개 구역과 3개 계곡으로 구성",
+    "명·청과 민국 양식의 산지 합원 건축 43만 제곱미터",
+    "쓰마타이 장성은 험준함·촘촘함·기이함으로 유명하고 망루 평균 간격이 140미터",
+    "케이블카로 올라 5호 봉화대까지 걷는 코스와 야경 코스",
+    "2016년에 조성한 야간 관광 '팔대명완'",
+    "현장 코드 스캔 입장은 신분증이 필요 없고, 온라인 구매는 신분증 번호 입력"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "리조트 전체 면적은 9제곱킬로미터이고 6개 구역과 3개 계곡으로 계획되었다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/about/source.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "리조트 안에는 43만 제곱미터의 명·청 및 민국 양식 산지 합원 건축이 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/about/source.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "리조트 안에 테마 호텔이 7곳 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/about/source.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "리조트 안에 부티크 호텔이 10곳 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/about/source.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "리조트 안에 민박·객잔이 28곳 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/about/source.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "리조트 안에 독립 식당이 30여 곳 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/about/source.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "리조트 안에 상점이 50여 곳 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/about/source.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "쓰마타이 구간 장성은 험준함·촘촘함·기이함·정교함·완비를 특징으로 한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/about/wall.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "쓰마타이 장성의 망루 사이 평균 간격은 140미터이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/about/wall.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "구베이수이전은 2016년에 야간 관광 '팔대명완'(여덟 가지 야간 체험)을 새로 구성했다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/about/source.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "구베이수이전은 관광·휴양·비즈니스 행사·문화창의가 결합된 종합 휴양 목적지이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/about/source.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "장성 코스 1은 케이블카 상부역에서 5호 봉화대까지 걸은 뒤 2호 봉화대까지 내려가며 보고 케이블카역으로 돌아와 하부역으로 내려가는 경로이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/about/wall.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "장성 야경 코스는 케이블카로 올라 5호 봉화대에서 야경을 보고 걸어서 케이블카역으로 돌아와 내려가는 경로이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/about/wall.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "쓰마타이 장성 경구와 구베이수이전은 서로 다른 경구이며 같은 리조트에 속한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/travel/question.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "방문자 서비스센터 안내 데스크에서 휠체어·유모차·지팡이를 빌릴 수 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/travel/question.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "경구 예약·문의 전화는 010-81009999이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.wtown.com/pc/about/connect.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "구베이수이전은 베이징시 미윈구 구베이커우진, 쓰마타이 장성 기슭에 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/about/source.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공식 연락처 페이지의 주소는 베이징시 미윈구 구베이커우진 쓰마타이촌 구베이수이전(쓰마타이 장성) 국제 관광 리조트이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/about/connect.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "베이징 시내에서 자가용으로 약 120킬로미터, 약 2시간이며 징청고속도로 24번 쓰마타이 출구로 나간다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/index.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "미윈구에서는 약 60킬로미터, 약 40분이며 징미로(101번 국도)를 이용한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/index.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "망징시(望京西)에서 구베이수이전행 직통 버스가 09:00와 13:00에 출발하고, 구베이수이전에서는 12:00와 17:00에 출발한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/index.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "직통 버스는 134킬로미터, 약 120분이며 요금은 1인 48위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/index.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "직통 버스 승차 장소는 망징시 환승센터 버스 중2층 5번 게이트이고, 구베이수이전에서는 경구 2번 주차장에서 탄다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/index.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "대중교통은 지하철 2호선 둥즈먼에서 980번(쾌속)을 타고 미윈시다차오역에서 미51번(쓰마타이 방면)으로 환승하는 방법이 안내되어 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/index.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "기차는 베이징북역 또는 칭허역에서 화이미선을 타고 구베이커우역에서 내려 접박 버스로 갈아탄다. 접박 버스는 수이전발 8:40·15:50, 구베이커우역발 9:40·17:10이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/index.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "베이투청에서 구베이수이전 직통 버스는 6~10월 매주 토요일에 운행하며 베이투청 9:30, 구베이수이전 대호텔 20:30 출발, 요금 48위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/index.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "중국청년여행사(中青旅) 빌딩에서 구베이수이전까지 관광 전용 버스가 있으며 약 135킬로미터, 약 120분, 요금 48위안이고 '중청뤼 문화여행' 미니프로그램으로 확인한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/index.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "7인승 이하 소형차 주차는 회당 25위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "7인승 초과 중·대형차 주차는 회당 50위안이며 시간 제한이 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "duration": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 안내에서 권장 소요 시간을 찾지 못했다."
      },
      "partial_gaps": []
     },
@@ -2914,8 +3270,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 사이트의 운영 시간은 티켓 페이지(로그인 필요한 API로 불러오는 JS 렌더링)에만 있고 정적 페이지에는 없다. 현재 시간을 확인하지 못했다."
      },
      "partial_gaps": []
     },
@@ -2923,59 +3279,256 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 사이트에서 정기 휴무 안내를 찾지 못했다."
      },
      "partial_gaps": []
     },
     "fees": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "구베이수이전 입장권은 창구가 160위안, 개인 관광객 가격이 140위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "쓰마타이 장성 입장권은 40위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "하루에 쓰마타이 장성과 구베이수이전을 함께 보는 연합권은 창구가 180위안, 개인 관광객 가격이 170위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "키 1.2미터 이상 1.5미터 이하(1.5미터 포함) 어린이는 구베이수이전 할인표 대상이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "16세 미만 미성년자는 신분증을 제시하면 구베이수이전 할인표 대상이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "초·중등학생과 전일제 재학 대학생(전문대·학부·대학원)은 학생증으로 할인표 대상이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "60세 이상 노인은 유효 신분증으로 할인표 대상이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "키 1.2미터 이하(1.2미터 포함) 어린이는 구베이수이전 입장이 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "장애인은 장애인증을 제시하면 구베이수이전 입장이 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "경내 호텔에 묵어도 입장권은 따로 사야 하며, 일부 호텔은 판매 정책에 따라 입장권을 증정하므로 예약 전화로 문의해야 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "FAQ 요금 페이지에는 갱신일 표시가 없어 현재 판매가는 티켓 페이지에서 재확인이 필요하다."
+     ]
     },
     "reservation": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "온라인으로 입장권을 사려면 신분증 번호를 입력해야 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "단순 관람은 현장에서 코드를 스캔해 입장하며 신분증이 필요 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "할인 대상자는 해당 증명서를 지참해야 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "외국인·여권 소지자의 예약/구매 방법은 공식 정적 페이지에 없다. 공식 티켓 페이지는 로그인형 API로 렌더링되어 확인하지 못했다. 신분증 입력 규칙만 FAQ에 있다."
+     ]
     },
     "payment": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "방문자 서비스센터에 중국은행과 농업은행 ATM이 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "식당은 영수증(發票)을 발급하는 대형 식당(烧肉馆·纳兰轩·古北烤鸭王·文昌阁 등)에서 바로 받을 수 있고, 상점 구매분은 구매처에서 '발票 발급서'를 받은 뒤 방문자센터 프런트에서 영수증을 발급받는다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/travel/question.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "외국 카드·현금·모바일 결제 가능 여부는 공식 페이지에 없다. ATM 위치만 확인."
+     ]
     },
     "language": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "공식 웹사이트는 중국어와 영어 페이지를 제공한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.wtown.com/pc/about/index.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "한국어 안내·오디오가이드 여부를 공식 페이지에서 찾지 못했다."
+     ]
     },
     "caution": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 페이지에서 혼잡 시기·금지 사항 안내를 찾지 못했다."
      },
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "hours/closed_days: 2 lookups (official notice list wtown.com/pc/about/notice.html, web search) found no official opening hours. The only results were Ctrip and a 2025 notice quoted secondhand, which cannot be used. Keep hours unconfirmed.",
+    "Fees c15–c28 come from an undated FAQ page (some images on the page date from 2021–2022), so the page's age cannot be established and no dated official fee notice was found. Recommend showing the checked date and telling readers to confirm on the official booking channel.",
+    "Free-entry and discount rules name Chinese-issued documents (中国残联残疾人证, 新闻出版总署记者证, Chinese ID). The page does not say whether foreign equivalents or passports are accepted.",
+    "Not useful for travellers: c22–c24 and c27–c28 (active and retired military, fire-rescue staff, retired cadres, press) form a long list of administrative discount groups. Collapse it to children (height-based), students, 60+ seniors, plus a line saying discounts need a valid document."
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "cd-dufu",
@@ -5908,14 +6461,14 @@
   {
    "id": "east-qd-02",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "팔대관",
     "local": "八大关"
    },
    "admin_region": "산둥성",
    "city": "칭다오",
-   "address": null,
+   "address": "山东省青岛市市南区太平山南麓，太平角与汇泉角之间（嘉峪关路·山海关路 일대）",
    "coord": {
     "lat": 36.053793,
     "lng": 120.34565,
@@ -5925,35 +6478,213 @@
     "confidence": "medium",
     "osm": "node/4057340944"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "팔대관은 칭다오 스난구 타이핑산 남쪽 기슭, 타이핑자오와 후이취안자오 사이에 있는 근현대 건축 지구다.",
+   "description": "팔대관은 칭다오 스난구 타이핑산 남쪽 기슭, 타이핑자오와 후이취안자오 사이에 있는 근현대 건축 지구다. 1930년대에 조성되었고 면적은 66만 6천 제곱미터다. 옛 관문 이름을 딴 여덟 개 거리에서 이름이 유래했으며, 독일·러시아·미국·영국·프랑스 등 수십 개국 양식의 건축 300여 채가 모여 있어 만국건축박람회로 불린다. 2001년 전국 중점 문물보호단위로 공포되었고, 2005년에는 중국에서 가장 아름다운 도심 지역으로 선정되었다. 화스러우, 궁주러우, 후디에러우를 둘러볼 수 있으며 제2해수욕장과 타이핑자오 공원이 가까이 있다. 거리가 좁고 일방통행이라 걸어서 둘러보기 좋다.",
+   "highlights": [
+    "1930년대에 조성된 66만 6천 제곱미터의 근현대 건축 지구",
+    "독일·러시아·미국 등 수십 개국 양식 건축 300여 채, 별칭 만국건축박람회",
+    "2001년 전국 중점 문물보호단위로 공포",
+    "2005년 '중국에서 가장 아름다운 도심 지역' 선정",
+    "화스러우·궁주러우·후디에러우를 둘러볼 수 있고 화스러우 옆에 제2해수욕장",
+    "좁은 일방통행 거리가 많아 도보 관광에 적합"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "팔대관은 1930년대에 조성되었다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "팔대관의 면적은 66만 6천 제곱미터이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "옛 관문 이름을 붙인 여덟 개 거리가 있어 '팔대관'이라 부른다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "독일·러시아·미국·영국·프랑스 등 수십 개국의 서로 다른 양식 건축 300여 채가 있어 '만국건축박람회'로 불린다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "2001년 팔대관 근현대 건축군이 국무원에 의해 전국 중점 문물보호단위로 공포되었다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "2005년 팔대관 풍경구는 '중국에서 가장 아름다운 도심 지역' 칭호를 받았다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "팔대관은 후이취안자오 풍경구 북쪽에 있으며 지금은 거리가 10개이지만 이름은 그대로 유지된다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "http://english.qingdao.gov.cn/about/attractions/202112/t20211228_4153036.shtml",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "칭다오시 문화관광국 2026년 6월 안내는 팔대관에서 화스러우·궁주러우·후디에러우를 둘러볼 수 있다고 소개한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "http://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202606/t20260618_10638992.shtml",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "화스러우 바로 옆에 제2해수욕장이 있고, 가까이에 타이핑자오 공원이 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "http://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202606/t20260618_10638992.shtml",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "팔대관은 좁은 일방통행 거리가 많아 걸어서 둘러보기 좋다고 칭다오시 영문 안내가 설명한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "http://english.qingdao.gov.cn/services/travel/202112/t20211228_4153227.shtml",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "제1해수욕장은 팔대관에서 아주 가깝다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "http://english.qingdao.gov.cn/services/travel/202112/t20211228_4153227.shtml",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "팔대관은 칭다오시 스난구 타이핑산 남쪽 기슭, 타이핑자오와 후이취안자오 사이에 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "2022년 칭다오시 공안국 교통경찰 안내는 팔대관 주변 혼잡 도로로 자위관로와 산하이관로를 꼽았다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "http://www.qingdao.gov.cn/zwgk/xxgk/gaj/ywflxx_561/jtgl/202206/t20220601_6089001.shtml",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "칭다오시 공안 공지는 4월 1일부터 11월 30일까지 팔대관 일부 구역의 차량 통행을 제한한다고 밝혔다(2024년 9월 공지 기준). 제한 구역은 타이핑자오1로 서쪽, 정양관1지로 동쪽, 정양관로 남쪽 일대이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "http://www.qingdao.gov.cn/zwgk/xxgk/gaj/ywflxx_561/jtgl/202409/t20240914_8272650.shtml",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "가장 가까운 역·정류장과 도보 시간, 주차장 정보는 공식 출처에서 찾지 못했다. 차량 제한만 확인(위 claim)."
+     ]
     },
     "duration": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 소요 시간 안내가 없다."
      },
      "partial_gaps": []
     },
@@ -5961,8 +6692,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "지구·화스러우·궁주러우의 개방 시간을 공식 출처(칭다오시 정부, 스난구)에서 찾지 못했다."
      },
      "partial_gaps": []
     },
@@ -5970,8 +6701,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 출처에서 정기 휴무 안내를 찾지 못했다."
      },
      "partial_gaps": []
     },
@@ -5979,8 +6710,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "현행 입장료·무료 여부를 확인하지 못했다. 칭다오시 정부 2022-05-31 공지는 2022-06-01~12-31 한시 무료 개방이었고 현재 적용 여부를 알 수 없다. 건물(화스러우·궁주러우)의 별도 유료 여부도 현행 공식 안내가 없다."
      },
      "partial_gaps": []
     },
@@ -5988,8 +6719,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "예약 필요 여부와 외국인 여권 예약 방법을 공식 출처에서 찾지 못했다."
      },
      "partial_gaps": []
     },
@@ -5997,8 +6728,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "결제 수단·외국 카드 가능 여부를 공식 출처에서 찾지 못했다."
      },
      "partial_gaps": []
     },
@@ -6006,8 +6737,8 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "한국어 안내·오디오가이드 여부를 공식 출처에서 찾지 못했다."
      },
      "partial_gaps": []
     },
@@ -6015,14 +6746,20 @@
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "인용한 공식 페이지(칭다오시 정부·문화관광국·공안 공지)에 차량 통행 제한 외 여행자 주의사항 안내가 없다(병합 시 추가: 수집자 미기재 항목)."
      },
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "Fees: no official statement found that Badaguan is free. The 2026-06 文旅局 article says only '大部分景区都免费'. Do not write 무료 without a source; keep the field unconfirmed.",
+    "Hours, reservation, payment, language: none found on the cited official pages (2 lookups). Keep them unconfirmed.",
+    "Stale sources: c1, c3–c8 (2020) and c9, c12, c13 (2021) are descriptive facts, so acceptable. c14 (2024 traffic restriction) is an operating rule and is not confirmed by a current official page.",
+    "Suggested bus list comes from a 2020 page whose numbers are unlabelled in the visible text. Treat it as a weak lead and re-check.",
+    "Minor wording difference: the English page says 'north of Huiquanjiao Scenic Zone'; the Chinese page says between 太平角 and 汇泉角. The two do not contradict each other."
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "east-qd-03",
@@ -6787,14 +7524,14 @@
   {
    "id": "east-qd-06",
    "tier": "A",
-   "status": "draft",
+   "status": "verified",
    "names": {
     "ko": "라오산 풍경구",
     "local": "崂山风景名胜区"
    },
    "admin_region": "산둥성",
    "city": "칭다오",
-   "address": null,
+   "address": "青岛市崂山区梅岭路29号(崂山风景名胜区管理局)",
    "coord": {
     "lat": 36.196807,
     "lng": 120.629681,
@@ -6804,104 +7541,670 @@
     "confidence": "high",
     "osm": "relation/15465997"
    },
-   "summary": null,
-   "description": null,
-   "highlights": [],
-   "details": {},
+   "summary": "라오산은 칭다오 동쪽 황해 연안에 솟은 국가 5A급 관광지이자 국가중점풍경명승구로, 면적은 446제곱킬로미터다.",
+   "description": "라오산은 칭다오 동쪽 황해 연안에 솟은 국가 5A급 관광지이자 국가중점풍경명승구로, 면적은 446제곱킬로미터다. 주봉 쥐펑은 해발 1132.7미터로 중국 대륙 해안선에서 가장 높다. 류칭, 쥐펑, 타이칭, 화옌, 양커우, 주수이, 화러우 일곱 구역이 핵심이며, 2100여 년 역사의 타이칭궁은 라오산 도교의 조정으로 꼽힌다. 4월 1일부터 12월 31일까지 남선 구역 문표는 90위안, 주수이 구역은 60위안이고 관광버스표는 따로 받는다. 남선 방면 다허둥 방문자센터는 지하철 4호선 다허둥역 A출구에서 이어지고 센터 주차는 무료다. 성수기에는 예약 구매 정원이 마감되어 인원 제한이 걸리기도 한다.",
+   "highlights": [
+    "쥐펑은 해발 1132.7미터로 중국 대륙 해안선에서 가장 높은 봉우리",
+    "기원전 140년에 세워진 타이칭궁은 라오산 도교의 조정",
+    "남선 문표 90위안, 주수이 문표 60위안(4~12월), 화러우는 10위안",
+    "지하철 4호선 다허둥역 A출구에서 관광버스로 연결",
+    "다허둥·양커우·주수이 방문자센터는 무료 주차와 무료 짐 보관 제공",
+    "2026년 9월 5일부터 타이칭 케이블카 노선 탐방로 폐쇄, 룽탄폭포 길로 우회"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "라오산 전체 면적은 446제곱킬로미터이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://qdlaoshan.cn/Index-laoshan.html",
+        "type": "official",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "주봉 쥐펑은 해발 1132.7미터로 중국 대륙 해안선에서 가장 높은 봉우리이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://qdlaoshan.cn/Index-laoshan.html",
+        "type": "official",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "라오산은 1982년 국무원이 첫 국가중점풍경명승구로 지정했다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://qdlaoshan.cn/Index-laoshan.html",
+        "type": "official",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "라오산은 국가 AAAAA급 관광지이자 국가삼림공원이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://qdlaoshan.cn/Index-laoshan.html",
+        "type": "official",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "핵심 관광 구역은 류칭, 쥐펑, 타이칭, 화옌, 양커우, 주수이, 화러우 일곱 곳이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://qdlaoshan.cn/Index-laoshan.html",
+        "type": "official",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "타이칭궁은 기원전 140년(서한 건원 원년)에 세워져 2100년 넘은 역사를 가지며 라오산 도교의 조정(祖庭)이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://qdlaoshan.cn/Index-laoshan.html",
+        "type": "official",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "라오산은 화강암 빙하 지형으로 상형석이 많아 '천연 조각 공원'이라 불린다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://qdlaoshan.cn/Index-laoshan.html",
+        "type": "official",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "tip": [
+     {
+      "text": "라오산·양커우·주수이 방문자센터와 주수이 유람구 내 싼수이 검표소에서 짐을 무료로 맡길 수 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-1.html",
+        "type": "official",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "경구 관광 서비스 전화는 0532-96616이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://qdlaoshan.cn/News-info-nid-6282.html",
+        "type": "official",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
    "guide": {
     "location": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "라오산은 칭다오 동쪽 황해 연안에 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/Index-laoshan.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공식 웹사이트 하단에 기재된 주소는 칭다오시 라오산구 메이링로 29호(우편번호 266061)이다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/New-Index-index.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "access": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "남선(쥐펑·타이칭)은 지하철 4호선 다허둥역 A출구에서 나와 다허둥 방문자센터에서 관광버스로 갈아탄다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6223.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "북선(주수이·화러우)은 란구쾌선 베이주수이역 B출구로 나가 주수이 환승센터에서 관광버스를 탄다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6223.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "동선(양커우·화옌)은 란구쾌선 푸리역 A출구로 나가 620번 또는 926번 버스로 갈아타 양커우역에서 내린다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6223.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "다허둥·양커우·주수이 방문자센터는 무료로 주차할 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-2.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     },
     "duration": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "공식 안내에 권장 소요 시간이 없다. 표 유효기간(당일·2일·3일)만 확인."
      },
      "partial_gaps": []
     },
     "hours": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "2025년 10월 23일 공지는 주수이 유람구와 얼룽산 경구의 개방 시간이 변동 없이 7:00~17:30이라고 밝혔다(해당일 조정 공지 속 기재).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6078.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "같은 공지에서 주수이 방면 관광버스는 첫차 7:00, 막차 17:30이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6078.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "평시 개방 시간과 매표 마감을 하나로 정리한 현행 공식 페이지를 찾지 못했다. 위 7:00~17:30은 2025년 10월 조정 공지 속 기재이며, 한국어 공지(노산관광풍경구 운영 시간)는 구버전이라 현행 값으로 쓰지 않았다."
+     ]
     },
     "closed_days": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "not_in_official_source",
+      "note": "정기 휴무일 안내가 공식 페이지에 없다. 폭우·정비 시 임시 폐쇄 공지만 있다."
      },
      "partial_gaps": []
     },
     "fees": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 남선 유람구(쥐펑 포함, 쥐펑·타이칭·화옌·양커우, 2일 유효): 문표 90위안, 관광버스표 60위안, 합계 150위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 남선 유람구(쥐펑 제외, 타이칭·화옌·양커우, 2일 유효): 문표 90위안, 관광버스표 40위안, 합계 130위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 쥐펑 유람구(당일 유효): 문표 80위안, 관광버스표 40위안, 합계 120위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 주수이 유람구(주수이·화러우, 당일 유효): 문표 60위안, 관광버스표 30위안, 합계 90위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 화러우 유람구(당일 유효): 문표 10위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 일표제(남선+주수이, 3일 유효): 문표 140위안, 관광버스표 70위안, 합계 210위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 남선 유람구(쥐펑 포함, 2일 유효): 문표 60위안, 관광버스표 60위안, 합계 120위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 남선 유람구(쥐펑 제외, 2일 유효): 문표 60위안, 관광버스표 40위안, 합계 100위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 쥐펑 유람구(당일 유효): 문표 50위안, 관광버스표 40위안, 합계 90위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 주수이 유람구(주수이·화러우, 당일 유효): 문표 40위안, 관광버스표 30위안, 합계 70위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "공식 요금표(이미지) 기준 1월 1일~3월 31일 일표제(남선+주수이, 3일 유효): 문표 90위안, 관광버스표 70위안, 합계 160위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "화러우 유람구 문표는 2026년 4월 1일부터 10위안이며, 이미 주수이 유람구 표를 산 사람은 다시 사지 않아도 된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6282.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "타이칭궁은 별도 유료 도관이라 현지에서 직접 표를 사야 하며 요금은 1인 27위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "60세 이상(60세 포함) 노인은 유효 신분증으로 문표 무료, 관광버스표 반값이다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "6세 이하 또는 키 1.4미터 이하 어린이는 문표·관광버스표·케이블카표가 모두 무료이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "6세 초과~18세 미성년자와 전일제 대학 이하 재학생은 문표가 반값이며 관광버스표 할인은 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "장애인은 증명서로 문표가 무료이고 관광버스표 할인은 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/Zixun-qinfo-qid-3.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "요금표는 이미지이며 2026-06-04 공지로 12개월 이내이다. 공식 홈페이지 FAQ의 특수 계층 우대는 갱신일이 표기되지 않았다. 유의사항(5571호)은 2024-09-17 게시라 12개월 이상 경과(stale_source) — 다른 공식 출처가 있으면 재확인 필요."
+     ]
     },
     "reservation": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "화러우 유람구는 공식 계정 '칭다오 라오산 풍경명승구'에서 '라오산 표무통' 미니프로그램으로 가서 날짜를 고르고 방문자 정보(이름·신분증 번호·휴대폰 번호)를 입력해 예약한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6155.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "화러우는 예약한 날 본인 신분증 원본을 스캔해 입장하며 현장 표 교환은 필요 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6155.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "2026년 10월 3일 공지에 따르면 남선(쥐펑·타이칭)과 동선(양커우·화옌)은 예약 구매 정원이 가득 차 인원 제한이 시행되었고, 구매한 방문자는 예약 시간에 맞춰 입장해야 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6558.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "연간 회원권 중 개인 카드는 사전 예약 없이 신분증을 스캔해 입장하고 가족 카드는 실물 카드를 스캔한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/Zixun-index.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "2024년 9월 게시된 경구 관람 수칙에 따르면, 할인 대상 특수 계층은 유효 증명서를 지참해 방문자센터(客服中心) 현장에서 문의·구매해야 한다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-5571.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "외국인 여권으로 예약하는 방법은 공식 페이지에 없다. 확인된 예약 절차는 신분증 번호 기준(화러우 안내)뿐이고, 일반 유람구 예약 절차 전문은 확인하지 못했다(공식 구매 페이지 Index-yuyue.html은 본문이 비어 있음)."
+     ]
     },
     "payment": {
      "status": "gap",
      "facts": [],
      "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
+      "reason": "official_unreachable",
+      "note": "외국 카드·현금·모바일 결제 가능 여부는 공식 페이지에서 확인되지 않았다. 온라인 구매 창구(미니프로그램)는 JS 렌더링이라 열리지 않았다."
      },
      "partial_gaps": []
     },
     "language": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
-     "partial_gaps": []
+     "status": "filled",
+     "facts": [
+      {
+       "text": "공식 웹사이트는 중국어·영어·일본어·한국어 페이지를 제공한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/New-Index-index.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "한국어 안내·오디오가이드 현장 서비스는 확인하지 못했다. 웹사이트 한국어 페이지는 2019년 이전 내용이라 인용하지 않았다."
+     ]
     },
     "caution": {
-     "status": "gap",
-     "facts": [],
-     "gap": {
-      "reason": "not_collected",
-      "note": "아직 수집하지 않음"
-     },
+     "status": "filled",
+     "facts": [
+      {
+       "text": "2026년 2월 공지는 양커우 방향 도로가 막히므로 자가용 방문을 피하고 대중교통을 먼저 이용하라고 안내했다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6223.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "2026년 9월 5일부터 타이칭 케이블카 노선의 탐방로가 24시간 폐쇄되며 재개 시점은 추후 공지된다(야구~타오위안커우~케이블카 상부역 등).",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6527.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "타이칭 케이블카 구간이 폐쇄되는 동안 밍샤동·상칭궁은 바수이허에서 룽탄폭포 등산로로 왕복해 가라고 안내했다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6527.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "2024년 9월 게시된 경구 관람 수칙에 따르면 야간 입산, 반려동물 동반, 경구 내 물에 들어가거나 수영하기, 암벽·나무·위험한 바위 오르기, 비개방 구역 출입이 금지된다.",
+       "verdict": "corrected",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-5571.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "심장병·고혈압·저혈당·고소공포증이 있는 사람은 등산 관광 표 구매를 신중히 하라고 안내한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-6407.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "안전·날씨·정비·수용 인원 조절로 제한이나 폐쇄가 있을 수 있으며 경구 공지를 따라야 한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://qdlaoshan.cn/News-info-nid-5571.html",
+         "type": "official",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
      "partial_gaps": []
     }
    },
-   "conflicts": [],
-   "last_verified": null
+   "conflicts": [
+    "Cableway: c23/c24 present the Taiqing cableway as a normal option (separate ticket, half price for seniors). The official notice (2026-04-18) says it has been suspended since 2026-04-24, and the 2026-08-31 notice says safety rectification is ongoing. The guide should say it is currently suspended.",
+    "Hualou: the 2025-12-29 reservation flow (c35/c36) calls booking '免费预约'. Since 2026-04-01 Hualou costs 10元 (2026-03-27 notice; fee table 2026-06-04). The booking flow is probably still valid but no longer free.",
+    "Hours: no official page gives the normal opening hours of the south and east lines (太清/巨峰/仰口/华严). The only hours found (c33) come from a single-day 2025-10-23 adjustment notice. Keep hours unconfirmed. Lookups tried: home notices and guide centre.",
+    "Stale source: News-info-nid-5571 (游览须知) is dated 2024-09-17, over 12 months old. c39 and c49 now state the date.",
+    "The official Korean page (New-Korean-index.html) describes 9 scenic areas. The current Chinese page lists 7 (c7). The Korean page is outdated; follow the Chinese page.",
+    "Record address (梅岭路29号) is the site footer address, not a visitor entrance. For travellers, give the 大河东/仰口/九水 visitor centres instead.",
+    "Not useful for travellers: c28–c32 (military, veterans, fire-rescue, press, tour guides) are administrative discount groups. Collapse them to seniors 60+, children ≤6 or ≤1.4m, students/minors half price. Whether passports count as 有效证件 is not stated."
+   ],
+   "last_verified": "2026-10-11"
   },
   {
    "id": "east-sh-01",

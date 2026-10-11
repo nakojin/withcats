@@ -2,7 +2,7 @@
  "id": "east-qd-02",
  "country": "cn",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "팔대관",
   "local": "八大关"
@@ -10,7 +10,7 @@
  "admin_region": "산둥성",
  "former_region": null,
  "city": "칭다오",
- "address": null,
+ "address": "山东省青岛市市南区太平山南麓，太平角与汇泉角之间（嘉峪关路·山海关路 일대）",
  "coord": {
   "lat": 36.053793,
   "lng": 120.34565,
@@ -21,93 +21,429 @@
   "osm": "node/4057340944"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "팔대관은 칭다오 스난구 타이핑산 남쪽 기슭, 타이핑자오와 후이취안자오 사이에 있는 근현대 건축 지구다.",
+ "description": "팔대관은 칭다오 스난구 타이핑산 남쪽 기슭, 타이핑자오와 후이취안자오 사이에 있는 근현대 건축 지구다. 1930년대에 조성되었고 면적은 66만 6천 제곱미터다. 옛 관문 이름을 딴 여덟 개 거리에서 이름이 유래했으며, 독일·러시아·미국·영국·프랑스 등 수십 개국 양식의 건축 300여 채가 모여 있어 만국건축박람회로 불린다. 2001년 전국 중점 문물보호단위로 공포되었고, 2005년에는 중국에서 가장 아름다운 도심 지역으로 선정되었다. 화스러우, 궁주러우, 후디에러우를 둘러볼 수 있으며 제2해수욕장과 타이핑자오 공원이 가까이 있다. 거리가 좁고 일방통행이라 걸어서 둘러보기 좋다.",
+ "highlights": [
+  "1930년대에 조성된 66만 6천 제곱미터의 근현대 건축 지구",
+  "독일·러시아·미국 등 수십 개국 양식 건축 300여 채, 별칭 만국건축박람회",
+  "2001년 전국 중점 문물보호단위로 공포",
+  "2005년 '중국에서 가장 아름다운 도심 지역' 선정",
+  "화스러우·궁주러우·후디에러우를 둘러볼 수 있고 화스러우 옆에 제2해수욕장",
+  "좁은 일방통행 거리가 많아 도보 관광에 적합"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b25-c1",
+    "r1-b25-c2"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b25-c14"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "가장 가까운 역·정류장과 도보 시간, 주차장 정보는 공식 출처에서 찾지 못했다. 차량 제한만 확인(위 claim).",
+     "detail": "access",
+     "run": "r1-b25"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 소요 시간 안내가 없다."
    }
   },
   "hours": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "지구·화스러우·궁주러우의 개방 시간을 공식 출처(칭다오시 정부, 스난구)에서 찾지 못했다."
    }
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 출처에서 정기 휴무 안내를 찾지 못했다."
    }
   },
   "fees": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "현행 입장료·무료 여부를 확인하지 못했다. 칭다오시 정부 2022-05-31 공지는 2022-06-01~12-31 한시 무료 개방이었고 현재 적용 여부를 알 수 없다. 건물(화스러우·궁주러우)의 별도 유료 여부도 현행 공식 안내가 없다."
    }
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "예약 필요 여부와 외국인 여권 예약 방법을 공식 출처에서 찾지 못했다."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "결제 수단·외국 카드 가능 여부를 공식 출처에서 찾지 못했다."
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내·오디오가이드 여부를 공식 출처에서 찾지 못했다."
    }
   },
   "caution": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "인용한 공식 페이지(칭다오시 정부·문화관광국·공안 공지)에 차량 통행 제한 외 여행자 주의사항 안내가 없다(병합 시 추가: 수집자 미기재 항목)."
    }
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b25-c1",
+   "field": "location",
+   "text": "팔대관은 칭다오시 스난구 타이핑산 남쪽 기슭, 타이핑자오와 후이취안자오 사이에 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "gov page 2020-09-10",
+   "sources": [
+    {
+     "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+     "type": "government",
+     "page_updated": "2020-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c2",
+   "field": "location",
+   "text": "2022년 칭다오시 공안국 교통경찰 안내는 팔대관 주변 혼잡 도로로 자위관로와 산하이관로를 꼽았다.",
+   "original_text": "팔대관 거리는 자위관로와 산하이관로 일대로 소개된다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "The page only lists them as congestion-prone roads in a 2022 holiday guide",
+   "sources": [
+    {
+     "url": "http://www.qingdao.gov.cn/zwgk/xxgk/gaj/ywflxx_561/jtgl/202206/t20220601_6089001.shtml",
+     "type": "government",
+     "page_updated": "2022-05-31",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c3",
+   "field": "description",
+   "text": "팔대관은 1930년대에 조성되었다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "建于20世纪30年代",
+   "sources": [
+    {
+     "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+     "type": "government",
+     "page_updated": "2020-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c4",
+   "field": "description",
+   "text": "팔대관의 면적은 66만 6천 제곱미터이다.",
+   "original_text": null,
+   "value": "666000m2",
+   "verdict": "verified",
+   "verify_note": "66.6万平方米",
+   "sources": [
+    {
+     "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+     "type": "government",
+     "page_updated": "2020-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c5",
+   "field": "description",
+   "text": "옛 관문 이름을 붙인 여덟 개 거리가 있어 '팔대관'이라 부른다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+     "type": "government",
+     "page_updated": "2020-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c6",
+   "field": "description",
+   "text": "독일·러시아·미국·영국·프랑스 등 수십 개국의 서로 다른 양식 건축 300여 채가 있어 '만국건축박람회'로 불린다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+     "type": "government",
+     "page_updated": "2020-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c7",
+   "field": "description",
+   "text": "2001년 팔대관 근현대 건축군이 국무원에 의해 전국 중점 문물보호단위로 공포되었다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "matches",
+   "sources": [
+    {
+     "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+     "type": "government",
+     "page_updated": "2020-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c8",
+   "field": "description",
+   "text": "2005년 팔대관 풍경구는 '중국에서 가장 아름다운 도심 지역' 칭호를 받았다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "中国国家地理杂志社主办评选",
+   "sources": [
+    {
+     "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+     "type": "government",
+     "page_updated": "2020-09-10",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c9",
+   "field": "description",
+   "text": "팔대관은 후이취안자오 풍경구 북쪽에 있으며 지금은 거리가 10개이지만 이름은 그대로 유지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "English page 2021-12-28",
+   "sources": [
+    {
+     "url": "http://english.qingdao.gov.cn/about/attractions/202112/t20211228_4153036.shtml",
+     "type": "government",
+     "page_updated": "2021-12-28",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c10",
+   "field": "description",
+   "text": "칭다오시 문화관광국 2026년 6월 안내는 팔대관에서 화스러우·궁주러우·후디에러우를 둘러볼 수 있다고 소개한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Source 青岛市文化和旅游局. Page publish date is 2026-06-14, not 06-18",
+   "sources": [
+    {
+     "url": "http://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202606/t20260618_10638992.shtml",
+     "type": "government",
+     "page_updated": "2026-06-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c11",
+   "field": "description",
+   "text": "화스러우 바로 옆에 제2해수욕장이 있고, 가까이에 타이핑자오 공원이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "花石楼旁就是第二海水浴场; 毗邻太平角公园",
+   "sources": [
+    {
+     "url": "http://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202606/t20260618_10638992.shtml",
+     "type": "government",
+     "page_updated": "2026-06-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c12",
+   "field": "tip",
+   "text": "팔대관은 좁은 일방통행 거리가 많아 걸어서 둘러보기 좋다고 칭다오시 영문 안내가 설명한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "English guide 2021",
+   "sources": [
+    {
+     "url": "http://english.qingdao.gov.cn/services/travel/202112/t20211228_4153227.shtml",
+     "type": "government",
+     "page_updated": "2021-12-28",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c13",
+   "field": "tip",
+   "text": "제1해수욕장은 팔대관에서 아주 가깝다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "'a stone's throw away from Badaguan'",
+   "sources": [
+    {
+     "url": "http://english.qingdao.gov.cn/services/travel/202112/t20211228_4153227.shtml",
+     "type": "government",
+     "page_updated": "2021-12-28",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-c14",
+   "field": "access",
+   "text": "칭다오시 공안 공지는 4월 1일부터 11월 30일까지 팔대관 일부 구역의 차량 통행을 제한한다고 밝혔다(2024년 9월 공지 기준). 제한 구역은 타이핑자오1로 서쪽, 정양관1지로 동쪽, 정양관로 남쪽 일대이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Matches the 2024-09-14 notice, which is over 12 months old. The 2022 notice has the same rule. No 2026 official notice found (1 search, only secondary hits), so keep the date stated in the text",
+   "sources": [
+    {
+     "url": "http://www.qingdao.gov.cn/zwgk/xxgk/gaj/ywflxx_561/jtgl/202409/t20240914_8272650.shtml",
+     "type": "government",
+     "page_updated": "2024-09-14",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  },
+  {
+   "cid": "r1-b25-s1",
+   "field": "access",
+   "text": "칭다오시 정무망 팔대관 소개(2020년 9월)에는 버스 노선 6·15·26·31·202·206·215·220·223·231·304·312·316·317·321·501·604·605·801·802번이 안내되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqtsjd/202009/t20200910_521991.shtml",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b25"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b25",
+   "text": "Fees: no official statement found that Badaguan is free. The 2026-06 文旅局 article says only '大部分景区都免费'. Do not write 무료 without a source; keep the field unconfirmed."
+  },
+  {
+   "run": "r1-b25",
+   "text": "Hours, reservation, payment, language: none found on the cited official pages (2 lookups). Keep them unconfirmed."
+  },
+  {
+   "run": "r1-b25",
+   "text": "Stale sources: c1, c3–c8 (2020) and c9, c12, c13 (2021) are descriptive facts, so acceptable. c14 (2024 traffic restriction) is an operating rule and is not confirmed by a current official page."
+  },
+  {
+   "run": "r1-b25",
+   "text": "Suggested bus list comes from a 2020 page whose numbers are unlabelled in the visible text. Treat it as a weak lead and re-check."
+  },
+  {
+   "run": "r1-b25",
+   "text": "Minor wording difference: the English page says 'north of Huiquanjiao Scenic Zone'; the Chinese page says between 太平角 and 汇泉角. The two do not contradict each other."
+  }
+ ],
  "legacy": {
   "source": "china-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -187,6 +523,38 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b25",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 14,
+    "verdicts": {
+     "verified": 13,
+     "corrected": 1,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 1
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "stale_source",
+   "note": "기본 설명 페이지(2020-09-10 게시)는 12개월 이상 경과. 건축·연혁 수치는 변동이 적으나 재확인 권장. 2024-09-14 교통 공지도 12개월 이상 경과했으므로 올해 제한 적용은 별도 확인 필요.",
+   "run": "r1-b25"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b25"
  }
 }
