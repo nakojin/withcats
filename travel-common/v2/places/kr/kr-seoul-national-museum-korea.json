@@ -2,7 +2,7 @@
  "id": "kr-seoul-national-museum-korea",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "국립중앙박물관",
   "local": "국립중앙박물관"
@@ -10,7 +10,7 @@
  "admin_region": "서울특별시",
  "former_region": null,
  "city": "용산구 서빙고로 137",
- "address": null,
+ "address": "서울특별시 용산구 서빙고로 137 (우 04383)",
  "coord": {
   "lat": 37.523953,
   "lng": 126.98032,
@@ -21,93 +21,686 @@
   "osm": "way/168364800"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "국립중앙박물관은 서울 용산구 서빙고로 137에 있는 국립 박물관으로, 상설전시장은 누구나 무료로 볼 수 있다.",
+ "description": "국립중앙박물관은 서울 용산구 서빙고로 137에 있는 국립 박물관으로, 상설전시장은 누구나 무료로 볼 수 있다. 상설전시관은 7개 관 39개 실에 유물 9,884점을 전시한다. 수요일과 토요일은 21시까지 열고 나머지 요일은 17시 30분에 닫으며, 정원은 07시부터 22시까지 열려 있다. 지하철 경의중앙선 이촌역 2번 출구 방향 박물관 나들길로 이어지며 주차장은 지하 522대 규모의 관람객용 공간이 있지만 공간이 부족해 대중교통을 권한다. 정기휴실일에는 상설전시관과 특별전시실 1·2가 쉬고 야외전시장은 정상 개관한다. 2026년 7월부터 일부 전시실이 개편으로 쉬고 있어 방문 전 확인이 필요하다.",
+ "highlights": [
+  "상설전시 무료 관람(유료 기획전시 제외)",
+  "수·토요일 야간 개관 21:00까지, 정원은 07:00~22:00",
+  "이촌역 2번 출구 방향 박물관 나들길로 연결",
+  "반가사유상 두 점을 함께 전시하는 사유의 방",
+  "3·6·9·12월 첫째 월요일은 상설전시관 휴실"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b01-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b01-c14",
+    "r1-b01-c15",
+    "r1-b01-c16",
+    "r1-b01-c17",
+    "r1-b01-c18",
+    "r1-b01-c19"
+   ],
+   "gap": null
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 권장 관람 소요시간 안내를 찾지 못함"
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b01-c2",
+    "r1-b01-c3",
+    "r1-b01-c4",
+    "r1-b01-c5",
+    "r1-b01-c6"
+   ],
+   "gap": null
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b01-c7",
+    "r1-b01-c8",
+    "r1-b01-c9"
+   ],
+   "gap": null
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b01-c10",
+    "r1-b01-c11",
+    "r1-b01-c12"
+   ],
+   "gap": null
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b01-c13"
+   ],
+   "gap": null
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b01-c20"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "유료 특별전시 매표소의 결제수단 안내를 찾지 못함",
+     "detail": "payment.admission",
+     "run": "r1-b01"
+    }
+   ]
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 오디오가이드·해설 안내 페이지는 찾지 못함(누리집은 영·일·중 언어 전환 제공이 확인되나 현장 한국어 가이드 정보는 없음)"
    }
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b01-c21",
+    "r1-b01-c22",
+    "r1-b01-c23"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b01-c1",
+   "field": "location",
+   "text": "박물관 주소는 서울특별시 용산구 서빙고로 137(용산동6가 168-6), 우편번호 04383이다.",
+   "original_text": null,
+   "value": "서울특별시 용산구 서빙고로 137",
+   "verdict": "verified",
+   "verify_note": "오시는길 페이지: 04383 서울시 용산구 서빙고로 137(용산동6가 168-6), 전화 02-2077-9000",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0106010000.do?menuId=subway-map",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c2",
+   "field": "hours",
+   "text": "월·화·목·금·일요일은 9:30~17:30(입장 마감 17:00)에 운영한다.",
+   "original_text": null,
+   "value": "Mon,Tue,Thu,Fri,Sun 09:30-17:30; last entry 17:00",
+   "verdict": "verified",
+   "verify_note": "관람안내 페이지와 일치",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c3",
+   "field": "hours",
+   "text": "수요일과 토요일은 9:30~21:00까지 열며 입장 마감은 20:30이다.",
+   "original_text": null,
+   "value": "Wed,Sat 09:30-21:00; last entry 20:30",
+   "verdict": "verified",
+   "verify_note": "수·토 9:30–21:00, 입장 마감 20:30",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c4",
+   "field": "hours",
+   "text": "옥외 전시장(정원)은 오전 7시부터 오후 10시까지 관람할 수 있다.",
+   "original_text": null,
+   "value": "07:00-22:00",
+   "verdict": "verified",
+   "verify_note": "옥외 전시장(정원) 07:00–22:00",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c5",
+   "field": "hours",
+   "text": "입장 마감은 폐관 30분 전이고 폐관 유도는 폐관 10분 전부터 시작한다.",
+   "original_text": null,
+   "value": "입장마감 폐관 30분 전",
+   "verdict": "verified",
+   "verify_note": "페이지 문구와 같음",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c6",
+   "field": "hours",
+   "text": "어린이박물관은 월~일 9:30~17:20에 회차별 예약제로 운영한다.",
+   "original_text": null,
+   "value": "09:30-17:20, 회차별 예약제",
+   "verdict": "verified",
+   "verify_note": "월~일 9:30–17:20, 회차별 예약제",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c7",
+   "field": "closed_days",
+   "text": "2026년 휴관일은 1월 1일, 설날(2월 17일), 추석(9월 25일)이다.",
+   "original_text": null,
+   "value": "2026-01-01, 2026-02-17, 2026-09-25",
+   "verdict": "verified",
+   "verify_note": "2026년 휴관일: 1/1, 2/17(설날), 9/25(추석)",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c8",
+   "field": "closed_days",
+   "text": "매년 3·6·9·12월 첫째 월요일은 상설전시관과 특별전시실 1·2가 휴실하고 야외전시장은 정상 개관한다.",
+   "original_text": null,
+   "value": "3,6,9,12월 첫째 월요일 휴실",
+   "verdict": "verified",
+   "verify_note": "상설전시관과 특별전시실 1·2가 휴실, 야외전시장은 정상 개관",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c9",
+   "field": "closed_days",
+   "text": "2026년 휴실일은 6/1, 9/7, 12/7이며 2026년 3월은 휴실이 없다. 오늘(2026-10-11) 기준 남은 휴실일은 12월 7일이다.",
+   "original_text": null,
+   "value": "2026-06-01, 2026-09-07, 2026-12-07",
+   "verdict": "verified",
+   "verify_note": "6/1, 9/7, 12/7이고 3월 휴실 없음. '오늘 기준' 문구는 날짜에 따라 낡으므로 공개 문장에서는 빼는 것이 좋음",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c10",
+   "field": "fees",
+   "text": "상설전시관 관람은 무료이며 유료 특별전시만 입장권이 필요하다.",
+   "original_text": null,
+   "value": "상설전시 무료",
+   "verdict": "verified",
+   "verify_note": "두 페이지 모두 상설전시 무료(유료 기획전시 제외)",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0201010000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c11",
+   "field": "fees",
+   "text": "어린이박물관과 무료 특별전시도 무료이다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "무료 대상: 상설전시관, 어린이박물관, 무료 특별전시",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c12",
+   "field": "fees",
+   "text": "유료 특별전시 관람권은 특별전시실 1 앞 매표소에서 팔고, 관람 종료 30분 전까지 판매한다.",
+   "original_text": null,
+   "value": "특별전시실 1 앞 매표소, 종료 30분 전까지",
+   "verdict": "verified",
+   "verify_note": "특별전시실 2는 전시실 입구에서도 살 수 있음",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c13",
+   "field": "reservation",
+   "text": "초·중·고 학생 단체(30명 이상)는 사전 예약제이며 예약하지 않은 학생 단체는 입장할 수 없다. 일반 개인 관람은 예약 안내가 없다.",
+   "original_text": null,
+   "value": "학생단체 사전예약 필수",
+   "verdict": "verified",
+   "verify_note": "화면에 보이는 문구와 일치. 자체해설 단체 안내 블록은 HTML 주석 처리되어 화면에 안 보임",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c14",
+   "field": "access",
+   "text": "지하철 4호선·경의중앙선 이촌역 2번 출구 방향의 지하보도 '박물관 나들길'로 박물관 서문에 이어진다. 엘리베이터는 이촌역 1번 출구와 이촌역 2번 출구 방향 '박물관 나들길'에 있다.",
+   "original_text": "지하철 4호선·경의중앙선 이촌역 2번 출구 방향의 지하보도 '박물관 나들길'로 박물관 서문에 이어진다. 엘리베이터는 이촌역 1·2번 출구 방향 나들길에 있다.",
+   "value": "이촌역 2번 출구",
+   "verdict": "corrected",
+   "verify_note": "엘리베이터 위치는 '1번 출구'와 '2번 출구 방향 나들길' 두 곳임",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0106010000.do?menuId=subway-map",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c15",
+   "field": "access",
+   "text": "박물관 나들길은 07:00~23:00 개방하며 휴관일에는 열지 않는다.",
+   "original_text": null,
+   "value": "07:00-23:00",
+   "verdict": "verified",
+   "verify_note": "07:00~23:00, 휴관 시 미개방",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0106010000.do?menuId=subway-map",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c16",
+   "field": "access",
+   "text": "간선버스 400번과 502번이 국립중앙박물관을 지난다.",
+   "original_text": null,
+   "value": "400, 502",
+   "verdict": "verified",
+   "verify_note": "간선 400번, 502번",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0106010000.do?menuId=bus-map",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c17",
+   "field": "parking",
+   "text": "옥내주차장 754대(지하1층 관람객용 522대) 및 옥외 149대를 운영하지만 공간이 부족해 박물관은 대중교통 이용을 권한다.",
+   "original_text": null,
+   "value": "옥내 754 / 옥외 149",
+   "verdict": "verified",
+   "verify_note": "옥내 754대(지하1층 관람객용 522대), 옥외 149대(대형 75대 포함), 대중교통 권장",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c18",
+   "field": "parking",
+   "text": "승용차(15인승 이하) 주차요금은 기본 60분 1,000원, 초과 10분당 500원, 1일 최대 30,000원(06:00~23:00)이다.",
+   "original_text": null,
+   "value": "1,000원/60분; +500원/10분; 일 최대 30,000원",
+   "verdict": "verified",
+   "verify_note": "중/대형차(16인승 이상)는 2,000원, 10분당 1,000원, 하루 최대 60,000원",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c19",
+   "field": "parking",
+   "text": "경차(1,000cc 이하)와 환경친화적 자동차(전기·하이브리드·수소)는 주차요금 50% 할인이 즉시 감면 적용되고, 다자녀 가족 중 세 자녀 이상은 50%, 두 자녀 가족과 임산부는 30% 할인된다(증빙 제시 필요).",
+   "original_text": "경차와 친환경(전기·하이브리드·수소) 차량은 요금이 즉시 감면되며, 다자녀 가족 등은 50%·30% 할인 대상이다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "원문은 할인율 대상이 모호함. 경차·친환경차는 50% 할인 대상",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c20",
+   "field": "payment",
+   "text": "주차요금은 전자주차관제시스템으로 자동 부과되며 지하주차장 무인정산기를 쓰면 출차가 빠르다.",
+   "original_text": null,
+   "value": "무인정산기",
+   "verdict": "verified",
+   "verify_note": "페이지 문구와 같음",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c21",
+   "field": "caution",
+   "text": "음식물과 안내견 외 반려동물 반입 금지, 플래시·삼각대·셀카봉·짐벌 촬영 금지, 바퀴 달린 신발 입장 불가, 배낭은 1층 물품보관함에 보관해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "유의사항 목록과 일치",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c22",
+   "field": "caution",
+   "text": "2024년 6월 11일부터 보안검색대에서 소지품을 확인한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "2024.6.11.부터 보안검색대 운영",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c23",
+   "field": "caution",
+   "text": "2026-07-06~2027-01-28 동안 3층 조각·공예관 불교조각실·금속공예실 및 2층 불교회화실·목칠공예실 등이 휴실한다. 청자실(303호)과 분청사기·백자실(304호), 서화실 202-1·2는 관람 가능하다.",
+   "original_text": null,
+   "value": "2026-07-06~2027-01-28",
+   "verdict": "verified",
+   "verify_note": "감각전시실 '공간_사이'도 휴실이고, 서화실 202-3·4호는 2026-08-10부터 휴실. '등'으로 묶여 있어 틀리지는 않음",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0201010000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c24",
+   "field": "description",
+   "text": "상설전시장은 7개 관 39개 실에 유물 9,884점을 전시한다.",
+   "original_text": null,
+   "value": "7관 39실 9,884점",
+   "verdict": "verified",
+   "verify_note": "7개 관, 39개 실, 9,884점",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0201010000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c25",
+   "field": "highlight",
+   "text": "2층 사유의 방에는 국보 반가사유상 두 점이 나란히 전시되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "2층 사유의 방",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0201010000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c26",
+   "field": "tip",
+   "text": "상설전시관 3층에는 세계문화관(중국·일본·중앙아시아·인도·동남아시아)이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "3층 세계문화관",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0201010000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-s1",
+   "field": "parking",
+   "text": "입차 후 20분 이내에 출차하면 주차요금이 면제되고, 23시 이후 주차장 출입문을 닫으므로 운영시간 안에 출차해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-s2",
+   "field": "parking.entrance",
+   "text": "2026년 7월부터 대형주차장을 거쳐 용산어린이정원 주차장으로 진입할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b01",
+   "text": "주차장 출입문 폐쇄 시각이 같은 페이지에 '22시(2025.9.30. 이후 23시)'로 함께 적혀 있음. 현재 값은 23시"
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -207,6 +800,40 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b01",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 26,
+    "verdicts": {
+     "verified": 24,
+     "corrected": 2,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 2
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.entrance",
+   "note": "주차장 가는 길 상세(2026년 7월부터 용산어린이정원 주차장 진입 가능)는 지도 이미지 중심이라 경로를 문장으로 확인하지 못함",
+   "run": "r1-b01"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "정기휴실일에는 야외전시장만 열린다. (출처는 상설전시관·특별전시실 1·2 휴실, 야외전시장 정상 개관이라고만 함. 야외전시장'만' 연다는 근거 없음, 어린이박물관 등은 언급 없음)"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b01"
  }
 }

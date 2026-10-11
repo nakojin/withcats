@@ -109,6 +109,7 @@ def main(root, run, date, col_path, ver_path, fix_path=None):
             for old, new in fixes.get(col['key'], []):
                 desc = desc.replace(old, new)
                 hl = [h.replace(old, new) for h in hl]
+            hl = [h for h in hl if h.strip()]          # 고친 결과 빈 하이라이트는 뺀다
             # 수정·비공개된 claim 의 옛 표현(숫자+뒤 6글자)이 본문에 그대로 남아 있으면 공개를 막는다
             body = re.sub(r'\s', '', desc + ' '.join(hl))
             for c in place['claims']:

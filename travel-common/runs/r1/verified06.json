@@ -1,0 +1,500 @@
+{
+ "places": [
+  {
+   "key": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "VK detail data: addr1 경상북도 경주시 황남동 + addr2 31-1"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "VK mapY 35.8382 / mapX 129.2128. OSM '대릉원' 35.83895,129.21193, about 115m away, which is fine. The Gyeongju heritage page's Kakao link uses 35.835486,129.215781, about 400m away"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "사적, 602,314㎡, 경북 경주시 노동동 261 등"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The page names the five former 사적 (노동리·노서리·황남리·황오리·인왕리) and says they were merged and re-designated on 2011-07-28"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "밑둘레 230m, 직경 82m, 높이 22m, 황남대총 다음 규모"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "useTime matches. This is the only source for these hours. The Gyeongju fee page lists no hours"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "restDate 연중무휴"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Fee table row: '천마총 (대릉원 입장은 무료)'"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Age bands: 어린이 7-12, 청소년 13-18, 어른 19-64"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Group = 30 or more people"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "9개소. For 장애인 1~3급 a carer is also free. For 국가유공자 유족 a 유족증서 is needed"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The page lists 10 sites, including 동궁원(식물원)"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "parking: 가능"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The claim leaves out two items in the same cell: '학생단체:3,000' and '장애인/국가유공자:50%할인'"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "첨성대 row parking column reads '대릉원주차장이용'"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "대릉원 and 천마총 both list 054-750-8652"
+    },
+    {
+     "cid": "c17",
+     "verdict": "corrected",
+     "corrected_text": "한국관광공사 무장애 정보상 대릉원은 출입구까지 턱이 없어 휠체어로 접근할 수 있고, 장애인 화장실과 장애인 주차장이 있으며, 휠체어와 유모차(정문 매표소)를 빌릴 수 있다.",
+     "note": "The static HTML has a template list where every item is '없음'. The live detail data (bfree) that the page renders says the opposite: no step at entrance, accessible toilet and parking, wheelchair and stroller rental available"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "경상북도 경주시 원화로 102 (인왕동)"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1980 restoration, 27동 originally, 3채 restored now"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Only source for these hours is the access.visitkorea page"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Fee table row: 경주 동궁과 월지 (구)안압지"
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Accessibility data shows '업데이트 2022.02.07', so it is stale"
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "음성안내어플 제공(음성안내QR코드). No languages listed"
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The page also says the concrete path in front of the halls is being replaced with dirt path. Data dated 2022.02.07, stale"
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "대여가능(3대/관리사무실); 보조견 동반 가능. Data dated 2022.02.07, stale"
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "tip",
+     "text": "한국관광공사는 대릉원 문의처를 054-771-8650으로 안내한다(경주시 요금표는 054-750-8652).",
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6da54421-9ab9-4853-80d6-1eadbf0ad73b"
+    },
+    {
+     "field": "parking",
+     "text": "천마총(대릉원) 주차장은 장애인·국가유공자 50% 할인이 있고, 학생단체 차량은 3,000원이다.",
+     "url": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    }
+   ],
+   "conflicts": [
+    "Phone numbers differ: VK lists 대릉원 문의 as 054-771-8650, while the Gyeongju fee page lists 054-750-8652.",
+    "VK 대릉원 page: the static HTML accessibility list says '없음' for every item, but the bfree data the page renders says facilities exist (see c17).",
+    "access.visitkorea 동궁과 월지 accessibility data is dated 2022.02.07, older than 12 months (stale_source). This affects c26, c29 and c30.",
+    "VK's homepage link to the Gyeongju tour page (mnu_uid=2517&chaNo=3333) is broken and returns a '비정상적인 메뉴코드' error, so the hours could not be checked against a second official source.",
+    "The 종합이용권 table (2종 대릉원·동궁과 월지, card payment possible) exists only inside an HTML comment on the Gyeongju fee page. It is not displayed and must not be used."
+   ]
+  },
+  {
+   "key": "kr-gyeongbuk-andong-hahoe-village",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Page shows the old 6-digit postcode 760-812, a sign the page is stale"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Map check: the point reverse-geocodes to a parking lot on 전서로 near the entrance. It is about 1.6km from the OSM centroid of the village (36.5390,128.5181), which is over 500m. Fine as an entrance or parking coordinate"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "expGuide field"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Andong's 17:30 and 16:30 match VK's last-entry times. The Andong table header says 하절기 3~10월, but the 하회마을 row says 4~9월"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Both sources say 연중무휴"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "hahoe.or.kr shows the same amounts"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Group rates are 900/400/300. hahoe.or.kr applies the resident rate to '안동시민 및 예천군민'"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'하회마을 : 무료 (셔틀버스-무료)'"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'가능 요금 (무료)'"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Timetable dated 2022.03.21, stale"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The booking link points to aftf.or.kr"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "hours.performance",
+     "text": "2026년 하회별신굿탈놀이 상설공연은 1~2월 매주 토·일, 3~12월 매주 화~일 오후 2시~3시 하회별신굿탈놀이전수관에서 열리며 관람료는 무료이다(사정에 따라 변경 가능).",
+     "url": "http://www.hahoe.or.kr/coding/sub3/sub1.asp"
+    },
+    {
+     "field": "language",
+     "text": "한국관광공사 무장애 정보상 하회마을에는 오디오 가이드(한국어, 외국어)가 있다.",
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+    },
+    {
+     "field": "caution",
+     "text": "한국관광공사 무장애 정보상 하회마을은 출입구에 턱이 없어 휠체어 접근이 가능하고, 장애인 주차장 15면(1·2주차장)과 장애인 화장실이 있으며, 휠체어(사무실 5대·보관함 3대)와 유모차(3대)를 빌릴 수 있다.",
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e"
+    },
+    {
+     "field": "reservation",
+     "text": "하회마을 공식 사이트 메뉴에 온라인 예매(taap.co.kr) 링크가 있다(예매 대상은 페이지에서 확인 필요).",
+     "url": "http://www.hahoe.or.kr/coding/sub5/sub3.asp"
+    }
+   ],
+   "conflicts": [
+    "Hours: VK gives 09:00-18:00 (last entry 17:30) in summer and 09:00-17:00 (last entry 16:30) in winter. tourandong.com gives 09:00-17:30 and 09:00-16:30, which match VK's last-entry times. The description already tells travellers to check before visiting.",
+    "hahoe.or.kr is stale. The bus timetable is dated 2022.03.21, the postcode is the old 760-812 format, the FAQ posts are from 2009, and the rail directions (청량리 새마을 etc.) look outdated. Use it only for c19 to c22 and only with a caution.",
+    "The hahoe.or.kr fee table matches tourandong, but labels the resident rate '안동시민 및 예천군민' where tourandong says only 안동시민."
+   ]
+  },
+  {
+   "key": "kr-gyeongbuk-pohang-homigot",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "VK addr1 is only a lot-level address. Prefer the Pohang road address"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The basis is a 1999-01-01 sunrise time of 07:32 from 한국천문연구원, which is old data"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The same page also says national sunrise festivals were held twice, on 2000-01-01 and 2001-01-01, so it is internally inconsistent"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "No parking fee is given"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "telNo 054-270-5806, infoCenter 054-270-5855"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [
+    "상생의 손: the highlight says '마주한' (the hands face each other). The sources only say a right hand stands in the sea and a left hand on land. Suggest '바다의 오른손과 육지의 왼손으로 이루어진'"
+   ],
+   "suggested_claims": [
+    {
+     "field": "location.coord",
+     "text": "한국관광공사 자료상 호미곶 해맞이광장 좌표는 위도 36.0768, 경도 129.5680이다(OSM 해맞이광장·상생의 손과 약 100m 이내로 일치).",
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57"
+    },
+    {
+     "field": "caution",
+     "text": "한국관광공사 무장애 정보상 해맞이광장은 출입구까지 완만한 경사로가 있고 주출입구에 턱이 없으며, 장애인 주차장과 장애인 화장실(휠체어 활동공간 좁음)이 있고 휠체어를 빌릴 수 있다.",
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57"
+    }
+   ],
+   "conflicts": [
+    "The Pohang page's 'first sunrise' claim rests on 1999 data and includes a planned-development paragraph that reads as old. Some content looks over 12 months old, but the page shows no update date.",
+    "Fees and parking fee: neither the Pohang page nor the VK page states either one. Two lookups found nothing, so these stay unconfirmed. Do not write '무료' without a source."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 66,
+  "verified": 65,
+  "corrected": 1,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "VisitKorea ms_detail pages are rendered by JavaScript. Fields were read from the page's own data endpoint (POST https://korean.visitkorea.or.kr/call, cmd=TOUR_CONTENT_BODY_DETAIL). The static HTML holds a placeholder accessibility list where every item is '없음'. Collectors reading that raw HTML will produce wrong 'no facilities' claims, as happened with 대릉원 c17.",
+   "Hahoe c3: the coordinate is the entrance parking lot, about 1.6km from the OSM village centroid. Label it as an entrance coordinate.",
+   "Stale sources: access.visitkorea 동궁과 월지 (2022.02.07) and hahoe.or.kr (bus timetable 2022, FAQ 2009).",
+   "Not found after lookups: payment for all three places, fees and parking fee for 호미곶, and languages for 대릉원. Report these as unconfirmed with a reason, not as blank.",
+   "Every claim's source was opened with curl -sL, and all returned HTTP 200. Lookups: the Gyeongju 대릉원 page link is broken, hahoemask.co.kr did not respond, and the hahoe.or.kr 탈놀이 page gave the 2026 performance schedule."
+  ]
+ }
+}

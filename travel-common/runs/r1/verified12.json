@@ -1,0 +1,550 @@
+{
+ "places": [
+  {
+   "key": "central-032",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access page header address matches"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "谷町線 谷町4丁目 1-B / 天満橋 3"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "中央線 9, 森ノ宮 1・3-B; 長堀鶴見緑地線 森ノ宮 3-B, OBP 1"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JR 環状線 森ノ宮・大阪城公園, 東西線 大阪城北詰, 京阪 天満橋"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "62系統 大阪城大手前・馬場町; 水上バス 大阪城港・八軒家浜"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "171台(身障者用4)/143台(身障者用3), 終日"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "page also lists a daily cap for disability-card holders (400/500円 until 24:00), not in claim"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "page also lists 22-8시 500円/h and an 18-8시 cap of 5,000円, not in claim"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "法円坂出口 (from Kobe) / 森之宮出口 (from Higashi-Osaka)"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "9:00-18:00, entry until 17:30 (changed 2025-04-01)"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "12/28-1/1"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "fee change from 2025-04-01 is stated"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "ISIC note present"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "15+ paying visitors; school-group rates also exist"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "also accepts the Mirairo ID app"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "top page: 予約サイトを通じて入館券の事前購入が可能"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "page states the phone call is not a reservation"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "QR list also includes JKOPAY, d払い, メルペイ, au PAY, 楽天Pay"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "limited number of devices"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1F theater (5 programs) and 5F panorama vision (2 units)"
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "page also prohibits camera gear that blocks other visitors"
+    },
+    {
+     "cid": "c27",
+     "verdict": "corrected",
+     "corrected_text": "관내 엘리베이터는 직원 안내로 이용하며, 누구나 올라갈 때만 5층까지 직통으로 탈 수 있다. 5층에서 8층까지 올라갈 때와 8층에서 1층까지 내려올 때는 계단을 이용하며, 6층은 출입할 수 없는 회랑이다. 휠체어 이용자나 보행이 어려운 사람은 오르내릴 때 모든 층에서 엘리베이터를 이용할 수 있다.",
+     "note": "claim left out that the whole way down (8F to 1F) is by stairs, and that the 1F-to-5F elevator runs up only; the exemption also covers people with walking difficulty"
+    },
+    {
+     "cid": "c28",
+     "verdict": "corrected",
+     "corrected_text": "현재 천수각은 도요토미·도쿠가와 시대에 이은 3대째로, 1931년 시민 기부금으로 복원되었고 2025년 오사카시 지정 유형문화재가 되었다.",
+     "note": "facts match; '풍신' (豊臣 read in Korean) changed to the standard name '도요토미'. Page also says the keep became a nationally registered tangible cultural property in 1997"
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "3F: golden tea room full-size replica plus Toyotomi- and Tokugawa-era castle models"
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c33",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "applies to the 3F/4F history exhibits"
+    },
+    {
+     "cid": "c34",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "大阪城 豊臣石垣館"
+    },
+    {
+     "cid": "c35",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2F, 500円 per person per try"
+    }
+   ],
+   "unsupported_in_description": [
+    "'3~4층에는 히데요시 관련 자료와 황금 다실 실물 크기 모형이 있으며' — imprecise: the golden tea room replica is on 3F only (c31); 3F and 4F both hold Hideyoshi-era materials"
+   ],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "language",
+     "text": "공식 사이트는 한국어판 오사카성 리플릿(PDF)을 제공하지만, 사이트의 다국어(Language) 메뉴는 'Coming Soon'으로 표시되어 있어 한국어 웹페이지는 아직 없다.",
+     "url": "https://www.osakacastle.net/leaflet/"
+    },
+    {
+     "field": "location.coordinates",
+     "text": "OSM 좌표(大阪城天守閣, tourism=museum): 34.68749, 135.52589",
+     "url": "https://nominatim.openstreetmap.org/search?q=大阪城天守閣&format=json"
+    }
+   ],
+   "conflicts": [
+    "guide page: the stamp-list section is dated '2023年3月現在' (over 12 months old); the fee and hours sections say they changed 2025-04-01 and are current"
+   ]
+  },
+  {
+   "key": "jp-east-sensoji",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Oct-Mar opening is 6:30, so 6:30 applies as of today (2026-10)"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO; the official light-up page gives the same hours (see suggested_claims)"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Free' keyword; GO TOKYO page updated 2025-12-25; page says to check the official site for prices"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "language menu: English, 中文(简/繁), 한글어"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "listed under Facility Info"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "toilets also have a wheelchair handrail, diaper-changing sheet and baby chair"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "推古36年(628)3月18日; 宮戸川 (now the Sumida); the Hinokuma brothers"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Korean page: '도내에서 가장 오래된 절', 연간 약 30,000,000명"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "page gives the lantern weight as 'about 700kg'"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "waraji donated 2018 (8th time); the gate houses the Niō statues"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO: pagoda 'visible from anywhere on the grounds'; Nakamise 250m"
+    }
+   ],
+   "unsupported_in_description": [
+    "'약 1400년 역사의 관음 영장' — no claim covers the 1,400-year figure (the about page does say '1400年近い歴史'; c15 covers only the year 628)",
+    "'가미나리몬을 지나 나카미세 거리와 호조몬을 거쳐 본당에서 참배하는 코스가 대표적이며' — no claim covers this route"
+   ],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "hours",
+     "text": "센소지 공식 사이트에 따르면 본당·오층탑·호조몬·가미나리몬 라이트업은 매일 일몰부터 오후 11시경까지 진행된다(2003년 10월 1일 시작).",
+     "url": "https://www.senso-ji.jp/info/lightup.html"
+    },
+    {
+     "field": "location.coordinates",
+     "text": "OSM 좌표(金龍山 浅草寺, amenity=place_of_worship): 35.71340, 139.79553",
+     "url": "https://nominatim.openstreetmap.org/search?q=浅草寺&format=json"
+    }
+   ],
+   "conflicts": [
+    "Admission fee: no Sensō-ji official page states it; 'free' comes only from GO TOKYO's 'Free' keyword, and that page itself says to check the official site for prices",
+    "JNTO spot pages (1691, 1128) show no update date, so how fresh they are cannot be checked"
+   ]
+  },
+  {
+   "key": "central-027",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "徒歩直ぐ (京都駅より5分)"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "top page also says bus parking from Jan 1 to 5 is lot 3 only, and lot 2 cannot be entered"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JNTO: 'about a 7-minute walk'; official page says 5 min"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "年中無休; car purification not offered on the 1st of the month, weekends/holidays, festival days or in rain"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "rules dated 令和4年1月1日 (2022)"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "page wording: photography for business purposes or in prohibited places"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "topics 2026-09-07"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "first Day of the Horse, 2nd month of 711, Nara period"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": ""
+    },
+    {
+     "cid": "c20",
+     "verdict": "corrected",
+     "corrected_text": "이나리산은 히가시야마 36봉 가운데 가장 남쪽에 있는 해발 233m의 영봉으로, 세 봉우리가 서쪽에서 동쪽으로 점점 높아진다.",
+     "note": "233m is confirmed; the cited page does not say the whole mountain is sacred ground (神域)"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "a 天正17年 ink inscription found during the 1973 repair confirmed the tradition"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "live cameras show the area near each approach entrance"
+    }
+   ],
+   "unsupported_in_description": [
+    "'전국 이나리 신사의 총본사' — no claim covers this (the Korean page and JNTO say it, but no claim was extracted)",
+    "'해발 233m의 이나리산 전체가 신역이며' — 'the whole mountain is sacred ground' is not supported (c20 corrected; c18 says only that Mt. Inari makes up most of the grounds)"
+   ],
+   "unsupported_in_highlights": [
+    "'711년 진좌, 전국 이나리 신사의 총본사' — the '총본사' part has no claim",
+    "'이나리산 전체(233m)가 신역, 경내 약 87만㎡' — the '전체가 신역' part is not supported (c20 corrected)"
+   ],
+   "suggested_claims": [
+    {
+     "field": "location.coordinates",
+     "text": "OSM 좌표(伏見稲荷大社 本殿): 34.96714, 135.77324. 참고로 OSM 경내 전체(landuse) 중심점 34.96752, 135.77971은 본전에서 동쪽으로 약 600m 떨어져 있으므로 본전 좌표를 쓴다.",
+     "url": "https://nominatim.openstreetmap.org/search?q=伏見稲荷大社 本殿&format=json"
+    }
+   ],
+   "conflicts": [
+    "Keihan Fushimi-Inari Station walk time: official access page says 5 min, JNTO (spot/1128) says about 7 min",
+    "Official request page carries its rule date 令和4年1月1日 (2022-01-01, over 12 months old), but the 2026-09-07 notice links to it and still applies those rules",
+    "Official top page still leads with Reiwa 8 (2026) New Year notices (opening hours and parking for Jan 1 to 7); these are past-season, not current operating hours",
+    "fees, grounds hours, parking fee and payment: not found on the official access, FAQ, top, English or prayer pages"
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 76,
+  "verified": 73,
+  "corrected": 3,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "All 22 cited URLs were opened with curl (HTTP 200) and judged from page text only; 5 more official pages (Osaka Castle site header template and leaflet page, Sensō-ji light-up page) and OSM Nominatim were used for collector_unconfirmed lookups.",
+   "Corrections: central-032 c27 (elevator: the whole descent 8F to 1F is by stairs, and the elevator to 5F runs up only), central-032 c28 (name '풍신' changed to '도요토미'), central-027 c20 ('whole mountain is sacred ground' not on the source).",
+   "Not found within 2 lookups: duration, access.walk_time, closed_days.irregular (Osaka Castle; its news list is loaded by JS); fees.official, hours.grounds, closed_days, duration, reservation, payment, caution.crowd, language.onsite (Sensō-ji); fees, hours.grounds, closed_days, parking.fee, reservation, payment, language.onsite, caution.crowd (Fushimi Inari).",
+   "Sensō-ji admission 'free' rests only on GO TOKYO's 'Free' keyword; no Sensō-ji official page states a fee or that entry is free."
+  ]
+ }
+}

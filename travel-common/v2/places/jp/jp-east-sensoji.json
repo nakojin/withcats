@@ -2,7 +2,7 @@
  "id": "jp-east-sensoji",
  "country": "jp",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "센소지",
   "local": "浅草寺"
@@ -10,7 +10,7 @@
  "admin_region": "도쿄",
  "former_region": null,
  "city": "다이토구",
- "address": null,
+ "address": "〒111-0032 東京都台東区浅草2-3-1",
  "coord": {
   "lat": 35.713403,
   "lng": 139.795526,
@@ -21,93 +21,562 @@
   "osm": "way/173154847"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "센소지는 628년 관음상이 모습을 드러냈다는 전승을 지닌 관음 영장으로, 도쿄에서 가장 오래된 사찰로 소개됩니다.",
+ "description": "센소지는 628년 관음상이 모습을 드러냈다는 전승을 지닌 관음 영장으로, 도쿄에서 가장 오래된 사찰로 소개됩니다. 가미나리몬에서 길이 250m의 나카미세 거리가 이어지고, 오층탑은 경내 어디서나 보입니다. 도쿄도 관광 사이트는 입장이 무료라고 안내하고, 본당은 오전 6시부터 오후 5시(10~3월은 6시 30분 개당)까지 열립니다. 아사쿠사역 네 개 노선에서 도보 약 5분이며, 절에 주차장이 없으니 주변 주차장을 이용해야 합니다. 공식 사이트는 한국어 페이지를 제공합니다.",
+ "highlights": [
+  "도쿄에서 가장 오래된 사찰, 628년 본존 출현 전승",
+  "높이 약 3.9m, 700kg의 가미나리몬 대형 초롱",
+  "호조몬의 대형 짚신(높이 4.5m, 500kg)",
+  "경내 곳곳에서 보이는 오층탑",
+  "도쿄도 관광 사이트 기준 입장 무료, 아사쿠사역에서 도보 5분"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c2",
+    "r1-b12-c3",
+    "r1-b12-c4",
+    "r1-b12-c5"
+   ],
+   "gap": null
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식·정부관광기관 모두 권장 소요시간 기재 없음"
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c6",
+    "r1-b12-c7",
+    "r1-b12-c8",
+    "r1-b12-c9"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "경내(참배로·나카미세 포함) 자체의 개방 시간은 공식 사이트에 없음. 본당 개당 시간만 확인",
+     "detail": "hours.grounds",
+     "run": "r1-b12"
+    }
+   ]
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 사이트에 정기 휴무 기재 없음"
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c10"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "센소지 공식 사이트에 입장료 관련 기재가 없음. 무료 표기는 GO TOKYO(관광기관) 키워드 한 곳뿐이라 운영자 공식 확인은 안 됨",
+     "detail": "fees.official",
+     "run": "r1-b12"
+    }
+   ]
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "참배에 사전 예약이 필요하다는 안내가 공식 사이트에 없음(기도 신청 별도)"
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 사이트에 결제 수단 안내 없음(입장료 없음)"
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c11",
+    "r1-b12-c12"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "현장 한국어 안내문·오디오가이드 여부는 공식 사이트에 없음(웹페이지 한국어만 확인)",
+     "detail": "language.onsite",
+     "run": "r1-b12"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c13"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "혼잡 시기 안내는 공식 사이트에서 확인하지 못함",
+     "detail": "caution.crowd",
+     "run": "r1-b12"
+    }
+   ]
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b12-c1",
+   "field": "location",
+   "text": "주소는 〒111-0032 도쿄도 다이토구 아사쿠사 2-3-1이다.",
+   "original_text": null,
+   "value": "〒111-0032 東京都台東区浅草2-3-1",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c2",
+   "field": "access",
+   "text": "도부 스카이트리라인, 도쿄메트로 긴자선, 쓰쿠바 익스프레스의 아사쿠사역에서 도보 5분이다.",
+   "original_text": null,
+   "value": "도보 5분",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c3",
+   "field": "access",
+   "text": "도에이 지하철 아사쿠사선은 아사쿠사역 A4 출구에서 도보 5분이다.",
+   "original_text": null,
+   "value": "도보 5분",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c4",
+   "field": "access",
+   "text": "버스는 도에이 버스, 게이세이 타운버스, 다이토구 순환버스 메구린이 안내된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c5",
+   "field": "parking",
+   "text": "센소지에는 주차장이 없으며, 다이토구 가미나리몬 지하주차장 등 주변 주차장을 이용하도록 안내한다.",
+   "original_text": null,
+   "value": "절 자체 주차장 없음",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c6",
+   "field": "hours",
+   "text": "본당 개당 시간은 오전 6시~오후 5시이며, 10월~3월은 오전 6시 30분부터다.",
+   "original_text": null,
+   "value": "06:00-17:00 (Oct-Mar 06:30-17:00)",
+   "verdict": "verified",
+   "verify_note": "Oct-Mar opening is 6:30, so 6:30 applies as of today (2026-10)",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c7",
+   "field": "hours",
+   "text": "본당 외 다른 건물의 개당 시간은 공식 사이트에 없고 문의하도록 되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c8",
+   "field": "hours",
+   "text": "센소지 문의 전화는 03-3842-0181이며 일요일·공휴일을 제외한 오전 9시~오후 4시 30분에 받는다.",
+   "original_text": null,
+   "value": "03-3842-0181",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c9",
+   "field": "hours",
+   "text": "일본정부관광국은 센소지가 매일 일몰부터 밤 11시경까지 라이트업된다고 소개한다.",
+   "original_text": null,
+   "value": "일몰~약 23:00",
+   "verdict": "verified",
+   "verify_note": "JNTO; the official light-up page gives the same hours (see suggested_claims)",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1691/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c10",
+   "field": "fees",
+   "text": "도쿄도 관광 사이트(GO TOKYO)는 센소지에 무료(Free) 키워드를 붙여 입장 무료로 분류한다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "'Free' keyword; GO TOKYO page updated 2025-12-25; page says to check the official site for prices",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/spot/15/index.html",
+     "type": "government",
+     "page_updated": "2025-12-25",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c11",
+   "field": "language",
+   "text": "센소지 공식 사이트는 영어·중국어(간체·번체)·한국어 페이지를 제공한다.",
+   "original_text": null,
+   "value": "한국어 웹페이지 있음",
+   "verdict": "verified",
+   "verify_note": "language menu: English, 中文(简/繁), 한글어",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/korean/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c12",
+   "field": "language",
+   "text": "GO TOKYO는 시설 정보에 일본어·영어·중국어(번체)·한국어를 지원 언어로 표시한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "listed under Facility Info",
+   "sources": [
+    {
+     "url": "https://www.gotokyo.org/en/spot/15/index.html",
+     "type": "government",
+     "page_updated": "2025-12-25",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c13",
+   "field": "caution",
+   "text": "본당 왼쪽에 엘리베이터가 있고 경내는 평탄하며, 다목적 화장실은 호조몬 오른쪽과 본당 뒤쪽 안에 각 1곳 있다(오스토메이트 설비 없음).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "toilets also have a wheelchair handrail, diaper-changing sheet and baby chair",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/faq/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c14",
+   "field": "tip",
+   "text": "반도 33관음 13번 영장이자 에도 33관음 1번 영장이며, 고슈인(御朱印) 접수처는 경내 서쪽 에고도(影向堂)에 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/faq/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c15",
+   "field": "description",
+   "text": "전승에 따르면 628년 3월 18일 새벽 스미다강에서 고기잡이하던 형제의 그물에 관음상이 걸려 센소지가 시작되었다.",
+   "original_text": null,
+   "value": "628",
+   "verdict": "verified",
+   "verify_note": "推古36年(628)3月18日; 宮戸川 (now the Sumida); the Hinokuma brothers",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/about/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c16",
+   "field": "description",
+   "text": "센소지 공식 한국어 페이지는 센소지를 도쿄에서 가장 오래된 사찰로 소개하며 연간 약 3,000만 명이 참배한다고 적고 있다.",
+   "original_text": null,
+   "value": "연 약 3,000만 명",
+   "verdict": "verified",
+   "verify_note": "Korean page: '도내에서 가장 오래된 절', 연간 약 30,000,000명",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/korean/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c17",
+   "field": "highlight",
+   "text": "현재의 가미나리몬은 1960년에 재건되었고, 초롱은 높이 3.9m, 폭 3.3m, 무게 700kg이다.",
+   "original_text": null,
+   "value": "3.9m / 700kg",
+   "verdict": "verified",
+   "verify_note": "page gives the lantern weight as 'about 700kg'",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/guide/guide01.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c18",
+   "field": "highlight",
+   "text": "호조몬에는 높이 4.5m, 무게 500kg의 대형 짚신이 걸려 있으며 인왕상을 안치한다.",
+   "original_text": null,
+   "value": "4.5m / 500kg",
+   "verdict": "verified",
+   "verify_note": "waraji donated 2018 (8th time); the gate houses the Niō statues",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/guide/guide03.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c19",
+   "field": "highlight",
+   "text": "오층탑이 경내 어디에서나 보이며, 가미나리몬에서 이어지는 나카미세 거리는 길이 250m의 상점가다.",
+   "original_text": null,
+   "value": "250m",
+   "verdict": "verified",
+   "verify_note": "JNTO: pagoda 'visible from anywhere on the grounds'; Nakamise 250m",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1691/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-s1",
+   "field": "hours",
+   "text": "센소지 공식 사이트에 따르면 본당·오층탑·호조몬·가미나리몬 라이트업은 매일 일몰부터 오후 11시경까지 진행된다(2003년 10월 1일 시작).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.senso-ji.jp/info/lightup.html",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-s2",
+   "field": "location.coordinates",
+   "text": "OSM 좌표(金龍山 浅草寺, amenity=place_of_worship): 35.71340, 139.79553",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://nominatim.openstreetmap.org/search?q=浅草寺&format=json",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b12",
+   "text": "Admission fee: no Sensō-ji official page states it; 'free' comes only from GO TOKYO's 'Free' keyword, and that page itself says to check the official site for prices"
+  },
+  {
+   "run": "r1-b12",
+   "text": "JNTO spot pages (1691, 1128) show no update date, so how fresh they are cannot be checked"
+  }
+ ],
  "legacy": {
   "source": "japan-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -173,6 +642,35 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b12",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 19,
+    "verdicts": {
+     "verified": 19,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 2
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'약 1400년 역사의 관음 영장' — no claim covers the 1,400-year figure (the about page does say '1400年近い歴史'; c15 covers only the year 628)",
+   "'가미나리몬을 지나 나카미세 거리와 호조몬을 거쳐 본당에서 참배하는 코스가 대표적이며' — no claim covers this route"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b12"
  }
 }

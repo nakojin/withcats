@@ -2,7 +2,7 @@
  "id": "kr-gyeongbuk-pohang-homigot",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "포항 호미곶",
   "local": "포항 호미곶"
@@ -10,7 +10,7 @@
  "admin_region": "경상북도",
  "former_region": null,
  "city": "경북 포항시 남구 호미곶면 해맞이광장 일대",
- "address": null,
+ "address": "경상북도 포항시 남구 호미곶면 해맞이로150번길 20 (호미곶 해맞이광장)",
  "coord": {
   "lat": 36.027518,
   "lng": 129.37255,
@@ -21,93 +21,408 @@
   "osm": "node/368966181"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "호미곶은 한반도 지형을 호랑이에 빗댈 때 꼬리에 해당하는 최동단 지역으로, 포항시는 이곳을 한반도에서 가장 먼저 해가 뜨는 곳으로 소개한다.",
+ "description": "호미곶은 한반도 지형을 호랑이에 빗댈 때 꼬리에 해당하는 최동단 지역으로, 포항시는 이곳을 한반도에서 가장 먼저 해가 뜨는 곳으로 소개한다. 해맞이광장에는 바다와 육지에 각각 오른손과 왼손 모양으로 서서 화합과 상생을 뜻하는 청동 조형물 상생의 손, 영원의 불씨함, 연오랑세오녀상, 햇빛채화기, 성화대가 있다. 한국관광공사 정보로 광장은 상시 개방되고 연중무휴이며 주차가 가능하다. 광장 진입로 유채꽃단지는 매년 4~5월경 꽃이 만개하고, 주변에는 1908년 건립된 호미곶등대와 등대박물관이 있다.",
+ "highlights": [
+  "상생의 손: 바다의 오른손과 육지의 왼손으로 이루어진 화합·상생의 청동 조형물",
+  "한반도 최동단, 가장 먼저 해가 뜨는 곳으로 소개되는 해맞이 명소",
+  "영원의 불씨함, 연오랑세오녀상, 햇빛채화기, 성화대 등 기념 조형물",
+  "광장 진입로 유채꽃단지는 매년 4~5월경 만개",
+  "1908년 건립된 국내 최대 규모 호미곶등대와 국내 유일 등대박물관이 인접"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b06-c1",
+    "r1-b06-c2"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "좌표는 확인하지 않았다. 해맞이광장 주소는 포항시(도로명)와 한국관광공사(대보리)가 표기만 다르며 충돌은 아니다.",
+     "detail": "location.coord",
+     "run": "r1-b06"
+    }
+   ]
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b06-c11"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "최근접 정류장·버스 노선·소요시간의 공식 텍스트를 확인하지 못했다(포항시 시내버스 페이지 접속 실패).",
+     "detail": "access",
+     "run": "r1-b06"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 소요시간 안내를 찾지 못했다."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b06-c9"
+   ],
+   "gap": null
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b06-c10"
+   ],
+   "gap": null
   },
   "fees": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "광장 입장료 '무료'를 명시한 공식 문구를 확인하지 못했다(포항시·한국관광공사 페이지에 요금 항목 없음). 무료로 단정하지 않는다."
    }
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "야외 광장으로 예약 안내가 없다. 공식 문구로는 확인하지 못했다."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "요금 체계가 확인되지 않아 결제 수단도 해당 정보가 없다."
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 안내·오디오가이드 등 공식 정보를 찾지 못했다."
    }
   },
   "caution": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "해맞이 축전 기간 혼잡·교통통제 등 공식 주의 문구와 올해 축전 일정을 확인하지 못했다."
    }
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b06-c1",
+   "field": "location",
+   "text": "호미곶 해맞이광장의 주소는 경상북도 포항시 남구 호미곶면 해맞이로150번길 20이며 관리기관은 관광진흥과(호미곶광장관리)이다.",
+   "original_text": null,
+   "value": "경상북도 포항시 남구 호미곶면 해맞이로150번길 20",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c2",
+   "field": "location",
+   "text": "한국관광공사는 호미곶 해맞이광장 주소를 경북 포항시 남구 호미곶면 대보리로 표기한다.",
+   "original_text": null,
+   "value": "경북 포항시 남구 호미곶면 대보리",
+   "verdict": "verified",
+   "verify_note": "VK addr1 is only a lot-level address. Prefer the Pohang road address",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c3",
+   "field": "description",
+   "text": "호미곶은 한반도 최동단에 있어 지형상 호랑이 꼬리에 해당하며, 한국천문연구원 자료 기준으로 한반도에서 가장 먼저 해가 뜨는 곳이라고 포항시가 소개한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "The basis is a 1999-01-01 sunrise time of 07:32 from 한국천문연구원, which is old data",
+   "sources": [
+    {
+     "url": "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c4",
+   "field": "highlight",
+   "text": "상생의 손은 바다에 오른손, 육지에 왼손 모양으로 세워진 대형 청동 조형물로 화합과 상생을 뜻한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c5",
+   "field": "highlight",
+   "text": "광장에는 영원의 불씨함, 연오랑세오녀상, 일기와 무관하게 채화할 수 있는 햇빛 채화기, 성화대 등 기념 조형물이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c6",
+   "field": "highlight",
+   "text": "광장 진입로의 유채꽃단지는 매년 4~5월경 유채꽃이 만개한다.",
+   "original_text": null,
+   "value": "4-5월",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c7",
+   "field": "highlight",
+   "text": "주변에는 1908년 건립된 국내 최대 규모의 호미곶등대, 국내 유일의 등대박물관, 이육사 청포도 시비, 대보 해수탕이 있다.",
+   "original_text": null,
+   "value": "1908",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c8",
+   "field": "description",
+   "text": "새천년 국가행사로 1999년 12월 31일~2000년 1월 1일 한민족 해맞이 축전이 열렸고, 이후 해마다 한민족 해맞이 축전이 열린다고 안내된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "The same page also says national sunrise festivals were held twice, on 2000-01-01 and 2001-01-01, so it is internally inconsistent",
+   "sources": [
+    {
+     "url": "https://www.pohang.go.kr/phtour/wmap/tourInformation/view.do?menu_idx=104&tour_info_idx=191",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c9",
+   "field": "hours",
+   "text": "호미곶 해맞이광장은 이용시간이 '상시 개방'으로 안내된다.",
+   "original_text": null,
+   "value": "상시 개방",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c10",
+   "field": "closed_days",
+   "text": "호미곶 해맞이광장은 연중무휴이다.",
+   "original_text": null,
+   "value": "연중무휴",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c11",
+   "field": "parking",
+   "text": "호미곶 해맞이광장에는 주차가 가능하다(요금은 해당 페이지에 없음).",
+   "original_text": null,
+   "value": "가능",
+   "verdict": "verified",
+   "verify_note": "No parking fee is given",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c12",
+   "field": "tip",
+   "text": "문의는 호미곶 해맞이광장 관리사무소 054-270-5806, 054-270-5855로 한다.",
+   "original_text": null,
+   "value": "054-270-5806 / 054-270-5855",
+   "verdict": "verified",
+   "verify_note": "telNo 054-270-5806, infoCenter 054-270-5855",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-s1",
+   "field": "location.coord",
+   "text": "한국관광공사 자료상 호미곶 해맞이광장 좌표는 위도 36.0768, 경도 129.5680이다(OSM 해맞이광장·상생의 손과 약 100m 이내로 일치).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-s2",
+   "field": "caution",
+   "text": "한국관광공사 무장애 정보상 해맞이광장은 출입구까지 완만한 경사로가 있고 주출입구에 턱이 없으며, 장애인 주차장과 장애인 화장실(휠체어 활동공간 좁음)이 있고 휠체어를 빌릴 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad0b6c37-e48d-4c64-9ed4-201c58d9ce57",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b06",
+   "text": "The Pohang page's 'first sunrise' claim rests on 1999 data and includes a planned-development paragraph that reads as old. Some content looks over 12 months old, but the page shows no update date."
+  },
+  {
+   "run": "r1-b06",
+   "text": "Fees and parking fee: neither the Pohang page nor the VK page states either one. Two lookups found nothing, so these stay unconfirmed. Do not write '무료' without a source."
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -194,6 +509,40 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b06",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 12,
+    "verdicts": {
+     "verified": 12,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 2
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.fee",
+   "note": "주차 요금은 포항시 공영주차장 요금 페이지(pohang.go.kr/dept/contents.do?mid=0504050200)가 열리지 않거나 호미곶 항목이 없어 확인하지 못했다.",
+   "run": "r1-b06"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "상생의 손: the highlight says '마주한' (the hands face each other). The sources only say a right hand stands in the sea and a left hand on land. Suggest '바다의 오른손과 육지의 왼손으로 이루어진'"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b06"
  }
 }

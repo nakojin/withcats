@@ -1,0 +1,624 @@
+{
+ "places": [
+  {
+   "key": "kr-jeonbuk-jeonju-hanok-village",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "현황: 위치 전주시 완산구 풍남동·교동일대"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "면적 298,260㎡, 연도 표기 없음(건축물 947동, 한옥 735)"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "info 페이지 소개문과 일치"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "경기전·오목대·향교, 20여개 문화시설"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "면수·주소·요금 모두 일치. 노상주차장도 같은 요금"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "제4공영주차장(前대성주차장) 636면 무료, 춘향로 5299"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c9",
+     "verdict": "corrected",
+     "corrected_text": "무료 셔틀버스는 한옥마을 제4공영주차장(구 대성주차장)에서 자만 벽화마을을 거쳐 태조로 승강장(한옥마을 누리집 표기: 오목대 셔틀버스 승강장, 2.5km)을 오가며 운행한다.",
+     "note": "'승용차 이용객 한정' 문구는 parking 페이지 HTML 주석 안에 있어 화면에 보이지 않음. 경로는 tour.jeonju: 제4주차장→자만벽화마을(경유)→태조로 승강장. hanok 페이지: ↔오목대 셔틀버스 승강장(2.5KM)"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "평일(월~금) 1대 / 토·일·공휴일 4대, 연중무휴. tour.jeonju: 평일 16회차"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "시간표 일치. tour.jeonju: 출발시각은 제4주차장 탑승 기준, 막차는 태조로 승강장 탑승 기준"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "tour.jeonju '무료 운행'"
+    },
+    {
+     "cid": "c13",
+     "verdict": "corrected",
+     "corrected_text": "관광버스(15·25인승 포함) 이용객은 되도록 한옥마을 기린대로변 관광버스 승·하차장에서 내리도록 안내된다.",
+     "note": "보이는 문구는 '가급적…하차해 주시기 바랍니다'(권고). '대형차량에 한하여 주차만 가능' 문장은 HTML 주석 처리되어 보이지 않음"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "버스 번호와 25분정도 일치"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "79, 999, 1994번, 15분정도, 택시 5~6천원"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "요금 7~8천원 예상"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "페이지는 '강남 센트럴파크 터미널'로 오기했지만, 같은 블록에 강남센트럴시티 터미널(02-6282-0114)이 있음. 약 2시간 40분"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1코스: 매일 10/11/14/15/16시 한국어, 11·14시 영·중·일"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "투어시간 약 1시간"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치. 이용시간 10~16시, 회당 2시간 이내 정보가 추가로 있음"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c24",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "063-715-1330 외국인 콜센터 항목은 amenities HTML에서 <!-- --> 주석 처리되어 화면에 없음(게시 중단으로 보임)"
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "폭염 대비 14시 로드투어 변경 공지와 문의처 282-1330 일치"
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "두 곳 모두 휠체어·유모차 대여"
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "업무시간 내 대여·반납 조건 포함 일치"
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치(한옥마을지원과 앞 보관함은 트렁크 보관 가능)"
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "(063)282-1335"
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치. 계절별 운영시간 정보가 추가로 있음(suggested 참조)"
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "판매점에 루이엘박물관도 있음"
+    },
+    {
+     "cid": "c33",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "주말 해설 11:00·14:00"
+    },
+    {
+     "cid": "c34",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "2016년 금연구역 전역 확대"
+    },
+    {
+     "cid": "c35",
+     "verdict": "corrected",
+     "corrected_text": "공식 누리집 하단은 한옥마을 관광안내소(기린대로 99)의 방문 가능 시간을 '연중무휴 24시간 개방'으로 표기하고, 대표전화 063-282-1330 또는 카카오톡 '전주한옥마을' 채널로 문의할 수 있다고 안내한다(마을 전체가 아니라 안내소에 대한 표기).",
+     "note": "'주말 9~18시 카톡 문의' 문구는 HTML 주석 처리되어 보이지 않음"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "ops.fees",
+     "text": "경기전 관람료는 일반권 어른 3,000원·청소년/군인 2,000원·어린이 1,000원이고, 전주시민·완주군민 할인권은 1,000원·800원·500원이다. 65세 이상 내국인과 만 6세 이하 영유아는 무료이고, 매월 마지막 주 수요일(문화가 있는 날)은 무료입장이다.",
+     "url": "https://hanok.jeonju.go.kr/contents/place"
+    },
+    {
+     "field": "ops.hours",
+     "text": "경기전 관람시간은 3~5월·9~10월 09:00~19:00, 6~8월 09:00~20:00, 11~2월 09:00~18:00이다(문의 063-281-2788).",
+     "url": "https://hanok.jeonju.go.kr/contents/place"
+    },
+    {
+     "field": "ops.hours",
+     "text": "전동성당은 09:00~17:00에 개방(미사 시간 제외)하고 관람료가 없으며, 전주향교는 10:00~18:00 무료 관람이다.",
+     "url": "https://hanok.jeonju.go.kr/contents/place"
+    },
+    {
+     "field": "tip",
+     "text": "공영자전거 운영시간은 봄·가을(4·5·9·10월) 09:00~18:00, 겨울(11~3월) 10:00~17:00, 여름(6~8월) 09:00~19:00이고, 대여시간 안에 11개 대여소 어디서나 반납할 수 있다(문의 063-281-2568).",
+     "url": "https://hanok.jeonju.go.kr/contents/question"
+    },
+    {
+     "field": "ops.reservation",
+     "text": "단체 해설은 10:00~16:00 사이에 회당 2시간 이내로 진행된다.",
+     "url": "https://hanok.jeonju.go.kr/contents/tour"
+    },
+    {
+     "field": "tip",
+     "text": "관광지도 우편 발송은 경기전 여행자 라운지(063-287-1330)에 신청하며 매주 월·목요일에 발송된다.",
+     "url": "https://hanok.jeonju.go.kr/contents/map"
+    }
+   ],
+   "conflicts": [
+    "셔틀: 체험지도(map) 페이지는 '셔틀버스 운행 오전 10시~오후 7시', A·B코스, 대성공영주차장 '춘향로 5399'로 적어 parking 페이지(10:00~18:30, 춘향로 5299)와 tour.jeonju와 다름. map 페이지의 셔틀 블록은 갱신되지 않은 것으로 보임",
+    "셔틀 종점 표기: hanok 누리집 '오목대 셔틀버스 승강장' vs tour.jeonju '태조로 승강장(자만벽화마을 경유)'",
+    "한옥 수: info 소개 '700여 채', 현황표 '한옥 735', facility(역사관) '900여 채 한옥'",
+    "tour 페이지 내부 불일치: 골목길투어 표(11시 한/Eng, 15시 한/Eng/中/日, 경기전 매표소 집결)와 4코스 설명(11·14·16시 한국어, 11·14시 영어, 전라감영 정문 앞 출발)이 다름. 3코스 집결지도 표는 태조로 쉼터, 설명은 오목대 관광안내소",
+    "stale_source: hanok.jeonju.go.kr에 갱신일 표기가 없음. 하단 Copyright 2019, 현황 연혁·수상 기록은 2019년에서 끝남. place 페이지는 구 지정번호(사적 제339호)와 '전라북도' 표기 사용(레코드는 전북특별자치도)",
+    "수집자가 HTML 주석(비노출) 내용을 근거로 씀: 승용차 이용객 한정, 대형차량 주차만 가능, 외국인 콜센터 063-715-1330, 주말 9~18시 카톡"
+   ]
+  },
+  {
+   "key": "kr-seoul-n-seoul-tower",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "하단 주소 서울 용산구 남산공원길 105"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "해발 400m, 미디어아트 엘리베이터"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "360도 파노라마 뷰"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "₩29,000/₩23,000, 연령 기준 일치"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "보호자 1명당 1명, 유치원 단체는 어린이 요금"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "국가유공상이자 1~3급은 장애인 할인과 같음"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ p3: 시티투어버스 가이드북 쿠폰 10%"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ p2"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ p2"
+    },
+    {
+     "cid": "c13",
+     "verdict": "corrected",
+     "corrected_text": "입장권은 N서울타워 Plaza 5F 안내데스크와 TOWER 1F 티켓부스에서 살 수 있고(5층에는 무인발권기도 있음), 티켓은 구매 당일에만 쓸 수 있다.",
+     "note": "문장은 맞지만 구매처와 당일 한정 내용은 faq.asp?page=1에 있음(page=2에는 없음). 출처 URL을 page=1로 바꿔야 함. 무인발권기는 floor.asp에서 확인"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ p2 일치"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치(기존 8001번)"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ p2"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치. 경로우대·국가유공자는 소인 요금"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c23",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "traffic4의 주차요금 문단은 HTML 주석(<!--p ... p-->) 안에 있어 화면에 없음. 페이지는 주차장명·전화·링크만 안내"
+    },
+    {
+     "cid": "c24",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "c23과 같은 사유(주석 처리)"
+    },
+    {
+     "cid": "c25",
+     "verdict": "unverifiable",
+     "corrected_text": null,
+     "note": "c23과 같은 사유(주석 처리)"
+    },
+    {
+     "cid": "c26",
+     "verdict": "corrected",
+     "corrected_text": "N서울타워 내부에서는 음식물을 먹을 수 없고 도시락은 팔각정 앞 광장에서 먹어야 한다.",
+     "note": "내용은 맞지만 출처가 faq.asp?page=1임(page=2에는 없음). URL 교체 필요"
+    },
+    {
+     "cid": "c27",
+     "verdict": "corrected",
+     "corrected_text": "반려견 보호 공간이 없어 애완견은 동반 입장할 수 없다.",
+     "note": "내용은 맞지만 출처가 faq.asp?page=1임. URL 교체 필요"
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ p3"
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ p3"
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "observatory 페이지"
+    },
+    {
+     "cid": "c31",
+     "verdict": "corrected",
+     "corrected_text": "문의는 안내데스크 02-3455-9277/9288로 하며, 분실물도 안내데스크에서 확인한다.",
+     "note": "전화번호는 page=2에, 분실물 안내는 page=1에 있음. 두 URL 모두 인용해야 함"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "language",
+     "text": "N서울타워 공식 누리집에는 영어 페이지(Hours & Admission, Getting Here 등)가 있다.",
+     "url": "https://www.nseoultower.co.kr/eng/index.asp"
+    },
+    {
+     "field": "tip",
+     "text": "타워 2층 더플레이스 다이닝은 전망대 입장권 없이 이용할 수 있고, 엔그릴(7층)·한쿡(3층)은 지하로 내려와 엘리베이터를 타야 한다.",
+     "url": "https://www.nseoultower.co.kr/global/customer/faq.asp?page=2"
+    },
+    {
+     "field": "caution",
+     "text": "N서울타워 안에서 촬영하려면 최소 3일 전(주말·공휴일 제외) 협조공문으로 촬영허가를 받아야 한다.",
+     "url": "https://www.nseoultower.co.kr/global/customer/faq.asp?page=1"
+    }
+   ],
+   "conflicts": [
+    "traffic4.asp: 주차요금 정보가 HTML 주석으로 숨겨져 있어 현재 공식 게시값이 아님. 주차요금은 각 주차장(케이블카·서울스퀘어·국립극장·남산공원) 공식 페이지에서 다시 확인해야 함",
+    "use.asp는 N버거·N테라스 영업시간을 그대로 싣고 있지만, 공지(2026.03.20)는 'N버거, N테라스 리뉴얼 공사 안내'. 현재 운영 여부를 확인해야 함",
+    "stale_source 지표: 하단 COPYRIGHT 2014, 이용 페이지에 갱신일 표기 없음. 공지 목록 최신 글은 2026.04.16",
+    "FAQ 인용 페이지 번호 오류(c13·c26·c27·c31은 page=1에 있음)"
+   ]
+  },
+  {
+   "key": "kr-seoul-bukchon",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "03059 37, Gyedong-gil. 이 주소는 북촌문화센터 주소와 같음(OSM 계동길 37 = 북촌문화센터)"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "JSON-LD 37.58285/126.98565. OSM '북촌한옥마을' 노드(37.58239,126.98586)와 약 55m, 계동길 37(37.57905,126.98639)과 약 425m 차이로 모두 500m 이내"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Anguk Exit 3, 516m"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "visitseoul과 news.seoul '방문시간: 10:00~17:00'. 제한은 레드존에만 적용됨"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Open 365 days a year"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "hanok.seoul·english.seoul 일치"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "english.seoul: Intensive guidance/monitoring. 방문시간 지정 없음(☓)은 stay.visitseoul 표에서 명시"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "상시(주말·공휴일 포함), 30/40/50만원, 2026-01-01"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "stay: 지정일 2024.7.1. hanok.seoul: 관광진흥법, 문의 02-2148-1853"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "일치"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "페이지 표기 'Gaehoe-dong'"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "요일별 시간·월요일 휴관·무료·410m 일치(Edited Jan 21, 2026)"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "내용은 일치하지만 출처 등록일 2017-04-20(stale)"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Free admission"
+    }
+   ],
+   "unsupported_in_description": [
+    "'관광객 방문 가능 시간은 10:00~17:00이다' — c4로 뒷받침되지만 북촌 전체로 읽힘. 시간 제한은 레드존(북촌로11길 일대)에만 적용되고 오렌지·옐로우존은 시간 제한이 없음(c8). '레드존 기준'으로 한정해야 함"
+   ],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "caution",
+     "text": "서울관광 공식 사이트는 '조용한 관광'을 요청한다. 특히 가회동 31번지 일대에서 소음을 줄이고, 쓰레기를 버리지 않으며, 단체는 최대 10명으로 하고, 마이크·확성기를 쓰지 않으며, 문이 열려 있어도 집 내부를 촬영하지 말아야 한다.",
+     "url": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261"
+    },
+    {
+     "field": "caution",
+     "text": "가회동 31·33번지 등 북촌한옥마을 일대 문화 투어는 단계적으로 중단될 예정이라고 안내된다.",
+     "url": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261"
+    },
+    {
+     "field": "tip",
+     "text": "서울관광 공식 사이트에 표기된 북촌한옥마을 문의 전화는 +82-2-2133-1372이다.",
+     "url": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261"
+    },
+    {
+     "field": "tip",
+     "text": "북촌문화센터 전화는 +82-2-741-1033이며 서예·다도·판소리·전통공예 강좌와 공연·영화 상영을 운영한다.",
+     "url": "https://english.visitseoul.net/area/Bukchon-Traditional-Culture-Center-k/ENP018916"
+    },
+    {
+     "field": "location",
+     "text": "북촌 특별관리지역은 삼청동·가회동·계동 등 11개 법정동, 1,128,372.7㎡이다. 오렌지존은 북촌로5가길·계동길 일대, 옐로우존은 북촌로12길 일대이다.",
+     "url": "https://stay.visitseoul.net/cms/notice/14178_/14178"
+    }
+   ],
+   "conflicts": [
+    "visitseoul 북촌 페이지는 10:00~17:00을 마을 전체의 'Hours of Operation'처럼 표기하지만, 서울시·종로구 공지는 레드존에만 제한을 둠",
+    "주소 '계동길 37'은 북촌문화센터 주소. 같은 주소인데 안국역 3번 출구 거리가 북촌 페이지 516m, 문화센터 페이지 410m로 다름",
+    "stale_source(12개월 초과): english.seoul.go.kr 가회동 글 2017-04-20, stay.visitseoul 2024-07-19, hanok.seoul 2024-10-30, news.seoul 2024-11-12, english.seoul 공지 2024-11-15. 내용은 서로 일치하고, 최신 visitseoul(Edited 2026-09-11)과도 모순 없음. 전세버스 시행(2026-01-01) 이후 변경 공지 유무는 확인 못함"
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 81,
+  "verified": 70,
+  "corrected": 7,
+  "outdated": 0,
+  "unverifiable": 4,
+  "rejected": 0,
+  "notes": [
+   "모든 인용 URL을 curl로 직접 열어 확인(tour.jeonju는 1회 재시도 후 열림)",
+   "핵심 문제: 수집자가 HTML 주석(<!-- -->)으로 숨겨진 비노출 내용을 claim 근거로 사용함. 전주 c24, N서울타워 c23~c25는 unverifiable, 전주 c9·c13·c35는 주석 부분을 빼고 corrected",
+   "N서울타워 FAQ 인용 페이지 번호 오류: c13·c26·c27·c31 내용은 faq.asp?page=1에 있음. 문장은 맞으므로 같은 문장으로 corrected 처리, URL 교체 필요",
+   "전주 체험지도(map) 페이지의 셔틀·주차장 블록은 parking·tour.jeonju와 다른 옛 정보",
+   "북촌 설명의 '방문 가능 시간 10:00~17:00'은 레드존 한정으로 고쳐 써야 함",
+   "좌표: 북촌 c2는 OSM과 500m 이내. 다른 두 곳은 좌표 claim 없음"
+  ]
+ }
+}

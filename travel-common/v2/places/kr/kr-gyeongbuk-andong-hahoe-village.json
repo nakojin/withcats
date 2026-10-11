@@ -2,7 +2,7 @@
  "id": "kr-gyeongbuk-andong-hahoe-village",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "안동 하회마을",
   "local": "안동 하회마을"
@@ -10,7 +10,7 @@
  "admin_region": "경상북도",
  "former_region": null,
  "city": "안동시 풍천면 하회리",
- "address": null,
+ "address": "경상북도 안동시 풍천면 전서로 186-8",
  "coord": {
   "lat": 36.539027,
   "lng": 128.518095,
@@ -21,93 +21,683 @@
   "osm": "way/548195691"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "안동 하회마을은 풍산 류씨가 대대로 살아온 집성촌으로, 낙동강이 마을을 S자로 감싸 돌아 하회(河回)라는 이름이 붙었다.",
+ "description": "안동 하회마을은 풍산 류씨가 대대로 살아온 집성촌으로, 낙동강이 마을을 S자로 감싸 돌아 하회(河回)라는 이름이 붙었다. 2010년 7월 경주 양동마을과 함께 유네스코 세계문화유산에 등재되었다. 안동시 안내로 성인 개인 입장료는 5,000원이며 전체 관람에는 약 1시간~1시간 30분이 걸린다. 연중무휴이고 시간은 하절기 09:00~18:00, 동절기 09:00~17:00로 안내되나 안동시 사이트의 표기는 달라 방문 전 확인이 필요하다. 주차와 셔틀버스는 무료로 안내되고, 하회별신굿탈놀이 상설공연과 전통혼례 등 체험이 마련되어 있다.",
+ "highlights": [
+  "낙동강이 S자로 감싸는 지형에서 이름이 유래한 풍산 류씨 집성촌",
+  "2010년 7월 31일 경주 양동마을과 함께 유네스코 세계문화유산 등재",
+  "성인 5,000원, 청소년·군인 2,500원, 어린이 1,500원, 6세 이하·65세 이상 무료",
+  "하회별신굿탈놀이 상설공연과 전통혼례체험·가훈쓰기 등 체험",
+  "연중무휴, 주차·셔틀버스 무료, 전체 관람 약 1시간~1시간 30분"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b06-c1",
+    "r1-b06-c2"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b06-c17",
+    "r1-b06-c18",
+    "r1-b06-c19",
+    "r1-b06-c20"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "주차장에서 마을 입구까지의 셔틀 운행 구간과 시간은 확인하지 못했다. 요금(무료)만 확인했다.",
+     "detail": "access.shuttle",
+     "run": "r1-b06"
+    }
+   ]
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b06-c12"
+   ],
+   "gap": null
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b06-c9",
+    "r1-b06-c10"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "공식 출처끼리 다르다. 한국관광공사: 하절기(4~9월) 09:00~18:00(입장 마감 17:30), 동절기(10~3월) 09:00~17:00(입장 마감 16:30) https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e . 안동시 관광 사이트: (4~9월) 09:00~17:30, (10~3월) 09:00~16:30 https://www.tourandong.com/public/sub5/sub2_2.cshtml (이 표의 제목 구분은 하절기 3~10월/동절기 11~2월이라 하회마을 행의 괄호와도 불일치). 17:30/16:30은 입장 마감 시각일 가능성이 있으나 확정하지 못했다.",
+     "detail": "hours.conflict",
+     "run": "r1-b06"
+    },
+    {
+     "reason": "not_in_official_source",
+     "note": "하회별신굿탈놀이 상설공연의 시각·요일은 공식 페이지에서 확인하지 못했다.",
+     "detail": "hours.performance",
+     "run": "r1-b06"
+    }
+   ]
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b06-c11"
+   ],
+   "gap": null
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b06-c13",
+    "r1-b06-c14",
+    "r1-b06-c15",
+    "r1-b06-c16"
+   ],
+   "gap": null
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b06-c21"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "입장 자체의 사전 예약 필요 여부는 공식 페이지에 명시가 없다(해설사 예약만 확인).",
+     "detail": "reservation",
+     "run": "r1-b06"
+    }
+   ]
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "매표소 결제 수단(카드·현금·모바일)을 공식 페이지에서 찾지 못했다."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b06-c22"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 오디오가이드 등 한국어 지원은 별도 항목으로 확인하지 못했다. 해설·통역 안내 전화만 확인했다.",
+     "detail": "language",
+     "run": "r1-b06"
+    }
+   ]
   },
   "caution": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "혼잡 시기, 마을 내 주거지 예절 등 공식 주의 문구는 접근한 페이지에서 찾지 못했다."
    }
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b06-c1",
+   "field": "location",
+   "text": "하회마을 주소는 경상북도 안동시 풍천면 전서로 186-8이다(한국관광공사 기준).",
+   "original_text": null,
+   "value": "경상북도 안동시 풍천면 전서로 186-8",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c2",
+   "field": "location",
+   "text": "하회마을 관리사무소의 주소는 안동시 풍천면 하회리 전서로 186-10이다.",
+   "original_text": null,
+   "value": "안동시 풍천면 하회리 전서로 186-10",
+   "verdict": "verified",
+   "verify_note": "Page shows the old 6-digit postcode 760-812, a sign the page is stale",
+   "sources": [
+    {
+     "url": "http://www.hahoe.or.kr/coding/sub5/sub3.asp",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c4",
+   "field": "description",
+   "text": "하회마을은 풍산 류씨가 대대로 살아온 전형적인 집성촌이며, 겸암 류운룡과 서애 류성룡이 태어난 곳이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c5",
+   "field": "description",
+   "text": "하회(河回)라는 지명은 낙동강이 동쪽으로 흐르다 S자를 이루며 마을을 감싸 도는 데서 유래했다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c6",
+   "field": "highlight",
+   "text": "2010년 7월 31일 안동 하회마을과 경주 양동마을이 '한국의 역사마을'로 유네스코 세계문화유산에 등재되었다.",
+   "original_text": null,
+   "value": "2010-07-31",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c7",
+   "field": "highlight",
+   "text": "마을에서는 하회별신굿탈놀이를 상설공연으로 진행하고, 부용대 앞 물길에서는 나룻배를 이용할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c8",
+   "field": "tip",
+   "text": "체험 프로그램으로 전통혼례체험, 세시풍속, 서원소확행, 가훈쓰기 체험 등이 안내된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "expGuide field",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c9",
+   "field": "hours",
+   "text": "한국관광공사 기준 하절기(4~9월)는 09:00~18:00(입장 마감 17:30), 동절기(10~3월)는 09:00~17:00(입장 마감 16:30)이다.",
+   "original_text": null,
+   "value": "하절기 09:00-18:00 (입장마감 17:30); 동절기 09:00-17:00 (입장마감 16:30)",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c10",
+   "field": "hours",
+   "text": "안동시 관광 사이트의 관람시간표는 하회마을을 (4~9월) 09:00~17:30, (10~3월) 09:00~16:30으로 적는다.",
+   "original_text": null,
+   "value": "4-9월 09:00-17:30; 10-3월 09:00-16:30",
+   "verdict": "verified",
+   "verify_note": "Andong's 17:30 and 16:30 match VK's last-entry times. The Andong table header says 하절기 3~10월, but the 하회마을 row says 4~9월",
+   "sources": [
+    {
+     "url": "https://www.tourandong.com/public/sub5/sub2_2.cshtml",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c11",
+   "field": "closed_days",
+   "text": "하회마을은 연중무휴이다.",
+   "original_text": null,
+   "value": "연중무휴",
+   "verdict": "verified",
+   "verify_note": "Both sources say 연중무휴",
+   "sources": [
+    {
+     "url": "https://www.tourandong.com/public/sub5/sub2_2.cshtml",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c12",
+   "field": "duration",
+   "text": "안동시 관람시간표의 하회마을 전체 관람 소요시간은 약 1시간~1시간 30분이다.",
+   "original_text": null,
+   "value": "60-90분",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.tourandong.com/public/sub5/sub2_2.cshtml",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c13",
+   "field": "fees",
+   "text": "하회마을 입장료는 성인 개인 5,000원, 청소년·군인 개인 2,500원, 어린이 개인 1,500원이다.",
+   "original_text": null,
+   "value": "5000/2500/1500",
+   "verdict": "verified",
+   "verify_note": "hahoe.or.kr shows the same amounts",
+   "sources": [
+    {
+     "url": "https://www.tourandong.com/public/sub5/sub2.cshtml",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c14",
+   "field": "fees",
+   "text": "하회마을 단체(30인 이상) 요금은 성인 4,000원, 청소년·군인 2,000원, 어린이 1,200원이다.",
+   "original_text": null,
+   "value": "4000/2000/1200",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.tourandong.com/public/sub5/sub2.cshtml",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c15",
+   "field": "fees",
+   "text": "안동시민 요금은 성인 1,000원, 청소년·군인 500원, 어린이 400원(개인 기준)이다.",
+   "original_text": null,
+   "value": "1000/500/400",
+   "verdict": "verified",
+   "verify_note": "Group rates are 900/400/300. hahoe.or.kr applies the resident rate to '안동시민 및 예천군민'",
+   "sources": [
+    {
+     "url": "https://www.tourandong.com/public/sub5/sub2.cshtml",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c16",
+   "field": "fees",
+   "text": "무료 입장 대상은 6세 이하, 65세 이상, 장애인, 국가유공자, 공무상 답사이다. 연령 기준은 어린이 7~12세, 청소년 13~18세, 군인 하사 이하, 성인 19~64세이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.tourandong.com/public/sub5/sub2.cshtml",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c17",
+   "field": "parking",
+   "text": "안동시 요금 안내는 하회마을 주차료와 셔틀버스를 모두 무료로 적는다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "'하회마을 : 무료 (셔틀버스-무료)'",
+   "sources": [
+    {
+     "url": "https://www.tourandong.com/public/sub5/sub2.cshtml",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c18",
+   "field": "parking",
+   "text": "한국관광공사 정보에도 주차 가능, 요금 무료로 표시된다.",
+   "original_text": null,
+   "value": "가능/무료",
+   "verdict": "verified",
+   "verify_note": "'가능 요금 (무료)'",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c19",
+   "field": "access",
+   "text": "승용차는 중앙고속도로 서안동IC에서 하회마을·봉정사 방면으로 나간다.",
+   "original_text": null,
+   "value": "서안동IC",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://www.hahoe.or.kr/coding/sub5/sub2.asp",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c20",
+   "field": "access",
+   "text": "하회마을 사이트의 시내버스 안내(2022년 3월 21일 기준)는 210번 버스로 안동에서 하회까지 약 50분, 현금 1,500원이다. 시간표는 갱신 여부를 확인해야 한다.",
+   "original_text": null,
+   "value": "210번, 약 50분, 현금 1,500원 (2022.03.21 기준)",
+   "verdict": "verified",
+   "verify_note": "Timetable dated 2022.03.21, stale",
+   "sources": [
+    {
+     "url": "http://www.hahoe.or.kr/coding/sub5/sub3.asp",
+     "type": "operator",
+     "page_updated": "2022-03-21",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c21",
+   "field": "reservation",
+   "text": "문화관광해설사 예약은 안동축제관광조직위원회 온라인 예약을 통한다. 매표소는 054-840-3801, 관광안내소·해설·통역 안내는 054-840-3803이다.",
+   "original_text": null,
+   "value": "054-840-3801 / 054-840-3803",
+   "verdict": "verified",
+   "verify_note": "The booking link points to aftf.or.kr",
+   "sources": [
+    {
+     "url": "http://www.hahoe.or.kr/coding/sub5/sub3.asp",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c22",
+   "field": "language",
+   "text": "하회마을 관광안내소에서 문화관광 해설과 통역 안내를 제공한다(어느 언어인지는 페이지에 없음).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "http://www.hahoe.or.kr/coding/sub5/sub3.asp",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-c23",
+   "field": "tip",
+   "text": "종합안내소 전화는 054-840-3795, 관리사무소 전화는 054-854-3669이다.",
+   "original_text": null,
+   "value": "054-840-3795 / 054-854-3669",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "http://www.hahoe.or.kr/coding/sub5/sub3.asp",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-s1",
+   "field": "hours.performance",
+   "text": "2026년 하회별신굿탈놀이 상설공연은 1~2월 매주 토·일, 3~12월 매주 화~일 오후 2시~3시 하회별신굿탈놀이전수관에서 열리며 관람료는 무료이다(사정에 따라 변경 가능).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.hahoe.or.kr/coding/sub3/sub1.asp",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-s2",
+   "field": "language",
+   "text": "한국관광공사 무장애 정보상 하회마을에는 오디오 가이드(한국어, 외국어)가 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-s3",
+   "field": "caution",
+   "text": "한국관광공사 무장애 정보상 하회마을은 출입구에 턱이 없어 휠체어 접근이 가능하고, 장애인 주차장 15면(1·2주차장)과 장애인 화장실이 있으며, 휠체어(사무실 5대·보관함 3대)와 유모차(3대)를 빌릴 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  },
+  {
+   "cid": "r1-b06-s4",
+   "field": "reservation",
+   "text": "하회마을 공식 사이트 메뉴에 온라인 예매(taap.co.kr) 링크가 있다(예매 대상은 페이지에서 확인 필요).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.hahoe.or.kr/coding/sub5/sub3.asp",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b06"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b06",
+   "text": "Hours: VK gives 09:00-18:00 (last entry 17:30) in summer and 09:00-17:00 (last entry 16:30) in winter. tourandong.com gives 09:00-17:30 and 09:00-16:30, which match VK's last-entry times. The description already tells travellers to check before visiting."
+  },
+  {
+   "run": "r1-b06",
+   "text": "hahoe.or.kr is stale. The bus timetable is dated 2022.03.21, the postcode is the old 760-812 format, the FAQ posts are from 2009, and the rail directions (청량리 새마을 etc.) look outdated. Use it only for c19 to c22 and only with a caution."
+  },
+  {
+   "run": "r1-b06",
+   "text": "The hahoe.or.kr fee table matches tourandong, but labels the resident rate '안동시민 및 예천군민' where tourandong says only 안동시민."
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -194,6 +784,40 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b06",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 23,
+    "verdicts": {
+     "verified": 22,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 4
+    }
+   }
+  ]
+ },
+ "coord_candidates": [
+  {
+   "lat": 36.55061,
+   "lng": 128.52829,
+   "source": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=3e375cc0-c11e-45de-9651-e77d6b40891e",
+   "verify_note": "Map check: the point reverse-geocodes to a parking lot on 전서로 near the entrance. It is about 1.6km from the OSM centroid of the village (36.5390,128.5181), which is over 500m. Fine as an entrance or parking coordinate",
+   "run": "r1-b06"
+  }
+ ],
+ "open_questions": [],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b06"
  }
 }

@@ -1,0 +1,1219 @@
+[
+ {
+  "key": "central-032",
+  "name_ko": "오사카성 천수각",
+  "name_local": "大阪城天守閣",
+  "admin_region": "오사카부 오사카시 주오구",
+  "address": "〒540-0002 大阪市中央区大阪城1-1",
+  "description": "오사카성 천수각은 1931년 시민 기부금으로 복원된 3대째 천수각으로, 복원 때부터 박물관으로 운영되어 도요토미 히데요시와 전국시대, 오사카성의 역사를 소개합니다. 8층 전망대는 지상 약 50m에서 성과 시가지를 내려다보게 해 주고, 3~4층에는 히데요시 관련 자료와 황금 다실 실물 크기 모형이 있으며, 5층에서는 오사카 여름 전투 병풍을 영상과 미니어처로 풀어냅니다. 개관 시간은 9시부터 18시(입관 17시 30분까지)이고 성인 입관료는 1,200엔입니다. 한국어를 포함한 음성 가이드를 무료로 빌릴 수 있고, 카드·전자머니·QR 결제도 가능합니다.",
+  "highlights": [
+   "1931년 시민 기부금으로 복원된 3대째 천수각이자 박물관",
+   "8층 전망대에서 지상 약 50m 높이의 오사카 시가지 조망",
+   "황금 다실 실물 크기 모형과 도요토미 시대 오사카성 복원 모형",
+   "한국어 음성 가이드 무료 대여, 영상 자막도 한국어 지원",
+   "지하에서 보는 도요토미 시대 석벽(도요토미 이시가키관)"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "주소는 〒540-0002 오사카시 주오구 오사카성 1-1이다.",
+    "value": "〒540-0002 大阪市中央区大阪城1-1",
+    "evidence": "〒540-0002　大阪市中央区大阪城1-1",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "Osaka Metro 다니마치선 다니마치4초메역 1-B 출구와 덴마바시역 3번 출구가 가까운 역으로 안내된다.",
+    "value": null,
+    "evidence": "谷町線「谷町4丁目駅」1-B番出口　「天満橋駅」3番出口",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "Osaka Metro 주오선 다니마치4초메역 9번 출구, 모리노미야역 1번·3-B 출구와 나가호리쓰루미료쿠치선 모리노미야역 3-B 출구, 오사카비즈니스파크역 1번 출구도 가까운 역으로 안내된다.",
+    "value": null,
+    "evidence": "中央線「谷町4丁目駅」9番出口　「森ノ宮駅」1番出口、3-B番出口",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "JR은 오사카간조선 모리노미야역·오사카조코엔역, 도자이선 오사카조키타즈메역, 게이한 전철은 덴마바시역이 가까운 역이다.",
+    "value": null,
+    "evidence": "大阪環状線 森ノ宮駅　大阪城公園駅 / 東西線 大阪城北詰駅",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "오사카 시티버스 62계통의 오사카조오테마에·바바초 정류장과 수상버스(오사카조항, 핫켄야하마 선착장)로도 접근할 수 있다.",
+    "value": null,
+    "evidence": "大阪城大手前、馬場町 【62系統】",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "parking",
+    "text": "승용차용 주차장은 오사카조코엔역앞 주차장(171대)과 모리노미야 주차장(143대)이며 종일 이용 가능하다.",
+    "value": "171대 / 143대",
+    "evidence": "大阪城公園駅前駐車場 171台(身障者用4台) 終日",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "parking",
+    "text": "승용차 주차 요금은 평일 8~22시 1시간 400엔, 22~8시 1시간 200엔이고, 토·일·공휴일은 8~22시 1시간 500엔, 22~8시 1시간 200엔이다.",
+    "value": "평일 400엔/h, 토일공휴일 500엔/h (주간)",
+    "evidence": "平日【8時から22時まで】1時間　400円",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "parking",
+    "text": "단체 버스용 주차장은 조난 제1(50대)·제2(44대) 주차장이며 8~22시 1시간 1,500엔이다.",
+    "value": "1500엔/h",
+    "evidence": "城南第1駐車場 50台 終日 【8時から22時まで】　1時間　1500円",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "access",
+    "text": "자가용은 한신고속 13호 히가시오사카선 호엔자카 출구(고베 방면) 또는 모리노미야 출구(히가시오사카 방면)를 이용한다.",
+    "value": null,
+    "evidence": "阪神高速　13号東大阪線　法円坂出口",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "hours",
+    "text": "개관 시간은 9:00~18:00이며 입관은 17:30까지다.",
+    "value": "09:00-18:00 (last entry 17:30)",
+    "evidence": "9:00～18:00（入館は17:30まで）",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "hours",
+    "text": "최종 입관 시간을 고려해 상황에 따라 17:30 이전에 티켓 구입 줄을 제한하는 경우가 있다.",
+    "value": null,
+    "evidence": "状況に応じて17：30よりも前にチケット購入列へ制限をかけることがあります",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "closed_days",
+    "text": "휴관일은 12월 28일부터 1월 1일까지다.",
+    "value": "12/28-1/1",
+    "evidence": "休館日 12月28日～1月1日",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "fees",
+    "text": "입관료는 성인 1,200엔이다(2025년 4월 1일부터 변경된 요금).",
+    "value": "1200 JPY",
+    "evidence": "大人 1,200円",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "fees",
+    "text": "대학생·고교생은 600엔(증명 필요)이다. 해외 대학생·고교생은 학생증이 없으면 성인 요금이므로 국제학생증(ISIC)을 제시해야 한다.",
+    "value": "600 JPY",
+    "evidence": "600円　要証明 / 海外からお越しの大学生・高校生はISIC",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "fees",
+    "text": "중학생 이하는 무료이며 연령 확인 서류가 필요하다(해외 15세 이하는 여권 등).",
+    "value": "무료",
+    "evidence": "中学生以下 無料　要証明",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "fees",
+    "text": "유료 대상자가 15명 이상인 단체는 성인 1,080엔, 대학생·고교생 540엔이며 중학생 이하는 무료다.",
+    "value": "1080/540 JPY",
+    "evidence": "15名以上 1,080円 540円 無料",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "fees",
+    "text": "오사카시 거주 65세 이상과 각종 장애인 수첩 소지자(보호자 1명 포함)는 증명서를 제시하면 무료로 입관할 수 있다.",
+    "value": null,
+    "evidence": "証明書をご提示いただきますと、無料でご入館いただけます",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "reservation",
+    "text": "공식 사이트는 예약 사이트를 통한 입관권 사전 구매(WEB 티켓)를 안내한다.",
+    "value": null,
+    "evidence": "予約サイトを通じて入館券の事前購入が可能です。",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "reservation",
+    "text": "천수각은 단체의 입관 예약을 받지 않으며, 단체는 방문 일시·인원 확인을 위해 사전 전화(06-6941-3044, 9~18시)를 요청받는다.",
+    "value": "06-6941-3044",
+    "evidence": "大阪城天守閣では入館予約を承っておりません",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "payment",
+    "text": "입관료는 현금(엔)과 신용카드(VISA, Mastercard, AMEX, Diners, JCB)로 낼 수 있다.",
+    "value": null,
+    "evidence": "VISA、MasterCard、AMERICAN EXPRESS、Diners Club、JCB",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "payment",
+    "text": "전자머니(iD, nanaco, 라쿠텐 Edy, WAON, 교통계 IC, QUICPay)와 QR 결제(Alipay, WeChat Pay, 은련, PayPay 등)도 사용할 수 있다.",
+    "value": null,
+    "evidence": "Alipay、WeChat Pay、銀聯、JKOPAY、PayPay",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "language",
+    "text": "1층·5층 안내소에 외국어 가능 직원이 상주하고, 음성 가이드를 일본어·영어·한국어·중국어로 무료 대여한다(접수 9~17시, 반납 17:30까지).",
+    "value": "한국어 음성 가이드 무료",
+    "evidence": "音声ガイド機を無料でお貸出ししています（日本語・英語・韓国語・中国語）",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "language",
+    "text": "1층 시어터룸의 영상과 5층 파노라마 비전은 일본어·영어·중국어·한국어 자막을 지원한다.",
+    "value": null,
+    "evidence": "日本語・英語・中国語・韓国語の字幕が出ます",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/exhibition/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "caution",
+    "text": "관내에 코인로커는 없으며 매표소에서 짐 1개당 100엔에 맡길 수 있다(접수 9:00~17:30, 18:00까지 수령).",
+    "value": "100 JPY/개",
+    "evidence": "館内にコインロッカーはありません。チケット売り場で荷物1個につき100円",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "caution",
+    "text": "상층일수록 혼잡해 유모차 반입은 원칙적으로 사양하며, 유모차는 개찰구 입구에서 무료로 맡아 준다.",
+    "value": null,
+    "evidence": "ベビーカーの持込を原則としてご遠慮いただいております",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "caution",
+    "text": "관내에서는 금지 구역 촬영, 음식 섭취, 큰 소리 대화, 바닥에 앉기, 걸으면서 스마트폰 사용 등이 금지된다.",
+    "value": null,
+    "evidence": "飲食・大きな声での会話・床への座り込み・歩きスマホ",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "caution",
+    "text": "관내 엘리베이터는 직원 안내로 이용하며 5층까지 올라가는 전용이고, 5~8층은 계단으로 이동하며 6층은 출입 불가 회랑이다. 휠체어 이용자는 모든 층에서 이용할 수 있다.",
+    "value": null,
+    "evidence": "５階から８階までののぼりと、８階から１階までのくだりは階段",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "description",
+    "text": "현재 천수각은 풍신·도쿠가와 시대에 이은 3대째로, 1931년 시민 기부금으로 복원되었고 2025년 오사카시 지정 유형문화재가 되었다.",
+    "value": "1931",
+    "evidence": "昭和6年（1931）市民の寄付金によって復興",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "description",
+    "text": "천수각은 복원 때부터 박물관 시설이며 도요토미 히데요시·전국시대·오사카성 관련 문화재를 전시 교체하며 공개한다.",
+    "value": null,
+    "evidence": "復興時からの博物館施設です。",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "highlight",
+    "text": "8층 전망대는 지상 50m에서 오사카성과 시가지를 한눈에 볼 수 있고 휠체어로도 전망대에 나갈 수 있다.",
+    "value": "50m",
+    "evidence": "地上50mから、広大な大阪城と大阪のまちを一望できます。",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/exhibition/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "highlight",
+    "text": "3층에는 히데요시가 만든 조립식 황금 다실의 실물 크기 복원 모형과 도요토미·도쿠가와 시대 오사카성 복원 모형이 있다.",
+    "value": null,
+    "evidence": "黄金の茶室原寸大模型",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/exhibition/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c32",
+    "field": "highlight",
+    "text": "5층에서는 오사카 여름 전투 병풍의 세계를 영상과 미니어처 모형으로 소개한다.",
+    "value": null,
+    "evidence": "大坂夏の陣図屏風の世界を、映像とミニチュア模型を使い",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/exhibition/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c33",
+    "field": "highlight",
+    "text": "전시품은 약 2개월마다 교체된다.",
+    "value": "약 2개월",
+    "evidence": "館内展示品は約2か月毎に展示替えを行っております。",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/exhibition/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c34",
+    "field": "highlight",
+    "text": "도쿠가와 막부가 땅에 묻은 도요토미 시대 오사카성 석벽을 지하로 내려가 볼 수 있는 도요토미 이시가키관이 있다.",
+    "value": null,
+    "evidence": "徳川幕府が地中に埋めた豊臣大坂城の石垣を、地下に降りてご覧いただくことができます",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/exhibition/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c35",
+    "field": "tip",
+    "text": "2층에서 투구·진바오리 시착 체험(1인 1회 500엔, 개관 시간 중)을 할 수 있다.",
+    "value": "500 JPY",
+    "evidence": "天守閣２階 一人500円／1回",
+    "sources": [
+     {
+      "url": "https://www.osakacastle.net/guide/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "duration",
+    "reason": "천수각 공식 사이트에 권장 관람 소요시간 기재가 없음"
+   },
+   {
+    "field": "access.walk_time",
+    "reason": "공식 접근 페이지에 역에서 천수각까지의 도보 시간이 없고 역·출구 목록만 있음"
+   },
+   {
+    "field": "location.coordinates",
+    "reason": "좌표를 공식 출처에서 확인하지 못했고 지도 대조도 하지 않음"
+   },
+   {
+    "field": "closed_days.irregular",
+    "reason": "공식 안내는 12/28~1/1만 휴관으로 명시, 임시 휴관 여부는 별도 공지(news)에 의존하며 특정 항목 확인 못 함"
+   },
+   {
+    "field": "language.korean_site",
+    "reason": "/ko/ 경로는 일본어 페이지와 동일하게 응답해 한국어 웹페이지 존재를 확인하지 못함"
+   }
+  ]
+ },
+ {
+  "key": "jp-east-sensoji",
+  "name_ko": "센소지",
+  "name_local": "浅草寺",
+  "admin_region": "도쿄도 다이토구",
+  "address": "〒111-0032 東京都台東区浅草2-3-1",
+  "description": "센소지는 628년 관음상이 모습을 드러냈다는 전승을 지닌 약 1400년 역사의 관음 영장으로, 도쿄에서 가장 오래된 사찰로 소개됩니다. 가미나리몬을 지나 나카미세 거리와 호조몬을 거쳐 본당에서 참배하는 코스가 대표적이며, 오층탑도 경내 어디서나 보입니다. 도쿄도 관광 사이트는 입장이 무료라고 안내하고, 본당은 오전 6시부터 오후 5시(10~3월은 6시 30분 개당)까지 열립니다. 아사쿠사역 네 개 노선에서 도보 약 5분이며, 절에 주차장이 없으니 주변 주차장을 이용해야 합니다. 공식 사이트는 한국어 페이지를 제공합니다.",
+  "highlights": [
+   "도쿄에서 가장 오래된 사찰, 628년 본존 출현 전승",
+   "높이 약 3.9m, 700kg의 가미나리몬 대형 초롱",
+   "호조몬의 대형 짚신(높이 4.5m, 500kg)",
+   "경내 곳곳에서 보이는 오층탑",
+   "도쿄도 관광 사이트 기준 입장 무료, 아사쿠사역에서 도보 5분"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "주소는 〒111-0032 도쿄도 다이토구 아사쿠사 2-3-1이다.",
+    "value": "〒111-0032 東京都台東区浅草2-3-1",
+    "evidence": "〒111-0032　東京都台東区浅草2-3-1",
+    "sources": [
+     {
+      "url": "https://www.senso-ji.jp/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "도부 스카이트리라인, 도쿄메트로 긴자선, 쓰쿠바 익스프레스의 아사쿠사역에서 도보 5분이다.",
+    "value": "도보 5분",
+    "evidence": "東京メトロ銀座線：浅草駅より徒歩5分",
+    "sources": [
+     {
+      "url": "https://www.senso-ji.jp/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "도에이 지하철 아사쿠사선은 아사쿠사역 A4 출구에서 도보 5분이다.",
+    "value": "도보 5분",
+    "evidence": "都営地下鉄浅草線：浅草駅A4出口より徒歩5分",
+    "sources": [
+     {
+      "url": "https://www.senso-ji.jp/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "버스는 도에이 버스, 게이세이 타운버스, 다이토구 순환버스 메구린이 안내된다.",
+    "value": null,
+    "evidence": "都営バス 京成タウンバス 台東区循環バスめぐりん",
+    "sources": [
+     {
+      "url": "https://www.senso-ji.jp/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "parking",
+    "text": "센소지에는 주차장이 없으며, 다이토구 가미나리몬 지하주차장 등 주변 주차장을 이용하도록 안내한다.",
+    "value": "절 자체 주차장 없음",
+    "evidence": "浅草寺に駐車場はございません。台東区雷門地下駐車場ほか",
+    "sources": [
+     {
+      "url": "https://www.senso-ji.jp/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "hours",
+    "text": "본당 개당 시간은 오전 6시~오후 5시이며, 10월~3월은 오전 6시 30분부터다.",
+    "value": "06:00-17:00 (Oct-Mar 06:30-17:00)",
+    "evidence": "本堂の開堂時間は、午前6時～午後5時となっております。（10月～3月の開堂時間は午前6時30分）",
+    "sources": [
+     {
+      "url": "https://www.senso-ji.jp/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "본당 외 다른 건물의 개당 시간은 공식 사이트에 없고 문의하도록 되어 있다.",
+    "value": null,
+    "evidence": "その他の諸堂の開堂時間はお問い合わせ下さい。",
+    "sources": [
+     {
+      "url": "https://www.senso-ji.jp/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "hours",
+    "text": "센소지 문의 전화는 03-3842-0181이며 일요일·공휴일을 제외한 오전 9시~오후 4시 30분에 받는다.",
+    "value": "03-3842-0181",
+    "evidence": "TEL 03－3842－0181（お電話によるお問い合わせ時間は、日曜･祝日を除く、午前9時～午後4時30分まで）",
+    "sources": [
+     {
+      "url": "https://www.senso-ji.jp/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "hours",
+    "text": "일본정부관광국은 센소지가 매일 일몰부터 밤 11시경까지 라이트업된다고 소개한다.",
+    "value": "일몰~약 23:00",
+    "evidence": "Sensoji Temple is lit up every evening from sunset until around 11 p.m.",
+    "sources": [
+     {
+      "url": "https://www.japan.travel/en/spot/1691/",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "fees",
+    "text": "도쿄도 관광 사이트(GO TOKYO)는 센소지에 무료(Free) 키워드를 붙여 입장 무료로 분류한다.",
+    "value": "무료",
+    "evidence": "Free",
+    "sources": [
+     {
+      "url": "https://www.gotokyo.org/en/spot/15/index.html",
+      "type": "government",
+      "page_updated": "2025-12-25"
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "language",
+    "text": "센소지 공식 사이트는 영어·중국어(간체·번체)·한국어 페이지를 제공한다.",
+    "value": "한국어 웹페이지 있음",
+    "evidence": "한글어",
+    "sources": [
+     {
+      "url": "https://www.senso-ji.jp/korean/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "language",
+    "text": "GO TOKYO는 시설 정보에 일본어·영어·중국어(번체)·한국어를 지원 언어로 표시한다.",
+    "value": null,
+    "evidence": "Japanese English Chinese (traditional) Korean",
+    "sources": [
+     {
+      "url": "https://www.gotokyo.org/en/spot/15/index.html",
+      "type": "government",
+      "page_updated": "2025-12-25"
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "caution",
+    "text": "본당 왼쪽에 엘리베이터가 있고 경내는 평탄하며, 다목적 화장실은 호조몬 오른쪽과 본당 뒤쪽 안에 각 1곳 있다(오스토메이트 설비 없음).",
+    "value": null,
+    "evidence": "本堂向って左側にエレベーターがございます。",
+    "sources": [
+     {
+      "url": "https://www.senso-ji.jp/faq/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "tip",
+    "text": "반도 33관음 13번 영장이자 에도 33관음 1번 영장이며, 고슈인(御朱印) 접수처는 경내 서쪽 에고도(影向堂)에 있다.",
+    "value": null,
+    "evidence": "坂東三十三観音札所第十三番・江戸三十三観音札所第一番です。",
+    "sources": [
+     {
+      "url": "https://www.senso-ji.jp/faq/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "description",
+    "text": "전승에 따르면 628년 3월 18일 새벽 스미다강에서 고기잡이하던 형제의 그물에 관음상이 걸려 센소지가 시작되었다.",
+    "value": "628",
+    "evidence": "推古天皇36年（628）3月18日の早朝",
+    "sources": [
+     {
+      "url": "https://www.senso-ji.jp/about/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "description",
+    "text": "센소지 공식 한국어 페이지는 센소지를 도쿄에서 가장 오래된 사찰로 소개하며 연간 약 3,000만 명이 참배한다고 적고 있다.",
+    "value": "연 약 3,000만 명",
+    "evidence": "연간 약 30,000,000명의 참배자가 방문하는",
+    "sources": [
+     {
+      "url": "https://www.senso-ji.jp/korean/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "highlight",
+    "text": "현재의 가미나리몬은 1960년에 재건되었고, 초롱은 높이 3.9m, 폭 3.3m, 무게 700kg이다.",
+    "value": "3.9m / 700kg",
+    "evidence": "高さ3.9m・幅3.3m・重さ700kg",
+    "sources": [
+     {
+      "url": "https://www.senso-ji.jp/guide/guide01.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "highlight",
+    "text": "호조몬에는 높이 4.5m, 무게 500kg의 대형 짚신이 걸려 있으며 인왕상을 안치한다.",
+    "value": "4.5m / 500kg",
+    "evidence": "高さ 4.5m・幅 1.5m、重さ 500kg",
+    "sources": [
+     {
+      "url": "https://www.senso-ji.jp/guide/guide03.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "highlight",
+    "text": "오층탑이 경내 어디에서나 보이며, 가미나리몬에서 이어지는 나카미세 거리는 길이 250m의 상점가다.",
+    "value": "250m",
+    "evidence": "Nakamise-dori street is 250 meters long",
+    "sources": [
+     {
+      "url": "https://www.japan.travel/en/spot/1691/",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "fees.official",
+    "reason": "센소지 공식 사이트에 입장료 관련 기재가 없음. 무료 표기는 GO TOKYO(관광기관) 키워드 한 곳뿐이라 운영자 공식 확인은 안 됨"
+   },
+   {
+    "field": "hours.grounds",
+    "reason": "경내(참배로·나카미세 포함) 자체의 개방 시간은 공식 사이트에 없음. 본당 개당 시간만 확인"
+   },
+   {
+    "field": "closed_days",
+    "reason": "공식 사이트에 정기 휴무 기재 없음"
+   },
+   {
+    "field": "duration",
+    "reason": "공식·정부관광기관 모두 권장 소요시간 기재 없음"
+   },
+   {
+    "field": "reservation",
+    "reason": "참배에 사전 예약이 필요하다는 안내가 공식 사이트에 없음(기도 신청 별도)"
+   },
+   {
+    "field": "payment",
+    "reason": "공식 사이트에 결제 수단 안내 없음(입장료 없음)"
+   },
+   {
+    "field": "caution.crowd",
+    "reason": "혼잡 시기 안내는 공식 사이트에서 확인하지 못함"
+   },
+   {
+    "field": "location.coordinates",
+    "reason": "좌표를 공식 출처에서 확인하지 못함"
+   },
+   {
+    "field": "language.onsite",
+    "reason": "현장 한국어 안내문·오디오가이드 여부는 공식 사이트에 없음(웹페이지 한국어만 확인)"
+   }
+  ]
+ },
+ {
+  "key": "central-027",
+  "name_ko": "후시미 이나리 타이샤",
+  "name_local": "伏見稲荷大社",
+  "admin_region": "교토부 교토시 후시미구",
+  "address": "〒612-0882 京都市伏見区深草薮之内町68番地",
+  "description": "후시미 이나리 타이샤는 711년 이나리 오카미를 모신 것으로 전해지는 전국 이나리 신사의 총본사입니다. 해발 233m의 이나리산 전체가 신역이며 경내는 약 87만㎡에 이르고, 산길을 따라 약 1만 기의 도리이가 늘어서 있습니다. JR 나라선 이나리역에서 도보로 바로이며 교토역에서 5분 정도 걸립니다. 일본정부관광국은 산을 돌아보는 데 2~3시간이 걸린다고 소개합니다. 경내에서는 지정된 무료 휴게소 밖에서 음식 먹기, 드론, 흡연, 반려동물 동반이 금지되며, 신사 주변 도로는 매우 혼잡하니 대중교통을 권합니다. 공식 사이트는 한국어를 지원합니다.",
+  "highlights": [
+   "711년 진좌, 전국 이나리 신사의 총본사",
+   "이나리산 전체(233m)가 신역, 경내 약 87만㎡",
+   "산길을 따라 약 1만 기의 도리이",
+   "JR 이나리역에서 도보로 바로, 교토역에서 약 5분",
+   "산 전체를 도는 데 2~3시간"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "주소는 〒612-0882 교토시 후시미구 후카쿠사 야부노우치초 68번지다.",
+    "value": "〒612-0882 京都市伏見区深草薮之内町68番地",
+    "evidence": "〒612-0882　京都市伏見区深草薮之内町68番地",
+    "sources": [
+     {
+      "url": "https://inari.jp/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "JR 나라선 이나리역에서 내리면 도보로 바로이며, 교토역에서 5분 거리다.",
+    "value": "JR 이나리역 도보 바로",
+    "evidence": "JR奈良線 稲荷駅下車 徒歩直ぐ (京都駅より5分)",
+    "sources": [
+     {
+      "url": "https://inari.jp/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "게이한 본선 후시미이나리역에서 동쪽으로 도보 5분이다.",
+    "value": "도보 5분",
+    "evidence": "京阪本線 伏見稲荷駅下車 東へ徒歩5分",
+    "sources": [
+     {
+      "url": "https://inari.jp/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "시영버스 남5계통 이나리다이샤마에 정류장에서 동쪽으로 도보 7분이다.",
+    "value": "도보 7분",
+    "evidence": "南5系統 稲荷大社前下車 東へ徒歩7分",
+    "sources": [
+     {
+      "url": "https://inari.jp/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "자동차는 메이신 고속 교토미나미 IC에서 약 20분, 한신고속 가미토바 출구에서 약 10분이다.",
+    "value": null,
+    "evidence": "名神高速道路 京都南インターから 約20分",
+    "sources": [
+     {
+      "url": "https://inari.jp/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "parking",
+    "text": "신사 주차장이 있으나 주변 도로가 매우 혼잡하므로 참배는 대중교통을 권하며, 참배 목적 외 주차는 거절하고 만차면 현장 직원 지시에 따른다.",
+    "value": null,
+    "evidence": "大社駐車場周辺（道路）は大変混雑します ご参拝は公共交通機関をご利用下さい",
+    "sources": [
+     {
+      "url": "https://inari.jp/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "parking",
+    "text": "12월 30일부터 1월 6일까지는 경내 주차장을 폐쇄한다.",
+    "value": "12/30-1/6 폐쇄",
+    "evidence": "12月30日より1月6日迄は境内駐車場を閉鎖いたします。",
+    "sources": [
+     {
+      "url": "https://inari.jp/access/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "access",
+    "text": "일본정부관광국은 게이한선 후시미이나리역에서 도보 약 7분이라고 안내하며, 공식(5분)과 다르다.",
+    "value": "7분",
+    "evidence": "Keihan Line to Fushimi Inari Station. It's about a 7-minute walk",
+    "sources": [
+     {
+      "url": "https://www.japan.travel/en/spot/1128/",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "duration",
+    "text": "일본정부관광국은 산을 돌아보는 데 2~3시간이 걸린다고 소개한다.",
+    "value": "2~3시간",
+    "evidence": "It takes between two to three hours to tour the mountain.",
+    "sources": [
+     {
+      "url": "https://www.japan.travel/en/spot/1128/",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "hours",
+    "text": "기도(고키토)는 8:30~16:30에 수시로 진행하며 접수는 16:00경까지이고, 정월·제례 기간은 다르다. 같은 안내에서 연중무휴라고 밝힌다.",
+    "value": "기도 08:30-16:30 (접수 ~16:00)",
+    "evidence": "8：30 〜 16：30まで、随時、ご祈祷を執行しています。",
+    "sources": [
+     {
+      "url": "https://inari.jp/grace/gokito/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "language",
+    "text": "공식 사이트는 일본어·영어·중국어(간체·번체)·한국어 페이지를 제공한다.",
+    "value": "한국어 웹페이지 있음",
+    "evidence": "후시미 이나리타이샤",
+    "sources": [
+     {
+      "url": "https://inari.jp/ko/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "caution",
+    "text": "경내에서 흡연·화기, 드론, 건물·도리이 훼손, 등롱 등에 오르기, 지정되지 않은 곳에 유모차 방치가 금지된다.",
+    "value": null,
+    "evidence": "喫煙や火気を使用すること ドローン等の飛行物体を飛ばすこと",
+    "sources": [
+     {
+      "url": "https://inari.jp/request/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "caution",
+    "text": "지정된 장소(무료 휴게소) 외에서 먹으며 걷거나 서서 먹는 것, 쓰레기 투기가 금지된다.",
+    "value": null,
+    "evidence": "境内で定められた場所（無料休憩所）以外で飲食をすること",
+    "sources": [
+     {
+      "url": "https://inari.jp/request/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "caution",
+    "text": "반려동물 동반 산책·참배(안내견 등 제외), 웨딩드레스 등 부적절한 복장, 좁은 참배로에서 통행을 막는 촬영, 영리 목적 촬영이 금지된다.",
+    "value": null,
+    "evidence": "犬やペットを連れての散歩および参拝（介助犬等参拝に必要な場合は除く）",
+    "sources": [
+     {
+      "url": "https://inari.jp/request/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "caution",
+    "text": "참배 이외 목적의 주차(제1·제4 주차장 포함)가 금지되고, 야생동물에 접근하거나 먹이 주기도 금지된다.",
+    "value": null,
+    "evidence": "参拝以外の目的で大社駐車場（第1・第4駐車場他を含む）に駐車すること",
+    "sources": [
+     {
+      "url": "https://inari.jp/request/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "caution",
+    "text": "2026년 9월 7일 공지로, 참배객 통행을 막는 댄스 퍼포먼스 등 신역의 존엄을 해치는 행위에 직원이 주의를 준다고 알린다.",
+    "value": "2026-09-07",
+    "evidence": "参拝者の通行を妨げるダンスパフォーマンス等",
+    "sources": [
+     {
+      "url": "https://inari.jp/news/topics/",
+      "type": "operator",
+      "page_updated": "2026-09-07"
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "description",
+    "text": "이나리 오카미는 나라 시대인 711년 2월 첫 말의 날에 진좌했다고 한다.",
+    "value": "711",
+    "evidence": "711年",
+    "sources": [
+     {
+      "url": "https://inari.jp/en/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "description",
+    "text": "경내는 이나리산이 대부분이며 서쪽 기슭을 포함해 약 26만 평(약 87만㎡)이다.",
+    "value": "약 87만㎡",
+    "evidence": "約26万坪（約87万平方メートル）が境内です",
+    "sources": [
+     {
+      "url": "https://inari.jp/about/faq/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "highlight",
+    "text": "현재 약 1만 기의 도리이가 산 참배로 전체에 늘어서 있다.",
+    "value": "약 1만 기",
+    "evidence": "現在は約1万基の鳥居がお山の参道全体に並んで立っています。",
+    "sources": [
+     {
+      "url": "https://inari.jp/about/faq/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "highlight",
+    "text": "이나리산은 해발 233m의 영산으로 산 전체가 신역이다.",
+    "value": "233m",
+    "evidence": "海抜233ｍ",
+    "sources": [
+     {
+      "url": "https://inari.jp/trip/map01/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "highlight",
+    "text": "누문은 1589년 도요토미 히데요시의 조영으로 전해져 왔다.",
+    "value": "1589",
+    "evidence": "天正17年（1589年）豊臣秀吉の造営とされてきました",
+    "sources": [
+     {
+      "url": "https://inari.jp/trip/map01/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "tip",
+    "text": "교토시관광협회 교토관광Navi의 관광 쾌적도 예측 데이터와 표참배로·뒷참배로 라이브 카메라로 혼잡을 미리 확인할 수 있다.",
+    "value": null,
+    "evidence": "観光快適度予測データとライブカメラ映像",
+    "sources": [
+     {
+      "url": "https://inari.jp/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "fees",
+    "reason": "운영자 공식 사이트에 입장료·참배료 기재가 없어 무료 여부를 공식 근거로 확인하지 못함"
+   },
+   {
+    "field": "hours.grounds",
+    "reason": "경내·산 참배로의 개방 시간 또는 24시간 개방 여부가 공식 사이트에 없음(기도 시간과 연중무휴 문구만 확인)"
+   },
+   {
+    "field": "closed_days",
+    "reason": "경내 정기 휴무 기재 없음(기도 안내의 연중무휴 문구만 있음)"
+   },
+   {
+    "field": "access.conflict",
+    "reason": "게이한 후시미이나리역 도보: 공식 inari.jp/access 5분 vs 일본정부관광국 japan.travel/en/spot/1128 약 7분(kyoto.travel 출처는 약 5분 안내)"
+   },
+   {
+    "field": "parking.fee",
+    "reason": "공식 페이지에 주차 요금·대수·운영시간 없음(참배 주차장 안내도 PDF 이미지 참조만)"
+   },
+   {
+    "field": "reservation",
+    "reason": "참배 예약 필요 여부 안내가 공식 사이트에 없음(기도는 접수 방식만 확인)"
+   },
+   {
+    "field": "payment",
+    "reason": "결제 수단 안내가 공식 페이지에 없음"
+   },
+   {
+    "field": "language.onsite",
+    "reason": "현장 한국어 안내·오디오가이드 여부는 공식 사이트에 없음(웹페이지 한국어만 확인)"
+   },
+   {
+    "field": "location.coordinates",
+    "reason": "좌표를 공식 출처에서 확인하지 못함"
+   },
+   {
+    "field": "caution.crowd",
+    "reason": "혼잡 시기 정보는 공식 사이트에 구체적 기재 없음(라이브 카메라 안내만 있음)"
+   }
+  ]
+ }
+]

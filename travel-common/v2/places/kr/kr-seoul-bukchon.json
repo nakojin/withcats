@@ -2,7 +2,7 @@
  "id": "kr-seoul-bukchon",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "북촌한옥마을",
   "local": "북촌한옥마을"
@@ -10,7 +10,7 @@
  "admin_region": "서울특별시",
  "former_region": null,
  "city": "서울 종로구 북촌 일대; 시간 제한 레드존은 북촌로11길 일대",
- "address": null,
+ "address": "서울특별시 종로구 계동길 37 (서울관광 공식 사이트 표기 주소 37, Gyedong-gil, 03059; 시간 제한 레드존은 북촌로11길 일대)",
  "coord": {
   "lat": 37.582392,
   "lng": 126.985865,
@@ -21,93 +21,552 @@
   "osm": "node/2669684119"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "북촌한옥마을은 경복궁과 창덕궁 사이에 한옥이 늘어선 서울의 주거 마을로, 관광객을 위해 만든 곳이 아니라 서울 시민이 실제로 사는 동네다.",
+ "description": "북촌한옥마을은 경복궁과 창덕궁 사이에 한옥이 늘어선 서울의 주거 마을로, 관광객을 위해 만든 곳이 아니라 서울 시민이 실제로 사는 동네다. 종로구는 2024년 7월 1일 북촌을 특별관리지역으로 지정했고, 그중 북촌로11길 일대 약 34,000㎡(레드존)에서는 17:00부터 다음 날 10:00까지 관광객 방문이 금지되며 위반하면 과태료 10만원이 부과된다. 시간 제한은 레드존에만 적용되며, 오렌지·옐로우존은 방문 시간 지정이 없다. 북촌로·북촌로5길·창덕궁1길 약 2.3km 구간은 2026년 1월 1일부터 전세버스 통행이 금지되었다. 가장 가까운 역은 지하철 3호선 안국역이다.",
+ "highlights": [
+  "경복궁과 창덕궁 사이, 600년 서울 역사를 담은 주거 한옥 마을",
+  "레드존(북촌로11길 일대)은 관광객 방문 10:00~17:00, 이후 방문 금지",
+  "레드존 위반 시 과태료 10만원(2025년 3월 1일부터 부과)",
+  "북촌로 등 약 2.3km 구간 전세버스 통행 금지(2026년 1월 1일~)",
+  "지하철 3호선 안국역 3번 출구에서 약 516m, 북촌문화센터는 무료"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b03-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b03-c3"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "안국역 출구 안내가 다름: 서울관광 북촌한옥마을 페이지는 3호선 안국역 3번 출구 516m (https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261), 서울시 영문 게시물은 2번 출구에서 직진 600m로 51 Bukchon-ro 방향 안내(가회동 쪽, https://english.seoul.go.kr/bukchon-hanok-path-gahoe-dong/, 2017년 게시). 목적지 지점이 달라 같은 값인지 미확인.",
+     "detail": "access.conflict",
+     "run": "r1-b03"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "권장 체류시간에 대한 공식 안내를 찾지 못함."
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b03-c4"
+   ],
+   "gap": null
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b03-c5"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "서울시 영문 안내 이미지 캡션에 'Sunday is a rest day for the alleyways'가 있으나 본문 설명이 없어 일요일 별도 규정인지 확인하지 못해 claim으로 쓰지 않음 (https://english.seoul.go.kr/notice-on-restrictions-for-tourist-visits-to-bukchon-special-management-area-effective-from-november-2024/).",
+     "detail": "closed_days.caution",
+     "run": "r1-b03"
+    }
+   ]
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b03-c15"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "야외 마을 자체의 입장료 유무를 명시한 공식 문구를 찾지 못함(북촌문화센터 무료만 확인, c15).",
+     "detail": "fees",
+     "run": "r1-b03"
+    }
+   ]
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "마을 방문에 예약이 필요하다는/불필요하다는 공식 문구를 찾지 못함. 서울관광 페이지의 가이드 도보투어 예약 규정은 별도 프로그램이라 제외."
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "해당 없음 또는 공식 안내 없음(마을 자체는 결제 대상이 없음, 상점별 상이)."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b03-c14"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내판·해설 등 현장 한국어 지원은 자국어라 별도 공식 문구 없음; 서울관광 사이트 언어는 KOR/ENG/JPN/CHN으로 표기.",
+     "detail": "language",
+     "run": "r1-b03"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b03-c6",
+    "r1-b03-c7",
+    "r1-b03-c8",
+    "r1-b03-c9",
+    "r1-b03-c10"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b03-c1",
+   "field": "location",
+   "text": "서울관광 공식 사이트는 북촌한옥마을의 주소를 서울 종로구 계동길 37(우편번호 03059)로 표기한다.",
+   "original_text": null,
+   "value": "37 Gyedong-gil, Jongno-gu, 03059",
+   "verdict": "verified",
+   "verify_note": "03059 37, Gyedong-gil. 이 주소는 북촌문화센터 주소와 같음(OSM 계동길 37 = 북촌문화센터)",
+   "sources": [
+    {
+     "url": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261",
+     "type": "national_tourism",
+     "page_updated": "2026-09-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c3",
+   "field": "access",
+   "text": "가장 가까운 지하철은 3호선 안국역 3번 출구이며 거리는 516m로 표기된다.",
+   "original_text": null,
+   "value": "안국역 3번 출구 516m",
+   "verdict": "verified",
+   "verify_note": "Anguk Exit 3, 516m",
+   "sources": [
+    {
+     "url": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261",
+     "type": "national_tourism",
+     "page_updated": "2026-09-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c4",
+   "field": "hours",
+   "text": "관광객 방문 가능 시간은 10:00~17:00이고, 17:00부터 다음 날 10:00까지는 제한구역 출입이 금지된다.",
+   "original_text": null,
+   "value": "10:00~17:00",
+   "verdict": "verified",
+   "verify_note": "visitseoul과 news.seoul '방문시간: 10:00~17:00'. 제한은 레드존에만 적용됨",
+   "sources": [
+    {
+     "url": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261",
+     "type": "national_tourism",
+     "page_updated": "2026-09-11",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://news.seoul.go.kr/culture/archives/526017",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c5",
+   "field": "closed_days",
+   "text": "서울관광 공식 사이트는 북촌한옥마을을 연 365일 개방하는 곳(휴무 없음)으로 표기한다.",
+   "original_text": null,
+   "value": "연중무휴",
+   "verdict": "verified",
+   "verify_note": "Open 365 days a year",
+   "sources": [
+    {
+     "url": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261",
+     "type": "national_tourism",
+     "page_updated": "2026-09-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c6",
+   "field": "caution",
+   "text": "제한구역(레드존)은 북촌로11길 일대 약 34,000㎡이며, 제한시간(17:00~익일 10:00) 내 관광객 방문이 금지된다.",
+   "original_text": null,
+   "value": "북촌로11길 일대 약 34,000㎡",
+   "verdict": "verified",
+   "verify_note": "hanok.seoul·english.seoul 일치",
+   "sources": [
+    {
+     "url": "https://hanok.seoul.go.kr/front/kor/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000031&nttId=2482",
+     "type": "government",
+     "page_updated": "2024-10-30",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://english.seoul.go.kr/notice-on-restrictions-for-tourist-visits-to-bukchon-special-management-area-effective-from-november-2024/",
+     "type": "government",
+     "page_updated": "2024-11-15",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c7",
+   "field": "caution",
+   "text": "레드존 제한시간 위반 시 과태료 10만원이 부과되며, 2024년 11월 1일~2025년 2월 28일은 계도기간이고 2025년 3월 1일부터 시행되었다.",
+   "original_text": null,
+   "value": "과태료 100,000원 / 2025-03-01 시행",
+   "verdict": "verified",
+   "verify_note": "일치",
+   "sources": [
+    {
+     "url": "https://hanok.seoul.go.kr/front/kor/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000031&nttId=2482",
+     "type": "government",
+     "page_updated": "2024-10-30",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://english.seoul.go.kr/notice-on-restrictions-for-tourist-visits-to-bukchon-special-management-area-effective-from-november-2024/",
+     "type": "government",
+     "page_updated": "2024-11-15",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c8",
+   "field": "caution",
+   "text": "오렌지존과 옐로우존은 방문시간 제한은 없고 각각 집중 계도, 집중 모니터링 구역으로 운영된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "english.seoul: Intensive guidance/monitoring. 방문시간 지정 없음(☓)은 stay.visitseoul 표에서 명시",
+   "sources": [
+    {
+     "url": "https://english.seoul.go.kr/notice-on-restrictions-for-tourist-visits-to-bukchon-special-management-area-effective-from-november-2024/",
+     "type": "government",
+     "page_updated": "2024-11-15",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c9",
+   "field": "caution",
+   "text": "북촌로·북촌로5길·창덕궁1길 약 2.3km 구간은 상시(주말·공휴일 포함) 전세버스 통행이 금지되며 2026년 1월 1일부터 시행, 과태료는 1차 30만원·2차 40만원·3차 50만원이다.",
+   "original_text": null,
+   "value": "2026-01-01 / 30·40·50만원",
+   "verdict": "verified",
+   "verify_note": "상시(주말·공휴일 포함), 30/40/50만원, 2026-01-01",
+   "sources": [
+    {
+     "url": "https://hanok.seoul.go.kr/front/kor/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000031&nttId=2482",
+     "type": "government",
+     "page_updated": "2024-10-30",
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://english.seoul.go.kr/notice-on-restrictions-for-tourist-visits-to-bukchon-special-management-area-effective-from-november-2024/",
+     "type": "government",
+     "page_updated": "2024-11-15",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c10",
+   "field": "caution",
+   "text": "종로구는 2024년 7월 1일 북촌 일대를 관광진흥법에 따른 특별관리지역으로 지정했고, 문의는 종로구 관광체육과 02-2148-1853이다.",
+   "original_text": null,
+   "value": "02-2148-1853",
+   "verdict": "verified",
+   "verify_note": "stay: 지정일 2024.7.1. hanok.seoul: 관광진흥법, 문의 02-2148-1853",
+   "sources": [
+    {
+     "url": "https://stay.visitseoul.net/cms/notice/14178_/14178",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://hanok.seoul.go.kr/front/kor/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000031&nttId=2482",
+     "type": "government",
+     "page_updated": "2024-10-30",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c11",
+   "field": "description",
+   "text": "서울관광 공식 소개에 따르면 북촌은 경복궁과 창덕궁 사이에 한옥이 늘어선 600년 서울 역사를 담은 마을이며, 관광용으로 만든 곳이 아니라 서울 시민이 사는 주거 마을이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "일치",
+   "sources": [
+    {
+     "url": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261",
+     "type": "national_tourism",
+     "page_updated": "2026-09-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c12",
+   "field": "description",
+   "text": "북촌에서 옛 한옥 분위기를 느끼기 가장 좋은 곳으로 가회동이 소개되며, 수백 채의 한옥이 어깨를 맞대고 있고 한옥을 개조한 갤러리·공방·식당도 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "페이지 표기 'Gaehoe-dong'",
+   "sources": [
+    {
+     "url": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261",
+     "type": "national_tourism",
+     "page_updated": "2026-09-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c13",
+   "field": "tip",
+   "text": "북촌문화센터(계동길 37, 안국역 3번 출구 410m)는 입장 무료이며 화·목·금 09:00~18:00, 수 09:00~20:00, 토·일 09:00~17:00(일요일 강좌 없음)에 운영하고 월요일은 휴관한다.",
+   "original_text": null,
+   "value": "무료 / 월요일 휴관",
+   "verdict": "verified",
+   "verify_note": "요일별 시간·월요일 휴관·무료·410m 일치(Edited Jan 21, 2026)",
+   "sources": [
+    {
+     "url": "https://english.visitseoul.net/area/Bukchon-Traditional-Culture-Center-k/ENP018916",
+     "type": "national_tourism",
+     "page_updated": "2026-01-21",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c14",
+   "field": "language",
+   "text": "북촌문화센터는 외국인 대상 전통문화 프로그램을 운영하고 여러 언어로 된 북촌 지도를 제공한다고 서울시가 소개한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "내용은 일치하지만 출처 등록일 2017-04-20(stale)",
+   "sources": [
+    {
+     "url": "https://english.seoul.go.kr/bukchon-hanok-path-gahoe-dong/",
+     "type": "government",
+     "page_updated": "2017-04-20",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c15",
+   "field": "fees",
+   "text": "북촌문화센터 입장은 무료이다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "Free admission",
+   "sources": [
+    {
+     "url": "https://english.visitseoul.net/area/Bukchon-Traditional-Culture-Center-k/ENP018916",
+     "type": "national_tourism",
+     "page_updated": "2026-01-21",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-s1",
+   "field": "caution",
+   "text": "서울관광 공식 사이트는 '조용한 관광'을 요청한다. 특히 가회동 31번지 일대에서 소음을 줄이고, 쓰레기를 버리지 않으며, 단체는 최대 10명으로 하고, 마이크·확성기를 쓰지 않으며, 문이 열려 있어도 집 내부를 촬영하지 말아야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-s2",
+   "field": "caution",
+   "text": "가회동 31·33번지 등 북촌한옥마을 일대 문화 투어는 단계적으로 중단될 예정이라고 안내된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-s3",
+   "field": "tip",
+   "text": "서울관광 공식 사이트에 표기된 북촌한옥마을 문의 전화는 +82-2-2133-1372이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-s4",
+   "field": "tip",
+   "text": "북촌문화센터 전화는 +82-2-741-1033이며 서예·다도·판소리·전통공예 강좌와 공연·영화 상영을 운영한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://english.visitseoul.net/area/Bukchon-Traditional-Culture-Center-k/ENP018916",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-s5",
+   "field": "location",
+   "text": "북촌 특별관리지역은 삼청동·가회동·계동 등 11개 법정동, 1,128,372.7㎡이다. 오렌지존은 북촌로5가길·계동길 일대, 옐로우존은 북촌로12길 일대이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://stay.visitseoul.net/cms/notice/14178_/14178",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b03",
+   "text": "visitseoul 북촌 페이지는 10:00~17:00을 마을 전체의 'Hours of Operation'처럼 표기하지만, 서울시·종로구 공지는 레드존에만 제한을 둠"
+  },
+  {
+   "run": "r1-b03",
+   "text": "주소 '계동길 37'은 북촌문화센터 주소. 같은 주소인데 안국역 3번 출구 거리가 북촌 페이지 516m, 문화센터 페이지 410m로 다름"
+  },
+  {
+   "run": "r1-b03",
+   "text": "stale_source(12개월 초과): english.seoul.go.kr 가회동 글 2017-04-20, stay.visitseoul 2024-07-19, hanok.seoul 2024-10-30, news.seoul 2024-11-12, english.seoul 공지 2024-11-15. 내용은 서로 일치하고, 최신 visitseoul(Edited 2026-09-11)과도 모순 없음. 전세버스 시행(2026-01-01) 이후 변경 공지 유무는 확인 못함"
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -158,6 +617,53 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b03",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 15,
+    "verdicts": {
+     "verified": 14,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 5
+    }
+   }
+  ]
+ },
+ "coord_candidates": [
+  {
+   "lat": 37.58285,
+   "lng": 126.98565,
+   "source": "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261",
+   "verify_note": "JSON-LD 37.58285/126.98565. OSM '북촌한옥마을' 노드(37.58239,126.98586)와 약 55m, 계동길 37(37.57905,126.98639)과 약 425m 차이로 모두 500m 이내",
+   "run": "r1-b03"
+  }
+ ],
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "북촌 방문용 공영주차장 위치·요금에 대한 공식 안내를 찾지 못함. 전세버스는 2.3km 구간 통행 금지(c9).",
+   "run": "r1-b03"
+  },
+  {
+   "topic": "stale_source",
+   "note": "레드존 원문 공지는 2024-10-30(서울한옥포털)·2024-11-15(서울시 영문)로 12개월 이상 경과. 다만 서울관광 페이지(2026-09-11 수정)가 10:00~17:00 방문시간을 현재형으로 표기해 대조됨. 2026년 5월 보도된 지구단위계획 정비 등 이후 변경은 공식 출처에서 확인하지 못함.",
+   "run": "r1-b03"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'관광객 방문 가능 시간은 10:00~17:00이다' — c4로 뒷받침되지만 북촌 전체로 읽힘. 시간 제한은 레드존(북촌로11길 일대)에만 적용되고 오렌지·옐로우존은 시간 제한이 없음(c8). '레드존 기준'으로 한정해야 함"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b03"
  }
 }

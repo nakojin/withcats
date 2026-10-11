@@ -2,7 +2,7 @@
  "id": "kr-jeonbuk-jeonju-hanok-village",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "전주한옥마을",
   "local": "전주한옥마을"
@@ -10,7 +10,7 @@
  "admin_region": "전북특별자치도",
  "former_region": null,
  "city": "전주시 완산구 풍남동·교동 일대",
- "address": null,
+ "address": "전북특별자치도 전주시 완산구 풍남동·교동 일대 (관광안내소: 기린대로 99)",
  "coord": {
   "lat": 35.81817,
   "lng": 127.153597,
@@ -21,93 +21,1027 @@
   "osm": "node/4245919092"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "전주한옥마을은 전주시 완산구 풍남동·교동 일대 약 29만 8천㎡에 한옥 700여 채가 모여 있는 국내 최대 규모의 전통 한옥촌으로, 전국 유일의 도심 한옥군이다.",
+ "description": "전주한옥마을은 전주시 완산구 풍남동·교동 일대 약 29만 8천㎡에 한옥 700여 채가 모여 있는 국내 최대 규모의 전통 한옥촌으로, 전국 유일의 도심 한옥군이다. 경기전·오목대·향교 같은 문화재와 20여 개 문화시설이 마을 곳곳에 있다. 문화관광해설사 도보 투어가 매일 열리며 20인 미만 개인은 예약 없이 집결 장소에서 합류할 수 있다. 승용차 방문객은 무료인 제4공영주차장에 주차하고 무료 셔틀로 이동할 수 있고, 제1~3공영주차장은 유료로 하루 최대 14,400원이다. 관광안내소에서는 유모차와 휠체어를 빌릴 수 있고 물품보관소도 있다.",
+ "highlights": [
+  "한옥 700여 채가 모인 국내 최대 규모의 도심 한옥촌",
+  "문화관광해설사 도보 투어 매일 운영, 20인 미만 개인은 예약 없이 참여",
+  "제4공영주차장 무료 주차 후 무료 셔틀로 이동 가능",
+  "경기전·오목대·향교 등 문화재와 20여 개 문화시설",
+  "관광안내소에서 유모차·휠체어 대여, 물품보관소 이용 가능"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b03-c1",
+    "r1-b03-c2"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b03-c5",
+    "r1-b03-c6",
+    "r1-b03-c7",
+    "r1-b03-c8",
+    "r1-b03-c9",
+    "r1-b03-c10",
+    "r1-b03-c13",
+    "r1-b03-c14",
+    "r1-b03-c15",
+    "r1-b03-c16",
+    "r1-b03-c17"
+   ],
+   "gap": null
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b03-c19"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "마을 전체의 권장 체류시간을 밝힌 공식 문구를 찾지 못함(해설 투어 1코스 약 1시간만 확인).",
+     "detail": "duration",
+     "run": "r1-b03"
+    }
+   ]
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b03-c11",
+    "r1-b03-c18",
+    "r1-b03-c35"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "마을 자체의 개방 시간은 공식 페이지에 없음. 시설·공방·문화시설별로 운영시간이 다름(c35는 안내소 표기).",
+     "detail": "hours",
+     "run": "r1-b03"
+    },
+    {
+     "reason": "conflicting_sources",
+     "note": "셔틀 운행시간이 다름: 주차 안내·전주관광 누리집은 10:00~18:30 (https://hanok.jeonju.go.kr/contents/parking , https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106011000000) vs 체험지도는 오전 10시~오후 7시 (https://hanok.jeonju.go.kr/contents/map). c11은 10:00~18:30 채택.",
+     "detail": "hours.conflict",
+     "run": "r1-b03"
+    }
+   ]
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "마을 전체의 정기 휴무 안내는 없음. 시설별로 다르며 공영자전거는 월요일 휴무."
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b03-c12",
+    "r1-b03-c22"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "마을 입장이 무료라고 명시한 공식 문구를 찾지 못함. 경기전 등 유료 시설 요금은 해당 시설 공식 페이지에서 확인되지 않아 수집하지 못함.",
+     "detail": "fees",
+     "run": "r1-b03"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b03-c20",
+    "r1-b03-c21"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "마을 방문 자체의 예약 필요 여부 공식 문구 없음(해설 투어 예약만 확인).",
+     "detail": "reservation",
+     "run": "r1-b03"
+    }
+   ]
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공영주차장 등의 결제 수단 공식 안내를 찾지 못함."
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b03-c23"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내판·오디오가이드 등 마을 내 시설 단위의 한국어 지원 여부는 공식 문구 없음(해설은 기본 한국어, c23).",
+     "detail": "language",
+     "run": "r1-b03"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b03-c25",
+    "r1-b03-c27",
+    "r1-b03-c29",
+    "r1-b03-c34"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "혼잡 시기·안전 관련 공식 안내(주말 혼잡 등)는 찾지 못함.",
+     "detail": "caution",
+     "run": "r1-b03"
+    }
+   ]
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b03-c1",
+   "field": "location",
+   "text": "한옥마을 현황 안내에 따르면 위치는 전주시 완산구 풍남동·교동 일대이다.",
+   "original_text": null,
+   "value": "전주시 완산구 풍남동·교동 일대",
+   "verdict": "verified",
+   "verify_note": "현황: 위치 전주시 완산구 풍남동·교동일대",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/info",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c2",
+   "field": "location",
+   "text": "한옥마을 면적은 298,260㎡로 안내되어 있다(통계 연도는 페이지에 표기되지 않음).",
+   "original_text": null,
+   "value": "298260㎡",
+   "verdict": "verified",
+   "verify_note": "면적 298,260㎡, 연도 표기 없음(건축물 947동, 한옥 735)",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/info",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c3",
+   "field": "description",
+   "text": "전주시는 한옥마을을 풍남동 일대에 700여 채의 한옥이 군락을 이룬 국내 최대 규모의 전통 한옥촌이자 전국 유일의 도심 한옥군이라고 소개한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "info 페이지 소개문과 일치",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/info",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c4",
+   "field": "description",
+   "text": "마을에는 경기전·오목대·향교 등 중요 문화재와 20여 개의 문화시설이 흩어져 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "경기전·오목대·향교, 20여개 문화시설",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/info",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c5",
+   "field": "parking",
+   "text": "한옥마을 제1·2·3공영주차장과 노상주차장은 유료이며 기본 30분 1,200원, 추가 15분마다 600원, 1일 최대 14,400원이다(제1주차장 293면 기린대로 99, 제2주차장 176면 어진길 30-10, 제3주차장 72면 간납로 20).",
+   "original_text": null,
+   "value": "30분 1,200원 / 15분 추가 600원 / 1일 최대 14,400원",
+   "verdict": "verified",
+   "verify_note": "면수·주소·요금 모두 일치. 노상주차장도 같은 요금",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/parking",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c6",
+   "field": "parking",
+   "text": "제1~3공영주차장은 24시간 연중무휴로 운영되고, 노상주차장은 하절기 10:00~19:00, 동절기 09:00~18:00에 운영된다.",
+   "original_text": null,
+   "value": "제1~3주차장 24시간 / 노상 하절기 10-19시, 동절기 9-18시",
+   "verdict": "verified",
+   "verify_note": "일치",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/parking",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c7",
+   "field": "parking",
+   "text": "제4공영주차장(구 대성주차장, 636면)은 무료이다.",
+   "original_text": null,
+   "value": "무료, 636면",
+   "verdict": "verified",
+   "verify_note": "제4공영주차장(前대성주차장) 636면 무료, 춘향로 5299",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/parking",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c8",
+   "field": "parking",
+   "text": "제1~3공영주차장 문의는 전주시설관리공단 063-239-2767, 제4공영주차장 문의는 063-232-0788이다.",
+   "original_text": null,
+   "value": "063-239-2767 / 063-232-0788",
+   "verdict": "verified",
+   "verify_note": "일치",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/parking",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c9",
+   "field": "access",
+   "text": "무료 셔틀버스는 한옥마을 제4공영주차장(구 대성주차장)에서 자만 벽화마을을 거쳐 태조로 승강장(한옥마을 누리집 표기: 오목대 셔틀버스 승강장, 2.5km)을 오가며 운행한다.",
+   "original_text": "무료 셔틀버스는 제4공영주차장과 오목대·태조로 승강장 사이를 오가며(자만벽화마을 경유) 승용차 이용 관광객이 대상이다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "'승용차 이용객 한정' 문구는 parking 페이지 HTML 주석 안에 있어 화면에 보이지 않음. 경로는 tour.jeonju: 제4주차장→자만벽화마을(경유)→태조로 승강장. hanok 페이지: ↔오목대 셔틀버스 승강장(2.5KM)",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/parking",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106011000000",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c10",
+   "field": "access",
+   "text": "셔틀버스는 연중무휴로 운행하며 평일에는 1대, 주말·공휴일에는 최대 4대를 운행한다.",
+   "original_text": null,
+   "value": "평일 1대 / 주말·공휴일 4대",
+   "verdict": "verified",
+   "verify_note": "평일(월~금) 1대 / 토·일·공휴일 4대, 연중무휴. tour.jeonju: 평일 16회차",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/parking",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106011000000",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c11",
+   "field": "hours",
+   "text": "셔틀버스 운행 시간은 10:00~18:30(막차)이며, 평일 시간표는 제4공영주차장 출발 기준 10:20·10:50·11:20·11:50·13:00부터 30분 간격으로 18:30까지이고, 주말·공휴일은 10:00~18:30 수시 운행이다.",
+   "original_text": null,
+   "value": "10:00~18:30",
+   "verdict": "verified",
+   "verify_note": "시간표 일치. tour.jeonju: 출발시각은 제4주차장 탑승 기준, 막차는 태조로 승강장 탑승 기준",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/parking",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106011000000",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c12",
+   "field": "fees",
+   "text": "한옥마을 셔틀버스는 무료이다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "tour.jeonju '무료 운행'",
+   "sources": [
+    {
+     "url": "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106011000000",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c13",
+   "field": "access",
+   "text": "관광버스(15·25인승 포함) 이용객은 되도록 한옥마을 기린대로변 관광버스 승·하차장에서 내리도록 안내된다.",
+   "original_text": "관광버스 이용객은 한옥마을 기린대로변 관광버스 승·하차장에서 내려야 하며, 대형 차량은 이곳에서 주차만 가능하다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "보이는 문구는 '가급적…하차해 주시기 바랍니다'(권고). '대형차량에 한하여 주차만 가능' 문장은 HTML 주석 처리되어 보이지 않음",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/parking",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c14",
+   "field": "access",
+   "text": "전주역에서는 112, 79, 508, 536, 542, 545, 546, 101, 119, 999번 버스를 타고 전동성당(한옥마을) 앞에서 내리며 약 25분 걸린다.",
+   "original_text": null,
+   "value": "약 25분",
+   "verdict": "verified",
+   "verify_note": "버스 번호와 25분정도 일치",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/map",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c15",
+   "field": "access",
+   "text": "고속버스터미널에서는 79, 999, 1994번 버스로 전동성당(한옥마을) 앞까지 약 15분이며, 택시는 약 5~6천원으로 안내된다.",
+   "original_text": null,
+   "value": "버스 약 15분 / 택시 5~6천원 예상",
+   "verdict": "verified",
+   "verify_note": "79, 999, 1994번, 15분정도, 택시 5~6천원",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/map",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c16",
+   "field": "access",
+   "text": "전주역에서 택시로 이동하면 7~8천원 정도로 안내된다.",
+   "original_text": null,
+   "value": "7,000~8,000원 예상",
+   "verdict": "verified",
+   "verify_note": "요금 7~8천원 예상",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/map",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c17",
+   "field": "access",
+   "text": "서울 강남 센트럴시티 터미널에서 전주까지 고속버스로 약 2시간 40분이 걸린다고 안내된다.",
+   "original_text": null,
+   "value": "약 2시간 40분",
+   "verdict": "verified",
+   "verify_note": "페이지는 '강남 센트럴파크 터미널'로 오기했지만, 같은 블록에 강남센트럴시티 터미널(02-6282-0114)이 있음. 약 2시간 40분",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/map",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c18",
+   "field": "hours",
+   "text": "경기전 투어는 매일 10·11·14·15·16시에 경기전 정문 안(홍살문)에서 출발하는 한국어 해설로 진행되고, 외국어(영·중·일) 해설은 매일 11시·14시에 진행된다.",
+   "original_text": null,
+   "value": "10:00, 11:00, 14:00, 15:00, 16:00",
+   "verdict": "verified",
+   "verify_note": "1코스: 매일 10/11/14/15/16시 한국어, 11·14시 영·중·일",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/tour",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c19",
+   "field": "duration",
+   "text": "문화관광 해설 투어는 1코스당 약 1시간이 걸린다.",
+   "original_text": null,
+   "value": "약 1시간",
+   "verdict": "verified",
+   "verify_note": "투어시간 약 1시간",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/tour",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c20",
+   "field": "reservation",
+   "text": "20인 미만 개인은 별도 예약 없이 시간표에서 원하는 코스를 확인하고 집결 장소로 가면 된다.",
+   "original_text": null,
+   "value": "개인 예약 불필요",
+   "verdict": "verified",
+   "verify_note": "일치",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/tour",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c21",
+   "field": "reservation",
+   "text": "해설사 단체 예약은 국내 20인 이상, 국외 10인 이상이 대상이며 두 달 전부터 일주일 전까지 한옥마을 관광안내소(063-284-1126) 또는 전주시청 관광정책과(063-281-2665)로 신청한다.",
+   "original_text": null,
+   "value": "두 달 전~일주일 전",
+   "verdict": "verified",
+   "verify_note": "일치. 이용시간 10~16시, 회당 2시간 이내 정보가 추가로 있음",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/tour",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c22",
+   "field": "fees",
+   "text": "해설 예약은 무료이고 성수기에는 조기 마감될 수 있으며, 경기전 입장료는 별도이다.",
+   "original_text": null,
+   "value": "해설 무료 / 경기전 입장료 별도",
+   "verdict": "verified",
+   "verify_note": "일치",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/tour",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c23",
+   "field": "language",
+   "text": "언어 표시가 없는 해설은 모두 한국어로 진행된다.",
+   "original_text": null,
+   "value": "한국어",
+   "verdict": "verified",
+   "verify_note": "일치",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/tour",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c24",
+   "field": "language",
+   "text": "외국인 관광객을 위한 안내 콜센터(영어·중국어·일본어)는 063-715-1330이다.",
+   "original_text": null,
+   "value": "063-715-1330",
+   "verdict": "unverifiable",
+   "verify_note": "063-715-1330 외국인 콜센터 항목은 amenities HTML에서 <!-- --> 주석 처리되어 화면에 없음(게시 중단으로 보임)",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/amenities",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c25",
+   "field": "caution",
+   "text": "폭염 등에 대비해 14시 태조 이성계 로드투어는 한옥마을 골목길 위주로 변경 운영된다고 공지되어 있어, 정확한 해설 일정은 예약 전 관광안내소(한옥마을 063-282-1330)에 문의해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "폭염 대비 14시 로드투어 변경 공지와 문의처 282-1330 일치",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/tour",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c26",
+   "field": "tip",
+   "text": "한옥마을 관광안내소(기린대로 99, 063-282-1330)와 경기전 여행자 라운지(전동성당길 110)에서 휠체어·유모차를 빌릴 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "두 곳 모두 휠체어·유모차 대여",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/amenities",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c27",
+   "field": "caution",
+   "text": "유모차 대여는 24개월 이하 대상으로 연령 확인 서류가 필요하고, 휠체어는 선착순에 신분증이 필요하며, 점심시간(12:00~13:00)에는 대여·반납이 안 되고 유모차는 우천 시 대여할 수 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "업무시간 내 대여·반납 조건 포함 일치",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/amenities",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c28",
+   "field": "tip",
+   "text": "물품보관소는 경기전 여행자 라운지(16개, 무료), 한옥마을 관광안내소(38개, 500원 동전 2개 후 반환), 한옥마을지원과 사무실 앞(14개, 100원), 전주 종합 관광안내소(기린대로 69, 500원)에 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "일치(한옥마을지원과 앞 보관함은 트렁크 보관 가능)",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/amenities",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c29",
+   "field": "caution",
+   "text": "물품보관소는 선착순이라 주말에는 일찍 동난다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "일치",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/amenities",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c30",
+   "field": "tip",
+   "text": "전주 종합 관광안내소(기린대로 69, 063-282-1335) 등 관광안내소에서 한옥마을 안내를 받을 수 있다.",
+   "original_text": null,
+   "value": "063-282-1335",
+   "verdict": "verified",
+   "verify_note": "(063)282-1335",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/amenities",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c31",
+   "field": "tip",
+   "text": "공영자전거는 화~일요일 운영(월요일·명절 전일 및 당일 휴무)하고 1회 1,000원이며, 한옥마을 평화의 전당·오목대·향교 대여소에서 빌릴 수 있고 휴대폰 본인 인증으로 대여한다.",
+   "original_text": null,
+   "value": "1회 1,000원",
+   "verdict": "verified",
+   "verify_note": "일치. 계절별 운영시간 정보가 추가로 있음(suggested 참조)",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/question",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c32",
+   "field": "tip",
+   "text": "전북투어패스 전주한옥마을권(경기전 관람권 포함)은 4,200원~8,000원이며 경기전관광안내소·오목대관광안내소·한옥마을관광안내소에서 판매한다.",
+   "original_text": null,
+   "value": "4,200~8,000원",
+   "verdict": "verified",
+   "verify_note": "판매점에 루이엘박물관도 있음",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/map",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c33",
+   "field": "tip",
+   "text": "전주한옥마을역사관(최명희길 17-10, 063-286-5125)은 한옥마을의 형성과 변천을 보여 주며, 주말에는 학예사 해설을 11:00와 14:00에 운영한다.",
+   "original_text": null,
+   "value": "주말 11:00, 14:00",
+   "verdict": "verified",
+   "verify_note": "주말 해설 11:00·14:00",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/facility",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c34",
+   "field": "caution",
+   "text": "한옥마을 지구 안은 금연구역으로 전역 확대되었다(2016년 시행 안내).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "2016년 금연구역 전역 확대",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/info",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-c35",
+   "field": "hours",
+   "text": "공식 누리집 하단은 한옥마을 관광안내소(기린대로 99)의 방문 가능 시간을 '연중무휴 24시간 개방'으로 표기하고, 대표전화 063-282-1330 또는 카카오톡 '전주한옥마을' 채널로 문의할 수 있다고 안내한다(마을 전체가 아니라 안내소에 대한 표기).",
+   "original_text": "공식 누리집 하단은 한옥마을 관광안내소(기린대로 99)의 방문 가능 시간을 연중무휴 24시간 개방으로 표기하고, 주말 9시~18시에는 카카오톡 '전주한옥마을' 채널로 문의할 수 있다고 안내한다(마을 전체의 운영시간이 아니라 안내소 표기).",
+   "value": "안내소 24시간 개방 표기",
+   "verdict": "corrected",
+   "verify_note": "'주말 9~18시 카톡 문의' 문구는 HTML 주석 처리되어 보이지 않음",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/parking",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-s1",
+   "field": "ops.fees",
+   "text": "경기전 관람료는 일반권 어른 3,000원·청소년/군인 2,000원·어린이 1,000원이고, 전주시민·완주군민 할인권은 1,000원·800원·500원이다. 65세 이상 내국인과 만 6세 이하 영유아는 무료이고, 매월 마지막 주 수요일(문화가 있는 날)은 무료입장이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/place",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-s2",
+   "field": "ops.hours",
+   "text": "경기전 관람시간은 3~5월·9~10월 09:00~19:00, 6~8월 09:00~20:00, 11~2월 09:00~18:00이다(문의 063-281-2788).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/place",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-s3",
+   "field": "ops.hours",
+   "text": "전동성당은 09:00~17:00에 개방(미사 시간 제외)하고 관람료가 없으며, 전주향교는 10:00~18:00 무료 관람이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/place",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-s4",
+   "field": "tip",
+   "text": "공영자전거 운영시간은 봄·가을(4·5·9·10월) 09:00~18:00, 겨울(11~3월) 10:00~17:00, 여름(6~8월) 09:00~19:00이고, 대여시간 안에 11개 대여소 어디서나 반납할 수 있다(문의 063-281-2568).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/question",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-s5",
+   "field": "ops.reservation",
+   "text": "단체 해설은 10:00~16:00 사이에 회당 2시간 이내로 진행된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/tour",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  },
+  {
+   "cid": "r1-b03-s6",
+   "field": "tip",
+   "text": "관광지도 우편 발송은 경기전 여행자 라운지(063-287-1330)에 신청하며 매주 월·목요일에 발송된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/map",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b03"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b03",
+   "text": "셔틀: 체험지도(map) 페이지는 '셔틀버스 운행 오전 10시~오후 7시', A·B코스, 대성공영주차장 '춘향로 5399'로 적어 parking 페이지(10:00~18:30, 춘향로 5299)와 tour.jeonju와 다름. map 페이지의 셔틀 블록은 갱신되지 않은 것으로 보임"
+  },
+  {
+   "run": "r1-b03",
+   "text": "셔틀 종점 표기: hanok 누리집 '오목대 셔틀버스 승강장' vs tour.jeonju '태조로 승강장(자만벽화마을 경유)'"
+  },
+  {
+   "run": "r1-b03",
+   "text": "한옥 수: info 소개 '700여 채', 현황표 '한옥 735', facility(역사관) '900여 채 한옥'"
+  },
+  {
+   "run": "r1-b03",
+   "text": "tour 페이지 내부 불일치: 골목길투어 표(11시 한/Eng, 15시 한/Eng/中/日, 경기전 매표소 집결)와 4코스 설명(11·14·16시 한국어, 11·14시 영어, 전라감영 정문 앞 출발)이 다름. 3코스 집결지도 표는 태조로 쉼터, 설명은 오목대 관광안내소"
+  },
+  {
+   "run": "r1-b03",
+   "text": "stale_source: hanok.jeonju.go.kr에 갱신일 표기가 없음. 하단 Copyright 2019, 현황 연혁·수상 기록은 2019년에서 끝남. place 페이지는 구 지정번호(사적 제339호)와 '전라북도' 표기 사용(레코드는 전북특별자치도)"
+  },
+  {
+   "run": "r1-b03",
+   "text": "수집자가 HTML 주석(비노출) 내용을 근거로 씀: 승용차 이용객 한정, 대형차량 주차만 가능, 외국인 콜센터 063-715-1330, 주말 9~18시 카톡"
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -173,6 +1107,43 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b03",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 35,
+    "verdicts": {
+     "verified": 31,
+     "corrected": 3,
+     "outdated": 0,
+     "unverifiable": 1,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 6
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.conflict",
+   "note": "제4공영주차장 주소가 공식 두 페이지에서 다름: 주차 안내 춘향로 5299 (https://hanok.jeonju.go.kr/contents/parking) vs 체험지도 춘향로 5399 (https://hanok.jeonju.go.kr/contents/map).",
+   "run": "r1-b03"
+  },
+  {
+   "topic": "stale_source",
+   "note": "한옥마을 공식 누리집은 하단 저작권 2019 표기 및 2019년 기준 통계 페이지가 많고 갱신일이 없음. 마을 현황·건물 수는 최신성 미확인. 전주관광 셔틀 페이지는 최신으로 보이나 갱신일 미표기.",
+   "run": "r1-b03"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b03"
  }
 }

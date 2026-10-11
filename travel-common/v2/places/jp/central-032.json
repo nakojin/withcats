@@ -2,7 +2,7 @@
  "id": "central-032",
  "country": "jp",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "오사카성 천수각",
   "local": "大阪城天守閣"
@@ -10,7 +10,7 @@
  "admin_region": "오사카",
  "former_region": null,
  "city": "오사카시",
- "address": null,
+ "address": "〒540-0002 大阪市中央区大阪城1-1",
  "coord": {
   "lat": 34.687488,
   "lng": 135.525887,
@@ -21,93 +21,878 @@
   "osm": "node/13388509601"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "오사카성 천수각은 1931년 시민 기부금으로 복원된 3대째 천수각으로, 복원 때부터 박물관으로 운영되어 도요토미 히데요시와 전국시대, 오사카성의 역사를 소개합니다.",
+ "description": "오사카성 천수각은 1931년 시민 기부금으로 복원된 3대째 천수각으로, 복원 때부터 박물관으로 운영되어 도요토미 히데요시와 전국시대, 오사카성의 역사를 소개합니다. 8층 전망대는 지상 약 50m에서 성과 시가지를 내려다보게 해 주고, 3~4층에는 도요토미 시대 관련 전시가 있고 3층에는 황금 다실 실물 크기 모형이 있으며, 5층에서는 오사카 여름 전투 병풍을 영상과 미니어처로 풀어냅니다. 개관 시간은 9시부터 18시(입관 17시 30분까지)이고 성인 입관료는 1,200엔입니다. 한국어를 포함한 음성 가이드를 무료로 빌릴 수 있고, 카드·전자머니·QR 결제도 가능합니다.",
+ "highlights": [
+  "1931년 시민 기부금으로 복원된 3대째 천수각이자 박물관",
+  "8층 전망대에서 지상 약 50m 높이의 오사카 시가지 조망",
+  "황금 다실 실물 크기 모형과 도요토미 시대 오사카성 복원 모형",
+  "한국어 음성 가이드 무료 대여, 영상 자막도 한국어 지원",
+  "지하에서 보는 도요토미 시대 석벽(도요토미 이시가키관)"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c2",
+    "r1-b12-c3",
+    "r1-b12-c4",
+    "r1-b12-c5",
+    "r1-b12-c6",
+    "r1-b12-c7",
+    "r1-b12-c8",
+    "r1-b12-c9"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "공식 접근 페이지에 역에서 천수각까지의 도보 시간이 없고 역·출구 목록만 있음",
+     "detail": "access.walk_time",
+     "run": "r1-b12"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "천수각 공식 사이트에 권장 관람 소요시간 기재가 없음"
    }
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c10",
+    "r1-b12-c11"
+   ],
+   "gap": null
   },
   "closed_days": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c12"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "공식 안내는 12/28~1/1만 휴관으로 명시, 임시 휴관 여부는 별도 공지(news)에 의존하며 특정 항목 확인 못 함",
+     "detail": "closed_days.irregular",
+     "run": "r1-b12"
+    }
+   ]
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c13",
+    "r1-b12-c14",
+    "r1-b12-c15",
+    "r1-b12-c16",
+    "r1-b12-c17"
+   ],
+   "gap": null
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c18",
+    "r1-b12-c19"
+   ],
+   "gap": null
   },
   "payment": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c20",
+    "r1-b12-c21"
+   ],
+   "gap": null
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c22",
+    "r1-b12-c23"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "/ko/ 경로는 일본어 페이지와 동일하게 응답해 한국어 웹페이지 존재를 확인하지 못함",
+     "detail": "language.korean_site",
+     "run": "r1-b12"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c24",
+    "r1-b12-c25",
+    "r1-b12-c26",
+    "r1-b12-c27"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b12-c1",
+   "field": "location",
+   "text": "주소는 〒540-0002 오사카시 주오구 오사카성 1-1이다.",
+   "original_text": null,
+   "value": "〒540-0002 大阪市中央区大阪城1-1",
+   "verdict": "verified",
+   "verify_note": "access page header address matches",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c2",
+   "field": "access",
+   "text": "Osaka Metro 다니마치선 다니마치4초메역 1-B 출구와 덴마바시역 3번 출구가 가까운 역으로 안내된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "谷町線 谷町4丁目 1-B / 天満橋 3",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c3",
+   "field": "access",
+   "text": "Osaka Metro 주오선 다니마치4초메역 9번 출구, 모리노미야역 1번·3-B 출구와 나가호리쓰루미료쿠치선 모리노미야역 3-B 출구, 오사카비즈니스파크역 1번 출구도 가까운 역으로 안내된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "中央線 9, 森ノ宮 1・3-B; 長堀鶴見緑地線 森ノ宮 3-B, OBP 1",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c4",
+   "field": "access",
+   "text": "JR은 오사카간조선 모리노미야역·오사카조코엔역, 도자이선 오사카조키타즈메역, 게이한 전철은 덴마바시역이 가까운 역이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "JR 環状線 森ノ宮・大阪城公園, 東西線 大阪城北詰, 京阪 天満橋",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c5",
+   "field": "access",
+   "text": "오사카 시티버스 62계통의 오사카조오테마에·바바초 정류장과 수상버스(오사카조항, 핫켄야하마 선착장)로도 접근할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "62系統 大阪城大手前・馬場町; 水上バス 大阪城港・八軒家浜",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c6",
+   "field": "parking",
+   "text": "승용차용 주차장은 오사카조코엔역앞 주차장(171대)과 모리노미야 주차장(143대)이며 종일 이용 가능하다.",
+   "original_text": null,
+   "value": "171대 / 143대",
+   "verdict": "verified",
+   "verify_note": "171台(身障者用4)/143台(身障者用3), 終日",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c7",
+   "field": "parking",
+   "text": "승용차 주차 요금은 평일 8~22시 1시간 400엔, 22~8시 1시간 200엔이고, 토·일·공휴일은 8~22시 1시간 500엔, 22~8시 1시간 200엔이다.",
+   "original_text": null,
+   "value": "평일 400엔/h, 토일공휴일 500엔/h (주간)",
+   "verdict": "verified",
+   "verify_note": "page also lists a daily cap for disability-card holders (400/500円 until 24:00), not in claim",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c8",
+   "field": "parking",
+   "text": "단체 버스용 주차장은 조난 제1(50대)·제2(44대) 주차장이며 8~22시 1시간 1,500엔이다.",
+   "original_text": null,
+   "value": "1500엔/h",
+   "verdict": "verified",
+   "verify_note": "page also lists 22-8시 500円/h and an 18-8시 cap of 5,000円, not in claim",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c9",
+   "field": "access",
+   "text": "자가용은 한신고속 13호 히가시오사카선 호엔자카 출구(고베 방면) 또는 모리노미야 출구(히가시오사카 방면)를 이용한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "法円坂出口 (from Kobe) / 森之宮出口 (from Higashi-Osaka)",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c10",
+   "field": "hours",
+   "text": "개관 시간은 9:00~18:00이며 입관은 17:30까지다.",
+   "original_text": null,
+   "value": "09:00-18:00 (last entry 17:30)",
+   "verdict": "verified",
+   "verify_note": "9:00-18:00, entry until 17:30 (changed 2025-04-01)",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c11",
+   "field": "hours",
+   "text": "최종 입관 시간을 고려해 상황에 따라 17:30 이전에 티켓 구입 줄을 제한하는 경우가 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c12",
+   "field": "closed_days",
+   "text": "휴관일은 12월 28일부터 1월 1일까지다.",
+   "original_text": null,
+   "value": "12/28-1/1",
+   "verdict": "verified",
+   "verify_note": "12/28-1/1",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c13",
+   "field": "fees",
+   "text": "입관료는 성인 1,200엔이다(2025년 4월 1일부터 변경된 요금).",
+   "original_text": null,
+   "value": "1200 JPY",
+   "verdict": "verified",
+   "verify_note": "fee change from 2025-04-01 is stated",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c14",
+   "field": "fees",
+   "text": "대학생·고교생은 600엔(증명 필요)이다. 해외 대학생·고교생은 학생증이 없으면 성인 요금이므로 국제학생증(ISIC)을 제시해야 한다.",
+   "original_text": null,
+   "value": "600 JPY",
+   "verdict": "verified",
+   "verify_note": "ISIC note present",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c15",
+   "field": "fees",
+   "text": "중학생 이하는 무료이며 연령 확인 서류가 필요하다(해외 15세 이하는 여권 등).",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c16",
+   "field": "fees",
+   "text": "유료 대상자가 15명 이상인 단체는 성인 1,080엔, 대학생·고교생 540엔이며 중학생 이하는 무료다.",
+   "original_text": null,
+   "value": "1080/540 JPY",
+   "verdict": "verified",
+   "verify_note": "15+ paying visitors; school-group rates also exist",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c17",
+   "field": "fees",
+   "text": "오사카시 거주 65세 이상과 각종 장애인 수첩 소지자(보호자 1명 포함)는 증명서를 제시하면 무료로 입관할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "also accepts the Mirairo ID app",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c18",
+   "field": "reservation",
+   "text": "공식 사이트는 예약 사이트를 통한 입관권 사전 구매(WEB 티켓)를 안내한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "top page: 予約サイトを通じて入館券の事前購入が可能",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c19",
+   "field": "reservation",
+   "text": "천수각은 단체의 입관 예약을 받지 않으며, 단체는 방문 일시·인원 확인을 위해 사전 전화(06-6941-3044, 9~18시)를 요청받는다.",
+   "original_text": null,
+   "value": "06-6941-3044",
+   "verdict": "verified",
+   "verify_note": "page states the phone call is not a reservation",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c20",
+   "field": "payment",
+   "text": "입관료는 현금(엔)과 신용카드(VISA, Mastercard, AMEX, Diners, JCB)로 낼 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c21",
+   "field": "payment",
+   "text": "전자머니(iD, nanaco, 라쿠텐 Edy, WAON, 교통계 IC, QUICPay)와 QR 결제(Alipay, WeChat Pay, 은련, PayPay 등)도 사용할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "QR list also includes JKOPAY, d払い, メルペイ, au PAY, 楽天Pay",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c22",
+   "field": "language",
+   "text": "1층·5층 안내소에 외국어 가능 직원이 상주하고, 음성 가이드를 일본어·영어·한국어·중국어로 무료 대여한다(접수 9~17시, 반납 17:30까지).",
+   "original_text": null,
+   "value": "한국어 음성 가이드 무료",
+   "verdict": "verified",
+   "verify_note": "limited number of devices",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c23",
+   "field": "language",
+   "text": "1층 시어터룸의 영상과 5층 파노라마 비전은 일본어·영어·중국어·한국어 자막을 지원한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "1F theater (5 programs) and 5F panorama vision (2 units)",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/exhibition/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c24",
+   "field": "caution",
+   "text": "관내에 코인로커는 없으며 매표소에서 짐 1개당 100엔에 맡길 수 있다(접수 9:00~17:30, 18:00까지 수령).",
+   "original_text": null,
+   "value": "100 JPY/개",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c25",
+   "field": "caution",
+   "text": "상층일수록 혼잡해 유모차 반입은 원칙적으로 사양하며, 유모차는 개찰구 입구에서 무료로 맡아 준다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c26",
+   "field": "caution",
+   "text": "관내에서는 금지 구역 촬영, 음식 섭취, 큰 소리 대화, 바닥에 앉기, 걸으면서 스마트폰 사용 등이 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "page also prohibits camera gear that blocks other visitors",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c27",
+   "field": "caution",
+   "text": "관내 엘리베이터는 직원 안내로 이용하며, 누구나 올라갈 때만 5층까지 직통으로 탈 수 있다. 5층에서 8층까지 올라갈 때와 8층에서 1층까지 내려올 때는 계단을 이용하며, 6층은 출입할 수 없는 회랑이다. 휠체어 이용자나 보행이 어려운 사람은 오르내릴 때 모든 층에서 엘리베이터를 이용할 수 있다.",
+   "original_text": "관내 엘리베이터는 직원 안내로 이용하며 5층까지 올라가는 전용이고, 5~8층은 계단으로 이동하며 6층은 출입 불가 회랑이다. 휠체어 이용자는 모든 층에서 이용할 수 있다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "claim left out that the whole way down (8F to 1F) is by stairs, and that the 1F-to-5F elevator runs up only; the exemption also covers people with walking difficulty",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c28",
+   "field": "description",
+   "text": "현재 천수각은 도요토미·도쿠가와 시대에 이은 3대째로, 1931년 시민 기부금으로 복원되었고 2025년 오사카시 지정 유형문화재가 되었다.",
+   "original_text": "현재 천수각은 풍신·도쿠가와 시대에 이은 3대째로, 1931년 시민 기부금으로 복원되었고 2025년 오사카시 지정 유형문화재가 되었다.",
+   "value": "1931",
+   "verdict": "corrected",
+   "verify_note": "facts match; '풍신' (豊臣 read in Korean) changed to the standard name '도요토미'. Page also says the keep became a nationally registered tangible cultural property in 1997",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c29",
+   "field": "description",
+   "text": "천수각은 복원 때부터 박물관 시설이며 도요토미 히데요시·전국시대·오사카성 관련 문화재를 전시 교체하며 공개한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c30",
+   "field": "highlight",
+   "text": "8층 전망대는 지상 50m에서 오사카성과 시가지를 한눈에 볼 수 있고 휠체어로도 전망대에 나갈 수 있다.",
+   "original_text": null,
+   "value": "50m",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/exhibition/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c31",
+   "field": "highlight",
+   "text": "3층에는 히데요시가 만든 조립식 황금 다실의 실물 크기 복원 모형과 도요토미·도쿠가와 시대 오사카성 복원 모형이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "3F: golden tea room full-size replica plus Toyotomi- and Tokugawa-era castle models",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/exhibition/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c32",
+   "field": "highlight",
+   "text": "5층에서는 오사카 여름 전투 병풍의 세계를 영상과 미니어처 모형으로 소개한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/exhibition/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c33",
+   "field": "highlight",
+   "text": "전시품은 약 2개월마다 교체된다.",
+   "original_text": null,
+   "value": "약 2개월",
+   "verdict": "verified",
+   "verify_note": "applies to the 3F/4F history exhibits",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/exhibition/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c34",
+   "field": "highlight",
+   "text": "도쿠가와 막부가 땅에 묻은 도요토미 시대 오사카성 석벽을 지하로 내려가 볼 수 있는 도요토미 이시가키관이 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "大阪城 豊臣石垣館",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/exhibition/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c35",
+   "field": "tip",
+   "text": "2층에서 투구·진바오리 시착 체험(1인 1회 500엔, 개관 시간 중)을 할 수 있다.",
+   "original_text": null,
+   "value": "500 JPY",
+   "verdict": "verified",
+   "verify_note": "2F, 500円 per person per try",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-s1",
+   "field": "language",
+   "text": "공식 사이트는 한국어판 오사카성 리플릿(PDF)을 제공하지만, 사이트의 다국어(Language) 메뉴는 'Coming Soon'으로 표시되어 있어 한국어 웹페이지는 아직 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.osakacastle.net/leaflet/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-s2",
+   "field": "location.coordinates",
+   "text": "OSM 좌표(大阪城天守閣, tourism=museum): 34.68749, 135.52589",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://nominatim.openstreetmap.org/search?q=大阪城天守閣&format=json",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b12",
+   "text": "guide page: the stamp-list section is dated '2023年3月現在' (over 12 months old); the fee and hours sections say they changed 2025-04-01 and are current"
+  }
+ ],
  "legacy": {
   "source": "japan-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -171,6 +956,34 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b12",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 35,
+    "verdicts": {
+     "verified": 33,
+     "corrected": 2,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 2
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'3~4층에는 히데요시 관련 자료와 황금 다실 실물 크기 모형이 있으며' — imprecise: the golden tea room replica is on 3F only (c31); 3F and 4F both hold Hideyoshi-era materials"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b12"
  }
 }

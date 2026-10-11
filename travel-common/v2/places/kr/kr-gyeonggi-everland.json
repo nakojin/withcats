@@ -2,7 +2,7 @@
  "id": "kr-gyeonggi-everland",
  "country": "kr",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "에버랜드",
   "local": "에버랜드"
@@ -21,93 +21,360 @@
   "osm": "node/1018259540"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "에버랜드 셀렉트 투어는 운영사가 판매하는 예약 상품으로, 정문 발레파킹 1대, 정문 게이트 우선 입장, 에버랜드 이용권, 어트랙션 Q-PASS 쿠폰 1인 5매가 묶여 있다.",
+ "description": "에버랜드 셀렉트 투어는 운영사가 판매하는 예약 상품으로, 정문 발레파킹 1대, 정문 게이트 우선 입장, 에버랜드 이용권, 어트랙션 Q-PASS 쿠폰 1인 5매가 묶여 있다. 방문일 30일 전부터 2일 전까지 선착순으로 예약하며, 1팀은 최대 4명이고 최소 2인 결제, 성인 보호자 1명 이상이 함께해야 한다. 판다월드·세컨하우스 우선 입장은 11시 이후 1인 1회 이용할 수 있다. 정기권 소지자는 그 인원만큼 할인되며, 우천 등 기상 사유로는 환불되지 않는다.",
+ "highlights": [
+  "셀렉트 투어: 발레파킹+우선입장+이용권+Q-PASS 5매 패키지",
+  "셀렉트 투어는 방문 30일 전~2일 전 예약, 1팀 4명",
+  "판다월드 우선 입장은 11시 이후 가능"
+ ],
  "checklist": {
   "location": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에서 도로명 주소를 확인하지 못함(누리집이 JS 렌더링, 정적 안내 페이지는 '시스템 에러' 반환). 입력 데이터의 주소만 있음"
    }
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b01-c3"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "대중교통·자가용 이용방법 공식 본문을 열지 못함",
+     "detail": "access",
+     "run": "r1-b01"
+    }
+   ]
   },
   "duration": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 소요시간 안내 없음"
    }
   },
   "hours": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "official_unreachable",
+    "note": "공식 운영시간 API(parkOpenTime, dailyOper)가 500 오류를 반환, 정적 페이지도 열리지 않음. 날짜별 시간은 공식 누리집·앱 확인 필요"
    }
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 휴무 정보(closed API) 500 오류로 확인 불가"
    }
   },
   "fees": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b01-c4"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "일반 입장권 요금표를 공식 페이지에서 열지 못함. 블로그·뉴스는 가격이 서로 달라 근거로 쓰지 않음",
+     "detail": "fees",
+     "run": "r1-b01"
+    }
+   ]
   },
   "reservation": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b01-c1",
+    "r1-b01-c2"
+   ],
+   "gap": null
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "공식 결제수단 안내 확인 못함"
    }
   },
   "language": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "한국어 지원은 한국 업체지만 공식 근거 페이지를 확인하지 못함"
    }
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b01-c5",
+    "r1-b01-c6"
+   ],
+   "gap": null
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b01-c1",
+   "field": "reservation",
+   "text": "셀렉트 투어는 방문 예정일 D-30~D-2까지 사전 예약하며 선착순으로 조기 마감될 수 있다.",
+   "original_text": null,
+   "value": "D-30~D-2",
+   "verdict": "verified",
+   "verify_note": "D-30~D-2, 선착순 조기 마감. 남은 수량은 드림투어 콜센터에서 예약 가능",
+   "sources": [
+    {
+     "url": "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date=",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c2",
+   "field": "reservation",
+   "text": "셀렉트 투어는 1팀 최대 4명, 최소 2인 결제, 성인 보호자 1명 이상 동행이 필요하다.",
+   "original_text": null,
+   "value": "2~4명",
+   "verdict": "verified",
+   "verify_note": "1팀 최대 4명, 최소 2인 결제, 성인 보호자 1명 이상 동행",
+   "sources": [
+    {
+     "url": "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date=",
+     "type": "operator",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c3",
+   "field": "parking",
+   "text": "셀렉트 투어에는 정문 가까이 발레파킹 1대와 정문 게이트 우선 입장, 이용권, Q-PASS 쿠폰(1인 5매)이 포함된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "발레파킹 1대, 정문 게이트 우선 입장, 이용권, Q-PASS 1인 5매. 웰컴 라운지도 포함됨",
+   "sources": [
+    {
+     "url": "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date=",
+     "type": "operator",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c4",
+   "field": "fees",
+   "text": "셀렉트 투어 요금은 예약 일자별로 다르고 대인·소인 공통이며 36개월 미만 영유아는 요금에 포함되지 않는다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "정기권 소지 인원만큼 할인됨",
+   "sources": [
+    {
+     "url": "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date=",
+     "type": "operator",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c5",
+   "field": "caution",
+   "text": "셀렉트 투어는 방문 2일 전까지 취소하면 100% 환불, 1일 전 90%, 당일 취소·노쇼는 환불 불가이며 우천 등 기상 사유 환불도 안 된다.",
+   "original_text": null,
+   "value": "D-2 100%; D-1 90%; 당일 0%",
+   "verdict": "verified",
+   "verify_note": "우천 포함 기상 사유 환불 불가",
+   "sources": [
+    {
+     "url": "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date=",
+     "type": "operator",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c6",
+   "field": "caution",
+   "text": "판다월드 우선 입장은 11시 이후에만 가능하고, 어트랙션마다 신장 제한과 운영시간이 다르다.",
+   "original_text": null,
+   "value": "11:00 이후",
+   "verdict": "verified",
+   "verify_note": "판다월드·세컨하우스 우선 입장은 1인 1회, 11시 이후",
+   "sources": [
+    {
+     "url": "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date=",
+     "type": "operator",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-c7",
+   "field": "caution",
+   "text": "공식 실시간 API가 정문 주차장·정문 발레·일반 주차장의 혼잡 상태(예: Full, Possibility)를 제공한다(조회 시점 정문 만차, 일반 가능).",
+   "original_text": null,
+   "value": "실시간",
+   "verdict": "unverifiable",
+   "verify_note": "실시간 값이라 고정 사실로 공개하지 않음(검증자 권고에 따라 병합 시 비공개 처리). 원 노트: 이번 조회도 정문·정문 발레 Full, 일반 Possibility. 실시간 값이므로 고정 사실로 공개하면 안 됨",
+   "sources": [
+    {
+     "url": "https://wwwapi.everland.com/api/v1/iam/information/resorts/parking",
+     "type": "operator",
+     "page_updated": "2026-10-11",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-s1",
+   "field": "hours",
+   "text": "2026년 10월 11일 에버랜드 운영시간은 10:00~22:00이다(운영시간은 날짜마다 다르다).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://wwwapi.everland.com/api/v1/iam/facilities/parkOpenTime?salesDate=20261011&parkKindCd=01",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-s2",
+   "field": "location",
+   "text": "주소는 경기도 용인시 처인구 포곡읍 에버랜드로 199이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://wwwapi.everland.com/api/v1/iam/common/message-resource",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-s3",
+   "field": "access",
+   "text": "용인경전철 에버라인 종점에서 내려 무료 셔틀버스로 에버랜드·캐리비안 베이까지 간다. 셔틀은 첫차 7:30, 막차는 파크 운영 종료 1시간 뒤이고 5~10분 간격이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://wwwapi.everland.com/api/v1/iam/common/message-resource",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-s4",
+   "field": "parking",
+   "text": "각 주차장과 정문 사이에 무료 셔틀버스(유아차 탑승 가능)가 다니고, 정문 주차장이 차면 주차요원이 운영 중인 가장 가까운 주차장으로 안내한다. 정문 주차장에는 캠핑카·카라반을 세울 수 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://wwwapi.everland.com/api/v1/iam/common/message-resource",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  },
+  {
+   "cid": "r1-b01-s5",
+   "field": "parking.fee",
+   "text": "유료주차장 요금은 사전·출구 정산 시 최소 60분 3,000원, 이후 30분당 1,500원, 하루 최대 15,000원이다. 카카오T 주차패스로 정산하면 60분 2,400원, 30분당 1,200원, 하루 최대 12,000원이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://wwwapi.everland.com/api/v1/iam/common/message-resource",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b01"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b01",
+   "text": "message-resource의 일부 키 이름과 실제 문구가 다름(키에는 2000·2400원, 문구에는 2,400·3,000원). 요금이 개정된 흔적이고 어느 주차장 요금인지 명시되지 않음. 화면에 표시되는 주차 페이지와 대조 필요"
+  },
+  {
+   "run": "r1-b01",
+   "text": "주소 문자열 뒤에 '삼성물산㈜'가 붙어 있어 운영사(사업자) 주소일 가능성 있음. 파크 위치로 쓰기 전에 지도와 대조 필요"
+  },
+  {
+   "run": "r1-b01",
+   "text": "레코드 address 필드에 메타 문구 '(공식 페이지에서 확인 못함, 입력 데이터 기준)'이 들어 있음"
+  }
+ ],
  "legacy": {
   "source": "korea-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -202,6 +469,44 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b01",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 7,
+    "verdicts": {
+     "verified": 6,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 1,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 5
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.fee",
+   "note": "일반 주차 요금은 공식 페이지에서 확인하지 못함(서문 주차장은 가든패스 회원 사전예약 상품이라는 안내만 확인)",
+   "run": "r1-b01"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "에버랜드는 경기도 용인시에 있는 테마파크다. (위치 claim 없음. location은 수집 실패 항목)",
+   "공식 누리집은 자바스크립트로 그려지고 운영시간·요금·주차 안내 본문이 서버 응답으로 열리지 않아, 이 기록에서 공식 근거로 확인한 내용은 제한적이다. (수집 과정에 대한 메타 설명. 여행자용 설명에 들어가면 안 됨)",
+   "확인된 것은 운영사가 제공하는 셀렉트 투어 예약 상품으로, ... (앞부분 '확인된 것은'은 메타 표현)",
+   "일반 입장권 요금, 운영시간, 일반 주차 요금은 방문 전에 공식 누리집이나 앱에서 직접 확인해야 한다. (근거 claim 없는 수집 공백 안내)",
+   "실시간 주차 혼잡 상태를 공식 API가 제공(정문·발레·일반) (c7과 기술적으로는 맞지만 API를 언급하는 메타·기술 내용이고 실시간 값이라 여행자용 하이라이트로 부적합)"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b01"
  }
 }

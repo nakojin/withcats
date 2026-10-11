@@ -2,7 +2,7 @@
  "id": "central-027",
  "country": "jp",
  "tier": "A",
- "status": "draft",
+ "status": "verified",
  "names": {
   "ko": "후시미 이나리 타이샤",
   "local": "伏見稲荷大社"
@@ -10,7 +10,7 @@
  "admin_region": "교토",
  "former_region": null,
  "city": "교토시",
- "address": null,
+ "address": "〒612-0882 京都市伏見区深草薮之内町68番地",
  "coord": {
   "lat": 34.966983,
   "lng": 135.77476,
@@ -21,93 +21,613 @@
   "osm": "node/6865347485"
  },
  "coord_note": null,
- "summary": null,
- "description": null,
- "highlights": [],
+ "summary": "후시미 이나리 타이샤는 711년 이나리 오카미를 모신 것으로 전해지는 신사입니다.",
+ "description": "후시미 이나리 타이샤는 711년 이나리 오카미를 모신 것으로 전해지는 신사입니다. 경내는 해발 233m의 이나리산을 중심으로 약 87만㎡에 이르고, 산길을 따라 약 1만 기의 도리이가 늘어서 있습니다. JR 나라선 이나리역에서 도보로 바로이며 교토역에서 5분 정도 걸립니다. 일본정부관광국은 산을 돌아보는 데 2~3시간이 걸린다고 소개합니다. 경내에서는 지정된 무료 휴게소 밖에서 음식 먹기, 드론, 흡연, 반려동물 동반이 금지되며, 신사 주변 도로는 매우 혼잡하니 대중교통을 권합니다. 공식 사이트는 한국어를 지원합니다.",
+ "highlights": [
+  "711년 진좌로 전해지는 이나리 신사",
+  "해발 233m 이나리산을 중심으로 한 경내 약 87만㎡",
+  "산길을 따라 약 1만 기의 도리이",
+  "JR 이나리역에서 도보로 바로, 교토역에서 약 5분",
+  "산 전체를 도는 데 2~3시간"
+ ],
  "checklist": {
   "location": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c1"
+   ],
+   "gap": null
   },
   "access": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c2",
+    "r1-b12-c3",
+    "r1-b12-c4",
+    "r1-b12-c5",
+    "r1-b12-c6",
+    "r1-b12-c7",
+    "r1-b12-c8"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "게이한 후시미이나리역 도보: 공식 inari.jp/access 5분 vs 일본정부관광국 japan.travel/en/spot/1128 약 7분(kyoto.travel 출처는 약 5분 안내)",
+     "detail": "access.conflict",
+     "run": "r1-b12"
+    }
+   ]
   },
   "duration": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c9"
+   ],
+   "gap": null
   },
   "hours": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c10"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "경내·산 참배로의 개방 시간 또는 24시간 개방 여부가 공식 사이트에 없음(기도 시간과 연중무휴 문구만 확인)",
+     "detail": "hours.grounds",
+     "run": "r1-b12"
+    }
+   ]
   },
   "closed_days": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "경내 정기 휴무 기재 없음(기도 안내의 연중무휴 문구만 있음)"
    }
   },
   "fees": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "운영자 공식 사이트에 입장료·참배료 기재가 없어 무료 여부를 공식 근거로 확인하지 못함"
    }
   },
   "reservation": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "참배 예약 필요 여부 안내가 공식 사이트에 없음(기도는 접수 방식만 확인)"
    }
   },
   "payment": {
    "status": "gap",
    "claims": [],
    "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
+    "reason": "not_in_official_source",
+    "note": "결제 수단 안내가 공식 페이지에 없음"
    }
   },
   "language": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c11"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "현장 한국어 안내·오디오가이드 여부는 공식 사이트에 없음(웹페이지 한국어만 확인)",
+     "detail": "language.onsite",
+     "run": "r1-b12"
+    }
+   ]
   },
   "caution": {
-   "status": "gap",
-   "claims": [],
-   "gap": {
-    "reason": "not_collected",
-    "note": "아직 수집하지 않음"
-   }
+   "status": "filled",
+   "claims": [
+    "r1-b12-c12",
+    "r1-b12-c13",
+    "r1-b12-c14",
+    "r1-b12-c15",
+    "r1-b12-c16"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "혼잡 시기 정보는 공식 사이트에 구체적 기재 없음(라이브 카메라 안내만 있음)",
+     "detail": "caution.crowd",
+     "run": "r1-b12"
+    }
+   ]
   }
  },
- "claims": [],
- "conflicts": [],
+ "claims": [
+  {
+   "cid": "r1-b12-c1",
+   "field": "location",
+   "text": "주소는 〒612-0882 교토시 후시미구 후카쿠사 야부노우치초 68번지다.",
+   "original_text": null,
+   "value": "〒612-0882 京都市伏見区深草薮之内町68番地",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://inari.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c2",
+   "field": "access",
+   "text": "JR 나라선 이나리역에서 내리면 도보로 바로이며, 교토역에서 5분 거리다.",
+   "original_text": null,
+   "value": "JR 이나리역 도보 바로",
+   "verdict": "verified",
+   "verify_note": "徒歩直ぐ (京都駅より5分)",
+   "sources": [
+    {
+     "url": "https://inari.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c3",
+   "field": "access",
+   "text": "게이한 본선 후시미이나리역에서 동쪽으로 도보 5분이다.",
+   "original_text": null,
+   "value": "도보 5분",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://inari.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c4",
+   "field": "access",
+   "text": "시영버스 남5계통 이나리다이샤마에 정류장에서 동쪽으로 도보 7분이다.",
+   "original_text": null,
+   "value": "도보 7분",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://inari.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c5",
+   "field": "access",
+   "text": "자동차는 메이신 고속 교토미나미 IC에서 약 20분, 한신고속 가미토바 출구에서 약 10분이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://inari.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c6",
+   "field": "parking",
+   "text": "신사 주차장이 있으나 주변 도로가 매우 혼잡하므로 참배는 대중교통을 권하며, 참배 목적 외 주차는 거절하고 만차면 현장 직원 지시에 따른다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://inari.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c7",
+   "field": "parking",
+   "text": "12월 30일부터 1월 6일까지는 경내 주차장을 폐쇄한다.",
+   "original_text": null,
+   "value": "12/30-1/6 폐쇄",
+   "verdict": "verified",
+   "verify_note": "top page also says bus parking from Jan 1 to 5 is lot 3 only, and lot 2 cannot be entered",
+   "sources": [
+    {
+     "url": "https://inari.jp/access/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c8",
+   "field": "access",
+   "text": "일본정부관광국은 게이한선 후시미이나리역에서 도보 약 7분이라고 안내하며, 공식(5분)과 다르다.",
+   "original_text": null,
+   "value": "7분",
+   "verdict": "verified",
+   "verify_note": "JNTO: 'about a 7-minute walk'; official page says 5 min",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1128/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c9",
+   "field": "duration",
+   "text": "일본정부관광국은 산을 돌아보는 데 2~3시간이 걸린다고 소개한다.",
+   "original_text": null,
+   "value": "2~3시간",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1128/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c10",
+   "field": "hours",
+   "text": "기도(고키토)는 8:30~16:30에 수시로 진행하며 접수는 16:00경까지이고, 정월·제례 기간은 다르다. 같은 안내에서 연중무휴라고 밝힌다.",
+   "original_text": null,
+   "value": "기도 08:30-16:30 (접수 ~16:00)",
+   "verdict": "verified",
+   "verify_note": "年中無休; car purification not offered on the 1st of the month, weekends/holidays, festival days or in rain",
+   "sources": [
+    {
+     "url": "https://inari.jp/grace/gokito/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c11",
+   "field": "language",
+   "text": "공식 사이트는 일본어·영어·중국어(간체·번체)·한국어 페이지를 제공한다.",
+   "original_text": null,
+   "value": "한국어 웹페이지 있음",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://inari.jp/ko/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c12",
+   "field": "caution",
+   "text": "경내에서 흡연·화기, 드론, 건물·도리이 훼손, 등롱 등에 오르기, 지정되지 않은 곳에 유모차 방치가 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "rules dated 令和4年1月1日 (2022)",
+   "sources": [
+    {
+     "url": "https://inari.jp/request/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c13",
+   "field": "caution",
+   "text": "지정된 장소(무료 휴게소) 외에서 먹으며 걷거나 서서 먹는 것, 쓰레기 투기가 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://inari.jp/request/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c14",
+   "field": "caution",
+   "text": "반려동물 동반 산책·참배(안내견 등 제외), 웨딩드레스 등 부적절한 복장, 좁은 참배로에서 통행을 막는 촬영, 영리 목적 촬영이 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "page wording: photography for business purposes or in prohibited places",
+   "sources": [
+    {
+     "url": "https://inari.jp/request/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c15",
+   "field": "caution",
+   "text": "참배 이외 목적의 주차(제1·제4 주차장 포함)가 금지되고, 야생동물에 접근하거나 먹이 주기도 금지된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://inari.jp/request/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c16",
+   "field": "caution",
+   "text": "2026년 9월 7일 공지로, 참배객 통행을 막는 댄스 퍼포먼스 등 신역의 존엄을 해치는 행위에 직원이 주의를 준다고 알린다.",
+   "original_text": null,
+   "value": "2026-09-07",
+   "verdict": "verified",
+   "verify_note": "topics 2026-09-07",
+   "sources": [
+    {
+     "url": "https://inari.jp/news/topics/",
+     "type": "operator",
+     "page_updated": "2026-09-07",
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c17",
+   "field": "description",
+   "text": "이나리 오카미는 나라 시대인 711년 2월 첫 말의 날에 진좌했다고 한다.",
+   "original_text": null,
+   "value": "711",
+   "verdict": "verified",
+   "verify_note": "first Day of the Horse, 2nd month of 711, Nara period",
+   "sources": [
+    {
+     "url": "https://inari.jp/en/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c18",
+   "field": "description",
+   "text": "경내는 이나리산이 대부분이며 서쪽 기슭을 포함해 약 26만 평(약 87만㎡)이다.",
+   "original_text": null,
+   "value": "약 87만㎡",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://inari.jp/about/faq/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c19",
+   "field": "highlight",
+   "text": "현재 약 1만 기의 도리이가 산 참배로 전체에 늘어서 있다.",
+   "original_text": null,
+   "value": "약 1만 기",
+   "verdict": "verified",
+   "verify_note": "",
+   "sources": [
+    {
+     "url": "https://inari.jp/about/faq/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c20",
+   "field": "highlight",
+   "text": "이나리산은 히가시야마 36봉 가운데 가장 남쪽에 있는 해발 233m의 영봉으로, 세 봉우리가 서쪽에서 동쪽으로 점점 높아진다.",
+   "original_text": "이나리산은 해발 233m의 영산으로 산 전체가 신역이다.",
+   "value": "233m",
+   "verdict": "corrected",
+   "verify_note": "233m is confirmed; the cited page does not say the whole mountain is sacred ground (神域)",
+   "sources": [
+    {
+     "url": "https://inari.jp/trip/map01/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c21",
+   "field": "highlight",
+   "text": "누문은 1589년 도요토미 히데요시의 조영으로 전해져 왔다.",
+   "original_text": null,
+   "value": "1589",
+   "verdict": "verified",
+   "verify_note": "a 天正17年 ink inscription found during the 1973 repair confirmed the tradition",
+   "sources": [
+    {
+     "url": "https://inari.jp/trip/map01/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-c22",
+   "field": "tip",
+   "text": "교토시관광협회 교토관광Navi의 관광 쾌적도 예측 데이터와 표참배로·뒷참배로 라이브 카메라로 혼잡을 미리 확인할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "live cameras show the area near each approach entrance",
+   "sources": [
+    {
+     "url": "https://inari.jp/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  },
+  {
+   "cid": "r1-b12-s1",
+   "field": "location.coordinates",
+   "text": "OSM 좌표(伏見稲荷大社 本殿): 34.96714, 135.77324. 참고로 OSM 경내 전체(landuse) 중심점 34.96752, 135.77971은 본전에서 동쪽으로 약 600m 떨어져 있으므로 본전 좌표를 쓴다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://nominatim.openstreetmap.org/search?q=伏見稲荷大社 本殿&format=json",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "r1-b12"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "r1-b12",
+   "text": "Keihan Fushimi-Inari Station walk time: official access page says 5 min, JNTO (spot/1128) says about 7 min"
+  },
+  {
+   "run": "r1-b12",
+   "text": "Official request page carries its rule date 令和4年1月1日 (2022-01-01, over 12 months old), but the 2026-09-07 notice links to it and still applies those rules"
+  },
+  {
+   "run": "r1-b12",
+   "text": "Official top page still leads with Reiwa 8 (2026) New Year notices (opening hours and parking for Jan 1 to 7); these are past-season, not current operating hours"
+  },
+  {
+   "run": "r1-b12",
+   "text": "fees, grounds hours, parking fee and payment: not found on the official access, FAQ, top, English or prayer pages"
+  }
+ ],
  "legacy": {
   "source": "japan-travel/catalog.json",
   "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
@@ -173,6 +693,43 @@
  "meta": {
   "created": "2026-10-11",
   "updated": "2026-10-11",
-  "runs": []
+  "runs": [
+   {
+    "run": "r1-b12",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 22,
+    "verdicts": {
+     "verified": 21,
+     "corrected": 1,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 1
+    }
+   }
+  ]
+ },
+ "coord_candidates": [],
+ "open_questions": [
+  {
+   "topic": "parking.fee",
+   "note": "공식 페이지에 주차 요금·대수·운영시간 없음(참배 주차장 안내도 PDF 이미지 참조만)",
+   "run": "r1-b12"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'전국 이나리 신사의 총본사' — no claim covers this (the Korean page and JNTO say it, but no claim was extracted)",
+   "'해발 233m의 이나리산 전체가 신역이며' — 'the whole mountain is sacred ground' is not supported (c20 corrected; c18 says only that Mt. Inari makes up most of the grounds)",
+   "'711년 진좌, 전국 이나리 신사의 총본사' — the '총본사' part has no claim",
+   "'이나리산 전체(233m)가 신역, 경내 약 87만㎡' — the '전체가 신역' part is not supported (c20 corrected)"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "r1-b12"
  }
 }

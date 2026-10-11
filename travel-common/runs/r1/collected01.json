@@ -1,0 +1,913 @@
+[
+ {
+  "key": "kr-seoul-national-museum-korea",
+  "name_ko": "국립중앙박물관",
+  "name_local": "국립중앙박물관",
+  "admin_region": "서울특별시 용산구",
+  "address": "서울특별시 용산구 서빙고로 137 (우 04383)",
+  "description": "국립중앙박물관은 서울 용산구 서빙고로 137에 있는 국립 박물관으로, 상설전시장은 누구나 무료로 볼 수 있다. 상설전시관은 7개 관 39개 실에 유물 9,884점을 전시한다. 수요일과 토요일은 21시까지 열고 나머지 요일은 17시 30분에 닫으며, 정원은 07시부터 22시까지 열려 있다. 지하철 경의중앙선 이촌역 2번 출구 방향 박물관 나들길로 이어지며 주차장은 지하 522대 규모의 관람객용 공간이 있지만 공간이 부족해 대중교통을 권한다. 정기휴실일에는 야외전시장만 열린다. 2026년 7월부터 일부 전시실이 개편으로 쉬고 있어 방문 전 확인이 필요하다.",
+  "highlights": [
+   "상설전시 무료 관람(유료 기획전시 제외)",
+   "수·토요일 야간 개관 21:00까지, 정원은 07:00~22:00",
+   "이촌역 2번 출구 방향 박물관 나들길로 연결",
+   "반가사유상 두 점을 함께 전시하는 사유의 방",
+   "3·6·9·12월 첫째 월요일은 상설전시관 휴실"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "박물관 주소는 서울특별시 용산구 서빙고로 137(용산동6가 168-6), 우편번호 04383이다.",
+    "value": "서울특별시 용산구 서빙고로 137",
+    "evidence": "04383 서울시 용산구 서빙고로 137 (용산동6가 168-6)",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0106010000.do?menuId=subway-map",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "hours",
+    "text": "월·화·목·금·일요일은 9:30~17:30(입장 마감 17:00)에 운영한다.",
+    "value": "Mon,Tue,Thu,Fri,Sun 09:30-17:30; last entry 17:00",
+    "evidence": "월, 화, 목, 금, 일요일: 9:30 – 17:30 (입장 마감: 17:00)",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "hours",
+    "text": "수요일과 토요일은 9:30~21:00까지 열며 입장 마감은 20:30이다.",
+    "value": "Wed,Sat 09:30-21:00; last entry 20:30",
+    "evidence": "수, 토요일: 9:30 – 21:00 (입장 마감: 20:30)",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "hours",
+    "text": "옥외 전시장(정원)은 오전 7시부터 오후 10시까지 관람할 수 있다.",
+    "value": "07:00-22:00",
+    "evidence": "옥외 전시장(정원)은 오전 7시부터 오후 10시까지 관람하실 수 있습니다.",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "hours",
+    "text": "입장 마감은 폐관 30분 전이고 폐관 유도는 폐관 10분 전부터 시작한다.",
+    "value": "입장마감 폐관 30분 전",
+    "evidence": "입장마감은 폐관 30분 전 완료. 폐관유도는 폐관 10분 전부터 실시.",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "hours",
+    "text": "어린이박물관은 월~일 9:30~17:20에 회차별 예약제로 운영한다.",
+    "value": "09:30-17:20, 회차별 예약제",
+    "evidence": "월~일요일 9:30~17:20 회차별 예약제 운영",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "closed_days",
+    "text": "2026년 휴관일은 1월 1일, 설날(2월 17일), 추석(9월 25일)이다.",
+    "value": "2026-01-01, 2026-02-17, 2026-09-25",
+    "evidence": "2026년 1월1일, 설날(2.17.화), 추석(9.25.금)",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "closed_days",
+    "text": "매년 3·6·9·12월 첫째 월요일은 상설전시관과 특별전시실 1·2가 휴실하고 야외전시장은 정상 개관한다.",
+    "value": "3,6,9,12월 첫째 월요일 휴실",
+    "evidence": "정기휴실일: 매년 3월, 6월, 9월, 12월 (첫째 월요일)",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "closed_days",
+    "text": "2026년 휴실일은 6/1, 9/7, 12/7이며 2026년 3월은 휴실이 없다. 오늘(2026-10-11) 기준 남은 휴실일은 12월 7일이다.",
+    "value": "2026-06-01, 2026-09-07, 2026-12-07",
+    "evidence": "2026년 휴실일: 6.1.(월), 9.7.(월), 12.7.(월) (* 2026년 3월 휴실 없음)",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "fees",
+    "text": "상설전시관 관람은 무료이며 유료 특별전시만 입장권이 필요하다.",
+    "value": "상설전시 무료",
+    "evidence": "상설 전시장은 누구나 무료로 관람하실 수 있습니다.",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0201010000.do",
+      "type": "government",
+      "page_updated": null
+     },
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "fees",
+    "text": "어린이박물관과 무료 특별전시도 무료이다.",
+    "value": "무료",
+    "evidence": "상설전시관, 어린이박물관, 무료 특별전시 해당",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "fees",
+    "text": "유료 특별전시 관람권은 특별전시실 1 앞 매표소에서 팔고, 관람 종료 30분 전까지 판매한다.",
+    "value": "특별전시실 1 앞 매표소, 종료 30분 전까지",
+    "evidence": "특별전시실 1 앞 매표소 ... 관람 종료 30분 전까지",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "reservation",
+    "text": "초·중·고 학생 단체(30명 이상)는 사전 예약제이며 예약하지 않은 학생 단체는 입장할 수 없다. 일반 개인 관람은 예약 안내가 없다.",
+    "value": "학생단체 사전예약 필수",
+    "evidence": "사전예약하지 않은 학생단체는 입장 불가",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "access",
+    "text": "지하철 4호선·경의중앙선 이촌역 2번 출구 방향의 지하보도 '박물관 나들길'로 박물관 서문에 이어진다. 엘리베이터는 이촌역 1·2번 출구 방향 나들길에 있다.",
+    "value": "이촌역 2번 출구",
+    "evidence": "이촌역 2번출구 방향 '박물관 나들길'⇔박물관 서문",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0106010000.do?menuId=subway-map",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "access",
+    "text": "박물관 나들길은 07:00~23:00 개방하며 휴관일에는 열지 않는다.",
+    "value": "07:00-23:00",
+    "evidence": "나들길 개방시간 07:00 ~ 23:00 (휴관시 미개방)",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0106010000.do?menuId=subway-map",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "access",
+    "text": "간선버스 400번과 502번이 국립중앙박물관을 지난다.",
+    "value": "400, 502",
+    "evidence": "400번 ... 502번 ... 국립중앙박물관",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0106010000.do?menuId=bus-map",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "parking",
+    "text": "옥내주차장 754대(지하1층 관람객용 522대) 및 옥외 149대를 운영하지만 공간이 부족해 박물관은 대중교통 이용을 권한다.",
+    "value": "옥내 754 / 옥외 149",
+    "evidence": "주차공간이 부족하오니 관람객께서는 대중교통(버스,지하철)을 이용해 주시기 바랍니다.",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "parking",
+    "text": "승용차(15인승 이하) 주차요금은 기본 60분 1,000원, 초과 10분당 500원, 1일 최대 30,000원(06:00~23:00)이다.",
+    "value": "1,000원/60분; +500원/10분; 일 최대 30,000원",
+    "evidence": "승용차(15인승 이하) 1,000원 매 10분당 500원 30,000원",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "parking",
+    "text": "경차와 친환경(전기·하이브리드·수소) 차량은 요금이 즉시 감면되며, 다자녀 가족 등은 50%·30% 할인 대상이다.",
+    "value": null,
+    "evidence": "경차, 환경친화적 차량의 경우, 주차요금 즉시 감면 적용",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "payment",
+    "text": "주차요금은 전자주차관제시스템으로 자동 부과되며 지하주차장 무인정산기를 쓰면 출차가 빠르다.",
+    "value": "무인정산기",
+    "evidence": "전자주차관제시스템으로 요금이 자동부과되며 지하주차장의 무인정산기",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "caution",
+    "text": "음식물과 안내견 외 반려동물 반입 금지, 플래시·삼각대·셀카봉·짐벌 촬영 금지, 바퀴 달린 신발 입장 불가, 배낭은 1층 물품보관함에 보관해야 한다.",
+    "value": null,
+    "evidence": "플래시/삼각대/셀카봉/짐벌 등을 이용한 촬영과 상업적 용도를 위한 촬영은 금지",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "caution",
+    "text": "2024년 6월 11일부터 보안검색대에서 소지품을 확인한다.",
+    "value": null,
+    "evidence": "2024.6.11.부터 보안검색대를 통해 소지품 확인 등이 이루어지고 있으니",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "caution",
+    "text": "2026-07-06~2027-01-28 동안 3층 조각·공예관 불교조각실·금속공예실 및 2층 불교회화실·목칠공예실 등이 휴실한다. 청자실(303호)과 분청사기·백자실(304호), 서화실 202-1·2는 관람 가능하다.",
+    "value": "2026-07-06~2027-01-28",
+    "evidence": "불교조각실(301호)/금속공예실(302호) ... 2026. 7. 6.(월) ~ 2027. 1. 28.(목)",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0201010000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "description",
+    "text": "상설전시장은 7개 관 39개 실에 유물 9,884점을 전시한다.",
+    "value": "7관 39실 9,884점",
+    "evidence": "총 7개의 관과 39개의 실로 구성되어 9,884점의 유물",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0201010000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "highlight",
+    "text": "2층 사유의 방에는 국보 반가사유상 두 점이 나란히 전시되어 있다.",
+    "value": null,
+    "evidence": "국보 반가사유상 두 점이 나란히 전시된 공간",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0201010000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "tip",
+    "text": "상설전시관 3층에는 세계문화관(중국·일본·중앙아시아·인도·동남아시아)이 있다.",
+    "value": null,
+    "evidence": "중국, 일본, 중앙아시아, 인도•동남아시아 등 세계 각 지역의 다양한 문화",
+    "sources": [
+     {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0201010000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "duration",
+    "reason": "공식 페이지에 권장 관람 소요시간 안내를 찾지 못함"
+   },
+   {
+    "field": "language",
+    "reason": "한국어 오디오가이드·해설 안내 페이지는 찾지 못함(누리집은 영·일·중 언어 전환 제공이 확인되나 현장 한국어 가이드 정보는 없음)"
+   },
+   {
+    "field": "payment.admission",
+    "reason": "유료 특별전시 매표소의 결제수단 안내를 찾지 못함"
+   },
+   {
+    "field": "parking.entrance",
+    "reason": "주차장 가는 길 상세(2026년 7월부터 용산어린이정원 주차장 진입 가능)는 지도 이미지 중심이라 경로를 문장으로 확인하지 못함"
+   }
+  ]
+ },
+ {
+  "key": "kr-gyeonggi-everland",
+  "name_ko": "에버랜드",
+  "name_local": "에버랜드",
+  "admin_region": "경기도 용인시 처인구",
+  "address": null,
+  "description": "에버랜드는 경기도 용인시에 있는 테마파크다. 공식 누리집은 자바스크립트로 그려지고 운영시간·요금·주차 안내 본문이 서버 응답으로 열리지 않아, 이 기록에서 공식 근거로 확인한 내용은 제한적이다. 확인된 것은 운영사가 제공하는 셀렉트 투어 예약 상품으로, 정문 발레파킹, 정문 게이트 우선 입장, 에버랜드 이용권, 어트랙션 Q-PASS 쿠폰 5매가 묶여 있다. 이 상품은 방문일 기준 30일 전부터 2일 전까지 예약할 수 있고 1팀 최대 4명이다. 일반 입장권 요금, 운영시간, 일반 주차 요금은 방문 전에 공식 누리집이나 앱에서 직접 확인해야 한다.",
+  "highlights": [
+   "셀렉트 투어: 발레파킹+우선입장+이용권+Q-PASS 5매 패키지",
+   "셀렉트 투어는 방문 30일 전~2일 전 예약, 1팀 4명",
+   "판다월드 우선 입장은 11시 이후 가능",
+   "실시간 주차 혼잡 상태를 공식 API가 제공(정문·발레·일반)"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "reservation",
+    "text": "셀렉트 투어는 방문 예정일 D-30~D-2까지 사전 예약하며 선착순으로 조기 마감될 수 있다.",
+    "value": "D-30~D-2",
+    "evidence": "방문 예정일 기준 D-30일~D-2일까지 예약 가능합니다.",
+    "sources": [
+     {
+      "url": "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date=",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "reservation",
+    "text": "셀렉트 투어는 1팀 최대 4명, 최소 2인 결제, 성인 보호자 1명 이상 동행이 필요하다.",
+    "value": "2~4명",
+    "evidence": "1팀당 예약 가능 인원은 4명입니다.",
+    "sources": [
+     {
+      "url": "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date=",
+      "type": "operator"
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "parking",
+    "text": "셀렉트 투어에는 정문 가까이 발레파킹 1대와 정문 게이트 우선 입장, 이용권, Q-PASS 쿠폰(1인 5매)이 포함된다.",
+    "value": null,
+    "evidence": "발레파킹(1대) 만차에도 걱정 없이! 정문 가까이에 주차하고",
+    "sources": [
+     {
+      "url": "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date=",
+      "type": "operator"
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "fees",
+    "text": "셀렉트 투어 요금은 예약 일자별로 다르고 대인·소인 공통이며 36개월 미만 영유아는 요금에 포함되지 않는다.",
+    "value": null,
+    "evidence": "36개월 미만 영/유아는 셀렉트투어 요금에 포함되지 않습니다.",
+    "sources": [
+     {
+      "url": "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date=",
+      "type": "operator"
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "caution",
+    "text": "셀렉트 투어는 방문 2일 전까지 취소하면 100% 환불, 1일 전 90%, 당일 취소·노쇼는 환불 불가이며 우천 등 기상 사유 환불도 안 된다.",
+    "value": "D-2 100%; D-1 90%; 당일 0%",
+    "evidence": "방문 당일 취소 및 노쇼: 결제 금액 환불 불가",
+    "sources": [
+     {
+      "url": "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date=",
+      "type": "operator"
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "caution",
+    "text": "판다월드 우선 입장은 11시 이후에만 가능하고, 어트랙션마다 신장 제한과 운영시간이 다르다.",
+    "value": "11:00 이후",
+    "evidence": "판다월드/세컨하우스 우선 입장은 11시 이후부터 가능합니다.",
+    "sources": [
+     {
+      "url": "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date=",
+      "type": "operator"
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "caution",
+    "text": "공식 실시간 API가 정문 주차장·정문 발레·일반 주차장의 혼잡 상태(예: Full, Possibility)를 제공한다(조회 시점 정문 만차, 일반 가능).",
+    "value": "실시간",
+    "evidence": "mainParkingInfo ... parkngStatusNm: Full; parkingInfo ... Possibility",
+    "sources": [
+     {
+      "url": "https://wwwapi.everland.com/api/v1/iam/information/resorts/parking",
+      "type": "operator",
+      "page_updated": "2026-10-11"
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "location",
+    "reason": "공식 페이지에서 도로명 주소를 확인하지 못함(누리집이 JS 렌더링, 정적 안내 페이지는 '시스템 에러' 반환). 입력 데이터의 주소만 있음"
+   },
+   {
+    "field": "hours",
+    "reason": "공식 운영시간 API(parkOpenTime, dailyOper)가 500 오류를 반환, 정적 페이지도 열리지 않음. 날짜별 시간은 공식 누리집·앱 확인 필요"
+   },
+   {
+    "field": "closed_days",
+    "reason": "공식 휴무 정보(closed API) 500 오류로 확인 불가"
+   },
+   {
+    "field": "fees",
+    "reason": "일반 입장권 요금표를 공식 페이지에서 열지 못함. 블로그·뉴스는 가격이 서로 달라 근거로 쓰지 않음"
+   },
+   {
+    "field": "parking.fee",
+    "reason": "일반 주차 요금은 공식 페이지에서 확인하지 못함(서문 주차장은 가든패스 회원 사전예약 상품이라는 안내만 확인)"
+   },
+   {
+    "field": "access",
+    "reason": "대중교통·자가용 이용방법 공식 본문을 열지 못함"
+   },
+   {
+    "field": "duration",
+    "reason": "공식 소요시간 안내 없음"
+   },
+   {
+    "field": "payment",
+    "reason": "공식 결제수단 안내 확인 못함"
+   },
+   {
+    "field": "language",
+    "reason": "한국어 지원은 한국 업체지만 공식 근거 페이지를 확인하지 못함"
+   }
+  ]
+ },
+ {
+  "key": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name_ko": "순천만습지·국가정원",
+  "name_local": "순천만습지·국가정원",
+  "admin_region": "전남광주통합특별시 순천시",
+  "address": "전남광주통합특별시 순천시 순천만길 513-25 (순천만습지 주차장 기준; 이전 표기 전라남도 순천시)",
+  "description": "순천만습지는 순천시가 운영하며 개인 성인 입장료 10,000원, 청소년·군인 7,000원, 어린이 5,000원이다. 11~2월 08~17시, 3~4월·9~10월 08~18시, 5~8월 08~19시에 매표하고 관람은 입장 마감 1시간 뒤까지 가능하다. 국가정원 입장권으로 7km 떨어진 습지까지 당일 관람할 수 있다. 습지 주차장은 승용차 3,000원이고 국가정원 주차장은 무료다. 순천역에서 66번 버스로 약 35분이며, 지정 탐방로만 걸을 수 있고 반려동물과 자전거는 들어갈 수 없다. 탐방로에 조명이 없어 일몰 후 이동은 주의해야 한다.",
+  "highlights": [
+   "순천만국가정원 입장권으로 7km 거리의 순천만습지까지 당일 관람",
+   "순천역에서 66번 버스 약 35분, 승용차 16분(8.6km)",
+   "순천만국가정원 주차장 무료, 습지 승용차 3,000원",
+   "순천시 관광지 통합입장권(1박 2일) 개인 성인 12,000원",
+   "매표소 앞에서 유모차·휠체어 대여"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "순천만습지 주소는 전남광주통합특별시 순천시 순천만길 513-25이며 전화는 061-749-6052이다(이전 표기: 전라남도 순천시).",
+    "value": "순천만길 513-25",
+    "evidence": "전남광주통합특별시 순천시 순천만길 513-25 전화 061-749-6052",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0006/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "hours",
+    "text": "순천만습지 매표(입장)는 11~2월 08:00~17:00, 3~4월·9~10월 08:00~18:00, 5~8월 08:00~19:00이다.",
+    "value": "11-2월 17:00; 3-4,9-10월 18:00; 5-8월 19:00 (매표 마감)",
+    "evidence": "11~2월 08:00 ~ 17:00 ... 5~8월 08:00 ~ 19:00",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0001/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "hours",
+    "text": "습지 관람 시간은 08:00부터 입장 마감으로부터 1시간 뒤까지이다. 가로등이 마감 시각에 꺼지므로 일몰 30분 뒤까지만 이동 가능하다.",
+    "value": "입장마감+1시간",
+    "evidence": "08:00 ~ 입장마감으로부터 1시간",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0001/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "hours",
+    "text": "순천만국가정원의 운영 시간은 공식 사이트 데이터 기준 09:00~20:00(입장 마감 19:00)이며 이 데이터는 2025-10-01 갱신이라 계절에 따라 달라질 수 있다.",
+    "value": "09:00-20:00; 입장마감 19:00",
+    "evidence": "operatTimeS 09:00, operatTimeE 20:00, enterTimeE 19:00",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/garden/time/json/weatherLoad.do",
+      "type": "government",
+      "page_updated": "2025-10-01"
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "closed_days",
+    "text": "순천시 공지에 3월 운영 안내로 휴관일이 3월 30일(매달 마지막 주 월요일 휴관)로 적혀 있다. 해당 공지의 연도는 명시되지 않는다.",
+    "value": "매달 마지막 주 월요일",
+    "evidence": "휴관일 : 3월 30일 매달 마지막주 월요일 휴관",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "fees",
+    "text": "순천만습지 개인 입장료는 성인 10,000원, 청소년·군인 7,000원, 어린이 5,000원이다.",
+    "value": "10,000 / 7,000 / 5,000",
+    "evidence": "개인 10,000원 7,000원 5,000원",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0002/0001/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "fees",
+    "text": "단체(20인 이상)는 6,000/5,000/3,000원, 순천시민은 2,000/1,500원(어린이 무료)이다.",
+    "value": "단체 6,000/5,000/3,000; 시민 2,000/1,500/무료",
+    "evidence": "단체(20인이상) 6,000원 5,000원 3,000원",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0002/0001/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "fees",
+    "text": "연령 구분은 성인 19~64세, 청소년·군인 13~18세, 어린이 7~12세이다.",
+    "value": null,
+    "evidence": "성인(19세~64세) 청소년·군인(13세~18세) 어린이(7세~12세)",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0002/0001/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "fees",
+    "text": "입장권은 당일만 유효하며 국가정원 입장권으로 7km 떨어진 순천만습지까지 볼 수 있다. 습지 입장권으로 국가정원에 입장할 때는 입장권을 제시해야 한다.",
+    "value": null,
+    "evidence": "순천만국가정원 입장권으로 순천만습지까지 관람할 수 있습니다.(7km 거리)",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0002/0001/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "fees",
+    "text": "6세 이하와 65세 이상, 등록 장애인, 국가유공자 등은 무료이며 증빙이 없으면 정상 요금이 부과된다.",
+    "value": null,
+    "evidence": "만6세 이하 및 만65세 이상인자로 주민등록증 또는 그밖에 연령을 확인할 수 있는 증명서",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0002/0002/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "fees",
+    "text": "순천시 관광지 통합입장권(1박 2일)은 개인 성인 12,000원, 청소년·군인 8,500원, 어린이 5,500원이다.",
+    "value": "12,000 / 8,500 / 5,500",
+    "evidence": "개인 12,000원 8,500원 5,500원",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0002/0001/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "fees",
+    "text": "야간권은 여름 물빛축제·겨울 별빛축제 등 야간 연장 운영 기간에만 판매하며, 국가정원 야간 요금은 성인 5,000원, 청소년·군인 3,500원, 어린이 2,500원이다.",
+    "value": "야간 5,000/3,500/2,500",
+    "evidence": "야간권은 야간 연장 운영 기간(여름 물빛축제, 겨울 별빛축제) 동안 판매",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0002/0001/",
+      "type": "government",
+      "page_updated": null
+     },
+     {
+      "url": "https://scbay.suncheon.go.kr/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "fees",
+    "text": "재입장은 1일 1회 가능하며 나갈 때 출구에서 도장을 받아야 한다.",
+    "value": null,
+    "evidence": "재입장은 1일 1회 가능하며, 나가실때 출구에서 도장을 받아야 합니다.",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0002/0001/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "parking",
+    "text": "순천만국가정원 주차장은 무료이고, 순천만습지 주차장은 승용(15인승 이하) 3,000원, 중형 4,000원, 대형 5,000원, 이륜차 500원이다. 경차는 50% 경감.",
+    "value": "국가정원 무료; 습지 3,000/4,000/5,000/500원",
+    "evidence": "순천만국가정원 무료 ... 소 형 3,000원",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0002/0003/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "access",
+    "text": "순천역·종합버스터미널에서 66번 시내버스로 순천만습지 정류장에 간다. 순천역 출발 약 35분, 터미널 출발 약 40분 걸린다.",
+    "value": "66번; 순천역 35분; 터미널 40분",
+    "evidence": "순천역 정류장 ... 66번 버스 승차 ... 소요시간 : 약 35분 소요",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0006/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "access",
+    "text": "승용차로 순천역에서 16분(8.6km), 시외버스터미널에서 15분(8.5km), 여수공항에서 23분(20.4km)이다.",
+    "value": "16/15/23분",
+    "evidence": "소요시간 23분(20.4km) 소요시간 15분(8.5km) 소요시간 16분(8.6km)",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0006/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "access",
+    "text": "66번 버스는 순천역·종합터미널에서 순천만까지 06:05~22:00 약 25분 간격으로 운행한다고 안내한다(터미널 출발 05:50~22:10 약 30회로도 안내되어 표기가 다름).",
+    "value": "06:05-22:00",
+    "evidence": "66번 ... 순천만 06:05~22:00( 약 25분 간격으로 운행)",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0006/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "caution",
+    "text": "지정된 길만 걸어야 하며(추락·뱀·벌 위험) 식물·생물 채집, 음식물 반입, 흡연, 음주가 금지된다.",
+    "value": null,
+    "evidence": "지정된 길만 관람합니다.(추락 및 뱀이나 벌의 공격 위험)",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0011/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "caution",
+    "text": "자전거, 반려동물, 드론, 전동 이동 장비는 출입할 수 없다.",
+    "value": null,
+    "evidence": "자전거는 출입할수 없습니다. 애완동물(반려동물)은 데리고 올 수 없습니다.",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0011/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "caution",
+    "text": "탐방로에 조명 시설이 없어 일몰 감상 후 귀가 시 사고에 주의해야 한다.",
+    "value": null,
+    "evidence": "탐방로 조명 시설이 없습니다.",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0011/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "tip",
+    "text": "매표소 앞에서 유모차(20개월 미만)와 휠체어를 대여할 수 있다.",
+    "value": null,
+    "evidence": "유모차(20개월 미만), 휠체어 대여 가능합니다. (매표소 앞)",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0011/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "tip",
+    "text": "용산전망대에는 음료·간식을 파는 곳이 없어 순천만쉼터에서 미리 챙겨 오르는 것이 좋다.",
+    "value": null,
+    "evidence": "용산전망대에 음료나 간식을 판매하는 곳이 없다는 점",
+    "sources": [
+     {
+      "url": "https://scbay.suncheon.go.kr/wetland/information/0003/",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "duration",
+    "reason": "공식 소요시간 안내를 찾지 못함"
+   },
+   {
+    "field": "reservation.admission",
+    "reason": "일반 입장권 사전 예약 필요 여부는 공식 페이지에 없음(체험프로그램 예약 메뉴만 존재, 세부 미확인)"
+   },
+   {
+    "field": "payment",
+    "reason": "입장권·주차 결제수단 안내를 찾지 못함(하나카드 결제 시 50% 할인 조건만 확인)"
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내·해설 외 지원 정보를 공식 페이지에서 확인하지 못함(누리집 구글 번역 안내만 있음)"
+   },
+   {
+    "field": "hours.conflict",
+    "reason": "국가정원 시간(09:00~20:00, API 2025-10-01 갱신)과 습지 계절 시간표(9~10월 08:00~18:00)는 서로 다른 시설이며, 국가정원의 계절별 공식 표는 열지 못함. 66번 버스 운행시간도 06:05~22:00과 05:50~22:10으로 같은 페이지 안에서 다름"
+   },
+   {
+    "field": "closed_days",
+    "reason": "휴관일 공지의 연도가 명시되지 않고 3월 안내 형태라 2026-10 현재 적용 여부를 확인하지 못함"
+   },
+   {
+    "field": "access.garden",
+    "reason": "국가정원 쪽 정문 주소·교통은 이 수집에서 확인하지 못함(습지 기준 정보만 수집)"
+   }
+  ]
+ }
+]
