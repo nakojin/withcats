@@ -1,0 +1,741 @@
+{
+ "records": [
+  {
+   "id": "jp-east-otaru-canal",
+   "claims": [
+    {
+     "claim": "Location: Otaru City, Hokkaido; about 10 min walk from JR Otaru Stn",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://otaru.gr.jp/shop/otarucanal"
+    },
+    {
+     "claim": "Stone warehouses and old commercial buildings along the canal now house restaurants and shops",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.japan.travel/en/spot/2161/"
+    },
+    {
+     "claim": "Gas lamps and building lights come on in the evening",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.japan.travel/en/spot/2161/"
+    },
+    {
+     "claim": "Canal walk is open all year",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://otaru.gr.jp/shop/otarucanal"
+    },
+    {
+     "claim": "Gas lamps are lit from sunset to 24:00",
+     "verdict": "correct",
+     "correct_value": "Correct for the main canal walkway. North Canal lamps run on a light sensor, 18:00-04:00 in Jun-Aug. Lamps light from 15:00 during the Snow Light Path festival. Warehouse lighting runs from sunset to 22:30.",
+     "source": "https://otaru.gr.jp/shop/otarucanal"
+    },
+    {
+     "claim": "Day cruises depart 10:00-17:00, last about 40 min, meet 15 min before",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "http://otaru.cc/"
+    },
+    {
+     "claim": "Night cruises depart 17:30, 18:00, 18:30 and 19:00",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "http://otaru.cc/"
+    },
+    {
+     "claim": "Day cruise fares 1,800 / 500 / 500 yen; one infant free per adult",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "http://otaru.cc/"
+    },
+    {
+     "claim": "Night cruise fares 2,000 / 500 / 500 yen, tax included, shared boat",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "http://otaru.cc/"
+    },
+    {
+     "claim": "Cruise is closed 12/31 and 1/1",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://otaru.gr.jp/shop/otaru-canal-cruise"
+    },
+    {
+     "claim": "Boats run with a winter roof from December 1",
+     "verdict": "correct",
+     "correct_value": "Shown only in an Instagram post embedded on the operator page, with no year given",
+     "source": "http://otaru.cc/"
+    },
+    {
+     "claim": "Daily operating status is updated around 9:00",
+     "verdict": "unverifiable",
+     "correct_value": "The page shows a daily status but gives no update time",
+     "source": null
+    },
+    {
+     "claim": "The cruise is a separate paid product from the canal walk",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://otaru.gr.jp/shop/otaru-canal-cruise"
+    },
+    {
+     "claim": "The official page states no fee for the canal walk",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://otaru.gr.jp/shop/otarucanal"
+    }
+   ],
+   "missing_for_guide": [
+    "Access from Sapporo or New Chitose (JR rapid about 30-35 min from Sapporo) and the 10-min walk from Otaru Stn",
+    "Canal length (1,140 m) and completion year (1923)",
+    "Time needed for the walk",
+    "Cruise booking method (online or same day), boarding point (Minatomachi 5-4), card payment",
+    "Cruise has English/Chinese support but Korean support is not stated",
+    "Parking (paid; Otaru sightseeing lot with 1 hour free)",
+    "Snow Light Path festival period in February",
+    "Cruise cancellation in bad weather"
+   ],
+   "overall": "Accurate and well sourced. One unsupported detail (9 a.m. status update). The gas-lamp hours should note the North Canal exception. Thin on how to get there."
+  },
+  {
+   "id": "WEST-021",
+   "claims": [
+    {
+     "claim": "The main building is an Important Cultural Property",
+     "verdict": "unverifiable",
+     "correct_value": null,
+     "source": null
+    },
+    {
+     "claim": "Preservation repairs finished in December 2024",
+     "verdict": "correct",
+     "correct_value": "Repairs ran from January 2019 to December 20, 2024",
+     "source": "https://www.dogo.mom/onsen/honkan"
+    },
+    {
+     "claim": "Kami-no-Yu bath only: 6:00-23:00, last entry 22:30, 60 min",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.dogo.mom/onsen/honkan"
+    },
+    {
+     "claim": "Bath only: 700 yen age 12+, 350 yen ages 2-11",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.dogo.mom/onsen/honkan"
+    },
+    {
+     "claim": "Kami-no-Yu 2F lounge course 1,300 yen",
+     "verdict": "correct",
+     "correct_value": "1,300 yen adult / 650 yen child; 6:00-22:00, last entry 21:00",
+     "source": "https://www.dogo.mom/onsen/honkan"
+    },
+    {
+     "claim": "Tama-no-Yu 2F lounge course 2,000 yen",
+     "verdict": "correct",
+     "correct_value": "2,000 yen adult / 1,000 yen child; 6:00-22:00, last entry 21:00",
+     "source": "https://www.dogo.mom/onsen/honkan"
+    },
+    {
+     "claim": "Yushinden guided tour 500 yen for adults",
+     "verdict": "correct",
+     "correct_value": "500 yen adult / 250 yen ages 6-11; 9:00-17:00, last entry 16:30, 30 min",
+     "source": "https://www.dogo.mom/onsen/honkan"
+    },
+    {
+     "claim": "The Yushinden tour is a separate tour, not a bathing product",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.dogo.mom/onsen/honkan"
+    },
+    {
+     "claim": "Cut-off times and reservation rules differ by course",
+     "verdict": "correct",
+     "correct_value": "The bath-only course takes no reservations. Private rooms need an online booking by 22:00 the day before, or a same-day phone booking.",
+     "source": "https://www.dogo.mom/onsen/honkan"
+    },
+    {
+     "claim": "Rental private rooms have no private bath",
+     "verdict": "unverifiable",
+     "correct_value": null,
+     "source": null
+    },
+    {
+     "claim": "Location: Matsuyama City, Ehime",
+     "verdict": "unverifiable",
+     "correct_value": null,
+     "source": null
+    }
+   ],
+   "missing_for_guide": [
+    "Tama-no-Yu 3F private room (2,500 yen, 90 min) and the Shirasagi and Hisho private rooms with their prices and slots",
+    "Child prices for the lounge courses",
+    "Phone number for reservations (089-921-5141)",
+    "Access (Iyotetsu tram to Dogo Onsen Stn)",
+    "Closed days (not stated on the opened page)",
+    "Bathing etiquette (tattoos, towels, soap) and whether towels are included",
+    "Payment methods",
+    "Whether Korean-language support exists",
+    "Crowding and recommended times"
+   ],
+   "overall": "All checked fees and hours match the official page. Three claims have no primary source, including the Important Cultural Property status. Coverage of the private-room courses is incomplete."
+  },
+  {
+   "id": "central-035",
+   "claims": [
+    {
+     "claim": "The principal image is the Vairocana Great Buddha",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.visitnara.jp/lists-and-stories/story/explore-naras-world-heritage-sites/"
+    },
+    {
+     "claim": "Nandaimon Gate has Kongo Rikishi guardian statues",
+     "verdict": "correct",
+     "correct_value": "By Unkei and Kaikei, 12th century",
+     "source": "https://www.visitnara.jp/lists-and-stories/story/explore-naras-world-heritage-sites/"
+    },
+    {
+     "claim": "A site representing Nara-period Buddhism",
+     "verdict": "correct",
+     "correct_value": "Built in 752",
+     "source": "https://www.visitnara.jp/lists-and-stories/story/explore-naras-world-heritage-sites/"
+    },
+    {
+     "claim": "The Great Buddha Hall is a large wooden building",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.visitnara.jp/lists-and-stories/story/explore-naras-world-heritage-sites/"
+    },
+    {
+     "claim": "Hall hours: Apr-Oct 7:30-17:30, Nov-Mar 8:00-17:00",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.todaiji.or.jp/en/information/haikan/"
+    },
+    {
+     "claim": "800 yen for age 13+, 400 yen for ages 6-12",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.todaiji.or.jp/en/information/haikan/"
+    },
+    {
+     "claim": "Hall + Museum combination ticket 1,200 yen / 600 yen for children",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.todaiji.or.jp/en/information/haikan/"
+    },
+    {
+     "claim": "Hokke-do, Kaidan-do and the Museum each charge a separate fee",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.todaiji.or.jp/en/information/haikan/"
+    },
+    {
+     "claim": "Audio guide costs 500 yen extra, includes Korean, and has its own reception hours",
+     "verdict": "correct",
+     "correct_value": "Reception 10:00-17:00 (Apr-Oct), 10:00-16:30 (Nov-Mar)",
+     "source": "https://www.todaiji.or.jp/en/information/haikan/"
+    }
+   ],
+   "missing_for_guide": [
+    "Hours for Hokke-do and Kaidan-in (8:30-16:00) and the Museum (9:30-17:30 / 17:00, last entry 30 min before)",
+    "Fee for under-6s",
+    "Access (Kintetsu Nara Stn walk or bus) and time needed",
+    "Deer-park etiquette",
+    "Crowding and best time of day",
+    "Statue size (about 15 m), as a fact rather than editorial"
+   ],
+   "overall": "Fully accurate against official sources. Main gap is access and time needed."
+  },
+  {
+   "id": "WEST-042",
+   "claims": [
+    {
+     "claim": "Location: Motobu Town, Okinawa",
+     "verdict": "unverifiable",
+     "correct_value": null,
+     "source": null
+    },
+    {
+     "claim": "Exhibits run by floor from coral reef to Kuroshio to deep sea",
+     "verdict": "correct",
+     "correct_value": "3F Coral Reef, 2F Kuroshio, 1F Deep Sea",
+     "source": "https://churaumi.okinawa/guide/"
+    },
+    {
+     "claim": "Kuroshio Sea large tank",
+     "verdict": "correct",
+     "correct_value": "Tank capacity 7,500 m3",
+     "source": "https://churaumi.okinawa/area/the-kuroshio/"
+    },
+    {
+     "claim": "Hours 08:30-18:30, last entry 17:30",
+     "verdict": "correct",
+     "correct_value": "These are the normal hours. Hours were extended in spring and summer 2026, and those periods are over.",
+     "source": "https://churaumi.okinawa/guide/hour/"
+    },
+    {
+     "claim": "Last entry is 1 hour before closing",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://churaumi.okinawa/guide/hour/"
+    },
+    {
+     "claim": "Adults 2,180, high school 1,440, elementary and junior high 710 yen; under 6 free",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://churaumi.okinawa/guide/info/"
+    },
+    {
+     "claim": "No planned closures until 2027-03-31, except typhoons and emergencies",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://churaumi.okinawa/guide/hour/"
+    },
+    {
+     "claim": "Same-day re-entry is allowed if you keep your ticket",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://churaumi.okinawa/guide/info/"
+    },
+    {
+     "claim": "Park facilities nearby may close earlier than the aquarium",
+     "verdict": "correct",
+     "correct_value": "Okichan Theater and the dolphin, turtle and manatee areas normally close at 17:30",
+     "source": "https://churaumi.okinawa/guide/hour/"
+    }
+   ],
+   "missing_for_guide": [
+    "Access from Naha (about 2 h by car or expressway bus) and parking in Ocean Expo Park",
+    "Dolphin show and feeding schedules",
+    "Time needed",
+    "Group and annual-pass prices; ID may be checked for student fares",
+    "Typhoon-season planning",
+    "Whether Korean-language support exists",
+    "Payment methods"
+   ],
+   "overall": "Accurate. Only the town location lacked a primary source. Weak on transport, which matters most for this remote site."
+  },
+  {
+   "id": "WEST-035",
+   "claims": [
+    {
+     "claim": "The lake is fed by both clear spring water and hot-spring water",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.city.yufu.oita.jp/kankou/kankou-2/kankou_cate1_1/kinrinko"
+    },
+    {
+     "claim": "Mist forms on the surface on cold mornings",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.city.yufu.oita.jp/kankou/kankou-2/kankou_cate1_1/kinrinko"
+    },
+    {
+     "claim": "Best for mist: early mornings in autumn and winter",
+     "verdict": "unverifiable",
+     "correct_value": "The official page mentions only early winter mornings, not autumn",
+     "source": "https://www.city.yufu.oita.jp/kankou/kankou-2/kankou_cate1_1/kinrinko"
+    },
+    {
+     "claim": "Name comes from fish scales looking golden at sunset",
+     "verdict": "correct",
+     "correct_value": "Named by Meiji-era scholar Mori Kuso",
+     "source": "https://www.city.yufu.oita.jp/kankou/kankou-2/kankou_cate1_1/kinrinko"
+    },
+    {
+     "claim": "No official walking hours or fee are published",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.city.yufu.oita.jp/kankou/kankou-2/kankou_cate1_1/kinrinko"
+    },
+    {
+     "claim": "Location: Yufu City, Oita (Yufuin)",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.city.yufu.oita.jp/kankou/kankou-2/kankou_cate1_1/kinrinko"
+    }
+   ],
+   "missing_for_guide": [
+    "Access (walk from JR Yufuin Stn, about 20-30 min, not verified) and parking",
+    "Time needed",
+    "The water stays warm all year (stated on the official page)",
+    "Photo/filming permission rules (the city refers requests to the landowner)",
+    "Inquiry phone 0977-84-3111",
+    "Toilets and winter footwear advice"
+   ],
+   "overall": "Accurate. The autumn mist season goes beyond the official source. Very thin on practical information."
+  },
+  {
+   "id": "WEST-032",
+   "claims": [
+    {
+     "claim": "Restoration has been ongoing since the 2016 earthquake",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://castle.kumamoto-guide.jp/info/"
+    },
+    {
+     "claim": "A special viewing passage exists",
+     "verdict": "correct",
+     "correct_value": "Special public viewing began in 2019",
+     "source": "https://castle.kumamoto-guide.jp/info/"
+    },
+    {
+     "claim": "Sep-Jun 9-17 (last entry 16); Jul-Aug 9-19 (last entry 18)",
+     "verdict": "correct",
+     "correct_value": "Last ascent of the keep is 16:30 / 18:30. The Ninomaru ticket booth closes at 16:00 all year.",
+     "source": "https://castle.kumamoto-guide.jp/info/"
+    },
+    {
+     "claim": "High school and older 800 yen, elementary and junior high 300 yen, preschool free",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://castle.kumamoto-guide.jp/info/"
+    },
+    {
+     "claim": "Closed December 29",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://castle.kumamoto-guide.jp/info/"
+    },
+    {
+     "claim": "Entrances and open areas change with construction and weather",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://castle.kumamoto-guide.jp/info/"
+    },
+    {
+     "claim": "Weekday and weekend entrances differ",
+     "verdict": "correct",
+     "correct_value": "Weekdays: south entrance only. Weekends and holidays: north or south.",
+     "source": "https://castle.kumamoto-guide.jp/info/"
+    },
+    {
+     "claim": "Store large luggage outside the paid area",
+     "verdict": "correct",
+     "correct_value": "No large lockers in the paid area. Wheeled luggage is banned in the keep.",
+     "source": "https://castle.kumamoto-guide.jp/info/"
+    },
+    {
+     "claim": "Check the rules on SNS posting of photos taken inside the keep",
+     "verdict": "correct",
+     "correct_value": "Personal use only. Posting or streaming exhibits is not allowed. Tripods and selfie sticks are banned.",
+     "source": "https://castle.kumamoto-guide.jp/info/"
+    },
+    {
+     "claim": "The keep has reopened to visitors",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://castle.kumamoto-guide.jp/info/"
+    }
+   ],
+   "missing_for_guide": [
+    "Combination tickets (with Wakuwaku-za 850 yen; with Kumamoto Museum 1,100 yen)",
+    "Access (tram to Kumamoto-jo/Shiyakusho-mae) and time needed",
+    "Ticket booth closing time (16:00)",
+    "Slippery surfaces when wet",
+    "Whether Korean-language support exists"
+   ],
+   "overall": "Fully accurate. A clear last-entry time for the ticket booth would help."
+  },
+  {
+   "id": "central-027",
+   "claims": [
+    {
+     "claim": "Central shrine of Inari faith; prayers for prosperity and business",
+     "verdict": "correct",
+     "correct_value": "Head shrine of about 30,000 Inari shrines; founded 711",
+     "source": "https://inari.jp/en/"
+    },
+    {
+     "claim": "Main hall worship at the foot of the mountain",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://inari.jp/en/"
+    },
+    {
+     "claim": "A mountain path lined with vermilion torii",
+     "verdict": "correct",
+     "correct_value": "About 10,000 torii; 2-3 h to tour the mountain",
+     "source": "https://www.japan.travel/en/spot/1128/"
+    },
+    {
+     "claim": "Stone altars on Mt. Inari",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.japan.travel/en/spot/1128/"
+    },
+    {
+     "claim": "JR Inari Stn is right in front; Keihan Fushimi-Inari Stn is a walk away",
+     "verdict": "correct",
+     "correct_value": "About 7 min walk from Keihan",
+     "source": "https://www.japan.travel/en/spot/1128/"
+    },
+    {
+     "claim": "The official English page lists no hours or fees",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://inari.jp/en/"
+    },
+    {
+     "claim": "Location: Kyoto City (Fushimi-ku)",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://inari.jp/en/"
+    }
+   ],
+   "missing_for_guide": [
+    "Admission is generally free (not stated on the opened official page)",
+    "Time needed (2-3 h for the full mountain, from JNTO)",
+    "Mt. Inari height (233 m)",
+    "Crowd timing",
+    "Lighting and safety on the mountain after dark",
+    "Whether Korean-language support exists"
+   ],
+   "overall": "Accurate. The useful JNTO numbers (time needed, walking minutes) were not carried into the record."
+  },
+  {
+   "id": "jp-east-sensoji",
+   "claims": [
+    {
+     "claim": "Route runs from the Kaminarimon lantern through Nakamise to the main hall",
+     "verdict": "correct",
+     "correct_value": "Lantern is just under 4 m tall and about 700 kg; Nakamise is about 250 m",
+     "source": "https://www.japan.travel/en/spot/1691/"
+    },
+    {
+     "claim": "Main hall enshrines Kannon; Hozomon and the five-story pagoda are central",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.japan.travel/en/spot/1691/"
+    },
+    {
+     "claim": "Evening illumination is a separate experience",
+     "verdict": "correct",
+     "correct_value": "Lit from sunset to about 23:00",
+     "source": "https://www.japan.travel/en/spot/1691/"
+    },
+    {
+     "claim": "Asakusa station exits differ by line",
+     "verdict": "correct",
+     "correct_value": "Ginza, Toei Asakusa, Tobu and Tsukuba Express lines; about 5 min walk from each",
+     "source": "https://www.japan.travel/en/spot/1691/"
+    },
+    {
+     "claim": "Main hall 06:00-17:00 (opens 06:30 in Oct-Mar)",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.senso-ji.jp/visit/"
+    },
+    {
+     "claim": "Hours for other halls are available on inquiry",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.senso-ji.jp/visit/"
+    },
+    {
+     "claim": "Phone 03-3842-0181, 9:00-16:30, closed Sundays and holidays",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.senso-ji.jp/visit/"
+    },
+    {
+     "claim": "No entry fee is stated; only prayer offerings (shinokin) are listed",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.senso-ji.jp/visit/"
+    },
+    {
+     "claim": "Location: Taito-ku, Tokyo",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.japan.travel/en/spot/1691/"
+    }
+   ],
+   "missing_for_guide": [
+    "The grounds are open at all hours and free (commonly known, but not stated on the official page)",
+    "Nakamise shop hours",
+    "Founding legend (628)",
+    "Major festivals (Sanja Matsuri) and New Year crowds",
+    "Time needed",
+    "Whether Korean-language support exists"
+   ],
+   "overall": "Accurate. The fees field is null where the guide should say plainly that there is no admission fee."
+  },
+  {
+   "id": "central-032",
+   "claims": [
+    {
+     "claim": "Rebuilt in 1931 with citizen donations",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.osaka-info.jp/en/spot/osaka-castle-main-keep/"
+    },
+    {
+     "claim": "Five tiers outside, eight floors inside",
+     "verdict": "correct",
+     "correct_value": "55 m tall",
+     "source": "https://www.osaka-info.jp/en/spot/osaka-castle-main-keep/"
+    },
+    {
+     "claim": "Observation deck on the 8th floor",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.osaka-info.jp/en/spot/osaka-castle-main-keep/"
+    },
+    {
+     "claim": "Golden shachi and tiger ornaments",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.osaka-info.jp/en/spot/osaka-castle-main-keep/"
+    },
+    {
+     "claim": "The keep is a reconstruction, not the original Toyotomi keep",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.osaka-info.jp/en/spot/osaka-castle-main-keep/"
+    },
+    {
+     "claim": "15-20 min walk from JR Morinomiya or Osakajokoen Stn",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.osaka-info.jp/en/spot/osaka-castle-main-keep/"
+    },
+    {
+     "claim": "Open 9:00-18:00, last entry 17:30",
+     "verdict": "correct",
+     "correct_value": "In effect since April 1, 2025",
+     "source": "https://www.osakacastle.net/guide/"
+    },
+    {
+     "claim": "Closed 12/28-1/1",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.osakacastle.net/guide/"
+    },
+    {
+     "claim": "Adults 1,200 yen; high school and university 600 yen with proof; junior high and under free with age proof",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.osakacastle.net/guide/"
+    },
+    {
+     "claim": "Overseas students need an ISIC or similar proof",
+     "verdict": "correct",
+     "correct_value": "An ISIC is required; overseas children aged 15 and under show a passport",
+     "source": "https://www.osakacastle.net/guide/"
+    },
+    {
+     "claim": "The ticket line may close before last entry",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.osakacastle.net/guide/"
+    },
+    {
+     "claim": "Before the 2025 revision: 600 yen and 17:00 closing",
+     "verdict": "unverifiable",
+     "correct_value": "The current official page gives the revision date but not the old values",
+     "source": null
+    }
+   ],
+   "missing_for_guide": [
+    "Time needed",
+    "Payment methods (cash, card, e-money, QR all accepted)",
+    "Free entry for Osaka residents 65+ and disability handbook holders",
+    "Combo tickets discontinued (history museum Dec 2024, water bus Mar 2025)",
+    "Elevator queues and accessibility",
+    "Whether Korean-language support exists"
+   ],
+   "overall": "Accurate and current after the 2025 price change. The old-price aside is unsourced and could be dropped."
+  },
+  {
+   "id": "WEST-026",
+   "claims": [
+    {
+     "claim": "Enshrines Sugawara no Michizane as god of learning, culture and the arts",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.city.dazaifu.lg.jp/site/kanko/11449.html"
+    },
+    {
+     "claim": "Plum trees and large camphor trees",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.dazaifutenmangu.or.jp/en/plan/faq/"
+    },
+    {
+     "claim": "The Tobiume plum tree",
+     "verdict": "unverifiable",
+     "correct_value": "Not mentioned in either source opened",
+     "source": null
+    },
+    {
+     "claim": "Plum blossoms from late January to early March, varying by year",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.dazaifutenmangu.or.jp/en/plan/faq/"
+    },
+    {
+     "claim": "Opens 06:00-06:30; closes 18:30 (Dec-Mar), 19:30 (Jun-Aug), 19:00 otherwise",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.dazaifutenmangu.or.jp/en/plan/faq/"
+    },
+    {
+     "claim": "Grounds free; museums charge separately",
+     "verdict": "correct",
+     "correct_value": "Museum last entry is 16:00; fee amounts are not stated",
+     "source": "https://www.dazaifutenmangu.or.jp/en/plan/faq/"
+    },
+    {
+     "claim": "Bring cash for amulets",
+     "verdict": "correct",
+     "correct_value": "Amulet counters accept cash only",
+     "source": "https://www.dazaifutenmangu.or.jp/en/plan/faq/"
+    },
+    {
+     "claim": "Use the lockers at Dazaifu Stn; the shrine has no luggage storage",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.dazaifutenmangu.or.jp/en/plan/faq/"
+    },
+    {
+     "claim": "Location: Dazaifu City, Fukuoka; 5 min walk from the station",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.city.dazaifu.lg.jp/site/kanko/11449.html"
+    }
+   ],
+   "missing_for_guide": [
+    "Access from Fukuoka (Nishitetsu about 30 min; bus from Hakata about 45 min)",
+    "Museum fee amounts and last entry at 16:00",
+    "No parking; public transport recommended",
+    "Time needed",
+    "Free Wi-Fi",
+    "Kyushu National Museum is about 5 min away",
+    "Whether Korean-language support exists"
+   ],
+   "overall": "Accurate. Only the Tobiume mention lacked a primary source. Access is missing even though the FAQ provides it."
+  }
+ ],
+ "summary": {
+  "claims_total": 96,
+  "correct": 88,
+  "incorrect": 0,
+  "outdated": 0,
+  "unverifiable": 8,
+  "main_problems": [
+   "No incorrect or outdated facts were found. Every checked hour and fee matches the official pages as of 2026-10-11.",
+   "8 claims have no primary source: Otaru 9 a.m. status update, Dogo Important Cultural Property status, Dogo private rooms having no bath, Matsuyama and Motobu locations, Kinrinko autumn mist, Osaka pre-2025 prices, Dazaifu Tobiume.",
+   "Every record is missing time needed, and most are missing concrete public-transport access. Korean-language support is stated only for Todaiji.",
+   "Some records simplify the source and lose useful detail: Otaru North Canal lamp hours, Kumamoto ticket booth closing at 16:00, Dogo private-room courses, Dazaifu museum last entry at 16:00.",
+   "The hours_and_fees schema is inconsistent. Some records use hours/fees/conditions and others use a single details field. Sensoji has fees set to null where the guide should say there is no admission fee.",
+   "Useful facts that the cited sources already contain were left out: JNTO access times, the Osaka payment methods, and the Dazaifu parking advice."
+  ]
+ }
+}

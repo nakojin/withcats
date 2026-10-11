@@ -1,0 +1,523 @@
+{
+ "records": [
+  {
+   "id": "east-qd-01",
+   "claims": [
+    {
+     "claim": "Pier reaches into the sea with Huilan Pavilion (回澜阁) at its end",
+     "verdict": "correct",
+     "correct_value": "Official text says pavilion is at the south end; pier first built 1891, 440 m long",
+     "source": "https://www.qdseaside.cn/mobile/about.asp?id=1"
+    },
+    {
+     "claim": "Huilan Pavilion is octagonal",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.qdseaside.cn/mobile/about.asp?id=1"
+    },
+    {
+     "claim": "Qingdao Bay coastal scenery",
+     "verdict": "correct",
+     "correct_value": "Scenic area includes Qingdao Bay; Xiaoqingdao is visible from the pier",
+     "source": "https://www.qdseaside.cn/mobile/about.asp?id=1"
+    },
+    {
+     "claim": "Official text gives no opening hours",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.qdseaside.cn/mobile/about.asp?id=1"
+    },
+    {
+     "claim": "Pavilion interior opening is separate from walking on the pier (tip)",
+     "verdict": "unverifiable",
+     "correct_value": "Only secondary sources: pier open all day; pavilion about 9:00-17:00, closed Mondays. No primary source found",
+     "source": null
+    }
+   ],
+   "missing_for_guide": [
+    "1891 construction and 440 m length (on the official page but not used)",
+    "admission: pier free? pavilion fee?",
+    "public transport (nearest metro/bus)",
+    "tides, waves and weekend crowding",
+    "payment methods",
+    "access for wheelchairs and strollers"
+   ],
+   "overall": "Every checkable fact is correct, but the guide is very thin. The official page opened with curl but returned 503 to WebFetch, and it carries no operating information."
+  },
+  {
+   "id": "bj-tiananmen-square",
+   "claims": [
+    {
+     "claim": "Large square on Beijing's central axis, with the National Museum and Great Hall of the People beside it",
+     "verdict": "correct",
+     "correct_value": "From Tian'anmen Gate north to Zhengyangmen south; museum to the east, Great Hall to the west",
+     "source": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260325_4566110.html"
+    },
+    {
+     "claim": "Open 05:00-22:00",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260325_4566110.html"
+    },
+    {
+     "claim": "Free admission",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260325_4566110.html"
+    },
+    {
+     "claim": "Booked through channels such as the 天安门广场预约参观 mini program",
+     "verdict": "correct",
+     "correct_value": "Also Jingtong mini programs (WeChat/Alipay/Baidu), the Beijing Daily and Beijing Time apps, and a PC system",
+     "source": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260325_4566110.html"
+    },
+    {
+     "claim": "Square and Palace Museum reservations are separate",
+     "verdict": "correct",
+     "correct_value": "Palace Museum uses its own passport booking (intl.dpm.org.cn)",
+     "source": "https://english.beijing.gov.cn/12345hotline/faqs/all/202506/t20250620_4117980.html"
+    }
+   ],
+   "missing_for_guide": [
+    "foreigner booking with passport, and bringing the original passport (official page silent)",
+    "booking window in days and per-booking limits",
+    "flag-raising ceremony needs a separate time slot",
+    "Tian'anmen Gate tower is ticketed and booked separately",
+    "transport: Metro Line 1, Tian'anmen East/West stations (on the official page but omitted)",
+    "banned items and security-check queues",
+    "duration"
+   ],
+   "overall": "Accurate. Passport and booking-window rules are the key gap."
+  },
+  {
+   "id": "cd-panda-base",
+   "claims": [
+    {
+     "claim": "Combines research, conservation and public education",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.panda.org.cn/en/"
+    },
+    {
+     "claim": "Mar-Oct entry 07:30-12:00 / 12:00-17:00, clearance from 18:00; Nov-Feb 08:00-12:00 / 12:00-16:30, clearance from 17:30",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.panda.org.cn/en/service/ticket/"
+    },
+    {
+     "claim": "Adult ticket CNY 55",
+     "verdict": "correct",
+     "correct_value": "Adult (18-59) 55; student 27",
+     "source": "https://www.panda.org.cn/en/service/ticket/"
+    },
+    {
+     "claim": "Real-name booking opens 14 days ahead",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.panda.org.cn/en/service/ticket/"
+    },
+    {
+     "claim": "Bring the original ID used to book; passport is scanned at entry",
+     "verdict": "correct",
+     "correct_value": "A channel for visitors without the original ID also exists",
+     "source": "https://www.panda.org.cn/en/service/ticket/"
+    },
+    {
+     "claim": "Book via official WeChat or Trip.com and other channels the operator names",
+     "verdict": "correct",
+     "correct_value": "Also Meituan, Douyin, Tongcheng",
+     "source": "https://www.panda.org.cn/en/service/ticket/"
+    },
+    {
+     "claim": "Keep to the booked morning or afternoon session",
+     "verdict": "correct",
+     "correct_value": "Operator advises afternoon ticket holders not to arrive early",
+     "source": "https://www.panda.org.cn/en/service/ticket/"
+    },
+    {
+     "claim": "Chengdu base is distinct from Dujiangyan Panda Valley",
+     "verdict": "correct",
+     "correct_value": "Panda Valley has its own ticket and booking section on the operator site",
+     "source": "https://www.panda.org.cn/en/"
+    }
+   ],
+   "missing_for_guide": [
+    "free entry for ages 60+ and children 6 and under or under 1.3 m (60+ and children need no booking); student price",
+    "daily cap of 85,000 and sell-out risk",
+    "online payment only; refunds through the original channel (from 17:00 on the visit day, within 30 days)",
+    "warning about scalpers and paid fast-track services",
+    "address (1375 Panda Avenue) and transport (metro, shuttle bus)",
+    "duration",
+    "best feeding and activity times"
+   ],
+   "overall": "Strongest record. All operations facts match the operator. Price concessions, transport and refund rules could be added."
+  },
+  {
+   "id": "east-sh-01",
+   "claims": [
+    {
+     "claim": "Historic financial and trading centre of modern Shanghai",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.shanghai.gov.cn/en-HeritageZones/20231208/f2ac293f546a4d32aba936f2e733a47c.html"
+    },
+    {
+     "claim": "Baroque, Gothic and other mixed styles",
+     "verdict": "correct",
+     "correct_value": "Baroque, Gothic and Ancient Greek styles",
+     "source": "https://english.shanghai.gov.cn/en-HeritageZones/20231208/f2ac293f546a4d32aba936f2e733a47c.html"
+    },
+    {
+     "claim": "On the Huangpu riverside",
+     "verdict": "correct",
+     "correct_value": "West bank of the Huangpu",
+     "source": "https://english.shanghai.gov.cn/en-ScenicSpots/20231205/584672cc6d044eabb5f7f6fc9049a19f.html"
+    },
+    {
+     "claim": "Historic bridges such as Waibaidu Bridge over Suzhou Creek",
+     "verdict": "correct",
+     "correct_value": "Four bridges cross the creek; Waibaidu, Sichuan Road and Zhapu Road bridges are protected historic buildings",
+     "source": "https://english.shanghai.gov.cn/en-HeritageZones/20231208/f2ac293f546a4d32aba936f2e733a47c.html"
+    },
+    {
+     "claim": "Official text gives no hours",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.shanghai.gov.cn/en-HeritageZones/20231208/f2ac293f546a4d32aba936f2e733a47c.html"
+    }
+   ],
+   "missing_for_guide": [
+    "free open public space (state it)",
+    "metro access (e.g. East Nanjing Road station)",
+    "building light-up hours",
+    "holiday crowd control and one-way flows",
+    "Huangpu ferry or cruise options with prices",
+    "payment methods"
+   ],
+   "overall": "Correct but descriptive only. Practical access information is absent."
+  },
+  {
+   "id": "east-sh-04",
+   "claims": [
+    {
+     "claim": "Shikumen exteriors preserved and reused for dining and retail",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.shanghai.gov.cn/en-PlanANightOut/20231217/2f954a83b78945ffb7dac1038e6797c4.html"
+    },
+    {
+     "claim": "Address: Lane 181 Taicang Road, Huangpu District",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.shanghai.gov.cn/en-PlanANightOut/20231217/2f954a83b78945ffb7dac1038e6797c4.html"
+    },
+    {
+     "claim": "Area open 24 hours; individual shops vary",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.shanghai.gov.cn/en-PlanANightOut/20231217/2f954a83b78945ffb7dac1038e6797c4.html"
+    }
+   ],
+   "missing_for_guide": [
+    "metro access",
+    "free entry to the area (state it)",
+    "nearby site of the First CPC National Congress (separate booking and ID)",
+    "typical meal price range",
+    "payment methods (Alipay/WeChat Pay, foreign cards)",
+    "duration"
+   ],
+   "overall": "Correct and minimal. Low risk, low usefulness."
+  },
+  {
+   "id": "nature-cbs-01",
+   "claims": [
+    {
+     "claim": "North area offers a Tianchi view plus Changbai Waterfall, Lüyuan Pool and the underground forest",
+     "verdict": "correct",
+     "correct_value": "Official page: waterfall about 68 m, Lüyuan fall up to 26 m; north view is from above and narrower",
+     "source": "https://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html"
+    },
+    {
+     "claim": "Erdaobaihe is the base for the North area",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202106/t20210625_210152.html"
+    },
+    {
+     "claim": "In June 2026 all three areas were open, and summer scenery is promoted",
+     "verdict": "correct",
+     "correct_value": "North, West and South areas opened together over the 2026 Dragon Boat holiday",
+     "source": "https://www.changbaishan.gov.cn/zwgk/zwdt/zbsyw/202606/t20260622_270898.html"
+    },
+    {
+     "claim": "Fees: admission 105 + Chibei route bus 35 + eco bus 85 + summit car 80 CNY, all round trip (total 305)",
+     "verdict": "correct",
+     "correct_value": "Matches the 2025 official reply. A 2026 third-party article says the route bus fell to 25 from 2026-06-23; no official notice was found, so the 2026 figure is unconfirmed",
+     "source": "https://www.changbaishan.gov.cn/hdjl/zfsqpt/cbq/sqck/blhf/202507/t20250717_267712.html"
+    },
+    {
+     "claim": "Buy through the 长白山 or 长白山一机游 official channels",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.changbaishan.gov.cn/hdjl/zfsqpt/cbq/sqck/blhf/202507/t20250717_267712.html"
+    },
+    {
+     "claim": "Tianchi may be hidden by weather or summit transport suspended",
+     "verdict": "unverifiable",
+     "correct_value": "Secondary reports cite official notices of weather-based closure, with daily status posted around 8:20",
+     "source": null
+    },
+    {
+     "claim": "Travel based on the North-area transport hub (集散中心)",
+     "verdict": "unverifiable",
+     "correct_value": "Secondary sources name the Chibei-district hub, the North visitor centre and the Huangsongpu hub; no primary source opened",
+     "source": null
+    }
+   ],
+   "missing_for_guide": [
+    "ticket-check hours (secondary report: July 2026 07:00-14:30, summit car until 15:30; times vary by season)",
+    "real-name timed booking, about 7 days ahead, with face recognition (secondary)",
+    "whether Korean passports work on the booking channels",
+    "seasonal summit closures and the winter schedule",
+    "transport from Changbaishan airport or Erdaobaihe high-speed rail",
+    "altitude, cold and wind gear",
+    "hotline 400-000-6789",
+    "refund rules when the summit is closed",
+    "cautions for a border area"
+   ],
+   "overall": "Facts are correct, but the sources date from 2021 and 2025. 2026 fees may have changed (unconfirmed), and hours and booking rules are missing. The 2026 page returned 503 to WebFetch; curl opened it."
+  },
+  {
+   "id": "east-qd-05",
+   "claims": [
+    {
+     "claim": "Housed in a 1903 factory complex",
+     "verdict": "correct",
+     "correct_value": "1903 German-style industrial buildings",
+     "source": "https://www.tsingtaomuseum.com/category/1773519016732667906"
+    },
+    {
+     "claim": "Old brewing equipment on display",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.tsingtaomuseum.com/category/1773519016732667906"
+    },
+    {
+     "claim": "Modern production line can be viewed",
+     "verdict": "correct",
+     "correct_value": "Viewed through glass walls ('lighthouse factory' line)",
+     "source": "https://www.tsingtaomuseum.com/category/1773519016732667906"
+    },
+    {
+     "claim": "Address: 56 Dengzhou Road",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.tsingtaomuseum.com/category/1773519016732667906"
+    },
+    {
+     "claim": "Monthly hours and last-entry times as listed",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail"
+    },
+    {
+     "claim": "Real-name advance booking via WeChat 购票指南 → 预约购票",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail"
+    },
+    {
+     "claim": "OTA booking mentioned; passport procedure not stated",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail"
+    },
+    {
+     "claim": "Official text uses the Chinese resident ID card as its example",
+     "verdict": "correct",
+     "correct_value": "Original second-generation ID card or the ticket QR code",
+     "source": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail"
+    },
+    {
+     "claim": "Customer service 400-169-1903",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail"
+    }
+   ],
+   "missing_for_guide": [
+    "ticket prices (not on the opened page; check the 票务信息 section)",
+    "free entry (70+, under 1.4 m, etc.) and half price (60-69, students)",
+    "which tasting is included in each product",
+    "transport and the nearby beer street",
+    "passport handling",
+    "payment methods"
+   ],
+   "overall": "Accurate and well sourced. Price is the major gap."
+  },
+  {
+   "id": "bj-badaling",
+   "claims": [
+    {
+     "claim": "Major Great Wall section northwest of Beijing",
+     "verdict": "correct",
+     "correct_value": "About 60 km northwest, Yanqing District",
+     "source": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260320_4562521.html"
+    },
+    {
+     "claim": "Hours: Apr-Oct 06:30-16:30, Nov-Mar 07:30-16:00",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260320_4562521.html"
+    },
+    {
+     "claim": "Adult CNY 40 in peak season, 35 off-peak",
+     "verdict": "correct",
+     "correct_value": "Discounted 20 / 17.5",
+     "source": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260320_4562521.html"
+    },
+    {
+     "claim": "No reservation needed; tickets sold on site",
+     "verdict": "correct",
+     "correct_value": "Per the 2026 government page. Real-name online booking via official WeChat also still exists (secondary)",
+     "source": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260320_4562521.html"
+    },
+    {
+     "claim": "Cable car is not included in admission",
+     "verdict": "correct",
+     "correct_value": "Cable car priced separately (e.g. 100 one way)",
+     "source": "https://www.visitbeijing.com.cn/article/4DVNbA64nFN"
+    },
+    {
+     "claim": "Night tour is not the same as a day ticket",
+     "verdict": "correct",
+     "correct_value": "Night tour ticket priced separately (2023: 168/268). Secondary 2026 report: night season ran to 6 Oct, so it is now over",
+     "source": "https://www.visitbeijing.com.cn/article/4DVNbA64nFN"
+    }
+   ],
+   "missing_for_guide": [
+    "free entry for under-18s, 60+ and disabled visitors",
+    "transport (S2 train / Badaling station / bus 877)",
+    "North vs South section difficulty, and duration",
+    "passport at entry",
+    "2026 night-tour season ended",
+    "holiday crowds",
+    "payment"
+   ],
+   "overall": "Correct. Transport and concessions are missing."
+  },
+  {
+   "id": "nature-zjj-03",
+   "claims": [
+    {
+     "claim": "Glass bridge plus canyon trails, waterfalls and lakes",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.zjjdaxiagu.com/guide.html"
+    },
+    {
+     "claim": "Located in Cili County, Zhangjiajie",
+     "verdict": "correct",
+     "correct_value": "Sanguansi Township, Cili County",
+     "source": "https://www.zjjdaxiagu.com/"
+    },
+    {
+     "claim": "Separate place from the Tianmen Mountain glass skywalk",
+     "verdict": "unverifiable",
+     "correct_value": null,
+     "source": null
+    },
+    {
+     "claim": "Route A = canyon; Routes B and B1 = bridge plus canyon",
+     "verdict": "correct",
+     "correct_value": "A: 3 km, about 3 h; B: 3.5 km, about 3.5 h; B1: 1.5 km",
+     "source": "https://www.zjjdaxiagu.com/guide.html"
+    },
+    {
+     "claim": "Zipline, elevators and rides should not be assumed included",
+     "verdict": "unverifiable",
+     "correct_value": "Ticket page only says 票含景点. The B1 route lists elevators along it, and some items are optional",
+     "source": "https://www.zjjdaxiagu.com/ticket.html"
+    },
+    {
+     "claim": "Entry from 08:00; ticket check stops 16:00",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.zjjdaxiagu.com/guide.html"
+    },
+    {
+     "claim": "A 91, B/B1 216, glass bridge 125 CNY",
+     "verdict": "correct",
+     "correct_value": "As displayed; the page carries no price date",
+     "source": "https://www.zjjdaxiagu.com/ticket.html"
+    },
+    {
+     "claim": "Highlights include a Yixiantian gorge and lakes",
+     "verdict": "correct",
+     "correct_value": "Routes list 一线天, 五彩湖 and 神泉湖",
+     "source": "https://www.zjjdaxiagu.com/guide.html"
+    }
+   ],
+   "missing_for_guide": [
+    "route length and duration (on the official page)",
+    "real-name or passport booking",
+    "glass-bridge rules (shoe covers, banned items)",
+    "transport from Zhangjiajie city or Wulingyuan",
+    "hotline 0744-3353888 (09:00-15:30)",
+    "payment"
+   ],
+   "overall": "Correct. Duration data is available and should be added."
+  },
+  {
+   "id": "east-qd-02",
+   "claims": [
+    {
+     "claim": "Coastal district of villas in many styles",
+     "verdict": "correct",
+     "correct_value": "200+ villas",
+     "source": "https://www.qdseaside.cn/mobile/about.asp?id=1"
+    },
+    {
+     "claim": "Tree-lined roads",
+     "verdict": "correct",
+     "correct_value": "10 roads built from 1931, each planted with its own species",
+     "source": "https://www.qdseaside.cn/mobile/about.asp?id=1"
+    },
+    {
+     "claim": "Near Taiping Bay",
+     "verdict": "correct",
+     "correct_value": "Between Huiquan and Taiping capes; borders Taiping Bay to the south",
+     "source": "https://www.qdseaside.cn/mobile/about.asp?id=1"
+    },
+    {
+     "claim": "Official text gives no hours",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.qdseaside.cn/mobile/about.asp?id=1"
+    }
+   ],
+   "missing_for_guide": [
+    "name origin (8 roads named after passes)",
+    "area is free; which villas charge (e.g. Huashilou)",
+    "transport",
+    "duration",
+    "payment"
+   ],
+   "overall": "Correct but thin."
+  }
+ ],
+ "summary": {
+  "claims_total": 60,
+  "correct": 55,
+  "incorrect": 0,
+  "outdated": 0,
+  "unverifiable": 5,
+  "main_problems": [
+   "No factual errors found",
+   "Practical information is widely missing: transport, prices for Qingdao and Shanghai sites, passport booking, payment methods",
+   "Changbaishan relies on 2021 and 2025 sources; 2026 fees and hours are unconfirmed, with an unofficial report of a lower route-bus fare",
+   "Some official facts were available but not used: Panda concessions, ZJJ route durations, Tian'anmen metro, Zhanqiao 1891/440 m",
+   "Some Chinese official pages (qdseaside.cn, changbaishan.gov.cn) returned 503 to WebFetch; curl opened them"
+  ]
+ }
+}

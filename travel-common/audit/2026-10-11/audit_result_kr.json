@@ -1,0 +1,692 @@
+{
+ "records": [
+  {
+   "id": "kr-incheon-jeondeungsa",
+   "claims": [
+    {
+     "claim": "Located in Ganghwa-gun, Incheon",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.ganghwa.go.kr/open_content/tour/tour/tourInfoDetail.do?tour_seq=78"
+    },
+    {
+     "claim": "Temple sits inside Samnangseong fortress",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.ganghwa.go.kr/open_content/tour/tour/tourInfoDetail.do?tour_seq=78"
+    },
+    {
+     "claim": "You pass Daejoru to reach Daeungbojeon",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.ganghwa.go.kr/open_content/tour/tour/tourInfoDetail.do?tour_seq=78"
+    },
+    {
+     "claim": "Yaksajeon and the bronze bell are on site",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.ganghwa.go.kr/open_content/tour/tour/tourInfoDetail.do?tour_seq=78"
+    },
+    {
+     "claim": "Restored Jeongjoksan Sago (royal archive) site is on the grounds",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.ganghwa.go.kr/open_content/tour/tour/tourInfoDetail.do?tour_seq=78"
+    },
+    {
+     "claim": "Sago is about 100m up the hill across from Myeongbujeon",
+     "verdict": "correct",
+     "correct_value": "The official page is more precise: it is the hill on the left, across from Myeongbujeon.",
+     "source": "https://www.ganghwa.go.kr/open_content/tour/tour/tourInfoDetail.do?tour_seq=78"
+    },
+    {
+     "claim": "Yang Heon-su victory monument stands at the east gate entrance",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.ganghwa.go.kr/open_content/tour/tour/tourInfoDetail.do?tour_seq=78"
+    },
+    {
+     "claim": "Templestay is a separate program",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.ganghwa.go.kr/open_content/tour/tour/tourInfoDetail.do?tour_seq=78"
+    }
+   ],
+   "missing_for_guide": [
+    "Hours (Ganghwa page: 09:00-18:00, open all year), left null in the record",
+    "Estimated visit time (official: about 60 min)",
+    "Parking (about 50 spaces; small car 3,000 won, large 8,000 won)",
+    "Admission fee status (Ganghwa page links to a separate fee menu that was not checked)",
+    "Public transport and bus access",
+    "Address (전등사로 37-41) and phone number",
+    "Accessibility of the uphill path"
+   ],
+   "overall": "All factual claims are accurate. However, hours and parking were left null even though the cited official page gives them. The first source (a VISITKOREA Incheon food/nightscape article) is weak evidence for the name and location."
+  },
+  {
+   "id": "kr-gyeongbuk-pohang-homigot",
+   "claims": [
+    {
+     "claim": "Located at Haemaji Plaza, Homigot-myeon, Nam-gu, Pohang",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=94539"
+    },
+    {
+     "claim": "Hand of Sangsaeng: right hand in the sea, left hand on land, symbolising coexistence",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=94539"
+    },
+    {
+     "claim": "Homigot Lighthouse is near the plaza",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=94539"
+    },
+    {
+     "claim": "National Lighthouse Museum is near the plaza",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=94539"
+    },
+    {
+     "claim": "Plaza is free",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=94539"
+    },
+    {
+     "claim": "Plaza is open 24 hours, all year",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=94539"
+    },
+    {
+     "claim": "Parking is listed as available, with no fee stated",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=94539"
+    },
+    {
+     "claim": "The official notice gives a sunrise time specific to January 1",
+     "verdict": "correct",
+     "correct_value": "07:32 on Jan 1",
+     "source": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=94539"
+    },
+    {
+     "claim": "Indoor museum has closing days and opens later than the plaza (implied)",
+     "verdict": "unverifiable",
+     "correct_value": "Only third-party sites were found: closed Mondays, 09:00-18:00. Not confirmed on the museum's own site.",
+     "source": null
+    }
+   ],
+   "missing_for_guide": [
+    "Road address (해맞이로150번길 20)",
+    "Public transport from Pohang (bus route and time)",
+    "Parking fee or capacity",
+    "Museum hours, closing day and fee",
+    "Time needed",
+    "Facilities (toilets, food)",
+    "New Year festival traffic control specifics"
+   ],
+   "overall": "Accurate and carefully hedged. Thin on practical access information."
+  },
+  {
+   "id": "kr-ulsan-taehwagang-garden",
+   "claims": [
+    {
+     "claim": "Address area: 샛강남길 5, Jung-gu, Ulsan",
+     "verdict": "correct",
+     "correct_value": "This is the Ulsan Garden Support Center address. VISITKOREA uses it for the garden.",
+     "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80718"
+    },
+    {
+     "claim": "Themed gardens laid out along the Taehwa River",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80718"
+    },
+    {
+     "claim": "Simni bamboo forest is inside the garden",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80718"
+    },
+    {
+     "claim": "Riverside walking trails",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80718"
+    },
+    {
+     "claim": "Riverside closures after rain",
+     "verdict": "unverifiable",
+     "correct_value": null,
+     "source": null
+    }
+   ],
+   "missing_for_guide": [
+    "Hours and closures (VISITKOREA: 24 hours, open all year), left null in the record",
+    "Fee (no admission fee is listed)",
+    "Parking fees (500 won for 30 min, 200 won per extra 10 min, 10,000 won/day cap)",
+    "Public transport access",
+    "Size and time needed",
+    "National garden status (designated 2019)",
+    "Facilities and toilets",
+    "Official website (ulsan.go.kr/s/garden)"
+   ],
+   "overall": "Correct but bare. Hours and parking are left blank even though the cited source gives them."
+  },
+  {
+   "id": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+   "claims": [
+    {
+     "claim": "Daereungwon is in Hwangnam-dong",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4727"
+    },
+    {
+     "claim": "Donggung and Wolji is at 원화로 102",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4727"
+    },
+    {
+     "claim": "Daereungwon is a cluster of Silla royal and noble tombs",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4727"
+    },
+    {
+     "claim": "Daereungwon entry is free; Cheonmachong is ticketed separately",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    },
+    {
+     "claim": "Cheonmachong fee: adult 3,000 / youth and soldier 2,000 / child 1,000 won",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    },
+    {
+     "claim": "Donggung and Wolji fee: adult 3,000 / youth and soldier 2,000 / child 1,000 won",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    },
+    {
+     "claim": "Pond has straight and curved shores, so it cannot be seen whole from one spot",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4727"
+    },
+    {
+     "claim": "Buildings are lit at dusk; night view",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4727"
+    },
+    {
+     "claim": "Both sites open 09:00-22:00, last entry 21:30",
+     "verdict": "correct",
+     "correct_value": "This matches the city page, but that page says it was last updated in Feb 2023. The fee page does not list hours and refers visitors to phone lines. The figure may be stale.",
+     "source": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4727"
+    },
+    {
+     "claim": "The city warns that arriving near last entry may make entry difficult because of crowds",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+    },
+    {
+     "claim": "Daereungwon, Cheomseongdae and Donggung form a walkable downtown route",
+     "verdict": "correct",
+     "correct_value": "The city says most sites are within about 3 km.",
+     "source": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4727"
+    },
+    {
+     "claim": "Bulguksa and Bomun should be a separate trip",
+     "verdict": "correct",
+     "correct_value": "This is editorial and consistent with the city's day-split route.",
+     "source": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4727"
+    }
+   ],
+   "missing_for_guide": [
+    "Free-admission groups (Gyeongju residents, under 6, 65+, disabled) and group rates",
+    "Parking (Cheonmachong 2,000/4,000 won; Donggung free)",
+    "Public transport and bus access",
+    "Time needed",
+    "Phone numbers to confirm hours (054-750-8652 / 8655)"
+   ],
+   "overall": "Strong and accurate. Only caveat: the hours come from a city page last updated in 2023."
+  },
+  {
+   "id": "kr-gwangju-asia-culture-center",
+   "claims": [
+    {
+     "claim": "Address: 동구 문화전당로 38",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.acc.go.kr/main/contents.do?PID=050801"
+    },
+    {
+     "claim": "admin_region is 광주광역시",
+     "verdict": "outdated",
+     "correct_value": "전남광주통합특별시 동구 문화전당로 38 (61485), as now shown on the ACC official page",
+     "source": "https://www.acc.go.kr/main/contents.do?PID=050801"
+    },
+    {
+     "claim": "Asia Culture Museum has permanent and special exhibitions",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.acc.go.kr/main/contents.do?PID=050801"
+    },
+    {
+     "claim": "There is an archive and a special reading room",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.acc.go.kr/main/contents.do?PID=050801"
+    },
+    {
+     "claim": "Reading and reservation conditions differ from simple viewing",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.acc.go.kr/main/contents.do?PID=050801"
+    }
+   ],
+   "missing_for_guide": [
+    "Closing days (Mondays and Jan 1, per ACC)",
+    "Hours (ticketing 09:00-17:00; museum hours are on a separate page)",
+    "Fees and discounts (65+ and disabled 50%, groups 20%)",
+    "Reservation and cancellation rules (cancel by 17:00 the day before)",
+    "Transport (Culture Complex station, Line 1)",
+    "Parking",
+    "Time needed"
+   ],
+   "overall": "Content is correct, but the region field is outdated after the Gwangju-Jeonnam merger. No practical information is included."
+  },
+  {
+   "id": "kr-busan-haeundae-parent",
+   "claims": [
+    {
+     "claim": "Beach has about 1.5 km of sand",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053"
+    },
+    {
+     "claim": "Lodging and food facilities sit along the beach",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053"
+    },
+    {
+     "claim": "Official tourism info lists Dongbaekseom as a nearby link",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053"
+    },
+    {
+     "claim": "Nurimaru indoor viewing has its own operating days",
+     "verdict": "unverifiable",
+     "correct_value": null,
+     "source": null
+    },
+    {
+     "claim": "Beach train runs between Mipo and Songjeong, with stations to choose from",
+     "verdict": "correct",
+     "correct_value": "The all-station ticket covers 6 stations.",
+     "source": "https://www.bluelinepark.com/beachTramFare.do"
+    },
+    {
+     "claim": "Sky Capsule is a separate product",
+     "verdict": "correct",
+     "correct_value": "It is sold as packages: Sky Capsule one-way plus beach train all-station, 2 people 65,000 won.",
+     "source": "https://www.bluelinepark.com/beachTramFare.do"
+    },
+    {
+     "claim": "Fares: 1-ride 8,000 / 2-ride 12,000 / all-station 16,000 won",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.bluelinepark.com/beachTramFare.do"
+    },
+    {
+     "claim": "A 1-ride ticket ends after you get off once",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.bluelinepark.com/beachTramFare.do"
+    },
+    {
+     "claim": "Everyone must get off at Mipo and Songjeong, and it counts as a use",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.bluelinepark.com/beachTramFare.do"
+    },
+    {
+     "claim": "All-station ticket does not allow boarding twice at the same station",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.bluelinepark.com/beachTramFare.do"
+    },
+    {
+     "claim": "One-way ride takes about 25 minutes",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://www.bluelinepark.com/beachTramFare.do"
+    },
+    {
+     "claim": "Beach entry is free; facilities charge separately",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053"
+    }
+   ],
+   "missing_for_guide": [
+    "Beach train operating hours and last departure",
+    "Swimming season dates for 2026",
+    "Subway access (Haeundae station, Line 2)",
+    "Parking (listed only as available)",
+    "Child and discount fares",
+    "Address (해운대해변로 264)"
+   ],
+   "overall": "Accurate, with detailed rule checks. Missing hours and transit."
+  },
+  {
+   "id": "kr-busan-haedong-yonggungsa",
+   "claims": [
+    {
+     "claim": "Address: 기장군 기장읍 용궁길 86",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?menuSn=508&vcontsId=177329"
+    },
+    {
+     "claim": "Temple sits on a seaside cliff",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?menuSn=508&vcontsId=177329"
+    },
+    {
+     "claim": "Zodiac statues stand at the entrance",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?menuSn=508&vcontsId=177329"
+    },
+    {
+     "claim": "Steps run through bamboo",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?menuSn=508&vcontsId=177329"
+    },
+    {
+     "claim": "Stairs lead from the entrance into the temple",
+     "verdict": "correct",
+     "correct_value": "108 steps to the main hall",
+     "source": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?menuSn=508&vcontsId=177329"
+    }
+   ],
+   "missing_for_guide": [
+    "Hours (VISITKOREA: 04:30-19:20)",
+    "Fee status",
+    "Parking (known to be paid; not verified)",
+    "Bus access from Haeundae or Osiria station",
+    "Number of steps (108) and accessibility",
+    "Crowding at weekends",
+    "Official site (yongkungsa.or.kr returned 503)"
+   ],
+   "overall": "Correct but minimal. The only source is a drama filming-location page; the temple's own site was down."
+  },
+  {
+   "id": "kr-ulsan-ganjeolgot",
+   "claims": [
+    {
+     "claim": "Location: 울주군 서생면 대송리",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=199595"
+    },
+    {
+     "claim": "Lawn park in front of the sea",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=199595"
+    },
+    {
+     "claim": "There is a lighthouse",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=199595"
+    },
+    {
+     "claim": "Giant wish postbox",
+     "verdict": "correct",
+     "correct_value": "About 5 m tall; free postcards are mailed",
+     "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=199595"
+    },
+    {
+     "claim": "Ganjeolgot marker stone",
+     "verdict": "correct",
+     "correct_value": "Listed as the Ganjeolgot Cape Monument",
+     "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=199595"
+    }
+   ],
+   "missing_for_guide": [
+    "Fee and hours (assumed free, open 24h; not stated on the page)",
+    "Parking",
+    "Public transport",
+    "Time needed",
+    "Facilities",
+    "New Year sunrise festival notes",
+    "Phone (052-204-1000)"
+   ],
+   "overall": "Correct but thin. No practical information."
+  },
+  {
+   "id": "kr-incheon-chinatown-open-port-parent",
+   "claims": [
+    {
+     "claim": "District is now Jemulpo-gu (formerly Jung-gu)",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+    },
+    {
+     "claim": "Paifang gate and Chinese buildings are tied to the Chinese community that settled after the port opened",
+     "verdict": "correct",
+     "correct_value": "Port opened 1883; Qing concession set up 1884",
+     "source": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+    },
+    {
+     "claim": "Signature foods: jjajangmyeon, gonggalppang, wolbyeong",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+    },
+    {
+     "claim": "Sloped road past the paifang",
+     "verdict": "correct",
+     "correct_value": "About 300 m to a T-junction",
+     "source": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+    },
+    {
+     "claim": "Qing-Japanese concession boundary stairs",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+    },
+    {
+     "claim": "Jjajangmyeon Museum is in the former Gonghwachun building",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+    },
+    {
+     "claim": "Incheon Open Port Museum displays modern-era artifacts",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+    },
+    {
+     "claim": "Incheon Art Platform is converted from warehouses",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+    },
+    {
+     "claim": "Walking tours with a culture and tourism guide can be booked",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+    },
+    {
+     "claim": "Chinatown has paid parking",
+     "verdict": "correct",
+     "correct_value": "The Open Port street page says no parking",
+     "source": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+    },
+    {
+     "claim": "Dogs must be leashed and owners must clean up waste",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+    }
+   ],
+   "missing_for_guide": [
+    "Subway access (Incheon station, Line 1, across the road)",
+    "Museum hours, closing days and fees",
+    "How to book the walking tour",
+    "Time needed",
+    "Exact parking lot locations and fees"
+   ],
+   "overall": "Accurate. Correctly reflects the July 2026 Jemulpo-gu reorganisation. Lacks transit and museum operating details."
+  },
+  {
+   "id": "kr-seoul-changdeokgung",
+   "claims": [
+    {
+     "claim": "Address: 율곡로 99, Jongno-gu",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do?schGroupCode=cdg"
+    },
+    {
+     "claim": "Inscribed as World Heritage in 1997",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R102030000.do"
+    },
+    {
+     "claim": "Building layout adapts to terrain and forest",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R102030000.do"
+    },
+    {
+     "claim": "Last Korean Empire imperial family lived at Nakseonjae",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R102010000.do"
+    },
+    {
+     "claim": "Rear garden includes Buyongji, Juhamnu, Aeryeonji, Yeongyeongdang",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R102010000.do"
+    },
+    {
+     "claim": "Anguk station exit 3, about 5 min walk",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do?schGroupCode=cdg"
+    },
+    {
+     "claim": "Jongno 3-ga station exit 7, about 10 min walk",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do?schGroupCode=cdg"
+    },
+    {
+     "claim": "No parking",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do?schGroupCode=cdg"
+    },
+    {
+     "claim": "Hours: Feb-May and Sep-Oct 09:00-18:00; Jun-Aug 09:00-18:30; Nov-Jan 09:00-17:30",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do"
+    },
+    {
+     "claim": "Last entry is 1 hour before closing",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do"
+    },
+    {
+     "claim": "Closed Mondays; if a Monday is a holiday, it closes on the next non-holiday",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do"
+    },
+    {
+     "claim": "Palace buildings: adult individual ticket 3,000 won",
+     "verdict": "correct",
+     "correct_value": "Korean adults are defined as 25-64 and foreign adults as 19-64. Groups pay 2,400 won.",
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do"
+    },
+    {
+     "claim": "Rear garden is a separate, limited, timed visit",
+     "verdict": "correct",
+     "correct_value": "100 people per Korean session (50 online, 50 on-site)",
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do"
+    },
+    {
+     "claim": "Rear garden online booking opens 6 days before at 10:00 and closes the day before",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do"
+    },
+    {
+     "claim": "On-site rear garden sales start at 09:00 on the day",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do"
+    },
+    {
+     "claim": "Language sessions vary by season",
+     "verdict": "correct",
+     "correct_value": null,
+     "source": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do"
+    }
+   ],
+   "missing_for_guide": [
+    "Rear garden fees (adult 5,000, 65+ 5,000, ages 7-18 2,500 won; palace ticket also required). The record left these 'not fixed' although the official page lists them.",
+    "Free admission groups (e.g. Koreans aged 19-24, under 7)",
+    "Rear garden session times (Korean sessions on the hour, 10:00-15:00 or 16:00)",
+    "Rear garden tour length",
+    "Tickets sell out fast in Apr-May and Oct-Nov",
+    "Hanbok free entry"
+   ],
+   "overall": "Best record: every claim is verified against the Cultural Heritage Administration's royal-palace site. It only omits rear garden fees, which are readily available."
+  }
+ ],
+ "summary": {
+  "claims_total": 88,
+  "correct": 84,
+  "incorrect": 0,
+  "outdated": 1,
+  "unverifiable": 3,
+  "main_problems": [
+   "No factual errors were found. One field is outdated: the ACC admin_region still says 광주광역시, while the ACC official page now uses 전남광주통합특별시.",
+   "Five records (Jeondeungsa, Taehwagang, ACC, Yonggungsa, Ganjeolgot) leave fees, hours and reservation null, even though the cited official pages give hours, parking and closing days.",
+   "Weak or off-topic sources: Jeondeungsa cites a VISITKOREA Incheon food article, and Yonggungsa cites a drama filming-tour page. The Yonggungsa official site was down (503).",
+   "The Gyeongju hours (09:00-22:00) come from a city page last updated in Feb 2023, so they may be stale.",
+   "Public transport access, time needed, and parking are missing from most records; only Changdeokgung includes transit.",
+   "Unverifiable: riverside closures after rain (Ulsan), Nurimaru operating days, and the lighthouse museum closing day (third-party sources only)."
+  ]
+ }
+}

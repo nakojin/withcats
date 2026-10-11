@@ -107,7 +107,10 @@ OSM Nominatim으로 8곳(국가별 2~3곳)을 시험했다. 8곳 모두 좌표�
 | P1 좌표 | 진행 중 | 526곳, OSM Nominatim |
 | Tier A 후보 조사 | 완료 | 한·일·중 웹검색, `travel-common/research/` |
 | Tier A 초안 | 검토 대기 | 133항목(기존 91곳·신규 49곳), `travel-common/tiers/TIER_A_DRAFT.md` |
-| P2 이후 | 대기 | Tier A 확정 후 |
+| 표본 정확도 감사 | 완료 | 30곳 244 claim: 정확 93.0%, 오류 0, 출처 없음 6.6%. 핵심 문제는 누락. `travel-common/audit/2026-10-11/` |
+| 검증 절차 | 완료 | 수집(Sonnet 5.5) → 독립 검증(Opus 5.5) → 병합, `travel-common/VERIFICATION.md` |
+| 파이프라인 시범(6곳) | 진행 중 | 나라별 기존 1·신규 1 |
+| P2 이후 | 대기 | 시범 결과 확인 후 |
 
 ## 10. 오픈 이슈
 
