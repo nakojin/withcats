@@ -110,7 +110,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -561,13 +560,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Ticket inquiry phone differs across official pages: 4008180088 (notice), 010-69121474 (购票指南), and siteConfig 010-69121268 (customer service/complaint/rescue). The 购票指南 complaint line is 010-69121235.",
-    "景点介绍 article uses the pre-2015 name '延庆县'. Use '延庆区' (other official pages). Keep '延庆县' only as former_region.",
-    "Most articles have releaseTime 2024-11 (over 12 months ago). gmtModified is 2026-10-10/11 on all of them, which looks like an automatic touch, so the content date cannot be confirmed. Possible stale_source.",
-    "长城巴士 info (c4) is undated and tied to the National Day/Mid-Autumn holiday, so the year it applies to is unknown.",
-    "Heads-of-state counts are inconsistent across official articles (528 vs 600余位). This is not used in the guide."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -686,7 +678,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -805,7 +796,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -924,7 +914,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -1441,13 +1430,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Ticket phone numbers: cnInformation section 7 lists 票务咨询电话 61626894 / 61626505转869 and a cable-car rescue line 61626849. The page footer and cndetailcon1941 list 票务 010-61626928",
-    "Seniors: cndetailcon2366 (2021, stale) says seniors 60+ from outside Beijing pay half price online. The current cnInformation says only 老年票 with no amount. Do not publish 'half price' from the stale page",
-    "Booking: cndetailcon2366 (2021) says 买票时无需预约 (purchase counts as the booking). The current cnInformation requires 实名制预约购票 up to 30 days ahead",
-    "Stale sources (>12 months): cndetailcon1941 (2021-01-21), cndetailcon2366 (2021-03-01), cndetailcon1103 (2017-05-13), cndetailcon1101 (2024-05-01)",
-    "Unconfirmed items after 2 lookups: no ticket prices (cnTickets loads no price text). Access/transport: cnTraffic has no text content. Not found: duration, closed days, coordinates, Korean-language guide"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -1983,14 +1965,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "ticket.dpm.org.cn still shows stale COVID text (a 72-hour negative nucleic-acid test is required) in two blocks. Do not publish it, since it contradicts current practice.",
-    "Same page, two customer-service lines: 400-950-1925 (08:00-20:00, open all year) in 个人订票须知, and 010-86489090 (08:00-20:00, closed Mondays except holidays) in 票务政策. Visit.html and the intl page give 400-950-1925.",
-    "No-show window: 个人订票须知 says '180日内', 票务政策 says '半年内(按6个月顺延计算)'.",
-    "'八一' Army Day free-entry groups differ between Visit.html and the ticket policy section (administrative, low impact).",
-    "intl.dpm.org.cn footer reads 'Copyright 2023'. The intl page has no update date, so it may be stale. Its hours and prices match the Chinese pages.",
-    "hours.conflict: none found. The ticket page shows only peak hours 08:30/16:00/17:00 with no period label, which matches the 4/1-10/31 peak season."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -2409,15 +2383,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "The official site summerpalace-china.com failed twice (https: no connection; http: 503 timeout), and WebFetch also returned 503. The gygl.beijing.gov.cn notice list (latest item 2026-10-07) has no current Summer Palace hours notice. So there is no current operator page for the hours, fees or booking rules.",
-    "The gov notice (gygl, 2023-11-01) is more than 12 months old: stale_source.",
-    "The visitbeijing article 4JW2RSxuEs9 is dated 2024-09-20 (stale). Its byline is the column label 漫谈京津冀 and it carries a '北京旅游网原创' statement. It is editorial content from the municipal tourism publicity centre's portal, not from the operator.",
-    "The s.visitbeijing attraction page shows no update date.",
-    "Monday closures: the attraction page includes 养云轩, but the 2023 gov notice lists only 佛香阁、德和园、博物馆、苏州街、益寿堂、霁清轩、南湖岛内院落、耕织图水操学堂.",
-    "Last entry for the four courtyard sites: the 2024 article gives 17:30 (peak) and 16:30 (off-season). The attraction page gives only the closing times.",
-    "The 2024 article's simplified rule '60周岁以上的老人...免费' gives no ID detail. The attraction page says foreign visitors aged 60+ must show a passport."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -2536,7 +2501,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -2850,12 +2814,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Booking window: the visitbeijing article 4JvvKnxKXep (2024-10-21, byline 漫谈京津冀) says 1~9 days ahead. The attraction page and the 2026-10-07 article say 1~7 days.",
-    "whlyj.beijing.gov.cn FAQ (2022-01-14): stale_source, COVID-era. It is the only source for c11, c14 and c15.",
-    "Foreign-passport booking: a search plus the visitbeijing article found no official page on passport booking. Only a tour-operator page (imperialtours.net, not primary) mentions choosing 护照 in the mini-programme. Reservation for foreigners is still unconfirmed.",
-    "Source type: 4TPf0IO0bNx is 北京旅游网 original content (editor 吴丽文) that cites 北京市人民政府天安门地区管理委员会 and is current. The attraction page has no date."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -3324,8 +3282,8 @@
        ]
       },
       {
-       "text": "키 1.2미터 이상 1.5미터 이하(1.5미터 포함) 어린이는 구베이수이전 할인표 대상이다.",
-       "verdict": "verified",
+       "text": "키 1.2미터 초과 1.5미터 이하(1.5미터 포함) 어린이는 구베이수이전 할인표 대상이며, 1.2미터 이하(1.2미터 포함)는 무료다.",
+       "verdict": "corrected",
        "owner_input": false,
        "sources": [
         {
@@ -3522,12 +3480,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "hours/closed_days: 2 lookups (official notice list wtown.com/pc/about/notice.html, web search) found no official opening hours. The only results were Ctrip and a 2025 notice quoted secondhand, which cannot be used. Keep hours unconfirmed.",
-    "Fees c15–c28 come from an undated FAQ page (some images on the page date from 2021–2022), so the page's age cannot be established and no dated official fee notice was found. Recommend showing the checked date and telling readers to confirm on the official booking channel.",
-    "Free-entry and discount rules name Chinese-issued documents (中国残联残疾人证, 新闻出版总署记者证, Chinese ID). The page does not say whether foreign equivalents or passports are accepted.",
-    "Not useful for travellers: c22–c24 and c27–c28 (active and retired military, fire-rescue staff, retired cadres, press) form a long list of administrative discount groups. Collapse it to children (height-based), students, 60+ seniors, plus a line saying discounts need a valid document."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -3646,7 +3598,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -3765,7 +3716,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -3884,7 +3834,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4003,7 +3952,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4679,12 +4627,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "payment: I checked the 餐饮、购物 page (1 lookup); it has no payment information. Only the audio-guide WeChat Pay/Alipay detail (c37) is confirmed.",
-    "language: the official audio guide lists only Chinese and English. A Korean guide is not confirmed.",
-    "page_updated: the pages show no update date. The latest dated rule visible is the 2026-08-27 refund rule; the copyright line reads 2001-2026.",
-    "duration: no official visit-duration figure was found."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -4795,7 +4737,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4914,7 +4855,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5025,7 +4965,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5226,11 +5165,6 @@
      ]
     }
    },
-   "conflicts": [
-    "Open status could not be confirmed. Secondary sources (Korean press summaries and travel-agency notices found by search) report a renovation closure from 2026-08-01 to 2026-09-14 and re-opening after Sep 15. No official notice of the closure or re-opening could be found: the Consulate General in Shanghai board (overseas.mofa.go.kr/cn-shanghai-ko, m_541) failed with redirect loops and connection resets, and no Huangpu district notice turned up. Search results did show a consulate notice of a 2026-01-05 to 01-08 closure for internal repairs.",
-    "A non-official travel blog (trvlogue.com, '2026년판') lists weekend hours of 09:00-17:00 with no midday break. This differs from the official-platform split hours. It is unverified.",
-    "collector_unconfirmed: fees, reservation, closed_days, access, duration, payment and language are not on any official page reached; two lookups found nothing."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -5507,11 +5441,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Hours conflict: the government tourism platform gives daily 08:00-22:00 with last entry 21:00. Ctrip (secondary, via search) gives 09:00-21:00 with entry stopping at 20:30. The official site orientalpearltower.com returned 405, so this could not be settled.",
-    "The fee source (whlyj 2025-09-12) is more than 12 months old. Secondary bendibao lists a 2026 festival offer (9/12-9/27) of 139元 against the same 279 original. Current prices could not be confirmed on an official page.",
-    "collector_unconfirmed: street address, reservation, payment, access, duration, language and caution are not on any official page reached; the official site lookup failed."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -5630,7 +5559,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5749,7 +5677,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5868,7 +5795,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5979,7 +5905,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -6098,7 +6023,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -6217,7 +6141,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -6450,12 +6373,6 @@
      ]
     }
    },
-   "conflicts": [
-    "Length: 394.38 m from the 1931 extension (qingdao.gov.cn 2020) vs 440 m from the 1931-1933 extension (qingdao.gov.cn 2026-10-06, from 青岛日报).",
-    "Protection level: 市级文物保护单位 (2020 page) vs 山东省文物保护单位 (2026 article).",
-    "The closure notice is on qingdao.gov.cn (政务要闻, dated 2026-10-06) as a 青岛日报 report of the 青岛海滨景区管理服务中心 notice. The centre's own original notice was not found on the qingdao.gov.cn search or the qdsn.gov.cn homepage.",
-    "Stale sources: 2016 article (free opening, 40-person cap) and 2020 intro page."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -6752,13 +6669,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Fees: no official statement found that Badaguan is free. The 2026-06 文旅局 article says only '大部分景区都免费'. Do not write 무료 without a source; keep the field unconfirmed.",
-    "Hours, reservation, payment, language: none found on the cited official pages (2 lookups). Keep them unconfirmed.",
-    "Stale sources: c1, c3–c8 (2020) and c9, c12, c13 (2021) are descriptive facts, so acceptable. c14 (2024 traffic restriction) is an operating rule and is not confirmed by a current official page.",
-    "Suggested bus list comes from a 2020 page whose numbers are unlabelled in the visible text. Treat it as a weak lead and re-check.",
-    "Minor wording difference: the English page says 'north of Huiquanjiao Scenic Zone'; the Chinese page says between 太平角 and 汇泉角. The two do not contradict each other."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -6877,7 +6787,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -6996,7 +6905,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7513,12 +7421,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Homepage banner shows a single schedule, '08:30-17:30, 16:30 last entry, Mon-Sun' (it points to 参观须知 for details). 参观须知 gives seasonal hours, and today (10/11) they are 08:00-18:30 with 17:30 last entry. The homepage is the less specific page.",
-    "The ticket price table is labelled '现行门票时间段 4月1日至10月31日'. Prices from 11/1 are not published, so re-check after 10/31.",
-    "Site footer reads 'Copyright ©2024~2025' and the pages carry no update date, so the source may be stale (unconfirmed).",
-    "payment / foreign-passport booking / Korean language / parking: not found on official pages (2 lookups). The 2025-04-18 news item '多语种系统上线' has no readable text (image only), so the languages it covers are unknown."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -8195,15 +8097,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Cableway: c23/c24 present the Taiqing cableway as a normal option (separate ticket, half price for seniors). The official notice (2026-04-18) says it has been suspended since 2026-04-24, and the 2026-08-31 notice says safety rectification is ongoing. The guide should say it is currently suspended.",
-    "Hualou: the 2025-12-29 reservation flow (c35/c36) calls booking '免费预约'. Since 2026-04-01 Hualou costs 10元 (2026-03-27 notice; fee table 2026-06-04). The booking flow is probably still valid but no longer free.",
-    "Hours: no official page gives the normal opening hours of the south and east lines (太清/巨峰/仰口/华严). The only hours found (c33) come from a single-day 2025-10-23 adjustment notice. Keep hours unconfirmed. Lookups tried: home notices and guide centre.",
-    "Stale source: News-info-nid-5571 (游览须知) is dated 2024-09-17, over 12 months old. c39 and c49 now state the date.",
-    "The official Korean page (New-Korean-index.html) describes 9 scenic areas. The current Chinese page lists 7 (c7). The Korean page is outdated; follow the Chinese page.",
-    "Record address (梅岭路29号) is the site footer address, not a visitor entrance. For travellers, give the 大河东/仰口/九水 visitor centres instead.",
-    "Not useful for travellers: c28–c32 (military, veterans, fire-rescue, press, tour guides) are administrative discount groups. Collapse them to seniors 60+, children ≤6 or ≤1.4m, students/minors half price. Whether passports count as 有效证件 is not stated."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -8458,12 +8351,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Building count: official pages say '52' Classical Revival buildings, while the same meet-in-shanghai page also says '115 heritage buildings' (old buildings in the QR-code program). These are different counts, so state the basis if both are used.",
-    "english.shanghai.gov.cn pages for c5 (2024-01-04) and c6 (2023-12-05) are more than 12 months old.",
-    "'Open All Day' comes from the city tourism portal, which says it is 'for reference only'. There is no operator page.",
-    "Collector-unconfirmed items (fees, closed_days, reservation, payment, station exit, parking, caution, duration): checked meet-in-shanghai and the gov.cn citywalk page, and none of these appear. Nothing to suggest."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -9044,12 +8931,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Two free-entry lists disagree on the same official site. The static list on message.html (and on notice.html) includes 在职公安民警. The JS '参观信息' tab inside Page/WxyGarden/notice.html omits it.",
-    "The official site has two versions of the visitor notice. The homepage (articleview/index.html) has 12 items and adds a ban on feeding or photographing animals, and it lacks the explicit smoking/drone/flash list. notice.html has 14 items. No conflicting values.",
-    "The Shanghai gov pages describe the 40 differently: 'over 40 scenic spots' on the scenic page versus 'six scenic areas boast over 40 ancient structures' on the parks page.",
-    "stale_source: the english.shanghai.gov.cn pages were updated Aug 13, 2025 (c4, c36) and Oct 22, 2025 (c37). The first is more than 12 months before 2026-10-11. yugarden.com.cn has news dated 2026-08-07, so it is current."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -9330,10 +9211,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "whlyj.sh.gov.cn payment article is dated 2023-11-04 (URL says 20231106), more than 12 months old: stale_source for c14 and c15",
-    "meet-in-shanghai page shows header date 2025-04-17 (no explicit update date), possibly older than 12 months; no newer official page found to confirm hours"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -9641,10 +9518,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Hours: english.shanghai.gov.cn (Commerce Commission) says Open 24/7, while meet-in-shanghai (Culture & Tourism) lists Opening Hours 10:00-22:00. The latter likely means shop hours; the text should say so",
-    "Opening year: shanghai.gov.cn (2025-06) says 2000年10月1日开街; english.shanghai.gov.cn Heritage page says 'Completed in 2001'. Not claimed, but avoid stating a single year without the source"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -9668,14 +9541,14 @@
     "osm": "way/494725605"
    },
    "summary": "상하이 디즈니랜드는 마법에 걸린 이야기 성(Enchanted Storybook Castle)과 미키 애비뉴, 상상의 정원, 판타지랜드, 어드벤처 아일, 트레저 코브, 투모로우랜드, 토이 스토리 랜드, 주토피아 등 8개 랜드로 이루어진 테마파크입니다.",
-   "description": "상하이 디즈니랜드는 마법에 걸린 이야기 성(Enchanted Storybook Castle)과 미키 애비뉴, 상상의 정원, 판타지랜드, 어드벤처 아일, 트레저 코브, 투모로우랜드, 토이 스토리 랜드, 주토피아 등 8개 랜드로 이루어진 테마파크입니다. 입장권 한 장으로 당일 운영시간 중 자유롭게 드나들며 8개 랜드를 모두 이용할 수 있고, 운영시간은 날짜마다 달라 공식 캘린더에서 확인해야 합니다(예: 2026년 10월 11일 8:30~20:30). 지하철 11호선 디즈니 리조트역에서 1번 또는 4번 출구로 나오면 되고, 티켓은 실명제여서 구매에 쓴 신분증 원본(외국인은 여권)을 입장할 때 제시해야 합니다. 2025년 8월 공식 발표 기준 티켓 가격대는 475~799위안이고 3세 미만은 무료이며, 디즈니타운은 입장료 없이 방문할 수 있습니다.",
+   "description": "상하이 디즈니랜드는 마법에 걸린 이야기 성(Enchanted Storybook Castle)과 미키 애비뉴, 상상의 정원, 판타지랜드, 어드벤처 아일, 트레저 코브, 투모로우랜드, 토이 스토리 랜드, 주토피아 등 8개 랜드로 이루어진 테마파크입니다. 입장권 한 장으로 당일 운영시간 중 자유롭게 드나들며 8개 랜드를 모두 이용할 수 있고, 운영시간은 날짜마다 달라 공식 캘린더에서 확인해야 합니다. 지하철 11호선 디즈니 리조트역에서 1번 또는 4번 출구로 나오면 되고, 티켓은 실명제여서 구매에 쓴 신분증 원본(외국인은 여권)을 입장할 때 제시해야 합니다. 2025년 8월 공식 발표 기준 티켓 가격대는 475~799위안이고 3세 미만은 무료이며, 디즈니타운은 입장료 없이 방문할 수 있습니다.",
    "highlights": [
     "마법에 걸린 이야기 성과 8개 테마 랜드",
     "입장권 한 장으로 당일 자유 출입, 8개 랜드 모두 이용",
     "지하철 11호선 디즈니 리조트역 1·4번 출구",
     "구매에 쓴 신분증(외국인은 여권) 원본 지참 필수",
     "디즈니 패스트패스는 공식 앱에서 무료 배부(발급 당일만 유효)",
-    "디즈니타운은 입장료 없이 방문 가능(주차는 별도 요금)"
+    "디즈니타운은 입장료 없이 방문 가능"
    ],
    "details": {
     "description": [
@@ -9887,18 +9760,6 @@
        ]
       },
       {
-       "text": "디즈니타운 주차장 요금은 첫 1시간 30위안, 이후 30분마다 15위안, 종일(1회 입장) 240위안이다.",
-       "verdict": "verified",
-       "owner_input": false,
-       "sources": [
-        {
-         "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/disneytown-parking-lot",
-         "type": "operator",
-         "checked_at": "2026-10-11"
-        }
-       ]
-      },
-      {
        "text": "디즈니타운 주차장 운영시간은 월~목 9:00~21:30, 금~일 9:00~22:00이다.",
        "verdict": "verified",
        "owner_input": false,
@@ -9924,22 +9785,12 @@
      "partial_gaps": []
     },
     "hours": {
-     "status": "filled",
-     "facts": [
-      {
-       "text": "공식 파크 운영시간 캘린더에서 상하이 디즈니랜드는 2026-10-11 8:30~20:30, 10-12 8:30~20:00, 10-13 8:30~20:30으로 날짜마다 다르다.",
-       "verdict": "verified",
-       "owner_input": false,
-       "sources": [
-        {
-         "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/rap/parkhour",
-         "type": "operator",
-         "checked_at": "2026-10-11"
-        }
-       ]
-      }
-     ],
-     "gap": null,
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "운영시간은 날짜마다 다르며 공식 캘린더 데이터(API)가 2026-10-11 재검증 때 열리지 않음. 방문일 기준 공식 앱·사이트 확인 필요."
+     },
      "partial_gaps": []
     },
     "closed_days": {
@@ -10180,11 +10031,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "The ticket price (475~799 RMB), the 30-day calendar and the about-75% concession all come only from the 2025-08-25 press release, which is more than 12 months old. A current official price page could not be read (client-rendered ticket pages; parkcalender API has no prices). Lookups tried: /en/tickets and the parkcalender POST. Payment and duration were also not found in the official FAQ.",
-    "Bus lines: the bus page lists 50/51/52/70/71, while the transportation overview lists 50/51/52/70.",
-    "The parkhour API currently publishes park hours only through about 2026-10-25. Later dates show 'defaultCloseReason', meaning not yet announced, not that the park is closed."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -10605,11 +10451,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Purchase channels: the English official page lists Lvmama, the Chinese official page does not.",
-    "Floors: meet-in-shanghai says the observatory is on '118th and 119th floors'; the official site says 118F.",
-    "Not found on the official pages checked: closed days, duration, payment methods, Korean or audio guide, caution items."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -10728,7 +10569,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -11028,10 +10868,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Tourism-centre hours: the 2024-10-27 meet-in-shanghai article's Route A says 週一至週五 9:00-17:00, but its Routes B and C and the 2026-02-23 whlyj.sh.gov.cn notice say 週日至週五. Follow the 2026 official notice (c9)",
-    "meet-in-shanghai citywalk article (2024-10-27), the 解放日报 luggage report (2024-06-27) and the whlyj 武康大楼 article (2022-06-27) are all >12 months old: stale_source for c4, c5, c13, c14, c15 (c6 and c7 are historical)"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -11496,11 +11332,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Fees: the 2021 English city page gives the foreigner busy-season price as RMB 90; the 2024-07 garden bureau table and the 2020 price-cap PDF say 80.",
-    "Hours: the 2021 English page says 7:30-17:30 runs to Nov 15 (winter from Nov 16); the 2025-01 bureau table says summer hours run Mar-Oct. This matters for Nov 1-15.",
-    "Stale sources: hours page 2025-01, fee page 2024-07, student discount 2025-06, no-booking-for-free-visitors 2025-09, English intro 2021."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -11619,7 +11450,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -11738,7 +11568,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -11857,7 +11686,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -11968,7 +11796,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -12324,11 +12151,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "fees, hours: no current official page gives entrance fees or opening hours. The 2021-08-16 post lists 门票105元, 环保车85元, 主峰车80元, which is stale and not suggested. The 2024-10-16 reply gives a daily 8:00 opening, also stale. I found nothing current in 2 lookups (旅游服务 and 旅游动态 indexes). Fees and hours stay unconfirmed.",
-    "Stale sources: 2021-08-16 (c2, c19), 2024-10-16 (c5), 2024-10-17 (c3, c4, c20).",
-    "c1 location is the management committee's address (池北区), not a scenic-area gate address."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -12570,11 +12392,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "The 2024-10-17 reply equates 长白山大峡谷 with 锦江大峡谷. The 2021-08-16 post lists 长白山大峡谷 and 锦江峡谷 as separate sights. Use the 2024 wording with care.",
-    "access, fees, hours: no current official source found in 2 lookups. The 2021 post's fees (105/85元) and the 2021 airport-bus and inter-area bus details are stale.",
-    "Stale sources: 2021-07-26 (c2), 2021-08-16 (c1, c12, c13), 2024-10-16 (c8), 2024-10-17 (c3–c7, c14)."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -12693,7 +12510,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -12804,7 +12620,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -12915,7 +12730,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13026,7 +12840,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13137,7 +12950,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13248,7 +13060,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13359,7 +13170,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13470,7 +13280,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13589,7 +13398,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13708,7 +13516,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13827,7 +13634,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13946,7 +13752,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14057,7 +13862,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14176,7 +13980,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14295,7 +14098,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14406,7 +14208,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14525,7 +14326,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14644,7 +14444,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14846,11 +14645,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Stale sources: the hearing notice (2024-12-11) and the 2025 list (2025-07-24) are both more than 12 months old. No newer official page was found",
-    "Within 2 lookups, only secondary sources were found for the transport fee (e.g. a 2026 article citing a 236 CNY ticket + eco-bus combo). They are not official and are not suggested",
-    "Still unconfirmed: hours, eco-bus fare, discounts, reservation, payment, language"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -15071,13 +14865,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Ticket price: the Hunan 2025 government-priced scenic area list (湘发改价费〔2025〕204号, dated 2025-04-03, posted 2025-07-24) shows 天门山景区 at 62 CNY. The later notice 517号, effective 2025-08-01, sets 72 CNY. 72 is current",
-    "Stale sources: both Hunan DRC pages are more than 12 months old (2025-07-24 and 2025-08-25). The notice is still within its 5-year validity",
-    "name_local '天门山国家森林公园' differs from the official name in the sources, '天门山景区'",
-    "The suggested hours and access claims come from Hunan Daily (新湖南, provincial state media) reposts marked 来源：张家界天门山景区. They are not the operator's own site; the official Tianmen site was not found within 2 lookups",
-    "Still unconfirmed: cableway and package prices, reservation, payment, language, closed days, duration"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -15264,10 +15051,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Both Hunan pages date from 2015-11-30 and 2016-02-26, even though the URL paths say 201909: stale_source. No current official source was found. A search returned only third-party and travel-agency pages, and www.zjjdxg.com failed over both http and https. Hours, fees, booking and opening status remain unconfirmed.",
-    "The 2015 report said the bridge would open before 1 May 2016. The 2016 report said prices would apply from 1 May 2016 on a one-year trial. Neither confirms the current status."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -15386,7 +15169,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -15505,7 +15287,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -15616,7 +15397,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -15727,7 +15507,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -15838,7 +15617,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -15949,7 +15727,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16060,7 +15837,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16171,7 +15947,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16539,14 +16314,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Season dates differ between official pages. The Chinese guide.html gives 旺季 3/16-11/15 and 淡季 11/16-3/15. The official English page (bmy.com.cn/jingtai/bmyweb/index.html) gives 'Entering Timing' Mar 1-Nov 30 8:30-17:00 and Dec 1-Feb 28 8:30-16:30.",
-    "guide.html contradicts itself. It gives off-season hours of 08:30-16:30, but also says both sites stop ticket checks at 17:00 year-round.",
-    "guide.html is undated. Its newest 开放公告 is from 2023-05-04 and its copyright line reads 2012-2014. Flag it as a stale_source candidate even though it is the operator's live page.",
-    "The visitor-notice link on guide.html (jingtai/bmyweb/ticketing110.html) returns 404.",
-    "collector_unconfirmed: fees, closed_days, payment, parking and access details are not on the cited pages. A lookup of ticketing110.html (404) found nothing.",
-    "Fetching guide.html was intermittent: TLS resets on several attempts, and http:// returned 503. The page loaded on retry."
-   ],
    "last_verified": "2026-10-11"
   }
  ]

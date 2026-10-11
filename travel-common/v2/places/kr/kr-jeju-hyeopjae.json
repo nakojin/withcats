@@ -123,11 +123,11 @@
   {
    "cid": "r1-b05-c1",
    "field": "location",
-   "text": "협재해수욕장의 주소는 제주특별자치도 제주시 한림읍 협재리 2497-1이다(우편번호 63011).",
-   "original_text": null,
+   "text": "협재해수욕장의 주소는 제주특별자치도 제주시 한림읍 협재리 2497-1이다.",
+   "original_text": "협재해수욕장의 주소는 제주특별자치도 제주시 한림읍 협재리 2497-1이다(우편번호 63011).",
    "value": "제주특별자치도 제주시 한림읍 협재리 2497-1",
-   "verdict": "verified",
-   "verify_note": "VisitJeju lists 협재리 2497-1, postcode 63011",
+   "verdict": "corrected",
+   "verify_note": "2026-10-11 표본 재검증(10%)에서 오류 발견: 주소 '협재리 2497-1'은 화면에 표시되나 우편번호 63011은 display:none 처리된 검색용 데이터에만 있고 보이는 본문에는 없음. / 이전 메모: VisitJeju lists 협재리 2497-1, postcode 63011",
    "sources": [
     {
      "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697",

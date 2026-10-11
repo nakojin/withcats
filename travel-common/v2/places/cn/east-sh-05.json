@@ -22,14 +22,14 @@
  },
  "coord_note": null,
  "summary": "상하이 디즈니랜드는 마법에 걸린 이야기 성(Enchanted Storybook Castle)과 미키 애비뉴, 상상의 정원, 판타지랜드, 어드벤처 아일, 트레저 코브, 투모로우랜드, 토이 스토리 랜드, 주토피아 등 8개 랜드로 이루어진 테마파크입니다.",
- "description": "상하이 디즈니랜드는 마법에 걸린 이야기 성(Enchanted Storybook Castle)과 미키 애비뉴, 상상의 정원, 판타지랜드, 어드벤처 아일, 트레저 코브, 투모로우랜드, 토이 스토리 랜드, 주토피아 등 8개 랜드로 이루어진 테마파크입니다. 입장권 한 장으로 당일 운영시간 중 자유롭게 드나들며 8개 랜드를 모두 이용할 수 있고, 운영시간은 날짜마다 달라 공식 캘린더에서 확인해야 합니다(예: 2026년 10월 11일 8:30~20:30). 지하철 11호선 디즈니 리조트역에서 1번 또는 4번 출구로 나오면 되고, 티켓은 실명제여서 구매에 쓴 신분증 원본(외국인은 여권)을 입장할 때 제시해야 합니다. 2025년 8월 공식 발표 기준 티켓 가격대는 475~799위안이고 3세 미만은 무료이며, 디즈니타운은 입장료 없이 방문할 수 있습니다.",
+ "description": "상하이 디즈니랜드는 마법에 걸린 이야기 성(Enchanted Storybook Castle)과 미키 애비뉴, 상상의 정원, 판타지랜드, 어드벤처 아일, 트레저 코브, 투모로우랜드, 토이 스토리 랜드, 주토피아 등 8개 랜드로 이루어진 테마파크입니다. 입장권 한 장으로 당일 운영시간 중 자유롭게 드나들며 8개 랜드를 모두 이용할 수 있고, 운영시간은 날짜마다 달라 공식 캘린더에서 확인해야 합니다. 지하철 11호선 디즈니 리조트역에서 1번 또는 4번 출구로 나오면 되고, 티켓은 실명제여서 구매에 쓴 신분증 원본(외국인은 여권)을 입장할 때 제시해야 합니다. 2025년 8월 공식 발표 기준 티켓 가격대는 475~799위안이고 3세 미만은 무료이며, 디즈니타운은 입장료 없이 방문할 수 있습니다.",
  "highlights": [
   "마법에 걸린 이야기 성과 8개 테마 랜드",
   "입장권 한 장으로 당일 자유 출입, 8개 랜드 모두 이용",
   "지하철 11호선 디즈니 리조트역 1·4번 출구",
   "구매에 쓴 신분증(외국인은 여권) 원본 지참 필수",
   "디즈니 패스트패스는 공식 앱에서 무료 배부(발급 당일만 유효)",
-  "디즈니타운은 입장료 없이 방문 가능(주차는 별도 요금)"
+  "디즈니타운은 입장료 없이 방문 가능"
  ],
  "checklist": {
   "location": {
@@ -52,7 +52,6 @@
     "r1-b19-c9",
     "r1-b19-c10",
     "r1-b19-c11",
-    "r1-b19-c12",
     "r1-b19-c13"
    ],
    "gap": null
@@ -66,11 +65,12 @@
    }
   },
   "hours": {
-   "status": "filled",
-   "claims": [
-    "r1-b19-c14"
-   ],
-   "gap": null
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "운영시간은 날짜마다 다르며 공식 캘린더 데이터(API)가 2026-10-11 재검증 때 열리지 않음. 방문일 기준 공식 앱·사이트 확인 필요."
+   }
   },
   "closed_days": {
    "status": "gap",
@@ -379,8 +379,8 @@
    "text": "디즈니타운 주차장 요금은 첫 1시간 30위안, 이후 30분마다 15위안, 종일(1회 입장) 240위안이다.",
    "original_text": null,
    "value": "30위안/첫 1시간, 15위안/30분, 240위안/종일",
-   "verdict": "verified",
-   "verify_note": "RMB 30/hour for the first hour, then RMB 15 per half hour, whole day RMB 240. No free pick-up or drop-off.",
+   "verdict": "unverifiable",
+   "verify_note": "2026-10-11 표본 재검증(10%)에서 오류 발견: 페이지 보이는 본문에는 'Parking Fees' 제목만 있고 첫 1시간 30위안·30분당 15위안 등의 요금표가 없음. 표시된 금액은 'Disneytown Premium Parking ￥240.00'뿐이며 종일(1회 입장) 240위안이라는 설명도 없음. / 이전 메모: RMB 30/hour for the first hour, then RMB 15 per half hour, whole day RMB 240. No free pick-up or drop-off.",
    "sources": [
     {
      "url": "https://www.shanghaidisneyresort.com/en/experience/guest-service/disneytown-parking-lot",
@@ -419,8 +419,8 @@
    "text": "공식 파크 운영시간 캘린더에서 상하이 디즈니랜드는 2026-10-11 8:30~20:30, 10-12 8:30~20:00, 10-13 8:30~20:30으로 날짜마다 다르다.",
    "original_text": null,
    "value": "2026-10-11 08:30-20:30; 2026-10-12 08:30-20:00; 2026-10-13 08:30-20:30",
-   "verdict": "verified",
-   "verify_note": "Checked with a POST to /rap/parkhour (startDate/endDate): Shanghai Disneyland 10-11 8:30-20:30, 10-12 8:30-20:00, 10-13 8:30-20:30. Hours are only published about two weeks ahead.",
+   "verdict": "unverifiable",
+   "verify_note": "2026-10-11 표본 재검증(10%)에서 오류 발견: 인용 URL(parkhour API)이 GET 요청에 404 \"Cannot GET\"을 반환하고, POST 재시도도 \"Internal Server Error\"(data:null)만 반환해 운영시간 캘린더를 확인할 수 없음(2회 시도). / 이전 메모: Checked with a POST to /rap/parkhour (startDate/endDate): Shanghai Disneyland 10-11 8:30-20:30, 10-12 8:30-20:00, 10-13 8:30-20:30. Hours are only published about two weeks ahead.",
    "sources": [
     {
      "url": "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/rap/parkhour",
@@ -1076,6 +1076,22 @@
   ],
   "fixed_by": "content_fix",
   "basis": "수집 claim 으로만 작성, 검증자 검토",
-  "run": "r1-b19"
+  "run": "r1-b19",
+  "post_fixes": [
+   {
+    "date": "2026-10-11",
+    "reason": "표본 재검증 오류 claim 반영",
+    "edits": [
+     [
+      "공식 캘린더에서 확인해야 합니다(예: 2026년 10월 11일 8:30~20:30).",
+      "공식 캘린더에서 확인해야 합니다."
+     ],
+     [
+      "디즈니타운은 입장료 없이 방문 가능(주차는 별도 요금)",
+      "디즈니타운은 입장료 없이 방문 가능"
+     ]
+    ]
+   }
+  ]
  }
 }

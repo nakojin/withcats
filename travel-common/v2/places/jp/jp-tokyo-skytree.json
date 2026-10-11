@@ -840,11 +840,11 @@
   {
    "cid": "r1-b17-c34",
    "field": "fees",
-   "text": "덴보 회랑 티켓은 덴보 데크 티켓이 있는 사람만 당일 350층의 발권기에서 살 수 있고, 혼잡하면 판매가 중단될 수 있다.",
-   "original_text": null,
+   "text": "덴보 회랑 티켓은 덴보 데크 티켓이 있는 사람만 방문 당일 덴보 데크(지상 350m) 안의 발권기에서 살 수 있고, 입장 제한 시 판매가 중단될 수 있다.",
+   "original_text": "덴보 회랑 티켓은 덴보 데크 티켓이 있는 사람만 당일 350층의 발권기에서 살 수 있고, 혼잡하면 판매가 중단될 수 있다.",
    "value": null,
-   "verdict": "verified",
-   "verify_note": "Ticket page and FAQ (floor 350 machines) both say this",
+   "verdict": "corrected",
+   "verify_note": "2026-10-11 표본 재검증(10%)에서 오류 발견: 페이지: '天望デッキ内の券売機'(덴보 데크=지상 350m) 판매. '350층'은 오역(350m이지 350층이 아님). 나머지(덴보 데크 티켓 소지자 한정, 당일, 입장제한 시 판매 중단 가능)는 일치. / 이전 메모: Ticket page and FAQ (floor 350 machines) both say this",
    "sources": [
     {
      "url": "https://www.tokyo-skytree.jp/ticket/",

@@ -4,7 +4,7 @@
   build.py <repo_root>
   → travel-common/v2/published/{kr,jp,cn}.json : 공개 가능한 값만(판정 verified/corrected/outdated/owner_verified)
   → travel-common/v2/STATUS.md                 : 나라·항목별 채움률과 보완 필요 수
-v1 의 legacy 본문, pending·suggested·unverifiable claim 은 공개 데이터에 들어가지 않는다.
+v1 의 legacy 본문, pending·suggested·unverifiable claim, 검증자 작업 메모(conflicts)는 공개 데이터에 들어가지 않는다.
 """
 import collections, json, os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -33,7 +33,7 @@ def public_place(pl):
             'summary': pl['summary'] if content_ok else None, 'description': pl['description'] if content_ok else None,
             'highlights': pl['highlights'] if content_ok else [],
             'details': {f: facts[f] for f in ('description', 'highlight', 'tip') if facts.get(f)},
-            'guide': guide, 'conflicts': [c['text'] for c in pl['conflicts']],
+            'guide': guide,
             'last_verified': max(dates) if dates else None}
 
 

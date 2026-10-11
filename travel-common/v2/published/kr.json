@@ -118,7 +118,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -229,7 +228,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -348,7 +346,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -860,13 +857,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "The KTO English page (72894) lists 'Operating hours: Open 24 hr' and 'Holiday: N/A (Open all year round)'. The official special management area PDF limits residential-area visits to 09:00~18:00 from 2027.1.1, and the 09:00~18:00 hours on intro4 are for the 안내센터 only",
-    "KTO says 'Parking Available (Free)', but the official site runs a paid parking reservation (90분 기본, overtime 30분당 1,000원). No fee is given for the two public lots",
-    "The Saha-gu tour page (source for c23/c24) was last updated 2025-02-05, more than 12 months ago (stale_source)",
-    "The no-drones notice (c21) is dated 2022.10.17, more than 12 months ago",
-    "Not found: base parking fee amount (shows 0원 until options are chosen), entry fee from an official operator page (only KTO says Free), Korean guide or audio guide"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -1255,14 +1245,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Drone show winter times: KTO article 228475 (2025, stale) says October-February 17:00 & 21:00. KTO 194990 and the official site notice say 19:00 & 21:00. Use 19:00 & 21:00.",
-    "Drone show contact: KTO 194990 lists +82-51-610-4882. The official site gwangallimdrone.co.kr lists 수영구청 관광스포츠과 051-610-6518, 6514.",
-    "Drone show duration: KTO 194990 says about 12 min in the intro but about 10 min in 'Average time spent'. The official site says 매회 12분 내외.",
-    "KTO 194990 shows 'Event period 2026-01-01 ~ 2026-01-01', which looks like broken metadata.",
-    "Gwangan Station exit: KTO article 228475 (stale) says exit 3 or 5. The official drone site says exit 3 only.",
-    "Bridge toll and pedestrian access were not looked up (lookup budget was spent on access and drone items)."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -1583,13 +1565,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Hours conflict between official sources. The english.visitkorea page 108618 (no update date shown) says 04:30-19:20 with last admission 18:50. The access.visitkorea page (수정일 2026-08-18) and the korean.visitkorea JSON say 04:30~20:30. The newer Korean sources should take priority, but the operator site yongkungsa.or.kr returned 503 (curl), so this could not be settled",
-    "korean.visitkorea JSON has detail.tel=033-738-3588 (a Gangwon area code, looks wrong) next to telNo/infoCenter=051-722-7744. Use 051-722-7744",
-    "Accessibility: the korean.visitkorea static HTML shows '장애인 화장실 없음 / 장애인 전용 주차구역 없음'. This is placeholder template text and was ignored. The access.visitkorea page (2026.08.18) gives 장애인 주차 5대 and 장애인 화장실 있음",
-    "Lookups for unconfirmed items: yongkungsa.or.kr returned 503. The Gijang course page (WebFetch) has only the address and a directions link. Access, parking fee, duration, payment and caution are still unconfirmed",
-    "운영시간: 영문 VISITKOREA(갱신일 없음) 04:30-19:20 vs 무장애·국문 VISITKOREA(2026-08-18) 04:30~20:30. 사찰 누리집 접속 불가로 미확정, 방문 전 확인 필요"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -1889,12 +1864,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "c2 source (KTO article 228475, 2025-07-04, last updated June 2025) is a stale_source. The only swimming-season dates found are for 2025 (Jun 21-Sep 14, 2025); there are no 2026 dates.",
-    "The korean.visitkorea.or.kr page (36f54304) has a 무장애여행 panel saying 장애인 화장실 없음, 장애인 전용 주차구역 없음 and 휠체어 대여 없음. access.visitkorea.or.kr (updated 2026-09-10) says all three are available. The panel may be a static template default.",
-    "Two different contact numbers: the English KTO page has +82-51-749-7611 and the accessibility page has 051-749-5700 (해운대관광안내소).",
-    "Lookups for parking fee, swimming season and bus failed: sunnfun.haeundae.go.kr and haeundae.go.kr/tour both failed to connect (curl 000). Nothing was found."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -2013,7 +1982,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -2124,7 +2092,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -2243,7 +2210,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -2362,7 +2328,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -2481,7 +2446,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -2600,7 +2564,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -2719,7 +2682,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -2838,7 +2800,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -2957,7 +2918,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -3076,7 +3036,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -3195,7 +3154,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -3306,7 +3264,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -3425,7 +3382,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -3536,7 +3492,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -3655,7 +3610,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -3774,7 +3728,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -3893,7 +3846,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4004,7 +3956,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4115,7 +4066,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4234,7 +4184,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4353,7 +4302,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4464,7 +4412,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4575,7 +4522,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4694,7 +4640,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4813,7 +4758,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4924,7 +4868,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5035,7 +4978,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5146,7 +5088,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5265,7 +5206,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5376,7 +5316,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5495,7 +5434,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5606,7 +5544,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5717,7 +5654,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5828,7 +5764,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5947,7 +5882,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -6058,7 +5992,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -6169,7 +6102,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -6288,7 +6220,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -6543,11 +6474,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "The access.visitkorea 열린관광지 page was last modified 2024.07.02, more than 12 months ago (stale_source). Its fees, hours and opening period are absent",
-    "daecheonbeach.kr is run by (사)대천관광협회 (an association, not the city). It says the beach has 3 zones (시민탑광장·머드광장·분수광장), while VISITKOREA and the access page say 2 zones (노을광장·머드광장). The directions page shows train fares (새마을 17,400원, 무궁화 11,700원) that look stale. Fares were left out of the suggested claim; mark basis as operator/association",
-    "brcn.go.kr/tour.do: curl connection reset, unreachable. Lookups used: brcn.go.kr plus daecheonbeach.kr. Parking fee, opening period/hours, safety rules and fees are still unconfirmed"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -6666,7 +6592,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -6785,7 +6710,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -6904,7 +6828,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7023,7 +6946,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7142,7 +7064,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7261,7 +7182,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7380,7 +7300,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7491,7 +7410,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7610,7 +7528,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7729,7 +7646,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7848,7 +7764,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7967,7 +7882,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8086,7 +8000,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8205,7 +8118,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8324,7 +8236,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8443,7 +8354,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8554,7 +8464,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8673,7 +8582,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8784,7 +8692,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8895,7 +8802,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -9006,7 +8912,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -9117,7 +9022,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -9228,7 +9132,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -9339,7 +9242,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -9458,7 +9360,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -9577,7 +9478,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -9696,7 +9596,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -9815,7 +9714,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -9934,7 +9832,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -10045,7 +9942,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -10164,7 +10060,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -10283,7 +10178,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -10402,7 +10296,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -10521,7 +10414,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -10640,7 +10532,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -10759,7 +10650,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -10870,7 +10760,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -10989,7 +10878,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -11108,7 +10996,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -11227,7 +11114,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -11346,7 +11232,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -11457,7 +11342,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -11576,7 +11460,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -11695,7 +11578,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -11806,7 +11688,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -11925,7 +11806,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -12044,7 +11924,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -12155,7 +12034,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -12266,7 +12144,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -12377,7 +12254,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -12687,11 +12563,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "gn.go.kr (no update date shown) says 장애인편의 없음. visitkorea access page (updated 2026-03-11) lists 장애인 전용 주차 4면 and 장애인 화장실 있음. Treat the gn line as stale and follow visitkorea.",
-    "gn.go.kr gives the address as 강원도 강릉시 경포로 365, a name used before 강원특별자치도 (2023). This looks like a stale source; record 강원도 as former_region.",
-    "gn.go.kr contradicts itself on size: 소개 says 정면 6칸·측면 5칸, 관광팁 says 정면 다섯 칸·측면 5칸. No claim uses this."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -12802,7 +12673,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -12921,7 +12791,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13040,7 +12909,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13159,7 +13027,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13278,7 +13145,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13389,7 +13255,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13508,7 +13373,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13627,7 +13491,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13746,7 +13609,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13770,13 +13632,13 @@
     "osm": "way/238212575"
    },
    "summary": "남이섬은 강원 춘천시 남산면 북한강 위의 섬으로, 한국관광공사는 동화나라·노래나라를 콘셉트로 공연·전시·콘서트가 열린다고 소개한다.",
-   "description": "남이섬은 강원 춘천시 남산면 북한강 위의 섬으로, 한국관광공사는 동화나라·노래나라를 콘셉트로 공연·전시·콘서트가 열린다고 소개한다. 섬으로 가려면 경기 가평읍 선착장에서 배를 타야 한다. 섬은 08:00~21:00에 열고 연중무휴이며 봄꽃·여름휴가·단풍철에는 시간이 길어진다. 입장료는 일반 19,000원, 할인 16,000원, 특별 13,000원이고 3세 이하는 무료다. 겨울연가로 알려진 메타세쿼이아길, 27개 테마 정원, 토끼와 공작, 자전거와 스토리투어버스를 즐길 수 있다. 주차장은 600면이며 소형 6,000원, 대형 10,000원이다.",
+   "description": "남이섬은 강원 춘천시 남산면 북한강 위의 섬으로, 한국관광공사는 동화나라·노래나라를 콘셉트로 공연·전시·콘서트가 열린다고 소개한다. 섬으로 가려면 경기 가평읍 선착장에서 배를 타야 한다. 섬은 08:00~21:00에 열고 연중무휴다. 입장료는 일반 19,000원, 할인 16,000원, 특별 13,000원이고 3세 이하는 무료다. 겨울연가로 알려진 메타세쿼이아길, 27개 테마 정원, 토끼와 공작, 자전거와 스토리투어버스를 즐길 수 있다. 주차장은 600면이며 소형 6,000원, 대형 10,000원이다.",
    "highlights": [
     "겨울연가로 알려진 메타세쿼이아길",
     "27개 테마 정원과 토끼·공작 같은 동물",
     "배로 들어가는 북한강 위의 섬",
     "스토리투어버스·유니세프 자선열차·자전거로 섬 돌아보기",
-    "연중무휴, 봄꽃·여름휴가·단풍철 연장 운영"
+    "연중무휴"
    ],
    "details": {
     "description": [
@@ -13980,18 +13842,6 @@
          "checked_at": "2026-10-11"
         }
        ]
-      },
-      {
-       "text": "관광공사 기본정보는 가평나루 출발 배를 08:00~09:00 30분 간격, 09:00~18:00 10~20분 간격으로 안내하고 상황에 따라 바뀔 수 있다고 적는다. 봄꽃·여름휴가·단풍철에는 운영시간이 길어진다.",
-       "verdict": "outdated",
-       "owner_input": false,
-       "sources": [
-        {
-         "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120",
-         "type": "national_tourism",
-         "checked_at": "2026-10-11"
-        }
-       ]
       }
      ],
      "gap": null,
@@ -14136,13 +13986,6 @@
      ]
     }
    },
-   "conflicts": [
-    "Zip-wire page 88021: parking 4,000 won. Basic-info page 111127: small cars 6,000 won, large cars 10,000 won",
-    "Zip-wire hours: 88021 says 09:00–18:00. 111127 says April–October 09:00–19:00 and November–March 09:00–18:00",
-    "Zip-wire fee and naming: the 2024 article gives a single 55,000 won fee. 88021 says Family/Adventure 55,000/58,000 won. 111127 says 5%/15% grade slope",
-    "Article 215120 (last updated Aug 2024) is more than 12 months old. stale_source applies to c2–c5, c10, c14, c16, c17 and c20",
-    "Article 215120 places the island in 'Gapyeong, Gyeonggi-do', but the official address is 춘천시 남산면 in Gangwon"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -14261,7 +14104,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14380,7 +14222,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14491,7 +14332,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14602,7 +14442,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14713,7 +14552,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14832,7 +14670,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -15260,18 +15097,6 @@
        ]
       },
       {
-       "text": "휠체어도 탑승할 수 있으며 엘리베이터로 2층 탑승장까지 이동한다.",
-       "verdict": "corrected",
-       "owner_input": false,
-       "sources": [
-        {
-         "url": "https://www.sorakcablecar.co.kr/",
-         "type": "operator",
-         "checked_at": "2026-10-11"
-        }
-       ]
-      },
-      {
        "text": "산불 예방 기간(3월 2일~5월 15일, 11월 15일~12월 15일)에는 비선대~대청봉 상부 구간이 통제되고 소공원~비선대만 열린다고 안내된 바 있다(2024년 9월 기준).",
        "verdict": "verified",
        "owner_input": false,
@@ -15290,11 +15115,6 @@
      ]
     }
    },
-   "conflicts": [
-    "Visitor center parking is free (visitkorea 97563), but the operator says cable-car visitors must use the paid Sinheungsa lot (/guide)",
-    "The cable-car operator uses the old region name 강원도. Visitkorea uses 강원특별자치도",
-    "Article 204732 (last updated Sep 2024) is more than 12 months old. stale_source applies to c2, c4, c12, c27 and c28. The KNPS site seorak.knps.or.kr was blocked by WAF and could not be cross-checked"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -15413,7 +15233,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -15731,10 +15550,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Gaetbae pier address: the English page gives 39 Jungangbudu-gil, the Korean field gives 중앙부두길 51 (same visitkorea page 70424)",
-    "Gaetbae hours and fare could not be found. The official sites abai.co.kr and sokchotour.com were blocked by WAF"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -15853,7 +15668,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -15964,7 +15778,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16075,7 +15888,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16186,7 +15998,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16297,7 +16108,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16408,7 +16218,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16527,7 +16336,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16646,7 +16454,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16757,7 +16564,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16868,7 +16674,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16987,7 +16792,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17106,7 +16910,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17217,7 +17020,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17336,7 +17138,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17455,7 +17256,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17574,7 +17374,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17685,7 +17484,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17804,7 +17602,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17915,7 +17712,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -18314,11 +18110,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Hours: VK gives 09:00-18:00 (last entry 17:30) in summer and 09:00-17:00 (last entry 16:30) in winter. tourandong.com gives 09:00-17:30 and 09:00-16:30, which match VK's last-entry times. The description already tells travellers to check before visiting.",
-    "hahoe.or.kr is stale. The bus timetable is dated 2022.03.21, the postcode is the old 760-812 format, the FAQ posts are from 2009, and the rail directions (청량리 새마을 etc.) look outdated. Use it only for c19 to c22 and only with a caution.",
-    "The hahoe.or.kr fee table matches tourandong, but labels the resident rate '안동시민 및 예천군민' where tourandong says only 안동시민."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -18437,7 +18228,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -18556,7 +18346,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -18974,12 +18763,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Possibly stale sources: both official sites show 'COPYRIGHT 2018'. Editor images in the Bulguksa and Seokguram history pages are dated 2018-05, and the newest edit on the Bulguksa directions page is 2025-04. All are more than 12 months old, so mark them stale_source. The fees and hours pages carry no update date.",
-    "The two official pages differ on public transport: the Bulguksa page gives only buses 10 and 11 from 경주역 and the terminal, while the Seokguram page adds bus 700 from 신경주역. Whether 경주역 is still current needs another official source (for example the city of Gyeongju).",
-    "Secondary sources (not official) say the walk from the car park to Seokguram is about 15–20 minutes. The official page says about 10 minutes, so the official figure was kept.",
-    "Seokguram history page says '국보 제24호', an old-style designation number. Its credited source is 문화재청 (the old agency name). Treat the page as stale."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -19098,7 +18881,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -19209,7 +18991,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -19328,7 +19109,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -19447,7 +19227,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -19933,13 +19712,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Phone numbers differ: VK lists 대릉원 문의 as 054-771-8650, while the Gyeongju fee page lists 054-750-8652.",
-    "VK 대릉원 page: the static HTML accessibility list says '없음' for every item, but the bfree data the page renders says facilities exist (see c17).",
-    "access.visitkorea 동궁과 월지 accessibility data is dated 2022.02.07, older than 12 months (stale_source). This affects c26, c29 and c30.",
-    "VK's homepage link to the Gyeongju tour page (mnu_uid=2517&chaNo=3333) is broken and returns a '비정상적인 메뉴코드' error, so the hours could not be checked against a second official source.",
-    "The 종합이용권 table (2종 대릉원·동궁과 월지, card payment possible) exists only inside an HTML comment on the Gyeongju fee page. It is not displayed and must not be used."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -20050,7 +19822,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -20161,7 +19932,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -20280,7 +20050,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -20557,10 +20326,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "The Pohang page's 'first sunrise' claim rests on 1999 data and includes a planned-development paragraph that reads as old. Some content looks over 12 months old, but the page shows no update date.",
-    "Fees and parking fee: neither the Pohang page nor the VK page states either one. Two lookups found nothing, so these stay unconfirmed. Do not write '무료' without a source."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -20679,7 +20444,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -20790,7 +20554,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -20909,7 +20672,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -21020,7 +20782,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -21131,7 +20892,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -21250,7 +21010,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -21369,7 +21128,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -21480,7 +21238,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -21591,7 +21348,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -21782,11 +21538,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "message-resource의 일부 키 이름과 실제 문구가 다름(키에는 2000·2400원, 문구에는 2,400·3,000원). 요금이 개정된 흔적이고 어느 주차장 요금인지 명시되지 않음. 화면에 표시되는 주차 페이지와 대조 필요",
-    "주소 문자열 뒤에 '삼성물산㈜'가 붙어 있어 운영사(사업자) 주소일 가능성 있음. 파크 위치로 쓰기 전에 지도와 대조 필요",
-    "레코드 address 필드에 메타 문구 '(공식 페이지에서 확인 못함, 입력 데이터 기준)'이 들어 있음"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -21897,7 +21648,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -22016,7 +21766,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -22135,7 +21884,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -22254,7 +22002,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -22373,7 +22120,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -22492,7 +22238,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -22603,7 +22348,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -22722,7 +22466,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -22841,7 +22584,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -22960,7 +22702,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -23079,7 +22820,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -23198,7 +22938,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -23317,7 +23056,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -23428,7 +23166,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -23547,7 +23284,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -23666,7 +23402,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -23785,7 +23520,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -24151,9 +23885,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Stale sources (last updated more than 12 months ago): ciIdx=1287 directions and caution (2024-10-23), ciIdx=1280 trail courses (2024-10-24), ciIdx=1263 heritage overview (2024-03-19). The fee and hours page ciIdx=1274 is current (2026-09-10). The transit page ciIdx=1286 (2025-10-29) is just under 12 months old."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -24272,7 +24003,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -24391,7 +24121,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -24510,7 +24239,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -24629,7 +24357,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -24748,7 +24475,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -24867,7 +24593,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -24986,7 +24711,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -25105,7 +24829,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -25511,8 +25234,8 @@
        ]
       },
       {
-       "text": "한복(개량한복 포함) 착용자, 65세 이상(신분증), 6세 이하 취학 전 아동, 장애인복지법상 해당자(중증은 동행 1인 포함)는 관람료가 전액 면제된다.",
-       "verdict": "verified",
+       "text": "한복(개량한복 포함) 착용자는 관람료 면제·감면 대상이며, 65세 이상(신분증 소지), 6세 이하 취학 전 아동, 장애인복지법상 해당자(중증은 돌보는 사람 1명 포함)는 관람료가 전액 면제된다.",
+       "verdict": "corrected",
        "owner_input": false,
        "sources": [
         {
@@ -25645,11 +25368,6 @@
      ]
     }
    },
-   "conflicts": [
-    "suwon.go.kr 화성행궁 page (수정일 2026-06-05) says 576칸 in its intro and 567칸 in a later section. c28 uses 576.",
-    "Disabled parking at 화성행궁: swcf ?p=8 says 3면, swcf ?p=69 says 장애인 5면 (연무대 6면 on both).",
-    "swcf ?p=8 and ?p=404 give different addresses for the same guide booths: 장안문 is 장안동 1-1 vs 정조로905번길 16, 화홍문 is 북수동 33-4 vs 수원천로 377. No claim uses these."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -25760,7 +25478,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -25879,7 +25596,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -25998,7 +25714,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -26117,7 +25832,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -26228,7 +25942,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -26339,7 +26052,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -26450,7 +26162,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -26561,7 +26272,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -26680,7 +26390,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -26791,7 +26500,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -27114,10 +26822,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "jinju.go.kr (www.jinju.go.kr/jinjuseong/index.web) could not be reached: curl connection reset 4 times, WebFetch 503. Access, duration, reservation, payment, caution and night_fee are still unconfirmed",
-    "86040 is a 촉석루 page and gives 09:00-18:00. The fortress itself is open 05:00-23:00/22:00 (75199 and the 의기사 page). This is not a contradiction, but the guide should keep the two hours separate. 86040 shows no update date, so its staleness cannot be checked"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -27236,7 +26940,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -27355,7 +27058,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -27474,7 +27176,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -27593,7 +27294,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -27712,7 +27412,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -27831,7 +27530,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -27950,7 +27648,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -28069,7 +27766,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -28470,11 +28166,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Two official pages on the temple layout disagree. menu01501 says 중로전 is led by 대광명전 and 하로전 is centred on 영산전. menu01501_01 says 중로전 is led by 해장보각 and lists 하로전 as 극락보전·영산전 등. The description's '해장보각 중심의 중로전' follows only menu01501_01.",
-    "The English page (/eng/) is undated and may be stale. It still promotes the Tongdosa Museum, which the Korean page says is closed until construction is finished (planned 2026-12). Its Busan bus details are not on the Korean page.",
-    "The museum entry (c10) is a future plan ('2026년 12월 준공예정') and must be re-checked after December 2026."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -28593,7 +28284,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -28712,7 +28402,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -28831,7 +28520,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -28950,7 +28638,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -29069,7 +28756,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -29180,7 +28866,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -29529,12 +29214,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Official address sources disagree. itour gives 차이나타운로26번길 12-17 (modified 2026-03-03). The KTO English page gives 차이나타운로59번길 20. Both are now listed as claims; pick one as the main address.",
-    "KTO page vcontsId=34369 lists 10:00~17:00 with Mondays closed. itour 개항장 거리 (modified 2026-09-22) lists 상시 개방 and 연중무휴. The KTO page also links the old Jung-gu website (icjg.go.kr, which did not respond), and its English address (269 Jemullyang-ro) differs from its Korean address (제물량로218번길 3). It shows no update date and may be stale.",
-    "ic-chinatown.co.kr is the homepage listed on itour, but it says it is run by a citizen ('시민이 운영'). It still uses the old 중구 names and directions such as 인천역 1번 출구 150m. It is not a primary source and its admin names are stale.",
-    "incheon.go.kr page 2187729 describes the 2026-07-01 reorganisation in the future tense, so it was written before the change took effect."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -29645,7 +29324,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -29756,7 +29434,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -29867,7 +29544,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -29978,7 +29654,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -30097,7 +29772,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -30216,7 +29890,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -30327,7 +30000,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -30438,7 +30110,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -30557,7 +30228,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -30676,7 +30346,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -30976,10 +30645,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "The same page lists hours of 09:00~18:00, yet says the fountain show runs in the evening. The fountain's show times are not given. Today is 10-11, so the fountain season (until 10/31) ends soon.",
-    "The same page gives parking as 불가능 but also lists 3 disabled spaces at 월미도 제2공영주차장. The general public parking there (fees) is not confirmed."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -31090,7 +30755,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -31209,7 +30873,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -31328,7 +30991,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -31447,7 +31109,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -31566,7 +31227,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -31685,7 +31345,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -31804,7 +31463,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -32260,13 +31918,6 @@
      ]
     }
    },
-   "conflicts": [
-    "VisitJeju still shows the 2026-08-01~09-30 관음사 삼각봉~백록담 closure, while the live visithalla 관음사 page shows '탐방 가능'.",
-    "The 2022-03-29 reservation notice (seq=1245) is more than 12 months old (stale_source). The current vh49 guide neither repeats nor contradicts the 4명/주1회 limits.",
-    "Coordinates: VisitJeju 33.36132,126.54195 is about 1.19km from OSM 한라산 (33.36175,126.52920) and about 0.8km from 백록담. It is also about 5-6km from the 관리소 address, which OSM places at 33.3921,126.4941. These coordinates do not match the address.",
-    "Admin area: visithalla footer says 1100로 2070-61(해안동), but OSM resolves it to 애월읍 광령리. Confirm from an official address source.",
-    "The VisitJeju Hallasan page contradicts itself: older text says '총 5개 코스', newer text says '총 7개'."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -32377,7 +32028,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -32495,8 +32145,8 @@
      "status": "filled",
      "facts": [
       {
-       "text": "협재해수욕장의 주소는 제주특별자치도 제주시 한림읍 협재리 2497-1이다(우편번호 63011).",
-       "verdict": "verified",
+       "text": "협재해수욕장의 주소는 제주특별자치도 제주시 한림읍 협재리 2497-1이다.",
+       "verdict": "corrected",
        "owner_input": false,
        "sources": [
         {
@@ -32648,10 +32298,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "The VisitJeju page contradicts itself on pets: the body text says swimming with pets is banned in the swimming zone while the beach is open, but the usage-info line says the pet and swimming-zone rules still need official confirmation.",
-    "Access and parking: no official source found. Secondary sources disagree (one says the public car park is free; another says first 30 minutes free, then 500원 per 15 minutes, daily max 10,000원). None of these were used."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -32770,7 +32416,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -32889,7 +32534,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -33008,7 +32652,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -33399,11 +33042,6 @@
      ]
     }
    },
-   "conflicts": [
-    "The holiday-shift closure rule ('공휴일이면 다음 날') is on VisitJeju only. The WNH official page gives just '매달 첫 번째 월요일'.",
-    "Coordinates: VisitJeju 33.462147,126.936424 is 545m from OSM 성산일출봉 (284-12) at 33.45889,126.94082. This exceeds the 500m threshold, so it needs a manual map check before publishing.",
-    "The WNH page shows no update date (footer Copyright 2019), and its bus directions use road numbers only. Freshness is unknown, so treat it as possible stale_source. Neither page gives an update date (hours.page_updated not found)."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -33652,10 +33290,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Small inconsistency on the official page: it tags the site '제주도서쪽코스' but describes it as an eastern coast spot. The guide's 'east' wording follows the body text.",
-    "Not found on any official page: hours, entry fee, access, time needed. One secondary source (telltrip) says entry is free and about 1 hour is enough. It is a single non-official source, so no claim is suggested."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -33774,7 +33408,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -34098,11 +33731,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "The jeju.go.kr/dorip/udo.htm page looks stale: its visitor statistics stop at 2016, it gives the designation date twice (2009.09.19 and 2008.09.19), and it shows no update date. Its ferry timetable is undated, and its month columns are hard to read past row 20. Use it only as a lead.",
-    "Phone numbers differ by source: dorip gives 관리기관 제주시 환경관리과 064-728-3124, VisitJeju gives 064-728-1527. These are not necessarily conflicting.",
-    "fees.ferry was not found. udoship.com (linked from dorip) redirects to udoboat.smart9.net, whose fare and timetable menus load through JavaScript. Two lookups found no fare."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -34221,7 +33849,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -34340,7 +33967,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -34459,7 +34085,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -34570,7 +34195,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -34689,7 +34313,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -34808,7 +34431,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -34919,7 +34541,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -35038,7 +34659,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -35157,7 +34777,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -35276,7 +34895,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -35395,7 +35013,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -35514,7 +35131,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -35633,7 +35249,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -35752,7 +35367,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -35863,7 +35477,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -35982,7 +35595,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -36532,14 +36144,6 @@
      ]
     }
    },
-   "conflicts": [
-    "셔틀: 체험지도(map) 페이지는 '셔틀버스 운행 오전 10시~오후 7시', A·B코스, 대성공영주차장 '춘향로 5399'로 적어 parking 페이지(10:00~18:30, 춘향로 5299)와 tour.jeonju와 다름. map 페이지의 셔틀 블록은 갱신되지 않은 것으로 보임",
-    "셔틀 종점 표기: hanok 누리집 '오목대 셔틀버스 승강장' vs tour.jeonju '태조로 승강장(자만벽화마을 경유)'",
-    "한옥 수: info 소개 '700여 채', 현황표 '한옥 735', facility(역사관) '900여 채 한옥'",
-    "tour 페이지 내부 불일치: 골목길투어 표(11시 한/Eng, 15시 한/Eng/中/日, 경기전 매표소 집결)와 4코스 설명(11·14·16시 한국어, 11·14시 영어, 전라감영 정문 앞 출발)이 다름. 3코스 집결지도 표는 태조로 쉼터, 설명은 오목대 관광안내소",
-    "stale_source: hanok.jeonju.go.kr에 갱신일 표기가 없음. 하단 Copyright 2019, 현황 연혁·수상 기록은 2019년에서 끝남. place 페이지는 구 지정번호(사적 제339호)와 '전라북도' 표기 사용(레코드는 전북특별자치도)",
-    "수집자가 HTML 주석(비노출) 내용을 근거로 씀: 승용차 이용객 한정, 대형차량 주차만 가능, 외국인 콜센터 063-715-1330, 주말 9~18시 카톡"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -36650,7 +36254,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -36769,7 +36372,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -36880,7 +36482,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -36999,7 +36600,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -37118,7 +36718,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -37237,7 +36836,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -37356,7 +36954,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -37467,7 +37064,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -37586,7 +37182,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -37705,7 +37300,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -37824,7 +37418,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -37943,7 +37536,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -38062,7 +37654,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -38181,7 +37772,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -38300,7 +37890,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -38419,7 +38008,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -38530,7 +38118,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -38641,7 +38228,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -38752,7 +38338,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -38871,7 +38456,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -38990,7 +38574,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -39101,7 +38684,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -39220,7 +38802,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -39339,7 +38920,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -39458,7 +39038,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -39837,13 +39416,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "weatherLoad.do JSON은 2025-10-01 갱신으로 12개월이 넘은 stale source임. 값은 현재 정원 이용시간 페이지와 일치",
-    "c5의 출처 팝업(3월 30일 휴관)은 HTML 주석 안에만 있음. 2026-09-28 공지 '9월 28일(월) 정기휴무일 알림'과 이용시간 페이지는 '매월 마지막 주 월요일 휴무'로 일관됨",
-    "습지 주차요금표의 '중형 4,000원'과 야간권 판매기간 문장은 공식 페이지에서 주석 처리됨. 수집자가 숨겨진 HTML을 근거로 쓴 것으로 보임",
-    "통합입장권 안내에 '6개소'라고 적혀 있지만 나열된 곳은 5곳",
-    "66번 버스 운행 안내가 같은 페이지에 06:05~22:00(약 25분 간격)과 터미널 기준 05:50~22:10(약 30회) 두 가지로 적혀 있음"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -39962,7 +39534,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -40081,7 +39652,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -40200,7 +39770,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -40319,7 +39888,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -40438,7 +40006,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -40549,7 +40116,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -40668,7 +40234,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -40787,7 +40352,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -41104,11 +40668,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "visitseoul 북촌 페이지는 10:00~17:00을 마을 전체의 'Hours of Operation'처럼 표기하지만, 서울시·종로구 공지는 레드존에만 제한을 둠",
-    "주소 '계동길 37'은 북촌문화센터 주소. 같은 주소인데 안국역 3번 출구 거리가 북촌 페이지 516m, 문화센터 페이지 410m로 다름",
-    "stale_source(12개월 초과): english.seoul.go.kr 가회동 글 2017-04-20, stay.visitseoul 2024-07-19, hanok.seoul 2024-10-30, news.seoul 2024-11-12, english.seoul 공지 2024-11-15. 내용은 서로 일치하고, 최신 visitseoul(Edited 2026-09-11)과도 모순 없음. 전세버스 시행(2026-01-01) 이후 변경 공지 유무는 확인 못함"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -41655,11 +41214,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "The cha.go.kr Guide1 URL timed out on curl twice (WebFetch not tried). The identical path on www.khs.go.kr (국가유산청) opened and was used. cha.go.kr pages carry khs.go.kr branding, so source URLs should be updated to khs.go.kr.",
-    "Visit Seoul Secret Garden page (edited 2026-09-09) lists Korean tours as Nov-Feb 10:00-15:00. The official page lists Korean tours for Feb-Nov only (no Dec-Jan rows), although its hours table includes Dec-Jan (entry closes 15:00). The difference is minor.",
-    "Parking and payment: not found on any official page opened (official pages and royal.khs.go.kr)."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -41778,7 +41332,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -42279,11 +41832,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Hours: the R702 table says Jan–Feb and Nov–Dec 09:00~17:00. The 관람규칙 (R704, 제4조①) says the standard hours run to 17:30 in Nov–Jan. The table and the 2026-09-30 notice agree on 17:00",
-    "The sidebar widget on every royal.khs.go.kr page shows '09:00~18:30 입장마감 17:30', which is the Jun–Aug value, so it is wrong for October. It also says the closed day moves to '그 다음날' when Tuesday is a holiday, while the R702 table says '그 다음의 첫 번째 비공휴일'",
-    "Unconfirmed items not found in 2 lookups (FAQ R404000000 checked): payment methods, coordinates, site area, crowd periods. No page-update dates are shown on the R7xx pages"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -42402,7 +41950,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -42521,7 +42068,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -42640,7 +42186,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -43080,14 +42625,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Magic Island weather threshold: the FAQ (pageIndex=1) says 영하 5도 이하 and 초속 7m/s 이상. The operations page (OPER.INFO) says 0℃ 이하 또는 30℃ 이상, 7~14㎧, 0.2㎜ 비",
-    "Magic Pass: the FAQ says the ticket is '구매 당일만 사용 가능', but the next FAQ item allows Premium to be bought 2 days ahead",
-    "Subway exit: the location page says 잠실역 4번 출구, while FAQ pageIndex=2 says '3, 4번 출구 방향'",
-    "The FAQ API pagination has shifted. Several cited pageIndex values no longer contain the cited item (c7, c12–c15, c18, c21, c25). Cite the item, not the page number",
-    "The HTML pages are a JS-rendered SPA. They were verified from the official JS bundle served by adventure.lotteworld.com and from the official JSON APIs",
-    "Base ticket prices (fees.base_price) were not reachable: the price API was not found in 2 lookups"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -43382,10 +42919,6 @@
      ]
     }
    },
-   "conflicts": [
-    "The official sources give different representative addresses: Jung-gu says 명동2가 (no road address), KTO says 을지로 66 and 명동2가, Visit Seoul says 명동8길 27",
-    "Not found: fees, parking, duration, reservation, payment, underground hours, extra cautions. tour.junggu.seoul.kr did not respond (curl 000)"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -43841,12 +43374,6 @@
      ]
     }
    },
-   "conflicts": [
-    "traffic4.asp: 주차요금 정보가 HTML 주석으로 숨겨져 있어 현재 공식 게시값이 아님. 주차요금은 각 주차장(케이블카·서울스퀘어·국립극장·남산공원) 공식 페이지에서 다시 확인해야 함",
-    "use.asp는 N버거·N테라스 영업시간을 그대로 싣고 있지만, 공지(2026.03.20)는 'N버거, N테라스 리뉴얼 공사 안내'. 현재 운영 여부를 확인해야 함",
-    "stale_source 지표: 하단 COPYRIGHT 2014, 이용 페이지에 갱신일 표기 없음. 공지 목록 최신 글은 2026.04.16",
-    "FAQ 인용 페이지 번호 오류(c13·c26·c27·c31은 page=1에 있음)"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -43965,7 +43492,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -44084,7 +43610,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -44519,9 +44044,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "주차장 출입문 폐쇄 시각이 같은 페이지에 '22시(2025.9.30. 이후 23시)'로 함께 적혀 있음. 현재 값은 23시"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -44640,7 +44162,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -44759,7 +44280,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -44870,7 +44390,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -44989,7 +44508,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -45108,7 +44626,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -45219,7 +44736,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -45338,7 +44854,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -45457,7 +44972,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -45576,7 +45090,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -45695,7 +45208,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -45814,7 +45326,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -45933,7 +45444,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -46044,7 +45554,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -46163,7 +45672,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -46282,7 +45790,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -46393,7 +45900,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -46512,7 +46018,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -46631,7 +46136,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -46750,7 +46254,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   }
  ]

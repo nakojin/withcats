@@ -137,7 +137,6 @@
    "claims": [
     "r1-b07-c24",
     "r1-b07-c25",
-    "r1-b07-c26",
     "r1-b07-c27"
    ],
    "gap": null,
@@ -658,8 +657,8 @@
    "text": "휠체어도 탑승할 수 있으며 엘리베이터로 2층 탑승장까지 이동한다.",
    "original_text": "휠체어는 탑승 가능하며 창구에서 종류와 대수를 알려야 하고 케이블카 안에는 의자가 없어 서서 이용한다.",
    "value": null,
-   "verdict": "corrected",
-   "verify_note": "The ticket-window notice and 'no seats' details were not found",
+   "verdict": "unverifiable",
+   "verify_note": "2026-10-11 표본 재검증(10%)에서 오류 발견: 인용한 홈페이지의 보이는 본문에는 휠체어·엘리베이터 안내가 없음. 해당 FAQ(\"휠체어 탑승 되나요? 가능합니다… 탑승장은 엘리베이터를 이용하셔서 2층으로 이동\")는 <script type=\"application/json\"> 데이터 안에만 있고 실제 노출은 /guide#faq 페이지로 보임. 출처 URL을 https://www.sorakcablecar.co.kr/guide#faq 로 바꾸거나 문장에 매표 조건을 보완 필요. / 이전 메모: The ticket-window notice and 'no seats' details were not found",
    "sources": [
     {
      "url": "https://www.sorakcablecar.co.kr/",

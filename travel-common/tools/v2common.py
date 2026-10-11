@@ -60,6 +60,7 @@ def recompute_checklist(place):
     """claims 판정으로 체크리스트 상태를 다시 계산한다. 수동 not_applicable·gap 메모는 유지한다."""
     cl = place['checklist']
     by_item = {k: [] for k in CHECKLIST}
+    prev_partial = {k: cl[k].get('partial_gaps') for k in CHECKLIST}
     for c in place['claims']:
         item = FIELD_TO_ITEM.get(c['field'])
         if item and c['verdict'] in PUBLISHABLE:
@@ -67,6 +68,8 @@ def recompute_checklist(place):
     for k in CHECKLIST:
         if by_item[k]:
             cl[k] = {'status': 'filled', 'claims': by_item[k], 'gap': None}
+            if prev_partial.get(k):
+                cl[k]['partial_gaps'] = prev_partial[k]      # 채운 항목의 빠진 세부는 유지한다
         elif cl[k]['status'] == 'not_applicable':
             pass
         else:

@@ -1,0 +1,423 @@
+{
+ "results": [
+  {
+   "place": "jp-tokyo-shibuya-scramble",
+   "cid": "r1-b17-c8",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-summer-palace",
+   "cid": "r1-b26-c18",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-okinawa-kokusai-dori",
+   "cid": "r1-b19-c14",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-mutianyu",
+   "cid": "r1-b21-c3",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-jeju-hallasan",
+   "cid": "r1-b04-c27",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-sh-08",
+   "cid": "r1-b23-c1",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-tokyo-wb-studio-tour",
+   "cid": "r1-b16-c11",
+   "judgement": "ok",
+   "note": "\"Scooters may use the bicycle parking area free of charge\", \"Bicycle Parking... Please ask a member of staff... You are required to show your tickets.\" 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-nara-nara-park",
+   "cid": "r1-b18-c13",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-su-01",
+   "cid": "r1-b24-c13",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-sh-05",
+   "cid": "r1-b19-c14",
+   "judgement": "cannot_open",
+   "note": "인용 URL(parkhour API)이 GET 요청에 404 \"Cannot GET\"을 반환하고, POST 재시도도 \"Internal Server Error\"(data:null)만 반환해 운영시간 캘린더를 확인할 수 없음(2회 시도).",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gyeonggi-suwon-hwaseong",
+   "cid": "r1-b08-c26",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-026",
+   "cid": "r1-b13-c21",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "nature-zjj-02",
+   "cid": "r1-b21-c6",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-042",
+   "cid": "r1-b11-c27",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-sh-05",
+   "cid": "r1-b19-c28",
+   "judgement": "ok",
+   "note": "FAQ: \"Disney Fastpass is a complimentary ticketing system... available for no additional charge... distributed on Shanghai Disney Resort Official App, and each ticket is valid only for the day it is issued.\" 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-seoul-n-seoul-tower",
+   "cid": "r1-b03-c6",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "cd-panda-base",
+   "cid": "r1-b22-c41",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-fukuoka-canal-city",
+   "cid": "r1-b18-c14",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-okinawa-kokusai-dori",
+   "cid": "r1-b19-c1",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "central-019",
+   "cid": "r1-b15-c24",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-kyoto-arashiyama-bamboo",
+   "cid": "r1-b18-c10",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gyeongnam-tongdosa",
+   "cid": "r1-b09-c1",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "cn-shanghai-oriental-pearl",
+   "cid": "r1-b27-c9",
+   "judgement": "ok",
+   "note": "\"二球观光+东方明珠游船 成人票原价（联票）：279元\" (2025년 제36회 상하이 관광절 반값 목록) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gangwon-namiseom",
+   "cid": "r1-b07-c19",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "central-035",
+   "cid": "r1-b13-c15",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-026",
+   "cid": "r1-b13-c40",
+   "judgement": "ok",
+   "note": "보물전 페이지: 국보「翰苑」 소장; 경내안내 페이지: \"太宰府天満宮や道真公ゆかりの文化財約1万点を所蔵\". 지지됨(천만궁 관련 문화재 포함이라는 점만 약간 단순화).",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-yamanashi-fuji-kawaguchiko",
+   "cid": "r1-b17-c22",
+   "judgement": "ok",
+   "note": "영상 목록에 [Korean] 시즌 외 등산 위험 영상 있음; 페이지에 한국어 언어 선택/페이지 링크 없음.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-sh-06",
+   "cid": "r1-b24-c24",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-incheon-wolmi-culture-street",
+   "cid": "r1-b09-c11",
+   "judgement": "ok",
+   "note": "\"출입구까지 턱이 없어 휠체어 접근 가능함\", \"대여 가능(인근 월미전통공원 안내소)\", \"장애인 화장실 있음\" 확인(WebFetch).",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-busan-haedong-yonggungsa",
+   "cid": "r1-b10-c12",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "cd-panda-base",
+   "cid": "r1-b22-c28",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-042",
+   "cid": "r1-b11-c20",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-sh-06",
+   "cid": "r1-b24-c9",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-032",
+   "cid": "r1-b14-c24",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gangwon-seoraksan-parent",
+   "cid": "r1-b07-c26",
+   "judgement": "error",
+   "note": "인용한 홈페이지의 보이는 본문에는 휠체어·엘리베이터 안내가 없음. 해당 FAQ(\"휠체어 탑승 되나요? 가능합니다… 탑승장은 엘리베이터를 이용하셔서 2층으로 이동\")는 <script type=\"application/json\"> 데이터 안에만 있고 실제 노출은 /guide#faq 페이지로 보임. 출처 URL을 https://www.sorakcablecar.co.kr/guide#faq 로 바꾸거나 문장에 매표 조건을 보완 필요.",
+   "corrected_text": "휠체어도 탑승할 수 있으며(키오스크가 아닌 창구 매표소에서 휠체어 종류와 대수를 알리고 매표), 엘리베이터로 2층 탑승장까지 이동한다."
+  },
+  {
+   "place": "kr-gyeongnam-jinjuseong",
+   "cid": "r1-b10-c15",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gyeonggi-namhansanseong",
+   "cid": "r1-b08-c1",
+   "judgement": "ok",
+   "note": "ciIdx=1287 페이지에 도로명 남한산성로 731 및 지번 산성리 158-1 확인(WebFetch; curl은 연결 리셋).",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-fukuoka-canal-city",
+   "cid": "r1-b18-c24",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-seoul-changdeokgung",
+   "cid": "r1-b02-c28",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gangwon-namiseom",
+   "cid": "r1-b07-c10",
+   "judgement": "error",
+   "note": "인용 페이지는 기본정보가 아니라 가을 피크닉 기사이며, 운항시간은 08:00–09:00(30분 간격)/09:00–18:00(10~20분 간격)/18:00–21:00(30분 간격), 9월 13일~11월 17일 07:30–21:30 연장으로 적혀 있음. \"상황에 따라 바뀔 수 있다\"는 문구와 봄꽃·여름휴가·단풍철 연장 언급은 페이지에 없음.",
+   "corrected_text": "한국관광공사 영문 기사(가을 남이섬 소개)는 가평나루 출발 배를 08:00~09:00 30분 간격, 09:00~18:00 10~20분 간격, 18:00~21:00 30분 간격으로 운항한다고 안내하며, 9월 13일~11월 17일에는 07:30~21:30으로 운항시간을 연장한다고 적는다."
+  },
+  {
+   "place": "east-sh-05",
+   "cid": "r1-b19-c16",
+   "judgement": "ok",
+   "note": "보도자료 PDF: \"继续为游客提供提前30天的滚动价格日历\" 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gyeongbuk-andong-hahoe-village",
+   "cid": "r1-b06-c12",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "central-032",
+   "cid": "r1-b12-c13",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "cn-shanghai-oriental-pearl",
+   "cid": "r1-b27-c13",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-qd-06",
+   "cid": "r1-b25-c13",
+   "judgement": "ok",
+   "note": "요금표 이미지: 4/1~12/31 九水游览区 门票60元·观光车票30元·联票90元, 九水 华楼(当日有效) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-fukuoka-canal-city",
+   "cid": "r1-b18-c15",
+   "judgement": "error",
+   "note": "페이지는 \"基本的に定休日はありませんが、店舗ごとに定休日がある場合がございます\"(기본적으로 정기휴무일 없음)라고만 하며 \"연중무휴\"라는 표현은 없음 — 약간 과장.",
+   "corrected_text": "캐널시티는 기본적으로 정기 휴무일이 없으나, 점포마다 정기 휴무일이 있을 수 있다."
+  },
+  {
+   "place": "central-035",
+   "cid": "r1-b13-c13",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-east-sensoji",
+   "cid": "r1-b12-c16",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-jeju-hallasan",
+   "cid": "r1-b04-c3",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-tokyo-wb-studio-tour",
+   "cid": "r1-b16-c33",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-palace",
+   "cid": "r1-b20-c7",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-busan-gwangalli-bridge-overview",
+   "cid": "r1-b02-c17",
+   "judgement": "ok",
+   "note": "\"[March-September] 20:00, 22:00 / [October-February] 19:00, 21:00\", \"Schedule subject to change depending on weather conditions\" 확인(매주 토요일 공연).",
+   "corrected_text": ""
+  },
+  {
+   "place": "central-019",
+   "cid": "r1-b15-c12",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "cd-panda-base",
+   "cid": "r1-b22-c30",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-east-sensoji",
+   "cid": "r1-b12-c10",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "xa-terracotta",
+   "cid": "r1-b27-c18",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gangwon-namiseom",
+   "cid": "r1-b07-c7",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-jeonnam-suncheon-bay-garden-overview",
+   "cid": "r1-b01-c9",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "nature-zjj-02",
+   "cid": "r1-b21-c2",
+   "judgement": "ok",
+   "note": "인용 페이지 본문에서 문장 내용(수치·조건 포함) 확인.",
+   "corrected_text": ""
+  }
+ ],
+ "summary": {
+  "checked": 59,
+  "ok": 55,
+  "error": 3,
+  "cannot_open": 1
+ }
+}

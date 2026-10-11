@@ -25,6 +25,10 @@ def run(p, today='2026-10-11'):
 
 
 class T(unittest.TestCase):
+    def test_recompute_keeps_partial_gaps(self):
+        p = place(); p['checklist']['hours']['partial_gaps'] = [{'reason': 'not_in_official_source', 'note': 'x', 'run': 't'}]
+        recompute_checklist(p); self.assertEqual(len(p['checklist']['hours']['partial_gaps']), 1)
+
     def test_valid(self):
         e, w = run(place()); self.assertEqual(e, []); self.assertEqual(w, [])
 

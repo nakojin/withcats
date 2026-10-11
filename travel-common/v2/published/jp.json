@@ -118,7 +118,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -237,7 +236,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -356,7 +354,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -475,7 +472,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -594,7 +590,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -713,7 +708,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -832,7 +826,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -951,7 +944,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -1070,7 +1062,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -1189,7 +1180,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -1300,7 +1290,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -1411,7 +1400,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -1530,7 +1518,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -1641,7 +1628,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -1760,7 +1746,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -1879,7 +1864,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -1998,7 +1982,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -2117,7 +2100,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -2228,7 +2210,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -2347,7 +2328,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -2780,10 +2760,6 @@
      ]
     }
    },
-   "conflicts": [
-    "The Korean FAQ (faq.php) has stale values: towel rental 100/300 yen versus 110/320 on honkan.php; airport limousine about 40 minutes versus 43 on access.php; and it still warns of temporary closures during the conservation work, which finished in 2024-12.",
-    "Not found in two lookups: cash payment, tattoo and photography rules, staff language support. Neither the Korean nor the English Honkan page shows an update date."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -2902,7 +2878,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -3021,7 +2996,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -3140,7 +3114,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -3259,7 +3232,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -3887,13 +3859,6 @@
      ]
     }
    },
-   "conflicts": [
-    "기원 접수 시간: FAQ는 8:45頃~17:00頃, archives/1866(2026-05-17)와 kigan/juken은 9:00~16:30. 최신 값인 9:00~16:30을 따라야 함(c15 outdated).",
-    "단체 기원 예약: kigan/juken은 '個人祈願・団体祈願ともにご予約は受け付けておりません', archives/1866은 기업·단체는 반드시 사전 전화 문의.",
-    "한국어 FAQ(/kr/plan/faq/, 갱신일 표기 없음): 덴진 30분과 하카타 버스 45분이 일본어 액세스 페이지(35분/40분)와 다름. '다자이후 텐만구에는 주차장이 없습니다'라고 하지만 일본어 액세스 페이지는 太宰府駐車センター(850대, 문의 메일 @dazaifutenmangu.or.jp)를 근처 주차장으로 안내함.",
-    "FAQ(일본어)에 令和8年 정월 안내가 그대로 남아 있음(일부 시기 지난 내용). 또 FAQ와 kigan/juken은 10월 18일 대제를 '御本殿にて'로 적었지만 2026년 공지(archives/1807)는 '仮殿にて'.",
-    "parking.fee: 공식 페이지에서 승용차 요금을 찾지 못함. 검색에는 비공식 정보 사이트(odekake7.net)만 나와 근거로 쓰지 않음. language.audio_guide: 공식 페이지에서 오디오 가이드 안내를 찾지 못함."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -4004,7 +3969,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4123,7 +4087,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4242,7 +4205,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4361,7 +4323,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4480,7 +4441,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -4918,12 +4878,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Hours: /en/info/ and /ko/info/ (no visible update date) give only 9:00-17:00. The Japanese /info/ page (HTTP Last-Modified 2026-04-30) also gives Jul-Aug hours of 9:00-19:00. The EN/KO pages are incomplete.",
-    "Pets: /ko/info/ says no pets at all (guide dogs allowed). /en/info/ and the Japanese page allow pets in carriers outdoors in ticketed areas and on a leash in free areas. The KO page looks stale: it still uses '특별공개' wording and the home page banner reads '특별공개 2019.10.5 START'.",
-    "Wheelchair rental locations differ: KO lists 조사이엔, 니노마루 주차장 and 방재관리센터; EN lists the four ticket offices; JA lists 니노마루, 북문 and 남문 ticket offices plus 와쿠와쿠자.",
-    "Not found in two lookups: audio guide, walking time from the station (the access page shows it only as images), coordinates. None of the cited pages shows a visible update date."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -5042,7 +4996,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5161,7 +5114,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5470,12 +5422,6 @@
      ]
     }
    },
-   "conflicts": [
-    "도보 시간: 유후시 공식 관광 가이드(yufuin.gr.jp 특집, 2024-12-10 갱신)는 JR 유후인역에서 약 30분, JNTO(갱신일 표기 없음)는 25분.",
-    "stale_source: yufuin.gr.jp/feature/feature-1981/은 2024-12-10 갱신으로 12개월 이상 지남. visit-oita 소개문은 '(2022.11)' 표기로 12개월 이상 지남.",
-    "명명 연대: 시청 페이지는 '明治初期', 관광 페이지 두 곳은 1884년(明治17年).",
-    "hours·fees·reservation·payment·language 등: visit-oita가 링크한 yufu-tic.jp/shiori/444/를 열었으나 금린코 정보가 없어(홈 내용만 나옴) 찾지 못함."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -5594,7 +5540,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5713,7 +5658,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5832,7 +5776,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -5943,7 +5886,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -6062,7 +6004,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -6617,11 +6558,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Official vs official: info/15 lists the free-area gates as 歓会門・木曳門・久慶門・継世門. qa/ lists only 歓会門・木曳門・久慶門.",
-    "No conflict on fees. info/14, ticket_guide and qa/ agree on the 11/21 to 11/23 fee change.",
-    "Recent changes, not stale: parking fees were revised on 2026-04-01 and parking hours on 2026-07-01. No source is older than 12 months."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -7156,14 +7092,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "FAQ currency exchange answer shows both '외화 환전기는 수족관 입구 로비에 있습니다' and '죄송합니다만 구비되어 있지 않습니다'. Malformed '<!-->' markup leaves both visible. The ATM answer clearly says there is none",
-    "The Korean FAQ hides a card table in a comment that marks Ocean Blue ×, while the visible English service page marks Ocean Blue as accepting all major cards",
-    "FAQ says food and drink cannot be consumed in the aquarium; the caution page allows hydration drinks in sealable containers",
-    "FAQ says tripods are banned; caution and service pages say they may be prohibited depending on the case",
-    "Access page bus note says the timetable covers 2019년 4월~9월 (stale)",
-    "The evening '4시 이후 티켓' was hidden in a comment and ended 2023-03-31, so it is not offered now. Not found: peak hours for 2027, recommended visit duration, Korean audio guide, bus fares"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -7282,7 +7210,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7401,7 +7328,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7520,7 +7446,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7639,7 +7564,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7750,7 +7674,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7869,7 +7792,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -7988,7 +7910,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8107,7 +8028,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8226,7 +8146,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8345,7 +8264,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8456,7 +8374,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8575,7 +8492,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8694,7 +8610,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8805,7 +8720,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -8924,7 +8838,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -9043,7 +8956,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -9162,7 +9074,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -9273,7 +9184,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -9392,7 +9302,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -9503,7 +9412,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -9622,7 +9530,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -10098,9 +10005,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "No conflict on fees. fee/, home and FAQ ('一般500円（令和8年10月1日以降は1,000円）') agree that 1,000 yen applies from 2026-10-01. No sources are stale."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -10219,7 +10123,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -10338,7 +10241,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -10457,7 +10359,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -10576,7 +10477,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -10695,7 +10595,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -10814,7 +10713,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -11229,11 +11127,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Bus stop: the temple's access.php says city bus 206 goes to 五条坂. The kyoto.travel event page says '市バス206「清水道」から徒歩10分'",
-    "Night visit: kyoto.travel lists the time as 17:30～21:00(受付終了). The temple lists only 21:30 close / 21:00 last entry, with gates open from 6:00",
-    "Not found in 2 lookups (access.php, /en/access.php, japan.travel): regular admission fee, closed days, payment, Korean-language service"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -11625,12 +11518,6 @@
      ]
     }
    },
-   "conflicts": [
-    "Keihan Fushimi-Inari Station walk time: official access page says 5 min, JNTO (spot/1128) says about 7 min",
-    "Official request page carries its rule date 令和4年1月1日 (2022-01-01, over 12 months old), but the 2026-09-07 notice links to it and still applies those rules",
-    "Official top page still leads with Reiwa 8 (2026) New Year notices (opening hours and parking for Jan 1 to 7); these are past-season, not current operating hours",
-    "fees, grounds hours, parking fee and payment: not found on the official access, FAQ, top, English or prayer pages"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -11749,7 +11636,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -11868,7 +11754,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -11987,7 +11872,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -12106,7 +11990,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -12646,9 +12529,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "guide page: the stamp-list section is dated '2023年3月現在' (over 12 months old); the fee and hours sections say they changed 2025-04-01 and are current"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -12767,7 +12647,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -12886,7 +12765,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13474,11 +13352,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "한국어 haikan 페이지는 8:30~16:00 행을 '法華堂(호케도)·센주도'로 적었지만, 일본어 원문은 '法華堂（三月堂）・戒壇院戒壇堂'이다. 일본어 원문을 따라야 한다. 한국어 페이지는 요금을 연령(16~18세 등)으로 표기했고 장애인·老春手帳 할인과 단체 안내가 빠져 있다.",
-    "stale 아님: haikan 페이지에 '26/7/29 공지가 있고 상단에 10/11 당일 시간이 표시된다. 푸터의 Copyright 2009-2025는 갱신일이 아니다.",
-    "duration·access.station_walk_gurutto: 공식 페이지에서 소요시간 안내를 찾지 못함. 구루룻토 버스는 access/에 '下車すぐ'만 있음(c4로 이미 커버)."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -13597,7 +13470,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13716,7 +13588,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13835,7 +13706,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -13946,7 +13816,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14065,7 +13934,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14184,7 +14052,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14303,7 +14170,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14414,7 +14280,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14533,7 +14398,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14644,7 +14508,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -14942,12 +14805,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Area count: JNTO says Tokyo Disneyland 'has seven areas', but GO TOKYO (updated 2024-06-06) says 'eight themed lands'. The operator site could not be reached, so the count stays unconfirmed.",
-    "GO TOKYO page (source for c4-c7) was last updated 2024-06-06, more than 12 months ago (stale_source).",
-    "JNTO spot page shows no update date.",
-    "Operator site tokyodisneyresort.jp (/kr/, /kr/ticket/, /en/) timed out with both curl and WebFetch. Two lookups were made per item, so hours, closed days, fees, reservation, payment, parking, language and caution remain unconfirmed."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -15187,11 +15044,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "GO TOKYO (source for c3-c7, c11, c12) was last updated 2024-06-06, more than 12 months ago (stale_source). The Fantasy Springs entry rules must be re-checked on the operator site.",
-    "The 'eight themed ports' count appears only on the stale GO TOKYO page.",
-    "Operator site tokyodisneyresort.jp could not be reached (curl and WebFetch both timed out on /kr/, /kr/ticket/ and /en/). Hours, closed days, fees, payment, parking and language remain unconfirmed."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -15310,7 +15162,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -15429,7 +15280,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -15548,7 +15398,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -15667,7 +15516,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -15786,7 +15634,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -15897,7 +15744,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16016,7 +15862,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16135,7 +15980,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16254,7 +16098,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16373,7 +16216,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16492,7 +16334,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16611,7 +16452,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16730,7 +16570,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16849,7 +16688,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -16960,7 +16798,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17079,7 +16916,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17198,7 +17034,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17309,7 +17144,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17428,7 +17262,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17547,7 +17380,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17666,7 +17498,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17785,7 +17616,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -17896,7 +17726,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -18236,11 +18065,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Walking time from JR Otaru Station: about 10 minutes on the tourism association page versus 8 minutes on the city page (updated 2024-01-29, more than 12 months ago).",
-    "The parking page is dated 2024-04-20 and its fee boards were checked 2024-04-01. That is more than 12 months old, so parking fees c8 and c9 need rechecking.",
-    "The yukiakarinomichi.org site could not be reached. Walking time from the first parking lot was not found."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -18359,7 +18183,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -18478,7 +18301,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -18597,7 +18419,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -18716,7 +18537,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -18835,7 +18655,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -18954,7 +18773,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -19310,10 +19128,6 @@
      ]
     }
    },
-   "conflicts": [
-    "Admission fee: no Sensō-ji official page states it; 'free' comes only from GO TOKYO's 'Free' keyword, and that page itself says to check the official site for prices",
-    "JNTO spot pages (1691, 1128) show no update date, so how fresh they are cannot be checked"
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -19432,7 +19246,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -19543,7 +19356,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -19662,7 +19474,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -19781,7 +19592,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -19900,7 +19710,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -20019,7 +19828,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -20138,7 +19946,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -20257,7 +20064,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -20376,7 +20182,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [],
    "last_verified": null
   },
   {
@@ -20391,10 +20196,10 @@
    "city": null,
    "address": "〒812-0018 福岡県福岡市博多区住吉1丁目2",
    "coord": null,
-   "summary": "캐널시티 하카타는 후쿠오카시 하카타구 스미요시에 있는 복합 상업시설로, 연중무휴로 운영됩니다.",
-   "description": "캐널시티 하카타는 후쿠오카시 하카타구 스미요시에 있는 복합 상업시설로, 연중무휴로 운영됩니다. 쇼핑은 10:00부터 21:00까지, 레스토랑은 11:00부터 23:00까지가 기본 영업시간이며 일부 점포는 다를 수 있습니다. 지하 1층 선플라자에서는 10:00부터 22:00까지 음악에 맞춰 분수 쇼가 열리고, 밤에는 약 2,500인치 규모의 3D 프로젝션 매핑 쇼 캐널 아쿠아파노라마가 매일 무료로 상연됩니다. 지하철 나나쿠마선 구시다 신사마에역에서 걸어서 약 3분이고, 하카타역에서는 도보 약 10분입니다. 1층 종합 인포메이션에는 외국어 대응이 가능한 직원이 있고, 면세 절차와 코인로커, 무료 Wi-Fi도 이용할 수 있습니다.",
+   "summary": "캐널시티 하카타는 후쿠오카시 하카타구 스미요시에 있는 복합 상업시설로, 기본적으로 정기 휴무일이 없습니다.",
+   "description": "캐널시티 하카타는 후쿠오카시 하카타구 스미요시에 있는 복합 상업시설로, 기본적으로 정기 휴무일이 없습니다. 쇼핑은 10:00부터 21:00까지, 레스토랑은 11:00부터 23:00까지가 기본 영업시간이며 일부 점포는 다를 수 있습니다. 지하 1층 선플라자에서는 10:00부터 22:00까지 음악에 맞춰 분수 쇼가 열리고, 밤에는 약 2,500인치 규모의 3D 프로젝션 매핑 쇼 캐널 아쿠아파노라마가 매일 무료로 상연됩니다. 지하철 나나쿠마선 구시다 신사마에역에서 걸어서 약 3분이고, 하카타역에서는 도보 약 10분입니다. 1층 종합 인포메이션에는 외국어 대응이 가능한 직원이 있고, 면세 절차와 코인로커, 무료 Wi-Fi도 이용할 수 있습니다.",
    "highlights": [
-    "연중무휴, 쇼핑 10:00~21:00 / 레스토랑 11:00~23:00",
+    "정기 휴무일 기본 없음, 쇼핑 10:00~21:00 / 레스토랑 11:00~23:00",
     "B1F 선플라자 분수 쇼(10:00~22:00)",
     "밤마다 무료 3D 프로젝션 매핑 '캐널 아쿠아파노라마'",
     "지하철 구시다 신사마에역 도보 약 3분, 하카타역 도보 약 10분",
@@ -20719,8 +20524,8 @@
      "status": "filled",
      "facts": [
       {
-       "text": "시설은 연중무휴이며, 점포마다 정기 휴무일이 있을 수 있다.",
-       "verdict": "verified",
+       "text": "캐널시티는 기본적으로 정기 휴무일이 없으나, 점포마다 정기 휴무일이 있을 수 있다.",
+       "verdict": "corrected",
        "owner_input": false,
        "sources": [
         {
@@ -20845,12 +20650,6 @@
      ]
     }
    },
-   "conflicts": [
-    "The foreign_visitors page still says Ramen Stadium is temporarily closed with a renewal opening on 4月17日(金), which is stale text.",
-    "The highlight '밤마다 무료 3D 프로젝션 매핑' is backed by c17/c18, but the official event page currently reports an equipment fault affecting some visuals.",
-    "The posted show schedule runs only to 2026-10-16; later dates are TBA, so any schedule text must carry that date range.",
-    "No Korean-language page found (/ko/ and /kr/ return 404), so language.korean stays unconfirmed."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -21162,11 +20961,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "kyoto.travel saga-arashiyama area page (cited for c11, c15, c16) was last modified 2025-06-02, more than 12 months ago, so it is a stale_source",
-    "kyoto.travel 'Things to keep in mind' page (c13, c14) was last modified 2025-09-25, just over 12 months ago, so it is a stale_source",
-    "Lookups for parking, hours, fees, address and the rest (kyoto.travel spot page and search) found no official spot page: the guessed spot-page URLs return 404 and site search is JS-only. Nothing to suggest; these stay unconfirmed. The grove is an open public path, but no source states that it is free or always open."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -21446,11 +21240,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Area size: spot page (c2) says about 660 ha; the same association's Nara Park feature page says 511.52 ha. These need reconciling before publishing the 660 ha figure.",
-    "Bus time from JR Nara Station: spot page says 7 min (city loop outer route to Kencho-mae); the feature page says 5 min in its intro and 10 min (East Exit No. 2 bus stop) in its basic info.",
-    "Nara Prefecture park office site (pref.nara.lg.jp/site/park/) returned HTTP 408 twice, so parking fees are not confirmed."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -21466,12 +21255,11 @@
    "address": "沖縄県那覇市 国際通り(県庁北口交差点 ~ 安里交差点 구간)",
    "coord": null,
    "summary": "국제거리는 나하 도심을 가로지르는 약 1.6km의 번화가로, 나하 공항에서 15분 거리라 오키나와 관광의 관문으로 불립니다.",
-   "description": "국제거리는 나하 도심을 가로지르는 약 1.6km의 번화가로, 나하 공항에서 15분 거리라 오키나와 관광의 관문으로 불립니다. 길을 따라 약 600개의 상점과 사업장이 이어져 백화점, 식당, 잡화점, 호텔, 기념품 가게를 한 번에 둘러볼 수 있습니다. 매주 일요일 12시부터 18시까지는 약 1,300m 구간이 보행자 우선 도로(트랜짓 마일)로 바뀌어 오픈 카페와 거리 공연이 열리며, 비가 오면 취소됩니다. 마키시의 나하시 관광안내소 코인로커(9:00~19:00)와 역 코인로커, 미에바시 우체국 ATM(7:00~23:00) 같은 편의시설도 가까이 있습니다. 1만 명 에이사 춤 퍼레이드도 이 거리에서 열리며, 2026년에는 10월 18일에 개최됩니다.",
+   "description": "국제거리는 나하 도심을 가로지르는 약 1.6km의 번화가로, 나하 공항에서 15분 거리라 오키나와 관광의 관문으로 불립니다. 길을 따라 약 600개의 상점과 사업장이 이어져 백화점, 식당, 잡화점, 호텔, 기념품 가게를 한 번에 둘러볼 수 있습니다. 매주 일요일 12시부터 18시까지는 약 1,300m 구간이 보행자 우선 도로(트랜짓 마일)로 바뀌어 오픈 카페와 거리 공연이 열리며, 비가 오면 취소됩니다. 마키시의 나하시 관광안내소 코인로커(9:00~19:00)와 역 코인로커, 미에바시 우체국 ATM(7:00~23:00) 같은 편의시설도 가까이 있습니다.",
    "highlights": [
     "매주 일요일 12:00~18:00 약 1,300m 구간 보행자 우선 도로(비 오면 취소)",
     "나하 공항에서 15분, 길이 약 1.6km의 오키나와 관광 관문",
     "약 600개 상점과 사업장이 모인 쇼핑·식사 거리",
-    "1만 명 에이사 춤 퍼레이드(2026년 10월 18일)",
     "나하시 관광안내소·역 코인로커 이용 가능"
    ],
    "details": {
@@ -21484,18 +21272,6 @@
        {
         "url": "https://naha-kokusaidori.okinawa/en/",
         "type": "operator",
-        "checked_at": "2026-10-11"
-       }
-      ]
-     },
-     {
-      "text": "1만 명 에이사 춤 퍼레이드(一万人のエイサー踊り隊)는 국제거리에서 열리며, 2026년 제32회는 10월 18일(일) 14:00~21:00에 개최된다(2025년 제31회는 10월 19일 개최).",
-      "verdict": "outdated",
-      "owner_input": false,
-      "sources": [
-       {
-        "url": "https://www.naha-navi.or.jp/en/magazine/2016/03/11322/",
-        "type": "official",
         "checked_at": "2026-10-11"
        }
       ]
@@ -21746,11 +21522,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "naha-navi article (posted 2016-03-17, updated 2020-02-27) is a stale source. It gives the transit mile end point as 'Yui Rail Makishi Station' and calls the street 'pedestrian-only'. The official shopping-street page gives 'Saion Bridge intersection', about 1,300m, as a 'pedestrian priority' road.",
-    "naha-navi says 10,000 Eisa is held 'every year in August'. The official event site and notices say October (2025-10-19, 2026-10-18).",
-    "Collector-unconfirmed items (fees/hours/closed_days/payment/parking/station walk time/duration): the official pages do not cover them. There is no official statement that the street itself is free to enter."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -22121,11 +21892,6 @@
      ]
     }
    },
-   "conflicts": [
-    "Two official pages differ on 1615. dotonbori.or.jp/about says the canal was completed in 1615 and that cousin Douboku took over the work. dotonbori.or.jp/chronological says Matsudaira Tadaakira took over the project in September 1615, gives no completion date, and gives the 1612 name as 'Nariyasu Douton'.",
-    "The Tonbori Riverwalk office fax is 06-6644-7566 on osaka-info but 06-6644-7237 on tonbori.jp. The phone number 06-6644-7565 matches on both.",
-    "stale_source: the dotonbori.or.jp pages (c3-c5, c14, c15) show (c)2015. The newest notice on tonbori.jp is from 2015. osaka-info shows no update date."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -22540,9 +22306,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "No conflicts between official sources. Page JSON RevisionDates run from 2026-02-03 to 2026-07-30, all within 12 months. Hours and closed days come only from the app API, which covers dates up to 10/31."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -22819,11 +22582,6 @@
      ]
     }
    },
-   "conflicts": [
-    "Shibuya City ordinance page was last updated 2025-08-22, which is more than 12 months old (stale_source). A search result mentions that an amendment adding fines was put to the ward assembly in December 2024. I did not open that page and have not confirmed whether it passed.",
-    "caution.halloween: 2 searches found no official Shibuya City notice for Halloween 2026. The only official Halloween notice found is from 2023 (stale). The ordinance page mentions Halloween only as background.",
-    "caution.alcohol_area: the boundary of the banned area is shown only as a map image. It has no text description, so it cannot be put into a claim."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -23323,8 +23081,8 @@
        ]
       },
       {
-       "text": "덴보 회랑 티켓은 덴보 데크 티켓이 있는 사람만 당일 350층의 발권기에서 살 수 있고, 혼잡하면 판매가 중단될 수 있다.",
-       "verdict": "verified",
+       "text": "덴보 회랑 티켓은 덴보 데크 티켓이 있는 사람만 방문 당일 덴보 데크(지상 350m) 안의 발권기에서 살 수 있고, 입장 제한 시 판매가 중단될 수 있다.",
+       "verdict": "corrected",
        "owner_input": false,
        "sources": [
         {
@@ -23602,11 +23360,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "The public-transport page intro says Asakusa is 'about a 5-minute ride', but its route table says Asakusa to TOKYO SKYTREE Station is 'Approximately 3 minutes' (same official page).",
-    "Hours calendar only covers dates through 2026-12-31 (2027-01-01 is blank). Hours need re-checking from January 2027.",
-    "Unconfirmed after 2 lookups: 4F counter payment methods (payment.counter) and audio guide (language.audio_guide). Not found on the official FAQ, 4F floor page or admission page."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -24342,11 +24095,6 @@
      "partial_gaps": []
     }
    },
-   "conflicts": [
-    "Standard ticket prices disagree between official pages. The Price List page (/ticket-information/price/) shows adult ¥6,300~¥7,300, junior ¥5,200~¥6,000, child ¥3,800~¥4,400. The Tickets page (adult ¥6,600~, junior ¥5,500~, child ¥4,000~) and the pricing notice (news_20251120: from 2026-07-01, ¥6,600~¥7,300 / ¥5,500~¥6,000 / ¥4,000~¥4,400) agree with each other. The Price List page appears not updated for the July 2026 price change. Package and Afternoon Tea prices differ the same way.",
-    "The Afternoon Tea and Evening High Tea packages are on sale only for visits up to 2026-11-10 and 2026-11-08.",
-    "Language: the official site offers only Japanese and English (/ko/ returns 404). Korean exists only in the Digital Guide, which is currently suspended."
-   ],
    "last_verified": "2026-10-11"
   },
   {
@@ -24705,13 +24453,6 @@
      ]
     }
    },
-   "conflicts": [
-    "Yamanashi Tourism Organization page (yamanashi-kankou.jp/smp/en/fujikawaguchiko/) has HTTP Last-Modified 2013-12-01, so it is stale_source (more than 12 months). c1, c8, c9 and c10 rely on it. On the bus departure point it differs from the current JNTO page (Shinjuku Station West Exit vs Shinjuku Expressway Bus Terminal).",
-    "The page also contradicts itself: 'Otsuki -> Kawaguchiko about 1h50 by Fuji Kyuko' vs 'Shinjuku -> Kawaguchiko about 2h10'.",
-    "fujisan-climb.jp FAQ still shows the Yoshida hotline hours as 'April 27th to September 10th, 2020' (stale text).",
-    "fujisan.ne.jp/access: the transport details are not in page text (map images only), so the lookup for access.local found nothing.",
-    "Unconfirmed lake-area items (hours, fees, parking, duration, reservation): not found on official pages. A public lake area has no single operator."
-   ],
    "last_verified": "2026-10-11"
   }
  ]

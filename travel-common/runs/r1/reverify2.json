@@ -1,0 +1,430 @@
+{
+ "results": [
+  {
+   "place": "WEST-042",
+   "cid": "r1-b11-c18",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-021",
+   "cid": "r1-b14-c16",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "central-019",
+   "cid": "r1-b15-c10",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gyeonggi-everland",
+   "cid": "r1-b01-c5",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-seoul-national-museum-korea",
+   "cid": "r1-b01-c11",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-042",
+   "cid": "r1-b11-c16",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-chungnam-daecheon-beach",
+   "cid": "r1-b10-c10",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-qd-02",
+   "cid": "r1-b25-c9",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-badaling",
+   "cid": "r1-b20-c8",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-qd-06",
+   "cid": "r1-b25-c9",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-jeonnam-suncheon-bay-garden-overview",
+   "cid": "r1-b01-c12",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gangwon-gyeongpodae",
+   "cid": "r1-b08-c11",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-qd-05",
+   "cid": "r1-b20-c20",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gyeonggi-namhansanseong",
+   "cid": "r1-b08-c6",
+   "judgement": "ok",
+   "note": "curl SSL 실패, WebFetch로 확인: 하절기 4~10월 10:00~18:00, 동절기 11~3월 10:00~17:00.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gyeongnam-tongdosa",
+   "cid": "r1-b09-c23",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-sh-08",
+   "cid": "r1-b23-c11",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-tokyo-skytree",
+   "cid": "r1-b17-c22",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-qd-06",
+   "cid": "r1-b25-c39",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-seoul-national-museum-korea",
+   "cid": "r1-b01-c21",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-042",
+   "cid": "r1-b11-c7",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-035",
+   "cid": "r1-b13-c12",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-jeonnam-suncheon-bay-garden-overview",
+   "cid": "r1-b01-c3",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-summer-palace",
+   "cid": "r1-b26-c3",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-palace",
+   "cid": "r1-b20-c4",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "nature-cbs-01",
+   "cid": "r1-b22-c17",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-042",
+   "cid": "r1-b11-c33",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "xa-terracotta",
+   "cid": "r1-b27-c8",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-jeonbuk-jeonju-hanok-village",
+   "cid": "r1-b03-c23",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "central-035",
+   "cid": "r1-b13-c7",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-chiba-tokyo-disneyland",
+   "cid": "r1-b16-c11",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "xa-terracotta",
+   "cid": "r1-b27-c2",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gangwon-namiseom",
+   "cid": "r1-b07-c17",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-wtown",
+   "cid": "r1-b25-c18",
+   "judgement": "error",
+   "note": "페이지는 할인표 대상을 '身高1.2米至1.5米（含）'로, 무료표 대상을 '1.2米（含）以下'로 안내. 키 정확히 1.2m는 무료 대상이므로 '1.2미터 이상'은 조건 오류.",
+   "corrected_text": "키 1.2미터 초과 1.5미터 이하(1.5미터 포함) 어린이는 구베이수이전 할인표 대상이며, 1.2미터 이하(1.2미터 포함)는 무료다."
+  },
+  {
+   "place": "kr-gangwon-namiseom",
+   "cid": "r1-b07-c5",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-tokyo-skytree",
+   "cid": "r1-b17-c34",
+   "judgement": "error",
+   "note": "페이지: '天望デッキ内の券売機'(덴보 데크=지상 350m) 판매. '350층'은 오역(350m이지 350층이 아님). 나머지(덴보 데크 티켓 소지자 한정, 당일, 입장제한 시 판매 중단 가능)는 일치.",
+   "corrected_text": "덴보 회랑 티켓은 덴보 데크 티켓이 있는 사람만 방문 당일 덴보 데크(지상 350m) 안의 발권기에서 살 수 있고, 입장 제한 시 판매가 중단될 수 있다."
+  },
+  {
+   "place": "kr-jeju-hyeopjae",
+   "cid": "r1-b05-c1",
+   "judgement": "error",
+   "note": "주소 '협재리 2497-1'은 화면에 표시되나 우편번호 63011은 display:none 처리된 검색용 데이터에만 있고 보이는 본문에는 없음.",
+   "corrected_text": "협재해수욕장의 주소는 제주특별자치도 제주시 한림읍 협재리 2497-1이다."
+  },
+  {
+   "place": "xa-terracotta",
+   "cid": "r1-b27-c20",
+   "judgement": "ok",
+   "note": "curl 재시도(http)로 열림: 1980년12월 봉토 서측 20m에서 두 대 출토, '发现最早、体形最大、保存最完整'.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-chungnam-daecheon-beach",
+   "cid": "r1-b10-c7",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-incheon-chinatown-open-port-parent",
+   "cid": "r1-b09-c15",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "central-035",
+   "cid": "r1-b13-c25",
+   "judgement": "ok",
+   "note": "FAQ: 여행사 쿠폰·신용카드 불가, 현금만.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-jeju-hyeopjae",
+   "cid": "r1-b05-c10",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-seoul-national-museum-korea",
+   "cid": "r1-b01-c2",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-badaling",
+   "cid": "r1-b20-c16",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-osaka-usj",
+   "cid": "r1-b15-c23",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-seoul-n-seoul-tower",
+   "cid": "r1-b03-c27",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-041",
+   "cid": "r1-b15-c21",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-badaling",
+   "cid": "r1-b20-c23",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-sh-05",
+   "cid": "r1-b19-c12",
+   "judgement": "error",
+   "note": "페이지 보이는 본문에는 'Parking Fees' 제목만 있고 첫 1시간 30위안·30분당 15위안 등의 요금표가 없음. 표시된 금액은 'Disneytown Premium Parking ￥240.00'뿐이며 종일(1회 입장) 240위안이라는 설명도 없음.",
+   "corrected_text": "디즈니타운 주차장 안내 페이지에는 'Disneytown Premium Parking' 상품이 240위안으로 표시되어 있다(일반 요금표는 페이지에 표시되지 않음)."
+  },
+  {
+   "place": "WEST-032",
+   "cid": "r1-b14-c17",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-mutianyu",
+   "cid": "r1-b21-c5",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-jeju-udo",
+   "cid": "r1-b04-c13",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-fukuoka-canal-city",
+   "cid": "r1-b18-c7",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-tokyo-skytree",
+   "cid": "r1-b17-c17",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-sh-06",
+   "cid": "r1-b24-c17",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-tokyo-skytree",
+   "cid": "r1-b17-c24",
+   "judgement": "ok",
+   "note": "calendarData(캘린더에 렌더링): 10/1~1/1, 10:00~22:00(58일)/9:00~22:00(27)/9:00~22:30(7), 10/11=9:00~22:30, 1/1 점검.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-busan-haedong-yonggungsa",
+   "cid": "r1-b10-c16",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-busan-haeundae-parent",
+   "cid": "r1-b02-c11",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-sh-06",
+   "cid": "r1-b24-c11",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gangwon-sokcho-overview",
+   "cid": "r1-b07-c5",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-sh-06",
+   "cid": "r1-b24-c2",
+   "judgement": "ok",
+   "note": "페이지 본문과 일치.",
+   "corrected_text": ""
+  }
+ ],
+ "summary": {
+  "checked": 60,
+  "ok": 56,
+  "error": 4,
+  "cannot_open": 0
+ }
+}

@@ -1,0 +1,604 @@
+[
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c18",
+  "field": "fees",
+  "text": "단체(20명 이상) 요금은 성인 1,730엔, 고등학생 1,140엔, 초·중학생 560엔이고, 연간이용권은 성인 4,360엔(고등학생 2,880엔, 초·중학생 1,420엔)이다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/info/"
+  ]
+ },
+ {
+  "place": "WEST-021",
+  "name": "도고온천 본관",
+  "cid": "r1-b14-c16",
+  "field": "parking",
+  "text": "본관 남쪽 도고온천 주차장은 5:30~23:30, 93대이며 30분 100엔이고 외탕 3관 입욕 시 1시간 무료이다. 시영 주차장은 일반 승용차만 가능하다.",
+  "sources": [
+   "https://dogo.jp/ko/access.php"
+  ]
+ },
+ {
+  "place": "central-019",
+  "name": "나고야성·혼마루어전",
+  "cid": "r1-b15-c10",
+  "field": "parking",
+  "text": "정문 앞 주차장은 보통차 308대, 30분 이내마다 250엔이며 이용 가능 시간은 8:45~21:30(1월 2일~12월 28일)이다.",
+  "sources": [
+   "https://www.nagoyajo.city.nagoya.jp/access/"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-everland",
+  "name": "에버랜드",
+  "cid": "r1-b01-c5",
+  "field": "caution",
+  "text": "셀렉트 투어는 방문 2일 전까지 취소하면 100% 환불, 1일 전 90%, 당일 취소·노쇼는 환불 불가이며 우천 등 기상 사유 환불도 안 된다.",
+  "sources": [
+   "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date="
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c11",
+  "field": "fees",
+  "text": "어린이박물관과 무료 특별전시도 무료이다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c16",
+  "field": "fees",
+  "text": "6세 미만(미취학 아동)은 무료다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/info/"
+  ]
+ },
+ {
+  "place": "kr-chungnam-daecheon-beach",
+  "name": "보령 대천해수욕장",
+  "cid": "r1-b10-c10",
+  "field": "tip",
+  "text": "해변에는 장애인 주차장과 장애인 화장실, 촉지형 종합안내판, 점자가이드북 등이 갖춰져 있으며 열린관광지로 소개되어 있다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/opentour/detail.do?cotId=7d7bd27c-9d19-443b-adb6-6867c21e15dc"
+  ]
+ },
+ {
+  "place": "east-qd-02",
+  "name": "팔대관",
+  "cid": "r1-b25-c9",
+  "field": "description",
+  "text": "팔대관은 후이취안자오 풍경구 북쪽에 있으며 지금은 거리가 10개이지만 이름은 그대로 유지된다.",
+  "sources": [
+   "http://english.qingdao.gov.cn/about/attractions/202112/t20211228_4153036.shtml"
+  ]
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "cid": "r1-b20-c8",
+  "field": "description",
+  "text": "개방 구간은 북12루(北十二楼)부터 남7.5루(南七楼半)까지이다.",
+  "sources": [
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c9",
+  "field": "description",
+  "text": "라오산은 화강암 빙하 지형으로 상형석이 많아 '천연 조각 공원'이라 불린다.",
+  "sources": [
+   "https://qdlaoshan.cn/Index-laoshan.html"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c12",
+  "field": "fees",
+  "text": "순천만국가정원 야간 요금은 성인 5,000원, 청소년·군인 3,500원, 어린이 2,500원이다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0002/0001/",
+   "https://scbay.suncheon.go.kr/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c11",
+  "field": "highlight",
+  "text": "누각 내부에는 숙종의 어제시, 율곡 이이가 10세에 지었다는 경포대부, 조하망의 상량문 등 여러 글이 게시되어 있다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=5b4625f7-8d6c-4d26-81a4-ae034590ae31"
+  ]
+ },
+ {
+  "place": "east-qd-05",
+  "name": "칭다오맥주박물관",
+  "cid": "r1-b20-c20",
+  "field": "duration",
+  "text": "해설 서비스(중국어·외국어)는 전 과정이 약 50분이다.",
+  "sources": [
+   "https://www.tsingtaomuseum.com/articleTitleCus/1823961726126940161?viewName=newPiaowu2Detail"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c6",
+  "field": "hours",
+  "text": "남한산성행궁 관람시간은 하절기(4~10월) 10:00~18:00, 동절기(11~3월) 10:00~17:00이다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c23",
+  "field": "tip",
+  "text": "10월에는 18일 약사재일, 19일 개산대재, 31일 자비도량참법기도 등 연중 행사가 공지되어 있어 방문 전 행사 일정을 확인할 수 있다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/board.php?bo_table=menu03304"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c11",
+  "field": "tip",
+  "text": "관광안내센터의 짐 보관 요금은 가방 크기에 따라 시간당 2~4위안이다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/gqfc/20260223/89afcd3c4e3c410ab793679a9c788ae5.html"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c22",
+  "field": "parking",
+  "text": "전망대 입장권으로는 도쿄 스카이트리 타운 주차 할인 서비스를 받을 수 없다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/car/"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c39",
+  "field": "reservation",
+  "text": "2024년 9월 게시된 경구 관람 수칙에 따르면, 할인 대상 특수 계층은 유효 증명서를 지참해 방문자센터(客服中心) 현장에서 문의·구매해야 한다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-5571.html"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c21",
+  "field": "caution",
+  "text": "음식물과 안내견 외 반려동물 반입 금지, 플래시·삼각대·셀카봉·짐벌 촬영 금지, 바퀴 달린 신발 입장 불가, 배낭은 1층 물품보관함에 보관해야 한다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c7",
+  "field": "parking",
+  "text": "오토바이·자전거 주차장은 P5 주차장에서 이용할 수 있다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/faq/"
+  ]
+ },
+ {
+  "place": "WEST-035",
+  "name": "긴린코",
+  "cid": "r1-b13-c12",
+  "field": "tip",
+  "text": "문의처는 유후시 투어리스트 인포메이션 센터(전화 0977-84-2446)이다.",
+  "sources": [
+   "https://www.visit-oita.jp/spots/detail/4362"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c3",
+  "field": "hours",
+  "text": "습지 관람 시간은 08:00부터 입장 마감으로부터 1시간 뒤까지이다. 가로등이 마감 시각에 꺼지므로 일몰 30분 뒤까지만 이동 가능하다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0001/"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c3",
+  "field": "access",
+  "text": "지하철 4호선을 타고 베이궁먼(北宫门)역에서 내리면 이화원에 바로 닿는다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c4",
+  "field": "access",
+  "text": "오문 근처 정류장은 '톈안먼둥(天安门东)'과 '톈안먼시(天安门西)'이며 지하철 1호선과 여러 버스가 선다.",
+  "sources": [
+   "https://www.dpm.org.cn/Visit.html"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c17",
+  "field": "access",
+  "text": "시내버스 3호선도 창바이산 역에서 츠베이구 교통집산센터까지 운행하며 첫차 7:00, 막차 18:20, 요금 2위안이다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/zbsly/lyfw/jt/202607/t20260728_271246.html"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c33",
+  "field": "highlight",
+  "text": "'산호 바다' 수조에서는 대규모 산호 사육 전시를 볼 수 있다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/"
+  ]
+ },
+ {
+  "place": "xa-terracotta",
+  "name": "진시황제릉박물원·병마용",
+  "cid": "r1-b27-c8",
+  "field": "reservation",
+  "text": "실명제 사전 예약 입장이며, 무료 입장 대상자와 홍콩·마카오·대만 및 외국인 관람객도 공식 사이트와 위챗 공식 계정으로 예약한다.",
+  "sources": [
+   "https://www.bmy.com.cn/guide.html"
+  ]
+ },
+ {
+  "place": "kr-jeonbuk-jeonju-hanok-village",
+  "name": "전주한옥마을",
+  "cid": "r1-b03-c23",
+  "field": "language",
+  "text": "언어 표시가 없는 해설은 모두 한국어로 진행된다.",
+  "sources": [
+   "https://hanok.jeonju.go.kr/contents/tour"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c7",
+  "field": "parking",
+  "text": "근처 유료 주차장으로 GS파크 도다이지 니시다이몬 주차장(나라시 오시아게초 6-1)이 안내되어 있다.",
+  "sources": [
+   "https://www.todaiji.or.jp/access/"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c11",
+  "field": "description",
+  "text": "스페이스 마운틴, 캐리비안의 해적, 빅 썬더 마운틴, 해운티드 맨션 같은 어트랙션이 있다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1556/"
+  ]
+ },
+ {
+  "place": "xa-terracotta",
+  "name": "진시황제릉박물원·병마용",
+  "cid": "r1-b27-c2",
+  "field": "description",
+  "text": "진시황제릉박물원은 진시황 병마용박물관과 진시황릉 고고유적공원(리산위안) 두 곳으로 이루어져 있다.",
+  "sources": [
+   "https://www.bmy.com.cn/guide.html"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c17",
+  "field": "tip",
+  "text": "자전거 대여 마지막 시간은 17:20이다(2024년 8월 기준).",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c18",
+  "field": "fees",
+  "text": "키 1.2미터 이상 1.5미터 이하(1.5미터 포함) 어린이는 구베이수이전 할인표 대상이다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c5",
+  "field": "access",
+  "text": "동서울버스터미널에서 가평터미널까지 시외버스는 약 1시간 10분이며 가평터미널에서 선착장까지 약 3km다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c34",
+  "field": "fees",
+  "text": "덴보 회랑 티켓은 덴보 데크 티켓이 있는 사람만 당일 350층의 발권기에서 살 수 있고, 혼잡하면 판매가 중단될 수 있다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/ticket/"
+  ]
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "cid": "r1-b05-c1",
+  "field": "location",
+  "text": "협재해수욕장의 주소는 제주특별자치도 제주시 한림읍 협재리 2497-1이다(우편번호 63011).",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+  ]
+ },
+ {
+  "place": "xa-terracotta",
+  "name": "진시황제릉박물원·병마용",
+  "cid": "r1-b27-c20",
+  "field": "highlight",
+  "text": "1980년 12월 진시황릉 봉토 서쪽에서 채색 청동 거마 두 대가 출토되었으며, 중국 고고학사에서 가장 일찍 발견된 최대·보존 상태 최상의 청동 거마로 소개된다.",
+  "sources": [
+   "https://www.bmy.com.cn/pithorse.html"
+  ]
+ },
+ {
+  "place": "kr-chungnam-daecheon-beach",
+  "name": "보령 대천해수욕장",
+  "cid": "r1-b10-c7",
+  "field": "highlight",
+  "text": "해변 끝의 보령머드체험관에서 머드 사우나, 머드 온돌방, 머드팩, 머드 마사지를 이용할 수 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=105704"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c15",
+  "field": "tip",
+  "text": "개항장 거리는 출입구까지 턱이 없어 휠체어 접근이 가능한 무장애 관광지로 등록되어 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c25",
+  "field": "payment",
+  "text": "입당권 구입은 현금만 가능하며 여행사 쿠폰과 신용카드는 쓸 수 없다.",
+  "sources": [
+   "https://www.todaiji.or.jp/faq/",
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "cid": "r1-b05-c10",
+  "field": "description",
+  "text": "물빛이 에메랄드색이고, 썰물 때는 조개껍질 가루가 많이 섞인 밝은 백사장이 길게 이어진다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+  ]
+ },
+ {
+  "place": "kr-seoul-national-museum-korea",
+  "name": "국립중앙박물관",
+  "cid": "r1-b01-c2",
+  "field": "hours",
+  "text": "월·화·목·금·일요일은 9:30~17:30(입장 마감 17:00)에 운영한다.",
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+  ]
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "cid": "r1-b20-c16",
+  "field": "hours",
+  "text": "북선 케이블카는 성수기(4~10월) 8:00~16:30, 비수기(11~3월) 9:00~16:00에 운행한다. 구체 시간은 '长城内外旅游' 공식 계정에서 확인하라고 안내한다.",
+  "sources": [
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnjdjsNewsList&limit=30&page=1"
+  ]
+ },
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c23",
+  "field": "tip",
+  "text": "휠체어는 정문 입장 후 오른쪽 대여 카운터에서 1대 500엔(비과세), 유모차(1인용)는 1,100엔(세금 포함)에 빌릴 수 있다. 휠체어는 예약을 받지 않고, 유모차는 예약이 필요 없다. 유모차는 생후 1~48개월 대상이며 수량이 한정되어 있다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html"
+  ]
+ },
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "cid": "r1-b03-c27",
+  "field": "caution",
+  "text": "반려견 보호 공간이 없어 애완견은 동반 입장할 수 없다.",
+  "sources": [
+   "https://www.nseoultower.co.kr/global/customer/faq.asp?page=1"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c21",
+  "field": "fees",
+  "text": "오키나와현 거주 70세 이상은 입장 무료이며 창구에서 운전면허증·건강보험증 등 공적 증명서 원본을 제시해야 한다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/14/"
+  ]
+ },
+ {
+  "place": "bj-badaling",
+  "name": "바다링 만리장성",
+  "cid": "r1-b20-c23",
+  "field": "caution",
+  "text": "경내에서는 화기 사용과 흡연이 금지되며 인화·폭발·위험물 반입이 금지된다. 번개가 칠 때는 통화하지 말라고 안내한다.",
+  "sources": [
+   "http://www.badaling.cn/channelInfo/list-by-subChannelCode?m_code=dwr1Op9C3C5qVSng3ZWSFA&siteChannelCode=bdlCnGpzn&limit=20&page=1"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c12",
+  "field": "parking",
+  "text": "디즈니타운 주차장 요금은 첫 1시간 30위안, 이후 30분마다 15위안, 종일(1회 입장) 240위안이다.",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/experience/guest-service/disneytown-parking-lot"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c17",
+  "field": "parking",
+  "text": "니노마루 주차장 영업시간은 7~8월 8:00~20:30(최종 입고 19:30), 9~6월 8:00~18:30(최종 입고 17:30)이다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/access/"
+  ]
+ },
+ {
+  "place": "bj-mutianyu",
+  "name": "무톈위 만리장성",
+  "cid": "r1-b21-c5",
+  "field": "parking",
+  "text": "셔틀버스는 경구 내 공공교통이며, 관광객 차량은 산 위로 올라갈 수 없다.",
+  "sources": [
+   "https://www.mutianyugreatwall.com/cndetailcon2366"
+  ]
+ },
+ {
+  "place": "kr-jeju-udo",
+  "name": "우도",
+  "cid": "r1-b04-c13",
+  "field": "description",
+  "text": "소가 누워 있는 모습을 닮아 소섬 또는 쉐섬으로 불렸으며, 제주의 가장 큰 부속섬이다. 2024년 방문객은 약 121만 8,000명이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477"
+  ]
+ },
+ {
+  "place": "jp-fukuoka-canal-city",
+  "name": "캐널시티 하카타",
+  "cid": "r1-b18-c7",
+  "field": "parking",
+  "text": "직영 주차장 '캐널시티 파킹'은 연중무휴 24시간 운영하며 수용 대수는 1,300대이다.",
+  "sources": [
+   "https://www.canalcity.co.jp/access/parking"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c17",
+  "field": "parking",
+  "text": "주차 요금은 30분마다 450엔(세금 포함)이다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/car/"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c17",
+  "field": "hours",
+  "text": "운영시간은 매일 08:30~22:00이며 마지막 입장은 21:00이다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/en/tourist-attraction/top-of-shanghai-observatory-914985/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c24",
+  "field": "hours",
+  "text": "전망대 영업시간은 날짜마다 달라 2026-10-01~2027-01-01 캘린더에는 9:00~22:00, 10:00~22:00, 9:00~22:30 세 가지가 표시된다(예: 2026-10-11은 9:00~22:30, 평일 다수는 10:00~22:00).",
+  "sources": [
+   "https://www.tokyo-skytree.jp/open-hours/"
+  ]
+ },
+ {
+  "place": "kr-busan-haedong-yonggungsa",
+  "name": "해동용궁사",
+  "cid": "r1-b10-c16",
+  "field": "tip",
+  "text": "가까운 관광안내소는 기장역사 2층(기장읍 차성로288번길 86)이며 09:00~18:00(13:00~14:00 휴게), 신정·명절 당일 휴무, 문의 051-709-4077이다.",
+  "sources": [
+   "https://www.gijang.go.kr/tour/index.gijang?menuCd=DOM_000000310008002000"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c11",
+  "field": "description",
+  "text": "백사장은 길이 약 1.5km, 폭 30~50m이며 얕은 만이어서 해수욕에 알맞다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c11",
+  "field": "access",
+  "text": "푸둥공항에서는 택시나 자가용으로 약 40km, 50분이 걸린다.",
+  "sources": [
+   "https://en.shanghaitower.com/Publictransit.html"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c5",
+  "field": "access",
+  "text": "속초 시외버스터미널에서 7번·7-1번 버스로 설악산 입구와 소공원 방면으로 갈 수 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=204732"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c2",
+  "field": "location",
+  "text": "전망대는 상하이타워 118층, 높이 546m에 있다.",
+  "sources": [
+   "https://en.shanghaitower.com/shagnhai.html"
+  ]
+ }
+]

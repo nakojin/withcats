@@ -20,7 +20,7 @@
 | `summary`, `description`, `highlights` | 수집 claim 으로만 쓴 본문. `content_review.status` 가 `ok` 일 때만 공개. 요약은 설명문 첫 문장 |
 | `checklist` | 아래 10개 항목, 각 `{status: filled|gap|not_applicable, claims[], gap{reason, note}, partial_gaps[]}` |
 | `claims[]` | 사실 1개씩. 아래 형식 |
-| `conflicts[]` | 공식 출처끼리 다른 점과 채택 근거 |
+| `conflicts[]` | 공식 출처끼리 다른 점과 채택 근거(검증자 작업 메모, 공개하지 않음) |
 | `open_questions[]` | 체크리스트 밖의 미확인 사항(면적, 혼잡 시기 등) |
 | `content_review` | 본문 검토 결과(`ok`/`needs_fix`, 근거 없는 문장 목록) |
 | `legacy` | v1 원자료(비공개) |
@@ -45,4 +45,4 @@
 
 ## 공개 데이터
 
-`tools/build.py` 가 `v2/published/{cc}.json` 과 `v2/STATUS.md` 를 만든다. 공개 데이터에는 판정을 통과한 사실과 그 출처·확인일, 체크리스트별 보완 필요 사유만 들어간다.
+`tools/build.py` 가 `v2/published/{cc}.json` 과 `v2/STATUS.md` 를 만든다. 공개 데이터에는 판정을 통과한 사실과 그 출처·확인일, 체크리스트별 보완 필요 사유만 들어간다. `conflicts` 는 claim id 를 가리키는 내부 메모라 공개하지 않는다.

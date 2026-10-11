@@ -1,0 +1,596 @@
+[
+ {
+  "place": "jp-tokyo-shibuya-scramble",
+  "name": "시부야 스크램블 교차로",
+  "cid": "r1-b17-c8",
+  "field": "description",
+  "text": "교차로 건너편의 센터가이에는 수백 개의 상점·바·식당이 있다.",
+  "sources": [
+   "https://www.gotokyo.org/en/spot/78/"
+  ]
+ },
+ {
+  "place": "bj-summer-palace",
+  "name": "이화원",
+  "cid": "r1-b26-c18",
+  "field": "fees",
+  "text": "장애인과 현역 군인 등은 유효 증서를 제시하면 무료로 입장하고, 어린이날(6월 1일)에는 어린이가 무료이다.",
+  "sources": [
+   "https://s.visitbeijing.com.cn/attraction/101407"
+  ]
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "cid": "r1-b19-c14",
+  "field": "language",
+  "text": "국제거리 상점가 공식 사이트는 일본어, 영어, 한국어, 중국어 간체, 중국어 번체로 제공된다.",
+  "sources": [
+   "https://naha-kokusaidori.okinawa/en/"
+  ]
+ },
+ {
+  "place": "bj-mutianyu",
+  "name": "무톈위 만리장성",
+  "cid": "r1-b21-c3",
+  "field": "access",
+  "text": "셔틀버스 승강장은 검표구에서 약 3km 거리이며, 셔틀버스는 별도 요금이다.",
+  "sources": [
+   "https://www.mutianyugreatwall.com/cnInformation"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c27",
+  "field": "highlight",
+  "text": "관음사 탐방로는 계곡이 깊고 산세가 웅장하며, 입구에서 30분쯤 오르면 박쥐 집단서식지인 구린굴이 있다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=62"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c1",
+  "field": "location",
+  "text": "우캉루-안푸루 거리는 상하이시 쉬후이구에 있다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/cn/tourism-and-leisure-district/wukang-roadanfu-road-block-582543/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c11",
+  "field": "parking",
+  "text": "스쿠터는 자전거 주차 구역을 무료로 이용할 수 있고, 자전거 주차는 티켓을 제시해 직원 안내를 받아 이용한다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/arrival/"
+  ]
+ },
+ {
+  "place": "jp-nara-nara-park",
+  "name": "나라 공원",
+  "cid": "r1-b18-c13",
+  "field": "caution",
+  "text": "사슴은 국가 천연기념물로 지정된 야생동물이며, 사슴 센베이를 주는 척하며 놀리거나 놀라게 하는 행동을 피해야 한다.",
+  "sources": [
+   "https://narashikanko.or.jp/en/spot/park/narakoen/"
+  ]
+ },
+ {
+  "place": "east-su-01",
+  "name": "졸정원",
+  "cid": "r1-b24-c13",
+  "field": "hours",
+  "text": "쑤저우시 원림녹화관리국 안내(2025년 1월 게시) 기준 야간 프로그램 '拙政问雅'는 화~일 18:30~22:00, 입장 마감 21:00이며 세부 시간은 공식 위챗(苏州园林旅游) 공지를 따른다.",
+  "sources": [
+   "http://ylj.suzhou.gov.cn/szsylj/kfsj/wztt.shtml"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c14",
+  "field": "hours",
+  "text": "공식 파크 운영시간 캘린더에서 상하이 디즈니랜드는 2026-10-11 8:30~20:30, 10-12 8:30~20:00, 10-13 8:30~20:30으로 날짜마다 다르다.",
+  "sources": [
+   "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/rap/parkhour"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c26",
+  "field": "language",
+  "text": "한국관광공사가 만든 오디오가이드 앱 오디(Odii)에 수원화성과 화성행궁 해설이 들어 있고, 수원화성 리플렛은 한국어·영어·중국어·일본어로 내려받을 수 있다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=67"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c21",
+  "field": "hours",
+  "text": "보물전은 9:00~16:30(입관 16:00까지)이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden"
+  ]
+ },
+ {
+  "place": "nature-zjj-02",
+  "name": "천문산",
+  "cid": "r1-b21-c6",
+  "field": "payment",
+  "text": "경구는 입장권을 팔면서 보험료를 대신 걷으면 안 되며, 보험을 자발적으로 사려는 관광객에게는 별도 요금 창구를 마련해야 한다.",
+  "sources": [
+   "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c27",
+  "field": "tip",
+  "text": "코인 로커는 300~1,000엔이며 8시 30분부터 입장 마감까지 이용할 수 있다(캐시리스 대응, 동전 사용 가능).",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/service/"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c28",
+  "field": "tip",
+  "text": "디즈니 패스트패스는 추가 요금 없이 공식 앱으로 배부되며 발급한 당일에만 유효하다.",
+  "sources": [
+   "https://cu.apigw.shanghaidisneyresort.com/steamboat-wam/api/cfs/content?entityType=faq&entityId=full-data"
+  ]
+ },
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "cid": "r1-b03-c6",
+  "field": "closed_days",
+  "text": "N서울타워는 1년 365일 연중무휴이다.",
+  "sources": [
+   "https://www.nseoultower.co.kr/visit/use.asp"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c41",
+  "field": "caution",
+  "text": "반려동물 동반, 드론·자전거·킥보드 반입, 플래시 사용, 동물 먹이 주기 등이 금지된다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/service/notice"
+  ]
+ },
+ {
+  "place": "jp-fukuoka-canal-city",
+  "name": "캐널시티 하카타",
+  "cid": "r1-b18-c14",
+  "field": "hours",
+  "text": "레스토랑의 기본 영업시간은 11:00~23:00이다.",
+  "sources": [
+   "https://www.canalcity.co.jp/service/"
+  ]
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "cid": "r1-b19-c1",
+  "field": "location",
+  "text": "국제거리는 나하시 현청 북쪽 입구(팔레트 구모지 교차로 직전)에서 아사토 교차로까지 이어지며 길이는 약 1.6km이다.",
+  "sources": [
+   "https://www.naha-navi.or.jp/en/magazine/2016/03/11322/"
+  ]
+ },
+ {
+  "place": "central-019",
+  "name": "나고야성·혼마루어전",
+  "cid": "r1-b15-c24",
+  "field": "payment",
+  "text": "입장권 창구에서 일본 엔 현금과 신용카드(VISA, Mastercard, JCB, 은련, AMEX, Diners, Discover), 교통계 IC, iD·QUICPay, PayPay, Alipay, WeChat Pay 등 캐시리스 결제를 쓸 수 있다. 도쿠가와엔 공통권은 현금만 가능하다.",
+  "sources": [
+   "https://www.nagoyajo.city.nagoya.jp/info/fee/"
+  ]
+ },
+ {
+  "place": "jp-kyoto-arashiyama-bamboo",
+  "name": "아라시야마 대나무숲",
+  "cid": "r1-b18-c10",
+  "field": "highlight",
+  "text": "란덴 사가역 방향으로 걸으면 대나무로 만든 물건을 파는 가게들이 이어진다.",
+  "sources": [
+   "https://www.japan.travel/en/spot/1141/"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c1",
+  "field": "location",
+  "text": "통도사 주소는 경상남도 양산시 하북면 통도사로 108(우편번호 50501)이다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+  ]
+ },
+ {
+  "place": "cn-shanghai-oriental-pearl",
+  "name": "동방명주 타워",
+  "cid": "r1-b27-c9",
+  "field": "fees",
+  "text": "2025년 9월 상하이시 문화관광국 목록 기준 [2구 관광+동방명주 유람선] 연계표의 성인 정가는 279위안이다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c19",
+  "field": "description",
+  "text": "한국관광공사는 남이섬을 동화나라와 노래나라를 콘셉트로 공연·전시·콘서트를 여는 곳으로 소개한다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c15",
+  "field": "closed_days",
+  "text": "특별한 행사나 긴급 사태가 없으면 쉬는 날 없이 운영한다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c40",
+  "field": "highlight",
+  "text": "보물전은 미치자네 관련 문화재 약 1만 점을 소장하고 국보 '한원(翰苑)' 등을 갖추고 있다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/keidaiannai",
+   "https://www.dazaifutenmangu.or.jp/keidaiannai/houmotsuden"
+  ]
+ },
+ {
+  "place": "jp-yamanashi-fuji-kawaguchiko",
+  "name": "후지산·가와구치코",
+  "cid": "r1-b17-c22",
+  "field": "language",
+  "text": "후지산 등산 공식 사이트에는 시즌 외 등산의 위험을 알리는 한국어 영상이 올라와 있다(한국어 전용 페이지는 제공되지 않음).",
+  "sources": [
+   "https://www.fujisan-climb.jp/en/"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c24",
+  "field": "tip",
+  "text": "전망대 상담 전화는 (8621)2065 6999이고, 공식 사이트의 문의 핫라인은 (8621)80370150(월~일 09:00~18:00)이다.",
+  "sources": [
+   "https://en.shanghaitower.com/contactus.html",
+   "https://en.shanghaitower.com/shagnhai.html"
+  ]
+ },
+ {
+  "place": "kr-incheon-wolmi-culture-street",
+  "name": "월미문화의거리",
+  "cid": "r1-b09-c11",
+  "field": "tip",
+  "text": "출입구까지 턱이 없어 휠체어 접근이 가능하고, 인근 월미전통공원 안내소에서 휠체어를 빌릴 수 있으며 장애인 화장실이 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21120710052543179"
+  ]
+ },
+ {
+  "place": "kr-busan-haedong-yonggungsa",
+  "name": "해동용궁사",
+  "cid": "r1-b10-c12",
+  "field": "highlight",
+  "text": "대웅전 옆 굴법당(미륵전)의 미륵좌상 석불은 득남불로 불리며, 대웅전 앞에는 사사자 석탑이 있다.",
+  "sources": [
+   "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=2116b628-ded9-42c2-b17e-99d17b5b65e4"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c28",
+  "field": "fees",
+  "text": "셀프 오디오 가이드 대여료는 전체 구역 30위안/대/일, 박물관 20위안/대/일이다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/service/explain"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c20",
+  "field": "tip",
+  "text": "입장권은 수족관 입장권 판매소와 웹사이트(アソビュー)에서 살 수 있고, 단체 티켓과 연간이용권은 판매소에서만 판다. 매표소에서 신분증이나 학생증 제시를 요청받을 수 있다. 당일에 한해 재입장이 가능하며 재입장 시 입구에서 입장권을 제시한다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/info/",
+   "https://churaumi.okinawa/kr/faq/"
+  ]
+ },
+ {
+  "place": "east-sh-06",
+  "name": "상하이타워 전망대",
+  "cid": "r1-b24-c9",
+  "field": "access",
+  "text": "지하철 2호선 루자주이역 6번 출구에서 상하이 IFC몰 LG2를 지나 걸어서 간다.",
+  "sources": [
+   "https://en.shanghaitower.com/Publictransit.html"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c24",
+  "field": "description",
+  "text": "2016년 지진으로 천수각 최상층 기와와 샤치가와라가 떨어지고 지하 석축이 무너지는 등 피해를 입었다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/ko/about/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-seoraksan-parent",
+  "name": "설악산",
+  "cid": "r1-b07-c26",
+  "field": "caution",
+  "text": "휠체어도 탑승할 수 있으며 엘리베이터로 2층 탑승장까지 이동한다.",
+  "sources": [
+   "https://www.sorakcablecar.co.kr/"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-jinjuseong",
+  "name": "진주성",
+  "cid": "r1-b10-c15",
+  "field": "tip",
+  "text": "성 안 국립진주박물관 관람은 무료이며 09:00~18:00(입장 마감 17:30), 매주 월요일(월요일이 공휴일이면 다음 첫 평일)과 1월 1일, 설·추석 당일은 휴관한다.",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=21f2f7aa-5ed6-4121-9d00-596444fbe174"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-namhansanseong",
+  "name": "남한산성",
+  "cid": "r1-b08-c1",
+  "field": "location",
+  "text": "남한산성세계유산센터의 도로명 주소는 경기도 광주시 남한산성면 남한산성로 731이고 지번은 산성리 158-1이다.",
+  "sources": [
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1287&menuId=3515",
+   "https://www.gg.go.kr/namhansansung-2/contents/contents.do?ciIdx=1274&menuId=3486"
+  ]
+ },
+ {
+  "place": "jp-fukuoka-canal-city",
+  "name": "캐널시티 하카타",
+  "cid": "r1-b18-c24",
+  "field": "payment",
+  "text": "센터워크 B1F의 세븐은행 ATM(7:00~24:00)에서는 해외 금융기관이 발행한 신용카드·현금카드로 현금을 인출할 수 있다.",
+  "sources": [
+   "https://www.canalcity.co.jp/service/"
+  ]
+ },
+ {
+  "place": "kr-seoul-changdeokgung",
+  "name": "창덕궁",
+  "cid": "r1-b02-c28",
+  "field": "description",
+  "text": "서울에서 두 번째로 유네스코 세계유산에 올랐고, 동아시아 궁궐 건축사에서의 아름다움과 자연환경과의 배치가 뛰어나 대표 궁궐로 선정되었다.",
+  "sources": [
+   "https://english.visitseoul.net/attractions/changdeokgung%20palace%20_/296"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c10",
+  "field": "hours",
+  "text": "관광공사 기본정보는 가평나루 출발 배를 08:00~09:00 30분 간격, 09:00~18:00 10~20분 간격으로 안내하고 상황에 따라 바뀔 수 있다고 적는다. 봄꽃·여름휴가·단풍철에는 운영시간이 길어진다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=215120"
+  ]
+ },
+ {
+  "place": "east-sh-05",
+  "name": "상하이 디즈니랜드",
+  "cid": "r1-b19-c16",
+  "field": "fees",
+  "text": "2025년 8월 공식 보도자료 기준, 리조트는 30일 앞까지 보여 주는 롤링 가격 캘린더를 제공하며 날짜별 티켓 가격은 그 캘린더에서 확인한다.",
+  "sources": [
+   "https://shcorporate.shanghaidisneyresort.com/wp-content/uploads/2025/08/%E6%96%B0%E9%97%BB%E7%A8%BF-%E8%BF%99%E4%B8%AA%E9%87%91%E7%A7%8B%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%BA%A6%E5%81%87%E5%8C%BA%E8%90%8C%E8%81%9A%E8%BE%BE%E8%8F%B2%E6%9C%88%EF%BC%8C%E7%8E%A9%E8%BD%AC%E4%B8%87%E5%9C%A3%E5%AD%A3%EF%BC%8C%E7%95%85%E6%B8%B8%E5%A5%87%E5%A6%99%E5%81%87%E6%9C%9F.pdf"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-andong-hahoe-village",
+  "name": "안동 하회마을",
+  "cid": "r1-b06-c12",
+  "field": "duration",
+  "text": "안동시 관람시간표의 하회마을 전체 관람 소요시간은 약 1시간~1시간 30분이다.",
+  "sources": [
+   "https://www.tourandong.com/public/sub5/sub2_2.cshtml"
+  ]
+ },
+ {
+  "place": "central-032",
+  "name": "오사카성 천수각",
+  "cid": "r1-b12-c13",
+  "field": "fees",
+  "text": "입관료는 성인 1,200엔이다(2025년 4월 1일부터 변경된 요금).",
+  "sources": [
+   "https://www.osakacastle.net/guide/"
+  ]
+ },
+ {
+  "place": "cn-shanghai-oriental-pearl",
+  "name": "동방명주 타워",
+  "cid": "r1-b27-c13",
+  "field": "tip",
+  "text": "관광객 문의 전화는 58792888(상하이 시내번호)이다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/cysc/20250912/b34d37b3289f43389c18d98c8ae23d62.html"
+  ]
+ },
+ {
+  "place": "east-qd-06",
+  "name": "라오산 풍경구",
+  "cid": "r1-b25-c13",
+  "field": "fees",
+  "text": "공식 요금표(이미지) 기준 4월 1일~12월 31일 주수이 유람구(주수이·화러우, 당일 유효): 문표 60위안, 관광버스표 30위안, 합계 90위안이다.",
+  "sources": [
+   "https://qdlaoshan.cn/News-info-nid-6407.html"
+  ]
+ },
+ {
+  "place": "jp-fukuoka-canal-city",
+  "name": "캐널시티 하카타",
+  "cid": "r1-b18-c15",
+  "field": "closed_days",
+  "text": "시설은 연중무휴이며, 점포마다 정기 휴무일이 있을 수 있다.",
+  "sources": [
+   "https://www.canalcity.co.jp/foreign_visitors/"
+  ]
+ },
+ {
+  "place": "central-035",
+  "name": "도다이지 대불전",
+  "cid": "r1-b13-c13",
+  "field": "hours",
+  "text": "도다이지 뮤지엄은 4~10월 9:30~17:30(최종 입관 17:00)이다.",
+  "sources": [
+   "https://www.todaiji.or.jp/information/haikan/"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c16",
+  "field": "description",
+  "text": "센소지 공식 한국어 페이지는 센소지를 도쿄에서 가장 오래된 사찰로 소개하며 연간 약 3,000만 명이 참배한다고 적고 있다.",
+  "sources": [
+   "https://www.senso-ji.jp/korean/"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c3",
+  "field": "access",
+  "text": "성판악 탐방로 대중교통은 281번(제주버스터미널~서귀포버스터미널, 06:00~22:00, 약 45~50분)과 181·182번(공항 연결)이 경유한다.",
+  "sources": [
+   "https://visithalla.jeju.go.kr/contents/contents.do?id=61"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c33",
+  "field": "payment",
+  "text": "공식 웹사이트 티켓 결제는 Amex, Mastercard, Visa, JCB, 유니온페이, Discover, Diners, Apple Pay, Google Pay를 받으며, 현금은 현장 매표소에서만 가능하다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/faqs/tickets/"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c7",
+  "field": "parking",
+  "text": "고궁박물원에는 전용 주차장이 없고, 가장 가까운 공영 주차장은 징산 후가(景山后街)에 있으나 주차 면수가 적다.",
+  "sources": [
+   "https://www.dpm.org.cn/Visit.html"
+  ]
+ },
+ {
+  "place": "kr-busan-gwangalli-bridge-overview",
+  "name": "광안리·광안대교",
+  "cid": "r1-b02-c17",
+  "field": "hours",
+  "text": "드론쇼 공연 시각은 3~9월 20:00·22:00, 10~2월 19:00·21:00이며 날씨에 따라 바뀔 수 있다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194990"
+  ]
+ },
+ {
+  "place": "central-019",
+  "name": "나고야성·혼마루어전",
+  "cid": "r1-b15-c12",
+  "field": "parking",
+  "text": "대형차 야간 주차를 제외하면 주차장 예약 제도는 없고 선착순이다.",
+  "sources": [
+   "https://www.nagoyajo.city.nagoya.jp/info/faq/"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c30",
+  "field": "reservation",
+  "text": "60세 이상과 6세 이하(또는 1.3m 이하) 어린이를 제외한 모든 방문자는 온라인 실명 예약 후 예약 시 입력한 본인 신분증을 가져가야 한다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/service/ticket"
+  ]
+ },
+ {
+  "place": "jp-east-sensoji",
+  "name": "센소지",
+  "cid": "r1-b12-c10",
+  "field": "fees",
+  "text": "도쿄도 관광 사이트(GO TOKYO)는 센소지에 무료(Free) 키워드를 붙여 입장 무료로 분류한다.",
+  "sources": [
+   "https://www.gotokyo.org/en/spot/15/index.html"
+  ]
+ },
+ {
+  "place": "xa-terracotta",
+  "name": "진시황제릉박물원·병마용",
+  "cid": "r1-b27-c18",
+  "field": "highlight",
+  "text": "1987년 12월 유네스코가 진시황제릉(병마용갱 포함)을 세계유산 목록에 올렸다.",
+  "sources": [
+   "https://www.bmy.com.cn/about.html"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c7",
+  "field": "parking",
+  "text": "주차요금은 소형 6,000원, 대형 10,000원이며 12시간 초과 시 1시간마다 1,000원이 추가된다(호텔 정관루 투숙객 제외).",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c9",
+  "field": "fees",
+  "text": "입장권은 당일만 유효하며 국가정원 입장권으로 7km 떨어진 순천만습지까지 볼 수 있다. 습지 입장권으로 국가정원에 입장할 때는 입장권을 제시해야 한다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0002/0001/"
+  ]
+ },
+ {
+  "place": "nature-zjj-02",
+  "name": "천문산",
+  "cid": "r1-b21-c2",
+  "field": "fees",
+  "text": "이 입장권 가격 통지는 2025년 8월 1일부터 시행되며 유효기간은 5년이다.",
+  "sources": [
+   "http://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202508/t20250825_33782047.html"
+  ]
+ }
+]

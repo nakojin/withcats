@@ -1,0 +1,605 @@
+[
+ {
+  "place": "jp-osaka-usj",
+  "name": "유니버설 스튜디오 재팬",
+  "cid": "r1-b15-c24",
+  "field": "tip",
+  "text": "파크 밖 물품 보관함은 개장 1시간 전부터 폐장 시간까지 이용할 수 있다. 공식 앱으로 어트랙션 대기 시간을 확인할 수 있다.",
+  "sources": [
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/faq/index.html",
+   "https://www.usj.co.jp/contentdata/usj/ko/kr/park-guide/schedule/park-hour2/index.html"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c1",
+  "field": "location",
+  "text": "주소는 〒905-0206 오키나와현 구니가미군 모토부쵸 이시카와 424번지이며 해양박공원 안에 있다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/hour/"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c22",
+  "field": "reservation",
+  "text": "구매한 입장권은 사용 후 환불이 안 되며, 미사용 표는 관람 전날 24:00까지 원래 예약 채널에서 환불하면 노쇼로 치지 않는다. 그 후(당일 포함) 환불은 노쇼 1회로 계산된다.",
+  "sources": [
+   "https://ticket.dpm.org.cn/"
+  ]
+ },
+ {
+  "place": "bj-palace",
+  "name": "고궁박물원(자금성)",
+  "cid": "r1-b20-c17",
+  "field": "reservation",
+  "text": "실명제로 운영하며 당일권은 팔지 않는다. 입장권은 관람 7일 전 20:00부터 예약할 수 있고 당일에만 유효하다.",
+  "sources": [
+   "https://ticket.dpm.org.cn/"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-suwon-hwaseong",
+  "name": "수원화성",
+  "cid": "r1-b08-c12",
+  "field": "fees",
+  "text": "한복(개량한복 포함) 착용자, 65세 이상(신분증), 6세 이하 취학 전 아동, 장애인복지법상 해당자(중증은 동행 1인 포함)는 관람료가 전액 면제된다.",
+  "sources": [
+   "https://www.swcf.or.kr/?p=8",
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+  "name": "경주 대릉원·동궁과 월지",
+  "cid": "r1-b06-c11",
+  "field": "fees",
+  "text": "천마총·동궁과 월지 등 9개소는 경주시민, 만 6세 이하·만 65세 이상, 장애인등록증 소지자, 국가유공자 본인·배우자·유족, 기초생활수급자가 무료이다.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c9",
+  "field": "caution",
+  "text": "불국사에는 반려동물이 입장할 수 없다.",
+  "sources": [
+   "http://www.bulguksa.or.kr/bbs/content.php?co_id=application"
+  ]
+ },
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "cid": "r1-b03-c29",
+  "field": "tip",
+  "text": "맑은 날에는 전방 50km까지 보이며 동쪽 아차산·뚝섬, 서쪽 양화대교·난지도, 남쪽 관악산·예술의전당, 북쪽 북한산·청계천을 볼 수 있다.",
+  "sources": [
+   "https://www.nseoultower.co.kr/global/customer/faq.asp?page=3"
+  ]
+ },
+ {
+  "place": "bj-mutianyu",
+  "name": "무톈위 만리장성",
+  "cid": "r1-b21-c28",
+  "field": "caution",
+  "text": "경구 내 흡연, 불 사용, 인화성 물질 반입, 반려동물 동반은 금지된다.",
+  "sources": [
+   "https://www.mutianyugreatwall.com/cnInformation"
+  ]
+ },
+ {
+  "place": "nature-cbs-01",
+  "name": "백두산 중국 측 북경구",
+  "cid": "r1-b22-c11",
+  "field": "access",
+  "text": "츠베이구 교통집산센터에서 사전 점검 통로를 거친 뒤 A관 검표구에서 안면 인식으로 확인하고, 경구 버스로 핵심 관람 구역에 간다.",
+  "sources": [
+   "http://www.changbaishan.gov.cn/zbsly/lydt/202610/t20261008_272004.html"
+  ]
+ },
+ {
+  "place": "central-027",
+  "name": "후시미 이나리 타이샤",
+  "cid": "r1-b12-c7",
+  "field": "parking",
+  "text": "12월 30일부터 1월 6일까지는 경내 주차장을 폐쇄한다.",
+  "sources": [
+   "https://inari.jp/access/"
+  ]
+ },
+ {
+  "place": "jp-fukuoka-canal-city",
+  "name": "캐널시티 하카타",
+  "cid": "r1-b18-c22",
+  "field": "tip",
+  "text": "코인로커는 센터워크 2F·B1F, 사우스빌딩 B2F, 이스트빌딩 1F에 있고 이용 시간은 7:00~AM0:30, 요금은 1일(1회) 400엔부터이며 최대 3일까지 이용할 수 있다.",
+  "sources": [
+   "https://www.canalcity.co.jp/service/"
+  ]
+ },
+ {
+  "place": "bj-mutianyu",
+  "name": "무톈위 만리장성",
+  "cid": "r1-b21-c7",
+  "field": "access",
+  "text": "케이블카 티켓 구매자는 북쪽 검표구로만 입장하고, 곤돌라(索道)·슬라이드 티켓 구매자는 슬라이드 검표구로만 입장한다.",
+  "sources": [
+   "https://www.mutianyugreatwall.com/cnInformation"
+  ]
+ },
+ {
+  "place": "jp-chiba-tokyo-disneyland",
+  "name": "도쿄 디즈니랜드",
+  "cid": "r1-b16-c7",
+  "field": "access",
+  "text": "나리타공항에서 JR로 마이하마역까지 1시간 20분, 파크 입구까지 버스로 1시간 걸린다.",
+  "sources": [
+   "https://www.gotokyo.org/en/destinations/beyond-tokyo/tokyo-disney.html"
+  ]
+ },
+ {
+  "place": "kr-jeju-seongsan-ilchulbong",
+  "name": "성산일출봉",
+  "cid": "r1-b04-c10",
+  "field": "fees",
+  "text": "정상으로 오르는 구간은 유료이고, 우뭇개해안 등 주변을 둘러보는 구간은 무료 탐방구간이다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349"
+  ]
+ },
+ {
+  "place": "WEST-032",
+  "name": "구마모토성",
+  "cid": "r1-b14-c4",
+  "field": "closed_days",
+  "text": "영문 안내 페이지에 적힌 휴원일은 12월 29일 하루이며, 악천후 시 공원이 닫힐 수 있다.",
+  "sources": [
+   "https://castle.kumamoto-guide.jp/en/info/"
+  ]
+ },
+ {
+  "place": "central-019",
+  "name": "나고야성·혼마루어전",
+  "cid": "r1-b15-c6",
+  "field": "highlight",
+  "text": "천수각 등불은 매일 일몰부터 오후 11시까지 켜지며, 매월 8일은 오후 9시 30분까지이고 절전 캠페인으로 일찍 꺼질 수 있다.",
+  "sources": [
+   "https://www.nagoyajo.city.nagoya.jp/info/faq/"
+  ]
+ },
+ {
+  "place": "kr-gyeonggi-everland",
+  "name": "에버랜드",
+  "cid": "r1-b01-c3",
+  "field": "parking",
+  "text": "셀렉트 투어에는 정문 가까이 발레파킹 1대와 정문 게이트 우선 입장, 이용권, Q-PASS 쿠폰(1인 5매)이 포함된다.",
+  "sources": [
+   "https://reservation.everland.com/web/el.do?forward_method=getProduct&high_menu_id=0101&menu_id=01100100000000000005&method=getProduct&top_menu_id=01&visit_date="
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c6",
+  "field": "description",
+  "text": "리조트 안에 부티크 호텔이 10곳 있다.",
+  "sources": [
+   "https://www.wtown.com/pc/about/source.html"
+  ]
+ },
+ {
+  "place": "WEST-042",
+  "name": "오키나와 추라우미수족관",
+  "cid": "r1-b11-c9",
+  "field": "hours",
+  "text": "평상시 운영시간은 8:30~18:30이고 입장 마감은 17:30이다.",
+  "sources": [
+   "https://churaumi.okinawa/kr/guide/hour/"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c12",
+  "field": "hours",
+  "text": "폐문 시각은 4~5월·9~11월 19:00, 6~8월 19:30, 12~3월 18:30이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/omairi"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c9",
+  "field": "hours",
+  "text": "우캉루 관광안내센터는 일요일~금요일 9:00~17:00, 토요일과 법정 공휴일 9:00~20:30에 운영한다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/gqfc/20260223/89afcd3c4e3c410ab793679a9c788ae5.html"
+  ]
+ },
+ {
+  "place": "east-sh-08",
+  "name": "우캉루 역사거리",
+  "cid": "r1-b23-c5",
+  "field": "caution",
+  "text": "우캉빌딩은 주민 거주 건물이라 내부는 일반에 공개되지 않는다.",
+  "sources": [
+   "https://www.meet-in-shanghai.net/tc/shanghai-citywalk-route-recommendation/roam-the-city-walk-on-wukang-road-699518/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c31",
+  "field": "reservation",
+  "text": "입장 시 e-티켓의 바코드와 예약 번호를 제시하며, 결제에 쓴 카드나 신분증 확인을 요청받을 수 있다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/ticket-terms/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c6",
+  "field": "highlight",
+  "text": "맑은 날에는 350m 덴보 데크에서 후지산도 보인다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/"
+  ]
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c11",
+  "field": "caution",
+  "text": "보행가구 구역에서는 무허가로 노점을 열어 물건을 파는 행위가 금지된다.",
+  "sources": [
+   "https://www.shanghai.gov.cn/nw12344/20220127/4d4d52f387ea43909221b0f7c82dbfe9.html"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c3",
+  "field": "access",
+  "text": "니시테쓰 다자이후역에서 내려 도보 5분이다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/access"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c6",
+  "field": "access",
+  "text": "가장 가까운 역은 유이레일 슈리역이며, 슈리역에서 슈레이문까지 도보 약 15분이다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/access/9751/"
+  ]
+ },
+ {
+  "place": "kr-gangwon-sokcho-overview",
+  "name": "속초",
+  "cid": "r1-b07-c12",
+  "field": "description",
+  "text": "설악 관광특구는 속초(104.9㎢)·고성(30.5㎢)·양양(2.8㎢)에 걸쳐 총 138.2㎢이며 속초가 가장 넓다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=74222"
+  ]
+ },
+ {
+  "place": "central-019",
+  "name": "나고야성·혼마루어전",
+  "cid": "r1-b15-c28",
+  "field": "caution",
+  "text": "반려동물은 리드를 하면 성내 입장이 되나 혼마루어전·니시노마루 고쿠라조호칸 등 건물 안은 금지이다(보조견 제외).",
+  "sources": [
+   "https://www.nagoyajo.city.nagoya.jp/info/faq/"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c11",
+  "field": "fees",
+  "text": "입장료는 2023년 5월 4일부터 무료다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+  ]
+ },
+ {
+  "place": "bj-wtown",
+  "name": "구베이수이전·쓰마타이 장성 리조트",
+  "cid": "r1-b25-c16",
+  "field": "fees",
+  "text": "쓰마타이 장성 입장권은 40위안이다.",
+  "sources": [
+   "https://www.wtown.com/pc/travel/question.html"
+  ]
+ },
+ {
+  "place": "jp-okinawa-kokusai-dori",
+  "name": "국제거리(나하)",
+  "cid": "r1-b19-c10",
+  "field": "description",
+  "text": "1만 명 에이사 춤 퍼레이드(一万人のエイサー踊り隊)는 국제거리에서 열리며, 2026년 제32회는 10월 18일(일) 14:00~21:00에 개최된다(2025년 제31회는 10월 19일 개최).",
+  "sources": [
+   "https://www.naha-navi.or.jp/en/magazine/2016/03/11322/"
+  ]
+ },
+ {
+  "place": "kr-jeju-hyeopjae",
+  "name": "협재해수욕장",
+  "cid": "r1-b05-c9",
+  "field": "description",
+  "text": "제주시 한림읍에 있으며 제주올레 14코스의 일부이고, 금능해수욕장과 이어져 쌍둥이 해변으로 불린다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c47",
+  "field": "language",
+  "text": "공식 사이트는 한국어를 포함한 8개 언어 선택을 제공한다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c10",
+  "field": "parking",
+  "text": "인천 차이나타운에는 유료 주차장이 있고 장애인 전용 주차칸이 따로 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008"
+  ]
+ },
+ {
+  "place": "kr-busan-gamcheon-culture-village",
+  "name": "감천문화마을",
+  "cid": "r1-b11-c3",
+  "field": "description",
+  "text": "1950년대 태극도 신앙촌이 조성되면서 오늘날의 마을 모습이 갖추어졌고, 천마산 자락을 따라 계단식 주거지가 이어진다.",
+  "sources": [
+   "https://www.gamcheon.or.kr/gamcheon/page/user/intro1"
+  ]
+ },
+ {
+  "place": "east-sh-03",
+  "name": "난징둥루 보행거리",
+  "cid": "r1-b23-c14",
+  "field": "payment",
+  "text": "난징루 보행거리의 신세계청(新世界城)에 있는 외국 카드 POS 단말기가 모두 업그레이드를 마쳤다고 2023년에 공지되었다.",
+  "sources": [
+   "https://whlyj.sh.gov.cn/wlyw/20231106/781e20eb51f64849ad604cee30f89a70.html"
+  ]
+ },
+ {
+  "place": "cd-panda-base",
+  "name": "청두 판다번식연구기지",
+  "cid": "r1-b22-c15",
+  "field": "hours",
+  "text": "판다탑(熊猫塔)은 9:00-17:00 개방하고 16:30에 입장을 마감한다.",
+  "sources": [
+   "https://www.panda.org.cn/cn/service/opentime"
+  ]
+ },
+ {
+  "place": "kr-gangwon-gyeongpodae",
+  "name": "경포대",
+  "cid": "r1-b08-c4",
+  "field": "fees",
+  "text": "경포대 입장료는 무료이며 별도 시설이용료도 없다.",
+  "sources": [
+   "https://www.gn.go.kr/tour/prog/lod/Sights/S01/sub02_02_01/view.do?cid=255"
+  ]
+ },
+ {
+  "place": "kr-gangwon-namiseom",
+  "name": "남이섬",
+  "cid": "r1-b07-c11",
+  "field": "closed_days",
+  "text": "휴무일이 없고 연중 운영한다.",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111127&menuSn=351"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c16",
+  "field": "hours",
+  "text": "'Super Peak 2' 일정인 날(예: 2026-10-17)은 오픈 08:30, 첫 투어 09:00, 마지막 투어 시작 17:00, 마감 21:00이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/wp-admin/admin-ajax.php"
+  ]
+ },
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "cid": "r1-b03-c30",
+  "field": "tip",
+  "text": "디지털 망원경은 Tower 5F·4F·2F(루프테라스)에 있고 최대 36배 광학 줌으로 도심을 볼 수 있다.",
+  "sources": [
+   "https://www.nseoultower.co.kr/visit/observatory.asp"
+  ]
+ },
+ {
+  "place": "kr-seoul-n-seoul-tower",
+  "name": "N서울타워(남산)",
+  "cid": "r1-b03-c16",
+  "field": "access",
+  "text": "01A 남산 순환버스는 충무로역(3·4호선)·동대입구역(3호선)에서 탈 수 있고 배차 간격 9분, 운영 06:30~23:00, 요금 1,500원(환승 가능)이다.",
+  "sources": [
+   "https://www.nseoultower.co.kr/visit/traffic.asp"
+  ]
+ },
+ {
+  "place": "WEST-041",
+  "name": "슈리성공원",
+  "cid": "r1-b15-c31",
+  "field": "caution",
+  "text": "공원 안에서는 드론 반입·비행이 금지된다.",
+  "sources": [
+   "https://oki-park.jp/shurijo/info/1315/"
+  ]
+ },
+ {
+  "place": "kr-seoul-changdeokgung",
+  "name": "창덕궁",
+  "cid": "r1-b02-c6",
+  "field": "closed_days",
+  "text": "정기 휴관일은 매주 월요일이다. 월요일이 공휴일이면 개방하고, 그 공휴일 다음의 첫 비공휴일이 휴관일이다.",
+  "sources": [
+   "https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesCdgGuide1.jsp&mn=NS_01_25",
+   "https://english.visitseoul.net/area/2024-cdggarden/ENPl8f5md"
+  ]
+ },
+ {
+  "place": "kr-jeju-hallasan",
+  "name": "한라산",
+  "cid": "r1-b04-c25",
+  "field": "description",
+  "text": "한라산은 해발 1,950m로 남한 최고봉이며, 1966년 천연기념물 제182호 '한라산 천연보호구역'으로, 1970년 국립공원으로 지정되었다. 2007년 '제주 화산섬과 용암동굴' 세계자연유산 등재로 그 구성요소가 되었고, 2010년 한라산을 포함한 제주도가 세계지질공원으로 인증받았다.",
+  "sources": [
+   "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500685"
+  ]
+ },
+ {
+  "place": "kr-incheon-chinatown-open-port-parent",
+  "name": "인천 차이나타운·개항장",
+  "cid": "r1-b09-c19",
+  "field": "highlight",
+  "text": "개항누리길에서는 청·일 조계지 경계계단과 당시 지은 서양식 건축물, 인천개항박물관, 인천아트플랫폼, 차이나타운, 짜장면박물관 등을 만날 수 있다.",
+  "sources": [
+   "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209"
+  ]
+ },
+ {
+  "place": "WEST-026",
+  "name": "다자이후 덴만구",
+  "cid": "r1-b13-c36",
+  "field": "highlight",
+  "text": "큰 녹나무(大樟)는 수령 1,500년이 넘고 국가 천연기념물로 지정되어 있다.",
+  "sources": [
+   "https://www.dazaifutenmangu.or.jp/keidaiannai"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c33",
+  "field": "fees",
+  "text": "공식 티켓 페이지는 어린이 요금을 '중학생까지', 어른 요금을 '고등학생 이상'이라고도 설명한다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/ticket/"
+  ]
+ },
+ {
+  "place": "kr-busan-haeundae-parent",
+  "name": "부산 해운대",
+  "cid": "r1-b02-c3",
+  "field": "parking",
+  "text": "해운대해수욕장에는 주차가 가능하다고 안내된다(요금은 미확인).",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053"
+  ]
+ },
+ {
+  "place": "kr-seoul-changdeokgung",
+  "name": "창덕궁",
+  "cid": "r1-b02-c24",
+  "field": "caution",
+  "text": "창덕궁 전 구역이 금연이고 음식물, 주류, 돗자리·텐트·그늘막, 취사도구 반입이 금지되며 안내견 외 애완동물은 출입할 수 없다.",
+  "sources": [
+   "https://www.cha.go.kr/html/HtmlPage.do?pg=/watch_info/palacesCdgViewRule.jsp&mn=NS_01_25"
+  ]
+ },
+ {
+  "place": "jp-tokyo-skytree",
+  "name": "도쿄 스카이트리",
+  "cid": "r1-b17-c1",
+  "field": "location",
+  "text": "도쿄 스카이트리의 주소는 도쿄도 스미다구 오시아게 1-1-2(우편번호 131-0045)이다.",
+  "sources": [
+   "https://www.tokyo-skytree.jp/en/access/"
+  ]
+ },
+ {
+  "place": "kr-jeonnam-suncheon-bay-garden-overview",
+  "name": "순천만습지·국가정원",
+  "cid": "r1-b01-c2",
+  "field": "hours",
+  "text": "순천만습지 매표(입장)는 11~2월 08:00~17:00, 3~4월·9~10월 08:00~18:00, 5~8월 08:00~19:00이다.",
+  "sources": [
+   "https://scbay.suncheon.go.kr/wetland/information/0001/"
+  ]
+ },
+ {
+  "place": "jp-tokyo-wb-studio-tour",
+  "name": "워너 브라더스 스튜디오 투어 도쿄 - 메이킹 오브 해리 포터",
+  "cid": "r1-b16-c1",
+  "field": "location",
+  "text": "시설 주소는 1-1-7 Kasugacho, Nerima-ku, Tokyo 179-0074이다.",
+  "sources": [
+   "https://www.wbstudiotour.jp/en/plan-your-visit/location/"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c9",
+  "field": "hours",
+  "text": "금강계단 참배 가능 시간은 오전 11시~오후 2시이며, 입장 가능일은 음력 1~3일, 15일, 18일, 24일이다. 비가 오거나 바닥이 젖어 있으면 열지 않는다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501"
+  ]
+ },
+ {
+  "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+  "name": "경주 불국사·석굴암",
+  "cid": "r1-b05-c4",
+  "field": "fees",
+  "text": "석굴암 관람료도 2023년 5월 4일부터 무료이다.",
+  "sources": [
+   "http://www.seokguram.org/bbs/content.php?co_id=price"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c13",
+  "field": "parking",
+  "text": "주차비 면제 대상은 해당 연도 회비를 낸 전국 신도증 소지자와 통도사 신도증 소지자, 그리고 '장애인 주차가능' 스티커 부착 복지카드 대상자 차량이다(주차불가 스티커 차량은 50% 부과).",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01106"
+  ]
+ },
+ {
+  "place": "kr-gyeongnam-tongdosa",
+  "name": "양산 통도사",
+  "cid": "r1-b09-c18",
+  "field": "description",
+  "text": "'영축산통도사' 편액이 걸린 일주문에서부터 본격적인 경내가 시작되고, 가람 배치는 동서로 길게 이루어져 있다.",
+  "sources": [
+   "https://tongdosa.or.kr/bbs/content.php?co_id=menu01501_01"
+  ]
+ },
+ {
+  "place": "bj-mutianyu",
+  "name": "무톈위 만리장성",
+  "cid": "r1-b21-c34",
+  "field": "tip",
+  "text": "문의 전화는 티켓 010-61626928, 단체 010-61626022, 불만 접수 010-61626873, 구조 010-61626537이다.",
+  "sources": [
+   "https://www.mutianyugreatwall.com/cndetailcon1941"
+  ]
+ }
+]

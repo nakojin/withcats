@@ -1,0 +1,430 @@
+{
+ "results": [
+  {
+   "place": "jp-osaka-usj",
+   "cid": "r1-b15-c24",
+   "judgement": "ok",
+   "note": "FAQ: 파크 외부 물품 보관함 개장 1시간 전~폐장; park-hour 페이지: 공식 앱으로 오늘의 대기 시간 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-042",
+   "cid": "r1-b11-c1",
+   "judgement": "ok",
+   "note": "페이지 하단 주소 〒905-0206 모토부쵸 이시카와 424번지 확인; 해양박공원 내 시설로 안내.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-palace",
+   "cid": "r1-b20-c22",
+   "judgement": "ok",
+   "note": "购票须知 7항과 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-palace",
+   "cid": "r1-b20-c17",
+   "judgement": "ok",
+   "note": "实名制·不售当日票·参观7日前20:00开售·限参观当日有效 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gyeonggi-suwon-hwaseong",
+   "cid": "r1-b08-c12",
+   "judgement": "error",
+   "note": "한복 착용자는 '면제 및 감면' 항목에 올라 있으나 면제 정도(전액)가 명시되지 않음; 65세 이상·6세 이하·장애인만 '전액면제'로 명시(swcf.or.kr, suwon.go.kr 모두 동일).",
+   "corrected_text": "한복(개량한복 포함) 착용자는 관람료 면제·감면 대상이며, 65세 이상(신분증 소지), 6세 이하 취학 전 아동, 장애인복지법상 해당자(중증은 돌보는 사람 1명 포함)는 관람료가 전액 면제된다."
+  },
+  {
+   "place": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+   "cid": "r1-b06-c11",
+   "judgement": "ok",
+   "note": "9개소 무료 대상 목록 일치(유족은 유족증서 소지자, 장애인등록증 소지자).",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+   "cid": "r1-b05-c9",
+   "judgement": "ok",
+   "note": "'*반려동물 입장 불가.' 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-seoul-n-seoul-tower",
+   "cid": "r1-b03-c29",
+   "judgement": "ok",
+   "note": "FAQ 문구와 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-mutianyu",
+   "cid": "r1-b21-c28",
+   "judgement": "ok",
+   "note": "游览须知: 不要吸烟/明火, 易燃易爆物 반입 금지, 禁止携带宠物 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "nature-cbs-01",
+   "cid": "r1-b22-c11",
+   "judgement": "ok",
+   "note": "2026-10-08 기사: 预检→A馆检票口 刷脸核验→景区大巴 핵심 관람구역 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "central-027",
+   "cid": "r1-b12-c7",
+   "judgement": "ok",
+   "note": "12月30日より1月6日迄は境内駐車場を閉鎖 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-fukuoka-canal-city",
+   "cid": "r1-b18-c22",
+   "judgement": "ok",
+   "note": "4개 위치, 7:00~AM0:30, 400엔~/1일(1회), 최대 3일 확인(이스트빌딩은 자전거 주차장 쪽 입구에서 24시간 가능 부기 생략).",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-mutianyu",
+   "cid": "r1-b21-c7",
+   "judgement": "ok",
+   "note": "缆车票→北检票口, 索道及滑道→滑道检票口 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-chiba-tokyo-disneyland",
+   "cid": "r1-b16-c7",
+   "judgement": "ok",
+   "note": "From Narita: 1h20 to Maihama via JR or 1 hour to Park entrance by bus 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-jeju-seongsan-ilchulbong",
+   "cid": "r1-b04-c10",
+   "judgement": "ok",
+   "note": "유료 탐방구간/우뭇개해안 등 무료 탐방구간 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-032",
+   "cid": "r1-b14-c4",
+   "judgement": "ok",
+   "note": "Closing Day December 29th; may be closed due to severe weather 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "central-019",
+   "cid": "r1-b15-c6",
+   "judgement": "ok",
+   "note": "FAQ: 일몰~오후11시, 매월 8일 21:30, ライトダウンキャンペーン으로 조기 소등 가능 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gyeonggi-everland",
+   "cid": "r1-b01-c3",
+   "judgement": "ok",
+   "note": "기본 구성: 발레파킹(1대) 정문 가까이, 정문 게이트 우선 입장, 이용권, Q-PASS 1인/5매 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-wtown",
+   "cid": "r1-b25-c6",
+   "judgement": "ok",
+   "note": "10家精品酒店 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-042",
+   "cid": "r1-b11-c9",
+   "judgement": "ok",
+   "note": "정상기 8:30~18:30, 입장 마감 17:30 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-026",
+   "cid": "r1-b13-c12",
+   "judgement": "ok",
+   "note": "閉門 4〜5月/9〜11月 19:00, 6〜8月 19:30, 12〜3月 18:30 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-sh-08",
+   "cid": "r1-b23-c9",
+   "judgement": "ok",
+   "note": "武康路旅游咨询中心 周日至周五9:00—17:00, 周六及法定节假日9:00—20:30 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-sh-08",
+   "cid": "r1-b23-c5",
+   "judgement": "ok",
+   "note": "武康大樓: 居民住宅，不對外開放 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-tokyo-wb-studio-tour",
+   "cid": "r1-b16-c31",
+   "judgement": "ok",
+   "note": "e-ticket barcode+Ticket reference number 제시, ID 또는 결제 카드 확인 요청 가능 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-tokyo-skytree",
+   "cid": "r1-b17-c6",
+   "judgement": "ok",
+   "note": "Floor 350 Tembo Deck: on clear days you can even spot Mt. Fuji 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-sh-03",
+   "cid": "r1-b23-c11",
+   "judgement": "ok",
+   "note": "条例 第二十三条: 擅自设摊经营，兜售物品 금지 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-026",
+   "cid": "r1-b13-c3",
+   "judgement": "ok",
+   "note": "西鉄太宰府駅 下車後 徒歩5分 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-041",
+   "cid": "r1-b15-c6",
+   "judgement": "ok",
+   "note": "首里駅から守礼門まで徒歩 約15分, 最寄駅 首里駅 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gangwon-sokcho-overview",
+   "cid": "r1-b07-c12",
+   "judgement": "ok",
+   "note": "Area 138.2k㎡ (Sokcho 104.9, Goseong 30.5, Yangyang 2.8) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "central-019",
+   "cid": "r1-b15-c28",
+   "judgement": "ok",
+   "note": "FAQ: 리드 착용 시 입장 가능, 本丸御殿・西の丸御蔵城宝館 등 건물 내 금지(보조견 가능) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gyeongnam-tongdosa",
+   "cid": "r1-b09-c11",
+   "judgement": "ok",
+   "note": "'2023년 5월 4일부터 무료 적용' 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-wtown",
+   "cid": "r1-b25-c16",
+   "judgement": "ok",
+   "note": "司马台长城门票价格40元/人 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-okinawa-kokusai-dori",
+   "cid": "r1-b19-c10",
+   "judgement": "error",
+   "note": "인용 페이지(2016년 기사)는 '매년 8월 국제거리에서 열린다'고만 하며 2026년 제32회 10월 18일 14:00~21:00, 2025년 제31회 10월 19일 등 날짜·회차 정보는 페이지에 없음(개최 월도 8월로 상이).",
+   "corrected_text": "1만 명 에이사 춤 퍼레이드(一万人のエイサー踊り隊)는 국제거리에서 열리며, 인용 페이지에는 매년 8월 개최로 안내되어 있다."
+  },
+  {
+   "place": "kr-jeju-hyeopjae",
+   "cid": "r1-b05-c9",
+   "judgement": "ok",
+   "note": "제주시 한림읍, 제주올레 14코스 일부, 금능해수욕장과 이어져 쌍둥이 해변 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-tokyo-skytree",
+   "cid": "r1-b17-c47",
+   "judgement": "ok",
+   "note": "언어 메뉴: 日本語, English, 简体中文, 繁體中文, 한국어, Français, Español, Deutsch = 8개 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-incheon-chinatown-open-port-parent",
+   "cid": "r1-b09-c10",
+   "judgement": "ok",
+   "note": "주차 안내 '있음(유료)', '장애인 전용 별도 주차칸 있음' 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-busan-gamcheon-culture-village",
+   "cid": "r1-b11-c3",
+   "judgement": "ok",
+   "note": "인트로 문구와 일치.",
+   "corrected_text": ""
+  },
+  {
+   "place": "east-sh-03",
+   "cid": "r1-b23-c14",
+   "judgement": "ok",
+   "note": "2023-11-04 게시: 南京路步行街新世界城 所有外卡POS机均已完成升级 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "cd-panda-base",
+   "cid": "r1-b22-c15",
+   "judgement": "ok",
+   "note": "熊猫塔开放时间为9:00——17:00，16:30停止入场 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gangwon-gyeongpodae",
+   "cid": "r1-b08-c4",
+   "judgement": "ok",
+   "note": "입장료 무료, 시설이용료 없음 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gangwon-namiseom",
+   "cid": "r1-b07-c11",
+   "judgement": "ok",
+   "note": "Holiday: N/A (Open all year round) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-tokyo-wb-studio-tour",
+   "cid": "r1-b16-c16",
+   "judgement": "ok",
+   "note": "admin-ajax.php에 action=get_events, date=2026-10-17 POST 결과 schedule 'Super Peak 2', 08:30/09:00/17:00/21:00 확인(GET은 400).",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-seoul-n-seoul-tower",
+   "cid": "r1-b03-c30",
+   "judgement": "ok",
+   "note": "Tower 5F 디지털 망원경, 최대 36배 광학 줌, 위치 Tower 2F(Roof terrace)/4F/5F 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-seoul-n-seoul-tower",
+   "cid": "r1-b03-c16",
+   "judgement": "ok",
+   "note": "01A: 충무로역(3,4호선)·동대입구역(3호선), 매일 9분, 06:30~23:00, 1,500원(환승 가능) 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-041",
+   "cid": "r1-b15-c31",
+   "judgement": "ok",
+   "note": "園内ではドローンの持ち込みや飛行は禁止 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-seoul-changdeokgung",
+   "cid": "r1-b02-c6",
+   "judgement": "ok",
+   "note": "cha.go.kr: 정기 휴관일 매주 월요일, 공휴일이면 개방하고 다음 첫 비공휴일 휴관 확인(VisitSeoul도 동일).",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-jeju-hallasan",
+   "cid": "r1-b04-c25",
+   "judgement": "ok",
+   "note": "1,950m 남한 최고, 1966 천연기념물 제182호, 1970 국립공원, 2007 세계자연유산 구성요소, 2010 세계지질공원 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-incheon-chinatown-open-port-parent",
+   "cid": "r1-b09-c19",
+   "judgement": "ok",
+   "note": "(curl 연결 실패, WebFetch로 확인) 경계계단·서양식 건축물·인천개항박물관·인천아트플랫폼·차이나타운·짜장면박물관 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "WEST-026",
+   "cid": "r1-b13-c36",
+   "judgement": "ok",
+   "note": "大樟 樹齢1,500年を越え、国指定天然記念物 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-tokyo-skytree",
+   "cid": "r1-b17-c33",
+   "judgement": "ok",
+   "note": "中学生まではこども料金、高校生以上は大人料金 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-busan-haeundae-parent",
+   "cid": "r1-b02-c3",
+   "judgement": "ok",
+   "note": "Haeundae Beach 페이지 Parking: Available 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-seoul-changdeokgung",
+   "cid": "r1-b02-c24",
+   "judgement": "ok",
+   "note": "(curl 연결 실패, WebFetch로 확인) 전 구역 금연, 음식물·주류·야영용품(텐트·돗자리·그늘막)·취사도구 반입 금지, 안내견 외 애완동물 출입 금지 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-tokyo-skytree",
+   "cid": "r1-b17-c1",
+   "judgement": "ok",
+   "note": "1-1-2 Oshiage, Sumida-ku, Tokyo 131-0045 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-jeonnam-suncheon-bay-garden-overview",
+   "cid": "r1-b01-c2",
+   "judgement": "ok",
+   "note": "매표(입장) 11~2월 08:00~17:00, 3~4·9~10월 08:00~18:00, 5~8월 08:00~19:00 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "jp-tokyo-wb-studio-tour",
+   "cid": "r1-b16-c1",
+   "judgement": "ok",
+   "note": "Address: 1-1-7 Kasugacho, Nerimaku, Tokyo 179-0074 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gyeongnam-tongdosa",
+   "cid": "r1-b09-c9",
+   "judgement": "ok",
+   "note": "입장가능일 음 1~3일·15일·18일·24일, 오전 11시~오후 2시, 우천/바닥 젖으면 미개방 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gyeongbuk-bulguksa-seokguram-group",
+   "cid": "r1-b05-c4",
+   "judgement": "ok",
+   "note": "'2023년 5월 4일부터 관람료는 무료' 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gyeongnam-tongdosa",
+   "cid": "r1-b09-c13",
+   "judgement": "ok",
+   "note": "주차비 면제 대상 및 주차불가 스티커 50% 부과 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "kr-gyeongnam-tongdosa",
+   "cid": "r1-b09-c18",
+   "judgement": "ok",
+   "note": "'영축산통도사' 편액 일주문부터 본격 경내, 가람배치 동서로 길게 확인.",
+   "corrected_text": ""
+  },
+  {
+   "place": "bj-mutianyu",
+   "cid": "r1-b21-c34",
+   "judgement": "ok",
+   "note": "票务 010-61626928, 团队 010-61626022, 投诉 010-61626873, 救援 010-61626537 확인.",
+   "corrected_text": ""
+  }
+ ],
+ "summary": {
+  "checked": 60,
+  "ok": 58,
+  "error": 2,
+  "cannot_open": 0
+ }
+}
