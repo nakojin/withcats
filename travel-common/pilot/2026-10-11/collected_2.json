@@ -1,0 +1,1003 @@
+[
+ {
+  "key": "new:jp-osaka-dotonbori",
+  "name_ko": "도톤보리",
+  "name_local": "道頓堀",
+  "admin_region": "오사카부 오사카시 주오구",
+  "address": "大阪市中央区道頓堀 (공식 표기는 지번 없는 지구명)",
+  "summary": "오사카 미나미를 대표하는 번화가로, 대형 입체 간판과 극장, 음식점이 강변을 따라 이어진다. 난바역에서 바로 닿고 거리 자체는 입장료가 없다.",
+  "description": "도톤보리는 오사카 미나미 지역을 대표하는 번화가로, 극장 쇼치쿠자와 대형 입체 간판이 늘어선 식도락·공연 거리다. 이름은 1612년 이 운하를 파기 시작한 야스이 도톤에서 왔고, 1615년 공사가 끝나 그를 기리며 도톤보리라 불렀다. 1626년 이름난 극장이 옮겨 오면서 극장 거리로 성장했고, 이것이 오늘날 음식과 라이브 공연의 거리로 이어졌다. 강변에는 에비스바시~닛폰바시와 미나토마치 구간 600m의 산책로 돈보리 리버워크가 열려 있으며 무료다. 강변 쪽 출입구를 둔 가게가 30곳 넘고 유람선도 다닌다. 영업시간과 휴일은 점포마다 다르다. 난바역(메트로 미도스지선·센니치마에선·욧쓰바시선, 긴테쓰, 난카이)에서 바로 닿는다.",
+  "highlights": [
+   "쇼치쿠자, 구이다오레 게, 글리코 등 대형 입체 간판 거리",
+   "1612년 야스이 도톤이 파기 시작한 운하에서 유래한 이름",
+   "강변 산책로 돈보리 리버워크(에비스바시~닛폰바시, 미나토마치 600m)",
+   "강변 산책로에서 연 20회 정도 열리는 이벤트",
+   "구시카쓰 다루마 빌딩 옥상의 회전하는 다루마 대신 조형물",
+   "도톤보리강 유람선 크루즈"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "공식 관광 안내의 주소는 오사카시 주오구 도톤보리이다.",
+    "value": "大阪市中央区道頓堀",
+    "evidence": "住所 大阪市中央区道頓堀",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/spot/dotonbori/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "난바역(오사카 메트로 미도스지선·센니치마에선·욧쓰바시선, 긴테쓰, 난카이)에서 바로 닿는 거리다.",
+    "value": null,
+    "evidence": "Right outside Namba Station on the Nankai and Kintetsu Railways and Osaka Metro",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/en/spot/dotonbori/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "도톤보리 상점회 안내에 따르면 지하철 미도스지선 난바역 14번 출구에서 걸어서 가까운 거리다.",
+    "value": "난바역 14번 출구",
+    "evidence": "Short walk from Namba Station of Subway Midosuji Line (exit No.14)",
+    "sources": [
+     {
+      "url": "http://www.dotonbori.or.jp/en/access/index.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "간사이공항에서는 난카이 공항급행 래피트로 난바역까지 약 35분 걸리고, 리무진 버스로 OCAT(난바)까지 약 50분 걸린다.",
+    "value": "35분/50분",
+    "evidence": "Nankai Airport Express “Rapid” to Namba Station. It takes about 35 minutes.",
+    "sources": [
+     {
+      "url": "http://www.dotonbori.or.jp/en/access/index.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "이타미공항에서는 리무진 버스로 난바 또는 OCAT(난바)까지 약 40분 걸린다.",
+    "value": "40분",
+    "evidence": "Airport Limousine bus to Namba or OCAT (Namba). It takes about 40 minutes.",
+    "sources": [
+     {
+      "url": "http://www.dotonbori.or.jp/en/access/index.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "hours",
+    "text": "영업시간은 점포마다 다르며 지구 전체의 공통 시간은 없다.",
+    "value": "점포별",
+    "evidence": "営業時間 店舗により異なる",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/spot/dotonbori/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "closed_days",
+    "text": "휴일도 점포마다 다르다.",
+    "value": "점포별",
+    "evidence": "休日 店舗により異なる",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/spot/dotonbori/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "fees",
+    "text": "강변 산책로 돈보리 리버워크의 이용 요금은 무료로 표시되어 있다.",
+    "value": "무료",
+    "evidence": "Price Free",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/en/spot/tombori-riverwalk/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "access",
+    "text": "돈보리 리버워크의 접근은 오사카 메트로 난바역, 긴테쓰·난카이 난바역으로 안내된다.",
+    "value": null,
+    "evidence": "Access Osaka Metro Namba Station Kintetsu/Nankai Namba Station",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/en/spot/tombori-riverwalk/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "highlight",
+    "text": "돈보리 리버워크는 에비스바시~닛폰바시와 미나토마치 구간 합계 600m가 개방되어 있다.",
+    "value": "600m",
+    "evidence": "Ebisubashi-Nipponbashi and Minatomachi sections (600 meters in total)",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/en/spot/tombori-riverwalk/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "highlight",
+    "text": "리버워크 쪽으로 강변 출입구를 둔 점포가 30곳 넘고, 도톤보리강 유람선 선착장도 마련되어 있다.",
+    "value": "30곳 이상",
+    "evidence": "More than 30 stores now have riverside entrances",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/en/spot/tombori-riverwalk/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "highlight",
+    "text": "돈보리 리버워크에서는 연간 약 20회의 이벤트가 열린다.",
+    "value": "약 20회/년",
+    "evidence": "Around 20 events are held annually on the Tonbori River Walk",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/en/spot/tombori-riverwalk/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "description",
+    "text": "도톤보리라는 이름은 1612년 사재를 들여 강을 파기 시작한 야스이 도톤에서 유래했다.",
+    "value": "1612",
+    "evidence": "name of Doton Yasui ... excavated in 1612",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/en/spot/dotonbori/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "description",
+    "text": "운하 공사는 1615년 완성되었고, 도톤 사후 그의 공을 기려 도톤보리라 이름 붙였다.",
+    "value": "1615",
+    "evidence": "In 1615, the canal project was completed and named Dotonbori",
+    "sources": [
+     {
+      "url": "http://www.dotonbori.or.jp/en/about/index.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "description",
+    "text": "1626년 이름난 극장이 미나미로 옮겨 오면서 이 일대가 극장 거리로 바뀌었다.",
+    "value": "1626",
+    "evidence": "relocated to Dotonbori. So Dotonbori turned into a theater town.",
+    "sources": [
+     {
+      "url": "http://www.dotonbori.or.jp/en/chronological/index.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "description",
+    "text": "극장·가부키로 번성하며 찻집이 늘어난 것이 지금의 음식과 라이브 엔터테인먼트 거리의 바탕이 되었다.",
+    "value": null,
+    "evidence": "basis for its current status as a place for food and live entertainment",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/en/spot/dotonbori/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "highlight",
+    "text": "쇼치쿠자, 구이다오레(게 요리점), 글리코 등의 대형 입체 간판이 늘어서 있다.",
+    "value": null,
+    "evidence": "giant three-dimensional signs of ... Shochikuza theater, the Kani-Doraku, Glico",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/en/spot/dotonbori/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "highlight",
+    "text": "구시카쓰 다루마 빌딩 옥상에 회전하는 '다루마 대신' 조형물이 새 명물로 설치되어 있다.",
+    "value": null,
+    "evidence": "“Daruma Minister” landmark on the rooftop of the Kushikatsu Daruma building",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/en/spot/dotonbori/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "description",
+    "text": "에비스바시 근처의 쇼치쿠자가 현재 도톤보리에 남은 유일한 연극 극장이며, 코미디 공연장도 있다.",
+    "value": null,
+    "evidence": "the only theater is the Shochikuza near Ebisubashi",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/en/spot/dotonbori/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "description",
+    "text": "코로나로 한산했다가 2022년 10월부터 예전의 활기를 되찾아 가는 중이라고 안내한다.",
+    "value": "2022-10",
+    "evidence": "gradual return to its former glory since October of 2022",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/en/spot/dotonbori/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "caution",
+    "text": "도톤보리 상점회 사무국 연락처는 06-6211-4542이다.",
+    "value": "06-6211-4542",
+    "evidence": "06-6211-4542 (Dotonbori Shopping Association Secretariat)",
+    "sources": [
+     {
+      "url": "https://osaka-info.jp/en/spot/dotonbori/",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "duration",
+    "reason": "공식 페이지에 소요시간 안내 없음"
+   },
+   {
+    "field": "reservation",
+    "reason": "거리 지구라 예약 개념이 공식 페이지에 없음(점포별 별도)"
+   },
+   {
+    "field": "payment",
+    "reason": "결제수단은 점포별이며 공식 안내 없음"
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내판·가이드 정보를 공식 출처에서 찾지 못함"
+   },
+   {
+    "field": "parking",
+    "reason": "공식 출처에 주차 안내 없음"
+   },
+   {
+    "field": "caution",
+    "reason": "안전·금지·혼잡 시기 정보가 공식 페이지에 없음(블로그만 존재, 인용 불가)"
+   },
+   {
+    "field": "fees",
+    "reason": "도톤보리 지구 자체의 요금 문구는 없음. 무료 표기는 리버워크에 한정"
+   },
+   {
+    "field": "hours",
+    "reason": "리버워크 개방 시간은 공식 페이지에 없음. 외부 사이트 tonbori.jp 는 2015년 내용으로 오래됨(stale_source)"
+   },
+   {
+    "field": "location",
+    "reason": "지번 주소는 공식 출처에 없음. 좌표 대조(OSM)는 수행하지 않음"
+   }
+  ]
+ },
+ {
+  "key": "east-sh-02",
+  "name_ko": "예원",
+  "name_local": "豫园",
+  "admin_region": "상하이시 황푸구",
+  "address": "上海市黄浦区福佑路168号(북문), 豫园老街279号(남문), 사무소 安仁街218号",
+  "summary": "명대 개인 정원에서 출발한 400여 년 역사의 강남 고전 정원으로, 전국중점문물보호단위다. 월요일 휴원, 성수기 40위안, 비수기 30위안이다.",
+  "description": "예원은 상하이 구시가지 동북부에 있는 명대 개인 정원으로, 1559년부터 판윈돤이 부친을 위해 20여 년에 걸쳐 지었다. 전국중점문물보호단위이자 국가 AAAA급 관광지다. 원래 70여 무였으나 현재는 30여 무이고 1961년 9월 복원되어 공개됐다. 삼수당은 높이 9m의 주요 건물이고, 대가산은 약 14m로 명대 장난양이 쌓았다. 점점 아름다워진다는 뜻의 회랑 앞에는 1290년 주조된 원대 철사자가 있다. 개방은 9:00~16:30(16:00 입장 마감)이며 월요일은 쉰다. 성수기(4~6월, 9~11월) 성인 40위안, 비수기 30위안이다. 지하철 10호선·14호선 위위안역에서 접근하며 전용 주차장은 없다.",
+  "highlights": [
+   "명대 1559년부터 조성된 강남 고전 정원, 전국중점문물보호단위",
+   "삼수당(높이 9m, 정원의 주요 건물)",
+   "대가산(약 14m, 명대 장난양 축조)",
+   "원대 철사자(1290년 주조)와 높이 약 2.3m의 태호석 '미인요'",
+   "1999년 장쩌민이 쓴 '해상명원' 제자",
+   "남문 구곡교 입구와 북문 두 곳의 입구"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "예원 사무소 주소는 상하이시 황푸구 안런가 218호이다.",
+    "value": "安仁街218号",
+    "evidence": "办公地址 上海市黄浦区安仁街218号",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "location",
+    "text": "북문은 푸유로 168호로 단체와 개별 관광객 입구이다.",
+    "value": "福佑路168号",
+    "evidence": "豫园北门：上海市黄浦区福佑路168号（团队、散客入口）",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "location",
+    "text": "남문은 위위안라오제 279호, 구곡교를 내려오는 곳에 있으며 개별 관광객만 이용할 수 있다.",
+    "value": "豫园老街279号",
+    "evidence": "豫园南门：上海市黄浦区豫园老街279号（九曲桥下桥口处，仅散客入口）",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "location",
+    "text": "상하이시 정부 영문 사이트는 예원 주소를 황푸구 푸유로 168호로 표기한다.",
+    "value": "No 168 Fuyou Road, Huangpu district",
+    "evidence": "Address: No 168 Fuyou Road, Huangpu district",
+    "sources": [
+     {
+      "url": "https://english.shanghai.gov.cn/en-ScenicSpots/20231205/dc76893b94c248d195eaf7f4d44c6597.html",
+      "type": "government",
+      "page_updated": "2025-08-13"
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "지하철 10호선·14호선 위위안역에서 접근하며, 버스 11·26·64·736·926·929·932·969·980로와 팡촨선도 닿는다.",
+    "value": "10호선/14호선 豫园站",
+    "evidence": "地铁10号线、14号线(豫园站)，公交11路、26路、64路",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/traffic.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "parking",
+    "text": "예원에는 전용 주차장이 없으며 대중교통이나 주변 유료 주차장을 이용하라고 안내한다.",
+    "value": "전용 주차장 없음",
+    "evidence": "豫园没有专用景区停车场",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/traffic.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "개방 시간은 9:00~16:30이며 16:00에 입장이 마감된다.",
+    "value": "09:00-16:30, 입장마감 16:00",
+    "evidence": "9:00—16:30 （16:00停止入园，16:30闭园）",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "closed_days",
+    "text": "매주 월요일 휴원이며 법정 공휴일은 예외이고, 춘절 기간 운영시간은 별도 공지를 따른다.",
+    "value": "월요일(공휴일 제외)",
+    "evidence": "每周一闭园（国家法定节假日除外，春节期间开放时间以公告时间为准）",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "fees",
+    "text": "성수기(4월 1일~6월 30일, 9월 1일~11월 30일) 성인 입장료는 40위안이다.",
+    "value": "40 CNY",
+    "evidence": "旺季（每年4月1日至6月30日，9月1日至11月30日）【成人每位40元】",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "fees",
+    "text": "비수기(7~8월, 12월 1일~3월 31일) 성인 입장료는 30위안이다.",
+    "value": "30 CNY",
+    "evidence": "淡季（每年7月1日至8月31日，12月1日至3月31日）【成人每位30元】",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "fees",
+    "text": "6세 초과~18세 이하 미성년자와 대학 학부 이하 전일제 학생은 신분증·학생증 제시 시 반값이다.",
+    "value": "반값",
+    "evidence": "实行半价优惠",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "fees",
+    "text": "만 60세 이상 노인은 신분증 제시 시 반값이다.",
+    "value": "반값",
+    "evidence": "60周岁（含）以上老人凭本人身份证等有效证件实行半价优惠",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "fees",
+    "text": "할인표는 1인 1일 1장만 살 수 있다.",
+    "value": "1장/일",
+    "evidence": "优惠票每人每日限购一张",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "fees",
+    "text": "키 1.3m 이하 또는 만 6세 이하 어린이는 무료이며, 성인 1명이 3명까지 동반할 수 있고 단체는 해당되지 않는다.",
+    "value": "무료",
+    "evidence": "1名成人限带3名儿童；非团体",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "fees",
+    "text": "장애인, 현역·장애 군인, 열사·순직·병사 군인 유가족, 현역 군인 가족, 소방구조대원, 재직 경찰은 유효 증명서 확인 후 무료 입장한다.",
+    "value": "무료(증명서)",
+    "evidence": "凭有效证件登记验证后免票入园",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "reservation",
+    "text": "표는 남문·북문 매표 창구에서 현장 구매하거나 공식 '上海豫园' 미니프로그램으로 온라인 구매한다. 사전 예약 의무 문구는 이 페이지에 없다.",
+    "value": "창구/미니프로그램",
+    "evidence": "线下豫园南北门均设有售票窗口，线上在“上海豫园”官方小程序购票",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "caution",
+    "text": "공식 판매 채널에서만 표를 사라고 안내한다.",
+    "value": null,
+    "evidence": "请在豫园官方销售渠道购票",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "caution",
+    "text": "위험물과 반려동물은 반입 금지이며 안내견만 예외다.",
+    "value": null,
+    "evidence": "宠物（符合规定的导盲犬除外）",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "caution",
+    "text": "흡연(전자담배 포함), 음주, 화기, 드론, 가산·고건축 오르기, 낙서 등이 금지된다.",
+    "value": null,
+    "evidence": "吸烟（含电子烟）、饮酒、使用明火、升放无人机、攀爬古建假山",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "caution",
+    "text": "웨딩·화보 등 영리 촬영은 받지 않으며 대형 카메라, 플래시, 반사판 사용이 제한된다.",
+    "value": null,
+    "evidence": "园内谢绝拍摄婚纱、写真或开展其他盈利性拍摄活动",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "caution",
+    "text": "길이 고르지 않고 계단, 석교, 연못, 이끼가 많으며, 비·눈이 오면 바닥이 매우 미끄럽다.",
+    "value": null,
+    "evidence": "雨雪天气时，园内步道非常湿滑",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "caution",
+    "text": "수하물 보관 서비스는 제공되지 않는다.",
+    "value": "수하물 보관 불가",
+    "evidence": "园方暂时无法提供行李寄存服务",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "caution",
+    "text": "야생 소동물이 가끔 나타나며 쫓거나 만지지 말고 피해 가라고 안내한다.",
+    "value": null,
+    "evidence": "偶有野生小动物出没，禁止追捉、触碰",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "caution",
+    "text": "걸어서 관람하는 곳이며 유모차·휠체어는 안전에 주의해야 한다. 고령자·임산부·미성년자는 보호자 동반을 권한다.",
+    "value": null,
+    "evidence": "豫园适合步行参观，如确需使用儿童推车或轮椅",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "description",
+    "text": "예원은 상하이 구시가지 동북부에 있고 북쪽은 푸유로, 동쪽은 안런가에 접한 전국중점문물보호단위이다.",
+    "value": null,
+    "evidence": "位于上海老城厢东北部，北靠福佑路，东临安仁街",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/history-scenery.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "description",
+    "text": "예원은 국가 AAAA급 관광지이자 전국중점문물보호단위이다.",
+    "value": "AAAA",
+    "evidence": "全国重点文物保护单位、国家AAAA级旅游景区",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "description",
+    "text": "판윈돤이 부친을 편히 모시기 위해 1559년부터 20여 년에 걸쳐 정원을 지었다.",
+    "value": "1559",
+    "evidence": "明嘉靖己未年（1559年）起",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/history-scenery.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "description",
+    "text": "조성 당시 부지는 70여 무였고 명대 조원가 장난양이 설계했다.",
+    "value": "70여 무",
+    "evidence": "豫园当时占地七十余亩，由明代造园名家张南阳精心设计",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/history-scenery.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "description",
+    "text": "1956년부터 5년간 대규모 수리를 거쳐 1961년 9월 일반에 공개되었고, 현재 부지는 30여 무이다.",
+    "value": "1961-09",
+    "evidence": "于1961年9月对外开放。现豫园占地三十余亩",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/history-scenery.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "highlight",
+    "text": "삼수당은 높이 9m로 정원의 주요 건물이며 청대에는 관청 행사 장소로 쓰였다.",
+    "value": "9m",
+    "evidence": "三穗堂高九米，为园内主要建筑",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/introduce-01.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "highlight",
+    "text": "대가산은 명대 첩산 전문가 장난양이 쌓았으며 높이 14m이다.",
+    "value": "14m",
+    "evidence": "山高十四米",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/introduce-01.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c32",
+    "field": "highlight",
+    "text": "회랑 '점입가경' 앞에는 1290년 주조된 원대 철사자가 있다.",
+    "value": "1290",
+    "evidence": "铸造于1290年",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/introduce-01.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c33",
+    "field": "highlight",
+    "text": "회랑 가운데 높이 약 2.3m의 태호석 입봉이 서 있어 '미인요'라 불린다.",
+    "value": "2.3m",
+    "evidence": "高约2.3米，亭亭玉立，故名“美人腰”",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/introduce-01.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c34",
+    "field": "highlight",
+    "text": "'해상명원' 제자는 1999년 5월 18일 예원 창건 440주년을 기념해 쓴 것이다.",
+    "value": "1999-05-18",
+    "evidence": "一九九九年五月十八日 ... 为庆祝豫园肇建440周年所题",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/introduce-01.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c35",
+    "field": "highlight",
+    "text": "정원은 삼수당, 만화루, 회경루, 점춘당, 옥화당, 내원 6개 구역으로 나뉜다.",
+    "value": "6개 구역",
+    "evidence": "三穗堂景区 万花楼景区 会景楼景区 点春堂景区 玉华堂景区 内园景区",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/introduce-01.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c36",
+    "field": "description",
+    "text": "상하이시 정부 영문 사이트는 예원을 40여 개 경관이 있는 국가급 보호 유적으로 소개한다.",
+    "value": "40여 곳",
+    "evidence": "over 40 serene scenic spots comprised of pavilions, rocks and ponds",
+    "sources": [
+     {
+      "url": "https://english.shanghai.gov.cn/en-ScenicSpots/20231205/dc76893b94c248d195eaf7f4d44c6597.html",
+      "type": "government",
+      "page_updated": "2025-08-13"
+     }
+    ]
+   },
+   {
+    "cid": "c37",
+    "field": "description",
+    "text": "상하이시 정부 영문 사이트는 예원 면적을 20,000㎡로 소개하며, 이는 공식 운영 사이트의 30여 무와 표기 기준이 다를 수 있다.",
+    "value": "20,000㎡",
+    "evidence": "Encompassing 20,000 square metres",
+    "sources": [
+     {
+      "url": "https://english.shanghai.gov.cn/en-Parks/20231222/c3dcc573f5204f39accea3b04e2c7205.html",
+      "type": "government",
+      "page_updated": "2025-10-22"
+     }
+    ]
+   },
+   {
+    "cid": "c38",
+    "field": "caution",
+    "text": "예원 문의 전화는 021-63260830이다.",
+    "value": "021-63260830",
+    "evidence": "联系电话 021-63260830",
+    "sources": [
+     {
+      "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "duration",
+    "reason": "공식 출처에 소요시간 안내 없음"
+   },
+   {
+    "field": "payment",
+    "reason": "결제수단(알리페이·위챗페이·외국 카드 포함)이 공식 페이지에 없음"
+   },
+   {
+    "field": "language",
+    "reason": "한국어 안내·오디오가이드 정보 없음. 설비 정보 페이지는 이미지만 있어 텍스트 확인 불가. 2020년 공지의 무료 오디오가이드는 과거 정보"
+   },
+   {
+    "field": "reservation",
+    "reason": "일반 입장 예약 의무 여부와 외국인 여권 처리 규정이 공식 페이지에 없음. 2026 신년 등불 행사만 시간대 예약(해방일보 보도, 비공식 아님이나 행사 한정)"
+   },
+   {
+    "field": "hours",
+    "reason": "야간 개방·등불 행사 시간은 별도 공지 대상이며 상시 시간으로 확인 못함"
+   },
+   {
+    "field": "access",
+    "reason": "역에서 도보 시간은 공식 출처에 없음"
+   },
+   {
+    "field": "location",
+    "reason": "좌표 대조(OSM) 미수행. 상하이 정부 영문 사이트는 168 푸유로, 운영 사이트 사무소는 218 안런가로 표기가 갈림(입구별 주소)"
+   },
+   {
+    "field": "stale_source",
+    "reason": "운영 사이트 페이지에는 갱신일 표시가 없어 갱신일 불명. 정부 영문 페이지는 2025-08-13, 2025-10-22 갱신"
+   }
+  ]
+ },
+ {
+  "key": "new:cn-chongqing-hongyadong",
+  "name_ko": "훙야둥(홍야동)",
+  "name_local": "洪崖洞",
+  "admin_region": "충칭시 위중구",
+  "address": null,
+  "summary": "자싱강변 절벽에 지은 충칭의 대표 야경 명소다. 이번 수집에서는 공식 출처를 열 수 없어 운영 정보를 확인하지 못했다.",
+  "description": "",
+  "highlights": [],
+  "claims": [],
+  "unconfirmed": [
+   {
+    "field": "all",
+    "reason": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함."
+   },
+   {
+    "field": "location",
+    "reason": "주소(嘉陵江滨江路88号 추정)는 검색 결과 요약에서만 보았고 공식 페이지 본문을 직접 열지 못함. 기억·2차 출처 사용 안 함"
+   },
+   {
+    "field": "access",
+    "reason": "역·버스·주차 미확인(공식 페이지 열람 불가)"
+   },
+   {
+    "field": "duration",
+    "reason": "미확인"
+   },
+   {
+    "field": "hours",
+    "reason": "개방·점등 시간 미확인. 검색 요약에 2025년 5월과 2025년 2월 점등시간 변경 공지가 있다는 단서만 확인"
+   },
+   {
+    "field": "closed_days",
+    "reason": "미확인"
+   },
+   {
+    "field": "fees",
+    "reason": "무료 여부 미확인(공식 열람 불가)"
+   },
+   {
+    "field": "reservation",
+    "reason": "WeChat 공식 계정 '洪崖洞' 사전 예약 여부·오픈 시점 미확인. 규정이 연도별로 바뀐 것으로 보여 최신 공지 직접 확인 필요"
+   },
+   {
+    "field": "payment",
+    "reason": "미확인"
+   },
+   {
+    "field": "language",
+    "reason": "미확인"
+   },
+   {
+    "field": "caution",
+    "reason": "혼잡·한도 관련 공지 미확인"
+   },
+   {
+    "field": "description",
+    "reason": "공식 설명 미확인. China Daily 계열 여행 기사는 2차 출처라 근거로 쓰지 않음"
+   },
+   {
+    "field": "retry_urls",
+    "reason": "검증자 재시도용 후보 URL: https://www.cq.gov.cn/zjcq/cycq/jplyxl/dsy/dsjp/202608/t20260826_15982330.html (충칭시 정부, 2026-08), https://www.cqyz.gov.cn/bm_229/qwhlyw/zwgk_97157/jczwgk/xxgk/ggfw_122762/ggwljg_122627/202508/t20250819_14915593.html (위중구 A급 景区 표), https://cq.gov.cn/ywdt/bmts/202505/t20250509_14596557.html (점등시간 변경), https://whlyw.cq.gov.cn/zjwl/yzq/jqjd_1/202203/t20220304_10463056.html"
+   }
+  ]
+ }
+]

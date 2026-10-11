@@ -1,0 +1,591 @@
+{
+ "places": [
+  {
+   "key": "kr-seoul-gyeongbokgung",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R707: (03045) 서울 종로구 사직로 161"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R707: 도보 2분 3호선 경복궁역 5번 출구"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R707: 도보 6분 안국역 1번·광화문역 2번"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R707 bus lists match exactly"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R707: 06:00~23:00, 버스 50대(지상), 승용차 240대(지하), 02-736-9536. Page also lists 장애인 9면·친환경 9면·EV충전 6면 and 80%/50% 감면 rules (not claimed)"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R707 table: 소형 3,000/중대형 5,000, 10분당 800, 회전 10분 무료, 지상 이용 소형은 중대형 요금"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R702 table; also confirmed by 2026-09-30 notice (11월 09:00~17:00, 입장마감 16:00)"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R702 table; notice confirms 10월 09:00~18:00 (17:00)"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R702 table"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R702 footnote"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R702 table note: 그 다음의 첫 번째 비공휴일 (see conflicts)"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R703 table"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R703: 단체 2,400원, 10인 이상"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R703 무료관람대상자. Note 장애인 4~6급은 본인만, 장기복무 제대군인은 50% 할인"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R703: '한복을 착용한 자' 무료 (증빙 제시 원칙)"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R703: 매주 수요일 '문화가 있는 날' (경복궁 및 창덕궁 후원 제외)"
+    },
+    {
+     "cid": "c17",
+     "verdict": "corrected",
+     "corrected_text": "궁궐 통합관람권은 6,000원이며 4대궁과 종묘 매표소에서 살 수 있다. 구매일로부터 6개월 동안 4대궁과 종묘(창덕궁 후원 제외)를 각각 관람할 수 있다(6개월 중 1회). 환불은 구입한 궁에서만 되고, 한 곳이라도 쓰면 환불되지 않는다. 이와 별도로 궁능이 있는 기초자치단체 주민은 신분증 등 증빙을 내면 일반관람료를 50% 할인받는다(단체요금과 중복 불가).",
+     "note": "Page does not tie the 50% resident discount to the combined ticket; it is a general admission discount. Page also says '6개월 중 1회' with scope 4대궁+종묘, not a single use"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R701: 40분=흥례문·영제교·근정전·사정전·수정전·경회루"
+    },
+    {
+     "cid": "c19",
+     "verdict": "corrected",
+     "corrected_text": "한국어 정규해설은 월·수·목 10:00, 10:30, 11:00, 13:00, 14:00, 15:00, 16:00에 경복궁관리소 해설사가 진행한다. 금·토·일은 10:00~15:00 사이 30분 간격과 16:00에 있다. 금요일은 우리궁궐지킴이와 관리소 해설사가 나눠 맡고, 토요일은 우리궁궐지킴이, 일요일은 궁궐길라잡이(자원봉사 단체)가 대부분 회차를 진행한다(16:00 회차는 관리소 해설사). 11~2월에는 16:00 회차가 15:30으로 바뀐다.",
+     "note": "R706010000 raw HTML: Mon/Wed/Thu times are not every 30 min between 10:00 and 15:30. Volunteer sessions are on Fri/Sat/Sun, mostly Sat and Sun, not 'Fri/Sun'"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R706: 안내실 앞(흥례문 안쪽), 1시간~1시간30분, 10인 미만 예약 불필요, 단체 회당 30명. R601: 한국어 단체 해설 희망일 7일 전 ~ 회차 30분 전"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R706: 영어 11:00/13:30/15:30, 일 10:00/14:30, 중 10:30/15:00 (월수목금토일, 화 휴궁); 스페인어 금·토, 프랑스어 수·목. Domestic visitors only with a foreign companion"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R706: 수·금 10:00/14:00, 70분, 한국어, 하반기 2026.9.2~10.30, 온라인 선착순 1인 2매, 만6세 이하 불가. R601 adds no-run dates (see suggested_claims). Named 경회루·향원정 특별관람"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R701 편의시설 legend lists all items"
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R704 제6조 ①3, ③"
+    },
+    {
+     "cid": "c25",
+     "verdict": "corrected",
+     "corrected_text": "인화물질·무기류, 주류, 텐트·돗자리·그늘막 같은 야영용품과 취사도구를 가지고 오면 입장이 제한될 수 있고, 지정 구역 밖에서는 도시락 등을 먹을 수 없다. 드론 등 항공촬영은 공공기관이 공익 목적으로 찍는 경우처럼 궁능유적본부장이 인정할 때만 허가되며, 국방부 지침에 따른 항공촬영 허가도 따로 받아야 한다.",
+     "note": "R704 제24조③: drone filming is not generally open to visitors by prior permission. It is limited to public-interest cases. The claim implied ordinary visitors could get a permit"
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Notice title on menuInfo-gbg plus notice body (2026-08-30): 9.2~10.31 근정전 월대 출입 제한"
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R101010000"
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R101010000 table: 1592 소실, 1865 중건 시작, 1867 완료"
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R101010000"
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R101010000: 2001~2021 흥례문·광화문 일원·흥복전·취향교 복원, 향원정 보수; 2023 계조당"
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "R701 map lists 14 numbered points"
+    }
+   ],
+   "unsupported_in_description": [
+    "'한국어 정규해설이 매일 운영되며': imprecise. The guide runs every opening day; the palace is closed Tuesdays. Should read '휴궁일(화) 외 매일'"
+   ],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "hours",
+     "text": "2026년 10월 관람시간은 09:00~18:00(입장마감 17:00), 11월은 09:00~17:00(입장마감 16:00)이다.",
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260930144202825885&schBcid=notice01"
+    },
+    {
+     "field": "fees",
+     "text": "코리아 그랜드 페스티벌 기간인 2026년 10월 29일~11월 15일에는 무료 개방한다(화요일 휴궁일 제외). 이 기간 정규해설은 30분 단축 운영한다.",
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260930144202825885&schBcid=notice01"
+    },
+    {
+     "field": "reservation",
+     "text": "경회루·향원정 특별관람은 추석 연휴(9.24~9.27), 한글날(10.9), 궁중문화축전 기간(10.7~10.11)에는 운영하지 않는다.",
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R601000000.do"
+    },
+    {
+     "field": "fees",
+     "text": "궁능 소재지 기초자치단체 주민은 신분증·등본 등 증빙을 내면 일반관람료 50% 할인을 받는다(중복 할인 불가).",
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do"
+    }
+   ],
+   "conflicts": [
+    "Hours: the R702 table says Jan–Feb and Nov–Dec 09:00~17:00. The 관람규칙 (R704, 제4조①) says the standard hours run to 17:30 in Nov–Jan. The table and the 2026-09-30 notice agree on 17:00",
+    "The sidebar widget on every royal.khs.go.kr page shows '09:00~18:30 입장마감 17:30', which is the Jun–Aug value, so it is wrong for October. It also says the closed day moves to '그 다음날' when Tuesday is a holiday, while the R702 table says '그 다음의 첫 번째 비공휴일'",
+    "Unconfirmed items not found in 2 lookups (FAQ R404000000 checked): payment methods, coordinates, site area, crowd periods. No page-update dates are shown on the R7xx pages"
+   ]
+  },
+  {
+   "key": "new:kr-seoul-lotte-world",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "SPA: footer in the official JS bundle reads '서울특별시 송파구 올림픽로 240 호텔롯데 롯데월드' (this is the company address shown in the footer)"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Location page bundle: 2·8호선 잠실역 4번 출구. FAQ pageIndex=2: connected underground (3, 4번 출구 방향)"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "LOCATION.LOAD strings match all bus numbers"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ pageIndex=2"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Location page: 3시간 이하 무료, 초과 시 최대 3천원(시간관계 無)"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "closed-list API: 10-11/12 10:00-21:00, 10-16/17 10:00-22:00. I sampled other Oct dates through the same endpoint and they follow the same Sun–Thu 21:00 / Fri–Sat 22:00 pattern"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "OPER.INFO text: 매표 및 입장마감 영업종료 1시간 전. The annual-pass FAQ item has moved to pageIndex=7 (not 5); update the URL"
+    },
+    {
+     "cid": "c8",
+     "verdict": "corrected",
+     "corrected_text": "365일 연중무휴로 운영한다. 다만 어트랙션별 정기운휴가 있으니 방문일의 운휴 시설을 공식 홈페이지에서 확인해야 한다.",
+     "note": "FAQ p1 supports 365일 연중무휴. No official page says closures are '7일 단위로 공지'. The closed-list API shows per-attraction 정기운휴 on a 2026-09-11~10-31 calendar"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ p1 plus OPER.INFO text (see conflicts for thresholds)"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ pageIndex=2"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ pageIndex=2"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Item now at FAQ pageIndex=3 (cited 2); disabled-person page bundle: 본인+동반 1인, 다른 우대와 중복 불가"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Item now at FAQ pageIndex=3 (cited 2)"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Item now at FAQ pageIndex=3 (cited 2)"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Item now at FAQ pageIndex=7 (cited 5). Booking times: 해적선·후렌치 10/13/17시, 키즈토리아 11/16시"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ pageIndex=3. Sold only to 종합/파크/연간 holders. See conflict on same-day use"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ pageIndex=1"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Item now at FAQ pageIndex=2 (cited 1); picnic area at 1층 회전바구니 출구 옆 계단"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "GUIDE.PARK strings. Also banned: 인라인·스쿠터·어린이 전동차, RC toys. 1인용 방석·접이식 의자 are allowed"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "GUIDE.PARK: smoking room behind 자이로스윙 입구 좌측(석촌호수변); 음주 후 탑승 불가"
+    },
+    {
+     "cid": "c21",
+     "verdict": "corrected",
+     "corrected_text": "어트랙션마다 탑승 기준이 있으니 지켜야 한다. 깁스를 한 채 움직임이 큰 어트랙션을 타면 2차 부상이 우려되어 직원이 탑승을 막을 수 있다.",
+     "note": "The cast part is on FAQ pageIndex=2 (not 1). No cited page lists 임산부·디스크·고령자·심혈관 restrictions. Those appear only as per-attraction icons, and 심혈관 does not appear at all"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "GUIDE.MAP strings: 국문/English/乐园指南/日本語"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "DISABLED.PERSON: 무료, 보증금 10,000원(신분증 보관), 어드벤처 1층 손님상담실"
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "FAQ pageIndex=1"
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Item now at FAQ pageIndex=10 (cited 7); 파크이용권 제외"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "payment",
+     "text": "롯데백화점 상품권과 롯데호텔 상품권(사용처에 롯데월드 어드벤처 기재)을 쓸 수 있다. 클린카드(청소년·법인카드)는 사용이 일부 제한될 수 있다.",
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=3"
+    },
+    {
+     "field": "reservation",
+     "text": "매직패스 Premium은 방문 2일 전 00시부터 전날 23:59까지 앱에서 사전 예매할 수 있다. 모든 권종은 당일 08:30부터 앱에서 판매한다.",
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=3"
+    },
+    {
+     "field": "reservation",
+     "text": "온라인 예매는 매월 1일 00시부터 다음 달 상품을 판매한다.",
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=5"
+    },
+    {
+     "field": "caution",
+     "text": "기온 0℃ 이하 또는 30℃ 이상, 풍속 7~14㎧ 이상, 0.2㎜ 이상 비가 오면 매직아일랜드 일부 어트랙션 운행이 중단될 수 있다.",
+     "url": "https://adventure.lotteworld.com/kor/usage-guide/service/index.do"
+    },
+    {
+     "field": "caution",
+     "text": "장애인 탑승예약제: 손님상담실에서 복지카드로 본인 확인 후 탑승예약카드를 받아 어트랙션별로 예약한다.",
+     "url": "https://adventure.lotteworld.com/kor/usage-guide/service/convenient-facilities/disabled-person/index.do"
+    }
+   ],
+   "conflicts": [
+    "Magic Island weather threshold: the FAQ (pageIndex=1) says 영하 5도 이하 and 초속 7m/s 이상. The operations page (OPER.INFO) says 0℃ 이하 또는 30℃ 이상, 7~14㎧, 0.2㎜ 비",
+    "Magic Pass: the FAQ says the ticket is '구매 당일만 사용 가능', but the next FAQ item allows Premium to be bought 2 days ahead",
+    "Subway exit: the location page says 잠실역 4번 출구, while FAQ pageIndex=2 says '3, 4번 출구 방향'",
+    "The FAQ API pagination has shifted. Several cited pageIndex values no longer contain the cited item (c7, c12–c15, c18, c21, c25). Cite the item, not the page number",
+    "The HTML pages are a JS-rendered SPA. They were verified from the official JS bundle served by adventure.lotteworld.com and from the official JSON APIs",
+    "Base ticket prices (fees.base_price) were not reachable: the price API was not found in 2 lookups"
+   ]
+  },
+  {
+   "key": "central-026",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access.php address; japan.travel: Higashiyama-ku, Kyoto-shi, Kyoto-fu"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access.php: 206/100 to 五条坂, walk 10 min. Kyoto Bus 18 (weekends and holidays only) also goes to 五条坂"
+    },
+    {
+     "cid": "c3",
+     "verdict": "corrected",
+     "corrected_text": "게이한 기온시조역(또는 한큐 교토카와라마치역)에서는 시영버스 207번을 타고 기요미즈미치에서 내리거나, 게이한버스 83·85·87·88번 등을 타고 기요미즈미치 또는 고조자카에서 내려 도보 10분이다.",
+     "note": "access.php: city bus 207 stops only at 清水道. Gojozaka applies to the Keihan buses"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access.php: 清水五条駅 約徒歩25分"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access.php map-app warning"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access.php/faq.php (FAQ names it 京都市清水坂観光駐車場)"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access.php 2026 table"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "access.php and yakan.php"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "open-hour.php"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Kyoto City official 京都観光Navi: 大人500円、小・中学生200円, 2026.11.21~30. The temple's own page shows no fee"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "faq.php: teachers must show ID plus itinerary (2 items). Advance waiver available by return postcard"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "yakan.php: 予約の必要はございません"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "global.kyoto.travel FAQ (Kyoto City Tourism Association)"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "etiquette page dated 令和6年6月 (stale_source, >12 months), repeated on faq.php"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "etiquette page"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "faq.php"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "history.php: 778, 13万㎡, 30以上の堂塔"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "history.php"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "history.php: 166枚, 約200㎡, 約13m"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "history.php: 欅 18本, 釘を1本も使用せず, 懸造り"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "faq.php"
+    },
+    {
+     "cid": "c22",
+     "verdict": "corrected",
+     "corrected_text": "본당 아래 오토와 폭포는 세 줄기로 나뉜다. 방문객은 긴 국자로 물을 받아 손에 따라 마시고, 국자에 직접 입을 대지 않는다. 본당 뒤에는 인연(연애)을 기원하는 지슈 신사가 있다.",
+     "note": "japan.travel says to pour the water into your hand and not drink from the ladle. That page also carries a COVID-era note (stale_source)"
+    }
+   ],
+   "unsupported_in_description": [
+    "'교토 동쪽 오토와산 중턱': stated on history.php but missing from the c17 claim text. Add it to c17 or remove it from the description"
+   ],
+   "unsupported_in_highlights": [],
+   "suggested_claims": [
+    {
+     "field": "tip",
+     "text": "기요미즈데라 입구 부근과 주변 상점에서 무료 KYOTO Wi-Fi를 쓸 수 있다.",
+     "url": "https://www.kiyomizudera.or.jp/faq.php"
+    },
+    {
+     "field": "access",
+     "text": "교토버스 18계통(토·휴일만 운행)을 타고 고조자카에서 내려 도보 10분이다.",
+     "url": "https://www.kiyomizudera.or.jp/access.php"
+    }
+   ],
+   "conflicts": [
+    "Bus stop: the temple's access.php says city bus 206 goes to 五条坂. The kyoto.travel event page says '市バス206「清水道」から徒歩10分'",
+    "Night visit: kyoto.travel lists the time as 17:30～21:00(受付終了). The temple lists only 21:30 close / 21:00 last entry, with gates open from 6:00",
+    "Not found in 2 lookups (access.php, /en/access.php, japan.travel): regular admission fee, closed days, payment, Korean-language service"
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 78,
+  "verified": 71,
+  "corrected": 7,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "Gyeongbokgung c19 (Korean guide schedule) was materially wrong. c17 attached the resident discount to the wrong ticket. c25 overstated drone permission",
+   "Key traveller info missing from the Gyeongbokgung claims: free admission 2026-10-29~11-15 (Korea Grand Festival) and the 경회루 special tour ending 10-30",
+   "Many Lotte World FAQ citations point to the wrong pageIndex because pagination shifted. The facts were verified on adjacent pages of the same official API",
+   "Stale sources: the Kiyomizudera etiquette page is dated June 2024; the japan.travel page still carries a COVID note",
+   "royal.khs.go.kr was intermittently reset by the proxy; every page was fetched successfully after retries"
+  ]
+ }
+}

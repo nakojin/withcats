@@ -1,0 +1,444 @@
+{
+ "places": [
+  {
+   "key": "new:jp-osaka-dotonbori",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "osaka-info JA 住所: 大阪市中央区道頓堀"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "EN Access: Right outside Namba Station on Nankai, Kintetsu, Osaka Metro Midosuji/Sennichimae/Yotsubashi"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'Short walk from Namba Station of Subway Midosuji Line (exit No.14)'. Page footer is (c)2015, so stale_source"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Rapi:t about 35 min to Namba; limousine bus to OCAT about 50 min. Page is (c)2015, stale"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Itami limousine to Namba/OCAT about 40 min. Page is (c)2015, stale"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "営業時間: 店舗により異なる"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "休日: 店舗により異なる"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Price: Free"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Access: Osaka Metro Namba Station, Kintetsu/Nankai Namba Station"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Ebisubashi-Nipponbashi and Minatomachi sections (600 m in total) opened"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "More than 30 stores have riverside entrances; a dock was built and cruises run"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Around 20 events annually"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Doton Yasui used his own wealth to have the river dug in 1612 (JA: 慶長17年)"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "about page: completed 1615, named to praise Douton after his death"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "chronological table: 1626, famous theater relocated to Dotonbori, became a theater town"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "theater/Kabuki prosperity plus more teahouses became the basis for food and live entertainment"
+    },
+    {
+     "cid": "c17",
+     "verdict": "corrected",
+     "corrected_text": "쇼치쿠자, 가니도라쿠(게 요리점), 글리코 등의 대형 입체 간판이 늘어서 있다.",
+     "note": "The page names the crab restaurant as Kani-Doraku (かに道楽), not Kuidaore"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "だるま大臣 on the roof of the Kushikatsu Daruma building, rotating gimmick, called a new landmark"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "the only theater (芝居小屋) is Shochikuza near Ebisubashi; there is also a comedy hall"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "recovering since October 2022"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "06-6211-4542 (道頓堀商店会事務局)"
+    }
+   ],
+   "unsupported_in_description": [
+    "'극장 쇼치쿠자와 대형 입체 간판이 늘어선 식도락·공연 거리다.' The sentence is supported, but the main highlight item it echoes names the wrong restaurant (see highlights)."
+   ],
+   "unsupported_in_highlights": [
+    "'쇼치쿠자, 구이다오레 게, 글리코 등 대형 입체 간판 거리': the source says かに道楽 (가니도라쿠), not 구이다오레. Change it to '쇼치쿠자, 가니도라쿠 게, 글리코 등 대형 입체 간판 거리'."
+   ],
+   "suggested_claims": [
+    {
+     "field": "access",
+     "text": "돈보리 리버워크까지 지하철 미도스지선·센니치마에선 난바역에서 걸어서 5분, 요쓰바시선 난바역에서 10분, 긴테쓰·한신 오사카난바역에서 5분, 난카이 난바역과 JR 난바역에서 10분 걸린다.",
+     "url": "http://www.tonbori.jp/"
+    },
+    {
+     "field": "highlight",
+     "text": "돈보리 리버워크는 2004년(헤이세이 16년) 12월에 생긴 강변 산책로다.",
+     "url": "http://www.tonbori.jp/"
+    },
+    {
+     "field": "access",
+     "text": "돈보리 리버워크는 배리어프리로 표시되어 있다.",
+     "url": "https://osaka-info.jp/en/spot/tombori-riverwalk/"
+    },
+    {
+     "field": "caution",
+     "text": "돈보리 리버워크 사무소(난카이 전철) 전화는 06-6644-7565이다.",
+     "url": "https://osaka-info.jp/en/spot/tombori-riverwalk/"
+    }
+   ],
+   "conflicts": [
+    "Two official pages differ on 1615. dotonbori.or.jp/about says the canal was completed in 1615 and that cousin Douboku took over the work. dotonbori.or.jp/chronological says Matsudaira Tadaakira took over the project in September 1615, gives no completion date, and gives the 1612 name as 'Nariyasu Douton'.",
+    "The Tonbori Riverwalk office fax is 06-6644-7566 on osaka-info but 06-6644-7237 on tonbori.jp. The phone number 06-6644-7565 matches on both.",
+    "stale_source: the dotonbori.or.jp pages (c3-c5, c14, c15) show (c)2015. The newest notice on tonbori.jp is from 2015. osaka-info shows no update date."
+   ]
+  },
+  {
+   "key": "east-sh-02",
+   "verdicts": [
+    {
+     "cid": "c1",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "办公地址 上海市黄浦区安仁街218号"
+    },
+    {
+     "cid": "c2",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "北门 福佑路168号 (团队、散客入口)"
+    },
+    {
+     "cid": "c3",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "南门 豫园老街279号, 九曲桥下桥口处, 仅散客入口"
+    },
+    {
+     "cid": "c4",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Address: No 168 Fuyou Road, Huangpu district. Page updated Aug 13, 2025, which is more than 12 months ago, so stale"
+    },
+    {
+     "cid": "c5",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Metro Lines 10 and 14 Yuyuan station; bus routes list matches exactly"
+    },
+    {
+     "cid": "c6",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "没有专用景区停车场; use public transport or nearby paid parking"
+    },
+    {
+     "cid": "c7",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "9:00-16:30, entry stops 16:00"
+    },
+    {
+     "cid": "c8",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Closed Mondays except statutory holidays; Spring Festival hours follow notice"
+    },
+    {
+     "cid": "c9",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "旺季 4/1-6/30, 9/1-11/30, 40元"
+    },
+    {
+     "cid": "c10",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "淡季 7/1-8/31, 12/1-3/31, 30元"
+    },
+    {
+     "cid": "c11",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "over 6 to 18 inclusive, plus full-time students up to undergraduate, half price with ID"
+    },
+    {
+     "cid": "c12",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "60 and over, half price"
+    },
+    {
+     "cid": "c13",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "优惠票每人每日限购一张"
+    },
+    {
+     "cid": "c14",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1.3 m or under, or 6 or under; 1 adult may bring up to 3 children; not for groups"
+    },
+    {
+     "cid": "c15",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Matches the static list on message.html. The JS tab on notice.html omits 在职公安民警 (see conflicts)"
+    },
+    {
+     "cid": "c16",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Ticket windows at the south and north gates plus the '上海豫园' mini-program; no mandatory-reservation wording"
+    },
+    {
+     "cid": "c17",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The 游览须知 tab (in the page's JS) item 1 says buy through official channels"
+    },
+    {
+     "cid": "c18",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "item 4: dangerous goods and pets banned, guide dogs excepted"
+    },
+    {
+     "cid": "c19",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "item 5 lists the banned behaviors"
+    },
+    {
+     "cid": "c20",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "item 6: no wedding or commercial shoots; no large cameras, flash or reflectors"
+    },
+    {
+     "cid": "c21",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "items 9 and 10"
+    },
+    {
+     "cid": "c22",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "item 12: luggage storage temporarily unavailable"
+    },
+    {
+     "cid": "c23",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "item 8. The newer homepage version also bans feeding and photographing the animals"
+    },
+    {
+     "cid": "c24",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "items 9 and 11"
+    },
+    {
+     "cid": "c25",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "老城厢东北部, borders 福佑路 to the north and 安仁街 to the east, 全国重点文物保护单位"
+    },
+    {
+     "cid": "c26",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Opening line of the 须知: 全国重点文物保护单位、国家AAAA级旅游景区. Shanghai gov also says Grade AAAA"
+    },
+    {
+     "cid": "c27",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Began 1559 (嘉靖己未) and built over 20+ years for his father"
+    },
+    {
+     "cid": "c28",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "七十余亩, designed by 张南阳"
+    },
+    {
+     "cid": "c29",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Restored from 1956 over 5 years, opened Sept 1961, now 三十余亩"
+    },
+    {
+     "cid": "c30",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "高九米, main building; Qing-era official ceremonies"
+    },
+    {
+     "cid": "c31",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "Built by 张南阳, 山高十四米"
+    },
+    {
+     "cid": "c32",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "In front of the 渐入佳境 corridor, cast 1290"
+    },
+    {
+     "cid": "c33",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "高约2.3米, 美人腰"
+    },
+    {
+     "cid": "c34",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "1999-05-18, for the 440th anniversary; the page names Jiang Zemin as the writer"
+    },
+    {
+     "cid": "c35",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "The six named 景区 match"
+    },
+    {
+     "cid": "c36",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "'over 40 serene scenic spots ... key site under State-level protection'. Updated Aug 2025"
+    },
+    {
+     "cid": "c37",
+     "verdict": "corrected",
+     "corrected_text": "상하이시 정부 영문 사이트는 예원 면적을 20,000㎡로 소개한다(공식 운영 사이트의 30여 무, 약 2만㎡와 대체로 일치).",
+     "note": "20,000 m² is confirmed. The caveat 'the measurement basis may differ' is not on the page, and 30 mu is about 20,000 m², so the two figures do not conflict"
+    },
+    {
+     "cid": "c38",
+     "verdict": "verified",
+     "corrected_text": null,
+     "note": "021-63260830"
+    }
+   ],
+   "unsupported_in_description": [],
+   "unsupported_in_highlights": [
+    "'1999년 장쩌민이 쓴 해상명원 제자': the page names 江泽民, but the claim text (c34) does not name the writer. Add the name to c34 or to a new claim."
+   ],
+   "suggested_claims": [
+    {
+     "field": "highlight",
+     "text": "'해상명원' 제자는 당시 국가주석 장쩌민이 1999년 5월 18일 예원 창건 440주년을 기념해 썼다.",
+     "url": "https://www.yugarden.com.cn/page/articleview/introduce-01.html"
+    },
+    {
+     "field": "caution",
+     "text": "원내 야생 소동물을 쫓거나 만지는 것뿐 아니라 먹이 주기와 촬영도 금지된다.",
+     "url": "https://www.yugarden.com.cn/page/articleview/index.html"
+    },
+    {
+     "field": "caution",
+     "text": "허가 없는 대규모 촬영(웨딩·항공촬영·영상·상업)은 금지된다.",
+     "url": "https://www.yugarden.com.cn/page/articleview/index.html"
+    }
+   ],
+   "conflicts": [
+    "Two free-entry lists disagree on the same official site. The static list on message.html (and on notice.html) includes 在职公安民警. The JS '参观信息' tab inside Page/WxyGarden/notice.html omits it.",
+    "The official site has two versions of the visitor notice. The homepage (articleview/index.html) has 12 items and adds a ban on feeding or photographing animals, and it lacks the explicit smoking/drone/flash list. notice.html has 14 items. No conflicting values.",
+    "The Shanghai gov pages describe the 40 differently: 'over 40 scenic spots' on the scenic page versus 'six scenic areas boast over 40 ancient structures' on the parks page.",
+    "stale_source: the english.shanghai.gov.cn pages were updated Aug 13, 2025 (c4, c36) and Oct 22, 2025 (c37). The first is more than 12 months before 2026-10-11. yugarden.com.cn has news dated 2026-08-07, so it is current."
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 59,
+  "verified": 57,
+  "corrected": 2,
+  "outdated": 0,
+  "unverifiable": 0,
+  "rejected": 0,
+  "notes": [
+   "Dotonbori c17 is wrong, and so are the description and the first highlight: the source names かに道楽 (가니도라쿠), not 구이다오레.",
+   "Yu Garden c17-c24 and c26: the cited URL Page/WxyGarden/notice.html shows the ticket info by default. The 游览须知 text is in a JS-rendered tab on the same page, and the same text is at https://www.yugarden.com.cn/page/articleview/notice.html, which is a better URL to cite.",
+   "WebFetch was not used. Every page was fetched with curl and returned 200. yugarden.com.cn sometimes fails on the first try (code 000) and loads on retry.",
+   "collector_unconfirmed, Dotonbori: duration, reservation, payment, language, parking and district fees are not on osaka-info, dotonbori.or.jp or tonbori.jp. tonbori.jp gives walking times for access.",
+   "collector_unconfirmed, Yu Garden: duration, payment methods, language/Korean guide, real-name or passport booking and the reservation opening time are on neither the official site nor the Shanghai gov pages. The facilities page (设施信息) is empty.",
+   "dotonbori.or.jp (c3-c5, c14, c15) and tonbori.jp both date from about 2015 and should be flagged stale_source. Find a newer official source for the airport transfer times."
+  ]
+ }
+}

@@ -1,0 +1,1330 @@
+[
+ {
+  "key": "kr-seoul-gyeongbokgung",
+  "name_ko": "경복궁",
+  "name_local": "경복궁",
+  "admin_region": "서울특별시 종로구",
+  "address": "서울특별시 종로구 사직로 161 (03045)",
+  "summary": "1395년에 세운 조선왕조의 법궁으로, 국가유산청 궁능유적본부 경복궁관리소가 관리한다. 화요일 휴궁이며 계절별로 09:00 개관, 한복 착용자는 무료 입장이다.",
+  "description": "경복궁은 조선이 건국된 뒤인 1395년에 지은 조선왕조 제일의 법궁이다. 임진왜란 때 불탔다가 1865년에 중건을 시작해 1867년에 마쳤다. 1915년에는 전각이 헐렸고 1926년에 조선총독부 청사가 들어섰으며, 이 청사는 1995~1997년에 철거되었다. 이후 흥례문과 광화문 등을 복원해 왔고 2023년에는 동궁의 계조당도 복원했다. 공식 관람코스는 흥례문에서 영제교, 근정전, 경회루로 이어지며 40분, 60분, 90분 코스가 있다. 지하철 3호선 경복궁역 5번 출구에서 걸어서 약 2분이면 닿는다. 매주 화요일은 쉬고, 개인 관람 요금은 3,000원이다. 한복을 입으면 무료이고, 한국어 정규해설이 매일 운영되며 개인은 예약 없이 참여할 수 있다.",
+  "highlights": [
+   "1395년에 세운 조선왕조 제일의 법궁",
+   "흥례문·영제교·근정전·경회루를 잇는 40·60·90분 관람코스",
+   "한복 착용자 무료 입장",
+   "한국어 정규해설(1~1.5시간, 개인은 예약 불필요)",
+   "수·금 경회루 특별관람(온라인 사전예약, 약 70분)",
+   "경복궁역 5번 출구에서 도보 약 2분"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "경복궁의 주소는 서울특별시 종로구 사직로 161(우편번호 03045)이다.",
+    "value": "서울특별시 종로구 사직로 161",
+    "evidence": "서울 종로구 사직로 161",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "지하철 3호선 경복궁역 5번 출구에서 도보 약 2분 거리다.",
+    "value": "2분",
+    "evidence": "3호선 경복궁역 5번 출구 도보 약 2분",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "3호선 안국역 1번 출구와 5호선 광화문역 2번 출구에서는 각각 도보 약 6분이다.",
+    "value": "6분",
+    "evidence": "안국역 1번 출구 6분 / 광화문역 2번 출구 6분",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "버스는 '경복궁' 정류장(간선 109·171·272·601·606·710, 지선 1020·7025)과 '덕성여중고' 정류장(간선 171·272·401·406·704·710, 지선 1020·7025)을 이용할 수 있다.",
+    "value": null,
+    "evidence": "경복궁 정류장: 간선 109, 171, 272, 601, 606, 710",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "parking",
+    "text": "주차장이 있으며 06:00~23:00 운영한다. 버스 약 50면(지상), 승용차 약 240면(지하)이고 문의는 02-736-9536이다.",
+    "value": "06:00-23:00",
+    "evidence": "버스 약 50면, 승용차 240면",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "parking",
+    "text": "주차 기본요금은 소형차 첫 1시간 3,000원, 중·대형차 첫 1시간 5,000원이며 이후 10분당 800원이다. 회차 10분은 무료다. 지상 주차장에서는 소형차도 중·대형 요금을 적용한다.",
+    "value": "소형 3,000원/1시간, 대형 5,000원/1시간, 이후 800원/10분",
+    "evidence": "소형 3,000원 / 중·대형 5,000원, 10분당 800원",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "1~2월과 11~12월에는 09:00~17:00에 관람하며 입장은 16:00에 마감한다.",
+    "value": "09:00-17:00 / 입장마감 16:00",
+    "evidence": "1월~2월, 11월~12월 09:00~17:00 입장마감 16:00",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "hours",
+    "text": "3~5월과 9~10월에는 09:00~18:00에 관람하며 입장은 17:00에 마감한다.",
+    "value": "09:00-18:00 / 입장마감 17:00",
+    "evidence": "3월~5월, 9월~10월 09:00~18:00 입장마감 17:00",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "hours",
+    "text": "6~8월에는 09:00~18:30에 관람하며 입장은 17:30에 마감한다.",
+    "value": "09:00-18:30 / 입장마감 17:30",
+    "evidence": "6월~8월 09:00~18:30 입장마감 17:30",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "hours",
+    "text": "기관 사정에 따라 관람시간이 단축·조정될 수 있고, 안전 관리를 위해 퇴장 30분 전부터 퇴장을 유도하며 안내방송을 한다.",
+    "value": null,
+    "evidence": "관람시간 단축 및 조정이 있을 수 있습니다",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "closed_days",
+    "text": "정기 휴궁일은 매주 화요일이다. 화요일이 공휴일·대체공휴일과 겹치면 개방하고, 그다음 첫 번째 비공휴일을 휴궁일로 한다.",
+    "value": "매주 화요일",
+    "evidence": "정기휴일: 매주 화요일",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "fees",
+    "text": "개인 대인 요금은 3,000원이다. 내국인은 만 25~64세, 외국인은 만 19~64세가 대상이다.",
+    "value": "3000 KRW",
+    "evidence": "내국인 만 25세~64세, 외국인 만 19세~64세 3,000원",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "fees",
+    "text": "10인 이상 단체 요금은 1인 2,400원이다.",
+    "value": "2400 KRW",
+    "evidence": "단체(10인 이상) 2,400원",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "fees",
+    "text": "무료 대상은 만 24세 이하·만 65세 이상 내국인(신분증 지참), 만 18세 이하·만 65세 이상 외국인이다. 국가유공자·장애인 등 증빙 가능한 대상자도 무료다.",
+    "value": "무료",
+    "evidence": "만 24세 이하 및 만 65세 이상 내국인(신분증 지참)",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "fees",
+    "text": "한복을 입은 사람은 무료로 입장할 수 있다.",
+    "value": "무료",
+    "evidence": "한복을 착용한 자",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "fees",
+    "text": "수요일 '문화가 있는 날' 무료 관람은 경복궁에는 적용되지 않는다(경복궁·창덕궁 후원 제외).",
+    "value": null,
+    "evidence": "경복궁 및 창덕궁 후원 제외",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "fees",
+    "text": "4대궁(및 종묘) 매표소에서 구입하는 궁궐 통합관람권은 6,000원이며 구매일로부터 6개월 안에 1회 사용할 수 있다. 해당 지자체 주민은 증빙 시 50% 할인받는다(중복 할인 불가).",
+    "value": "6000 KRW",
+    "evidence": "궁궐 통합관람권 6,000원 구매일로부터 6개월",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "duration",
+    "text": "공식 관람코스는 40분, 60분, 90분 세 가지다. 40분 코스는 흥례문·영제교·근정전·사정전·수정전·경회루를 돈다.",
+    "value": "40/60/90분",
+    "evidence": "40분 코스 / 60분 코스 / 90분 코스",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R701000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "language",
+    "text": "한국어 정규해설은 월·수·목 10:00~15:30 사이 30분 간격과 16:00에 운영하며, 11~2월에는 16:00 회차가 15:30으로 바뀐다. 금·토·일에도 같은 간격으로 열리고 금·일에는 자원봉사 단체가 진행하는 회차가 많다.",
+    "value": null,
+    "evidence": "11월~2월 16:00 회차는 15:30",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R706010000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "reservation",
+    "text": "해설은 경복궁 안내실 앞(흥례문 안쪽)에서 출발하고 1~1.5시간 걸린다. 10인 미만 개인은 예약 없이 참여할 수 있으나 10인 이상 단체는 예약이 필요하다(회차당 30명까지, 한국어 단체는 희망일 7일 전부터 신청).",
+    "value": null,
+    "evidence": "10인 미만 개인은 예약 없이 참여 가능",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R706010000.do",
+      "type": "government",
+      "page_updated": null
+     },
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R601000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "language",
+    "text": "외국어 해설은 영어(11:00·13:30·15:30), 일본어(10:00·14:30), 중국어(10:30·15:00)가 매일, 스페인어는 금·토, 프랑스어는 수·목에 운영한다. 외국어 해설은 외국인 동행이 없는 내국인은 참여할 수 없다.",
+    "value": null,
+    "evidence": "영어 11:00, 13:30, 15:30",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R706010000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "reservation",
+    "text": "경회루 특별관람은 수·금 10:00과 14:00에 약 70분간 한국어로 진행하며, 2026년 가을 기간은 9월 2일~10월 30일이다. 온라인으로만 선착순 예약하고 1인 2매까지이며, 6세 이하는 입장할 수 없다.",
+    "value": "70분",
+    "evidence": "온라인 선착순, 1인 2매",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R706010000.do",
+      "type": "government",
+      "page_updated": null
+     },
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R601000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "language",
+    "text": "관람코스 안내에 음성안내기 대여소가 편의시설로 표시되어 있다. 휠체어·유모차 대여소, 수유실, 물품보관함, 자동심장충격기도 있다.",
+    "value": null,
+    "evidence": "음성안내기 대여소, 휠체어·유모차 대여소",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R701000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "caution",
+    "text": "반려동물은 동반 입장할 수 없다(장애인 보조견 제외). 경내 전 지역이 금연이다.",
+    "value": null,
+    "evidence": "반려동물 동반 입장 금지",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R704000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "caution",
+    "text": "인화물질·무기류, 주류, 텐트·돗자리·그늘막·취사도구 반입과 지정 구역 밖에서의 취식은 제한된다. 드론 등 항공촬영은 사전 허가가 필요하다.",
+    "value": null,
+    "evidence": "주류, 텐트, 돗자리, 그늘막, 취사도구 소지",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R704000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c26",
+    "field": "caution",
+    "text": "2026년 9월 2일부터 10월 31일까지 근정전 월대 출입이 제한된다.",
+    "value": "2026-09-02~2026-10-31",
+    "evidence": "근정전 월대 출입 제한 (2026.9.2~10.31)",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/menuInfo-gbg.do?grpCode=gbg",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c27",
+    "field": "description",
+    "text": "경복궁은 조선 건국(1392) 이후 1395년(태조 4)에 창건된 조선왕조 제일의 법궁이다.",
+    "value": "1395",
+    "evidence": "1395(태조 4) 경복궁 창건",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R101010000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c28",
+    "field": "description",
+    "text": "1592년 임진왜란 때 불탔고, 1865년(고종 2)에 중건을 시작해 1867년에 마쳤다.",
+    "value": "1592 / 1865-1867",
+    "evidence": "1865 중건 시작, 1867 중건 완료",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R101010000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c29",
+    "field": "description",
+    "text": "1915년 전각이 헐렸고 1926년 조선총독부 청사가 들어섰으며, 이 청사는 1995~1997년에 철거되었다.",
+    "value": "1915 / 1926 / 1995-1997",
+    "evidence": "1995~1997 조선총독부 청사 철거",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R101010000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c30",
+    "field": "description",
+    "text": "2001~2021년 흥례문·광화문·흥복전·취향교를 복원하고 향원정을 보수했으며, 2023년에는 동궁의 계조당을 복원했다.",
+    "value": "2001-2021 / 2023",
+    "evidence": "2023 계조당 복원",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R101010000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c31",
+    "field": "highlight",
+    "text": "주요 관람 지점은 근정전, 사정전, 수정전, 경회루, 강녕전, 교태전, 동궁, 소주방, 자경전, 흥복전, 향원정, 건청궁, 집옥재, 태원전 등 14곳이다.",
+    "value": "14곳",
+    "evidence": "근정전, 사정전, 수정전, 경회루, 강녕전, 교태전",
+    "sources": [
+     {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R701000000.do",
+      "type": "government",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "location.coordinates",
+    "reason": "공식 페이지에 좌표가 없고 OSM 등 지도 대조를 수행하지 못함"
+   },
+   {
+    "field": "reservation.general_admission",
+    "reason": "일반 입장권의 사전예약 필요 여부·오픈 시점이 관람요금·통합예약 페이지에 명시되어 있지 않음"
+   },
+   {
+    "field": "payment",
+    "reason": "매표소·온라인 결제수단(현금·카드·모바일)이 공식 요금 페이지에 없음"
+   },
+   {
+    "field": "fees.conflict",
+    "reason": "국가유산청 관람정보(khs.go.kr)는 6세 이하·65세 이상 무료, 외국인 7~18세 1,500원, 매월 마지막 수요일 무료로 안내해 궁능유적본부 요금표(만 24세 이하 내국인 무료 등)와 다름. 본 자료는 궁능유적본부 R703000000을 채택하며 두 페이지 모두 갱신일이 없어 재확인 필요"
+   },
+   {
+    "field": "hours.conflict",
+    "reason": "관람규칙 제4조는 11~1월 17:30까지로 적혀 있어 관람시간 페이지(11~12월 17:00)와 다름. 관람시간 페이지를 채택, 규칙 페이지는 낡았을 가능성"
+   },
+   {
+    "field": "description.area",
+    "reason": "소개·역사 페이지에 면적 수치가 없음"
+   },
+   {
+    "field": "crowd_periods",
+    "reason": "혼잡 시기에 대한 공식 안내를 찾지 못함"
+   },
+   {
+    "field": "source_updated",
+    "reason": "인용한 궁능유적본부 페이지 어디에도 갱신일 표기가 없음(저작권 표기만 있음)"
+   }
+  ]
+ },
+ {
+  "key": "new:kr-seoul-lotte-world",
+  "name_ko": "롯데월드 어드벤처(잠실)",
+  "name_local": "롯데월드 어드벤처",
+  "admin_region": "서울특별시 송파구",
+  "address": "서울특별시 송파구 올림픽로 240 호텔롯데 롯데월드",
+  "summary": "잠실에 있는 실내 어드벤처와 야외 매직아일랜드로 이루어진 테마파크로, 연중무휴로 운영한다. 잠실역 지하로 바로 연결된다.",
+  "description": "롯데월드 어드벤처는 서울 송파구 올림픽로 240에 있는 테마파크다. 천장이 유리돔인 실내 공간 어드벤처와 야외 시설 매직아일랜드로 나뉘어, 비가 와도 일부를 즐길 수 있다. 공식 안내에 따르면 365일 문을 열며, 2026년 10월 기준 일~목은 21시, 금·토는 22시까지 운영하고 매표와 입장은 마감 1시간 전에 끝난다. 이용권은 종합이용권, 파크이용권, 연간이용권으로 나뉘며 종합이용권에는 민속박물관 입장이 포함된다. 지하철 2·8호선 잠실역 4번 출구 쪽에서 지하로 이어져 접근이 편하다. 인기 어트랙션을 위한 탑승예약제와 별도 구매하는 매직패스가 있고, 한글·영어·중국어·일본어 가이드맵을 내려받을 수 있다. 주류와 반려동물 등은 반입할 수 없다.",
+  "highlights": [
+   "유리돔 실내 공간 어드벤처와 야외 매직아일랜드",
+   "연중무휴, 금·토는 22시까지 운영(2026년 10월 기준)",
+   "잠실역 4번 출구 쪽 지하 직결",
+   "종합이용권으로 민속박물관 이용 가능",
+   "매직패스·탑승예약제로 대기 줄이기",
+   "한·영·중·일 가이드맵 제공"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "주소는 서울특별시 송파구 올림픽로 240(호텔롯데 롯데월드)이다.",
+    "value": "서울특별시 송파구 올림픽로 240",
+    "evidence": "서울특별시 송파구 올림픽로 240 호텔롯데 롯데월드",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "지하철 2호선·8호선 잠실역 4번 출구 쪽으로 오면 되고, 잠실역에서 지하로 바로 연결된다.",
+    "value": "잠실역 4번 출구",
+    "evidence": "잠실역에서 내리면 지하로 바로 연결",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/kor/usage-guide/service/location/index.do",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=2",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "버스는 지선 3217·3313·3314·3315·3317·3411·3414·4319번, 광역 1007-1·1100·1700·2000·6900·7007·8001번, 간선 301·341·360·362번, 공항버스 6000·6006·6705·6706A번이 안내되어 있다.",
+    "value": null,
+    "evidence": "간선 301번, 341번, 360번, 362번",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/kor/usage-guide/service/location/index.do",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "parking",
+    "text": "주차장은 어드벤처·호텔·백화점·마트 4개 구역으로 나뉘며, 입차 시 차량번호를 자동 인식하는 무인주차 시스템이다.",
+    "value": null,
+    "evidence": "차량번호를 자동인식하는 무인주차 시스템",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=2",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "parking",
+    "text": "종합이용권 또는 파크이용권을 인증하면 주차 3시간 이하는 무료이고, 3시간을 넘으면 최대 3,000원이다.",
+    "value": "3시간 무료 / 초과 시 최대 3,000원",
+    "evidence": "3시간 이하 무료, 3시간 초과 최대 3천원",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/kor/usage-guide/service/location/index.do",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "hours",
+    "text": "2026년 10월 11일(일)과 12일(월)은 10:00~21:00, 16일(금)과 17일(토)은 10:00~22:00로 운영 시간이 공식 시스템에 등록되어 있다. 날짜에 따라 시간이 달라지므로 방문일 확인이 필요하다.",
+    "value": "일~목 10:00-21:00, 금·토 10:00-22:00 (2026-10 기준)",
+    "evidence": "bgnTmFmt 10:00, endTmFmt 21:00 / 22:00",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/api/usage-guide/service/closed-list?storeCd=HC01801&langCd=HC01701&searchDt=2026-10-16",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://adventure.lotteworld.com/kor/usage-guide/service/index.do",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "매표와 입장은 영업 종료 1시간 전에 마감한다. 연간이용권도 폐장 1시간 전까지 입장할 수 있다.",
+    "value": "종료 1시간 전",
+    "evidence": "매표 및 입장마감은 영업종료 1시간 전까지",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/kor/usage-guide/service/index.do",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=5",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "closed_days",
+    "text": "365일 연중무휴로 운영한다. 다만 어트랙션별 정기운휴가 있어 7일 단위로 공지된다.",
+    "value": "연중무휴",
+    "evidence": "365일 연중 무휴로 운영",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=1",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "caution",
+    "text": "어드벤처는 천장이 유리돔인 실내 공간이라 날씨와 무관하게 이용할 수 있지만, 야외 매직아일랜드 일부 어트랙션은 강한 비·눈, 낮은 기온, 강풍 때 운행이 중단될 수 있다. 현장 상황에 따라 예고 없이 운휴·점검이 있을 수 있다.",
+    "value": null,
+    "evidence": "매직아일랜드 일부 어트랙션 운행이 중단될 수 있습니다",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/kor/usage-guide/service/index.do",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=1",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "fees",
+    "text": "이용권은 종합이용권, 파크이용권, 연간이용권으로 나뉜다. 종합이용권·연간이용권은 입장+어트랙션+민속박물관, 파크이용권은 입장+어트랙션이 포함되며 유료시설은 별도 비용이다.",
+    "value": null,
+    "evidence": "종합이용권, 파크이용권, 연간이용권으로 구분",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=2",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "fees",
+    "text": "연령 구분은 만 36개월 미만 유아(무료 입장), 어린이(36개월 이상~만 12세), 청소년(만 13~18세), 어른(만 19세 이상)이다. 유아용 어트랙션 탑승에는 베이비 티켓이 필요하다(12개월 미만은 어트랙션 무료).",
+    "value": null,
+    "evidence": "만 36개월 미만인 유아손님의 경우 무료입장",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=2",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "fees",
+    "text": "할인 증빙은 실물 원본 제시가 원칙이다. 경로는 신분증·여권·경로우대증, 장애인은 복지카드, 군인은 모바일 휴가증 등이 필요하고 촬영본·캡처본은 제한될 수 있다. 장애인은 복지카드 제시 시 본인과 동반 1인이 우대를 받는다.",
+    "value": null,
+    "evidence": "모든 증빙서류는 실물 원본 제시 후 인증 가능",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=2",
+      "type": "operator",
+      "page_updated": null
+     },
+     {
+      "url": "https://adventure.lotteworld.com/kor/usage-guide/service/convenient-facilities/disabled-person/index.do",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "reservation",
+    "text": "온라인 예매를 하면 앱의 마이티켓에 모바일 티켓(QR)이 생기고 지류 발권 없이 게이트로 입장한다. 2G 폰은 모바일 티켓을 쓸 수 없어 현장에서 구매해야 한다.",
+    "value": null,
+    "evidence": "앱 안에 티켓이 생성되며 바로 앱 화면을 통해 게이트로 입장",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=2",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "payment",
+    "text": "티켓 구입 시 체크카드 결제가 가능하다(제휴 할인은 제휴카드에 한함).",
+    "value": null,
+    "evidence": "티켓 구입 시 체크카드로 결제 가능합니다",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=2",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "reservation",
+    "text": "탑승예약제는 스페인해적선, 후렌치레볼루션, 어린이 동화극장, 키즈토리아 4종에서 운영한다. 좌석이 아닌 인원·시간만 예약하며 모바일 예약은 불가하다.",
+    "value": "4종",
+    "evidence": "모바일 예약 불가",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=5",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "reservation",
+    "text": "매직패스는 별도 예약 없이 어트랙션을 빠르게 이용하는 5회권으로, 앱에서 구매한다. 구매 당일만 쓸 수 있고 1인 4매까지 살 수 있다.",
+    "value": "5회권",
+    "evidence": "별도의 예약없이 어트랙션을 빠르게 이용",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=3",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "caution",
+    "text": "파크에 한 번 나가면 원칙적으로 재입장이 안 된다. 아이스링크 이용객, 저자거리·민속박물관 이용객(3층 민속관 게이트), 의무실 진단 후 외부 의료기관을 가는 경우만 예외다.",
+    "value": null,
+    "evidence": "퇴장하시면 원칙적으로 재입장이 불가능",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=1",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "caution",
+    "text": "주류와 냄새가 심한 일부 음식을 제외한 외부 음식은 반입할 수 있으며, 어드벤처 1층에 피크닉 장소가 있다.",
+    "value": null,
+    "evidence": "주류 및 냄새가 많이 나는 일부 음식을 제외한 외부 음식은 반입이 가능",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=1",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "caution",
+    "text": "애완동물(안내견·도우미견 제외), 주류·불법약품, 버너, 전문 촬영장비(대형 삼각대·사다리), 드론, 자전거·킥보드·전동휠, 돗자리는 가지고 입장할 수 없다.",
+    "value": null,
+    "evidence": "애완동물 (안내견 및 도우미견 제외)",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/kor/usage-guide/service/index.do",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "caution",
+    "text": "파크 전 구역이 금연이며 흡연은 매직아일랜드 자이로스윙 입구 왼쪽 흡연실에서만 가능하다. 음주 후 어트랙션 탑승은 불가하다.",
+    "value": null,
+    "evidence": "모든 구역은 금연입니다",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/kor/usage-guide/service/index.do",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "caution",
+    "text": "어트랙션마다 키·나이 등 탑승 기준이 있고, 임산부·디스크 환자·고령자·심혈관 질환자 등은 탑승이 제한될 수 있다. 깁스를 한 채 움직임이 큰 어트랙션을 타면 직원이 제지할 수 있다.",
+    "value": null,
+    "evidence": "깁스를 하신 채 유동이 심한 어트랙션",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=1",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "language",
+    "text": "가이드맵을 국문·영문·중국어·일본어로 내려받을 수 있다.",
+    "value": "ko/en/zh/ja",
+    "evidence": "국문 가이드맵 다운로드 / English Guide Map",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/kor/usage-guide/service/guide-map/index.do",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c23",
+    "field": "caution",
+    "text": "1층 손님상담실에서 휠체어를 무료로 빌려준다. 보증금 10,000원과 신분증 보관이 필요하다.",
+    "value": "보증금 10000 KRW",
+    "evidence": "휠체어 보증금 10,000원 (신분증 보관 필요)",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/kor/usage-guide/service/convenient-facilities/disabled-person/index.do",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c24",
+    "field": "description",
+    "text": "어드벤처는 천장이 유리돔인 실내 공간이고 매직아일랜드는 야외 시설이다.",
+    "value": null,
+    "evidence": "천정이 유리돔인 실내공간",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=1",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c25",
+    "field": "highlight",
+    "text": "민속박물관은 구석기시대부터 일제강점기까지의 역사를 유물 전시와 모형으로 보여주며 종합이용권으로 입장할 수 있다.",
+    "value": null,
+    "evidence": "구석기시대부터 일제강점기까지의 우리 역사",
+    "sources": [
+     {
+      "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=7",
+      "type": "operator",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "fees.base_price",
+    "reason": "종합이용권·파크이용권 정상가(성인/청소년/어린이)를 공식 페이지에서 읽지 못함. 예매 사이트(advticket)는 로그인·API 인자가 필요했고, 확인된 금액은 제휴 프로모션가뿐이라 정가로 쓸 수 없음. 신문·블로그 가격은 근거로 쓰지 않음"
+   },
+   {
+    "field": "duration",
+    "reason": "공식 안내에 권장 소요시간이 없음"
+   },
+   {
+    "field": "reservation.entry_required",
+    "reason": "입장 자체의 사전예약 필수 여부와 예매 오픈 시점이 공식 FAQ에 명시되어 있지 않음(온라인 예매는 가능, 현장 구매 가능성을 시사)"
+   },
+   {
+    "field": "payment.onsite_methods",
+    "reason": "현장 매표소의 결제수단 전체(현금·모바일 페이 등)는 확인하지 못함. 체크카드 가능 사실만 확인"
+   },
+   {
+    "field": "location.coordinates",
+    "reason": "공식 페이지에서 좌표를 읽지 못했고 지도 대조 미실시"
+   },
+   {
+    "field": "language.korean_service",
+    "reason": "한국어 안내 여부는 사이트가 한국어라는 점 외에 별도 명시 없음. 외국어 가이드맵은 확인됨"
+   },
+   {
+    "field": "crowd_periods",
+    "reason": "혼잡 시기에 대한 공식 안내를 찾지 못함"
+   },
+   {
+    "field": "source_access_note",
+    "reason": "adventure.lotteworld.com 은 자바스크립트로 그려지는 페이지라 일반 HTML 조회로는 본문이 비어 보임. 본문 값은 사이트가 쓰는 공개 API(/api/...) 응답과 사이트 번들의 문구에서 확인했고, 검증자도 해당 API URL로 대조해야 함. 페이지 갱신일 표기 없음"
+   },
+   {
+    "field": "hours.weekly_pattern",
+    "reason": "2026-10-11, 10-12, 10-16, 10-17만 조회함. 다른 날짜·시즌 시간은 달라질 수 있어 일반화하지 않음"
+   }
+  ]
+ },
+ {
+  "key": "central-026",
+  "name_ko": "기요미즈데라",
+  "name_local": "清水寺",
+  "admin_region": "교토부 교토시 히가시야마구 (京都府京都市東山区)",
+  "address": "〒605-0862 京都市東山区清水1丁目294",
+  "summary": "778년에 열린 교토 동쪽 오토와산 중턱의 관음 영장으로, 1994년 유네스코 세계유산에 올랐다. 새벽 6시에 문을 열고, 경내에는 주차장이 없다.",
+  "description": "기요미즈데라는 778년에 문을 연 사찰로, 교토 동쪽 오토와산 중턱의 약 13만 제곱미터 경내에 국보와 중요문화재를 포함한 30여 채의 당탑이 서 있다. 지금의 건물은 대부분 1633년에 재건한 것이며 1994년 고도 교토의 문화재로 유네스코 세계유산에 등록되었다. 본당 앞으로 뻗은 무대는 약 13미터 높이에서 못을 쓰지 않고 짜 올렸고 바닥 면적이 약 200제곱미터이다. 경내에는 벚나무 약 1,500그루와 단풍나무 약 1,000그루가 있다. 문은 보통 06:00에 열며 2026년에는 봄·여름·가을 야간 특별 배관 기간에 21시 접수 마감, 21시 30분까지 연장한다. 시내버스 100·206번으로 고조자카 정류장에서 내려 도보 10분이다. 경내 주차장은 없으며 반려동물 동반은 안 된다.",
+  "highlights": [
+   "약 13미터 높이, 못 없이 짠 본당 무대",
+   "778년 개창, 1994년 유네스코 세계유산 등록",
+   "벚나무 약 1,500그루·단풍나무 약 1,000그루",
+   "봄·여름·가을 연 3회 야간 특별 배관(2026년 가을은 11월 21~30일)",
+   "06:00 개문, 경내 주차장 없음(대중교통 권장)",
+   "오토와 폭포와 지슈 신사"
+  ],
+  "claims": [
+   {
+    "cid": "c1",
+    "field": "location",
+    "text": "주소는 〒605-0862 교토시 히가시야마구 기요미즈 1초메 294이다. 행정구역은 교토부 교토시 히가시야마구다.",
+    "value": "京都市東山区清水1丁目294",
+    "evidence": "〒605-0862 京都市東山区清水1丁目294",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/access.php",
+      "type": "official",
+      "page_updated": null
+     },
+     {
+      "url": "https://www.japan.travel/en/spot/2199/",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c2",
+    "field": "access",
+    "text": "JR 교토역에서 시영버스 206번 또는 100번을 타고 고조자카에서 내려 도보 10분이다.",
+    "value": "도보 10분",
+    "evidence": "五条坂下車、徒歩10分",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/access.php",
+      "type": "official",
+      "page_updated": null
+     },
+     {
+      "url": "https://www.japan.travel/en/spot/2199/",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c3",
+    "field": "access",
+    "text": "기온시조역(게이한)에서는 시영버스 207번 또는 게이한버스 83·85·87·88번 등으로 기요미즈미치 또는 고조자카에서 내려 도보 10분이다.",
+    "value": "도보 10분",
+    "evidence": "清水道下車、徒歩10分",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/access.php",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c4",
+    "field": "access",
+    "text": "게이한 기요미즈고조역에서는 도보 약 25분이다.",
+    "value": "약 25분",
+    "evidence": "京阪電鉄 清水五条駅から 約徒歩25分",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/access.php",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c5",
+    "field": "access",
+    "text": "경내로 오르는 길은 니오몬 앞의 기요미즈자카와 방재도로로 이어지는 자완자카 두 갈래뿐이며, 지도 앱이 진입할 수 없는 길을 안내하는 경우가 있다.",
+    "value": null,
+    "evidence": "入山できないルートが案内される場合があります",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/access.php",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c6",
+    "field": "parking",
+    "text": "경내에는 주차장이 없다. 가까운 교토시 시영 주차장(075-561-4601)과 참배길 아래의 임시 주차장을 쓸 수 있으나 시기에 따라 붐비므로 대중교통·택시를 권한다.",
+    "value": "경내 주차장 없음",
+    "evidence": "清水寺境内には駐車場はございません",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/access.php",
+      "type": "official",
+      "page_updated": null
+     },
+     {
+      "url": "https://www.kiyomizudera.or.jp/faq.php",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c7",
+    "field": "hours",
+    "text": "2026년 개문은 연중 06:00이며 폐문은 1.1~3.26 18:00, 4.6~6.30 18:00, 7.1~8.13 18:30, 8.17~8.31 18:30, 9.1~11.20 18:00, 12.1~12.31 18:00이다.",
+    "value": "06:00-18:00 (7~8월 중 18:30)",
+    "evidence": "9.1 〜 11.20 6:00 18:00",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/access.php",
+      "type": "official",
+      "page_updated": null
+     },
+     {
+      "url": "https://www.kiyomizudera.or.jp/news/open-hour.php",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c8",
+    "field": "hours",
+    "text": "2026년 야간 특별 배관은 봄 3.27~4.5, 여름 8.14~8.16(센니치마이리), 가을 11.21~11.30이며, 이 기간에는 21:30까지 열고 21:00에 접수를 마감한다.",
+    "value": "21:30 폐문 / 21:00 접수마감",
+    "evidence": "21:30 (21:00受付終了)",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/access.php",
+      "type": "official",
+      "page_updated": null
+     },
+     {
+      "url": "https://www.kiyomizudera.or.jp/event/yakan.php",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c9",
+    "field": "hours",
+    "text": "부적 수여소와 어인(고슈인) 접수소는 08:00경부터 이용할 수 있다.",
+    "value": "08:00경",
+    "evidence": "授与所、納経所（ご朱印）での授与は8：00頃から",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/news/open-hour.php",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c10",
+    "field": "fees",
+    "text": "야간 특별 배관 요금은 가을(2026.11.21~30) 기준 성인 500엔, 초·중학생 200엔으로 교토시 관광협회 공식 사이트에 게재되어 있다.",
+    "value": "500 JPY / 200 JPY",
+    "evidence": "大人500円、小・中学生200円",
+    "sources": [
+     {
+      "url": "https://ja.kyoto.travel/event/single.php?event_id=3730",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c11",
+    "field": "fees",
+    "text": "단체 할인은 없다. 장애인수첩·요양수첩 원본을 제시하면 본인과 동반 1인이 무료이며, 교육기관 공식 행사의 인솔 교원은 증빙을 보이면 무료다.",
+    "value": "무료(해당자)",
+    "evidence": "拝観料の団体割引等はございません",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/faq.php",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c12",
+    "field": "reservation",
+    "text": "야간 특별 배관은 예약이 필요 없다.",
+    "value": "예약 불필요",
+    "evidence": "予約の必要はございません",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/event/yakan.php",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c13",
+    "field": "reservation",
+    "text": "교토시 관광협회 FAQ는 기요미즈데라가 사전 예약이 필요 없는 곳이라고 안내한다.",
+    "value": "예약 불필요",
+    "evidence": "Kiyomizu Dera and Kinkaku Ji do not require reservations",
+    "sources": [
+     {
+      "url": "https://global.kyoto.travel/en/faq/detail.php?faq_id=1010",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c14",
+    "field": "caution",
+    "text": "경내는 금연이며 흡연소가 없다. 뚜껑이 닫히는 음료를 제외한 음식 반입·걸으며 먹기, 쓰레기 반입이 금지된다. 보조견을 제외한 반려동물은 입산할 수 없다.",
+    "value": null,
+    "evidence": "境内は禁煙です。喫煙所はありません",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/news/etiquette-inside-the-temple-grounds.php",
+      "type": "official",
+      "page_updated": null,
+      "stale_source": true
+     },
+     {
+      "url": "https://www.kiyomizudera.or.jp/faq.php",
+      "type": "official",
+      "page_updated": null,
+      "stale_source": true
+     }
+    ]
+   },
+   {
+    "cid": "c15",
+    "field": "caution",
+    "text": "드론·일각대·삼각대 촬영, 웨딩·코스프레·모델 촬영, 허가 없는 영리 촬영과 생중계는 금지되며 출입금지 구역에 들어갈 수 없다.",
+    "value": null,
+    "evidence": "ドローンを使った撮影、一脚、三脚を使った撮影",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/news/etiquette-inside-the-temple-grounds.php",
+      "type": "official",
+      "page_updated": null,
+      "stale_source": true
+     }
+    ]
+   },
+   {
+    "cid": "c16",
+    "field": "caution",
+    "text": "휠체어는 방재도로(자완자카) 입구에서 차량으로 입산할 수 있고 본당 가까이까지 안내한다. 휠체어 대여는 하지 않는다. 자전거는 경내 반입이 원칙적으로 금지되며 주륜 공간이 1곳 있다. 정문 앞길은 8:00~19:00 차량 통행금지다.",
+    "value": null,
+    "evidence": "車椅子の貸し出しのご用意は行っておりません",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/faq.php",
+      "type": "official",
+      "page_updated": null,
+      "stale_source": true
+     }
+    ]
+   },
+   {
+    "cid": "c17",
+    "field": "description",
+    "text": "기요미즈데라의 개창은 778년이며, 약 13만 제곱미터 경내에 국보·중요문화재를 포함한 30여 채의 당탑이 있다.",
+    "value": "778 / 130000㎡ / 30+",
+    "evidence": "音羽山清水寺の開創は778年",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/history.php",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c18",
+    "field": "description",
+    "text": "현재의 가람은 대부분 1633년에 재건한 것이며, 1994년 유네스코 세계문화유산 '고도 교토의 문화재'에 포함되었다.",
+    "value": "1633 / 1994",
+    "evidence": "1994年にはユネスコ世界文化遺産",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/history.php",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c19",
+    "field": "highlight",
+    "text": "본당 무대는 편백판 166장, 바닥 면적 약 200제곱미터이며 절벽 아래 초석에서 약 13미터 높이다.",
+    "value": "13m / 200㎡ / 166장",
+    "evidence": "166枚の桧板の舞台の床面積は約200平方メートル",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/history.php",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c20",
+    "field": "highlight",
+    "text": "무대는 느티나무 기둥 18개가 받치며 못을 하나도 쓰지 않은 가케즈쿠리(懸造り) 공법으로 지어졌다.",
+    "value": "기둥 18개",
+    "evidence": "釘を1本も使用していません",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/history.php",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c21",
+    "field": "highlight",
+    "text": "경내에는 벚나무 약 1,500그루와 단풍나무 약 1,000그루가 있다.",
+    "value": "1500 / 1000",
+    "evidence": "約1,500本の桜、約1,000本の紅葉",
+    "sources": [
+     {
+      "url": "https://www.kiyomizudera.or.jp/faq.php",
+      "type": "official",
+      "page_updated": null
+     }
+    ]
+   },
+   {
+    "cid": "c22",
+    "field": "highlight",
+    "text": "본당 아래 오토와 폭포는 세 줄기로 나뉘며 방문객은 긴 국자로 물을 마신다. 본당 뒤에는 인연(연애)을 기원하는 지슈 신사가 있다.",
+    "value": null,
+    "evidence": "Otowa Waterfall splits into three cascades",
+    "sources": [
+     {
+      "url": "https://www.japan.travel/en/spot/2199/",
+      "type": "national_tourism",
+      "page_updated": null
+     }
+    ]
+   }
+  ],
+  "unconfirmed": [
+   {
+    "field": "fees.regular_admission",
+    "reason": "일반(주간) 성인·어린이 입장료를 공식 사이트 텍스트에서 찾지 못함(access.php 등에 금액 없음, 이미지일 가능성). 일본정부관광국·교토시 페이지에도 없고 블로그·여행사 값은 근거로 쓸 수 없음"
+   },
+   {
+    "field": "closed_days",
+    "reason": "공식 페이지에 정기 휴무일 언급이 없음(연중무휴라고 명시된 문장도 없음)"
+   },
+   {
+    "field": "duration",
+    "reason": "공식 안내에 권장 소요시간이 없음"
+   },
+   {
+    "field": "payment",
+    "reason": "입장료 결제수단(현금·카드·모바일)에 대한 공식 안내가 없음"
+   },
+   {
+    "field": "language.korean",
+    "reason": "한국어 안내판·오디오가이드에 대한 공식 안내가 없음(공식 사이트는 일본어·영어)"
+   },
+   {
+    "field": "location.coordinates",
+    "reason": "공식 페이지에 좌표가 없고 지도 대조 미실시"
+   },
+   {
+    "field": "crowd_periods",
+    "reason": "벚꽃·단풍철 혼잡에 대한 공식 안내를 찾지 못함"
+   },
+   {
+    "field": "source_updated",
+    "reason": "access.php·faq.php·history.php에 갱신일 표기가 없음. 경내 에티켓 공지와 FAQ는 令和6年6月(2024년 6월) 작성으로 12개월 이상 경과해 stale_source로 표시하며, 운영시간·교통은 2026년 표를 쓰는 access.php로 대체함. 홈페이지 상단 날짜(2024.11.30)와 최신 소식(2026.9.30)이 달라 신뢰하지 않음"
+   },
+   {
+    "field": "former_region",
+    "reason": "행정구역 변경 사항 없음(이전 표기 불필요)"
+   }
+  ]
+ }
+]
