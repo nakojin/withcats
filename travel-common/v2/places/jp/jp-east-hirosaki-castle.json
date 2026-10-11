@@ -1,0 +1,194 @@
+{
+ "id": "jp-east-hirosaki-castle",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "히로사키성",
+  "local": "弘前城"
+ },
+ "admin_region": "아오모리",
+ "former_region": null,
+ "city": "히로사키시",
+ "address": null,
+ "coord": {
+  "lat": 40.607929,
+  "lng": 140.463661,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/757850283"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-hirosaki-castle",
+   "name_ko": "히로사키성",
+   "name_ja": "弘前城",
+   "region": "도호쿠",
+   "prefecture": "아오모리",
+   "city": "히로사키시",
+   "category": "성곽·공원",
+   "description": "히로사키 공원 안에 남은 에도시대 성곽이다. 현재의 3층 천수는 1811년에 재건되었으며 성문·망루·해자와 함께 성의 방어 구조를 보여준다. 벚꽃 사진 명소라는 이미지에만 머무르지 않고 성곽 유구를 연결해 걷기 좋다.",
+   "highlights": [
+    "3층 목조 천수",
+    "성문과 망루",
+    "벚나무와 해자가 이어지는 공원"
+   ],
+   "best_time": "봄 벚꽃철은 해자와 꽃을 함께 볼 수 있는 시기다. 실제 개화일은 해마다 다르다.",
+   "visit_tips": [
+    "히로사키역에서 공원까지 도보 약 30분 또는 버스 이동을 더한다.",
+    "천수 이동·석벽 공사 관련 오래된 관광 안내를 현재 완료 상태로 인용하지 않는다.",
+    "벚꽃 절정에는 사진 구간과 성 내부 관람 시간을 분리해 여유를 둔다."
+   ],
+   "hours_and_fees": {
+    "hours": "본마루·기타노쿠루와 유료구역 09:00–17:00(입원권 판매 16:30까지), 개원 4/1~11/23, 벚꽃축제 기간(4/23~5/5) 07:00–21:00",
+    "fees": "본마루·기타노쿠루 단독권 성인 320엔, 어린이 100엔(단체 10명 이상 250엔/80엔), 미취학 무료. 3시설 공통권(성·식물원·후지타기념정원) 성인 520엔, 어린이 160엔(단체 470/130엔)",
+    "conditions": "11/24~3/31 동기는 유료구역 무료. 5월 마지막 일요일 무료, 65세 이상 히로사키 시민 등 무료. 천수(天守) 내부는 2025-11-24부터 장기 휴관(시 사이트: 令和14(2032)年度まで 예정), 2025-11-23이 마지막 공개. 천수 비키모도시(曳戻し) 공사 2025~2026년도 진행 중, 본마루 남쪽 입구 일부 통행금지·우회로. 관광협회 페이지 요금·시간은 연도 미표기(2026년도 확인 불가)",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "2026년도 요금·시간의 공원 관리 사이트 대조(접속 불가, 관광협회 페이지 기준·연도 미표기)",
+    "천수 이동(曳戻し) 공사 완료 여부"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1836/",
+     "title": "JNTO Hirosaki Castle",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "천수 1811년 재건",
+      "성문·해자·벚나무",
+      "역에서 접근"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.hirosaki-kanko.or.jp/details.html?id=CNT00403311729226724",
+     "title": "弘前城天守｜弘前市観光情報サイト きてみて、ひろさき。ここみて、弘前",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.hirosaki-kanko.or.jp/details.html?id=api00100000205",
+     "title": "史跡 弘前城｜弘前市観光情報サイト きてみて、ひろさき。ここみて、弘前",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "요금"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.city.hirosaki.aomori.jp/ishigaki/index.html",
+     "title": "弘前城本丸石垣修理事業 - 弘前市",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

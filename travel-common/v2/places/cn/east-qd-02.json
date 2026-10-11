@@ -1,0 +1,192 @@
+{
+ "id": "east-qd-02",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "팔대관",
+  "local": "八大关"
+ },
+ "admin_region": "산둥성",
+ "former_region": null,
+ "city": "칭다오",
+ "address": null,
+ "coord": {
+  "lat": 36.053793,
+  "lng": 120.34565,
+  "geo_type": "point",
+  "precision": "place",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/4057340944"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "east-qd-02",
+   "name_ko": "팔대관",
+   "name_local": "八大关",
+   "city": "칭다오",
+   "province": "산둥성",
+   "region": "칭다오",
+   "category": "근대건축·정원거리",
+   "description": "나무가 많은 도로와 여러 양식의 별장이 모인 해안 역사구역이다. 건물 외관을 따라 걷고 타이핑만 방향으로 이동하면 건축과 바다를 함께 즐길 수 있다.",
+   "best_time": {
+    "period": "봄·가을 낮",
+    "reason": "꽃과 잎의 변화가 건축 산책에 색을 더한다.",
+    "basis": "편집상 권장; 개화·날씨·혼잡 및 운영 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "timezone": "Asia/Shanghai",
+    "hours": "확인한 공식 본문에 운영시간 없음",
+    "price_cny": "공식 요금 미확인",
+    "reservation": "공식 예약조건 미확인",
+    "foreign_passport": "외국인 여권 예약·입장 상세 미확인",
+    "payment": "결제수단 미확인",
+    "validity_note": "조회일은 본문 열람일이며 방문일 실시간 운영 확인일이 아님"
+   },
+   "sources": [
+    {
+     "url": "https://www.qdseaside.cn/mobile/about.asp?id=1",
+     "title": "青岛海滨风景区 景区总览",
+     "checked_at": "2026-10-10",
+     "verification": "공식 본문 열람 확인; 최신 현장운영 보증 아님",
+     "supported_facts": [
+      "별장군",
+      "가로수",
+      "타이핑만 위치"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 임시휴업·행사 통제",
+    "외국인 여권 예약 및 현장처리",
+    "해외카드·모바일 결제 가능 여부",
+    "방문일 성인 요금 및 상품 포함내역",
+    "운영시간·최종 입장시간",
+    "사전예약 필요 여부"
+   ],
+   "selection_tier": "핵심 수요 확인",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "collection_group": "east",
+   "highlights": [
+    "다양한 별장 외관",
+    "가로수길",
+    "타이핑만 주변"
+   ],
+   "visit_tips": [
+    "1.5~3시간은 편집상 권장치다.",
+    "개별 저택 입장권과 구역 산책을 구분한다.",
+    "주거·비개방 건물의 대문 안으로 무단 진입하지 않는다."
+   ],
+   "destination_cluster": "칭다오",
+   "original_region": "중국 동부",
+   "selection_region_id": "qingdao",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL02",
+    "SEL03"
+   ],
+   "selection_scope_caution": "한국인 전체 순위 없음.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

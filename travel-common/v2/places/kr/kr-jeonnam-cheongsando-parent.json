@@ -1,0 +1,186 @@
+{
+ "id": "kr-jeonnam-cheongsando-parent",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "청산도",
+  "local": "청산도"
+ },
+ "admin_region": "전라남도",
+ "former_region": null,
+ "city": "완도군 청산면 청산도",
+ "address": null,
+ "coord": {
+  "lat": 34.183427,
+  "lng": 126.881143,
+  "geo_type": "point",
+  "precision": "place",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "relation/11591369"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonnam-cheongsando-parent",
+   "name_ko": "청산도",
+   "region": "전라",
+   "admin_region": "전라남도",
+   "locality": "완도군 청산면 청산도",
+   "type": [
+    "부모관광권",
+    "섬",
+    "걷기"
+   ],
+   "highlights": [
+    "청산도는 돌담길·유채꽃·푸른 바다의 풍경을 걸어서 살피는 섬이다. 슬로길 전체 42.195km는 짧은 단일 산책 코스의 길이가 아니다.",
+    "구들장논은 경사지 농경의 특징을 보여주는 중요한 풍경이다. 바다 사진뿐 아니라 사람이 섬에서 살아온 방식에 시선을 두면 여행이 풍성해진다.",
+    "서편제길과 유채꽃 포토존, 달빛 걷기는 2026 슬로걷기축제에 소개된 내용이다. 축제 프로그램이 연중 운영된다고 가정하지 않는다."
+   ],
+   "recommended_season": {
+    "text": "봄 유채꽃 풍경을 원하는 때",
+    "reason": "공식 축제 소개에서 봄꽃·걷기 풍경을 확인했다. 2026 축제는 4월 1~30일로 종료되었으며 내년 일정과 개화 절정은 별도다.",
+    "basis": "editorial_recommendation_based_on_verified_features"
+   },
+   "visit_tips": [
+    "슬로길 전체 완주보다 체류시간·걷기 능력에 맞는 구간을 고른다. 선착장 귀환 여유를 먼저 남기고 일정을 짜는 편집 제안이다.",
+    "논과 돌담마을은 주민 생활·농경 공간이다. 꽃밭이나 논 안으로 들어가지 말고 정해진 길에서 감상한다.",
+    "입도·귀항 배편, 승선 절차, 결항 공지를 출발 전 확인한다. 기존 서로 다른 운임과 소요시간을 평균내어 안내하지 않는다."
+   ],
+   "operational": {
+    "notes": [
+     "한국관광공사 공식 소개는 2007년 아시아 최초 슬로시티 지정과 구들장논을 설명한다.",
+     "2026 슬로걷기축제 공식 관광정보의 일정은 2026-04-01~04-30이다. 종료된 행사로 기록하며 현재 참가 가능한 행사로 안내하지 않는다."
+    ]
+   },
+   "unverified_items": [
+    "완도↔청산도 선박 시간표·운임·차량 도선료·예약절차",
+    "섬내 버스와 구간별 최신 통제",
+    "슬로길 코스별 길이 및 2027 축제 일정"
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=103614",
+     "title": "한국관광공사 청산도 슬로시티",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "섬 위치와 슬로시티 지정 연도, 구들장논"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91703",
+     "title": "한국관광공사 2026 청산도슬로걷기축제",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "돌담·유채꽃·슬로길 총길이, 프로그램과 종료 일정"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/05_전라/청산도.md",
+   "document_path": "korea-travel/05_전라/청산도.md",
+   "path": "korea-travel/05_전라/청산도.md",
+   "count_as_independent": false,
+   "relation_type": "parent_reference",
+   "relation_note": "섬 전체의 부모 관광권. 슬로길 각 코스·꽃밭·마을을 개별 명소로 늘려 집계하지 않는다.",
+   "related_catalog_ids": [],
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification",
+   "editorial_region": "05_전라"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,169 @@
+{
+ "id": "kr-gwangju-yangnim-history",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "양림역사문화마을",
+  "local": "양림역사문화마을"
+ },
+ "admin_region": "광주광역시",
+ "former_region": null,
+ "city": "남구 양림동",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gwangju-yangnim-history",
+   "name_ko": "양림역사문화마을",
+   "aliases": [],
+   "region": "광주광역시",
+   "admin_region": "광주광역시",
+   "locality": "남구 양림동",
+   "type": [
+    "역사마을",
+    "건축"
+   ],
+   "highlights": [
+    "근대 선교 관련 건축과 한옥이 함께 있는 마을",
+    "이장우 가옥·오웬기념각 등 역사 공간",
+    "재활용 재료를 활용한 펭귄마을 예술"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "여러 건물을 연결하는 골목 산책에 적합하다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "이장우 가옥의 한옥과 오웬기념각 등 선교 관련 건축을 비교해 본다.",
+    "펭귄마을의 골목 예술은 역사 건물 내부 관람과 구분해 걷는다.",
+    "거주 공간의 사생활을 지키고 건물별 내부 개방을 별도 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=193806",
+     "title": "VISITKOREA — MUST-HAVE ITEMS IN GWANGJU",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "근대 선교 관련 건축과 한옥이 함께 있는 마을; 이장우 가옥·오웬기념각 등 역사 공간; 재활용 재료를 활용한 펭귄마을 예술"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "펭귄마을과 개별 가옥은 이 레코드의 하위 볼거리이며 별도 신규 수로 세지 않았다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "administrative_note": "기존 17권역 분류를 호환용으로 유지. 일부 공식 원문은 전남광주통합특별시로 표기하므로 게시 전 행정구역명 별도 검증 필요.",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/05_전라/양림역사문화마을.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

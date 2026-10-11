@@ -1,0 +1,192 @@
+{
+ "id": "east-sh-06",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "상하이타워 전망대",
+  "local": "上海中心大厦·上海之巅观光厅"
+ },
+ "admin_region": "상하이시",
+ "former_region": null,
+ "city": "상하이",
+ "address": null,
+ "coord": {
+  "lat": 31.235455,
+  "lng": 121.500439,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/11221740642"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "east-sh-06",
+   "name_ko": "상하이타워 전망대",
+   "name_local": "上海中心大厦·上海之巅观光厅",
+   "city": "상하이",
+   "province": "상하이시",
+   "region": "상하이",
+   "category": "전망대",
+   "description": "루자쭈이의 초고층 빌딩 118층, 지상 약546m에 있는 전망대에서 도시를 원형으로 조망한다. 강변에서 올려다보는 풍경과 대비되는 높은 시점이 핵심이다. 상층 SKY632 공연은 소개되어 있지만 일반 전망대 표에 포함된다고 보지 않았다.",
+   "best_time": {
+    "period": "시정 좋은 날의 늦은 오후",
+    "reason": "구름·안개가 높은 전망을 가릴 수 있어 맑은 날이 목적에 맞다.",
+    "basis": "편집상 권장; 개화·날씨·혼잡 및 운영 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "timezone": "Asia/Shanghai",
+    "hours": "확인한 공식 본문에 운영시간 없음",
+    "price_cny": "공식 요금 미확인",
+    "reservation": "공식 예약조건 미확인",
+    "foreign_passport": "외국인 여권 예약·입장 상세 미확인",
+    "payment": "결제수단 미확인",
+    "validity_note": "조회일은 본문 열람일이며 방문일 실시간 운영 확인일이 아님"
+   },
+   "sources": [
+    {
+     "url": "https://english.shanghai.gov.cn/en-ScenicSpots/20240507/f3ce9cade30f4ff2a0bad6293626a232.html",
+     "title": "Shanghai Tower",
+     "checked_at": "2026-10-10",
+     "verification": "공식 본문 열람 확인; 최신 현장운영 보증 아님",
+     "supported_facts": [
+      "118층·546m",
+      "루자쭈이 위치",
+      "SKY632 별도 소개"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 임시휴업·행사 통제",
+    "외국인 여권 예약 및 현장처리",
+    "해외카드·모바일 결제 가능 여부",
+    "방문일 성인 요금 및 상품 포함내역",
+    "운영시간·최종 입장시간",
+    "사전예약 필요 여부"
+   ],
+   "selection_tier": "핵심 수요 확인",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "collection_group": "east",
+   "highlights": [
+    "118층 전망대",
+    "황푸강과 도심 파노라마",
+    "초고층 건축 체험"
+   ],
+   "visit_tips": [
+    "전망 1~2시간 외에 입장·승강기 대기 여유를 둔다.",
+    "주소는 루자쭈이환루479호다.",
+    "전망대와 SKY632 공연의 층·상품 구성을 따로 확인한다."
+   ],
+   "destination_cluster": "상하이",
+   "original_region": "중국 동부",
+   "selection_region_id": "shanghai",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL02",
+    "SEL03"
+   ],
+   "selection_scope_caution": "도시 수요가 개별 명소 선호를 자동 증명하지 않는다.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,168 @@
+{
+ "id": "central-018",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "구조하치만성",
+  "local": "郡上八幡城"
+ },
+ "admin_region": "기후",
+ "former_region": null,
+ "city": "구조시",
+ "address": null,
+ "coord": {
+  "lat": 35.753083,
+  "lng": 136.961445,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/585995159"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-018",
+   "name_ko": "구조하치만성",
+   "name_ja": "郡上八幡城",
+   "region": "주부·호쿠리쿠",
+   "prefecture": "기후",
+   "city": "구조시",
+   "category": "산성·조망",
+   "description": "도심 뒤 시로야마에 서 있는 목조 복원 성이다. 원래 성은 메이지기에 철거되었고 현재 천수는 1933년 목조로 재건되어, 현존 원형 천수와 구분해야 한다. 성 내부 전시와 산 아래 계곡·마을 조망을 함께 즐기는 짧은 오르막 코스다.",
+   "highlights": [
+    "1933년 목조 복원 천수",
+    "마을과 계곡 조망",
+    "주변 단풍나무"
+   ],
+   "best_time": "11월 단풍철. 관광협회가 성 주변 단풍과 모미지 행사를 주요 볼거리로 소개한다.",
+   "visit_tips": [
+    "성 아래에서 올라가는 시간과 휴식을 별도로 계산한다.",
+    "계단을 오르기 편한 신발을 준비한다.",
+    "공식 관광사이트 간 하계시간·입장료가 상충하므로 여행일 직전 운영자에 확인한다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.gujohachiman.com/kanko/sightseeing_intown_e.html",
+     "title": "Gujo Hachiman Tourism: Sightseeing",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "성 역사",
+      "목조 재건",
+      "조망",
+      "단풍",
+      "운영자 협회 표기"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "9~10월 시간 누락",
+    "하계시간·요금 상충",
+    "연말 휴성 확정 일정"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "지역 관광협회: 내부 성인 400엔·어린이 200엔, 외부 경내 무료. 3~5월 9~17시, 6~8월 8~16시, 11~2월 9~16:30, 입장 15분 전 종료로 표기. 기후현 관광안내에는 다른 하계시간·구요금이 있어 확정표로 사용 금지."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "id": "kr-gangwon-museum-san",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "뮤지엄 산",
+  "local": "뮤지엄 산"
+ },
+ "admin_region": "강원특별자치도",
+ "former_region": null,
+ "city": "원주시 지정면 오크밸리2길 260",
+ "address": null,
+ "coord": {
+  "lat": 37.41862,
+  "lng": 127.823088,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/6290608761"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gangwon-museum-san",
+   "name_ko": "뮤지엄 산",
+   "aliases": [],
+   "region": "강원특별자치도",
+   "admin_region": "강원특별자치도",
+   "locality": "원주시 지정면 오크밸리2길 260",
+   "type": [
+    "미술관",
+    "건축"
+   ],
+   "highlights": [
+    "워터가든·스톤가든과 산속 건축",
+    "제임스 터렐 전시 공간"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "정원과 실내 전시를 함께 둘러보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "플라워가든·워터가든에서 건축으로 접근한 뒤 실내 전시와 스톤가든을 연결하는 동선을 고려한다.",
+    "제임스 터렐관·명상관 포함 여부가 관람권마다 달라 원하는 전시 범위를 먼저 고른다."
+   ],
+   "sources": [
+    {
+     "url": "https://www.wonju.go.kr/english/contents.do?key=2911",
+     "title": "원주시: Museum SAN",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약 조건은 확정 수치로 수록하지 않음. 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "verification_scope": {
+    "confirmed": [
+     "명칭",
+     "시군구 이상 위치",
+     "본문에 명시된 시설·볼거리"
+    ],
+    "editorial": [
+     "추천 계절",
+     "시설 특성에 따른 동선·준비 조언"
+    ],
+    "pending": [
+     "방문일 요금",
+     "방문일 운영시간",
+     "변동성 예약·행사 조건"
+    ]
+   },
+   "document_path": "korea-travel/03_강원/뮤지엄 산.md",
+   "editorial_region": "03_강원",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

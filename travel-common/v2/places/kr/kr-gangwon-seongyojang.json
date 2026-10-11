@@ -1,0 +1,201 @@
+{
+ "id": "kr-gangwon-seongyojang",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "강릉선교장",
+  "local": "강릉선교장"
+ },
+ "admin_region": "강원특별자치도",
+ "former_region": null,
+ "city": "강릉시 운정길 63",
+ "address": null,
+ "coord": {
+  "lat": 37.786204,
+  "lng": 128.884754,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/510156500"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gangwon-seongyojang",
+   "name_ko": "강릉선교장",
+   "aliases": [],
+   "region": "강원특별자치도",
+   "admin_region": "강원특별자치도",
+   "locality": "강릉시 운정길 63",
+   "type": [
+    "한옥",
+    "역사유적"
+   ],
+   "highlights": [
+    "대문 밖 활래정은 네모난 연못 쪽으로 마루가 뻗고 돌기둥이 받치는 정자다. 물가에서 정자의 바닥과 기둥 구조를 살펴볼 만하다.",
+    "대문 안 안채·사랑채 열화당·동별당이 나뉘어 있어 큰 살림집의 생활 공간과 손님맞이 공간을 비교할 수 있다.",
+    "열화당은 세 단의 돌기단 위에 세운 ㄱ자 건물로, 누마루 난간과 방 사이 공간 구성이 특징이다. 안채와 열화당 사이의 서별당은 복원된 건물이다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "한옥 공간과 숲길을 연계하기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "활래정 연못에서 건물과 물의 관계를 본 뒤 대문 안의 안채·열화당으로 옮겨 각 채의 쓰임을 비교하는 순서를 권한다.",
+    "건물마다 실내 입장이 가능하다고 가정하지 말고 현장 개방 표시에 따라 바깥에서 기단·난간·지붕을 관찰한다.",
+    "한옥 숙박과 체험은 일반 관람과 구분해 확인한다. 뒤편 숲길을 더할 경우 한옥 관람 시간과 산책 시간을 따로 잡는다."
+   ],
+   "sources": [
+    {
+     "url": "https://english1.visitkorea.or.kr/e_book/access/ecatalogt.jsp?Dir=782&callmode=normal&catimage=&eclang=ko&start=112&um=s",
+     "title": "한국관광공사 Korean Architecture Tour: Gangneung Seongyojang",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    },
+    {
+     "url": "https://www.gn.go.kr/www/selectBbsNttView.do?bbsNo=85&integrDeptCode=&key=1722&nttNo=1056&pageIndex=3&searchCnd=all&searchCtgry=&searchKrwd=",
+     "title": "강릉시: 강릉 선교장",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "활래정 연못과 돌기둥",
+      "안채·열화당·별당의 배치와 건축"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약 조건은 확정 수치로 수록하지 않음. 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "verification_scope": {
+    "confirmed": [
+     "명칭",
+     "시군구 이상 위치",
+     "본문에 명시된 시설·볼거리"
+    ],
+    "editorial": [
+     "추천 계절",
+     "시설 특성에 따른 동선·준비 조언"
+    ],
+    "pending": [
+     "방문일 요금",
+     "방문일 운영시간",
+     "변동성 예약·행사 조건"
+    ]
+   },
+   "document_path": "korea-travel/03_강원/강릉선교장.md",
+   "editorial_region": "03_강원",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

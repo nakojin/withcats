@@ -1,0 +1,177 @@
+{
+ "id": "WEST-003",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "우라도메 해안",
+  "local": "浦富海岸"
+ },
+ "admin_region": "돗토리",
+ "former_region": null,
+ "city": "이와미정",
+ "address": null,
+ "coord": {
+  "lat": 35.607091,
+  "lng": 134.33763,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/6315993786"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-003",
+   "name_ko": "우라도메 해안",
+   "name_ja": "浦富海岸",
+   "region": "주고쿠",
+   "prefecture": "돗토리",
+   "city": "이와미정",
+   "category": "해안·산책",
+   "description": "약 15km에 걸친 리아스식 해안으로 절벽·동굴·기암이 이어진다. 약 3km의 산책로에서 흰 모래와 소나무, 투명한 바다를 보고 배를 이용하면 육지와 다른 각도의 해안선을 만난다.",
+   "highlights": [
+    "침식된 기암과 동문",
+    "흰 모래와 소나무 해안",
+    "시라와라 부근 해질녘"
+   ],
+   "best_time": "바다가 잔잔한 봄~가을 낮. 해질녘은 해안 풍경을 감상하기 좋지만 산책은 어두워지기 전에 마친다.",
+   "visit_tips": [
+    "해변 감상과 유람선 일정을 구분한다",
+    "유람선은 날씨에 따라 운항이 달라진다",
+    "이와미역에서 해안구치 정류장까지 버스 약10분 후 동선을 확인한다"
+   ],
+   "hours_and_fees": {
+    "hours": "해안 개방시간 미기재. 유람선 안내소 08:30–16:30, 겨울 12~2월 휴업",
+    "fees": "해안·유람선 요금 미확인",
+    "conditions": "배 종류별 출항시간 별도 확인 필요",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://www.torican.jp/en/spot/detail_1052.html",
+     "title": "돗토리시 공식: Uradome Coast",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "해안지형",
+      "산책로",
+      "접근"
+     ]
+    },
+    {
+     "url": "https://www.torican.jp/itineraries/detail_195.html",
+     "title": "돗토리시 공식 해안 절경 코스",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "유람선 운영기간",
+      "안내소 시간"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "유람선 당일 운항과 요금",
+    "야외 개방시간"
+   ],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

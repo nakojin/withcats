@@ -1,0 +1,175 @@
+{
+ "id": "kr-jeju-geum-oreum",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "금오름",
+  "local": "금오름"
+ },
+ "admin_region": "제주특별자치도",
+ "former_region": null,
+ "city": "제주시 한림읍 금악리 산1-1",
+ "address": null,
+ "coord": {
+  "lat": 33.354634,
+  "lng": 126.305825,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/3736657966"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeju-geum-oreum",
+   "name_ko": "금오름",
+   "aliases": [],
+   "region": "제주특별자치도",
+   "admin_region": "제주특별자치도",
+   "locality": "제주시 한림읍 금악리 산1-1",
+   "type": [
+    "오름",
+    "화산지형"
+   ],
+   "highlights": [
+    "정상 분화구의 형태와 물이 고이는 지형",
+    "주변 오름·바다·한라산 방향 조망"
+   ],
+   "recommended_season": {
+    "text": "맑고 바람이 약한 봄·가을",
+    "reason": "시야와 보행 조건이 확보된 날 분화구 경관을 보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "분화구에 항상 물이 있는 것은 아니므로 호수 사진을 기대 조건으로 삼지 않는다.",
+    "맑은 날 주변 오름과 해안의 방향을 비교해 본다.",
+    "훼손을 줄이기 위해 지정 탐방길을 따른다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/bbsHtmlView.do?dataSetId=70&menuSn=862&vcontsId=200970",
+     "title": "VISITKOREA — Into the mysterious volcanic island of Jeju",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "정상 분화구의 형태와 물이 고이는 지형; 주변 오름·바다·한라산 방향 조망"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "수위와 조망은 기상에 따라 달라진다. 현재 탐방 통제 여부는 미확인이다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/08_제주/금오름.md",
+   "editorial_region": "08_제주",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,208 @@
+{
+ "id": "nature-cbs-03",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "백두산 중국 측 남경구",
+  "local": "长白山南景区"
+ },
+ "admin_region": "지린성",
+ "former_region": null,
+ "city": "장백산 보호개발구 츠난 거점",
+ "address": null,
+ "coord": {
+  "lat": 44.825036,
+  "lng": 126.553683,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "way/918596597"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-cbs-03",
+   "name_ko": "백두산 중국 측 남경구",
+   "name_local": "长白山南景区",
+   "city": "장백산 보호개발구 츠난 거점",
+   "province": "지린성",
+   "region": "옌지·백두산 중국 측",
+   "destination_cluster": "옌지·백두산 중국 측",
+   "category": "고산·계절 자연",
+   "description": "중국 측 남쪽의 지정 관람구역에서 천지와 압록강 대협곡·악화쌍폭 같은 자연 경관을 보는 코스다. 북한 지역 입국이나 관람 동선은 포함하지 않는다. 다른 두 경구보다 계절 개방 변수가 커서 남쪽이라는 명칭만으로 연중 방문 가능한 코스로 계획해서는 안 된다.",
+   "best_time": {
+    "period": "공식 개방이 확인된 여름–초가을",
+    "reason": "관리위원회는 기후·도로 여건으로 여름·가을의 제한된 개방을 설명한다. 매년 동일한 개방일을 보장하지 않는다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "2025-07 공지: 남경구 관광객센터07:00–12:30. 센터 시간이며 산 정상 전체 영업시간 아님; 2026 방문일 일정 미확인",
+    "fees": "현재 남경구 기본권·교통권 가격 미확인",
+    "reservation": "실명·분시 예약, 온라인/현장 재고 동일. 온라인 매진 시 현장도 판매표 없음이라는 운영자 공지 확인. 한국 여권 상세 미확인"
+   },
+   "sources": [
+    {
+     "url": "https://www.changbaishan.gov.cn/zwgk/zwdt/zbsyw/202407/t20240713_263966.html",
+     "title": "장백산 관리위원회: 남경구 개방 안내",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람 · 과거 자료, 현재 운영 재확인 필요",
+     "supported_facts": [
+      "천지·압록강 대협곡·악화쌍폭",
+      "여름·가을의 제한적 개방"
+     ]
+    },
+    {
+     "url": "https://cnq.changbaishan.gov.cn/xwzx/tzgg/202507/t20250715_267682.html",
+     "title": "츠난구: 남경구 관광객센터 공지",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람 · 과거 자료, 현재 운영 재확인 필요",
+     "supported_facts": [
+      "실명·분시 예약",
+      "온라인·현장 동일 재고",
+      "남경구 센터07:00–12:30"
+     ]
+    },
+    {
+     "url": "https://www.changbaishan.gov.cn/zwgk/zwdt/zbsyw/202606/t20260622_270898.html",
+     "title": "장백산 관리위원회: 2026 여름 경관 안내",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "여름 천지·숲·계곡 경관",
+      "2026년6월 세 경구 운영 사례"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": "changbaishan-china-side",
+   "counting_scope": "중국 측 남경구 1개 운영구역. 북한 측 여행 정보·국경 통과 안내는 제외",
+   "selection_tier": "핵심 수요 확인 + 연계",
+   "collection_group": "nature",
+   "highlights": [
+    "남쪽 천지 조망",
+    "중국 측 지정 압록강 대협곡 관람",
+    "악화쌍폭과 수직 식생"
+   ],
+   "visit_tips": [
+    "여행일에 남경구 표가 실제 판매되는지 먼저 확인한다",
+    "온라인 매진이면 현장 추가표가 있다고 기대하지 않는다",
+    "남경구 관광객센터와 산문·정상 도착시간을 혼동하지 않는다"
+   ],
+   "parent_label": "백두산 중국 측 상위 산악권역",
+   "counting_note": "중국 측 남경구 1개 운영구역. 북한 측 여행 정보·국경 통과 안내는 제외",
+   "original_region": "옌지·백두산 중국 측",
+   "selection_region_id": "yanji_changbaishan",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL03"
+   ],
+   "selection_scope_caution": "백두산 상품 수요를 옌지 도심 인기와 동일시하지 않으며 중국 측 개방구역만 다룬다.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

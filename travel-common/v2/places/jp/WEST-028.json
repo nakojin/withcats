@@ -1,0 +1,178 @@
+{
+ "id": "WEST-028",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "요시노가리 역사공원",
+  "local": "吉野ヶ里歴史公園"
+ },
+ "admin_region": "사가",
+ "former_region": null,
+ "city": "요시노가리정·간자키시",
+ "address": null,
+ "coord": {
+  "lat": 33.327092,
+  "lng": 130.384264,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "relation/18919143"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-028",
+   "name_ko": "요시노가리 역사공원",
+   "name_ja": "吉野ヶ里歴史公園",
+   "region": "규슈",
+   "prefecture": "사가",
+   "city": "요시노가리정·간자키시",
+   "category": "고고유적·체험",
+   "description": "야요이시대의 대규모 환호취락을 복원한 공원이다. 높은 목책과 건물을 보며 방어·의례·생활을 비교할 수 있고, 유적 관람 외에도 잔디광장과 체험공간이 있어 방문 목적에 따라 입구를 고르는 편이 좋다.",
+   "highlights": [
+    "복원 환호취락",
+    "야요이 생활·의례 공간",
+    "곡옥 만들기 등 체험"
+   ],
+   "best_time": "봄·가을의 걷기 좋은 날.넓은 야외 유적이 중심이므로 한여름은 휴식을 끼운다.",
+   "visit_tips": [
+    "유적 중심이면 동쪽입구가 편하다",
+    "놀이·잔디광장이 목적이면 서쪽입구를 검토한다",
+    "체험 접수와 재료비는 입장료와 별도로 확인한다"
+   ],
+   "hours_and_fees": {
+    "hours": "09–17시,6~8월18시까지",
+    "fees": "15세 이상460엔,중학생 이하무료,65세이상200엔",
+    "conditions": "12/31 및1월 셋째월요일과 다음날 휴원.일반차량 주차무료 캠페인2027-03-31까지",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://www.yoshinogari.jp/information/use/",
+     "title": "요시노가리 역사공원 이용안내",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "시간",
+      "요금",
+      "휴원",
+      "주차캠페인"
+     ]
+    },
+    {
+     "url": "https://www.yoshinogari.jp/information/",
+     "title": "요시노가리 역사공원 시설안내",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "구역별 특성",
+      "유적",
+      "체험"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 체험시간·재료비"
+   ],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

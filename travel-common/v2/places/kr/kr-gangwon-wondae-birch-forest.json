@@ -1,0 +1,165 @@
+{
+ "id": "kr-gangwon-wondae-birch-forest",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "원대리 자작나무숲",
+  "local": "원대리 자작나무숲"
+ },
+ "admin_region": "강원특별자치도",
+ "former_region": null,
+ "city": "인제군 인제읍 원대리",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gangwon-wondae-birch-forest",
+   "name_ko": "원대리 자작나무숲",
+   "aliases": [],
+   "region": "강원특별자치도",
+   "admin_region": "강원특별자치도",
+   "locality": "인제군 인제읍 원대리",
+   "type": [
+    "숲",
+    "트레킹"
+   ],
+   "highlights": [
+    "하얀 수피의 자작나무가 밀집한 숲과 자작나무코스",
+    "숲속 교실·전망대·생태연못을 잇는 여러 탐방로"
+   ],
+   "recommended_season": {
+    "text": "늦봄·가을",
+    "reason": "잎과 흰 수피의 대비를 감상하며 접근 숲길을 걷기 좋다. 입산 가능일이 우선이다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "안내소 바로 옆에서 군락을 보는 곳이 아니다. 원정·원대 임도를 걸어 올라가는 접근 시간과 내려오는 시간을 따로 잡는다.",
+    "숲 안에서도 거리·난이도가 다른 코스 중 체력에 맞는 길을 선택한다. 겨울 설경을 목표로 바꾸면 입산 통제와 미끄럼 방지 장비 조건을 추가 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=bc23387a-1c9a-4a0a-86f6-ae779baae904",
+     "title": "한국관광공사: 원대리 자작나무숲",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 메모에 명시한 확인 조건 외 요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/03_강원/원대리 자작나무숲.md",
+   "editorial_region": "03_강원",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

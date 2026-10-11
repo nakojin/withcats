@@ -1,0 +1,178 @@
+{
+ "id": "kr-chungbuk-beopjusa",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "속리산 법주사",
+  "local": "속리산 법주사"
+ },
+ "admin_region": "충청북도",
+ "former_region": null,
+ "city": "보은군 속리산면 법주사로 405",
+ "address": null,
+ "coord": {
+  "lat": 36.543822,
+  "lng": 127.834966,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/58586419"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-chungbuk-beopjusa",
+   "name_ko": "속리산 법주사",
+   "region": "충북",
+   "admin_region": "충청북도",
+   "locality": "보은군 속리산면 법주사로 405",
+   "type": [
+    "사찰",
+    "불교건축"
+   ],
+   "highlights": [
+    "팔상전의 다층 목조 형태를 먼저 보고 대웅보전과 비교하면 사찰 안 목조건축의 규모와 형태 차이가 잘 보인다.",
+    "큰 금동미륵대불과 쌍사자석등·석연지는 서로 다른 재료와 크기의 불교 조형물이다. 큰 불상만 보고 지나치기보다 석조물의 세부를 살피는 관람이 좋다.",
+    "속리산 산자락의 법주사는 현재도 수행과 예불이 이어지는 사찰이다. 템플스테이에서는 사찰 안내·예불·명상 같은 활동을 소개한다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을 낮",
+    "reason": "사찰 마당과 산자락을 걸으며 건축을 보기 편한 시기를 택한 편집 추천. 단풍 절정이나 특정 행사일은 미확인이다.",
+    "basis": "editorial_recommendation_based_on_verified_features"
+   },
+   "visit_tips": [
+    "법주사 관람과 문장대 산행은 체력·장비·입산시간이 다른 일정이다. 사찰 방문만으로 산행 준비가 되었다고 보지 않는다.",
+    "예불과 수행을 방해하지 않도록 전각 출입·신발·촬영 안내를 따른다. 수행공간과 생활공간을 관광 동선으로 임의 해석하지 않는다.",
+    "템플스테이는 일반 경내 관람과 별도 프로그램이다. 희망 날짜의 구성·예약·참가비를 프로그램 페이지에서 확인한다."
+   ],
+   "operational": {
+    "notes": [
+     "공식 템플스테이 소개에서 법주사 주소와 주요 건축·조형물, 체험형·휴식형 프로그램 존재를 확인했다. 일반관람 요금이나 주차료를 프로그램 요금으로 대체하지 않았다."
+    ]
+   },
+   "unverified_items": [
+    "일반 관람료 현행 징수 여부·주차요금",
+    "일반 경내 및 성보박물관 방문일 운영시간",
+    "문장대 최신 통제·코스 거리",
+    "템플스테이 선택일 참가비·예약 가능 여부"
+   ],
+   "sources": [
+    {
+     "url": "https://www.templestay.com/en/MI000000000000000019/temple/introView.do?templeId=Beopjusa",
+     "title": "한국불교문화사업단 템플스테이 법주사",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "주소, 팔상전·대웅보전·미륵대불·쌍사자석등·석연지, 템플스테이 성격"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/04_충청/속리산 법주사.md",
+   "document_path": "korea-travel/04_충청/속리산 법주사.md",
+   "path": "korea-travel/04_충청/속리산 법주사.md",
+   "count_as_independent": true,
+   "relation_type": "destination",
+   "relation_note": "속리산은 위치를 나타내는 수식어이고 본 문서 핵심 대상은 법주사 한 사찰이다. 문장대·정이품송·테마파크는 별도 가산하지 않는다.",
+   "related_catalog_ids": [],
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification",
+   "editorial_region": "04_충청"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

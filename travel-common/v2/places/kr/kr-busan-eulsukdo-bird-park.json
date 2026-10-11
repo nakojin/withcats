@@ -1,0 +1,179 @@
+{
+ "id": "kr-busan-eulsukdo-bird-park",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "을숙도 철새공원·낙동강하구에코센터",
+  "local": "을숙도 철새공원·낙동강하구에코센터"
+ },
+ "admin_region": "부산광역시",
+ "former_region": null,
+ "city": "사하구 낙동남로 1240",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-busan-eulsukdo-bird-park",
+   "name_ko": "을숙도 철새공원·낙동강하구에코센터",
+   "aliases": [],
+   "region": "부산광역시",
+   "admin_region": "부산광역시",
+   "locality": "사하구 낙동남로 1240",
+   "type": [
+    "습지",
+    "조류관찰",
+    "생태전시"
+   ],
+   "highlights": [
+    "낙동강 하구 습지와 겨울 철새 경관",
+    "에코센터의 하구 생태 안내와 관찰 공간"
+   ],
+   "recommended_season": {
+    "text": "겨울 철새 관찰기 또는 봄·가을 산책",
+    "reason": "새 관찰과 하구 생태 이해를 함께 구성할 수 있다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "에코센터에서 생태 정보를 익힌 뒤 지정 구역에서 새를 관찰한다.",
+    "먹이 주기·큰 소리·서식지 접근을 피한다.",
+    "야외 공원과 실내 센터의 운영 시간이 같다고 가정하지 않는다."
+   ],
+   "visit_tips_basis": "editorial_inference_from_verified_features",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111100",
+     "title": "VISITKOREA — Eulsukdo Migratory Bird Park",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "낙동강 하구 습지와 겨울 철새 경관|에코센터의 하구 생태 안내와 관찰 공간"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91004",
+     "title": "VISITKOREA — Nakdong Estuary Eco-Center",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "위치 또는 볼거리 보완"
+     ],
+     "evidence_summary": "에코센터 관찰·체험 공간과 주소"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 직전 운영기관 공지 재확인. null은 무료나 예약 불필요를 뜻하지 않음."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "에코센터를 포함한 하나의 방문권으로 묶었다. 야생동물 치료 시설은 일반 관람 공간으로 안내하지 않는다. 특정 종 출현 미보장.",
+   "baseline_relation": "new_independent_place_extension",
+   "administrative_note": "",
+   "document_path": "korea-travel/07_경남부산울산/을숙도 철새공원·낙동강하구에코센터.md",
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

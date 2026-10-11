@@ -1,0 +1,176 @@
+{
+ "id": "kr-gyeongnam-ssanggyesa-hadong",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "하동 쌍계사",
+  "local": "하동 쌍계사"
+ },
+ "admin_region": "경상남도",
+ "former_region": null,
+ "city": "하동군 화개면 쌍계사길 59",
+ "address": null,
+ "coord": {
+  "lat": 35.232573,
+  "lng": 127.650089,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/787003589"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongnam-ssanggyesa-hadong",
+   "name_ko": "하동 쌍계사",
+   "aliases": [],
+   "region": "경상남도",
+   "admin_region": "경상남도",
+   "locality": "하동군 화개면 쌍계사길 59",
+   "type": [
+    "사찰",
+    "산사"
+   ],
+   "highlights": [
+    "지리산 남쪽 기슭의 사찰 공간",
+    "봄 벚꽃길과 주변 차 재배 경관",
+    "불일폭포 연계 탐방"
+   ],
+   "recommended_season": {
+    "text": "봄",
+    "reason": "벚꽃길을 산사 방문과 연결할 수 있으나 개화 확인이 필요하다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "벚꽃길 산책·사찰 관람·불일폭포 탐방은 각각 걸을 거리와 시간을 따로 잡는다.",
+    "사찰 안에서는 예불과 수행 공간을 존중한다.",
+    "폭포까지 가려면 해당 탐방로의 통제·난도를 먼저 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111834",
+     "title": "VISITKOREA — Hadong Ssanggyesa Temple",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "지리산 남쪽 기슭의 사찰 공간; 봄 벚꽃길과 주변 차 재배 경관; 불일폭포 연계 탐방"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "사찰 주변의 모든 명소를 하나의 짧은 도보 코스로 단정하지 않았다. 벚꽃 절정은 보장하지 않는다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/07_경남부산울산/하동 쌍계사.md",
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

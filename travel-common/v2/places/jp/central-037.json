@@ -1,0 +1,176 @@
+{
+ "id": "central-037",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "하세데라",
+  "local": "長谷寺"
+ },
+ "admin_region": "나라",
+ "former_region": null,
+ "city": "사쿠라이시",
+ "address": null,
+ "coord": {
+  "lat": 34.53509,
+  "lng": 135.906733,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/1454013909"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-037",
+   "name_ko": "하세데라",
+   "name_ja": "長谷寺",
+   "region": "간사이",
+   "prefecture": "나라",
+   "city": "사쿠라이시",
+   "category": "산사·꽃",
+   "description": "산비탈의 긴 지붕 있는 계단을 올라 본당 무대에서 계곡을 내려다보는 사찰이다. 399계단 자체가 경관의 일부로, 봄 모란과 가을 단풍이 길 양옆에 변화를 준다. 가마쿠라의 같은 이름 사찰과 혼동하지 않도록 나라현 사쿠라이시를 표기한다.",
+   "highlights": [
+    "399계단 노보리로",
+    "본당 무대의 계곡 조망",
+    "모란과 계절 단풍"
+   ],
+   "best_time": "봄 모란·벚꽃, 가을 단풍이 공식 관광본문의 대표 볼거리다.",
+   "visit_tips": [
+    "긴 계단이 있어 이동에 제약이 있으면 관람 가능한 범위를 사전 문의한다.",
+    "긴테쓰 하세데라역에서 도보 약 15분을 별도로 잡는다.",
+    "계단 사진을 찍을 때 뒤쪽 참배객 통행을 확보한다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.hasedera.or.jp/guide/rule.html",
+     "title": "하세데라 入山案内",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "계절시간",
+      "요금",
+      "주소"
+     ]
+    },
+    {
+     "url": "https://www.japan.travel/en/spot/2297/",
+     "title": "JNTO: Hasedera Temple Nara",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "399계단",
+      "꽃·단풍",
+      "조망",
+      "철도접근"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문연도 꽃 절정·특별공개 요금"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "4~9월 8:30~17:00, 10~11월·3월 9:00~17:00, 12~2월 9:00~16:30. 성인·중고생 500엔·초등학생 250엔. 모란축제 등 연장 가능."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

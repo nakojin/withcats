@@ -1,0 +1,188 @@
+{
+ "id": "WEST-044",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "세이화우타키",
+  "local": "斎場御嶽"
+ },
+ "admin_region": "오키나와",
+ "former_region": null,
+ "city": "난조시",
+ "address": null,
+ "coord": {
+  "lat": 26.172358,
+  "lng": 127.826373,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/2005581139"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-044",
+   "name_ko": "세이화우타키",
+   "name_ja": "斎場御嶽",
+   "region": "오키나와",
+   "prefecture": "오키나와",
+   "city": "난조시",
+   "category": "성지·숲길",
+   "description": "류큐왕국의 국가적 제사가 이루어졌던 성지로,풍요와 안녕을 기원하던 의례의 배경을 이해하며 걷는 장소다. 숲과 바위를 단순한 사진 배경으로 소비하기보다 참배자와 금지구역을 존중하는 관람이 필요하다.",
+   "highlights": [
+    "숲속 참배길",
+    "우후구이 제사공간",
+    "산구이 주변 바위지형"
+   ],
+   "best_time": "비가 그친 뒤에도 돌길이 미끄러울 수 있어 건조한 날을 권한다.정해진 휴식일에는 입장할 수 없다.",
+   "visit_tips": [
+    "발권소에서 입구까지7~10분을 포함해50~60분을 잡는다",
+    "산구이 안쪽 출입제한선을 넘지 않는다",
+    "유모차·휠체어 이동이 어려운 경사와 돌길을 고려한다"
+   ],
+   "hours_and_fees": {
+    "hours": "3~10월09–18시(발권17:15·입장17:30마감),11~2월09–17:30(발권16:45·입장17시마감)",
+    "fees": "고교생이상600엔,초·중학생300엔,6세이하무료",
+    "conditions": "2026 휴식일6/15~17,11/9~11.내부화장실없음;음식물금지",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://sefa.okinawa/openinghours/",
+     "title": "세이화우타키 시간·휴식일",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "운영",
+      "마감",
+      "소요",
+      "2026휴식일"
+     ]
+    },
+    {
+     "url": "https://sefa.okinawa/question/",
+     "title": "세이화우타키 공식 FAQ",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "성지의미",
+      "출입제한",
+      "접근성",
+      "예절",
+      "화장실"
+     ]
+    },
+    {
+     "url": "https://sefa.okinawa/admissionfee/",
+     "title": "세이화우타키 공식 입장료",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "요금",
+      "운영조건"
+     ]
+    }
+   ],
+   "unconfirmed": [],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

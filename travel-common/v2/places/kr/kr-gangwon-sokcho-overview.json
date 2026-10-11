@@ -1,0 +1,228 @@
+{
+ "id": "kr-gangwon-sokcho-overview",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "속초",
+  "local": "속초"
+ },
+ "admin_region": "강원특별자치도",
+ "former_region": null,
+ "city": "강원 속초시 청초호·아바이마을·영랑호 일대",
+ "address": null,
+ "coord": {
+  "lat": 38.208678,
+  "lng": 128.583518,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/1474088778"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gangwon-sokcho-overview",
+   "name_ko": "속초",
+   "region": "03_강원",
+   "admin_region": "강원특별자치도",
+   "locality": "강원 속초시 청초호·아바이마을·영랑호 일대",
+   "type": [
+    "도시여행",
+    "석호",
+    "생활문화"
+   ],
+   "highlights": [
+    "청초호와 영랑호는 바다와 가까운 석호로, 속초를 해변뿐 아니라 호수 산책의 도시로도 볼 수 있게 한다.",
+    "아바이마을은 한국전쟁 때 내려온 함경도 출신 실향민들의 정착 역사와 음식문화를 만나는 곳이다.",
+    "갯배·아바이마을·영금정·속초등대전망대는 청초호 주변 여행에서 함께 살펴볼 장소들이다. 서로 다른 장소이므로 한 지점처럼 이동시간을 잡지 않는다."
+   ],
+   "recommended_season": {
+    "text": "호수와 마을을 걷기 좋은 봄·가을 낮. 바람이 강한 날에는 해안 동선을 줄이는 편집 추천.",
+    "reason": "확인된 경관·시설을 바탕으로 한 여행 편집 추천. 개화·단풍 절정이나 행사 개최 보장이 아님.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "아바이마을·청초호 묶음과 영랑호 묶음을 나눠 일정을 정한다. 두 호수를 모두 걷겠다면 이동·휴식 시간을 넉넉히 둔다.",
+    "갯배 탑승을 넣었다면 현장 운행과 승하선 여건을 먼저 확인한다. 휠체어·유모차 동행은 접근 가능 여부를 별도로 문의한다.",
+    "마을은 주민의 생활공간이다. 골목 촬영 때 집 안을 향해 카메라를 들이대지 않고 식당 영업시간은 개별 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/cs_detail_cos.do?cotid=08ccb6b8-6ca5-4d3c-8e90-80ced1aade87",
+     "title": "한국관광공사: 속초의 석호에서 만나는 특별한 체험",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "청초호·영랑호와 주변 관광 동선"
+     ]
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=107594",
+     "title": "한국관광공사: Abai Village",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "마을 위치·실향민 정착 역사"
+     ]
+    }
+   ],
+   "operational": {
+    "notes": [
+     "갯배의 현행 요금·첫차·막차, 관광수산시장 점포별 영업, 영금정 출입통제는 이번 조사에서 확정하지 않았다. 예약 불필요·24시간 등 일괄 단정을 하지 않는다."
+    ],
+    "visit_date_reconfirmation_required": true
+   },
+   "record_status": "verified_core_operational_pending",
+   "status": "verified",
+   "baseline_path": "korea-travel/03_강원/속초.md",
+   "document_path": "korea-travel/03_강원/속초.md",
+   "path": "korea-travel/03_강원/속초.md",
+   "count_as_independent": false,
+   "reference_only": true,
+   "relation_note": "기존 도시·섬·복합 방문권의 부모 참고문서. 구성 장소와 중복하여 독립 명소 수에 가산하지 않음.",
+   "components": [
+    {
+     "id": "kr-sokcho-abai-village",
+     "name": "아바이마을",
+     "relation": "component",
+     "parent_id": "kr-gangwon-sokcho-overview"
+    },
+    {
+     "id": "kr-sokcho-cheongcho-lake",
+     "name": "청초호",
+     "relation": "component",
+     "parent_id": "kr-gangwon-sokcho-overview"
+    },
+    {
+     "id": "kr-sokcho-yeongnang-lake",
+     "name": "영랑호",
+     "relation": "component",
+     "parent_id": "kr-gangwon-sokcho-overview"
+    }
+   ],
+   "new_information": [
+    "청초호와 영랑호는 바다와 가까운 석호로, 속초를 해변뿐 아니라 호수 산책의 도시로도 볼 수 있게 한다.",
+    "아바이마을은 한국전쟁 때 내려온 함경도 출신 실향민들의 정착 역사와 음식문화를 만나는 곳이다.",
+    "갯배·아바이마을·영금정·속초등대전망대는 청초호 주변 여행에서 함께 살펴볼 장소들이다. 서로 다른 장소이므로 한 지점처럼 이동시간을 잡지 않는다."
+   ],
+   "original_preserved_at": "korea-travel/research/2026-10-10/baseline-before-review.json",
+   "verification_scope": {
+    "confirmed": [
+     "명칭·위치",
+     "본문 볼거리",
+     "출처별 근거범위"
+    ],
+    "editorial": [
+     "추천시기",
+     "동선·준비 팁"
+    ],
+    "pending": [
+     "방문일 임시휴무·통제",
+     "확정하지 않은 요금·예약·교통"
+    ]
+   },
+   "unique_id": "kr-gangwon-sokcho-overview",
+   "is_parent_reference": true,
+   "existing_catalog_id": null,
+   "editorial_region": "03_강원",
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

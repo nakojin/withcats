@@ -1,0 +1,184 @@
+{
+ "id": "kr-gangwon-hwacheon-oxygen-trail",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "화천 산소길",
+  "local": "화천 산소길"
+ },
+ "admin_region": "강원특별자치도",
+ "former_region": null,
+ "city": "화천군 북한강 일대",
+ "address": null,
+ "coord": {
+  "lat": 38.098174,
+  "lng": 127.703823,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/481182665"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gangwon-hwacheon-oxygen-trail",
+   "name_ko": "화천 산소길",
+   "aliases": [],
+   "region": "강원특별자치도",
+   "admin_region": "강원특별자치도",
+   "locality": "화천군 북한강 일대",
+   "type": [
+    "수변길",
+    "자전거",
+    "걷기"
+   ],
+   "highlights": [
+    "북한강을 따라 원시림과 수상 구간을 잇는 길",
+    "숲으로다리·살랑교와 강변 전망"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "강변의 긴 야외 동선을 걷거나 자전거로 달리기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "전체 100리 자전거 코스와 짧은 산소길 도보 구간을 구분한다. 하루 산책이라면 숲으로다리·살랑교 주변 등 일부를 골라 돌아온다.",
+    "군 공식 걷기 코스도 계절에 따라 변경될 수 있다고 안내한다. 수상부교 개방을 확인하고 끊긴 구간을 우회해 진입하지 않는다."
+   ],
+   "sources": [
+    {
+     "url": "https://bike.go.kr/bbs/road.do?bbsCtgrySn=9&bbsCtgrySubSn=58&key=2006177006206",
+     "title": "행정안전부 자전거행복나눔: 화천 파로호 100리 산소길",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    },
+    {
+     "url": "https://tour.ihc.go.kr/tour/theme/course/course7",
+     "title": "화천군: 슬로우시티 화천 걷기여행",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "볼거리",
+      "접근·동선 조건"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 메모에 명시한 확인 조건 외 요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/03_강원/화천 산소길.md",
+   "editorial_region": "03_강원",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

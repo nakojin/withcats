@@ -1,0 +1,195 @@
+{
+ "id": "cd-wuhou-jinli",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "무후사·진리",
+  "local": "成都武侯祠博物馆·锦里"
+ },
+ "admin_region": "쓰촨성",
+ "former_region": null,
+ "city": "청두",
+ "address": null,
+ "coord": {
+  "lat": 30.647841,
+  "lng": 104.045655,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/277942162"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "cd-wuhou-jinli",
+   "name_ko": "무후사·진리",
+   "name_local": "成都武侯祠博物馆·锦里",
+   "city": "청두",
+   "province": "쓰촨성",
+   "region": "청두",
+   "destination_cluster": "청두·두장옌",
+   "category": "삼국지 유산·문화거리",
+   "description": "유비와 제갈량 등 촉한 인물을 기리는 무후사 역사구역과 인접한 진리 민속거리를 한 동선으로 묶었다. 실제 유적 관람과 전통 양식의 상업거리 체험을 구분하면 기대에 맞는 방문이 된다.",
+   "best_time": {
+    "period": "오후 무후사 후 저녁 거리 산책",
+    "reason": "박물관 마감 전에 역사구역을 보고 이후 거리 체험으로 연결하기 좋다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "무후사 통상 09:00~18:00, 입장마감 17:00. 여름·행사는 별도. 진리 최신 운영시간 미확인.",
+    "price": "무후사 성인 50; 진리 일반 출입·행사 요금 최신 운영자 미확인",
+    "currency": "CNY",
+    "reservation": "성인 외국인 여권 예약·현장입장 일반조건 미확인. 일부 면제대상 절차를 성인 일반표에 확대하지 않음.",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://www.wuhouci.net.cn/about",
+     "title": "무후사 운영자 소개",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "유비·제갈량 합사",
+      "혜릉",
+      "진리 포함 구역 구성"
+     ]
+    },
+    {
+     "url": "https://www.wuhouci.net.cn/pwxx",
+     "title": "무후사 운영자 티켓정보",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "통상 시간",
+      "50 CNY"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "성인 외국인 예약·입장",
+    "진리 최신 출입·행사 조건",
+    "결제수단"
+   ],
+   "status": "operations_reconfirmation_needed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "핵심 정성 수요 확인",
+   "collection_group": "history",
+   "highlights": [
+    "유비·제갈량 전각",
+    "혜릉",
+    "진리 민속거리"
+   ],
+   "visit_tips": [
+    "무후사 유료 역사구역을 먼저 관람한다",
+    "진리 상점·공연 시간은 별도로 확인한다",
+    "삼국지 인물 관계를 간단히 알고 가면 이해가 쉽다"
+   ],
+   "original_region": "서남",
+   "selection_region_id": "chengdu",
+   "selection_evidence_ids": [
+    "SEL03"
+   ],
+   "selection_scope_caution": "러산·두장옌 등은 청두 밖 연계지이며 청두 수요를 모든 쓰촨 명소에 일반화하지 않는다.",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

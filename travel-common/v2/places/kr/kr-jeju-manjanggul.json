@@ -1,0 +1,170 @@
+{
+ "id": "kr-jeju-manjanggul",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "만장굴",
+  "local": "만장굴"
+ },
+ "admin_region": "제주특별자치도",
+ "former_region": null,
+ "city": "제주시 구좌읍 만장굴길 182",
+ "address": null,
+ "coord": {
+  "lat": 33.528254,
+  "lng": 126.770128,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/4888690450"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeju-manjanggul",
+   "name_ko": "만장굴",
+   "region": "제주",
+   "admin_region": "제주특별자치도",
+   "locality": "제주시 구좌읍 만장굴길 182",
+   "type": [
+    "용암동굴",
+    "세계유산"
+   ],
+   "highlights": [
+    "거문오름용암동굴계의 일부. 일반 탐방은 제2입구부터 약 1km 구간이며 동굴 전체가 개방되는 것은 아니다.",
+    "공개 구간의 용암석주와 다양한 용암동굴 생성물을 관찰한다."
+   ],
+   "recommended_season": {
+    "text": "여름을 포함한 사계절 실내형 자연 관찰 후보. 동굴 특성을 고려한 편집 추천이며 보온 겉옷을 준비한다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "운동화와 보온 겉옷을 준비한다. 공식 안내상 하이힐·반려동물·음식물 반입이 제한된다.",
+    "당일 안전점검·임시휴관은 별도 확인한다. 재개장 날짜는 별도 공식 공지를 읽지 않아 확정하지 않았다."
+   ],
+   "operational": {
+    "notes": [
+     "비짓제주 표기: 09:00~18:00, 매표·입장 마감 17:00, 매월 첫째 수요일 휴무(2026-10-10 확인).",
+     "세계자연유산제주 페이지는 개인 어른 4,000원, 청소년·군인·어린이 2,000원을 안내한다. 표 제목에 다른 관광지명이 섞인 오류가 있어 연령별 감면 조건은 별도 재확인한다."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500182",
+     "title": "비짓제주 만장굴",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://www.jeju.go.kr/jejuwnh/heritage/lavatube/manjanggul.htm",
+     "title": "세계자연유산제주 만장굴",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/08_제주/만장굴.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/08_제주/만장굴.md",
+   "editorial_region": "08_제주",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

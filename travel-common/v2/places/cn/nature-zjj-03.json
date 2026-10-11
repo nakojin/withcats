@@ -1,0 +1,197 @@
+{
+ "id": "nature-zjj-03",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "장자제 대협곡·유리다리",
+  "local": "张家界大峡谷／玻璃桥"
+ },
+ "admin_region": "후난성",
+ "former_region": null,
+ "city": "장자제 츠리현",
+ "address": null,
+ "coord": {
+  "lat": 29.411932,
+  "lng": 110.693662,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "way/1352953746"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-zjj-03",
+   "name_ko": "장자제 대협곡·유리다리",
+   "name_local": "张家界大峡谷／玻璃桥",
+   "city": "장자제 츠리현",
+   "province": "후난성",
+   "region": "장자제(장가계)",
+   "destination_cluster": "장자제",
+   "category": "협곡·유리다리",
+   "description": "절벽 사이를 잇는 유리다리와 계곡 아래의 물길·폭포·산책로를 한곳에서 경험하는 관광구다. 유리다리만 보는 상품과 협곡까지 걷는 상품은 포함 범위가 다르다. 천문산 유리잔도와도 별개의 장소이므로 중국어 명칭을 함께 확인하는 편이 안전하다.",
+   "best_time": {
+    "period": "비·강풍이 없는 날",
+    "reason": "유리다리 전망과 긴 야외 계곡 이동을 고려한 편집 추천이다. 우천·강풍 및 시설 정비로 동선이 달라질 수 있다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "A·B·B1선 08:00 입장 시작, 16:00 검표 마감 표기",
+    "fees": "공식 전시 페이지 A선 91 CNY, B/B1선 216 CNY, 유리다리 125 CNY 표기. 페이지에 과거 문구도 남아 있어 실시간 판매가·상품 존속은 재확인 필요",
+    "reservation": "운영자 판매페이지 연결은 확인; 여권 입력과 결제 단계는 확인하지 않음"
+   },
+   "sources": [
+    {
+     "url": "https://www.zjjdaxiagu.com/guide.html",
+     "title": "장자제 대협곡 운영자: 관광 안내",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "A/B/B1 입장 08:00–16:00",
+      "협곡 동선"
+     ]
+    },
+    {
+     "url": "https://www.zjjdaxiagu.com/ticket.html",
+     "title": "장자제 대협곡 운영자: 표 종류",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "A선 91 CNY·B/B1선 216 CNY·유리다리 표기 125 CNY",
+      "유리다리와 협곡 상품 구분"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "실제 방문일 할인가·노선 운영",
+    "고공 체험 추가비와 건강·연령 조건",
+    "외국인 여권 발권·결제"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "counting_scope": "협곡과 유리다리 통합 1곳; A/B/B1 상품은 명소 수로 추가하지 않음",
+   "selection_tier": "핵심 수요 확인",
+   "collection_group": "nature",
+   "highlights": [
+    "협곡 위 유리다리",
+    "일선천 협곡",
+    "계곡 산책과 호수 풍경"
+   ],
+   "visit_tips": [
+    "A선은 협곡, B/B1선은 다리+협곡으로 상품 범위를 구분한다",
+    "짚라인·엘리베이터·놀이시설을 기본권 포함으로 가정하지 않는다",
+    "하산과 출구 이동까지 고려해 귀환 교통을 잡는다"
+   ],
+   "counting_note": "협곡과 유리다리 통합 1곳; A/B/B1 상품은 명소 수로 추가하지 않음",
+   "original_region": "장자제",
+   "selection_region_id": "zhangjiajie",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL02",
+    "SEL03"
+   ],
+   "selection_scope_caution": "봉황고성 등을 추가할 경우 장자제 본도시 수요와 분리하여 연계로 표기.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

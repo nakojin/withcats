@@ -1,0 +1,194 @@
+{
+ "id": "kr-incheon-wolmi-culture-street",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "월미문화의거리",
+  "local": "월미문화의거리"
+ },
+ "admin_region": "인천광역시",
+ "former_region": null,
+ "city": "중구",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-incheon-wolmi-culture-street",
+   "name_ko": "월미문화의거리",
+   "aliases": [],
+   "region": "인천광역시",
+   "admin_region": "인천광역시",
+   "locality": "중구",
+   "type": [
+    "수변",
+    "거리"
+   ],
+   "highlights": [
+    "서해를 가까이 두고 걷는 해안 문화거리로, 거리 음식·기념품 가게·오락실과 음악분수가 어우러진다.",
+    "넓고 비교적 평탄한 해안 데크길과 촉지음성안내판이 있어 바다 산책 중심으로 동선을 잡기 좋다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "해질녘 야외 보행을 하기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "휠체어·유모차 이동은 공식 안내에 나온 주 보행로를 중심으로 계획한다. 개별 점포와 주변 경사지까지 모두 무장애라는 뜻은 아니다.",
+    "월미바다열차에는 월미문화의거리역 등 네 정거장이 있으며 역사에 엘리베이터와 장애인 화장실이 안내되어 있다. 열차 운행·발권은 산책과 별도로 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=227856",
+     "title": "VISITKOREA: Savor Incheon: A City of Cuisine, Nightscape, and Festivals",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    },
+    {
+     "url": "https://itour.incheon.go.kr/thmtour/rcmdtour/detail.do?cotId=ITA25041511353415051",
+     "title": "인천투어 무장애 여행지의 월미문화의거리",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "거리 시설",
+      "평탄한 보행로",
+      "촉지음성안내판",
+      "열차 접근시설"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약 조건은 확정 수치로 수록하지 않음. 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "verification_scope": {
+    "confirmed": [
+     "명칭",
+     "시군구 이상 위치",
+     "본문에 명시된 시설·볼거리"
+    ],
+    "editorial": [
+     "추천 계절",
+     "시설 특성에 따른 동선·준비 조언"
+    ],
+    "pending": [
+     "방문일 요금",
+     "방문일 운영시간",
+     "변동성 예약·행사 조건"
+    ]
+   },
+   "enrichment_review": "개별 공식 본문을 읽은 별도 검토자 보강 병합(2026-10-10)",
+   "document_path": "korea-travel/02_인천경기/월미문화의거리.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

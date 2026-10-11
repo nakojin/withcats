@@ -1,0 +1,177 @@
+{
+ "id": "kr-jeonnam-dasan-chodang",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "강진 다산초당",
+  "local": "강진 다산초당"
+ },
+ "admin_region": "전라남도",
+ "former_region": null,
+ "city": "강진군 도암면 다산초당길 68-35",
+ "address": null,
+ "coord": {
+  "lat": 34.580776,
+  "lng": 126.745038,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/12944873804"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonnam-dasan-chodang",
+   "name_ko": "강진 다산초당",
+   "aliases": [],
+   "region": "전라남도",
+   "admin_region": "전라남도",
+   "locality": "강진군 도암면 다산초당길 68-35",
+   "type": [
+    "역사유적",
+    "산책"
+   ],
+   "highlights": [
+    "정약용의 유배·저술 관련 초당",
+    "천일각에서 보는 강진만",
+    "인근 다산박물관 연계"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "역사 공간과 주변 길을 함께 살피기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "다산박물관에서 인물의 배경을 이해한 뒤 초당을 보는 순서를 고려한다.",
+    "초당만 보고 돌아가기보다 인근 천일각의 만 조망을 함께 살펴본다.",
+    "초당 야외 방문과 박물관 입장시간을 별도로 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=94338",
+     "title": "VISITKOREA — Dasan Chodang",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "정약용의 유배·저술 관련 초당; 천일각에서 보는 강진만; 인근 다산박물관 연계"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "원문에는 황사영백서 작성자·초당 거주기간 관련 오류 우려가 있어 해당 서술을 채택하지 않았다. 박물관은 하위 연계 볼거리로 통합했다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "administrative_note": "기존 17권역 분류를 호환용으로 유지. 일부 공식 원문은 전남광주통합특별시로 표기하므로 게시 전 행정구역명 별도 검증 필요.",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/05_전라/강진 다산초당.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

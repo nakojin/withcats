@@ -1,0 +1,179 @@
+{
+ "id": "kr-gyeonggi-suwon-hwaseong",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "수원화성",
+  "local": "수원화성"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "수원시 장안구 영화동 320-2 일원; 화성행궁은 팔달구 정조로 825",
+ "address": null,
+ "coord": {
+  "lat": 37.286788,
+  "lng": 127.011437,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/1791243454"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-suwon-hwaseong",
+   "name_ko": "수원화성",
+   "region": "경기",
+   "admin_region": "경기도",
+   "locality": "수원시 장안구 영화동 320-2 일원; 화성행궁은 팔달구 정조로 825",
+   "type": [
+    "성곽",
+    "세계유산"
+   ],
+   "highlights": [
+    "1794~1796년 축성되어 1997년 세계유산에 등재된 성곽으로 성문·방어시설을 따라 걷는다.",
+    "화홍문에서는 수원천을 가로지르는 일곱 홍예와 누각을, 방화수류정에서는 용연과 성곽이 어우러진 풍경을 살펴볼 수 있다.",
+    "화성행궁은 성곽과 별도 관람 시설이며, 성곽 경관 산책과 궁궐 공간 관람을 조합할 수 있다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을. 성곽 도보 관람에 적합하다는 편집 추천. 야간행궁은 해당 연도 일정과 별도 운영 공지를 확인한다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "‘수원화성 무료’와 ‘화성행궁 유료’를 혼동하지 않는다.",
+    "성곽 전체 완주 여부와 출발 성문을 정한 뒤 보행량에 맞게 일정을 짠다.",
+    "편집 동선: 짧은 경관 산책이라면 화홍문·방화수류정·용연 구간부터 잡는다. 성곽 전체 완주와 같은 일정으로 계산하지 않는다."
+   ],
+   "operational": {
+    "notes": [
+     "수원시 공식 안내상 성곽은 상시관람·연중무휴·무료다. 안전 통제 구간은 현장 지시를 따른다.",
+     "화성행궁은 09:00~18:00, 일반 개인 어른 2,000원·군인 및 청소년 1,500원·어린이 1,000원으로 안내한다.",
+     "2026년 행궁 야간개장 5월1일~11월1일 금~일·공휴일 18:00~21:30(21:00 입장마감) 안내. 수원화성문화제 기간 운영 변경 가능 경고가 있어 10월 방문자는 별도 공지를 확인한다."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-01.jsp",
+     "title": "수원시 수원화성 소개",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-02/sw-visitsuwon-01-02-01.jsp",
+     "title": "수원시 화성행궁 소개",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-02/sw-visitsuwon-02-05/sw-visitsuwon-02-05-02.jsp",
+     "title": "수원시 화홍문·방화수류정·용연 코스",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/02_인천경기/수원화성.md",
+   "count_as_independent": false,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/02_인천경기/수원화성.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,188 @@
+{
+ "id": "jp-east-tsurugajo",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "쓰루가성",
+  "local": "鶴ヶ城"
+ },
+ "admin_region": "후쿠시마",
+ "former_region": null,
+ "city": "아이즈와카마쓰시",
+ "address": null,
+ "coord": {
+  "lat": 37.487735,
+  "lng": 139.929766,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/24270507"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-tsurugajo",
+   "name_ko": "쓰루가성",
+   "name_ja": "鶴ヶ城",
+   "region": "도호쿠",
+   "prefecture": "후쿠시마",
+   "city": "아이즈와카마쓰시",
+   "category": "성곽·박물관",
+   "description": "붉은 기와와 흰 벽이 인상적인 아이즈의 성이다. 현재 천수는 재건물이지만 해자와 성벽은 역사 유구를 간직한다. 내부 역사 전시·전망과 공원의 린카쿠 다실을 묶으면 무사 문화와 지역사를 폭넓게 접할 수 있다.",
+   "highlights": [
+    "붉은 기와의 천수 외관",
+    "천수 내부 무사·성 역사 전시",
+    "공원 안 린카쿠 다실"
+   ],
+   "best_time": "4월 벚꽃철에는 성과 공원의 꽃을 함께 볼 수 있다. 역사 전시 중심이면 계절에 크게 제한되지 않는다.",
+   "visit_tips": [
+    "아이즈와카마쓰역에서 성까지 버스·도보 이동을 별도로 잡는다.",
+    "천수와 린카쿠의 입장 범위가 같다고 가정하지 않는다.",
+    "천수 전망과 지상 성벽 산책을 둘 다 넣으면 사진과 역사를 균형 있게 볼 수 있다."
+   ],
+   "hours_and_fees": {
+    "hours": "08:30–17:00, 최종입장 16:30",
+    "fees": "천수각 박물관 성인 410엔, 소인 150엔 (개인). 천수각+차실 린카쿠 공통권 520엔, 3시설 공통권(천수각·린카쿠·오야쿠엔) 730엔",
+    "conditions": "무휴(연중). 린카쿠·오야쿠엔도 08:30–17:00(16:30 접수 종료), 무휴. 계절별 시간 변동 기재 없음. 단체 요금(30~99명: 성인 360/소인 135/공통권 460, 100명 이상: 320/120/410). 신체·지적·정신 장애인수첩 소지자 무료(공식 표기). 공식 페이지 표에서 성인/소인 행과 린카쿠 공통권 행의 대응(공통권이 성인용인지)은 명시 없음. 현재 공사·휴관 안내는 페이지에 없음.",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "특별전 상세",
+    "공통권 520엔의 성인·소인 구분",
+    "현재 공사 안내(공식 페이지에 없음)"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1757/",
+     "title": "JNTO Tsurugajo Castle",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "붉은 기와·재건 성",
+      "박물관과 다실",
+      "4월 벚꽃"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.tsurugajo.com/",
+     "title": "一般財団法人 会津若松観光ビューロー",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.tsurugajo.com/tsurugajo/",
+     "title": "鶴ヶ城 （会津若松城）トップページ | 一般財団法人 会津若松観光ビューロー",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간",
+      "요금",
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "id": "kr-gwangju-mudeungsan",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "무등산국립공원",
+  "local": "무등산국립공원"
+ },
+ "admin_region": "광주광역시",
+ "former_region": null,
+ "city": "광주·담양군·화순군 경계",
+ "address": null,
+ "coord": {
+  "lat": 35.128395,
+  "lng": 126.996078,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "relation/17336317"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gwangju-mudeungsan",
+   "name_ko": "무등산국립공원",
+   "aliases": [],
+   "region": "광주광역시",
+   "admin_region": "광주광역시",
+   "locality": "광주·담양군·화순군 경계",
+   "type": [
+    "산",
+    "국립공원"
+   ],
+   "highlights": [
+    "입석대·서석대 암석 경관",
+    "장불재와 백마능선의 억새"
+   ],
+   "recommended_season": {
+    "text": "가을",
+    "reason": "암석 경관과 억새를 연결하는 탐방을 고려할 수 있다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "입석대·서석대의 암석 경관과 장불재·백마능선의 억새 중 우선 목적을 정해 코스를 고른다.",
+    "산 전체를 짧은 산책으로 가정하지 말고 체력과 탐방로 통제를 확인한다.",
+    "정상 접근과 억새 절정은 보장하지 않는다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=193806",
+     "title": "VISITKOREA — MUST-HAVE ITEMS IN GWANGJU",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "입석대·서석대 암석 경관; 장불재와 백마능선의 억새"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "광역 경계 공원이다. 소개문의 정상 소요시간을 모든 코스에 적용하지 않았다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "administrative_note": "기존 17권역 분류를 호환용으로 유지. 일부 공식 원문은 전남광주통합특별시로 표기하므로 게시 전 행정구역명 별도 검증 필요.",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/05_전라/무등산국립공원.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,177 @@
+{
+ "id": "central-001",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "마쓰모토성",
+  "local": "松本城"
+ },
+ "admin_region": "나가노",
+ "former_region": null,
+ "city": "마쓰모토시",
+ "address": null,
+ "coord": {
+  "lat": 36.238635,
+  "lng": 137.968871,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/300077872"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-001",
+   "name_ko": "마쓰모토성",
+   "name_ja": "松本城",
+   "region": "주부·호쿠리쿠",
+   "prefecture": "나가노",
+   "city": "마쓰모토시",
+   "category": "성·역사건축",
+   "description": "검은 외벽과 해자의 반영을 함께 볼 수 있는 국보 성곽이다. 외관만 찍고 떠나기보다 목조 천수 내부의 방어용 창과 가파른 계단을 살펴보면 성이 실제 방어시설이었다는 점이 선명해진다. 북알프스 조망과 시내 산책을 함께 구성하기 좋다.",
+   "highlights": [
+    "검은 천수와 해자 반영",
+    "목조 천수 내부와 무기 전시",
+    "상층부 북알프스 조망"
+   ],
+   "best_time": "4월 벚꽃철 또는 가을. 해자 주변 꽃과 산의 색을 성 외관과 함께 담기 좋다.",
+   "visit_tips": [
+    "마쓰모토역에서 도보 약 15분으로 도심 일정과 연결한다.",
+    "천수 계단이 급하고 천장이 낮으므로 큰 짐 없이 방문한다.",
+    "일반 전자표와 종이표 요금이 달라 구매 방식을 비교한다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://visitmatsumoto.com/en/spot/detail_1001.html",
+     "title": "Visit Matsumoto: Matsumoto Castle",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "운영시간",
+      "입장료",
+      "휴일",
+      "역 접근"
+     ]
+    },
+    {
+     "url": "https://www.japan.travel/en/spot/1356/",
+     "title": "JNTO: Matsumoto Castle",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "천수 구조",
+      "목조 내부",
+      "해자",
+      "벚꽃"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "계절별 연장 개장일과 특별행사 일정"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "8:30~17:00, 입장 16:30까지. 12/29~31 휴장. 일반 종이표 1,300엔·전자표 1,200엔, 초중학생 400엔. 계절별 시간 변경 가능."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

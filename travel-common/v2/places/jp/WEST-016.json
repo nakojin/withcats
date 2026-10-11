@@ -1,0 +1,169 @@
+{
+ "id": "WEST-016",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "고토히라구",
+  "local": "金刀比羅宮"
+ },
+ "admin_region": "가가와",
+ "former_region": null,
+ "city": "고토히라정",
+ "address": null,
+ "coord": {
+  "lat": 34.183988,
+  "lng": 133.80939,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "way/139583694"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-016",
+   "name_ko": "고토히라구",
+   "name_ja": "金刀比羅宮",
+   "region": "시코쿠",
+   "prefecture": "가가와",
+   "city": "고토히라정",
+   "category": "신사·계단길",
+   "description": "긴 돌계단을 올라 본궁을 참배하는 신사다. 628단의 아사히샤 장식과785단의 본궁, 고지대에서 바라보는 사누키평야가 이동 자체를 관람으로 바꾼다.",
+   "highlights": [
+    "아사히샤 목조 장식",
+    "785단 위 본궁",
+    "사누키평야 전망"
+   ],
+   "best_time": "가파른 계단의 열기를 피하기 좋은 봄·가을을 권한다.10/9~11 예제기간은 행사와 혼잡을 함께 고려한다.",
+   "visit_tips": [
+    "아사히샤를 본궁으로 착각하지 않는다",
+    "오르막·내리막 동선이 나뉘는 구간 표지를 따른다",
+    "본궁까지와 더 위쪽 참배를 구분해 체력에 맞춘다"
+   ],
+   "hours_and_fees": {
+    "hours": "이번 확인 페이지에는 참배 가능시간 미기재",
+    "fees": "일반 참배·보물관 요금 미확인",
+    "conditions": "본궁까지785단,마지막 구간 급경사",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://www.my-kagawa.jp/konpira/feature/kotohiragu/guide3",
+     "title": "가가와현 공식 고토히라구 참배가이드",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "단수",
+      "아사히샤",
+      "본궁",
+      "전망",
+      "예제"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "참배시간",
+    "유료시설 요금"
+   ],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

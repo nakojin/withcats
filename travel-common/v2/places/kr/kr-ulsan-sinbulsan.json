@@ -1,0 +1,169 @@
+{
+ "id": "kr-ulsan-sinbulsan",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "신불산군립공원",
+  "local": "신불산군립공원"
+ },
+ "admin_region": "울산광역시",
+ "former_region": null,
+ "city": "울주군 상북면·삼남읍 일대",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-ulsan-sinbulsan",
+   "name_ko": "신불산군립공원",
+   "aliases": [],
+   "region": "울산광역시",
+   "admin_region": "울산광역시",
+   "locality": "울주군 상북면·삼남읍 일대",
+   "type": [
+    "산",
+    "억새",
+    "폭포"
+   ],
+   "highlights": [
+    "능선의 억새 경관",
+    "홍류폭포와 산 계곡"
+   ],
+   "recommended_season": {
+    "text": "가을",
+    "reason": "억새를 주요 목적으로 산행을 계획할 수 있다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "정상 억새 산행과 홍류폭포 방문을 같은 소요시간으로 가정하지 않는다.",
+    "간월산 등 연결 능선은 탈출 지점·거리까지 확인한 뒤 선택한다.",
+    "억새밭은 지정 탐방로에서 보고 기상 통제를 따른다."
+   ],
+   "visit_tips_basis": "editorial_inference_from_verified_features",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=90351",
+     "title": "VISITKOREA — Sinbulsan County Park",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "능선의 억새 경관|홍류폭포와 산 계곡"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 직전 운영기관 공지 재확인. null은 무료나 예약 불필요를 뜻하지 않음."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "영남알프스 전체나 신불산폭포휴양림을 별도 신규로 세지 않는다. 정상 접근·폭포 수량은 보장하지 않는다.",
+   "baseline_relation": "new_independent_place_extension",
+   "administrative_note": "",
+   "document_path": "korea-travel/07_경남부산울산/신불산군립공원.md",
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

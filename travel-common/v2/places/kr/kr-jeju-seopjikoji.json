@@ -1,0 +1,165 @@
+{
+ "id": "kr-jeju-seopjikoji",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "섭지코지",
+  "local": "섭지코지"
+ },
+ "admin_region": "제주특별자치도",
+ "former_region": null,
+ "city": "서귀포시 성산읍 섭지코지로 262; 고성리",
+ "address": null,
+ "coord": {
+  "lat": 33.424041,
+  "lng": 126.930731,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/2501640367"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeju-seopjikoji",
+   "name_ko": "섭지코지",
+   "region": "제주",
+   "admin_region": "제주특별자치도",
+   "locality": "서귀포시 성산읍 섭지코지로 262; 고성리",
+   "type": [
+    "해안",
+    "화산지형"
+   ],
+   "highlights": [
+    "성산일출봉을 배경으로 초원·해안절벽·선돌바위·신양해변이 이어지는 제주 동부의 곶이다.",
+    "붉은오름 주변의 붉은 화산쇄설물인 송이와 초원의 협자연대를 함께 보며 화산 경관과 옛 통신시설의 역할을 살펴볼 수 있다."
+   ],
+   "recommended_season": {
+    "text": "봄. 공식 소개가 유채꽃과 해안 풍경을 함께 소개한다. 실제 개화·생육은 해마다 다르다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "해안 바람과 비에 대비하고 절벽 가장자리로 벗어나지 않는다.",
+    "기존 글라스하우스 카페 시간·전화는 이번 직접 열람에서 재확인하지 않았다.",
+    "편집 동선: 해안 풍경만 보는 짧은 산책과 붉은오름·협자연대까지 살피는 관찰 일정을 구분해 보행량을 정한다. 봄 유채꽃은 공식 소개의 계절 특성이지만 개화 상태는 해마다 다르다."
+   ],
+   "operational": {
+    "notes": [
+     "비짓제주는 연중무휴로 안내한다. 개별 상업시설 운영시간은 별도 확인.",
+     "공식 페이지 표기상 섭지코지 주차장과 휘닉스 아일랜드 주차장은 요금 체계가 다르다. 실제 이용 주차장의 현장 요금표를 확인한다."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343",
+     "title": "비짓제주 섭지코지",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/08_제주/섭지코지.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/08_제주/섭지코지.md",
+   "editorial_region": "08_제주",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

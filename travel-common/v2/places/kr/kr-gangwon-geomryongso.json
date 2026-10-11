@@ -1,0 +1,184 @@
+{
+ "id": "kr-gangwon-geomryongso",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "검룡소",
+  "local": "검룡소"
+ },
+ "admin_region": "강원특별자치도",
+ "former_region": null,
+ "city": "태백시",
+ "address": null,
+ "coord": {
+  "lat": 37.227025,
+  "lng": 128.924767,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/1871881051"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gangwon-geomryongso",
+   "name_ko": "검룡소",
+   "aliases": [],
+   "region": "강원특별자치도",
+   "admin_region": "강원특별자치도",
+   "locality": "태백시",
+   "type": [
+    "발원지",
+    "지질",
+    "숲길"
+   ],
+   "highlights": [
+    "석회암반에서 지하수가 솟는 한강 발원지",
+    "물과 자갈이 깎은 돌개구멍과 계단형 물길"
+   ],
+   "recommended_season": {
+    "text": "늦봄·가을",
+    "reason": "숲길을 걸으며 발원지의 물과 암반 지형을 관찰하기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "주차장에서 검룡소까지 별도 도보 구간이 있다. 샘 바로 옆에 주차할 수 있다고 생각하지 말고 왕복 시간을 남긴다.",
+    "안창죽입구 버스정류장과 검룡소주차장은 서로 떨어져 있다. 대중교통 방문은 하차 위치와 추가 보행거리를 확인하며 시간표는 당일 재확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://tour.taebaek.go.kr/tour/go/vod",
+     "title": "태백시 관광: 검룡소 소개·VR 안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    },
+    {
+     "url": "https://tour.taebaek.go.kr/tour/etc/way/transportation/together_load_enjoy_info",
+     "title": "태백시 관광: 검룡소 접근 보행 안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "볼거리",
+      "접근·동선 조건"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 메모에 명시한 확인 조건 외 요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/03_강원/검룡소.md",
+   "editorial_region": "03_강원",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

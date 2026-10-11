@@ -1,0 +1,175 @@
+{
+ "id": "WEST-002",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "돗토리 모래미술관",
+  "local": "鳥取砂丘 砂の美術館"
+ },
+ "admin_region": "돗토리",
+ "former_region": null,
+ "city": "돗토리시",
+ "address": null,
+ "coord": {
+  "lat": 35.539652,
+  "lng": 134.238344,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/344182588"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-002",
+   "name_ko": "돗토리 모래미술관",
+   "name_ja": "鳥取砂丘 砂の美術館",
+   "region": "주고쿠",
+   "prefecture": "돗토리",
+   "city": "돗토리시",
+   "category": "미술관",
+   "description": "모래를 재료로 만든 대형 조각을 전시하는 실내 미술관이다. 전시가 바뀌면 같은 작품을 계속 볼 수 있는 방식이 아니므로 여행 날짜에 해당하는 주제를 먼저 확인하는 편이 좋다.",
+   "highlights": [
+    "대형 모래조각의 세밀한 표면",
+    "해외 작가들의 공동 전시",
+    "제17기 스페인 테마 전시"
+   ],
+   "best_time": "확인된 스페인 전시 기간인 2026-04-24~2027-01-03. 더위나 비를 피해 실내 관람을 넣을 때 유용하다.",
+   "visit_tips": [
+    "전시 교체기에는 휴관 가능성을 확인한다",
+    "삼각대·셀카봉은 사용할 수 없다",
+    "수익형 여행사이트에 작품사진을 쓰려면 별도 허가를 확인한다"
+   ],
+   "hours_and_fees": {
+    "hours": "09:00–18:00, 최종입장 17:30",
+    "fees": "일반 800엔, 초·중·고생 400엔",
+    "conditions": "해당 전시 회기 중 무휴. 사진은 사적 이용만 허용, 상업적 이용 금지",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://www.sand-museum.jp/information/",
+     "title": "모래미술관 영업안내",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "전시기간",
+      "시간",
+      "요금",
+      "사진이용 제한"
+     ]
+    },
+    {
+     "url": "https://www.sand-museum.jp/",
+     "title": "모래미술관 공식",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "시설 성격",
+      "모래조각"
+     ]
+    }
+   ],
+   "unconfirmed": [],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

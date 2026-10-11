@@ -1,0 +1,165 @@
+{
+ "id": "kr-chungbuk-jeong-jiyong-literature",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "정지용문학관",
+  "local": "정지용문학관"
+ },
+ "admin_region": "충청북도",
+ "former_region": null,
+ "city": "옥천군 옥천읍",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-chungbuk-jeong-jiyong-literature",
+   "name_ko": "정지용문학관",
+   "aliases": [],
+   "region": "충청북도",
+   "admin_region": "충청북도",
+   "locality": "옥천군 옥천읍",
+   "type": [
+    "문학관",
+    "생가"
+   ],
+   "highlights": [
+    "정지용의 생애·편지와 초판본 시집 전시",
+    "바로 옆 초가 생가와 문학 체험 공간"
+   ],
+   "recommended_season": {
+    "text": "사계절, 봄·가을 야외 병행",
+    "reason": "실내 문학전시는 연중, 생가와 마을 걷기는 온화한 시기에 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "생가에서 시의 공간감을 느낀 뒤 문학관의 연보·초판본 전시로 이어 보면 작품과 생애를 연결하기 쉽다.",
+    "전시의 편지·원고를 읽을 시간을 남기고 시 낭송 등 체험은 당일 운영 여부를 확인한다. 생가 생활공간의 보호선을 따른다."
+   ],
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=f5a00c8f-87bf-4892-9f4f-10e073532464",
+     "title": "한국관광공사: 우리가 떠나온 옛 고향 찾아가는 길, 옥천 정지용문학관",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 메모에 명시한 확인 조건 외 요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/04_충청/정지용문학관.md",
+   "editorial_region": "04_충청",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

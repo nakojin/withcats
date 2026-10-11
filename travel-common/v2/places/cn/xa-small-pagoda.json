@@ -1,0 +1,186 @@
+{
+ "id": "xa-small-pagoda",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "소안탑·시안박물원",
+  "local": "小雁塔·西安博物院"
+ },
+ "admin_region": "산시성(陝西)",
+ "former_region": null,
+ "city": "시안",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "xa-small-pagoda",
+   "name_ko": "소안탑·시안박물원",
+   "name_local": "小雁塔·西安博物院",
+   "city": "시안",
+   "province": "산시성(陝西)",
+   "region": "시안",
+   "destination_cluster": "시안",
+   "category": "불교유산·박물관",
+   "description": "당대 장안의 유산인 소안탑과 박물관 정원을 함께 보는 곳이다. 대안탑과는 별개의 장소이며 정원과 실내 전시의 개방범위가 같다고 가정하지 않고 여유 있게 계획한다.",
+   "best_time": {
+    "period": "늦가을~초겨울 맑은 낮",
+    "reason": "시정부가 소개한 은행잎·단풍 풍경과 탑 외관을 함께 감상할 수 있다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "운영자 홈페이지는 이미지 위주로 시간 본문 추출 불가; 미확인",
+    "price": "현재 요금 미확인",
+    "currency": "CNY",
+    "reservation": "외국인 예약·현장입장 미확인",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://en.xa.gov.cn/ThisisXian/Gallery/1691691254805024769.html",
+     "title": "시안시 Xi’an Museum early winter",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "소안탑의 당대 유산",
+      "은행나무·단풍 경관"
+     ]
+    },
+    {
+     "url": "https://www.xabwy.com/",
+     "title": "시안박물원 홈페이지",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened_insufficient_text",
+     "supported_facts": [
+      "공식 사이트 확인; 방문조건 텍스트 추출 불가"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "시간·요금·휴관일",
+    "여권 예약·현장입장",
+    "등탑",
+    "결제수단"
+   ],
+   "status": "operations_reconfirmation_needed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "광역 수요 기반 역사관광 확장",
+   "collection_group": "history",
+   "highlights": [
+    "소안탑 외관",
+    "은행나무 정원",
+    "박물관과 유산의 연계"
+   ],
+   "visit_tips": [
+    "대안탑과 혼동하지 않는다",
+    "전시실과 정원의 개방 범위를 따로 확인한다",
+    "탑 내부 등정 가능 여부는 사전 문의한다"
+   ],
+   "original_region": "서북",
+   "selection_region_id": "xian",
+   "selection_evidence_ids": [
+    "SEL08"
+   ],
+   "selection_scope_caution": "산시성 자료는 시안 단독 수요가 아니다. 편집 판단임을 명시.",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

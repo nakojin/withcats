@@ -1,0 +1,183 @@
+{
+ "id": "kr-chungbuk-samnyeonsanseong",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "보은 삼년산성",
+  "local": "보은 삼년산성"
+ },
+ "admin_region": "충청북도",
+ "former_region": null,
+ "city": "보은군 보은읍 성주1길 104",
+ "address": null,
+ "coord": {
+  "lat": 36.488079,
+  "lng": 127.742534,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/925460066"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-chungbuk-samnyeonsanseong",
+   "name_ko": "보은 삼년산성",
+   "aliases": [],
+   "region": "충청북도",
+   "admin_region": "충청북도",
+   "locality": "보은군 보은읍 성주1길 104",
+   "type": [
+    "산성",
+    "역사걷기"
+   ],
+   "highlights": [
+    "두껍고 높은 석축으로 둘러진 신라 산성",
+    "오정산 지형을 활용한 성곽의 굴곡과 방어 구조"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "산 위의 야외 성곽을 걸으며 석축과 지형을 관찰하기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "성벽 일부만 볼지 전체 동선을 걸을지 보행량을 정한다. 성곽은 평지 공원처럼 짧게 순환하는 장소가 아니다.",
+    "높은 석축의 가장자리에 다가가거나 돌 위로 올라 촬영하지 말고 지정 탐방로에서 두께와 축조 방식을 살핀다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=90302",
+     "title": "VISITKOREA: Boeun Samnyeonsanseong Fortress",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    },
+    {
+     "url": "https://www.nculture.org/lib/libraryDetail.do?contentId=17558",
+     "title": "한국문화원연합회: 신라의 방어 요새, 보은 삼년산성",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "오정산 입지",
+      "방어 요새"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 메모에 명시한 확인 조건 외 요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/04_충청/보은 삼년산성.md",
+   "editorial_region": "04_충청",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

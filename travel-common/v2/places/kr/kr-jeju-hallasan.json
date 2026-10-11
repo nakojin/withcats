@@ -1,0 +1,187 @@
+{
+ "id": "kr-jeju-hallasan",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "한라산",
+  "local": "한라산"
+ },
+ "admin_region": "제주특별자치도",
+ "former_region": null,
+ "city": "제주 한라산국립공원; 탐방로별 출발점 상이",
+ "address": null,
+ "coord": {
+  "lat": 33.361754,
+  "lng": 126.529198,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/8334051398"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeju-hallasan",
+   "name_ko": "한라산",
+   "region": "제주",
+   "admin_region": "제주특별자치도",
+   "locality": "제주 한라산국립공원; 탐방로별 출발점 상이",
+   "type": [
+    "산악",
+    "국립공원"
+   ],
+   "highlights": [
+    "성판악과 관음사는 백록담 정상으로 이어지는 탐방로다.",
+    "성판악은 공식 코스 설명상 편도 9.6km로, 안내 소요시간 4시간30분은 체력·기상에 따라 달라진다."
+   ],
+   "recommended_season": {
+    "text": "야외 산행이 가능한 기상과 본인 체력을 우선한다. 가을 경관·겨울 설경은 편집 추천 소재이며 겨울은 장비와 경험이 필요한 별도 난이도다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "성판악 왕복 거리가 19.2km라는 점을 반영해 일정과 체력을 판단한다.",
+    "기상특보·당일 통제 시 진입하지 않는다. 방한복·여벌옷·비상식량 등은 계절과 코스에 맞춰 준비한다."
+   ],
+   "operational": {
+    "notes": [
+     "입산·하산 제한시간(2024-02-22 제주특별자치도지사 변경공고, 2024-07-01 시행, 변경공고 시까지): 동절기(10~3월)·하절기(4~9월) 2계절 기준이다. 성판악 탐방로 입구·진달래밭통제소 입산 제한은 동절기 11:30, 하절기 12:30이고 동능정상 하산 제한은 동절기 13:30, 하절기 14:30이다. 전 코스 입산은 05:00부터 가능하다.",
+     "예약안내 페이지에는 위 공고에 없는 3계절표(동절기 11~2월·춘추절기 3·4·9·10월·하절기 5~8월)가 2계절표와 함께 실려 있다. 공고와 성판악 코스 안내에 일치하는 2계절표를 채택했으나 페이지 내부 불일치는 해소되지 않았으므로 방문 전에 다시 확인한다.",
+     "예약 적용구간(2025-04-23 공지): 성판악 진달래밭↔백록담, 관음사 삼각봉↔백록담 구간만 예약이 필요하고 어리목·영실·돈내코·석굴암·어승생 코스는 예약 없이 이용한다. 2025-10-24 공지에 '탐방예약 운영구간 변경'이라는 표현이 있으나 구간 내용은 적혀 있지 않고, 이후 구간을 바꾼 별도 공지는 공지 목록에서 확인되지 않았다.",
+     "예약 시작일: 이용월 전월의 첫 업무개시일 오전 9시다. 주말·공휴일이 아닌 날이 기준이며 지방공휴일은 평일로 본다(예약안내 페이지, 2026-06-05 공지). 시작일에는 순번대기가 생기고 예약현황 페이지가 임시로 숨겨지며, 시작일과 전날 20~22시에는 시스템 점검이 있다.",
+     "예약 시간대(2025-12-01부터, 2025-10-24 공지): 입산 05:00~08:00은 성판악 800명·관음사 400명, 08:01~11:30은 성판악 200명·관음사 100명이다.",
+     "관음사 삼각봉↔백록담 구간은 낙석방지공사로 2026-08-01부터 통제됐고, 2026-09-24 05:00에 재개방됐으며 예약은 2026-09-21 오전 9시에 재개됐다(2026-06-19·2026-09-18 공지). 2026-10-10 열람 시점의 공지 목록에는 이후 재통제 공지가 없다.",
+     "기상특보에 따른 부분·전면 통제와 당일 입산·하산 가능 여부는 방문일에 공식 예약시스템에서 확인한다. 탐방요금은 요금표의 금액이 읽히지 않아 이번에 확인하지 않았다."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61",
+     "title": "한라산 공식 성판악 코스 안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=49",
+     "title": "공식 예약안내(시간표 2종 병존)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=50",
+     "title": "공식 이용요금(금액 미확인)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://visithalla.jeju.go.kr/board/board.do?bbsId=notice",
+     "title": "한라산탐방 예약시스템 공지사항(2024-02-22 출입 제한 시간 변경공고, 2025-04-23 예약 구간 조정, 2025-10-24 예약시간 조정, 2026-06-05 예약시작일 제한사항, 2026-06-19 관음사 예약 제한, 2026-09-18 관음사 재개방)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/08_제주/한라산.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/08_제주/한라산.md",
+   "editorial_region": "08_제주",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

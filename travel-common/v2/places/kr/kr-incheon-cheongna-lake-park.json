@@ -1,0 +1,202 @@
+{
+ "id": "kr-incheon-cheongna-lake-park",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "청라호수공원",
+  "local": "청라호수공원"
+ },
+ "admin_region": "인천광역시",
+ "former_region": null,
+ "city": "서구",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-incheon-cheongna-lake-park",
+   "name_ko": "청라호수공원",
+   "aliases": [],
+   "region": "인천광역시",
+   "admin_region": "인천광역시",
+   "locality": "서구",
+   "type": [
+    "호수공원"
+   ],
+   "highlights": [
+    "호수 주변에 장미원·수국원, 전통정자와 전통담장, 야외음악당이 배치된 수변공원이다.",
+    "음악분수와 레이크하우스 등 수변 시설을 골라 걸으며 정원·호수 경관을 함께 즐길 수 있다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "야외 호수 산책을 하기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "호수 전체를 걷기 전 목적 공간을 정한다. 공식 주차구역은 전통존(P1·P5), 에코존(P2), 아트존(P3), 레저존(P4)로 나뉜다.",
+    "공원의 상시 개방과 음악분수 공연은 구분한다. 이 조사에서 당일 분수 가동 회차는 확인하지 않았으므로 공연이 목적이면 공단 공지를 먼저 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=227856",
+     "title": "VISITKOREA: Savor Incheon: A City of Cuisine, Nightscape, and Festivals",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    },
+    {
+     "url": "https://www.ifez.go.kr/main/tour/view.do?tour_fclt_sn=10",
+     "title": "인천경제자유구역 청라호수공원 시설",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "정원",
+      "전통시설",
+      "수경시설"
+     ]
+    },
+    {
+     "url": "https://www.insiseol.or.kr/park/cheongna/bbs/bbsMsgDetail.do?bcd=cheongna_faq&msg_seq=1&pgno=1",
+     "title": "인천시설공단 청라호수공원 FAQ(2025-07-18)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "주차구역",
+      "공원 개방과 개별 시설 구분"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약 조건은 확정 수치로 수록하지 않음. 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "verification_scope": {
+    "confirmed": [
+     "명칭",
+     "시군구 이상 위치",
+     "본문에 명시된 시설·볼거리"
+    ],
+    "editorial": [
+     "추천 계절",
+     "시설 특성에 따른 동선·준비 조언"
+    ],
+    "pending": [
+     "방문일 요금",
+     "방문일 운영시간",
+     "변동성 예약·행사 조건"
+    ]
+   },
+   "enrichment_review": "개별 공식 본문을 읽은 별도 검토자 보강 병합(2026-10-10)",
+   "document_path": "korea-travel/02_인천경기/청라호수공원.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

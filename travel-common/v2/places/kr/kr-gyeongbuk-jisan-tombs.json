@@ -1,0 +1,167 @@
+{
+ "id": "kr-gyeongbuk-jisan-tombs",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "고령 지산동 고분군",
+  "local": "고령 지산동 고분군"
+ },
+ "admin_region": "경상북도",
+ "former_region": null,
+ "city": "고령군 대가야읍 지산리 산23-1",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongbuk-jisan-tombs",
+   "name_ko": "고령 지산동 고분군",
+   "aliases": [],
+   "region": "경상북도",
+   "admin_region": "경상북도",
+   "locality": "고령군 대가야읍 지산리 산23-1",
+   "type": [
+    "고분",
+    "고대유적"
+   ],
+   "highlights": [
+    "주산 능선·비탈에 분포한 대가야 고분",
+    "크기와 위치가 다른 봉분 경관"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "능선과 사면을 걸으며 고분 배치를 보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "먼저 능선과 비탈의 고분 배치를 비교해 본다.",
+    "대가야왕릉전시관을 연계하면 무덤 내부 구조와 장례 관습을 이해하기 쉽다.",
+    "봉분 위로 오르지 말고 지정 보행로를 이용한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=81842",
+     "title": "VISITKOREA — Jisandong Ancient Tombs",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "주산 능선·비탈에 분포한 대가야 고분; 크기와 위치가 다른 봉분 경관"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "개별 무덤 주인에 대한 전승·추정을 확정 사실로 쓰지 않았다. 박물관을 별도 신규 장소로 세지 않는다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/06_경북대구/고령 지산동 고분군.md",
+   "editorial_region": "06_경북대구",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

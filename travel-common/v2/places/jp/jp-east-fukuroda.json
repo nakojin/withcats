@@ -1,0 +1,187 @@
+{
+ "id": "jp-east-fukuroda",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "후쿠로다 폭포",
+  "local": "袋田の滝"
+ },
+ "admin_region": "이바라키",
+ "former_region": null,
+ "city": "다이고정",
+ "address": null,
+ "coord": {
+  "lat": 36.764617,
+  "lng": 140.407251,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/3913111231"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-fukuroda",
+   "name_ko": "후쿠로다 폭포",
+   "name_ja": "袋田の滝",
+   "region": "간토",
+   "prefecture": "이바라키",
+   "city": "다이고정",
+   "category": "폭포·전망",
+   "description": "높이 약120m·폭 약73m의 사단 폭포다. 관폭 터널을 통해 서로 다른 높이의 전망 지점에 접근하며, 가까이서는 낙수의 소리와 층별 흐름을, 위쪽에서는 전체 윤곽을 보기 좋다.",
+   "highlights": [
+    "네 단으로 갈라져 흐르는 낙수",
+    "중간 높이를 마주 보는 제1전망대",
+    "위에서 구성을 읽는 제2전망대"
+   ],
+   "best_time": "가을 단풍이 대표적이고 봄 신록도 좋다. 겨울 전체 결빙은 가능성일 뿐 매년·매일 보장되지 않는다.",
+   "visit_tips": [
+    "후쿠로다역에서 다시 버스·택시 이동이 필요해 철도 도착만으로 접근 완료가 아니다.",
+    "두 전망대 시야가 달라 어느 한쪽만 보고 같은 장면이라고 판단하지 않는다.",
+    "겨울 결빙 사진을 목표로 할 때는 당일 현장 상태와 미끄럼 주의를 확인한다."
+   ],
+   "hours_and_fees": {
+    "hours": "5~10월 08:00–18:00, 11월 08:00–17:00, 12~4월 09:00–17:00 (관폭시설=후쿠로다 폭포 터널)",
+    "fees": "관폭시설 이용료(1인 1일 1회, 2025/7/1 개정): 개인 성인 500엔, 어린이 300엔 / 20명 이상 단체 성인 400엔, 어린이 200엔",
+    "conditions": "연중무휴(\"年中無休\"). 성인은 중학생 제외 15세 이상, 어린이는 초·중학생. 이 요금으로 제1·제2(엘리베이터) 관폭대 이용. 신체장애인수첩 제시 시 감면 신청 제도 있음. 대자 관광협회 사무소는 목요일·연말연시 휴업(폭포 시설과는 별개).",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "현재 결빙·수량·교통 상황",
+    "라이트업 기간 연장 시간"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/japans-local-treasures/fukuroda-falls/",
+     "title": "JNTO Fukuroda Falls",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "폭포 규모·4단",
+      "관폭 터널·전망대",
+      "계절·역 연계"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.town.daigo.ibaraki.jp/page/page001474.html",
+     "title": "【国名勝】袋田の滝・生瀬滝 | 大子町公式ホームページ",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간",
+      "요금",
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.daigo-kanko.jp/news/news-18730",
+     "title": "令和7年7月より袋田観瀑施設の利用料等を改定しました | 大子町観光協会",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "요금"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

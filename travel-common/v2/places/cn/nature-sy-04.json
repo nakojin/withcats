@@ -1,0 +1,208 @@
+{
+ "id": "nature-sy-04",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "천애해각",
+  "local": "天涯海角"
+ },
+ "admin_region": "하이난성",
+ "former_region": null,
+ "city": "싼야 톈야구",
+ "address": null,
+ "coord": {
+  "lat": 18.292624,
+  "lng": 109.345045,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/2272220538"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-sy-04",
+   "name_ko": "천애해각",
+   "name_local": "天涯海角",
+   "city": "싼야 톈야구",
+   "province": "하이난성",
+   "region": "싼야·하이난 남부",
+   "destination_cluster": "싼야·하이난 남부",
+   "category": "해안·문화경관",
+   "description": "바닷가에 선 거대한 화강암 바위와 천애·해각 등의 글씨로 알려진 해안 명소다. 해안 산책로에서 바위와 바다를 함께 감상하며 고전 문학과 사랑의 상징을 만날 수 있다. 기본 입장과 사진 촬영 서비스·카트 같은 부가 소비는 구분해서 판단해야 한다.",
+   "best_time": {
+    "period": "겨울의 늦은 오후",
+    "reason": "관광국은 겨울 문화 방문과 해질녘 해안 풍경을 소개한다. 계절별 폐장 전에 돌아올 시간을 확보해야 한다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "명소 페이지: 3/1–9/30 08:00–18:30, 10/1–다음 2월말 08:00–18:00. 별도 춘절 소개의 19:00와 차이가 있어 명소별 안내를 우선하고 당일 재확인",
+    "fees": "관광국 춘절 안내는 기본 입장 무료. 부가 서비스 제외",
+    "reservation": "한국 여권 무료입장 등록·예약 의무·현장 절차 미확인"
+   },
+   "sources": [
+    {
+     "url": "https://www.visitsanya.com/destination/tianya-haijiao",
+     "title": "싼야 관광발전국: 천애해각",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "화강암 글씨 바위",
+      "해안 산책",
+      "계절별 운영시간"
+     ]
+    },
+    {
+     "url": "https://www.visitsanya.com/event/15370.html?language=thai",
+     "title": "싼야 관광발전국: 춘절 가성비 여행 안내",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "루후이터우·톈야하이자오 기본 입장 무료",
+      "유료 체험과 다른 명소 구분"
+     ]
+    },
+    {
+     "url": "https://www.visitsanya.com/planning/travel-guide/before-you-go/best-time-to-travel",
+     "title": "싼야 관광발전국: 방문 시기",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "겨울 따뜻한 날씨",
+      "봄 숲 산책",
+      "겨울 루후이터우 일몰 추천"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 폐장시각: 공식 페이지 간 표기 차이",
+    "여권 등록·예약 절차",
+    "카트·사진·기타 체험 비용"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "counting_scope": "개별 방문 목적지 1곳; 내부 포인트는 추가 집계하지 않음",
+   "selection_tier": "도시 방문수요 확인",
+   "collection_group": "nature",
+   "highlights": [
+    "천애석·해각석",
+    "남천일주",
+    "해안 산책로"
+   ],
+   "visit_tips": [
+    "기본 무료 안내가 부가 체험 무료를 뜻하지 않는다",
+    "해변 바위에 무리하게 올라가지 않는다",
+    "일몰 시각과 당일 입장마감을 별도로 확인한다"
+   ],
+   "counting_note": "개별 방문 목적지 1곳; 내부 포인트는 추가 집계하지 않음",
+   "original_region": "싼야·하이난 남부",
+   "selection_region_id": "sanya",
+   "selection_evidence_ids": [
+    "SEL04",
+    "SEL02"
+   ],
+   "selection_scope_caution": "한국인 비중·순위 미공개. 휴양 다양화를 위한 편집 선정이며 하이난 전역 인기 주장 금지.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

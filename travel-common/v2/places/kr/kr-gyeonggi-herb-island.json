@@ -1,0 +1,197 @@
+{
+ "id": "kr-gyeonggi-herb-island",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "허브아일랜드",
+  "local": "허브아일랜드"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "포천시 신북면 청신로947번길 35",
+ "address": null,
+ "coord": {
+  "lat": 37.966798,
+  "lng": 127.131307,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/1059323632"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-herb-island",
+   "name_ko": "허브아일랜드",
+   "aliases": [
+    "포천 허브아일랜드"
+   ],
+   "region": "경기도",
+   "admin_region": "경기도",
+   "locality": "포천시 신북면 청신로947번길 35",
+   "type": [
+    "테마정원",
+    "식물관",
+    "야경"
+   ],
+   "highlights": [
+    "실내 전시관과 야외 정원을 갖춘 허브식물박물관",
+    "허브 비누·향초 만들기 체험과 산타마을·불빛 경관"
+   ],
+   "recommended_season": {
+    "text": "봄·가을, 조명 관람은 겨울도 추천",
+    "reason": "야외 정원은 온화한 계절에 걷기 좋고 공식 사계절 소개가 강조하는 겨울 조명 경관도 선택지가 된다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "식물박물관과 야외 정원을 낮에 먼저 보고 조명 관람을 뒤에 배치하되, 계절별 점등·퇴장 시간은 방문일 안내로 확인한다.",
+    "비누·향초 등 만들기 체험을 원하면 체험장 운영 여부와 별도 비용을 먼저 확인한다. 대중교통은 허브아일랜드 주차장 정류장과 삼정초등학교 앞 정류장을 구분하고 귀가편을 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://www.herbisland.co.kr/%EF%BC%8A%EB%9E%9C%EB%93%9C%EC%A7%80%EB%8F%84",
+     "title": "허브아일랜드: 안내지도와 시설 소개",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "식물박물관",
+      "만들기체험",
+      "산타마을"
+     ]
+    },
+    {
+     "url": "https://www.herbisland.co.kr/%EC%98%A4%EC%8B%9C%EB%8A%94%EA%B8%B8",
+     "title": "허브아일랜드: 찾아오시는길",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "주소",
+      "불빛경관",
+      "정류장 구분"
+     ]
+    },
+    {
+     "url": "https://www.herbisland.co.kr/%EA%B3%84%EC%A0%88%EC%82%AC%EC%A7%84",
+     "title": "허브아일랜드: 사계절",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "봄·가을 정원",
+      "겨울 조명경관"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "허브 종수는 공식 페이지끼리 250여 종과 340여 종으로 달라 채택하지 않았다. 추천 계절과 낮·밤 연결 동선은 편집 판단이다.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/02_인천경기/허브아일랜드.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

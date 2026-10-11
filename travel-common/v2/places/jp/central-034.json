@@ -1,0 +1,167 @@
+{
+ "id": "central-034",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "미노오 대폭포",
+  "local": "箕面大滝"
+ },
+ "admin_region": "오사카",
+ "former_region": null,
+ "city": "미노오시",
+ "address": null,
+ "coord": {
+  "lat": 34.853887,
+  "lng": 135.471973,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/962963605"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-034",
+   "name_ko": "미노오 대폭포",
+   "name_ja": "箕面大滝",
+   "region": "간사이",
+   "prefecture": "오사카",
+   "city": "미노오시",
+   "category": "폭포·숲산책",
+   "description": "오사카 북쪽 미노오의 숲길 끝에서 높이 33m 폭포를 만나는 산책 장소다. 하류에는 곤충관과 류안지가 있어 폭포만 왕복하거나 자연·사찰을 섞은 반나절 코스로 넓힐 수 있다. 도시 여행 중 걷는 비중을 늘리고 싶은 사람에게 알맞다.",
+   "highlights": [
+    "33m 폭포",
+    "계곡을 따른 산책",
+    "하류 류안지·곤충관 연계"
+   ],
+   "best_time": "봄 벚꽃과 가을 단풍을 공식 간사이 관광안내가 추천한다.",
+   "visit_tips": [
+    "한큐 미노오역에서 편도 약 35분이라는 안내를 기준으로 휴식 시간을 더한다.",
+    "비 온 뒤 젖은 길과 돌계단에 대비한다.",
+    "숲길의 당일 통제·기상 공지를 보고 돌아오는 일몰 시간을 계산한다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.the-kansai-guide.com/en/directory/item/11448/",
+     "title": "The Kansai Guide: Minoh Waterfalls",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "높이",
+      "계절",
+      "도보접근",
+      "무료",
+      "주변시설"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 산책로 통제",
+    "곤충관 운영·요금"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "폭포 관람료 무료. 연락처 접수 9:00~17:30은 폭포 개방시간이 아니므로 혼동하지 않는다. 별도 개방시간은 본문 미기재."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

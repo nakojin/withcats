@@ -1,0 +1,159 @@
+{
+ "id": "central-045",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "이세신궁 내궁",
+  "local": "伊勢神宮 内宮（皇大神宮）"
+ },
+ "admin_region": "미에",
+ "former_region": null,
+ "city": "이세시",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-045",
+   "name_ko": "이세신궁 내궁",
+   "name_ja": "伊勢神宮 内宮（皇大神宮）",
+   "region": "간사이",
+   "prefecture": "미에",
+   "city": "이세시",
+   "category": "신사·숲",
+   "description": "아마테라스 오미카미를 모시는 내궁은 우지바시를 건너 숲과 이스즈가와를 따라 참배하는 공간이다. 이세신궁은 여러 신사의 집합이므로 내궁과 외궁을 하나의 짧은 도보 방문처럼 소개하지 않는다. 건물 외관뿐 아니라 다리·강·숲을 지나는 순서가 경험의 중요한 부분이다.",
+   "highlights": [
+    "우지바시",
+    "이스즈가와와 참배길",
+    "내궁 주요 참배공간"
+   ],
+   "best_time": "연중 가능. 오전 5시 개방을 활용한 이른 참배를 편집 추천하며 계절별 폐문시간을 지킨다.",
+   "visit_tips": [
+    "이세시역에서 내궁 앞까지 버스 약 20분을 별도로 계산한다.",
+    "외궁을 함께 갈 경우 신사 간 이동시간을 추가한다.",
+    "예배구역 촬영·출입 표지를 따르고 제한선 안쪽에 들어가지 않는다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.iseshima-kanko.jp/en/see-and-do/1231",
+     "title": "Visit Iseshima: Ise Jingu Naiku",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "제신",
+      "우지바시·강",
+      "계절시간",
+      "버스접근"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "연말연시 특별시간",
+    "기도·박물관 등의 별도 요금",
+    "주차요금"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "공식 이세시마 안내: 1~4월·9월 5:00~18:00, 5~8월 5:00~19:00, 10~12월 5:00~17:00. 일반 참배료는 열람 본문에 명시 없음."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

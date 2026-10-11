@@ -1,0 +1,187 @@
+{
+ "id": "kr-busan-haeundae-parent",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "부산 해운대",
+  "local": "부산 해운대"
+ },
+ "admin_region": "부산광역시",
+ "former_region": null,
+ "city": "해운대구 해변·미포 해안 관광권",
+ "address": null,
+ "coord": {
+  "lat": 35.1629,
+  "lng": 129.1638,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "relation/4062934"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-busan-haeundae-parent",
+   "name_ko": "부산 해운대",
+   "region": "부산",
+   "admin_region": "부산광역시",
+   "locality": "해운대구 해변·미포 해안 관광권",
+   "type": [
+    "부모관광권",
+    "해변",
+    "관광열차"
+   ],
+   "highlights": [
+    "해운대 해변은 약 1.5km 백사장과 도시의 숙박·먹거리 시설이 만나는 해안이다. 모래사장 산책과 여름 해수욕은 이용 조건을 구별한다.",
+    "동백섬은 해변 주변 연계 후보로 공식 관광정보가 소개한다. 누리마루 실내 관람을 넣을 때에는 공원 산책과 별도로 운영일을 확인한다.",
+    "블루라인파크 해변열차는 미포·송정 사이 정거장을 고르며 해안을 보는 방식이다. 스카이캡슐을 함께 이용하려면 별도 상품·구간을 확인한다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을 해안 산책, 여름은 공식 해수욕 운영기간",
+    "reason": "도시 해안의 산책과 물놀이 목적을 나누어 추천했다. 2026 개장일은 확인되지 않아 종전 기사 날짜를 채택하지 않았다.",
+    "basis": "editorial_recommendation_based_on_verified_features"
+   },
+   "visit_tips": [
+    "해변열차 1회권은 한 번 내리면 사용이 끝난다. 왕복 또는 중간 하차를 원하면 2회권·모든역권 조건을 비교한다.",
+    "미포와 송정 종점에서는 모두 내려야 하고 그 하차도 횟수에 포함된다. 모든역권도 같은 역에서 두 번 탑승할 수 있는 무제한권은 아니다.",
+    "바다 산책·동백섬·열차를 모두 넣을 때에는 열차 예약시간과 귀환 동선을 먼저 잡는다. 해수욕 가능 여부는 해변 현장 안전 안내를 따른다."
+   ],
+   "operational": {
+    "notes": [
+     "블루라인파크 공식 해변열차 1인 요금: 1회 8,000원·2회 12,000원·모든역 16,000원. 편도 탑승은 약 25분 안내이며 대기시간은 별도다.",
+     "한국관광공사 해운대 페이지는 해변 입장 무료, 부대시설 이용료 별도를 안내한다. 해변 무료와 열차·물놀이 시설 무료를 혼동하지 않는다."
+    ]
+   },
+   "unverified_items": [
+    "해수욕장 개장·수영시간·물놀이 통제",
+    "스카이캡슐 단독 요금·계절별 시간·방문일 예약",
+    "누리마루 현행 운영·휴관",
+    "대중교통 노선·주차료"
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111053",
+     "title": "한국관광공사 해운대해수욕장",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "백사장·도시 시설·동백섬 연계·무료 입장과 부대시설 구분"
+    },
+    {
+     "url": "https://www.bluelinepark.com/beachTramFare.do",
+     "title": "블루라인파크 공식 해변열차 요금",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "1·2회/모든역 요금과 하차·재탑승 제한, 편도 시간"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/07_경남부산울산/부산 해운대.md",
+   "document_path": "korea-travel/07_경남부산울산/부산 해운대.md",
+   "path": "korea-travel/07_경남부산울산/부산 해운대.md",
+   "count_as_independent": false,
+   "relation_type": "parent_reference",
+   "relation_note": "해운대 해변과 주변 여러 시설을 묶은 부모 관광권. 해변열차·동백섬을 각각 새 명소 수로 가산하지 않는다.",
+   "related_catalog_ids": [],
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification",
+   "editorial_region": "07_경남부산울산"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

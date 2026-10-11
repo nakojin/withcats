@@ -1,0 +1,183 @@
+{
+ "id": "kr-gangwon-sutasa",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "수타사",
+  "local": "수타사"
+ },
+ "admin_region": "강원특별자치도",
+ "former_region": null,
+ "city": "홍천군 공작산 자락",
+ "address": null,
+ "coord": {
+  "lat": 37.698287,
+  "lng": 127.959178,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/1268031093"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gangwon-sutasa",
+   "name_ko": "수타사",
+   "aliases": [],
+   "region": "강원특별자치도",
+   "admin_region": "강원특별자치도",
+   "locality": "홍천군 공작산 자락",
+   "type": [
+    "사찰",
+    "생태숲"
+   ],
+   "highlights": [
+    "대적광전·동종·삼층석탑 등 불교 문화유산",
+    "사찰 주변 계곡과 자생·향토 식물을 복원한 생태숲"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "사찰 문화유산과 숲길을 걸으며 녹음·단풍을 함께 보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "대적광전 등 경내 관람과 주변 생태숲 산책을 묶되 공작산 정상 등산과는 보행량을 구분한다.",
+    "월인석보 등 소장 유물은 상시 실물 공개를 가정하지 말고 전시 범위를 확인한다. 법당의 예불·촬영 안내를 따른다."
+   ],
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=578647da-774b-44a5-91cb-35b2d4a7b255",
+     "title": "한국관광공사: 수타사",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    },
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=97ab674f-60cf-44be-a9ca-4fb6109b09de",
+     "title": "한국관광공사: 수타사 생태숲공원",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "볼거리",
+      "접근·동선 조건"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 메모에 명시한 확인 조건 외 요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/03_강원/수타사.md",
+   "editorial_region": "03_강원",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

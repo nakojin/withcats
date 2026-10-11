@@ -1,0 +1,186 @@
+{
+ "id": "bj-beihai",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "베이하이공원",
+  "local": "北海公园"
+ },
+ "admin_region": "베이징시",
+ "former_region": null,
+ "city": "베이징",
+ "address": null,
+ "coord": {
+  "lat": 39.926402,
+  "lng": 116.382463,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/366464114"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "bj-beihai",
+   "name_ko": "베이하이공원",
+   "name_local": "北海公园",
+   "city": "베이징",
+   "province": "베이징시",
+   "region": "베이징",
+   "destination_cluster": "베이징",
+   "category": "황실정원·호수",
+   "description": "호수와 백탑을 중심으로 정원 건축을 감상하는 도심 공원이다. 징산·고궁 관람 후 쉬어가는 산책지로도 좋으며 섬과 북안 건축을 모두 보면 예상보다 오래 걸린다.",
+   "best_time": {
+    "period": "봄·가을 낮 / 여름 이른 시간",
+    "reason": "호숫가 산책과 정원 내부 관람을 함께 하기 좋은 시간대다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "4~10월 06:00~21:00(20:30 마감), 11~3월 06:30~20:00(19:30 마감). 내부 명소 08:00~18:00 / 08:30~17:00, 단성 외 월요일 휴관(공휴일 예외).",
+    "price": "일반 10/5, 통합 20/15(성·비수기)",
+    "currency": "CNY",
+    "reservation": "정부 페이지에는 외국인 전날 전화예약 안내가 남아 있음. 운영자 최신 조건 검증 전 확정 사용하지 말 것.",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://english.beijing.gov.cn/specials/parktours/guidevisitors/beihaipark/index.html",
+     "title": "베이징시 Beihai Park",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "정원 구성",
+      "주요 명소",
+      "시간",
+      "요금"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "외국인 전화예약 안내 최신 유효성",
+    "보트 요금·운항",
+    "결제수단"
+   ],
+   "status": "operations_reconfirmation_needed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "핵심 정성 수요 확인",
+   "collection_group": "history",
+   "highlights": [
+    "백탑과 융안교",
+    "구룡벽",
+    "융안사"
+   ],
+   "visit_tips": [
+    "일반권과 통합권의 포함구역을 구분한다",
+    "정원 내부 명소 월요일 휴관을 확인한다",
+    "보트 운항은 입장시간과 별도로 확인한다"
+   ],
+   "original_region": "화북",
+   "selection_region_id": "beijing",
+   "selection_evidence_ids": [
+    "SEL03"
+   ],
+   "selection_scope_caution": "정량 도시순위 없음; 근교 장성은 연계권역.",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

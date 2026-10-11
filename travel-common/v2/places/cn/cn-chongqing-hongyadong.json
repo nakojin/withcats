@@ -1,0 +1,138 @@
+{
+ "id": "cn-chongqing-hongyadong",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "훙야둥(홍야동)",
+  "local": "洪崖洞"
+ },
+ "admin_region": "충칭시 위중구",
+ "former_region": null,
+ "city": null,
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 수집 대기",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 주소(嘉陵江滨江路88号 추정)는 검색 결과 요약에서만 보았고 공식 페이지 본문을 직접 열지 못함. 기억·2차 출처 사용 안 함"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 역·버스·주차 미확인(공식 페이지 열람 불가)"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 미확인"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 개방·점등 시간 미확인. 검색 요약에 2025년 5월과 2025년 2월 점등시간 변경 공지가 있다는 단서만 확인"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 미확인"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 무료 여부 미확인(공식 열람 불가)"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / WeChat 공식 계정 '洪崖洞' 사전 예약 여부·오픈 시점 미확인. 규정이 연도별로 바뀐 것으로 보여 최신 공지 직접 확인 필요"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 미확인"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 미확인"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "official_unreachable",
+    "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 혼잡·한도 관련 공지 미확인"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": null,
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": [
+   {
+    "run": "pilot2",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": null,
+    "claims": 0,
+    "verdicts": {
+     "verified": 0,
+     "corrected": 0,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 0
+    }
+   }
+  ]
+ },
+ "open_questions": [
+  {
+   "topic": "description",
+   "note": "공식 설명 미확인. China Daily 계열 여행 기사는 2차 출처라 근거로 쓰지 않음",
+   "run": "pilot2"
+  },
+  {
+   "topic": "retry_urls",
+   "note": "검증자 재시도용 후보 URL: https://www.cq.gov.cn/zjcq/cycq/jplyxl/dsy/dsjp/202608/t20260826_15982330.html (충칭시 정부, 2026-08), https://www.cqyz.gov.cn/bm_229/qwhlyw/zwgk_97157/jczwgk/xxgk/ggfw_122762/ggwljg_122627/202508/t20250819_14915593.html (위중구 A급 景区 표), https://cq.gov.cn/ywdt/bmts/202505/t20250509_14596557.html (점등시간 변경), https://whlyw.cq.gov.cn/zjwl/yzq/jqjd_1/202203/t20220304_10463056.html",
+   "run": "pilot2"
+  }
+ ]
+}

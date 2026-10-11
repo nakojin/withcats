@@ -1,0 +1,202 @@
+{
+ "id": "kr-incheon-gyodong-daeryong-market",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "교동 대룡시장",
+  "local": "교동 대룡시장"
+ },
+ "admin_region": "인천광역시",
+ "former_region": null,
+ "city": "강화군",
+ "address": null,
+ "coord": {
+  "lat": 37.782296,
+  "lng": 126.280681,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/9719775717"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-incheon-gyodong-daeryong-market",
+   "name_ko": "교동 대룡시장",
+   "aliases": [],
+   "region": "인천광역시",
+   "admin_region": "인천광역시",
+   "locality": "강화군",
+   "type": [
+    "전통시장"
+   ],
+   "highlights": [
+    "한국전쟁 때 피란 온 실향민들이 황해도 연백의 거리를 떠올리며 만든 시장이다.",
+    "다방·이발소·분식점이 있는 골목과 호떡·핫도그 등의 간식이 시장 산책의 주요 소재다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "골목을 걸어 보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "2026년 인천투어 안내는 교동도 입도 신분 확인을 위해 신분증을 지참하도록 명시한다. 현장 통제 절차를 따른다.",
+    "점포마다 영업시간이 달라 특정 가게가 목적이면 개별 확인한다. 큰길만 지나기보다 골목을 천천히 둘러보도록 시간을 배분한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=227856",
+     "title": "VISITKOREA: Savor Incheon: A City of Cuisine, Nightscape, and Festivals",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    },
+    {
+     "url": "https://itour.incheon.go.kr/thmtour/thmtour/detail.do?cotId=ITA26070810034793821",
+     "title": "인천투어 교동도 여행(2026년)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "시장 기원",
+      "골목과 간식",
+      "신분증",
+      "점포별 영업"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약 조건은 확정 수치로 수록하지 않음. 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "related_baseline": "강화도",
+   "addition_kind": "detail_expansion",
+   "integration_status": "ready_for_review",
+   "verification_scope": {
+    "confirmed": [
+     "명칭",
+     "시군구 이상 위치",
+     "본문에 명시된 시설·볼거리"
+    ],
+    "editorial": [
+     "추천 계절",
+     "시설 특성에 따른 동선·준비 조언"
+    ],
+    "pending": [
+     "방문일 요금",
+     "방문일 운영시간",
+     "변동성 예약·행사 조건"
+    ]
+   },
+   "enrichment_review": "개별 공식 본문을 읽은 별도 검토자 보강 병합(2026-10-10)",
+   "document_path": "korea-travel/02_인천경기/교동 대룡시장.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

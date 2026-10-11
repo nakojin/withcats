@@ -1,0 +1,177 @@
+{
+ "id": "WEST-022",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "마쓰야마성",
+  "local": "松山城"
+ },
+ "admin_region": "에히메",
+ "former_region": null,
+ "city": "마쓰야마시",
+ "address": null,
+ "coord": {
+  "lat": 33.845598,
+  "lng": 132.765938,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/1423739161"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-022",
+   "name_ko": "마쓰야마성",
+   "name_ja": "松山城",
+   "region": "시코쿠",
+   "prefecture": "에히메",
+   "city": "마쓰야마시",
+   "category": "성곽",
+   "description": "시내 중심의 산 위에 서 있는 현존 천수로, 정상에서 마쓰야마평야와 세토내해를 조망한다. 니노마루에서 혼마루로 이어지는 노보리이시가키는 성의 방어구조를 이해하는 관찰점이다.",
+   "highlights": [
+    "현존 천수",
+    "노보리이시가키",
+    "마쓰야마평야·세토내해 전망"
+   ],
+   "best_time": "봄 벚꽃과 맑은 날을 권한다.전망이 주목적이면 비·낮은 구름을 피한다.",
+   "visit_tips": [
+    "로프웨이에서 내려도 천수까지 약10분 걷는다",
+    "도보 등성은약20~30분이므로 이동시간을 더한다",
+    "천수와 로프웨이 표는 별도라는 점을 확인한다"
+   ],
+   "hours_and_fees": {
+    "hours": "천수09–17시(8월17:30,12~1월16:30),최종30분 전",
+    "fees": "성인520엔,초등학생160엔",
+    "conditions": "12월셋째수요일 천수휴관",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://matsuyama-sightseeing.com/spot/1-2/",
+     "title": "마쓰야마시 공식: 마쓰야마성",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "성곽 특징",
+      "전망",
+      "도보접근",
+      "요금"
+     ]
+    },
+    {
+     "url": "https://www.city.matsuyama.ehime.jp/kanko/kankoguide/shitestukoen/matsuyamajyo/tensyu.html",
+     "title": "마쓰야마시 천수영업안내",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "계절별 시간",
+      "휴관"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "로프웨이·리프트 현행요금"
+   ],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,188 @@
+{
+ "id": "nature-zjj-02",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "천문산",
+  "local": "天门山国家森林公园"
+ },
+ "admin_region": "후난성",
+ "former_region": null,
+ "city": "장자제 융딩구",
+ "address": null,
+ "coord": {
+  "lat": 29.045984,
+  "lng": 110.480881,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "relation/13042332"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-zjj-02",
+   "name_ko": "천문산",
+   "name_local": "天门山国家森林公园",
+   "city": "장자제 융딩구",
+   "province": "후난성",
+   "region": "장자제(장가계)",
+   "destination_cluster": "장자제",
+   "category": "산악·전망",
+   "description": "장자제 시내 가까이 솟은 산으로 천문동과 절벽을 따라 놓인 잔도가 대표 볼거리다. 국가삼림공원이라는 이름이 같아도 우링위안의 장자제 국가삼림공원과 다른 곳이다. 절벽 산책과 고도 변화가 커서 이동 수단과 보행 구간을 함께 살펴야 한다.",
+   "best_time": {
+    "period": "시야가 트이는 맑고 바람 약한 날",
+    "reason": "핵심 경험이 높은 곳에서 보는 풍경이어서 구름·안개·강풍의 영향이 크다. 계절 고정보다 당일 운영 확인을 우선하는 편집 추천이다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "현재 운영시간 미확인",
+    "fees": "기본 입장료와 케이블카·버스·에스컬레이터 등 교통비를 구분해야 함. 최신 운영자 요금표 본문 미확인",
+    "reservation": "공식 운영 사이트 본문 접근 불가. 유사 명칭 판매 사이트의 여권 안내를 운영자 정책으로 채택하지 않음"
+   },
+   "sources": [
+    {
+     "url": "https://lyj.hunan.gov.cn/tslm_71206/slly/slgy/201512/t20151227_2587623.html",
+     "title": "후난성 임업국: 천문산 국가삼림공원",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람 · 과거 자료, 현재 운영 재확인 필요",
+     "supported_facts": [
+      "위치",
+      "천문동·유리잔도·천문산사",
+      "우링위안과 별도 국가삼림공원"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "counting_scope": "개별 방문 목적지 1곳; 내부 포인트는 추가 집계하지 않음",
+   "selection_tier": "핵심 수요 확인",
+   "collection_group": "nature",
+   "highlights": [
+    "천문동",
+    "절벽·유리 잔도",
+    "천문산사 주변 산정 풍경"
+   ],
+   "visit_tips": [
+    "예약 상품의 실제 상·하산 교통과 노선을 확인한다",
+    "우링위안 입장권에 포함된다고 생각하지 않는다",
+    "고소공포가 있으면 유리 구간의 우회 가능성을 먼저 문의한다"
+   ],
+   "counting_note": "개별 방문 목적지 1곳; 내부 포인트는 추가 집계하지 않음",
+   "original_region": "장자제",
+   "selection_region_id": "zhangjiajie",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL02",
+    "SEL03"
+   ],
+   "selection_scope_caution": "봉황고성 등을 추가할 경우 장자제 본도시 수요와 분리하여 연계로 표기.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

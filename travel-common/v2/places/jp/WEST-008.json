@@ -1,0 +1,168 @@
+{
+ "id": "WEST-008",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "구라시키 미관지구",
+  "local": "倉敷美観地区"
+ },
+ "admin_region": "오카야마",
+ "former_region": null,
+ "city": "구라시키시",
+ "address": null,
+ "coord": {
+  "lat": 34.596525,
+  "lng": 133.772586,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/503301965"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-008",
+   "name_ko": "구라시키 미관지구",
+   "name_ja": "倉敷美観地区",
+   "region": "주고쿠",
+   "prefecture": "오카야마",
+   "city": "구라시키시",
+   "category": "역사거리",
+   "description": "흰 회벽 창고와 나마코벽, 버드나무가 구라시키강을 따라 이어지는 보존거리다. 전통 건물을 바꾼 카페·상점과 근대 문화시설이 모여 있어 산책과 공예 쇼핑을 함께 하기 좋다.",
+   "highlights": [
+    "강변 흰 회벽 창고",
+    "나마코벽과 버드나무",
+    "저녁 경관조명"
+   ],
+   "best_time": "연중. 낮의 건축 디테일과 저녁 조명을 함께 보려면 늦은 오후부터 걷는 동선을 권한다.",
+   "visit_tips": [
+    "거리 산책과 개별 미술관 입장료를 분리한다",
+    "구라시키 데님·범포 상점을 관심사에 맞춰 고른다",
+    "상점 영업과 야간 조명시간은 방문일에 따로 확인한다"
+   ],
+   "hours_and_fees": {
+    "hours": "거리 전체의 통합 영업시간 미기재",
+    "fees": "거리 전체 입장료 미기재,시설별 별도",
+    "conditions": "상위 도시 구라시키 자체는 별도 관광지로 집계하지 않음",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://www.okayama-kanko.jp/spot/detail_10226.html",
+     "title": "오카야마현 공식: 구라시키 미관지구",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "거리건축",
+      "강변경관",
+      "공예",
+      "야간조명"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "개별 시설시간·요금",
+    "조명 종료시간"
+   ],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

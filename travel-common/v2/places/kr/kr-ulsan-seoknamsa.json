@@ -1,0 +1,176 @@
+{
+ "id": "kr-ulsan-seoknamsa",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "울산 석남사",
+  "local": "울산 석남사"
+ },
+ "admin_region": "울산광역시",
+ "former_region": null,
+ "city": "울주군 상북면 석남로 557",
+ "address": null,
+ "coord": {
+  "lat": 35.62155,
+  "lng": 129.03275,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/690834540"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-ulsan-seoknamsa",
+   "name_ko": "울산 석남사",
+   "aliases": [],
+   "region": "울산광역시",
+   "admin_region": "울산광역시",
+   "locality": "울주군 상북면 석남로 557",
+   "type": [
+    "사찰",
+    "석조유산"
+   ],
+   "highlights": [
+    "삼층석탑",
+    "석조 수조와 산사 건축"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "사찰과 산기슭 풍경을 함께 보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "삼층석탑과 물을 담던 석조 수조의 형태·용도를 비교한다.",
+    "비구니 수행 공간의 출입 제한과 예불을 존중한다.",
+    "가지산 등산과 사찰 관람을 별도 난도로 계획한다."
+   ],
+   "visit_tips_basis": "editorial_inference_from_verified_features",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=90544",
+     "title": "VISITKOREA — Seongnamsa Temple",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "삼층석탑|석조 수조와 산사 건축"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 직전 운영기관 공지 재확인. null은 무료나 예약 불필요를 뜻하지 않음."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "영문 원문의 승탑 명칭·국보번호 혼동 가능성이 있어 해당 설명을 제외했다. 안성 석남사와 구분.",
+   "baseline_relation": "new_independent_place_extension",
+   "administrative_note": "",
+   "document_path": "korea-travel/07_경남부산울산/울산 석남사.md",
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

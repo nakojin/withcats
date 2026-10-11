@@ -1,0 +1,167 @@
+{
+ "id": "central-003",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "나라이주쿠",
+  "local": "奈良井宿"
+ },
+ "admin_region": "나가노",
+ "former_region": null,
+ "city": "시오지리시",
+ "address": null,
+ "coord": {
+  "lat": 35.96455,
+  "lng": 137.810427,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/867884157"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-003",
+   "name_ko": "나라이주쿠",
+   "name_ja": "奈良井宿",
+   "region": "주부·호쿠리쿠",
+   "prefecture": "나가노",
+   "city": "시오지리시",
+   "category": "역사거리",
+   "description": "나카센도 기소 구간에 남은 역참 마을로, 약 1km의 거리 양옆에 2층 목조 건물이 이어진다. 소바집·주점·칠기 공방이 자리한 생활거리와 여행자를 위한 옛 물터를 함께 살펴보면 교통로의 기억이 읽힌다. 마을 외관 산책과 민가 내부 관람을 구분해 계획하면 좋다.",
+   "highlights": [
+    "목조 상가가 이어지는 중심거리",
+    "길가 물터 미즈바",
+    "나카무라 저택과 정원"
+   ],
+   "best_time": "봄·가을 낮 시간을 편집 추천. 긴 목조거리를 걷고 점포를 방문하기에 적합하며 꽃·단풍 절정일은 별도 확인한다.",
+   "visit_tips": [
+    "JR 주오선 나라이역을 이용하며 마쓰모토에서 약 50분을 참고한다.",
+    "남쪽 야부하라까지 도리이 고개를 넘는 코스는 마을 산책과 별도 하이킹으로 잡는다.",
+    "현재 영업하는 상점과 주택의 출입구를 막지 않고 촬영한다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1366/",
+     "title": "JNTO: Narai (Nakasendo)",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "거리 길이",
+      "목조건물",
+      "물터",
+      "나카무라 저택",
+      "철도 접근"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "개별 시설 운영시간·요금",
+    "도리이 고개 당일 통행조건"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "거리 전체의 통합 입장료·운영시간은 열람 페이지에 없음. 나카무라 저택 등 개별 유료시설과 점포 시간은 별도."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

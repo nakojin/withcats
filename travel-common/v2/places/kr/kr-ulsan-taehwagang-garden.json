@@ -1,0 +1,174 @@
+{
+ "id": "kr-ulsan-taehwagang-garden",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "태화강 국가정원",
+  "local": "태화강 국가정원"
+ },
+ "admin_region": "울산광역시",
+ "former_region": null,
+ "city": "중구 샛강남길 5 일대",
+ "address": null,
+ "coord": {
+  "lat": 35.549712,
+  "lng": 129.299688,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "relation/11313014"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-ulsan-taehwagang-garden",
+   "name_ko": "태화강 국가정원",
+   "aliases": [],
+   "region": "울산광역시",
+   "admin_region": "울산광역시",
+   "locality": "중구 샛강남길 5 일대",
+   "type": [
+    "국가정원",
+    "강변"
+   ],
+   "highlights": [
+    "태화강을 끼고 조성한 주제정원",
+    "십리대숲과 강변 산책 경관"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "야외 정원과 대숲을 걸으며 보기 좋은 계절이다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "대숲 산책과 꽃밭 관람 중 중심 활동을 먼저 정해 넓은 정원의 동선을 줄인다.",
+    "비 뒤에는 강변 통제 안내를 따른다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80718",
+     "title": "VISITKOREA — Taehwagang National Garden",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "태화강을 끼고 조성한 주제정원; 십리대숲과 강변 산책 경관"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "십리대숲을 하위 볼거리로 통합했다. 계절 꽃밭의 당일 상태와 야간 점등은 미확인이다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/07_경남부산울산/태화강 국가정원.md",
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

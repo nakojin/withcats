@@ -1,0 +1,167 @@
+{
+ "id": "kr-jeju-seongsan-ilchulbong",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "성산일출봉",
+  "local": "성산일출봉"
+ },
+ "admin_region": "제주특별자치도",
+ "former_region": null,
+ "city": "서귀포시 성산읍 일출로 284-12",
+ "address": null,
+ "coord": {
+  "lat": 33.458889,
+  "lng": 126.940818,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/330006952"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeju-seongsan-ilchulbong",
+   "name_ko": "성산일출봉",
+   "region": "제주",
+   "admin_region": "제주특별자치도",
+   "locality": "서귀포시 성산읍 일출로 284-12",
+   "type": [
+    "화산지형",
+    "세계유산",
+    "전망"
+   ],
+   "highlights": [
+    "바다에서 분출한 화산이 만든 응회구로, 정상 분화구 둘레의 암봉이 성곽처럼 이어진다.",
+    "정상에서는 분화구와 우도·성산 마을·바다가 함께 펼쳐진다. 정상 등반 대신 우뭇개해안 주변의 완만한 무료 구간에서도 해안 경관을 볼 수 있다."
+   ],
+   "recommended_season": {
+    "text": "맑은 날 일출 또는 봄·가을 도보 탐방이라는 편집 추천. 일출 조망은 구름·바람과 출입시간에 따라 달라진다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "정상 구간은 계단과 오르막이 이어진다. 공식 소개의 정상까지 약 30~40분은 개인 체력과 혼잡도에 따라 달라진다.",
+    "음식물 반입 제한을 확인한다.",
+    "편집 선택: 계단 오르기가 부담되면 정상 등반을 생략하고 무료 해안 구간을 우선 고려한다. 일출 목적이라면 일출시각뿐 아니라 당일 입장 가능시간·통제 여부를 함께 맞춘다."
+   ],
+   "operational": {
+    "notes": [
+     "비짓제주 안내: 11~2월 06:00~18:00, 3~4·9~10월 05:00~19:00, 5~8월 04:30~20:00. 매표는 마감 1시간 전까지.",
+     "매월 첫째 월요일 정기휴무, 공휴일이면 다음 날 휴무. 최신 공지에 따라 변동 가능.",
+     "유료 구간 금액은 이번에 읽은 페이지에서 확인하지 않아 미확인으로 둔다."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+     "title": "비짓제주 성산일출봉",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/08_제주/성산일출봉.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/08_제주/성산일출봉.md",
+   "editorial_region": "08_제주",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

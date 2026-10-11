@@ -1,0 +1,191 @@
+{
+ "id": "east-qd-06",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "라오산 풍경구",
+  "local": "崂山风景名胜区"
+ },
+ "admin_region": "산둥성",
+ "former_region": null,
+ "city": "칭다오",
+ "address": null,
+ "coord": {
+  "lat": 36.196807,
+  "lng": 120.629681,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "relation/15465997"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "east-qd-06",
+   "name_ko": "라오산 풍경구",
+   "name_local": "崂山风景名胜区",
+   "city": "칭다오",
+   "province": "산둥성",
+   "region": "칭다오",
+   "category": "산악·해안경관",
+   "description": "바다와 산을 함께 보는 넓은 경승지로 쥐펑·타이칭·지우수이·양커우 등 접근 방향이 나뉜다. 한 장의 지도에서 가까워 보이더라도 서로 다른 입구와 환승을 사용하므로 하루에 모든 구역을 보려 하지 않는 편이 좋다. 이번 레코드는 한 경구만 집계하고 내부 코스는 하위 선택지로 다룬다.",
+   "best_time": {
+    "period": "맑은 봄·가을 이른 시간",
+    "reason": "산악 보행과 전망을 확보하기 좋으며 낮 시간이 넉넉한 출발이 유리하다.",
+    "basis": "편집상 권장; 개화·날씨·혼잡 및 운영 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "timezone": "Asia/Shanghai",
+    "hours": "2026 공지: 4~6·9~11월 07:00~17:30, 7~8월 06:00~19:00, 12월 07:30~17:00. 1~3월 미기재.",
+    "price_cny": "2026 공지 요금표가 이미지여서 본문으로 수치를 확인하지 못함; 코스·관광차·삭도 요금 미확인",
+    "reservation": "실명 온라인예약, 7일 전부터 개방. 공식 위챗 및 공지에 열거한 OTA 안내. 구역별 수용인원 제한.",
+    "foreign_passport": "외국인 여권 예약·입장 상세 미확인",
+    "payment": "결제수단 미확인",
+    "validity_note": "조회일은 본문 열람일이며 방문일 실시간 운영 확인일이 아님"
+   },
+   "sources": [
+    {
+     "url": "https://www.qdlaoshan.cn/New-News-info-nid-6285.html",
+     "title": "崂山风景区关于旺季旅游接待的通告",
+     "checked_at": "2026-10-10",
+     "verification": "공식 본문 열람 확인; 최신 현장운영 보증 아님",
+     "supported_facts": [
+      "2026 월별 운영시간",
+      "7일 전 예약",
+      "코스별 교통",
+      "산악 안전"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 임시휴업·행사 통제",
+    "외국인 여권 예약 및 현장처리",
+    "해외카드·모바일 결제 가능 여부",
+    "방문일 성인 요금 및 상품 포함내역"
+   ],
+   "selection_tier": "핵심 수요 확인",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "collection_group": "east",
+   "highlights": [
+    "산과 바다의 경관",
+    "쥐펑·타이칭 남선",
+    "양커우·화옌 동선"
+   ],
+   "visit_tips": [
+    "구역 하나를 먼저 선택하고 반나절~하루를 편집상 권장한다.",
+    "남선은 지하철4호선 다허둥역A 출구·관광차, 동선은 푸리역A 출구에서 버스 환승을 공식 안내한다.",
+    "비개방 구역·하천에 들어가지 말고 케이블카와 탐방로 최신 폐쇄공지를 확인한다."
+   ],
+   "destination_cluster": "칭다오",
+   "original_region": "중국 동부",
+   "selection_region_id": "qingdao",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL02",
+    "SEL03"
+   ],
+   "selection_scope_caution": "한국인 전체 순위 없음.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

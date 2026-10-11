@@ -1,0 +1,183 @@
+{
+ "id": "cd-jinsha",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "진사유적박물관",
+  "local": "金沙遗址博物馆"
+ },
+ "admin_region": "쓰촨성",
+ "former_region": null,
+ "city": "청두",
+ "address": null,
+ "coord": {
+  "lat": 30.684148,
+  "lng": 104.01032,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/418288880"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "cd-jinsha",
+   "name_ko": "진사유적박물관",
+   "name_local": "金沙遗址博物馆",
+   "city": "청두",
+   "province": "쓰촨성",
+   "region": "청두",
+   "destination_cluster": "청두·두장옌",
+   "category": "고고유적박물관",
+   "description": "태양신조 금장식 등 고대 촉 문화를 대표하는 유물을 소장한 박물관이다. 조사일 현재 장기 휴관 중이므로 당장 방문할 명소로 추천하지 않고 재개관 이후 참고 자료로 보존한다.",
+   "best_time": {
+    "period": "재개관 확정 이후",
+    "reason": "현재 휴관 공지가 있으므로 계절보다 실제 재개관 확인이 우선이다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "2025/12/5~2027/4/30 휴관(운영자 홈페이지).",
+    "price": "휴관 중; 재개관 요금 미확인",
+    "currency": "CNY",
+    "reservation": "현재 방문 불가. 재개관 후 예약조건 미확인",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://www.jinshasitemuseum.com/",
+     "title": "진사유적박물관 공식 홈페이지",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "장기휴관 기간",
+      "주요 소장품"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "재개관 확정일",
+    "재개관 후 시간·요금·예약·전시"
+   ],
+   "status": "temporarily_closed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "핵심 정성 수요 확인",
+   "collection_group": "history",
+   "highlights": [
+    "태양신조 금장식",
+    "상·주대 금가면",
+    "고대 촉의 금·옥기"
+   ],
+   "visit_tips": [
+    "2026 여행 일정에서는 방문 후보에서 제외한다",
+    "2027년 재개관 날짜를 새 공지로 확인한다",
+    "외부 대여전시가 있다면 소재 기관·기간을 별도로 확인한다"
+   ],
+   "original_region": "서남",
+   "selection_region_id": "chengdu",
+   "selection_evidence_ids": [
+    "SEL03"
+   ],
+   "selection_scope_caution": "러산·두장옌 등은 청두 밖 연계지이며 청두 수요를 모든 쓰촨 명소에 일반화하지 않는다.",
+   "status_label": "휴관 확인 · 추천 보류",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

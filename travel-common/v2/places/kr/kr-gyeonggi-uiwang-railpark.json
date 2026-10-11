@@ -1,0 +1,177 @@
+{
+ "id": "kr-gyeonggi-uiwang-railpark",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "의왕레일파크",
+  "local": "의왕레일파크"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "의왕시 왕송못동로 209",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-uiwang-railpark",
+   "name_ko": "의왕레일파크",
+   "aliases": [],
+   "region": "경기도",
+   "admin_region": "경기도",
+   "locality": "의왕시 왕송못동로 209",
+   "type": [
+    "레일바이크",
+    "호수경관"
+   ],
+   "highlights": [
+    "왕송호수를 둘러보는 호수 순환 레일바이크",
+    "코스의 조류생태존·포토존·스피드존과 주변 자연학습공원"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "호숫가에서 페달을 밟는 야외 체험이라 한여름 더위를 피한 온화한 계절을 권한다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "레일바이크 출발시각을 먼저 정한 뒤 주변 자연학습공원이나 철도박물관 관람을 앞뒤로 배치하면 이동 동선을 정리하기 좋다.",
+    "포토존과 조류생태존 등 코스별 구간을 미리 살펴보고, 페달 이용이 어려운 동행자는 호수열차의 당일 운행과 탑승 조건을 별도로 문의한다."
+   ],
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=517d1b47-a20b-4f94-878c-fdd94026a2e6",
+     "title": "한국관광공사: 의왕레일파크",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "호수 순환 레일바이크",
+      "코스 구간",
+      "주변 자연학습공원·철도박물관"
+     ]
+    },
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=e295bb59-5546-41f8-9ea5-b3dc02114793",
+     "title": "한국관광공사: 아이와 함께 기차놀이하러 떠난 여행, 철도박물관과 의왕레일파크",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "주소",
+      "왕송호수",
+      "호수열차 소개"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "호수열차는 2019년 갱신 공식 기사에 소개된 시설이므로 현재 운행을 단정하지 않고 문의 대상으로 적었다. 운영사 페이지 본문 열기에 실패해 공식 관광 본문으로 핵심 특성을 확인했다. 추천 계절과 동선은 편집 판단이다.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/02_인천경기/의왕레일파크.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

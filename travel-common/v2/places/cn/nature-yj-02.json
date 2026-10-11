@@ -1,0 +1,187 @@
+{
+ "id": "nature-yj-02",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "모아산 국가삼림공원",
+  "local": "帽儿山国家森林公园"
+ },
+ "admin_region": "지린성",
+ "former_region": null,
+ "city": "옌지",
+ "address": null,
+ "coord": {
+  "lat": 42.856472,
+  "lng": 129.460353,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "relation/18919173"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-yj-02",
+   "name_ko": "모아산 국가삼림공원",
+   "name_local": "帽儿山国家森林公园",
+   "city": "옌지",
+   "province": "지린성",
+   "region": "옌지·백두산 중국 측",
+   "destination_cluster": "옌지·백두산 중국 측",
+   "category": "도시 숲·산책",
+   "description": "옌지의 산림 산책과 전망을 즐기는 도시 주변 자연 명소다. 주봉 해발은 공식 관광 안내에서 517m로 소개하며 산책길과 전망 시설이 이어진다. 민속원·공룡 시설을 포함한 넓은 문화관광구 전체와 산림공원 방문은 구분해 계획하는 것이 좋다.",
+   "best_time": {
+    "period": "4–5월 또는 가을의 맑은 낮",
+    "reason": "지린성 봄 코스에서 산림 산책을 추천한다. 눈·결빙이 있는 계절은 등산 안전과 개방 상태를 먼저 본다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "미확인",
+    "fees": "미확인",
+    "reservation": "외국인 여권 예약·현장 발권·결제 수단 미확인"
+   },
+   "sources": [
+    {
+     "url": "https://whhlyt.jl.gov.cn/ztzl/jlslyxlhxj/gdxl/ybz/yjs/202506/t20250625_9264370.html",
+     "title": "지린성 문화여유청: 옌지 여행코스",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람 · 과거 자료, 현재 운영 재확인 필요",
+     "supported_facts": [
+      "모아산 산림·전망",
+      "민속원과 박물관 위치",
+      "봄·가을 여행 코스"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "counting_scope": "산림공원 보행 구역 1곳. 상위 모아산(공룡) 문화관광구를 별도 집계하지 않음",
+   "selection_tier": "핵심 수요 확인 + 연계",
+   "collection_group": "nature",
+   "highlights": [
+    "숲길 걷기",
+    "주봉 전망",
+    "도시 주변 녹지"
+   ],
+   "visit_tips": [
+    "정상까지 왕복할 시간과 체력을 확보한다",
+    "어두워지기 전 내려오는 일정이 편하다",
+    "공원과 주변 유료 시설의 입장 조건을 나누어 확인한다"
+   ],
+   "counting_note": "산림공원 보행 구역 1곳. 상위 모아산(공룡) 문화관광구를 별도 집계하지 않음",
+   "original_region": "옌지·백두산 중국 측",
+   "selection_region_id": "yanji_changbaishan",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL03"
+   ],
+   "selection_scope_caution": "백두산 상품 수요를 옌지 도심 인기와 동일시하지 않으며 중국 측 개방구역만 다룬다.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

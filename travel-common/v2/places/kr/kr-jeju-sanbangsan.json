@@ -1,0 +1,176 @@
+{
+ "id": "kr-jeju-sanbangsan",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "산방산",
+  "local": "산방산"
+ },
+ "admin_region": "제주특별자치도",
+ "former_region": null,
+ "city": "서귀포시 안덕면 사계리 산16 일대",
+ "address": null,
+ "coord": {
+  "lat": 33.241556,
+  "lng": 126.313343,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/1658963947"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeju-sanbangsan",
+   "name_ko": "산방산",
+   "aliases": [],
+   "region": "제주특별자치도",
+   "admin_region": "제주특별자치도",
+   "locality": "서귀포시 안덕면 사계리 산16 일대",
+   "type": [
+    "화산지형",
+    "사찰"
+   ],
+   "highlights": [
+    "남서부 해안 위로 솟은 산방산 암체",
+    "산방굴사와 불상",
+    "봄 들판을 배경으로 한 산 경관"
+   ],
+   "recommended_season": {
+    "text": "봄",
+    "reason": "꽃이 있는 들판과 산의 윤곽을 함께 보는 계절로 고려할 만하다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "산 전체를 자유롭게 등산할 수 있다고 생각하지 말고 허용된 관람 구간부터 확인한다.",
+    "산을 멀리 조망하는 일정과 산방굴사 방문을 구분한다.",
+    "꽃밭은 사유지·별도 운영일 수 있으므로 무단 진입하지 않는다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=94909",
+     "title": "VISITKOREA — Sanbangsan Mountain (Jeju)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "남서부 해안 위로 솟은 산방산 암체; 산방굴사와 불상; 봄 들판을 배경으로 한 산 경관"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "정상 탐방 가능 여부를 확인하지 않았다. 인근 유채밭을 별도 신규 장소로 세지 않는다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/08_제주/산방산.md",
+   "editorial_region": "08_제주",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

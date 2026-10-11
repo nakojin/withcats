@@ -1,0 +1,166 @@
+{
+ "id": "kr-jeju-udo",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "우도",
+  "local": "우도"
+ },
+ "admin_region": "제주특별자치도",
+ "former_region": null,
+ "city": "제주시 우도면",
+ "address": null,
+ "coord": {
+  "lat": 33.507257,
+  "lng": 126.955001,
+  "geo_type": "point",
+  "precision": "place",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "relation/9742044"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeju-udo",
+   "name_ko": "우도",
+   "region": "제주",
+   "admin_region": "제주특별자치도",
+   "locality": "제주시 우도면",
+   "type": [
+    "섬",
+    "해안"
+   ],
+   "highlights": [
+    "서빈백사의 흰 홍조단괴 해빈, 넓은 하고수동해변, 검멀레의 해안과 우도봉 전망을 선택해 둘러보는 섬 여행권이다.",
+    "서빈백사의 흰 알갱이는 산호 조각이 아니라 홍조류가 형성한 홍조단괴이며 보호되는 자연유산이다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을의 바람이 약한 날. 섬 내 야외 이동을 고려한 편집 추천이며 운항 여부가 최우선이다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "출발 전과 귀항 전 당일 운항 정보를 확인하고 결항에 대비한 시간 여유를 둔다.",
+    "전기 이동수단은 종류별 이용·면허 규정을 확인한다.",
+    "공식 소개는 섬 둘레를 약 17km로 안내한다. 주요 장소 1~2곳과 휴식을 묶는 일정부터 잡고, 모든 해변을 짧은 도보 코스에 넣지 않는다(편집 판단).",
+    "천진동 방면의 완만한 경사, 검멀레 해안, 우도봉 오르막을 구분해 동선을 고른다. 차량·대여 이동수단 반입은 종류별 현행 조건이 달라 출발 전 확인한다."
+   ],
+   "operational": {
+    "notes": [
+     "성산항·종달항 항로가 공식 관광안내에 소개되며 소요시간은 항로에 따라 약 10~15분이다.",
+     "운임·첫배·막배·예약 방식·차량 반입 예외의 현행 세부조건은 선사와 제주도 공지 재확인 대기."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://m.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+     "title": "비짓제주 우도",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/08_제주/우도.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/08_제주/우도.md",
+   "editorial_region": "08_제주",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

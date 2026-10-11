@@ -1,0 +1,165 @@
+{
+ "id": "kr-chungnam-yonghyeon-buddha-triad",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "서산 용현리 마애여래삼존상",
+  "local": "서산 용현리 마애여래삼존상"
+ },
+ "admin_region": "충청남도",
+ "former_region": null,
+ "city": "서산시 운산면 용현리",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-chungnam-yonghyeon-buddha-triad",
+   "name_ko": "서산 용현리 마애여래삼존상",
+   "aliases": [],
+   "region": "충청남도",
+   "admin_region": "충청남도",
+   "locality": "서산시 운산면 용현리",
+   "type": [
+    "불교유산",
+    "마애불"
+   ],
+   "highlights": [
+    "바위에 새긴 여래입상·보살입상·반가사유상",
+    "빛 방향에 따라 달라 보이는 백제 불상의 미소와 광배"
+   ],
+   "recommended_season": {
+    "text": "봄·가을 낮",
+    "reason": "야외 암벽 조각의 표정과 옷주름을 자연광으로 살피기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "중앙 불상만 보지 말고 양옆 입상과 반가사유상의 손·다리 자세를 비교한다.",
+    "관람 지점에서 빛에 따른 표정 차이를 살피되 암벽 가까이 올라가거나 조각을 만지지 않는다. 산중 유적 접근 보행도 일정에 포함한다."
+   ],
+   "sources": [
+    {
+     "url": "https://www.seosan.go.kr/public/sub.do?key=838",
+     "title": "서산시 문화시설사업소: 서산용현리마애여래삼존상",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 메모에 명시한 확인 조건 외 요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/04_충청/서산 용현리 마애여래삼존상.md",
+   "editorial_region": "04_충청",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

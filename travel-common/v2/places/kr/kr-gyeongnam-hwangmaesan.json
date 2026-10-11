@@ -1,0 +1,167 @@
+{
+ "id": "kr-gyeongnam-hwangmaesan",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "황매산군립공원",
+  "local": "황매산군립공원"
+ },
+ "admin_region": "경상남도",
+ "former_region": null,
+ "city": "합천군 가회면 황매산공원길 331 일대",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongnam-hwangmaesan",
+   "name_ko": "황매산군립공원",
+   "aliases": [],
+   "region": "경상남도",
+   "admin_region": "경상남도",
+   "locality": "합천군 가회면 황매산공원길 331 일대",
+   "type": [
+    "산",
+    "꽃경관"
+   ],
+   "highlights": [
+    "바위산과 소나무·철쭉 경관",
+    "맑은 날의 합천호·주변 산 조망"
+   ],
+   "recommended_season": {
+    "text": "봄, 개화 확인 후",
+    "reason": "철쭉과 산악 경관을 함께 보는 방문을 고려할 수 있다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "철쭉 관람 구역과 정상 산행을 별개의 난도로 계획한다.",
+    "꽃 상태와 도로·탐방로 통제를 먼저 확인한다.",
+    "정상 조망은 구름·안개에 따라 달라지므로 보장하지 않는다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=79930",
+     "title": "VISITKOREA — Hwangmaesan County Park",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "바위산과 소나무·철쭉 경관; 맑은 날의 합천호·주변 산 조망"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "악천후의 갑작스러운 통제 가능성을 원문이 명시한다. 산청 쪽 접근과 합천 접근을 혼동하지 않는다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/07_경남부산울산/황매산군립공원.md",
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

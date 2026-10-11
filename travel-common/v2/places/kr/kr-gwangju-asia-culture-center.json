@@ -1,0 +1,176 @@
+{
+ "id": "kr-gwangju-asia-culture-center",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "국립아시아문화전당",
+  "local": "국립아시아문화전당"
+ },
+ "admin_region": "광주광역시",
+ "former_region": null,
+ "city": "동구 문화전당로 38",
+ "address": null,
+ "coord": {
+  "lat": 35.147274,
+  "lng": 126.920808,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/248192696"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gwangju-asia-culture-center",
+   "name_ko": "국립아시아문화전당",
+   "aliases": [],
+   "region": "광주광역시",
+   "admin_region": "광주광역시",
+   "locality": "동구 문화전당로 38",
+   "type": [
+    "복합문화공간",
+    "박물관"
+   ],
+   "highlights": [
+    "아시아문화박물관 상설·기획 전시",
+    "아시아 문화자료 아카이브와 특별열람 공간"
+   ],
+   "recommended_season": {
+    "text": "연중",
+    "reason": "실내 문화콘텐츠를 중심으로 방문 계획을 세울 수 있다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "아시아문화박물관 전시와 문화자료 아카이브를 구분해 관심 분야를 고른다.",
+    "자료 열람을 원한다면 단순 전시 관람과 다른 이용 조건을 확인한다.",
+    "전당 전체와 개별 전시·공연·열람 공간의 예약 조건을 구분한다."
+   ],
+   "sources": [
+    {
+     "url": "https://www.acc.go.kr/main/contents.do?PID=050801",
+     "title": "국립아시아문화전당 — 박물관 소개",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "아시아문화박물관 상설·기획 전시; 아시아 문화자료 아카이브와 특별열람 공간"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "박물관 소개를 중심으로 확인했다. 개별 공연·전시의 현재 운영은 미확정이다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "administrative_note": "기존 17권역 분류를 호환용으로 유지. 일부 공식 원문은 전남광주통합특별시로 표기하므로 게시 전 행정구역명 별도 검증 필요.",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/05_전라/국립아시아문화전당.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

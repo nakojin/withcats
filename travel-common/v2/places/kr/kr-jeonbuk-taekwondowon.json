@@ -1,0 +1,177 @@
+{
+ "id": "kr-jeonbuk-taekwondowon",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "무주 태권도원",
+  "local": "무주 태권도원"
+ },
+ "admin_region": "전북특별자치도",
+ "former_region": null,
+ "city": "무주군 설천면 무설로 1482",
+ "address": null,
+ "coord": {
+  "lat": 36.00958,
+  "lng": 127.775429,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/4880977321"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonbuk-taekwondowon",
+   "name_ko": "무주 태권도원",
+   "aliases": [],
+   "region": "전북특별자치도",
+   "admin_region": "전북특별자치도",
+   "locality": "무주군 설천면 무설로 1482",
+   "type": [
+    "체험",
+    "박물관",
+    "스포츠"
+   ],
+   "highlights": [
+    "태권도박물관과 T1 공연·경기 공간",
+    "전망대·오행폭포·트레킹 구역"
+   ],
+   "recommended_season": {
+    "text": "연중, 야외는 봄·가을",
+    "reason": "실내 문화 관람과 야외 이동을 조합할 수 있다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "박물관 관람과 시범공연·체험의 회차를 나누어 계획한다.",
+    "넓은 부지이므로 내부 셔틀·모노레일의 당일 운행을 확인한다.",
+    "트레킹 코스는 난도별로 고르고 숙박형 프로그램과 당일 입장을 구분한다."
+   ],
+   "visit_tips_basis": "editorial_inference_from_verified_features",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=176262",
+     "title": "VISITKOREA — Spirit-Zone of Taekwondowon",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "태권도박물관과 T1 공연·경기 공간|전망대·오행폭포·트레킹 구역"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 직전 운영기관 공지 재확인. null은 무료나 예약 불필요를 뜻하지 않음."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "2023년 기사에 나온 공연 빈도·요금·예약 최소인원은 현재값으로 채택하지 않았다. 내부 시설을 각각 신규로 세지 않는다.",
+   "baseline_relation": "new_independent_place_extension",
+   "administrative_note": "",
+   "document_path": "korea-travel/05_전라/무주 태권도원.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

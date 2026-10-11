@@ -1,0 +1,179 @@
+{
+ "id": "xa-huaqing",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "화청궁",
+  "local": "华清宫"
+ },
+ "admin_region": "산시성(陝西)",
+ "former_region": null,
+ "city": "시안",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "xa-huaqing",
+   "name_ko": "화청궁",
+   "name_local": "华清宫",
+   "city": "시안",
+   "province": "산시성(陝西)",
+   "region": "시안",
+   "destination_cluster": "시안",
+   "category": "황실유적·공연",
+   "description": "리산 기슭의 황실 온천 유적과 당 현종·양귀비 이야기, 근현대 시안사변 유적이 겹치는 곳이다. 낮의 유적 관람과 장한가 공연은 서로 다른 경험이므로 표와 시간도 분리해 계획한다.",
+   "best_time": {
+    "period": "봄·가을 낮 / 공연은 별도 회차",
+    "reason": "야외 유적을 보기 좋고 공연을 고르면 늦은 귀가 계획까지 함께 세울 수 있다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "실제 홈페이지 본문 07:30~17:30, 판매마감 17:00, 입장마감 17:10. 검색결과의 07:00~18:00과 달라 본문값 우선하되 적용기간 불명.",
+    "price": "최신 입장료·공연료 미확인",
+    "currency": "CNY",
+    "reservation": "외국인 여권 예약·현장입장 조건 미확인",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://www.hqpalaceglobal.com/en",
+     "title": "화청궁 운영자 영문 홈페이지",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "유적 구성",
+      "현재 표시 시간",
+      "교통",
+      "공연 별도 소개"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "시간표 적용기간",
+    "요금·공연 회차",
+    "외국인 예약·입장",
+    "결제수단"
+   ],
+   "status": "operations_reconfirmation_needed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "광역 수요 기반 역사관광 확장",
+   "collection_group": "history",
+   "highlights": [
+    "당대 온천 유적",
+    "시안사변 오간청",
+    "구룡호와 공연 배경"
+   ],
+   "visit_tips": [
+    "지하철 9호선 화청지 B·C출구 안내를 활용한다",
+    "장한가가 일반 입장권에 포함된다고 가정하지 않는다",
+    "운영시간이 계절별로 바뀌므로 방문 직전 다시 확인한다"
+   ],
+   "original_region": "서북",
+   "selection_region_id": "xian",
+   "selection_evidence_ids": [
+    "SEL08"
+   ],
+   "selection_scope_caution": "산시성 자료는 시안 단독 수요가 아니다. 편집 판단임을 명시.",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

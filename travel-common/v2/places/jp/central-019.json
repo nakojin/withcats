@@ -1,0 +1,184 @@
+{
+ "id": "central-019",
+ "country": "jp",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "나고야성·혼마루어전",
+  "local": "名古屋城・本丸御殿"
+ },
+ "admin_region": "아이치",
+ "former_region": null,
+ "city": "나고야시",
+ "address": null,
+ "coord": {
+  "lat": 35.184982,
+  "lng": 136.899698,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "relation/15970225"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-019",
+   "name_ko": "나고야성·혼마루어전",
+   "name_ja": "名古屋城・本丸御殿",
+   "region": "주부·호쿠리쿠",
+   "prefecture": "아이치",
+   "city": "나고야시",
+   "category": "성·궁전건축",
+   "description": "금빛 장식으로 알려진 성곽과 복원된 혼마루어전을 함께 보는 장소다. 현재 천수 안에 들어갈 수 없으므로 천수 등반을 핵심 체험으로 소개해서는 안 된다. 어전에서는 회화와 전통 공예로 재현한 실내 장식을 중심으로 둘러볼 수 있다.",
+   "highlights": [
+    "성 외관과 금빛 장식",
+    "복원 혼마루어전",
+    "성곽 석축·망루 외관"
+   ],
+   "best_time": "봄·가을 도보 관람을 편집 추천. 실내 어전은 냉난방이 없다는 안내가 있어 한여름 더위를 고려한다.",
+   "visit_tips": [
+    "2026-10-01 요금개정 후 일반 1,000엔을 적용한다.",
+    "어전 입구까지 성문에서 약 10분이므로 16시 직전 성문 도착은 늦다.",
+    "어전에서 신발을 벗고 작품에 손대거나 플래시를 쓰지 않는다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.nagoya-info.jp/en/spot/detail/1/",
+     "title": "Visit Nagoya: Nagoya Castle",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "2026 개정요금",
+      "시간",
+      "접근"
+     ]
+    },
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/en/",
+     "title": "Nagoya Castle Official",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "천수 입장불가",
+      "성 역사"
+     ]
+    },
+    {
+     "url": "https://www.nagoyajo.city.nagoya.jp/en/nagoyajo/honmarugoten/",
+     "title": "Nagoya Castle: Hommaru Palace",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "어전 관람수칙",
+      "시설환경"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 어전 대기시간·특별공개 구역"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "9:00~16:30, 입장 및 어전 최종입장 16:00. 12/29~1/1 휴장. 2026-10-01부터 일반 1,000엔, 중학생 이하 무료. 천수 내부 입장 불가."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,203 @@
+{
+ "id": "kr-daegu-modern-alleys-kim-reference",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "대구 근대골목·김광석길",
+  "local": "대구 근대골목·김광석길"
+ },
+ "admin_region": "대구광역시",
+ "former_region": null,
+ "city": "대구 중구 근대골목·대봉동 방천시장 주변",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-daegu-modern-alleys-kim-reference",
+   "name_ko": "대구 근대골목·김광석길",
+   "region": "경북대구",
+   "admin_region": "대구광역시",
+   "locality": "대구 중구 근대골목·대봉동 방천시장 주변",
+   "type": [
+    "도시산책",
+    "근대사",
+    "음악",
+    "부모 관광권"
+   ],
+   "highlights": [
+    "근대골목은 계산성당·제일교회와 옛집 등을 엮어 도시의 근대 생활상을 따라 걷는 여행이다.",
+    "김광석길은 방천시장 인근에서 가수의 삶과 음악을 벽화·조형물·가사로 만나는 골목이다.",
+    "김광석길 주변 카페·소품 가게를 산책 중 쉬는 지점으로 활용하면 역사 골목과 음악 골목의 분위기를 나누어 경험할 수 있다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을 낮, 여름은 더위를 피해 짧게",
+    "reason": "건물 외관과 벽화를 읽으며 걷는 야외 일정이라 밝은 시간의 쾌적한 날을 추천한다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "근대골목과 김광석길은 하나의 같은 골목이 아니다. 두 지역 사이 이동을 일정에 넣는다.",
+    "골목 자체를 걷는 것과 실내 전시·해설투어 참여를 구별한다. 해설은 예약·언어별 운영을 확인한다.",
+    "종교시설과 생활 골목에서는 사진 때문에 출입구를 막지 않는다. 버스킹은 상시 공연을 보장하지 않는다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=66471",
+     "title": "한국관광공사 Daegu Modern History Streets",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "근대골목 성격",
+      "주요 건축물",
+      "해설 예약·별도 유료체험 구분"
+     ]
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=70&menuNm=tour&page=1&vcontsId=200735",
+     "title": "한국관광공사 Must-visit restaurants in Daegu의 김광석길 항목",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "대봉동·방천시장 위치",
+      "벽화·조각·가사",
+      "카페·상점"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": "근대골목 관광공사 안내는 무료, 박물관 전시·체험은 별도일 수 있음.",
+    "hours": null,
+    "reservation": "해설투어는 중구청 운영·예약 조건 확인. 자유산책과 예약투어를 혼동하지 않는다.",
+    "status_note": "관광공사 근대골목 페이지의 개장·월요일 휴무를 모든 공공 골목에 적용하지 않음."
+   },
+   "record_status": "verified_core_operational_pending",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/06_경북대구/대구 근대골목·김광석길.md",
+   "document_path": "korea-travel/06_경북대구/대구 근대골목·김광석길.md",
+   "path": "korea-travel/06_경북대구/대구 근대골목·김광석길.md",
+   "count_as_independent": false,
+   "record_origin": "baseline_followup",
+   "counting_unit": "parent_travel_area_reference",
+   "relation_note": "여러 지점의 동선을 설명하는 부모 관광권 참고문서. 구성 명소를 개별 가산하지 않는다.",
+   "verification_scope": {
+    "confirmed": [
+     "공식 웹본문의 명칭·위치·볼거리"
+    ],
+    "editorial": [
+     "추천시기·이유",
+     "특성에 근거한 동선·준비 조언"
+    ],
+    "pending": [
+     "각 실내시설 관람시간",
+     "서문야시장 현행 영업",
+     "김광석길 공연 일정",
+     "해설투어 최신 출발·예약"
+    ]
+   },
+   "unconfirmed_items": [
+    "각 실내시설 관람시간",
+    "서문야시장 현행 영업",
+    "김광석길 공연 일정",
+    "해설투어 최신 출발·예약"
+   ],
+   "baseline_correction": "서문시장 운영정보를 두 골목의 공통 운영시간처럼 제시하던 구성을 제거. 벽화 개수·거리 수치 보류.",
+   "editorial_region": "06_경북대구",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

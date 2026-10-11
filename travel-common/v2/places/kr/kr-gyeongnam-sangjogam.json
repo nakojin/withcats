@@ -1,0 +1,188 @@
+{
+ "id": "kr-gyeongnam-sangjogam",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "고성 상족암군립공원",
+  "local": "고성 상족암군립공원"
+ },
+ "admin_region": "경상남도",
+ "former_region": null,
+ "city": "고성군 하이면 덕명5길 42-23 일대",
+ "address": null,
+ "coord": {
+  "lat": 34.907309,
+  "lng": 128.147752,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/1185185171"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongnam-sangjogam",
+   "name_ko": "고성 상족암군립공원",
+   "aliases": [],
+   "region": "경상남도",
+   "admin_region": "경상남도",
+   "locality": "고성군 하이면 덕명5길 42-23 일대",
+   "type": [
+    "해안",
+    "화석",
+    "지질"
+   ],
+   "highlights": [
+    "해안 암반의 공룡 발자국",
+    "층을 이룬 절벽과 상다리 모양 해식 지형",
+    "고성공룡박물관의 화석·공룡 모형"
+   ],
+   "recommended_season": {
+    "text": "잔잔한 날의 봄·가을",
+    "reason": "해안 지질 관찰과 박물관을 연결하기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "박물관 해설을 보고 실제 해안 발자국을 비교하는 순서를 고려한다.",
+    "해안 동굴·암반은 물때와 파도에 따라 접근 가능성이 달라진다.",
+    "화석을 밟거나 만지는 행동을 피한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=104806",
+     "title": "VISITKOREA — Sangjogam County Park",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "해안 암반의 공룡 발자국; 층을 이룬 절벽과 상다리 모양 해식 지형; 고성공룡박물관의 화석·공룡 모형"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=93691",
+     "title": "VISITKOREA — Goseong Dinosaur Museum",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "보조 볼거리",
+      "방문 동선 판단 근거"
+     ],
+     "evidence_summary": "박물관 화석·모형 전시와 상족암 해안 연결을 확인."
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "고성공룡박물관을 같은 방문권역으로 통합했다. 원문의 공룡 종별 발자국 단정·세계 순위는 채택하지 않았다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/07_경남부산울산/고성 상족암군립공원.md",
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

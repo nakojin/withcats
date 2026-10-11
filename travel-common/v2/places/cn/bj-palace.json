@@ -1,0 +1,186 @@
+{
+ "id": "bj-palace",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "고궁박물원(자금성)",
+  "local": "故宫博物院"
+ },
+ "admin_region": "베이징시",
+ "former_region": null,
+ "city": "베이징",
+ "address": null,
+ "coord": {
+  "lat": 39.917431,
+  "lng": 116.390782,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/3884441391"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "bj-palace",
+   "name_ko": "고궁박물원(자금성)",
+   "name_local": "故宫博物院",
+   "city": "베이징",
+   "province": "베이징시",
+   "region": "베이징",
+   "destination_cluster": "베이징",
+   "category": "궁궐·박물관",
+   "description": "넓은 궁궐의 축선과 전각을 따라 황실 공간의 규모를 읽는 곳이다. 건축만 빠르게 볼지 보물·시계 전시까지 볼지 먼저 정하면 긴 도보 동선을 줄일 수 있다.",
+   "best_time": {
+    "period": "봄·가을 오전",
+    "reason": "넓은 야외 이동 구간을 걷기 편하고 전시 관람 시간을 확보하기 좋다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "4~10월 08:30~17:00, 입장마감 16:00; 11~3월 08:30~16:30, 마감 15:30. 월요일 휴관(국가 공휴일 예외).",
+    "price": "성수기 60, 비수기 40; 진보관·시계관 각 10",
+    "currency": "CNY",
+    "reservation": "운영자 본문: 외국인은 온라인 예약 시 여권번호 필요. 당일권 판매 없음.",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://intl.dpm.org.cn/visit.html",
+     "title": "고궁박물원 Visit",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "시간",
+      "요금",
+      "외국인 여권번호",
+      "당일권 없음",
+      "궁역 규모"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "한국 여권 여행자의 할인 적용 여부",
+    "결제수단별 실제 수용 여부"
+   ],
+   "status": "operations_reconfirmation_needed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "핵심 정성 수요 확인",
+   "collection_group": "history",
+   "highlights": [
+    "궁궐 전각과 성벽",
+    "진보관",
+    "시계관"
+   ],
+   "visit_tips": [
+    "방문일 당일 판매가 없어 미리 예약한다",
+    "전시관 추가권과 입장권을 구분한다",
+    "넓은 궁역을 고려해 반나절 안팎의 여유를 둔다"
+   ],
+   "original_region": "화북",
+   "selection_region_id": "beijing",
+   "selection_evidence_ids": [
+    "SEL03"
+   ],
+   "selection_scope_caution": "정량 도시순위 없음; 근교 장성은 연계권역.",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

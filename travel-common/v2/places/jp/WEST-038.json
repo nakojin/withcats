@@ -1,0 +1,169 @@
+{
+ "id": "WEST-038",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "센간엔",
+  "local": "仙巌園"
+ },
+ "admin_region": "가고시마",
+ "former_region": null,
+ "city": "가고시마시",
+ "address": null,
+ "coord": {
+  "lat": 31.61866,
+  "lng": 130.580545,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/683084837"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-038",
+   "name_ko": "센간엔",
+   "name_ja": "仙巌園",
+   "region": "규슈",
+   "prefecture": "가고시마",
+   "city": "가고시마시",
+   "category": "정원·산업유산",
+   "description": "1658년 시마즈 가문의 별저로 조성되어 사쿠라지마를 산,긴코만을 연못에 견준 차경정원이다. 인근 집성관 산업시설과 연결해 보면 정원 감상뿐 아니라 사쓰마 근대화의 실험장이라는 면모를 이해할 수 있다.",
+   "highlights": [
+    "사쿠라지마 차경",
+    "시마즈가 저택",
+    "반사로 터와 쇼코슈세이칸"
+   ],
+   "best_time": "사쿠라지마가 또렷이 보이는 맑은 날.정원·저택·박물관을 나누어 볼 여유를 둔다.",
+   "visit_tips": [
+    "입장료에 정원·저택·쇼코슈세이칸이 포함된다",
+    "가고시마마라톤일 휴원 여부를 먼저 확인한다",
+    "성인요금에서 중·고교생이 제외되는 구분을 확인한다"
+   ],
+   "hours_and_fees": {
+    "hours": "09–17시",
+    "fees": "일반15세이상(중·고교생제외)1600엔,초·중·고생800엔",
+    "conditions": "가고시마마라톤 개최일 제외 연중운영.차량주차500엔/일",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://www.kagoshima-kankou.com/industrial-heritage/52515",
+     "title": "가고시마현 공식: 센간엔",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "정원역사",
+      "차경",
+      "산업유산",
+      "시간",
+      "입장범위",
+      "요금"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 특별행사와 마감입장"
+   ],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

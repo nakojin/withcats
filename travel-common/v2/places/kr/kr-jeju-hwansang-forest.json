@@ -1,0 +1,167 @@
+{
+ "id": "kr-jeju-hwansang-forest",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "환상숲곶자왈공원",
+  "local": "환상숲곶자왈공원"
+ },
+ "admin_region": "제주특별자치도",
+ "former_region": null,
+ "city": "제주시 한경면 녹차분재로 594-1",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeju-hwansang-forest",
+   "name_ko": "환상숲곶자왈공원",
+   "aliases": [],
+   "region": "제주특별자치도",
+   "admin_region": "제주특별자치도",
+   "locality": "제주시 한경면 녹차분재로 594-1",
+   "type": [
+    "곶자왈",
+    "생태해설"
+   ],
+   "highlights": [
+    "용암 지형에 자리 잡은 숲",
+    "양치식물과 큰 나무 뿌리가 얽힌 생태 경관"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "해설과 함께 숲의 지형·식생을 차분히 보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "곶자왈의 돌·뿌리·식물 관계를 해설로 이해하는 방문을 우선한다.",
+    "예약형 숲 해설을 안내한 공식 기사가 있어 현재 예약 방식과 회차를 확인한다.",
+    "돌과 뿌리가 있는 길에 맞는 신발을 준비한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/bbsHtmlView.do?dataSetId=70&menuSn=862&vcontsId=200970",
+     "title": "VISITKOREA — Into the mysterious volcanic island of Jeju",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "용암 지형에 자리 잡은 숲; 양치식물과 큰 나무 뿌리가 얽힌 생태 경관"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "2024년 기사에 예약 안내가 있지만 현재 회차·필수 여부는 운영기관 확인 전 확정하지 않았다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/08_제주/환상숲곶자왈공원.md",
+   "editorial_region": "08_제주",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

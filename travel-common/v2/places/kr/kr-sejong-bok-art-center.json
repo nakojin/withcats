@@ -1,0 +1,179 @@
+{
+ "id": "kr-sejong-bok-art-center",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "비오케이아트센터",
+  "local": "비오케이아트센터"
+ },
+ "admin_region": "세종특별자치시",
+ "former_region": null,
+ "city": "세종특별자치시",
+ "address": null,
+ "coord": {
+  "lat": 36.492406,
+  "lng": 127.303253,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/13684028493"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-sejong-bok-art-center",
+   "name_ko": "비오케이아트센터",
+   "aliases": [],
+   "region": "세종특별자치시",
+   "admin_region": "세종특별자치시",
+   "locality": "세종특별자치시",
+   "type": [
+    "문화공간"
+   ],
+   "highlights": [
+    "공연장·갤러리·서점이 있는 문화시설"
+   ],
+   "recommended_season": {
+    "text": "사계절",
+    "reason": "실내 문화 관람 중심으로 구성할 수 있다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "공연을 중심으로 갈지 갤러리·서점을 둘러볼지 정해 일정을 잡는다.",
+    "공연장 이용은 해당 공연의 예매가 기준이며 갤러리·서점 방문과 운영 조건을 구분한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=210",
+     "title": "VISITKOREA: How to travel around Sejong",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약 조건은 확정 수치로 수록하지 않음. 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "held_for_depth_review",
+   "verification_scope": "명칭과 공연장·갤러리·서점 존재만 확인. 상세 여행 활용은 근거 심화 전 보류.",
+   "research_depth": "core_verified_depth_pending",
+   "document_path": "korea-travel/04_충청/비오케이아트센터.md",
+   "editorial_region": "04_충청",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": false,
+   "counting_unit": "one_named_destination_or_connected_visit_area",
+   "editorial_depth_review": {
+    "id": "kr-sejong-bok-art-center",
+    "name_ko": "비오케이아트센터",
+    "status": "core_verified_depth_pending",
+    "reason": "공식 KTO 코스에 공연장·갤러리·서점이라는 한 줄만 읽힘. 운영자 원문 열기 실패. 개별 공간 성격·주소·현행 이용 조건을 더 조사해야 한다."
+   }
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

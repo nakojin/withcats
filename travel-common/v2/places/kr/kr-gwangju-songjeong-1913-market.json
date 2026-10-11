@@ -1,0 +1,168 @@
+{
+ "id": "kr-gwangju-songjeong-1913-market",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "1913송정역시장",
+  "local": "1913송정역시장"
+ },
+ "admin_region": "광주광역시",
+ "former_region": null,
+ "city": "광산구 송정로8번길 13",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gwangju-songjeong-1913-market",
+   "name_ko": "1913송정역시장",
+   "aliases": [],
+   "region": "광주광역시",
+   "admin_region": "광주광역시",
+   "locality": "광산구 송정로8번길 13",
+   "type": [
+    "전통시장",
+    "먹거리"
+   ],
+   "highlights": [
+    "시간을 주제로 정비한 시장 골목",
+    "점포 역사를 적은 간판과 시장 먹거리"
+   ],
+   "recommended_season": {
+    "text": "연중",
+    "reason": "철도 여행 전후에 지역 시장의 변화와 먹거리를 볼 수 있다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "광주송정역 건너편 시장이므로 열차 출발까지 돌아올 시간을 남긴다.",
+    "먹거리뿐 아니라 점포 간판에 적힌 가게 역사를 읽어 본다.",
+    "시장 전체 안내와 개별 점포 영업일을 구분한다."
+   ],
+   "visit_tips_basis": "editorial_inference_from_verified_features",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=66186",
+     "title": "VISITKOREA — 1913 Songjeong Station Market",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "시간을 주제로 정비한 시장 골목|점포 역사를 적은 간판과 시장 먹거리"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 직전 운영기관 공지 재확인. null은 무료나 예약 불필요를 뜻하지 않음."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "특정 가게·메뉴의 현재 판매와 전체 영업시간을 보장하지 않는다.",
+   "baseline_relation": "new_independent_place_extension",
+   "administrative_note": "기존 17권역 호환 분류. 공식 주소의 광주·전남 행정명 변경 표기는 별도 검증 대상.",
+   "document_path": "korea-travel/05_전라/1913송정역시장.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

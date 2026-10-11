@@ -1,0 +1,167 @@
+{
+ "id": "central-031",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "이네 후나야",
+  "local": "伊根の舟屋"
+ },
+ "admin_region": "교토",
+ "former_region": null,
+ "city": "이네정",
+ "address": null,
+ "coord": {
+  "lat": 35.67494,
+  "lng": 135.289437,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "way/958880696"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-031",
+   "name_ko": "이네 후나야",
+   "name_ja": "伊根の舟屋",
+   "region": "간사이",
+   "prefecture": "교토",
+   "city": "이네정",
+   "category": "어촌 건축·해안",
+   "description": "아래층에 배와 어구를 두고 위층에 생활공간을 둔 목조 후나야가 만을 따라 이어진다. 일부는 숙소·카페로 바뀌었지만 상당수는 여전히 개인 주택이다. 육지 골목과 배 위에서 보는 외관이 달라 해안 산책과 유람을 조합할 가치가 있다.",
+   "highlights": [
+    "물가와 맞닿은 후나야 외관",
+    "만 위에서 보는 건물열",
+    "언덕 전망지의 마을 조망"
+   ],
+   "best_time": "바람이 약하고 바다 상태가 좋은 낮을 편집 추천. 배 운항 여부가 체험의 범위를 좌우한다.",
+   "visit_tips": [
+    "아마노하시다테역에서 버스 약 60분이므로 교토 시내 명소처럼 촘촘히 넣지 않는다.",
+    "공개 표시 없는 주택·선박 보관공간에 들어가지 않는다.",
+    "배·수상택시·자전거 투어는 각각 예약과 운영조건을 확인한다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.kyototourism.org/en/sightseeing/530/",
+     "title": "Another Kyoto: Ine Boathouses",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "2층 구조",
+      "개인주택",
+      "해상관람",
+      "접근·주차"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "유람선·택시 운임·시간",
+    "개별 가옥 내부 공개",
+    "주차요금 최신 고지"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "거리와 후나야 전체의 통합 운영시간·입장료 없음. 공식 안내의 시영 주차장: 8:00~20:59 첫 30분 무료, 이후 30분 100엔; 야간 30분 200엔. 유람선·가옥 공개 별도."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

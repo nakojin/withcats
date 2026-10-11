@@ -1,0 +1,242 @@
+{
+ "id": "kr-jeonnam-suncheon-bay-garden-overview",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "순천만습지·국가정원",
+  "local": "순천만습지·국가정원"
+ },
+ "admin_region": "전라남도",
+ "former_region": null,
+ "city": "순천시 순천만습지·순천만국가정원",
+ "address": null,
+ "coord": {
+  "lat": 34.885202,
+  "lng": 127.510322,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/11233673838"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonnam-suncheon-bay-garden-overview",
+   "name_ko": "순천만습지·국가정원",
+   "region": "05_전라",
+   "admin_region": "전라남도",
+   "locality": "순천시 순천만습지·순천만국가정원",
+   "type": [
+    "습지",
+    "정원",
+    "생태"
+   ],
+   "highlights": [
+    "순천만습지의 용산전망대에서는 S자 물길과 둥근 갈대 군락, 칠면초가 어우러진 넓은 습지 풍경을 내려다본다. 새 전망대는 2025년 7월 준공된 목재 구조물이다.",
+    "국가정원에서는 서로 다른 정원 문화를 비교할 수 있다. 스페인정원은 오렌지나무 대신 유자나무를 심었고, 한국정원에는 궁궐·군자·소망의 정원이라는 구성이 담겼다.",
+    "습지와 국가정원은 성격과 위치가 다른 두 공간이다. 정교하게 가꾼 정원과 자연 습지의 차이를 비교하며 방문하면 여행 주제가 뚜렷해진다."
+   ],
+   "recommended_season": {
+    "text": "갈대·칠면초와 습지 경관을 보려면 가을 낮~해질 무렵. 실제 색 변화와 조망은 날씨에 따라 다르다.",
+    "reason": "확인된 경관·시설을 바탕으로 한 여행 편집 추천. 개화·단풍 절정이나 행사 개최 보장이 아님.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "두 시설은 공식 요금 안내상 약 7km 떨어져 있다. 한 장의 표로 관람 가능하더라도 바로 붙은 공간으로 생각하지 말고 이동 시간을 따로 둔다.",
+    "용산 입구에서 전망대까지 공식 설명은 도보 약 30분이다. 습지 입구부터의 전체 소요시간은 아니므로 왕복 길과 휴식을 추가한다.",
+    "낙조를 본다면 돌아오는 길이 먼저다. 공식 안내는 어두워진 뒤 이동 위험을 경고하므로 입장마감·관람마감과 일몰을 함께 확인하고 무리한 야간 하산을 피한다."
+   ],
+   "sources": [
+    {
+     "url": "https://scbay.suncheon.go.kr/wetland/experience/0007/",
+     "title": "순천만습지: 용산전망대",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "S자 수로·갈대·칠면초·2025 전망대·용산 입구 기준 소요시간"
+     ]
+    },
+    {
+     "url": "https://scbay.suncheon.go.kr/garden/0017/0002/0001/",
+     "title": "순천만국가정원: 세계전통정원",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "스페인정원·한국정원 구성"
+     ]
+    },
+    {
+     "url": "https://scbay.suncheon.go.kr/wetland/information/0002/0001/",
+     "title": "순천만습지: 요금정보",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "개인 연령별 요금·상호 관람·당일 유효·7km 거리"
+     ]
+    },
+    {
+     "url": "https://scbay.suncheon.go.kr/wetland/information/0001/",
+     "title": "순천만습지: 이용시간",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "계절별 입장시간·관람마감·어두운 길 유의"
+     ]
+    }
+   ],
+   "operational": {
+    "notes": [
+     "습지 운영사 요금표: 개인 성인(19~64세) 10,000원·청소년(13~18세) 7,000원·어린이(7~12세) 5,000원. 당일 국가정원·습지 상호 관람 안내가 있으며 입장권을 보관한다(2026-10-10 조회). 야간권·스카이큐브 등의 포함 여부는 별도 확인.",
+     "습지 입장: 11~2월 08:00~17:00, 3~4월·9~10월 08:00~18:00, 5~8월 08:00~19:00. 관람은 입장마감부터 1시간 후까지로 공식 표기. 국가정원 시간·휴무·예약 세부는 미확인.",
+     "기존 15,000원 통합권과 2026 세계유산 확대 주장은 이번 확정 안내에서 제외했다."
+    ],
+    "visit_date_reconfirmation_required": true
+   },
+   "record_status": "verified_core_operational_pending",
+   "status": "verified",
+   "baseline_path": "korea-travel/05_전라/순천만습지·국가정원.md",
+   "document_path": "korea-travel/05_전라/순천만습지·국가정원.md",
+   "path": "korea-travel/05_전라/순천만습지·국가정원.md",
+   "count_as_independent": false,
+   "reference_only": true,
+   "relation_note": "기존 도시·섬·복합 방문권의 부모 참고문서. 구성 장소와 중복하여 독립 명소 수에 가산하지 않음.",
+   "components": [
+    {
+     "id": "kr-suncheon-bay-wetland",
+     "name": "순천만습지",
+     "relation": "component",
+     "parent_id": "kr-jeonnam-suncheon-bay-garden-overview"
+    },
+    {
+     "id": "kr-suncheon-national-garden",
+     "name": "순천만국가정원",
+     "relation": "component",
+     "parent_id": "kr-jeonnam-suncheon-bay-garden-overview"
+    }
+   ],
+   "new_information": [
+    "순천만습지의 용산전망대에서는 S자 물길과 둥근 갈대 군락, 칠면초가 어우러진 넓은 습지 풍경을 내려다본다. 새 전망대는 2025년 7월 준공된 목재 구조물이다.",
+    "국가정원에서는 서로 다른 정원 문화를 비교할 수 있다. 스페인정원은 오렌지나무 대신 유자나무를 심었고, 한국정원에는 궁궐·군자·소망의 정원이라는 구성이 담겼다.",
+    "습지와 국가정원은 성격과 위치가 다른 두 공간이다. 정교하게 가꾼 정원과 자연 습지의 차이를 비교하며 방문하면 여행 주제가 뚜렷해진다."
+   ],
+   "original_preserved_at": "korea-travel/research/2026-10-10/baseline-before-review.json",
+   "verification_scope": {
+    "confirmed": [
+     "명칭·위치",
+     "본문 볼거리",
+     "출처별 근거범위"
+    ],
+    "editorial": [
+     "추천시기",
+     "동선·준비 팁"
+    ],
+    "pending": [
+     "방문일 임시휴무·통제",
+     "확정하지 않은 요금·예약·교통"
+    ]
+   },
+   "unique_id": "kr-jeonnam-suncheon-bay-garden-overview",
+   "is_parent_reference": true,
+   "existing_catalog_id": null,
+   "editorial_region": "05_전라",
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

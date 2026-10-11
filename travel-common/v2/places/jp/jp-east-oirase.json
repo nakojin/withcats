@@ -1,0 +1,179 @@
+{
+ "id": "jp-east-oirase",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "오이라세 계류",
+  "local": "奥入瀬渓流"
+ },
+ "admin_region": "아오모리",
+ "former_region": null,
+ "city": "도와다시",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-oirase",
+   "name_ko": "오이라세 계류",
+   "name_ja": "奥入瀬渓流",
+   "region": "도호쿠",
+   "prefecture": "아오모리",
+   "city": "도와다시",
+   "category": "계곡·하이킹",
+   "description": "도와다호에서 흘러나온 물이 숲과 바위 사이를 지나는 약 14km 계류 구간이다. 폭포 하나를 보고 끝내기보다 흐름의 폭과 속도가 바뀌는 짧은 구간을 걸으며 이끼·수목·암석을 관찰하는 데 매력이 있다.",
+   "highlights": [
+    "조시 폭포",
+    "데아이바시 주변 물길",
+    "활엽수 숲과 계류의 단풍"
+   ],
+   "best_time": "신록을 원하면 봄~여름, 단풍은 대체로 10월 하순이 안내된다. 겨울에는 교통과 탐방 조건이 크게 달라진다.",
+   "visit_tips": [
+    "전 구간 도보는 약 5시간 이상이라는 안내를 고려해 일부 구간을 골라도 좋다.",
+    "승·하차 정류장을 다르게 잡을 때는 귀환 버스 시간부터 확인한다.",
+    "비 뒤 미끄러운 바위에 올라 사진을 찍지 말고 탐방로에서 관찰한다."
+   ],
+   "hours_and_fees": {
+    "hours": null,
+    "fees": null,
+    "conditions": "2026년도 오이라세 자연박물관(자가용 교통규제)은 종료: 2026-09-07(월)~09-13(일), 평일 10:00–16:00, 휴일 09:00–16:00, 9/13은 대형차·택시도 대상인 완전 규제(관광버스 통행 불가). 규제 구간은 2025년도와 동일. 규제 기간 중 유료 셔틀버스(오이라세케이류온천스키장 앞 주차장~야스미야 주차장) 운행. 2026년도 10월 규제는 공식 페이지에 기재 없음",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "계곡 자체의 개방시간·요금(공식 명시 없음)",
+    "일반 노선버스 현황",
+    "폭우 후 탐방로 통제",
+    "10월 단풍기 교통규제 유무"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1833/",
+     "title": "JNTO Oirase Gorge",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "14km와 도보 소요",
+      "조시 폭포·데아이바시",
+      "계절 특성·겨울 버스 중단 안내"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.pref.aomori.lg.jp/soshiki/kendo/doro/oirase-r102.html",
+     "title": "国道102号（奥入瀬渓流）の利活用に関する取り組みについて紹介します - 青森県庁ホームページ",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://eco-oirase.com/",
+     "title": "奥入瀬渓流エコツーリズムプロジェクト",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

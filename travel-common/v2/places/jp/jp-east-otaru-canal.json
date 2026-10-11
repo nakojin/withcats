@@ -1,0 +1,196 @@
+{
+ "id": "jp-east-otaru-canal",
+ "country": "jp",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "오타루 운하",
+  "local": "小樽運河"
+ },
+ "admin_region": "홋카이도",
+ "former_region": null,
+ "city": "오타루시",
+ "address": null,
+ "coord": {
+  "lat": 43.202535,
+  "lng": 141.000355,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/562432317"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-otaru-canal",
+   "name_ko": "오타루 운하",
+   "name_ja": "小樽運河",
+   "region": "홋카이도",
+   "prefecture": "홋카이도",
+   "city": "오타루시",
+   "category": "역사거리·수변",
+   "description": "오타루의 항만 상업 역사를 간직한 운하 산책 구간이다. 주변 석조 창고와 옛 상업 건물이 식당·상점 등으로 재활용되어 있어 물길 풍경에 건축 관찰을 더할 수 있다. 저녁에는 가스등과 건물 조명이 켜져 낮과 다른 분위기가 난다.",
+   "highlights": [
+    "물가에 이어지는 역사적 창고 외관",
+    "가스등이 켜진 저녁 운하",
+    "배에서 보는 수변 건축의 시선"
+   ],
+   "best_time": "눈이 없는 계절에는 걷기 수월하다. 계절과 관계없이 해 질 무렵과 저녁을 이어 보는 동선을 권한다.",
+   "visit_tips": [
+    "오타루 시 전체가 아닌 운하 보행구간을 이 항목의 방문 대상으로 삼는다.",
+    "크루즈는 운하 산책과 별도 상품이므로 운항·요금을 확인한다.",
+    "겨울에는 물가 보도 결빙에 대비한 신발을 준비한다."
+   ],
+   "hours_and_fees": {
+    "hours": "운하 크루즈(운영사 공식): 데이크루즈 10:00~17:00 출항(약 40분, 출항 15분 전 집합), 나이트크루즈 17:30·18:00·18:30·19:00 출항(이후 시각 표시는 '더 보기'에 있어 미확인). 운하 산책은 상시(통년 산책 가능), 가스등 일몰~24:00",
+    "fees": "데이크루즈 성인(중학생 이상) 1,800엔, 초등학생 500엔, 유아 500엔(동반 성인 1명당 유아 1명 무료) / 나이트크루즈 성인 2,000엔, 초등학생 500엔, 유아 500엔 (세금 포함, 승합편)",
+    "conditions": "크루즈 휴업일 12/31·1/1(otaru.gr.jp 기재). 운영사 페이지 문구상 12월 1일부터 겨울용 지붕선 운항 안내가 남아 있어 계절별 시각 변동 가능. 당일 운항 여부는 오전 9시경 갱신. 운하 산책 요금은 공식 페이지에 명시 없음.",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "나이트크루즈 마지막 출항 시각·계절별 시간표",
+    "운하 산책 무료 여부(공식 명시 없음)",
+    "2027 눈빛거리 행사 일정"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/2161/",
+     "title": "JNTO Otaru",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운하 주변 역사 건축",
+      "창고의 상업시설 활용",
+      "저녁 가스등과 크루즈"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "http://otaru.cc/",
+     "title": "小樽運河クルーズ",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간",
+      "요금"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://otaru.gr.jp/shop/otaru-canal-cruise",
+     "title": "小樽運河クルーズ | 小樽観光協会公式サイト「おたるぽーたる」：北海道小樽へようこそ！",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://otaru.gr.jp/shop/otarucanal",
+     "title": "小樽運河 | 小樽観光協会公式サイト「おたるぽーたる」：北海道小樽へようこそ！",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

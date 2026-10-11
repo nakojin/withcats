@@ -1,0 +1,202 @@
+{
+ "id": "east-su-01",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "졸정원",
+  "local": "拙政园"
+ },
+ "admin_region": "장쑤성",
+ "former_region": null,
+ "city": "쑤저우",
+ "address": null,
+ "coord": {
+  "lat": 31.326353,
+  "lng": 120.624712,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/468359738"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "east-su-01",
+   "name_ko": "졸정원",
+   "name_local": "拙政园",
+   "city": "쑤저우",
+   "province": "장쑤성",
+   "region": "쑤저우",
+   "category": "세계유산·정원",
+   "description": "연못을 중심으로 정자와 누각이 배치된 쑤저우 고전정원이다. 동·중·서부의 공간 성격이 달라 수면과 회랑을 따라 시선이 바뀌는 방식에 집중하면 좋다. 연꽃 풍경이 알려져 있지만 방문일 개화 상태는 따로 확인해야 한다.",
+   "best_time": {
+    "period": "여름 연꽃철의 이른 시간 또는 봄·가을",
+    "reason": "연꽃이 목표라면 여름, 걷기 편한 기온을 중시하면 봄·가을이 적합하다.",
+    "basis": "편집상 권장; 개화·날씨·혼잡 및 운영 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "timezone": "Asia/Shanghai",
+    "hours": "과거 기본표: 3/1~11/15 07:30~17:30, 11/16~2월말 07:30~17:00. 2026년 06:45 조기개장은 6/19~10/7 한정이므로 현재에 연장 적용하지 않음.",
+    "price_cny": "현재 요금 미확인. 2021년 영문 공식 안내는 CNY70/90을 기재하지만 오래된 값이므로 현행 요금으로 사용하지 말 것.",
+    "reservation": "2026-06-19 시정부 게재 기사: 1~7일 전 실명 시간대 온라인예약 안내. 기사는 중국 신분증 입장을 설명하므로 여권 절차는 별도 미확인.",
+    "foreign_passport": "외국인 여권 예약·입장 상세 미확인",
+    "payment": "결제수단 미확인",
+    "validity_note": "오래된 공식 안내의 기재값; 현재 적용 여부 재확인 필요"
+   },
+   "sources": [
+    {
+     "url": "https://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/43680636abee46f3a7220ce37ec064cb.shtml",
+     "title": "The Humble Administrator’s Garden",
+     "checked_at": "2026-10-10",
+     "verification": "공식 본문 열람 확인; 최신 현장운영 보증 아님",
+     "supported_facts": [
+      "세계유산",
+      "구역별 구성",
+      "2021년 시간·외국인 요금 기재"
+     ]
+    },
+    {
+     "url": "https://www.suzhou.gov.cn/szsrmzf/mszx/202606/face4650ec2245ce818aecc53eb4aaaa.shtml",
+     "title": "74年来首次调整 拙政园19日起提前至6:45开园",
+     "checked_at": "2026-10-10",
+     "verification": "시정부 게재 지역신문 기사 본문 열람 확인; 2026-06-19",
+     "supported_facts": [
+      "06:45 조기개장은 6/19~10/7 한정",
+      "1~7일 전 실명 시간대 예약 안내",
+      "여권 절차는 미기재"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 임시휴업·행사 통제",
+    "외국인 여권 예약 및 현장처리",
+    "해외카드·모바일 결제 가능 여부",
+    "방문일 성인 요금 및 상품 포함내역",
+    "사전예약 필요 여부",
+    "10/8 이후 최신 운영시간"
+   ],
+   "selection_tier": "방문수요 확인 + 상하이 연계",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "collection_group": "east",
+   "highlights": [
+    "연못과 정자",
+    "중부 수경",
+    "서부 굽은 회랑"
+   ],
+   "visit_tips": [
+    "관람 2~3시간은 편집상 권장치다.",
+    "핑장루 산책과 묶되 두 장소를 같은 입장구역으로 보지 않는다.",
+    "옛 공식 가격과 실판매 가격이 다를 수 있어 구매 전 최신 공지를 확인한다."
+   ],
+   "destination_cluster": "쑤저우",
+   "original_region": "중국 동부",
+   "selection_region_id": "suzhou",
+   "selection_evidence_ids": [
+    "SEL05",
+    "SEL06"
+   ],
+   "selection_scope_caution": "공업원구 실적을 고전정원 방문량으로 옮기지 않는다.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

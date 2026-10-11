@@ -1,0 +1,168 @@
+{
+ "id": "WEST-014",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "하기성터·시즈키공원",
+  "local": "萩城跡・指月公園"
+ },
+ "admin_region": "야마구치",
+ "former_region": null,
+ "city": "하기시",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-014",
+   "name_ko": "하기성터·시즈키공원",
+   "name_ja": "萩城跡・指月公園",
+   "region": "주고쿠",
+   "prefecture": "야마구치",
+   "city": "하기시",
+   "category": "성터·공원",
+   "description": "모리 데루모토가 세운 성의 천수대와 해자, 돌담이 남아 있는 공원이다. 현존 천수에 들어가는 곳이 아니라 부채꼴로 벌어진 돌담과 지형을 통해 옛 성의 구조를 읽는 방문지다.",
+   "highlights": [
+    "천수대의 곡선 돌담",
+    "해자에 비치는 성터",
+    "시즈키산 정상 성곽 흔적"
+   ],
+   "best_time": "3월말~4월초 벚꽃 또는10월중순~11월중순 털머위 꽃.",
+   "visit_tips": [
+    "천수가 남아 있다는 기대 대신 성터 관람으로 계획한다",
+    "정상까지는 입구에서730m·약20분 산길을 별도로 걷는다",
+    "무료 대여 태블릿의 VR로 사라진 천수를 비교할 수 있다"
+   ],
+   "hours_and_fees": {
+    "hours": "4~10월08–18:30,11~2월08:30–16:30,3월08:30–18시.연중무휴",
+    "fees": "고교생이상220엔,초·중학생100엔.구 아사모리가 하기저택 나가야 공통권",
+    "conditions": "성터와 산길은 서로 난도가 다른 동선",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://www.hagishi.com/hagijoato/",
+     "title": "하기시관광협회: 하기성터",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "성터 역사",
+      "돌담",
+      "산길",
+      "계절",
+      "VR"
+     ]
+    },
+    {
+     "url": "https://www.hagishi.com/search/detail.php?d=100049",
+     "title": "하기시관광협회 공원 이용안내",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "요금",
+      "운영조건"
+     ]
+    }
+   ],
+   "unconfirmed": [],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

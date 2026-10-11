@@ -1,0 +1,202 @@
+{
+ "id": "kr-incheon-bugeunri-dolmen",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "강화 부근리 고인돌",
+  "local": "강화 부근리 고인돌"
+ },
+ "admin_region": "인천광역시",
+ "former_region": null,
+ "city": "강화군",
+ "address": null,
+ "coord": {
+  "lat": 37.773948,
+  "lng": 126.437158,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/747162868"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-incheon-bugeunri-dolmen",
+   "name_ko": "강화 부근리 고인돌",
+   "aliases": [],
+   "region": "인천광역시",
+   "admin_region": "인천광역시",
+   "locality": "강화군",
+   "type": [
+    "선사유적"
+   ],
+   "highlights": [
+    "큰 덮개돌을 받침돌 위에 올린 탁자식 청동기 무덤으로, 탁 트인 공간에서 돌의 구조를 살펴볼 수 있다.",
+    "고창·화순과 함께 등재된 강화 고인돌 유산의 대표 지점이며, 부근리 주변 군락과 단독으로 서 있는 사적을 구분해 이해하면 좋다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "야외 유적을 관찰하기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "안내판 QR코드의 음성안내를 활용해 돌의 구조와 역사를 함께 살펴본다.",
+    "공식 안내는 평지 접근로와 휠체어 통과 가능한 주출입구를 설명한다. 화장실은 강화자연사박물관 내부 안내이므로 야외 유적의 개방과 건물 이용시간을 구분한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=227856",
+     "title": "VISITKOREA: Savor Incheon: A City of Cuisine, Nightscape, and Festivals",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    },
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD22010313220012254",
+     "title": "인천투어 강화 부근리 지석묘",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "탁자식 구조",
+      "세계유산 관계",
+      "QR 음성안내",
+      "접근로·화장실"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약 조건은 확정 수치로 수록하지 않음. 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "related_baseline": "강화도",
+   "addition_kind": "detail_expansion",
+   "integration_status": "ready_for_review",
+   "verification_scope": {
+    "confirmed": [
+     "명칭",
+     "시군구 이상 위치",
+     "본문에 명시된 시설·볼거리"
+    ],
+    "editorial": [
+     "추천 계절",
+     "시설 특성에 따른 동선·준비 조언"
+    ],
+    "pending": [
+     "방문일 요금",
+     "방문일 운영시간",
+     "변동성 예약·행사 조건"
+    ]
+   },
+   "enrichment_review": "개별 공식 본문을 읽은 별도 검토자 보강 병합(2026-10-10)",
+   "document_path": "korea-travel/02_인천경기/강화 부근리 고인돌.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

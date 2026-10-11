@@ -1,0 +1,168 @@
+{
+ "id": "kr-gwangju-history-folk-museum",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "광주역사민속박물관",
+  "local": "광주역사민속박물관"
+ },
+ "admin_region": "광주광역시",
+ "former_region": null,
+ "city": "북구 서하로 48-25",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gwangju-history-folk-museum",
+   "name_ko": "광주역사민속박물관",
+   "aliases": [],
+   "region": "광주광역시",
+   "admin_region": "광주광역시",
+   "locality": "북구 서하로 48-25",
+   "type": [
+    "박물관",
+    "민속"
+   ],
+   "highlights": [
+    "의식주·생업·공예 관련 생활문화 전시",
+    "놀이·세시풍속·민간신앙과 디오라마"
+   ],
+   "recommended_season": {
+    "text": "연중",
+    "reason": "실내에서 남도 생활문화의 여러 주제를 비교할 수 있다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "의식주 자료를 먼저 보고 놀이·풍속 전시로 연결하면 생활 맥락을 이해하기 쉽다.",
+    "실물 유물과 과거 생활을 재현한 모형을 구분해 본다.",
+    "전시실 층별 구성이 바뀔 수 있으므로 입구 안내도를 확인한다."
+   ],
+   "visit_tips_basis": "editorial_inference_from_verified_features",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=77611",
+     "title": "VISITKOREA — Gwangju History & Folk Museum",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "의식주·생업·공예 관련 생활문화 전시|놀이·세시풍속·민간신앙과 디오라마"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 직전 운영기관 공지 재확인. null은 무료나 예약 불필요를 뜻하지 않음."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "공식 관광 상세는 과거 전시체계를 포함할 수 있어 특정 층 배치·영상 설비 수를 고정하지 않았다.",
+   "baseline_relation": "new_independent_place_extension",
+   "administrative_note": "기존 17권역 호환 분류. 공식 주소의 광주·전남 행정명 변경 표기는 별도 검증 대상.",
+   "document_path": "korea-travel/05_전라/광주역사민속박물관.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

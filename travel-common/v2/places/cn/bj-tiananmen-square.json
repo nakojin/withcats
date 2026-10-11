@@ -1,0 +1,186 @@
+{
+ "id": "bj-tiananmen-square",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "톈안먼 광장",
+  "local": "天安门广场"
+ },
+ "admin_region": "베이징시",
+ "former_region": null,
+ "city": "베이징",
+ "address": null,
+ "coord": {
+  "lat": 39.902722,
+  "lng": 116.391441,
+  "geo_type": "point",
+  "precision": "place",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "relation/941596"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "bj-tiananmen-square",
+   "name_ko": "톈안먼 광장",
+   "name_local": "天安门广场",
+   "city": "베이징",
+   "province": "베이징시",
+   "region": "베이징",
+   "destination_cluster": "베이징",
+   "category": "도시광장·근현대사",
+   "description": "베이징 중축선의 대형 광장으로 주변 국가박물관·인민대회당 등과 함께 수도의 공간 구성을 볼 수 있다. 광장 방문, 성루, 고궁은 같은 예약으로 묶인다고 가정하면 안 된다.",
+   "best_time": {
+    "period": "이른 아침 또는 늦은 오후",
+    "reason": "넓고 그늘이 적은 광장의 한낮 이동 부담을 줄이기 좋다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "시정부 안내 05:00~22:00; 행사·보안 통제 별도.",
+    "price": "무료",
+    "currency": "CNY",
+    "reservation": "시정부는 天安门广场预约参观 등 예약 채널을 안내. 외국인 세부 절차는 운영자 직접 미확인.",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260325_4566110.html",
+     "title": "베이징시 Tian’anmen Square",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "위치",
+      "운영시간",
+      "무료",
+      "예약 채널"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "외국인 여권 예약과 현장 접근 절차",
+    "국기게양 시각",
+    "당일 보안 통제"
+   ],
+   "status": "operations_reconfirmation_needed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "핵심 정성 수요 확인",
+   "collection_group": "history",
+   "highlights": [
+    "중축선 공간",
+    "톈안먼 방향 조망",
+    "광장 주변 국가기관 건축"
+   ],
+   "visit_tips": [
+    "보안검사 시간을 따로 잡는다",
+    "광장 예약과 고궁 예약을 구분한다",
+    "행사로 인한 접근 통제를 방문 전 확인한다"
+   ],
+   "original_region": "화북",
+   "selection_region_id": "beijing",
+   "selection_evidence_ids": [
+    "SEL03"
+   ],
+   "selection_scope_caution": "정량 도시순위 없음; 근교 장성은 연계권역.",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

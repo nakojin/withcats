@@ -1,0 +1,189 @@
+{
+ "id": "kr-gyeonggi-soyosan",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "소요산",
+  "local": "소요산"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "동두천시 소요동 일대",
+ "address": null,
+ "coord": {
+  "lat": 37.938516,
+  "lng": 127.087934,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/5379626566"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-soyosan",
+   "name_ko": "소요산",
+   "aliases": [
+    "동두천 소요산",
+    "소요산국민관광지"
+   ],
+   "region": "경기도",
+   "admin_region": "경기도",
+   "locality": "동두천시 소요동 일대",
+   "type": [
+    "산",
+    "등산",
+    "단풍"
+   ],
+   "highlights": [
+    "의상대·백운대·나한대·공주봉으로 이어지는 바위 봉우리와 계곡",
+    "자재암·원효폭포 등 설화가 깃든 명소와 봄 철쭉·가을 단풍"
+   ],
+   "recommended_season": {
+    "text": "가을, 봄",
+    "reason": "공식 관광 소개에서 강조하는 가을 단풍과 봄 진달래·철쭉을 기준으로 권한다. 절정 날짜는 매년 다르다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "자재암·원효폭포 중심의 관람과 백운대·칼바위 능선 산행을 구분해 체력과 남은 일조시간에 맞는 코스를 고른다.",
+    "백운대와 칼바위가 포함된 코스는 기암괴석 구간을 지나는 산행이므로 접지력 좋은 등산화를 준비하고 비·결빙 때는 현장 통제와 노면 상태를 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=8e155dd5-c9ed-4c3a-bb35-b44277eda513",
+     "title": "한국관광공사: 소요산국민관광지",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "동두천시 소요동 위치",
+      "봉우리·계곡",
+      "자재암·원효폭포",
+      "단풍·봄꽃"
+     ]
+    },
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/cs_detail_cos.do?cotid=ce39b0a8-e98d-4b5f-a5ba-d1a9c1868bc9",
+     "title": "한국관광공사: 몸과 마음을 깨우는 소요산 등반코스",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "자재암·백운대·칼바위·선녀탕 코스",
+      "기암괴석 산행 특성"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선·준비물 조언은 확인된 장소 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/02_인천경기/소요산.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "id": "kr-gyeonggi-ilsan-lake-park",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "일산호수공원",
+  "local": "일산호수공원"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "고양시 일산동구 호수로 595",
+ "address": null,
+ "coord": {
+  "lat": 37.65753,
+  "lng": 126.764231,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/32006947"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-ilsan-lake-park",
+   "name_ko": "일산호수공원",
+   "aliases": [],
+   "region": "경기도",
+   "admin_region": "경기도",
+   "locality": "고양시 일산동구 호수로 595",
+   "type": [
+    "호수공원",
+    "걷기"
+   ],
+   "highlights": [
+    "달맞이섬의 월파정은 호수를 내려다보는 정자다. 봄의 벚꽃·개나리와 함께 섬 주변을 살펴보기 좋다.",
+    "장미원, 연못·정자·기와담을 갖춘 전통정원, 생태를 관찰하는 자연학습원처럼 성격이 다른 공간이 호수 주변에 배치되어 있다.",
+    "애수교에서는 도시와 호수가 겹치는 풍경을, 한울광장 석계산 계단에서는 호수 위 낙조를 감상하도록 고양시가 소개한다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "꽃과 수목을 보며 야외 산책하기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "호수를 모두 도는 대신 꽃과 정원은 장미원·전통정원, 물가 전망은 달맞이섬·애수교처럼 관심 지점을 먼저 고른다.",
+    "장미는 시 안내에 5~6월 개화 경관으로 소개되지만 방문일 개화 상태는 기온에 따라 달라진다. 분수쇼도 상시 가동으로 가정하지 않고 별도 일정을 확인한다.",
+    "월파정과 작은 동산의 계단 구간, 평지 호숫길은 보행 부담이 다르다. 일몰을 보려면 귀가할 출입구와 거리를 밝을 때 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english1.visitkorea.or.kr/enu/ATR/SI_EN_3_6.jsp?cid=2495500",
+     "title": "VISITKOREA: Serenity Surrounding Seoul (2021)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    },
+    {
+     "url": "https://www.goyang.go.kr/park/park02/park02_1.jsp",
+     "title": "고양시 일산호수공원: 공원명소",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "월파정·달맞이섬",
+      "장미원·전통정원·자연학습원",
+      "애수교·한울광장 전망"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약 조건은 확정 수치로 수록하지 않음. 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "verification_scope": {
+    "confirmed": [
+     "명칭",
+     "시군구 이상 위치",
+     "본문에 명시된 시설·볼거리"
+    ],
+    "editorial": [
+     "추천 계절",
+     "시설 특성에 따른 동선·준비 조언"
+    ],
+    "pending": [
+     "방문일 요금",
+     "방문일 운영시간",
+     "변동성 예약·행사 조건"
+    ]
+   },
+   "document_path": "korea-travel/02_인천경기/일산호수공원.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

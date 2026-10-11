@@ -1,0 +1,174 @@
+{
+ "id": "central-033",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "가이유칸",
+  "local": "海遊館"
+ },
+ "admin_region": "오사카",
+ "former_region": null,
+ "city": "오사카시",
+ "address": null,
+ "coord": {
+  "lat": 34.65516,
+  "lng": 135.429391,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/4260333992"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-033",
+   "name_ko": "가이유칸",
+   "name_ja": "海遊館",
+   "region": "간사이",
+   "prefecture": "오사카",
+   "city": "오사카시",
+   "category": "수족관",
+   "description": "환태평양의 서로 다른 생태환경을 재현한 수족관이다. 고래상어가 있는 태평양 수조만 보는 대신 일본의 숲에서 심해로 내려가는 동선, 남극 펭귄과 산호초 전시를 비교하면 기획의 흐름이 보인다. 실내 중심이라 날씨가 나쁜 날의 대안으로도 적합하다.",
+   "highlights": [
+    "고래상어가 있는 태평양 수조",
+    "남극 펭귄 전시",
+    "일본의 숲에서 심해로 이어지는 동선"
+   ],
+   "best_time": "연중 실내 관람. 날짜별 요금과 혼잡을 비교해 선택한다.",
+   "visit_tips": [
+    "날짜·시간 지정 e티켓은 현장 매표 대기 단축에 도움이 된다.",
+    "백야드 프로그램은 일반 입장에 자동 포함되지 않으므로 별도 예약 여부를 확인한다.",
+    "급이·행사 시간이 목적이면 입장시간과 겹치지 않게 당일 표를 본다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.kaiyukan.com/about/beginner/",
+     "title": "가이유칸 はじめての海遊館",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "전시구성",
+      "e티켓",
+      "별도 체험"
+     ]
+    },
+    {
+     "url": "https://www.kaiyukan.com/info/ticket/kaiyukan/",
+     "title": "가이유칸 チケット",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "날짜별 변동요금"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 입장료·운영시간",
+    "급이 시간·백야드 가격·잔여좌석"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "운영자 확인: 가격변동제를 적용하며 날짜 클릭으로 요금·시간 확인. 열람된 본문에서 특정일 캘린더 금액이 추출되지 않아 정액을 기재하지 않음."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

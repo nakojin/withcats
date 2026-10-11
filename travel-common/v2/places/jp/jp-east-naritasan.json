@@ -1,0 +1,205 @@
+{
+ "id": "jp-east-naritasan",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "나리타산 신쇼지",
+  "local": "成田山新勝寺"
+ },
+ "admin_region": "지바",
+ "former_region": null,
+ "city": "나리타시",
+ "address": null,
+ "coord": {
+  "lat": 35.786331,
+  "lng": 140.317224,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/273746634"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-naritasan",
+   "name_ko": "나리타산 신쇼지",
+   "name_ja": "成田山新勝寺",
+   "region": "간토",
+   "prefecture": "지바",
+   "city": "나리타시",
+   "category": "사찰·공원",
+   "description": "940년으로 거슬러 올라가는 진언종 사찰이다. 오모테산도 상점가를 지나 대본당·삼층탑 등 장식이 풍부한 건축을 보고, 뒤편 나리타산 공원의 연못과 숲길로 이어갈 수 있다. 공항 근처라는 이유만으로 짧게 잡기에는 경내가 넓다.",
+   "highlights": [
+    "대본당과 고마 기도의 종교 공간",
+    "장식이 풍부한 삼층탑",
+    "나리타산 공원 연못과 숲길"
+   ],
+   "best_time": "봄·가을에는 참배와 공원 산책을 함께 하기 좋다. 정월과 큰 축제 때는 혼잡을 전제로 한다.",
+   "visit_tips": [
+    "공항 환승 중이라면 입국·재출국 수속과 공항 복귀 시간을 먼저 확보한다.",
+    "JR 나리타역 또는 게이세이나리타역에서 상점가 도보를 포함한다.",
+    "기도 의식은 관람 공연처럼 다루지 말고 현장 예절·촬영 안내를 따른다."
+   ],
+   "hours_and_fees": {
+    "hours": "아침 고마 4~9월 05:30, 10~3월 06:00. 낮 고마는 매일 09:00~15:00 사이 정시(시간표는 월·평일/주말·공휴일/28일 연일에 따라 상이)",
+    "fees": null,
+    "conditions": "고마 기도 접수 시각은 공식 페이지에 기재 없음(\"時間に余裕をもって御護摩受付所へお越しください\"). 고마 소요 약 30분. 고마료 5천엔/1만엔/2만엔, 특별대호마료 3만엔/5만엔/10만엔 이상. 결혼식 등으로 시간 변경 가능, 절분회(입춘 전날)는 시간 상이, 12/13 매연(煤払い)으로 6시 고마 중지. 대본당은 누구나 올라가 참배 가능, 대본당 맞은편 무료 휴게소 있음. 부속 서도미술관: 09:00–16:00(입관 15:30까지), 월요일 휴관(월요일이 공휴일이면 다음날), 현행 대인 500엔·고교대학생 300엔·초중생 무료, 2026/10/20부터 일반 800엔(단체 10명 이상 500엔), 고교생 이하·18세 미만 무료.",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "경내 참배료(무료 여부 공식 명시 없음)",
+    "낮 고마의 시간대별 슬롯",
+    "건물별 개폐 시각",
+    "짐 보관"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1549/",
+     "title": "JNTO Naritasan Shinsho-ji Temple",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "940년 역사",
+      "전각·기도·공원",
+      "역과 공항 접근"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.naritasan.or.jp/pray/ogoma_shurui/",
+     "title": "お願いごと・祈祷時間など | 大本山成田山新勝寺",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.naritasan.or.jp/tour/hall/",
+     "title": "各御堂のご案内 | 大本山成田山新勝寺",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.naritasan.or.jp/tour/other/",
+     "title": "成田山公園・書道美術館のご案内 | 大本山成田山新勝寺",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "요금"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.naritasan.or.jp/about/qa/",
+     "title": "成田山Q&A | 大本山成田山新勝寺",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

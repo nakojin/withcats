@@ -1,0 +1,178 @@
+{
+ "id": "central-014",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "도진보 해안",
+  "local": "東尋坊"
+ },
+ "admin_region": "후쿠이",
+ "former_region": null,
+ "city": "사카이시",
+ "address": null,
+ "coord": {
+  "lat": 36.237887,
+  "lng": 136.125653,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/661995668"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-014",
+   "name_ko": "도진보 해안",
+   "name_ja": "東尋坊",
+   "region": "주부·호쿠리쿠",
+   "prefecture": "후쿠이",
+   "city": "사카이시",
+   "category": "해안·유람선",
+   "description": "기둥 모양으로 갈라진 암벽이 바다와 맞닿은 해안 명승이다. 육지에서는 절벽의 상단과 수평선을, 유람선에서는 암벽 아래를 올려다보는 각도를 경험한다. 바다 상태에 따라 배가 쉬거나 출발 장소가 달라지므로 산책과 승선을 분리해 계획하는 것이 안전하다.",
+   "highlights": [
+    "주상절리 해안",
+    "바다에서 올려다보는 암벽",
+    "약 30분 유람선 코스"
+   ],
+   "best_time": "파도가 잔잔한 날을 우선하는 편집 추천. 가을 저녁 풍경을 노린다면 별도 석양편 운항 여부를 확인한다.",
+   "visit_tips": [
+    "승선장까지 계단이 있어 편한 신발을 신는다.",
+    "당일 결항뿐 아니라 승선장 변경도 확인한다.",
+    "절벽 가장자리에서는 사진을 위해 난간 없는 바위 끝으로 접근하지 않는다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.toujinbou-yuransen.jp/about/",
+     "title": "도진보 유람선: 運航・料金案内",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "운항시간",
+      "휴항",
+      "최신 일반요금",
+      "승선장 변경"
+     ]
+    },
+    {
+     "url": "https://www.toujinbou-yuransen.jp/en/",
+     "title": "Tojinbo Sightseeing Boats: English",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "해안 특징",
+      "30분 코스",
+      "영문 구요금"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "해안 산책 구역 전체의 개방시간",
+    "유람선 영문요금 상충",
+    "당일 운항·승선장"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "유람선 4~10월 9:00~16:00, 11~3월 9:00~15:30, 접수 5분 전 종료. 수요일·12/29~1/31 휴항. 일본어 운영자 일반요금 중학생 이상 2,000엔·초등학생 1,000엔. 영어 페이지 1,800/900엔과 달라 일본어 원문 우선."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

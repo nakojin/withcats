@@ -1,0 +1,165 @@
+{
+ "id": "jp-east-zuiganji",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "즈이간지",
+  "local": "瑞巌寺"
+ },
+ "admin_region": "미야기",
+ "former_region": null,
+ "city": "마쓰시마정",
+ "address": null,
+ "coord": {
+  "lat": 38.372176,
+  "lng": 141.059558,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/870453209"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-zuiganji",
+   "name_ko": "즈이간지",
+   "name_ja": "瑞巌寺",
+   "region": "도호쿠",
+   "prefecture": "미야기",
+   "city": "마쓰시마정",
+   "category": "사찰·미술",
+   "description": "다테 마사무네가 재건하여 1609년 완성한 사찰 건축을 중심으로 보는 곳이다. 국보 본당의 방마다 다른 그림·조각·천장과, 실용 건물인데도 장식이 화려한 구리를 비교하면 다테 가문의 취향이 드러난다.",
+   "highlights": [
+    "주제별 벽화와 천장이 있는 본당",
+    "구리 정면의 목구조·조각",
+    "세이류덴 보물관의 다테 관련 전시"
+   ],
+   "best_time": "실내 건축 감상이 핵심이라 연중 가능하다. 마쓰시마 해안 산책을 함께 하려면 온화한 봄·가을이 편리하다.",
+   "visit_tips": [
+    "마쓰시마카이간역과 마쓰시마역의 도보거리가 다르므로 역을 확인한다.",
+    "보물관이 입장에 포함된다는 안내를 활용해 본당만 보고 끝내지 않는다.",
+    "전용 주차장이 없으므로 주변 공영·민영 주차와 보행을 계획한다."
+   ],
+   "hours_and_fees": {
+    "details": "개인 고등학생 이상 1,000엔, 초·중학생 500엔. 08:30 개문. 폐문 1·12월15:30, 2·11월16:00, 3·10월16:30, 4~9월17:00; 접수는 각 30분 전까지. 보물관 포함.",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "보물관 당일 전시",
+    "내부 촬영 세부 규정"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.zuiganji.or.jp/english/",
+     "title": "Zuiganji official English guide",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "1609년 재건",
+      "국보 본당·구리",
+      "요금·시간·교통"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

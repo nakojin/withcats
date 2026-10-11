@@ -1,0 +1,165 @@
+{
+ "id": "central-009",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "겐로쿠엔",
+  "local": "兼六園"
+ },
+ "admin_region": "이시카와",
+ "former_region": null,
+ "city": "가나자와시",
+ "address": null,
+ "coord": {
+  "lat": 36.562427,
+  "lng": 136.662355,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/50288147"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-009",
+   "name_ko": "겐로쿠엔",
+   "name_ja": "兼六園",
+   "region": "주부·호쿠리쿠",
+   "prefecture": "이시카와",
+   "city": "가나자와시",
+   "category": "정원",
+   "description": "가나자와성 옆 높은 지대의 다이묘 정원이다. 마에다 가문이 대대로 가꾼 약 11.4ha 정원에서 큰 연못과 섬, 꽃·나무가 만들어내는 계절별 구도를 비교할 수 있다. 한 사진 지점에만 머무르기보다 물과 시야가 바뀌는 원내 산책을 권한다.",
+   "highlights": [
+    "가스미가이케 연못",
+    "호라이섬과 정원 구도",
+    "겨울 소나무 유키쓰리"
+   ],
+   "best_time": "봄 매화·벚꽃, 초여름 철쭉·붓꽃, 가을 단풍, 겨울 유키쓰리로 목적을 정한다.",
+   "visit_tips": [
+    "10/16부터 폐원시간이 앞당겨진다.",
+    "65세 이상 무료 혜택은 신분증이 필요하다.",
+    "가나자와성 공원 인접 입지를 활용하되 각 시설 입장권을 혼동하지 않는다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://visitkanazawa.jp/en/spot/detail_10106.html",
+     "title": "Visit Kanazawa: Kenrokuen Garden",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "정원 역사·면적",
+      "연못",
+      "계절경관",
+      "시간·요금"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "특별 무료개방·야간조명 일정"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "7:00~18:00, 10/16~2월 말 8:00~17:00. 연중. 성인 320엔, 6~17세 100엔, 65세 이상 신분증 제시 무료."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

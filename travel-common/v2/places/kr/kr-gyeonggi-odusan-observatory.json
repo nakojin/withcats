@@ -1,0 +1,193 @@
+{
+ "id": "kr-gyeonggi-odusan-observatory",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "오두산통일전망대",
+  "local": "오두산통일전망대"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "파주시 탄현면 필승로 369",
+ "address": null,
+ "coord": {
+  "lat": 37.773093,
+  "lng": 126.67701,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/550062653"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-odusan-observatory",
+   "name_ko": "오두산통일전망대",
+   "aliases": [],
+   "region": "경기도",
+   "admin_region": "경기도",
+   "locality": "파주시 탄현면 필승로 369",
+   "type": [
+    "전망대",
+    "역사전시"
+   ],
+   "highlights": [
+    "북한 지역 지형과 생활을 설명하는 전망실·XR망원경",
+    "분단 역사와 통일을 주제로 한 상설전시"
+   ],
+   "recommended_season": {
+    "text": "맑은 봄·가을",
+    "reason": "바깥 전망과 실내 전시를 함께 보기 좋으며 실제 시야는 날씨에 좌우된다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "1층 전시와 3층 전망실을 함께 보면 강 건너 풍경의 역사적 맥락을 이해하기 쉽다.",
+    "공식 안내상 민간인통제구역에 있으므로 입장·퇴장 시각을 지킨다. 흐린 날에는 설명영상과 XR망원경 관람을 중심으로 계획한다."
+   ],
+   "sources": [
+    {
+     "url": "https://jmd.co.kr/facilities/facilities04.asp",
+     "title": "오두산통일전망대: 3층 전망실·XR망원경",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    },
+    {
+     "url": "https://jmd.co.kr/facilities/facilities02.asp",
+     "title": "오두산통일전망대: 1층 상설전시",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "전시 또는 관람 유의사항",
+      "위치"
+     ]
+    },
+    {
+     "url": "https://jmd.co.kr/information/info01.asp",
+     "title": "오두산통일전망대: 관람안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "전시 또는 관람 유의사항",
+      "위치"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약 조건은 확정 수치로 수록하지 않음. 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/02_인천경기/오두산통일전망대.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "id": "kr-busan-un-memorial-cemetery",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "재한유엔기념공원",
+  "local": "재한유엔기념공원"
+ },
+ "admin_region": "부산광역시",
+ "former_region": null,
+ "city": "남구 유엔평화로 93",
+ "address": null,
+ "coord": {
+  "lat": 35.127682,
+  "lng": 129.097664,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/476626810"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-busan-un-memorial-cemetery",
+   "name_ko": "재한유엔기념공원",
+   "aliases": [],
+   "region": "부산광역시",
+   "admin_region": "부산광역시",
+   "locality": "남구 유엔평화로 93",
+   "type": [
+    "추모",
+    "역사"
+   ],
+   "highlights": [
+    "유엔군 묘역과 추모명비",
+    "추모관·기념관·무명용사의 길"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "야외 추모 공간을 차분하게 걸어 보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "기념관 설명과 묘역을 연결해 전쟁과 참전자의 역사를 읽는다.",
+    "묘역에서는 정숙하고 추모객의 촬영·동선을 방해하지 않는다.",
+    "실내 추모 시설의 공개 범위는 현장 안내를 따른다."
+   ],
+   "visit_tips_basis": "editorial_inference_from_verified_features",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=108608",
+     "title": "VISITKOREA — UN Memorial Cemetery",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "유엔군 묘역과 추모명비|추모관·기념관·무명용사의 길"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 직전 운영기관 공지 재확인. null은 무료나 예약 불필요를 뜻하지 않음."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "안장 인원·국가 수는 변동 가능해 고정하지 않았다. 인접 유엔조각공원을 별도 신규로 세지 않는다.",
+   "baseline_relation": "new_independent_place_extension",
+   "administrative_note": "",
+   "document_path": "korea-travel/07_경남부산울산/재한유엔기념공원.md",
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

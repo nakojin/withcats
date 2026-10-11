@@ -1,0 +1,186 @@
+{
+ "id": "bj-temple-heaven",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "천단공원",
+  "local": "天坛公园"
+ },
+ "admin_region": "베이징시",
+ "former_region": null,
+ "city": "베이징",
+ "address": null,
+ "coord": {
+  "lat": 39.879907,
+  "lng": 116.402872,
+  "geo_type": "point",
+  "precision": "place",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "way/24824550"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "bj-temple-heaven",
+   "name_ko": "천단공원",
+   "name_local": "天坛公园",
+   "city": "베이징",
+   "province": "베이징시",
+   "region": "베이징",
+   "destination_cluster": "베이징",
+   "category": "제례유산·공원",
+   "description": "명·청 황제가 하늘에 제사를 지내고 풍년을 빌던 제례 공간이다. 공원 입장과 기년전 등 핵심 건축 관람은 권종과 시간이 달라 건축 중심이라면 통합권 범위를 살펴야 한다.",
+   "best_time": {
+    "period": "봄·가을 오전",
+    "reason": "넓은 제례 축선을 걷고 건축을 살펴보기 편한 시간대다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "공원 4~10월 06:00~22:00, 11~3월 06:30~22:00; 입장마감 21:00. 주요 전각 4~10월 08:00~18:00(17:30 마감), 11~3월 08:00~17:00(16:30 마감), 월요일 휴관(공휴일 예외).",
+    "price": "입장 15/10(성·비수기), 통합 34/28",
+    "currency": "CNY",
+    "reservation": "시정부 안내에는 여권으로 공식 위챗 예약 가능. 운영자 예약 화면은 미검증.",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://english.beijing.gov.cn/specials/parktours/guidevisitors/templeofheaven/index.html",
+     "title": "베이징시 Temple of Heaven",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "제례 기능",
+      "주요 건축",
+      "시간",
+      "요금",
+      "정부의 여권 예약 안내"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "외국인 예약·현장입장 운영자 직접 근거 미확보",
+    "결제수단"
+   ],
+   "status": "operations_reconfirmation_needed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "핵심 정성 수요 확인",
+   "collection_group": "history",
+   "highlights": [
+    "기년전",
+    "원구단",
+    "황궁우와 회음벽"
+   ],
+   "visit_tips": [
+    "공원 폐장시각을 전각 운영시간으로 착각하지 않는다",
+    "월요일 핵심 전각 휴관을 확인한다",
+    "동문은 지하철 5호선 접근이 가능하다"
+   ],
+   "original_region": "화북",
+   "selection_region_id": "beijing",
+   "selection_evidence_ids": [
+    "SEL03"
+   ],
+   "selection_scope_caution": "정량 도시순위 없음; 근교 장성은 연계권역.",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

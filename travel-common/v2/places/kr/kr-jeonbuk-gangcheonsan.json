@@ -1,0 +1,179 @@
+{
+ "id": "kr-jeonbuk-gangcheonsan",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "순창 강천산군립공원",
+  "local": "순창 강천산군립공원"
+ },
+ "admin_region": "전북특별자치도",
+ "former_region": null,
+ "city": "순창군 팔덕면",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonbuk-gangcheonsan",
+   "name_ko": "순창 강천산군립공원",
+   "aliases": [],
+   "region": "전북특별자치도",
+   "admin_region": "전북특별자치도",
+   "locality": "순창군 팔덕면",
+   "type": [
+    "산",
+    "계곡"
+   ],
+   "highlights": [
+    "병풍바위에 조성된 병풍폭포",
+    "강천사·현수교·구장군폭포로 이어지는 계곡 경관"
+   ],
+   "recommended_season": {
+    "text": "가을",
+    "reason": "단풍과 계곡의 대비를 보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "정상 등산 대신 병풍폭포·강천사·구장군폭포를 잇는 계곡 관람으로 동선을 잡을 수 있다.",
+    "현수교로 오르는 계단은 계곡길과 달리 좁고 가파른 구간이 있어 보행 여건에 맞춰 선택한다.",
+    "병풍폭포와 구장군폭포는 인공 폭포이며 물줄기와 시설 개방은 당일 상황을 확인한다."
+   ],
+   "visit_tips_basis": "editorial_inference_from_verified_features",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=177&vcontsId=145437",
+     "title": "VISITKOREA — 100 Must-Visit Tourist Spots of Korea: Gangcheonsan",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "협곡·기암·절벽 경관|계절에 따라 달라지는 폭포와 단풍"
+    },
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=a038daca-dda3-45e3-a0fa-af3a0c2f4de8",
+     "title": "대한민국 구석구석 — 고추장보다 빨간 단풍 여행, 순창 강천산",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "구체 볼거리",
+      "방문 동선 및 제한"
+     ],
+     "evidence_summary": "병풍바위에 조성된 병풍폭포; 강천사·현수교·구장군폭포로 이어지는 계곡 경관"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 직전 운영기관 공지 재확인. null은 무료나 예약 불필요를 뜻하지 않음."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "2020년 기사에서 지형·시설 배치만 활용했다. 당시 교통·영업·고정 소요시간은 쓰지 않았다.",
+   "baseline_relation": "new_independent_place_extension",
+   "administrative_note": "",
+   "document_path": "korea-travel/05_전라/순창 강천산군립공원.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

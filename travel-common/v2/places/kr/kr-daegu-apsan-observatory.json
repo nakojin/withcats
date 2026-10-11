@@ -1,0 +1,167 @@
+{
+ "id": "kr-daegu-apsan-observatory",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "앞산 전망대·케이블카",
+  "local": "앞산 전망대·케이블카"
+ },
+ "admin_region": "대구광역시",
+ "former_region": null,
+ "city": "남구 앞산순환로 574-114",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-daegu-apsan-observatory",
+   "name_ko": "앞산 전망대·케이블카",
+   "aliases": [],
+   "region": "대구광역시",
+   "admin_region": "대구광역시",
+   "locality": "남구 앞산순환로 574-114",
+   "type": [
+    "전망대",
+    "케이블카"
+   ],
+   "highlights": [
+    "대구 도심 파노라마",
+    "도시와 산을 연결하는 전망대 건축"
+   ],
+   "recommended_season": {
+    "text": "맑은 봄·가을",
+    "reason": "시야가 좋은 날 도시 지형을 보기 적합하다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "케이블카 운행과 전망대 체류 시간을 나눠 계획한다.",
+    "일몰 관람을 택한다면 내려오는 마지막 운행부터 확인한다.",
+    "앞산빨래터공원의 해넘이전망대와 위치가 다른 시설이다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=68080",
+     "title": "VISITKOREA — Apsan Cable Car (Apsan Observatory)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "대구 도심 파노라마; 도시와 산을 연결하는 전망대 건축"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "산 전체나 해넘이전망대를 중복 추가하지 않았다. 기상에 따른 운휴는 미확인이다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/06_경북대구/앞산 전망대·케이블카.md",
+   "editorial_region": "06_경북대구",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "id": "bj-798",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "798·751 예술구",
+  "local": "798·751园区"
+ },
+ "admin_region": "베이징시",
+ "former_region": null,
+ "city": "베이징",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "bj-798",
+   "name_ko": "798·751 예술구",
+   "name_local": "798·751园区",
+   "city": "베이징",
+   "province": "베이징시",
+   "region": "베이징",
+   "destination_cluster": "베이징",
+   "category": "현대예술·산업유산",
+   "description": "갤러리와 디자인·문화 공간이 모인 예술 지구다. 거리 산책과 특정 전시 방문을 분리해 생각하면 휴관·유료전시 때문에 일정이 틀어지는 일을 줄일 수 있다.",
+   "best_time": {
+    "period": "평일 낮~오후",
+    "reason": "실내 전시가 운영되는 시간에 맞춰 방문하기 좋다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "지구 공용공간 종일; 개별 시설 시간 별도.",
+    "price": "지구 입장 무료, 전시·행사는 별도",
+    "currency": "CNY",
+    "reservation": "전시별 예약·구매 조건 상이. 외국인 예약·결제는 각 전시 운영자 확인 필요.",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260323_4563864.html",
+     "title": "베이징시 798·751 Zone",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "시설 성격",
+      "공용공간 시간",
+      "무료와 유료전시 구분"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "개별 전시 일정·요금",
+    "외국인 예약·결제"
+   ],
+   "status": "operations_reconfirmation_needed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "핵심 정성 수요 확인",
+   "collection_group": "history",
+   "highlights": [
+    "갤러리 탐방",
+    "디자인 공간",
+    "문화·예술 행사"
+   ],
+   "visit_tips": [
+    "거리 무료입장과 개별 전시 유료입장을 구분한다",
+    "보고 싶은 전시의 개별 운영일을 확인한다",
+    "공원 전체를 24시간 전시공간으로 해석하지 않는다"
+   ],
+   "original_region": "화북",
+   "selection_region_id": "beijing",
+   "selection_evidence_ids": [
+    "SEL03"
+   ],
+   "selection_scope_caution": "정량 도시순위 없음; 근교 장성은 연계권역.",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

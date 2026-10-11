@@ -1,0 +1,221 @@
+{
+ "id": "kr-chungbuk-cheongju-national-museum",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "국립청주박물관",
+  "local": "국립청주박물관"
+ },
+ "admin_region": "충청북도",
+ "former_region": null,
+ "city": "청주시 상당구 명암로 143",
+ "address": null,
+ "coord": {
+  "lat": 36.649249,
+  "lng": 127.512094,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/368734079"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-chungbuk-cheongju-national-museum",
+   "name_ko": "국립청주박물관",
+   "aliases": [],
+   "region": "충청북도",
+   "admin_region": "충청북도",
+   "locality": "청주시 상당구 명암로 143",
+   "type": [
+    "박물관"
+   ],
+   "highlights": [
+    "석기에서 금속으로 바뀌는 생활을 다루는 고고실",
+    "청동기의 제작·권력·생활도구 변화 전시"
+   ],
+   "recommended_season": {
+    "text": "사계절",
+    "reason": "실내 문화유산 관람을 중심으로 계획할 수 있다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "고고실에서는 석기와 청동기의 쓰임을 비교하며 관람한다.",
+    "2026-10-10 확인 기준 미술실·금관실은 9월 29일~12월 27일 휴실 예정이며 고고실 등은 관람 가능하다. 별관 공사로 출입 제한 구역이 있으므로 현장 안내를 따른다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=220",
+     "title": "VISITKOREA: Cheongju, a City Full of Charms",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    },
+    {
+     "url": "https://cheongju.museum.go.kr/www/contents.do?key=750&nbar=g",
+     "title": "국립청주박물관: 고고, 금속으로 변화된 삶",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "구체적 볼거리",
+      "방문 동선의 근거",
+      "위치"
+     ]
+    },
+    {
+     "url": "https://cheongju.museum.go.kr/www/index.do",
+     "title": "국립청주박물관: 미술실·금관실 임시 휴실 및 공사 안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "구체적 볼거리",
+      "방문 동선의 근거",
+      "위치"
+     ]
+    },
+    {
+     "url": "https://cheongju.museum.go.kr/www/selectBbsNttView.do?bbsNo=1&integrDeptCode=&key=482&nttNo=12343&pageIndex=1&searchCnd=all&searchCtgry=&searchKrwd=",
+     "title": "국립청주박물관 미술실·금관실 휴실 알림",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "구체적 볼거리",
+      "방문 동선의 근거",
+      "위치"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "2026-10-10 확인: 미술실·금관실 2026-09-29~12-27 임시 휴실, 12-29 재개관 예정. 고고실 등 관람 가능. 별관 공사 출입 제한 구역 있음. 예정 일정 변경 가능."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "verification_scope": {
+    "confirmed": [
+     "명칭",
+     "시군구 이상 위치",
+     "본문에 명시된 시설·볼거리"
+    ],
+    "editorial": [
+     "추천 계절",
+     "시설 특성에 따른 동선·준비 조언"
+    ],
+    "pending": [
+     "방문일 요금",
+     "방문일 운영시간",
+     "변동성 예약·행사 조건"
+    ]
+   },
+   "document_path": "korea-travel/04_충청/국립청주박물관.md",
+   "editorial_region": "04_충청",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

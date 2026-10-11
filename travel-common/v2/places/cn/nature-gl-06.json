@@ -1,0 +1,199 @@
+{
+ "id": "nature-gl-06",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "첩채산",
+  "local": "叠彩山"
+ },
+ "admin_region": "광시좡족자치구",
+ "former_region": null,
+ "city": "구이린",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-gl-06",
+   "name_ko": "첩채산",
+   "name_local": "叠彩山",
+   "city": "구이린",
+   "province": "광시좡족자치구",
+   "region": "구이린·양숴",
+   "destination_cluster": "구이린·양숴",
+   "category": "도심 산·전망",
+   "description": "높은 곳에서 구이린 시가지와 강을 함께 내려다보는 도심 전망 명소다. 색이 다른 암석 층과 중턱 풍동의 석각이 산행에 인문 요소를 더한다. 인접한 복파산과 같은 소개 페이지에 실려 있지만 개별 산과 동선은 다르다.",
+   "best_time": {
+    "period": "맑은 날의 오전",
+    "reason": "도시와 강의 조망이 좋아야 방문 가치가 살아난다는 편집 추천이다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "07:00–18:30, 18:00 이후 입장 중단",
+    "fees": "현재 개별·묶음표 요금 미확인",
+    "reservation": "9월 선학봉 통제는 공지상 이미 종료 예정인 단기 보수였다. 10월10일 현장 상태는 별도 미확인"
+   },
+   "sources": [
+    {
+     "url": "https://www.glljsh.com/zh/category/dcfb.html",
+     "title": "운영자: 복파산·첩채산 소개",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "복파산 환주동과 역사 유물",
+      "첩채산 전망과 풍동 석각"
+     ]
+    },
+    {
+     "url": "https://www.glljsh.com/",
+     "title": "구이린 양강사호·상산 운영자 홈페이지",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "상산 07:00–21:00",
+      "복파·첩채산 07:00–18:30/18:00 입장마감",
+      "유람선 판매시간"
+     ]
+    },
+    {
+     "url": "https://www.glljsh.com/zh/post/01m2s1rs5www5gttffwb6p5fkf.html",
+     "title": "운영자: 선학봉 임시 통제 공지",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "2026-09-19 16:00부터 일시 통제, 9월20일 07:00 재개 예정"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": "guilin-liangjiang-sihu-xiangshan",
+   "counting_scope": "개별 방문 목적지 1곳; 내부 포인트는 추가 집계하지 않음",
+   "selection_tier": "광역 수요 기반 자연관광 확장",
+   "collection_group": "nature",
+   "highlights": [
+    "명월봉 시내 전망",
+    "풍동",
+    "바위벽 석각"
+   ],
+   "visit_tips": [
+    "여러 봉우리를 모두 오르기보다 체력에 맞는 전망대를 고른다",
+    "국지적인 길 보수 공지를 확인한다",
+    "2026-09-19 일시 통제 공지를 현재 전면 폐쇄로 오해하지 않는다"
+   ],
+   "parent_label": "양강사호·상산 상위 관광 브랜드",
+   "counting_note": "개별 방문 목적지 1곳; 내부 포인트는 추가 집계하지 않음",
+   "original_region": "구이린·양숴",
+   "selection_region_id": "guilin_yangshuo",
+   "selection_evidence_ids": [
+    "SEL09",
+    "SEL10"
+   ],
+   "selection_scope_caution": "광시 통계를 구이린·양숴 수치로 전환 금지. 개별 명소 선호는 별도 확인 필요.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

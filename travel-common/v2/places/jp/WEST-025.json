@@ -1,0 +1,177 @@
+{
+ "id": "WEST-025",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "사다 침하교",
+  "local": "佐田沈下橋"
+ },
+ "admin_region": "고치",
+ "former_region": null,
+ "city": "시만토시",
+ "address": null,
+ "coord": {
+  "lat": 33.015432,
+  "lng": 132.885949,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/4472139789"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-025",
+   "name_ko": "사다 침하교",
+   "name_ja": "佐田沈下橋",
+   "region": "시코쿠",
+   "prefecture": "고치",
+   "city": "시만토시",
+   "category": "하천·생활유산",
+   "description": "시만토강 하류의 난간 없는 다리로, 홍수 때 물속에 잠기는 구조가 특징이다. 지금도 생활도로이므로 사진을 찍는 방문객과 지역 교통이 같은 공간을 사용한다.",
+   "highlights": [
+    "난간 없는 낮은 교면",
+    "시만토강의 넓은 흐름",
+    "강과 마을산이 겹친 풍경"
+   ],
+   "best_time": "강 수위가 안정된 맑은날 낮.비가 오거나 물이 불어난 날은 접근을 피한다.",
+   "visit_tips": [
+    "차량 통행을 방해하지 않는다",
+    "난간이 없어 가장자리 사진촬영을 피한다",
+    "시내에서441번국도를 이용하고 지정주차장에 세운다"
+   ],
+   "hours_and_fees": {
+    "hours": "개방시간 미기재,기상·수위에 따른 통제 확인",
+    "fees": "관람무료,지정주차장무료",
+    "conditions": "생활도로이며 안전한 통행이 우선",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://kochi-tabi.jp/search_spot.html?ID=709",
+     "title": "고치현 공식: 사다침하교",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "구조",
+      "생활도로",
+      "요금"
+     ]
+    },
+    {
+     "url": "https://www.shimanto-kankou.com/travel",
+     "title": "시만토시관광협회 교통안내",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "국도441",
+      "무료주차장"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 통행규제",
+    "야간조명"
+   ],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

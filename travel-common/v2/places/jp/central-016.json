@@ -1,0 +1,165 @@
+{
+ "id": "central-016",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "다카야마 진야",
+  "local": "高山陣屋"
+ },
+ "admin_region": "기후",
+ "former_region": null,
+ "city": "다카야마시",
+ "address": null,
+ "coord": {
+  "lat": 36.139692,
+  "lng": 137.257618,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/240742820"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-016",
+   "name_ko": "다카야마 진야",
+   "name_ja": "高山陣屋",
+   "region": "주부·호쿠리쿠",
+   "prefecture": "기후",
+   "city": "다카야마시",
+   "category": "역사관청",
+   "description": "옛 관청 공간을 실내 동선으로 둘러보는 다카야마의 역사시설이다. 오래된 목조 건물의 방과 마당을 살펴보는 방문으로, 거리 풍경 중심의 구시가지 산책과 성격이 다르다. 실내에서는 신발을 벗어야 하므로 복장과 짐을 가볍게 준비한다.",
+   "highlights": [
+    "옛 관청 건축",
+    "목조 실내 동선",
+    "건물과 마당의 관계"
+   ],
+   "best_time": "연중 가능하며 겨울에는 폐관이 이르다. 비 오는 날 실내 관람을 중심으로 잡는 편집 제안이다.",
+   "visit_tips": [
+    "신발을 담을 봉투를 직접 가져간다.",
+    "무료 대상인 18세 이하는 학생증 등 증빙 요청에 대비한다.",
+    "폐관 30분 전 매표 종료이므로 구시가지 산책 뒤 너무 늦게 넣지 않는다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://jinya.gifu.jp/en/guide/info/",
+     "title": "Takayama Jinya: Opening Hours & Admission Fees",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "계절시간",
+      "요금·연령",
+      "휴관",
+      "신발봉투"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "건물별 상세 전시 해설과 최신 임시휴관 공지"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "4/1~10/31 8:45~17:00, 11/1~3/31 8:45~16:30. 매표 30분 전 종료. 12/29~1/3 휴관. 개인 500엔, 18세 이하 무료."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

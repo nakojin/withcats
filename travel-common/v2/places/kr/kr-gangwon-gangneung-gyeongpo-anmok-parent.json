@@ -1,0 +1,183 @@
+{
+ "id": "kr-gangwon-gangneung-gyeongpo-anmok-parent",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "강릉 경포·안목",
+  "local": "강릉 경포·안목"
+ },
+ "admin_region": "강원특별자치도",
+ "former_region": null,
+ "city": "강릉 경포·안목 및 오죽헌 연계권",
+ "address": null,
+ "coord": {
+  "lat": 37.775591,
+  "lng": 128.869904,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/473316085"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gangwon-gangneung-gyeongpo-anmok-parent",
+   "name_ko": "강릉 경포·안목",
+   "region": "강원",
+   "admin_region": "강원특별자치도",
+   "locality": "강릉 경포·안목 및 오죽헌 연계권",
+   "type": [
+    "부모관광권",
+    "호수",
+    "해변",
+    "커피"
+   ],
+   "highlights": [
+    "안목은 강릉항 가까운 해변을 따라 카페가 모여 있는 곳이다. 커피자판기에서 카페거리로 이어진 배경을 알고 바다와 커피를 함께 즐긴다.",
+    "경포대에서는 경포호 조망과 누각 안 현판을 함께 본다. 경포호는 바닷가 석호이며 호숫가 산책과 해변 산책의 풍경이 다르다.",
+    "오죽헌은 신사임당과 율곡 이이의 생가 공간이다. 검은 대나무와 몽룡실·문성사를 중심으로 보면 단순한 기념사진보다 건물의 의미가 잘 드러난다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을의 산책하기 편한 날, 여름은 해변과 카페 위주",
+    "reason": "호수·누각·해변을 오가는 야외 동선의 특성을 고려한 편집 추천이다. 수영 가능 기간은 별도 확인한다.",
+    "basis": "editorial_recommendation_based_on_verified_features"
+   },
+   "visit_tips": [
+    "한국관광공사 코스는 안목→경포대→오죽헌을 첫날 일정으로 제시한다. 서로 붙어 있는 한 시설이 아니므로 이동 구간을 따로 잡는다.",
+    "경포대는 낮은 언덕의 오름길·계단이 있어 호숫가 산책과 접근 난도가 다르다. 동행자의 보행 여건에 따라 선택한다.",
+    "오죽헌 실내 전시공간과 안목의 개별 카페는 운영시간이 다르다. 바다를 먼저 볼지 전시를 먼저 볼지 당일 마감시간에 맞춰 정한다."
+   ],
+   "operational": {
+    "notes": [
+     "근거 여행기사는 2023년 작성 자료로 경관·동선 이해에 사용했다. 그 안의 과거 요금·카페 가격·열차 및 버스 시간은 현행 수치로 재사용하지 않았다."
+    ]
+   },
+   "unverified_items": [
+    "오죽헌 현행 요금·매표마감·명절 운영",
+    "경포 벚꽃축제 최신 일정",
+    "경포대 보물과 경포호 명승의 별도 국가유산 지정 상세",
+    "구간별 대중교통·주차료"
+   ],
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/cos/detail.do?cotId=fbaf1a47-ebd9-4e3a-ad13-c835086b39e5",
+     "title": "한국관광공사 열린관광: 다시, 낭만에 관하여",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "안목·경포대·경포호·오죽헌 경관과 접근 형태, 첫날 연계 코스"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/03_강원/강릉 경포·안목.md",
+   "document_path": "korea-travel/03_강원/강릉 경포·안목.md",
+   "path": "korea-travel/03_강원/강릉 경포·안목.md",
+   "count_as_independent": false,
+   "relation_type": "parent_reference",
+   "relation_note": "복합 부모 관광권. 기존 경포대·오죽헌 개별 레코드와 중복 집계하지 않는다.",
+   "related_catalog_ids": [
+    "kr-gangwon-gyeongpodae",
+    "kr-gangwon-ojukheon"
+   ],
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification",
+   "editorial_region": "03_강원"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

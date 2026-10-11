@@ -1,0 +1,201 @@
+{
+ "id": "east-qd-03",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "오사광장",
+  "local": "五四广场"
+ },
+ "admin_region": "산둥성",
+ "former_region": null,
+ "city": "칭다오",
+ "address": null,
+ "coord": {
+  "lat": 37.371647,
+  "lng": 118.022634,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "way/146238522"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "east-qd-03",
+   "name_ko": "오사광장",
+   "name_local": "五四广场",
+   "city": "칭다오",
+   "province": "산둥성",
+   "region": "칭다오",
+   "category": "도시광장·해안",
+   "description": "붉은 나선형 조각 5월의 바람을 중심으로 바다를 바라보는 기념광장이다. 조각과 주변 도시경관을 보고 해안 산책을 이어 가는 짧은 방문에 알맞다.",
+   "best_time": {
+    "period": "늦은 오후~초저녁",
+    "reason": "조각과 해안 풍경을 다른 빛에서 비교하기 좋다.",
+    "basis": "편집상 권장; 개화·날씨·혼잡 및 운영 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "timezone": "Asia/Shanghai",
+    "hours": "확인한 공식 본문에 운영시간 없음",
+    "price_cny": "공식 요금 미확인",
+    "reservation": "공식 예약조건 미확인",
+    "foreign_passport": "외국인 여권 예약·입장 상세 미확인",
+    "payment": "결제수단 미확인",
+    "validity_note": "조회일은 본문 열람일이며 방문일 실시간 운영 확인일이 아님"
+   },
+   "sources": [
+    {
+     "url": "https://www.qdseaside.cn/mobile/about.asp?id=1",
+     "title": "青岛海滨风景区 景区总览",
+     "checked_at": "2026-10-10",
+     "verification": "공식 본문 열람 확인; 최신 현장운영 보증 아님",
+     "supported_facts": [
+      "광장 성격",
+      "5월의 바람"
+     ]
+    },
+    {
+     "url": "https://www.qdseaside.cn/mobile/new.asp?Sortid=24&id=703",
+     "title": "五四广场景区游览须知",
+     "checked_at": "2026-10-10",
+     "verification": "운영기관 2026-08-19 공지 본문 확인",
+     "supported_facts": [
+      "해안 안전",
+      "무허가 드론 제한"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 임시휴업·행사 통제",
+    "외국인 여권 예약 및 현장처리",
+    "해외카드·모바일 결제 가능 여부",
+    "방문일 성인 요금 및 상품 포함내역",
+    "운영시간·최종 입장시간",
+    "사전예약 필요 여부"
+   ],
+   "selection_tier": "핵심 수요 확인",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "collection_group": "east",
+   "highlights": [
+    "5월의 바람 조각",
+    "해안 조망",
+    "기념광장 구성"
+   ],
+   "visit_tips": [
+    "45~90분을 편집상 권장한다.",
+    "조명쇼 시각은 이번 확인에서 확보하지 못해 별도 확인한다.",
+    "2026년 안내에 따라 큰 파도 때 해안·바위에 접근하지 않고 무허가 드론을 띄우지 않는다."
+   ],
+   "destination_cluster": "칭다오",
+   "original_region": "중국 동부",
+   "selection_region_id": "qingdao",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL02",
+    "SEL03"
+   ],
+   "selection_scope_caution": "한국인 전체 순위 없음.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

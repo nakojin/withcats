@@ -1,0 +1,178 @@
+{
+ "id": "nature-gl-07",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "노적암",
+  "local": "芦笛岩"
+ },
+ "admin_region": "광시좡족자치구",
+ "former_region": null,
+ "city": "구이린",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-gl-07",
+   "name_ko": "노적암",
+   "name_local": "芦笛岩",
+   "city": "구이린",
+   "province": "광시좡족자치구",
+   "region": "구이린·양숴",
+   "destination_cluster": "구이린·양숴",
+   "category": "석회동굴",
+   "description": "광명산 남쪽 산허리에 자리한 동굴로, 구이린의 야외 카르스트 산수와 지하 경관을 비교하며 볼 수 있다. 문화여유부 소개는 동굴 내부 관람 구간을 약 500m로 안내한다. 도심 산수·유람선만 이어지는 일정에 지형 관찰을 더할 때 적합하다.",
+   "best_time": {
+    "period": "연중; 주변 농촌까지 묶는다면 10월 중순–11월 중순 검토",
+    "reason": "문화여유부의 노적암 포함 가을 농촌 코스 추천 시기이며 동굴 자체의 유일한 최적기로 일반화하지 않는다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "미확인",
+    "fees": "미확인",
+    "reservation": "외국인 여권 예약·현장 발권·결제 수단 미확인"
+   },
+   "sources": [
+    {
+     "url": "https://zhuanti.mct.gov.cn/dhxlsfn2022/guangxi/detail/2391.html",
+     "title": "문화여유부: 금추도화향 여행 코스",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람 · 과거 자료, 현재 운영 재확인 필요",
+     "supported_facts": [
+      "노적암 위치·관람 구간 약500m",
+      "코스 추천 10월중순–11월중순"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "counting_scope": "개별 방문 목적지 1곳; 내부 포인트는 추가 집계하지 않음",
+   "selection_tier": "광역 수요 기반 자연관광 확장",
+   "collection_group": "nature",
+   "highlights": [
+    "동굴 내부 암석 경관",
+    "광명산 주변",
+    "도화강 인근 경관과 연계"
+   ],
+   "visit_tips": [
+    "조명 구간의 바닥과 계단을 주의한다",
+    "운영 시간·입장료를 방문 전 별도 확인한다",
+    "노적암 동굴과 노적 관광권 전체를 구분한다"
+   ],
+   "counting_note": "개별 방문 목적지 1곳; 내부 포인트는 추가 집계하지 않음",
+   "original_region": "구이린·양숴",
+   "selection_region_id": "guilin_yangshuo",
+   "selection_evidence_ids": [
+    "SEL09",
+    "SEL10"
+   ],
+   "selection_scope_caution": "광시 통계를 구이린·양숴 수치로 전환 금지. 개별 명소 선호는 별도 확인 필요.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

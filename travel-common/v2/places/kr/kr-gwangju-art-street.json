@@ -1,0 +1,168 @@
+{
+ "id": "kr-gwangju-art-street",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "광주 예술의 거리",
+  "local": "광주 예술의 거리"
+ },
+ "admin_region": "광주광역시",
+ "former_region": null,
+ "city": "동구 예술길 24 일대",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gwangju-art-street",
+   "name_ko": "광주 예술의 거리",
+   "aliases": [],
+   "region": "광주광역시",
+   "admin_region": "광주광역시",
+   "locality": "동구 예술길 24 일대",
+   "type": [
+    "예술거리",
+    "갤러리"
+   ],
+   "highlights": [
+    "회화·도자·서예를 다루는 예술 상점과 전시",
+    "고서·공예품을 접하는 거리 문화"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "가게와 전시 공간을 오가며 걷기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "회화·서예·도자 등 관심 분야를 정해 전시·상점을 비교해 본다.",
+    "작품 촬영·접촉은 각 공간의 허용 여부를 확인한다.",
+    "거리 방문과 벼룩시장·축제 개최일을 동일시하지 않는다."
+   ],
+   "visit_tips_basis": "editorial_inference_from_verified_features",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=111557",
+     "title": "VISITKOREA — Gwangju Art Street",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "회화·도자·서예를 다루는 예술 상점과 전시|고서·공예품을 접하는 거리 문화"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 직전 운영기관 공지 재확인. null은 무료나 예약 불필요를 뜻하지 않음."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "원문에 2015년 행사 예고가 남아 있어 토요시장·차량통제 등 정기 운영 주장 모두 보류.",
+   "baseline_relation": "new_independent_place_extension",
+   "administrative_note": "기존 17권역 호환 분류. 공식 주소의 광주·전남 행정명 변경 표기는 별도 검증 대상.",
+   "document_path": "korea-travel/05_전라/광주 예술의 거리.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

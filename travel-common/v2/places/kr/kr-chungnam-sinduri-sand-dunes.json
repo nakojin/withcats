@@ -1,0 +1,165 @@
+{
+ "id": "kr-chungnam-sinduri-sand-dunes",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "태안 신두리 해안사구",
+  "local": "태안 신두리 해안사구"
+ },
+ "admin_region": "충청남도",
+ "former_region": null,
+ "city": "태안군 원북면 신두리",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-chungnam-sinduri-sand-dunes",
+   "name_ko": "태안 신두리 해안사구",
+   "aliases": [],
+   "region": "충청남도",
+   "admin_region": "충청남도",
+   "locality": "태안군 원북면 신두리",
+   "type": [
+    "해안사구",
+    "생태탐방"
+   ],
+   "highlights": [
+    "바람이 만든 모래언덕과 전망데크",
+    "초종용군락지·순비기언덕·곰솔생태숲"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "모래언덕을 걷기 비교적 수월하고 식생 변화도 살필 수 있다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "짧게 보려면 A코스, 숲과 억새골까지 보려면 긴 C코스를 선택한다. 군 안내 기준 각각 1.2km와 4km라 보행량 차이가 크다.",
+    "모래언덕 입구 전망데크에서 먼저 지형을 살핀 뒤 지정 탐방로를 따른다. 사구 식물은 모래 이동을 막는 역할을 하므로 밟거나 꺾지 않는다."
+   ],
+   "sources": [
+    {
+     "url": "https://taean.go.kr/tour/sub03_06_02.do",
+     "title": "태안군 오감관광: 신두리해안사구 탐방로 안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약 조건은 확정 수치로 수록하지 않음. 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/04_충청/태안 신두리 해안사구.md",
+   "editorial_region": "04_충청",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

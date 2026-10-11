@@ -1,0 +1,165 @@
+{
+ "id": "jp-east-blue-pond",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "시로가네 푸른 연못",
+  "local": "白金青い池"
+ },
+ "admin_region": "홋카이도",
+ "former_region": null,
+ "city": "비에이정",
+ "address": null,
+ "coord": {
+  "lat": 43.49349,
+  "lng": 142.614098,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "way/303771940"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-blue-pond",
+   "name_ko": "시로가네 푸른 연못",
+   "name_ja": "白金青い池",
+   "region": "홋카이도",
+   "prefecture": "홋카이도",
+   "city": "비에이정",
+   "category": "호수·사진",
+   "description": "도카치다케 화산 토석류에 대비한 시설 공사 과정에서 생겨난 연못이다. 광물 성분을 포함한 물과 빛의 산란이 독특한 청색을 만들며 물 위로 선 고사목이 풍경의 중심을 이룬다. 같은 장소라도 광량·계절에 따라 청록색에서 짙은 파랑까지 인상이 바뀐다.",
+   "highlights": [
+    "푸른 수면 위 낙엽송 고사목",
+    "바람이 잔 날의 나무 반영",
+    "주변 숲과 수면의 계절 색 대비"
+   ],
+   "best_time": "봄~가을은 물빛과 숲의 대비를 보기 좋다. 겨울 설경은 수면이 파랗게 드러나는 장면과 다르므로 목적을 구분한다.",
+   "visit_tips": [
+    "사진과 동일한 물색을 보장할 수 없으므로 비·빛·결빙 상태를 감안한다.",
+    "비에이역에서 차량 약 20분이라는 위치를 고려해 귀환 교통을 정한다.",
+    "시라히게 폭포는 근처 별도 지점이므로 연못 안에서 보인다고 안내하지 않는다."
+   ],
+   "hours_and_fees": {
+    "details": "연중 방문 가능으로 안내하나 악천후 등으로 폐쇄될 수 있음. 주차장은 유료이며 금액은 미확인.",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "당일 물색·결빙",
+    "라이트업 세부 일정·주차요금"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.visit-hokkaido.jp/en/spot/detail_10511.html",
+     "title": "HOKKAIDO LOVE! Shirogane Blue Pond",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "형성과 물빛 원리",
+      "고사목과 계절 변화",
+      "연중 개방·악천후 폐쇄 가능"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

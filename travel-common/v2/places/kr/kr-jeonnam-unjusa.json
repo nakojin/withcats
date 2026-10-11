@@ -1,0 +1,177 @@
+{
+ "id": "kr-jeonnam-unjusa",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "화순 운주사",
+  "local": "화순 운주사"
+ },
+ "admin_region": "전라남도",
+ "former_region": null,
+ "city": "화순군 도암면 천태로 91-44",
+ "address": null,
+ "coord": {
+  "lat": 34.92552,
+  "lng": 126.880138,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/11968443170"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonnam-unjusa",
+   "name_ko": "화순 운주사",
+   "aliases": [],
+   "region": "전라남도",
+   "admin_region": "전라남도",
+   "locality": "화순군 도암면 천태로 91-44",
+   "type": [
+    "사찰",
+    "석조유산"
+   ],
+   "highlights": [
+    "구층석탑",
+    "석조불감",
+    "원형다층석탑"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "야외 석조 유산의 형태를 비교하며 걷기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "구층석탑과 원형다층석탑의 모양을 비교해 본다.",
+    "석조불감은 탑과 다른 불교 공간이므로 안내판을 함께 읽는다.",
+    "석불·석탑 위로 올라가거나 만지지 않는다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110763",
+     "title": "VISITKOREA — Unjusa Temple",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "구층석탑; 석조불감; 원형다층석탑"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "공식 영문 설명의 창건 시기 문장이 모순되어 역사 연대는 채택하지 않았다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "administrative_note": "기존 17권역 분류를 호환용으로 유지. 일부 공식 원문은 전남광주통합특별시로 표기하므로 게시 전 행정구역명 별도 검증 필요.",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/05_전라/화순 운주사.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

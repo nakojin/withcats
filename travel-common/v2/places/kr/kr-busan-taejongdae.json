@@ -1,0 +1,202 @@
+{
+ "id": "kr-busan-taejongdae",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "태종대",
+  "local": "태종대"
+ },
+ "admin_region": "부산광역시",
+ "former_region": null,
+ "city": "부산 영도구 전망로 24",
+ "address": null,
+ "coord": {
+  "lat": 35.05851,
+  "lng": 129.087686,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/131451630"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-busan-taejongdae",
+   "name_ko": "태종대",
+   "region": "07_경남부산울산",
+   "admin_region": "부산광역시",
+   "locality": "부산 영도구 전망로 24",
+   "type": [
+    "해안절벽",
+    "지질",
+    "숲길"
+   ],
+   "highlights": [
+    "태종대는 호수에 쌓인 퇴적층이 융기하고 파도에 깎여 만들어진 해식절벽·파식대지·해안동굴의 경관을 보는 곳이다.",
+    "영도등대 아래의 신선바위와 절벽에서는 층이 이어지는 암석과 바다의 대비가 눈에 들어온다. 안전한 관람 지점에서 지질 형태를 찾아보는 재미가 있다.",
+    "등대 쪽으로 이어지는 생태길에는 송림과 난대성 상록활엽수, 해안 생물을 설명하는 안내가 있어 숲과 바다를 함께 관찰할 수 있다."
+   ],
+   "recommended_season": {
+    "text": "시야가 좋고 바람이 약한 봄·가을 낮. 해안 지질을 볼 목적이라면 야간보다 밝은 시간대를 추천한다.",
+    "reason": "확인된 경관·시설을 바탕으로 한 여행 편집 추천. 개화·단풍 절정이나 행사 개최 보장이 아님.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "절벽 아래 바위와 동굴이 소개되어 있어도 현재 들어갈 수 있다는 뜻은 아니다. 통제선 밖으로 나가거나 파도에 젖은 바위로 내려가지 않는다.",
+    "다누비를 반드시 타야만 가능한 일정 대신 걷기 가능한 범위의 전망 지점을 정한다. 다누비 재개·대체버스가 확인되지 않았으므로 이동수단을 가정하지 않는다.",
+    "비가 오거나 강풍이 불면 등대·해안 아래쪽보다 안전한 상부 동선으로 줄이고 현장 통제에 따른다. 유람선은 별도의 날씨·승선조건을 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://www.busan.go.kr/geopark/taejongdae",
+     "title": "부산광역시 부산지오파크: 태종대",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "퇴적층·해식절벽·파식대지·영도등대·생태길·주소",
+      "다누비 표 존재 확인에 한함; 현재 재개 근거 아님"
+     ]
+    }
+   ],
+   "operational": {
+    "notes": [
+     "부산시 지질공원 소개에는 다누비의 과거 정상운행형 시간·요금표가 남아 있다. 그러나 운행중단 이후 재개를 명시하는 현행 운영사 공지는 이번 조사에서 확인하지 못해 현재 운행 여부·요금·대체버스는 미확인으로 둔다.",
+     "유원지 시간·유람선 시간·요금·예약도 방문일 운영사 재확인이 필요하다. 지질소개 페이지를 현재 운행 보증으로 해석하지 않는다."
+    ],
+    "visit_date_reconfirmation_required": true
+   },
+   "record_status": "verified_core_operational_pending",
+   "status": "verified",
+   "baseline_path": "korea-travel/07_경남부산울산/태종대.md",
+   "document_path": "korea-travel/07_경남부산울산/태종대.md",
+   "path": "korea-travel/07_경남부산울산/태종대.md",
+   "count_as_independent": true,
+   "reference_only": false,
+   "relation_note": "단일 명명된 목적지 1건. 내부 시설은 별도 가산하지 않음.",
+   "components": [],
+   "new_information": [
+    "태종대는 호수에 쌓인 퇴적층이 융기하고 파도에 깎여 만들어진 해식절벽·파식대지·해안동굴의 경관을 보는 곳이다.",
+    "영도등대 아래의 신선바위와 절벽에서는 층이 이어지는 암석과 바다의 대비가 눈에 들어온다. 안전한 관람 지점에서 지질 형태를 찾아보는 재미가 있다.",
+    "등대 쪽으로 이어지는 생태길에는 송림과 난대성 상록활엽수, 해안 생물을 설명하는 안내가 있어 숲과 바다를 함께 관찰할 수 있다."
+   ],
+   "original_preserved_at": "korea-travel/research/2026-10-10/baseline-before-review.json",
+   "verification_scope": {
+    "confirmed": [
+     "명칭·위치",
+     "본문 볼거리",
+     "출처별 근거범위"
+    ],
+    "editorial": [
+     "추천시기",
+     "동선·준비 팁"
+    ],
+    "pending": [
+     "방문일 임시휴무·통제",
+     "확정하지 않은 요금·예약·교통"
+    ]
+   },
+   "unique_id": "kr-busan-taejongdae",
+   "is_parent_reference": false,
+   "existing_catalog_id": null,
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

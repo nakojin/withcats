@@ -1,0 +1,206 @@
+{
+ "id": "jp-east-jodogahama",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "조도가하마",
+  "local": "浄土ヶ浜"
+ },
+ "admin_region": "이와테",
+ "former_region": null,
+ "city": "미야코시",
+ "address": null,
+ "coord": {
+  "lat": 39.65245,
+  "lng": 141.978737,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "relation/13708358"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-jodogahama",
+   "name_ko": "조도가하마",
+   "name_ja": "浄土ヶ浜",
+   "region": "도호쿠",
+   "prefecture": "이와테",
+   "city": "미야코시",
+   "category": "해안·자연",
+   "description": "산리쿠 훗코 국립공원 안의 흰 자갈 해변과 바위섬 풍경이다. 모래사장과 달리 발밑에 자갈이 깔려 있으며, 해변 산책·주변 전망길·보트 관람은 서로 다른 각도로 해안을 보여준다.",
+   "highlights": [
+    "흰 자갈 해안과 기암",
+    "다테가사키 쪽 전망길",
+    "바다 쪽에서 보는 해안과 푸른 동굴"
+   ],
+   "best_time": "여름은 해변 활동에 맞고 봄·가을은 해안 산책 중심으로 계획하기 좋다. 유람은 해상 날씨가 우선이다.",
+   "visit_tips": [
+    "자갈 해변이므로 맨발보다 발을 보호하는 신발을 준비한다.",
+    "푸른 동굴은 육상에서 걸어 들어가는 명소가 아니므로 승선 여부를 별도로 판단한다.",
+    "미야코역에서 버스 이동과 현장 산책 시간을 함께 계산한다."
+   ],
+   "hours_and_fees": {
+    "hours": null,
+    "fees": null,
+    "conditions": "지구 자체의 개방시간·입장료는 공식 페이지에 기재 없음(미야코시 페이지에 입장료·주차료 언급 없음, 2025-01-21 갱신). 유람선 '미야코 우미네코마루'(운영: 이와테 겐호쿠 자동차 미야코 유람선사업부, 0193-65-8856) 요금(미야코시, 2026-09-10 갱신): 데자키 부두~조도가하마 편도 성인 600엔/소인 300엔, 만 내 주유 코스(데자키~조도가하마~만내~데자키 또는 조도가하마~만내~데자키~조도가하마) 성인 1,800엔/소인 900엔, 단체(15명 이상) 1,350엔/680엔 표기. 시간표(7편): 데자키 출발 9:00, 10:10, 11:10, 13:10, 14:10, 15:10, 16:10(마지막 데자키 도착 17:00). 운휴: 화요일(7~8월 제외), 10월은 7편 운휴, 11월~4월 하순 6·7편 운휴, 1월 둘째 월요일~3월 둘째 일요일 평일 운휴, 겨울은 특별 다이어(정비 운휴 있음), 날씨·해상 상황에 따라 결항. 해수욕장(2026년도, 시 페이지 2026-08-18 갱신): 7/4~7/17 및 8/17~8/30 토일공휴일만, 7/18~8/16 무휴, 개설 시간 08:30–17:00(개설일 외 샤워 이용 불가). 4/1~10/31 조도가하마 원지 내 도로는 일반차량 통행 금지(통행허가증 필요, 토·일·공휴일 무료 순환버스 운행).",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "장소 자체의 상시 개방시간·무료 여부",
+    "유람선 단체요금 행 대응",
+    "당일 파도·수영 가능 구간",
+    "유람선 연간 운항 시작·종료일"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1815/",
+     "title": "JNTO Jodogahama Beach",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "자갈 해변",
+      "산리쿠 국립공원",
+      "보트·전망길"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.city.miyako.iwate.jp/gyosei/soshiki/kanko/4/5/1672.html",
+     "title": "宮古市遊覧船「宮古うみねこ丸」／岩手県宮古市 ホームページ Miyako City",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "요금",
+      "운영시간"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.city.miyako.iwate.jp/gyosei/soshiki/kanko/4/5/1561.html",
+     "title": "夏だ!海だ!宮古市内の海水浴場で「海開き」をします／岩手県宮古市 ホームページ Miyako City",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.city.miyako.iwate.jp/gyosei/soshiki/kanko/4/3/1136.html",
+     "title": "浄土ヶ浜園地内道路の自動車乗り入れ規制のお知らせ／岩手県宮古市 ホームページ Miyako City",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.city.miyako.iwate.jp/gyosei/soshiki/kanko/4/8/2/1/1154.html",
+     "title": "浄土ヶ浜／岩手県宮古市 ホームページ Miyako City",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

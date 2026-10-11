@@ -1,0 +1,204 @@
+{
+ "id": "kr-incheon-ganghwa-luge",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "강화루지",
+  "local": "강화루지"
+ },
+ "admin_region": "인천광역시",
+ "former_region": null,
+ "city": "강화군",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-incheon-ganghwa-luge",
+   "name_ko": "강화루지",
+   "aliases": [],
+   "region": "인천광역시",
+   "admin_region": "인천광역시",
+   "locality": "강화군",
+   "type": [
+    "레저"
+   ],
+   "highlights": [
+    "각 1.8km로 안내된 오션·밸리 두 루지 코스에서 산비탈 주행을 체험하는 시설이다.",
+    "리조트에는 케이블카와 회전전망대·해송산책로도 있어 동행자의 이용 범위에 맞춰 선택할 수 있다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "야외 레저 활동을 계획하기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "루지 단독 탑승은 공식 안내상 초등학교 3학년(10세) 이상과 키 120cm 이상을 모두 충족해야 한다. 85cm 미만과 65세 이상은 루지 탑승이 제한된다. 경계 연령·동반 조건은 매표 전에 확인한다.",
+    "주행 중 사진 촬영·한손 운전·추월은 금지된다. 반려동물과 루지 동반 탑승도 불가하며 케이블카는 닫힌 전용 캐리어나 유모차 조건을 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=227856",
+     "title": "VISITKOREA: Savor Incheon: A City of Cuisine, Nightscape, and Festivals",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    },
+    {
+     "url": "https://ganghwa-resort.co.kr/",
+     "title": "강화씨사이드리조트 공식 소개",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "두 코스",
+      "코스 길이",
+      "케이블카·전망대·산책로"
+     ]
+    },
+    {
+     "url": "https://m.ganghwa-resort.co.kr/sub/use/use01.jsp",
+     "title": "강화씨사이드리조트 안전준수사항",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "연령·신장 조건",
+      "촬영 금지",
+      "반려동물 조건"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약 조건은 확정 수치로 수록하지 않음. 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "related_baseline": "강화도",
+   "addition_kind": "detail_expansion",
+   "integration_status": "ready_for_review",
+   "verification_scope": {
+    "confirmed": [
+     "명칭",
+     "시군구 이상 위치",
+     "본문에 명시된 시설·볼거리"
+    ],
+    "editorial": [
+     "추천 계절",
+     "시설 특성에 따른 동선·준비 조언"
+    ],
+    "pending": [
+     "방문일 요금",
+     "방문일 운영시간",
+     "변동성 예약·행사 조건"
+    ]
+   },
+   "enrichment_review": "개별 공식 본문을 읽은 별도 검토자 보강 병합(2026-10-10)",
+   "document_path": "korea-travel/02_인천경기/강화루지.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

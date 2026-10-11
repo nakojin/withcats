@@ -1,0 +1,192 @@
+{
+ "id": "east-sh-07",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "주자자오 수향마을",
+  "local": "朱家角古镇"
+ },
+ "admin_region": "상하이시",
+ "former_region": null,
+ "city": "상하이",
+ "address": null,
+ "coord": {
+  "lat": 31.113088,
+  "lng": 121.048879,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/1476707831"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "east-sh-07",
+   "name_ko": "주자자오 수향마을",
+   "name_local": "朱家角古镇",
+   "city": "상하이",
+   "province": "상하이시",
+   "region": "상하이",
+   "category": "수향고진",
+   "description": "차오강을 따라 옛 상업거리와 전통 건물이 남아 있는 상하이 외곽의 수향마을이다. 방생교와 물가 골목이 대표 풍경이며, 도심 고층건물과 다른 강남의 생활 경관을 볼 수 있다. 원거리 이동을 포함하는 반나절 이상 일정으로 잡는 편이 현실적이다.",
+   "best_time": {
+    "period": "평일 낮",
+    "reason": "다리와 골목의 건축을 보기 좋고 귀환 교통을 여유 있게 계획할 수 있다.",
+    "basis": "편집상 권장; 개화·날씨·혼잡 및 운영 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "timezone": "Asia/Shanghai",
+    "hours": "확인한 공식 본문에 운영시간 없음",
+    "price_cny": "공식 요금 미확인",
+    "reservation": "공식 예약조건 미확인",
+    "foreign_passport": "외국인 여권 예약·입장 상세 미확인",
+    "payment": "결제수단 미확인",
+    "validity_note": "조회일은 본문 열람일이며 방문일 실시간 운영 확인일이 아님"
+   },
+   "sources": [
+    {
+     "url": "https://english.shanghai.gov.cn/en-HeritageZones/20240827/66903de4b44047a5aeb1284a2148fc09.html",
+     "title": "Zhujiajiao Historical and Cultural Block",
+     "checked_at": "2026-10-10",
+     "verification": "공식 본문 열람 확인; 최신 현장운영 보증 아님",
+     "supported_facts": [
+      "방생교·차오강",
+      "명청대 상업 발전",
+      "수향 건축"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 임시휴업·행사 통제",
+    "외국인 여권 예약 및 현장처리",
+    "해외카드·모바일 결제 가능 여부",
+    "방문일 성인 요금 및 상품 포함내역",
+    "운영시간·최종 입장시간",
+    "사전예약 필요 여부"
+   ],
+   "selection_tier": "핵심 수요 확인",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "collection_group": "east",
+   "highlights": [
+    "방생교",
+    "차오강 수변 건물",
+    "전통 상업 골목"
+   ],
+   "visit_tips": [
+    "시내 기준 이동을 포함해 반나절~하루를 편집상 권장한다.",
+    "고진 거리·유료 내부시설·보트의 조건을 각각 확인한다.",
+    "돌길과 다리 계단에서 미끄럼에 주의하고 짐을 가볍게 한다."
+   ],
+   "destination_cluster": "상하이",
+   "original_region": "중국 동부",
+   "selection_region_id": "shanghai",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL02",
+    "SEL03"
+   ],
+   "selection_scope_caution": "도시 수요가 개별 명소 선호를 자동 증명하지 않는다.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

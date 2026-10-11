@@ -1,0 +1,180 @@
+{
+ "id": "kr-gyeongnam-geochang-healing-land",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "거창 항노화힐링랜드",
+  "local": "거창 항노화힐링랜드"
+ },
+ "admin_region": "경상남도",
+ "former_region": null,
+ "city": "거창군 가조면 의상봉길 834",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongnam-geochang-healing-land",
+   "name_ko": "거창 항노화힐링랜드",
+   "aliases": [],
+   "region": "경상남도",
+   "admin_region": "경상남도",
+   "locality": "거창군 가조면 의상봉길 834",
+   "type": [
+    "숲",
+    "출렁다리",
+    "자생식물원"
+   ],
+   "highlights": [
+    "우두산의 Y자형 출렁다리",
+    "무장애 데크 산책로",
+    "견암폭포 주변 자생식물원"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "산악 전망과 낮은 숲길을 체력에 맞춰 조합하기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "출렁다리 접근 산길과 무장애 데크를 같은 코스로 가정하지 않는다.",
+    "높이가 부담스럽다면 데크·식물원 중심 동선을 고려한다.",
+    "주말 주차·셔틀과 기상 통제를 방문일 기준으로 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=217128",
+     "title": "VISITKOREA — Geochang Anti-aging Healing Land",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "우두산의 Y자형 출렁다리; 무장애 데크 산책로; 견암폭포 주변 자생식물원"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=249&menuSn=923&vcontsId=176245",
+     "title": "VISITKOREA — Geochang Anti-aging Healing Land travel article",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "보조 볼거리",
+      "방문 동선 판단 근거"
+     ],
+     "evidence_summary": "Y자 출렁다리 접근과 무장애 데크가 다르며 견암폭포 주변 식물원이 있음을 확인. 과거 운영 정보는 채택하지 않음."
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "공식 관광 상세와 2023년 기사의 휴무 요일·시간이 달라 운영값은 보류했다. 항노화·치료 효과를 보장하지 않는다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/07_경남부산울산/거창 항노화힐링랜드.md",
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

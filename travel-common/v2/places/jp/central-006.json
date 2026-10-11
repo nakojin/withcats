@@ -1,0 +1,179 @@
+{
+ "id": "central-006",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "사적 사도 금산",
+  "local": "史跡佐渡金山"
+ },
+ "admin_region": "니가타",
+ "former_region": null,
+ "city": "사도시",
+ "address": null,
+ "coord": {
+  "lat": 38.040908,
+  "lng": 138.257752,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/681296115"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-006",
+   "name_ko": "사적 사도 금산",
+   "name_ja": "史跡佐渡金山",
+   "region": "주부·호쿠리쿠",
+   "prefecture": "니가타",
+   "city": "사도시",
+   "category": "산업유산·갱도",
+   "description": "사도섬 아이카와의 관광 갱도에서 손으로 채굴하던 에도 시대와 기계 채굴 시기의 차이를 살펴볼 수 있다. 기본 코스는 소다유코와 도유코, 산이 갈라진 도유노와리토를 연결한다. 섬 전체 광산유산과 이 유료 견학시설을 같은 범위로 보지 않아야 한다.",
+   "highlights": [
+    "소다유코의 채굴 재현",
+    "도유코의 광차·기계 설비",
+    "도유노와리토 노천 채굴 흔적"
+   ],
+   "best_time": "연중 방문 가능. 여름에도 갱도는 약 10℃이므로 더위를 피하는 실내 코스가 되지만 겉옷은 필요하다.",
+   "visit_tips": [
+    "기본 코스 60~90분과 섬 내 이동 시간을 따로 확보한다.",
+    "미끄러운 바닥·낮은 천장·계단에 대비한 신발을 신는다.",
+    "기본 자유견학과 가이드 탐험·MR 체험의 예약 조건 및 요금을 구분한다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.sado-kinzan.com/price/",
+     "title": "사도 금산 운영자: 料金",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "기본 코스",
+      "입장마감",
+      "요금",
+      "온도",
+      "접근성"
+     ]
+    },
+    {
+     "url": "https://www.japan.travel/en/spot/1426/",
+     "title": "JNTO: Sado Gold Mine",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "갱도 특징",
+      "산업사",
+      "섬 위치"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 갱도 보수 여부",
+    "선박 운항 및 섬 내 버스 최신 시간표",
+    "노동사 관련 전시 세부 내용은 이 조사에서 검증하지 않음"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "기본 코스 중학생 이상 1,500엔·초등학생 750엔. 4~10월 입장 8:00~16:00·폐관 17:30, 11~3월 입장 8:30~15:30·폐관 17:00. 기상·보수로 변경 가능."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

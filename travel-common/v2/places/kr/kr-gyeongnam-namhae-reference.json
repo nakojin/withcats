@@ -1,0 +1,211 @@
+{
+ "id": "kr-gyeongnam-namhae-reference",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "남해",
+  "local": "남해"
+ },
+ "admin_region": "경상남도",
+ "former_region": null,
+ "city": "경남 남해군 남면·삼동면 등",
+ "address": null,
+ "coord": {
+  "lat": 34.838767,
+  "lng": 127.892405,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/368939119"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongnam-namhae-reference",
+   "name_ko": "남해",
+   "region": "경남부산울산",
+   "admin_region": "경상남도",
+   "locality": "경남 남해군 남면·삼동면 등",
+   "type": [
+    "섬",
+    "농촌경관",
+    "이주사",
+    "부모 관광권"
+   ],
+   "highlights": [
+    "가천 다랭이마을은 경사진 산자락의 계단식 논과 바다가 어우러지는 농촌 경관이다. 지정된 산책길에서 논의 층을 살펴본다.",
+    "다랭이마을의 암수바위와 해변 방향을 함께 보면 논 풍경만 찍고 돌아가는 것보다 마을의 지형을 이해하기 좋다.",
+    "삼동면 파독전시관은 1960년대 독일에서 일한 광부·간호사의 삶을 다룬다. 독일마을 방문에 이주 노동의 역사를 더할 수 있다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을의 걷기 좋은 날",
+    "reason": "비탈진 마을길과 야외 논 경관을 오래 보는 여행에 맞춘 추천이다. 논의 작물 상태는 방문 시점에 따라 다르다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "다랭이마을은 주민의 생활·농업 공간이므로 논 안이나 사유지에 들어가지 않고 안내된 길을 걷는다.",
+    "남면 다랭이마을과 삼동면 전시관은 떨어진 권역이다. 차량 여부와 관계없이 이동편·귀로를 먼저 정한다.",
+    "독일마을의 야외 풍경과 파독전시관 내부 관람은 다르다. 월요일 방문이라면 전시관 휴관부터 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=90688",
+     "title": "한국관광공사 VISITKOREA: Gacheon Daraengi Village",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "계단식 논",
+      "산책길·암수바위·해변",
+      "남면 위치"
+     ]
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=68074",
+     "title": "한국관광공사 Namhae German Exhibition Hall",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "파독 광부·간호사 전시",
+      "주소",
+      "관람시간·휴관"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": "관광공사 파독전시관 입장료 1,000원 표기. 마을 전체 입장료와는 다름.",
+    "hours": "파독전시관 09:00~18:00, 마감 30분 전 입장; 월요일(공휴일이면 다음날), 1/1, 설·추석 당일 휴관으로 안내.",
+    "reservation": null,
+    "status_note": "전시관 운영은 변경 가능하다고 원문이 안내한다. 마을 체험 신청 조건은 별도."
+   },
+   "record_status": "verified_core_operational_pending",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/07_경남부산울산/남해.md",
+   "document_path": "korea-travel/07_경남부산울산/남해.md",
+   "path": "korea-travel/07_경남부산울산/남해.md",
+   "count_as_independent": false,
+   "record_origin": "baseline_followup",
+   "counting_unit": "parent_travel_area_reference",
+   "relation_note": "여러 지점의 동선을 설명하는 부모 관광권 참고문서. 구성 명소를 개별 가산하지 않는다.",
+   "verification_scope": {
+    "confirmed": [
+     "공식 웹본문의 명칭·위치·볼거리"
+    ],
+    "editorial": [
+     "추천시기·이유",
+     "특성에 근거한 동선·준비 조언"
+    ],
+    "pending": [
+     "보리암 현행 요금·접근·셔틀",
+     "다랭이마을 체험 예약",
+     "남해 버스 실제 시간표",
+     "독일마을 맥주축제 차기 일정"
+    ]
+   },
+   "unconfirmed_items": [
+    "보리암 현행 요금·접근·셔틀",
+    "다랭이마을 체험 예약",
+    "남해 버스 실제 시간표",
+    "독일마을 맥주축제 차기 일정"
+   ],
+   "baseline_correction": "자가용 사실상 필수·예약 전부 불필요 단정 제거. 보리암 요금 상충값을 임의 선택하지 않음.",
+   "editorial_region": "07_경남부산울산",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

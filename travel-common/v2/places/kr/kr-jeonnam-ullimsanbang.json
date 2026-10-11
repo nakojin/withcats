@@ -1,0 +1,177 @@
+{
+ "id": "kr-jeonnam-ullimsanbang",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "진도 운림산방",
+  "local": "진도 운림산방"
+ },
+ "admin_region": "전라남도",
+ "former_region": null,
+ "city": "진도군 의신면 운림산방로 315",
+ "address": null,
+ "coord": {
+  "lat": 34.466193,
+  "lng": 126.307955,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/1356340506"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonnam-ullimsanbang",
+   "name_ko": "진도 운림산방",
+   "aliases": [],
+   "region": "전라남도",
+   "admin_region": "전라남도",
+   "locality": "진도군 의신면 운림산방로 315",
+   "type": [
+    "회화",
+    "전통건축",
+    "정원"
+   ],
+   "highlights": [
+    "화실을 둔 기와집과 허씨 가문 회화 전시",
+    "연못 가운데 작은 섬과 배롱나무"
+   ],
+   "recommended_season": {
+    "text": "봄부터 가을",
+    "reason": "건물과 연못 정원의 변화를 함께 보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "회화 전시와 바깥 정원을 묶어 관람한다.",
+    "연못 가장자리에서 건물과 나무의 구도를 살핀다.",
+    "기념관 내부에는 음식을 반입하지 않는 안내를 따른다."
+   ],
+   "visit_tips_basis": "editorial_inference_from_verified_features",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=104739",
+     "title": "VISITKOREA — Ullimsanbang House",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "화실을 둔 기와집과 허씨 가문 회화 전시|연못 가운데 작은 섬과 배롱나무"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 직전 운영기관 공지 재확인. null은 무료나 예약 불필요를 뜻하지 않음."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "영문 원문의 소치 호와 인물 연결 오류를 피하고 인물별 세부 계보는 쓰지 않았다. 개별 작품 상시 전시 미보장.",
+   "baseline_relation": "new_independent_place_extension",
+   "administrative_note": "기존 17권역 호환 분류. 공식 주소의 광주·전남 행정명 변경 표기는 별도 검증 대상.",
+   "document_path": "korea-travel/05_전라/진도 운림산방.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

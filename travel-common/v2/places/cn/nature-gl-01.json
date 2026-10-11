@@ -1,0 +1,189 @@
+{
+ "id": "nature-gl-01",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "리강 구이린–양숴 유람선",
+  "local": "漓江精华游"
+ },
+ "admin_region": "광시좡족자치구",
+ "former_region": null,
+ "city": "구이린–양숴현",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-gl-01",
+   "name_ko": "리강 구이린–양숴 유람선",
+   "name_local": "漓江精华游",
+   "city": "구이린–양숴현",
+   "province": "광시좡족자치구",
+   "region": "구이린·양숴",
+   "destination_cluster": "구이린·양숴",
+   "category": "강·유람선",
+   "description": "구이린 외곽 마판산 또는 주강 선착장에서 양숴로 내려가며 카르스트 봉우리와 강변 풍경을 보는 유람선 코스다. 구마화산과 황포도영이 대표 경관이다. 짧은 뗏목 상품이나 도심 리강 유람선과 같은 상품이 아니므로 출발·도착 선착장을 기준으로 비교해야 한다.",
+   "best_time": {
+    "period": "강 운항이 정상이고 시야가 좋은 날",
+    "reason": "강 풍경을 편하게 보는 것이 핵심이다. 수위·기상에 따라 코스가 달라질 수 있어 고정 계절보다 당일 운항 공지를 우선한다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "예약한 배편별 출발시간 적용; 통일 출발시각 미확인",
+    "fees": "공식 요금표가 이미지로 게시되어 이번 수집에서 금액 검증하지 않음",
+    "reservation": "2026-10-01 국경절 집중 수요·선표 부족 상황에 관한 공지에서 실명 온라인 예약과 현장 당일표는 취소분 후보표 소량만 판매한다고 안내. 당시 공식 위챗 漓江售票处의 11:00·16:00 잔여표 갱신도 공지했다. 이 혼잡기 안내의 평시 지속 적용 여부 및 한국 여권 지원은 미확인"
+   },
+   "sources": [
+    {
+     "url": "https://www.lijiangriver.com/page/article/ylxl.ljjhy",
+     "title": "리강 풍경명승구: 정화 유람선",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "마판산/주강–양숴 노선",
+      "구마화산·황포도영"
+     ]
+    },
+    {
+     "url": "https://www.lijiangriver.com/page/article/zxlj.tzgg/269",
+     "title": "리강 풍경명승구: 2026-10-01 선표 부족 안내",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "실명 온라인 예약",
+      "현장 당일표 극소수",
+      "11:00·16:00 잔여표 갱신"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "counting_scope": "리강 정화 유람선 코스 1곳. 구마화산·황포도영은 하위 경관으로만 집계",
+   "selection_tier": "광역 수요 기반 자연관광 확장",
+   "collection_group": "nature",
+   "highlights": [
+    "구마화산",
+    "황포도영",
+    "강 위에서 보는 카르스트 봉림"
+   ],
+   "visit_tips": [
+    "마판산·주강 등 예약 선착장 이름을 숙소에 정확히 전달한다",
+    "양숴 도착 후 숙박 또는 구이린 귀환을 별도로 계획한다",
+    "3·4·5성급은 선박 상품 등급이며 관광지 A등급과 다르다"
+   ],
+   "counting_note": "리강 정화 유람선 코스 1곳. 구마화산·황포도영은 하위 경관으로만 집계",
+   "original_region": "구이린·양숴",
+   "selection_region_id": "guilin_yangshuo",
+   "selection_evidence_ids": [
+    "SEL09",
+    "SEL10"
+   ],
+   "selection_scope_caution": "광시 통계를 구이린·양숴 수치로 전환 금지. 개별 명소 선호는 별도 확인 필요.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,175 @@
+{
+ "id": "kr-jeonbuk-chaeseokgang",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "부안 채석강",
+  "local": "부안 채석강"
+ },
+ "admin_region": "전북특별자치도",
+ "former_region": null,
+ "city": "부안군 변산면 변산해변로 1",
+ "address": null,
+ "coord": {
+  "lat": 35.627036,
+  "lng": 126.468178,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/391267478"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonbuk-chaeseokgang",
+   "name_ko": "부안 채석강",
+   "aliases": [],
+   "region": "전북특별자치도",
+   "admin_region": "전북특별자치도",
+   "locality": "부안군 변산면 변산해변로 1",
+   "type": [
+    "해안",
+    "지질"
+   ],
+   "highlights": [
+    "책을 겹친 듯한 해안 퇴적층",
+    "절벽과 바다가 만나는 경관"
+   ],
+   "recommended_season": {
+    "text": "봄·가을의 잔잔한 날",
+    "reason": "해안 암석을 관찰하며 걷기 좋은 조건을 우선한다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "절벽의 층리를 멀리서 본 뒤 허용된 구역에서 암반의 질감을 살펴본다.",
+    "물때와 파도를 확인하고 젖은 암반에서 미끄럼을 주의한다.",
+    "낙석·출입 통제 구역 안으로 들어가지 않는다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110874",
+     "title": "VISITKOREA — Chaeseokgang Cliff",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "책을 겹친 듯한 해안 퇴적층; 절벽과 바다가 만나는 경관"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "24시간 소개가 있어도 모든 조위에 암반 접근이 안전하다는 뜻은 아니다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/05_전라/부안 채석강.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

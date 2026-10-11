@@ -1,0 +1,185 @@
+{
+ "id": "WEST-042",
+ "country": "jp",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "오키나와 추라우미수족관",
+  "local": "沖縄美ら海水族館"
+ },
+ "admin_region": "오키나와",
+ "former_region": null,
+ "city": "모토부정",
+ "address": null,
+ "coord": {
+  "lat": 26.694369,
+  "lng": 127.878038,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "way/378128429"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-042",
+   "name_ko": "오키나와 추라우미수족관",
+   "name_ja": "沖縄美ら海水族館",
+   "region": "오키나와",
+   "prefecture": "오키나와",
+   "city": "모토부정",
+   "category": "수족관",
+   "description": "산호초부터 구로시오 해류,깊은 바다까지 오키나와 해양환경을 층별 전시로 연결하는 수족관이다. 한 수조만 보고 나오는 일정 대신 산호·대형 수조·심해전시를 순서대로 비교하면 관람 주제가 분명해진다.",
+   "highlights": [
+    "산호의 바다 전시",
+    "구로시오의 바다 대형수조",
+    "심해 전시"
+   ],
+   "best_time": "연중 실내관람.악천후 대안으로 삼더라도 태풍때는 임시휴관할 수 있다.",
+   "visit_tips": [
+    "마지막입장은 폐관보다1시간 이르다",
+    "같은날 재입장은 티켓을 보관해야 한다",
+    "주변공원 시설은 수족관보다 먼저 닫을 수 있다"
+   ],
+   "hours_and_fees": {
+    "hours": "08:30–18:30,최종17:30",
+    "fees": "성인2180엔,고교생1440엔,초·중학생710엔,6세미만무료",
+    "conditions": "2027-03-31까지 정기휴관 없음 안내.태풍·긴급상황 예외",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://churaumi.okinawa/guide/hour/",
+     "title": "추라우미수족관 시간안내",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "통상시간",
+      "최종입장",
+      "휴관"
+     ]
+    },
+    {
+     "url": "https://churaumi.okinawa/guide/info/",
+     "title": "추라우미수족관 요금안내",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "연령별요금",
+      "재입장"
+     ]
+    },
+    {
+     "url": "https://churaumi.okinawa/guide/",
+     "title": "추라우미수족관 관람안내",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "층별 산호·구로시오·심해전시"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 특별연장·프로그램시간"
+   ],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

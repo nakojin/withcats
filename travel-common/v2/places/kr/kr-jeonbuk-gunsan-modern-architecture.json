@@ -1,0 +1,175 @@
+{
+ "id": "kr-jeonbuk-gunsan-modern-architecture",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "군산근대건축관",
+  "local": "군산근대건축관"
+ },
+ "admin_region": "전북특별자치도",
+ "former_region": null,
+ "city": "군산시 해망로 214",
+ "address": null,
+ "coord": {
+  "lat": 35.98932,
+  "lng": 126.714175,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/842713151"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonbuk-gunsan-modern-architecture",
+   "name_ko": "군산근대건축관",
+   "aliases": [],
+   "region": "전북특별자치도",
+   "admin_region": "전북특별자치도",
+   "locality": "군산시 해망로 214",
+   "type": [
+    "건축",
+    "전시관"
+   ],
+   "highlights": [
+    "옛 조선은행 군산지점의 붉은 벽돌과 높은 지붕",
+    "군산 근대건축·화폐·역사자료 전시"
+   ],
+   "recommended_season": {
+    "text": "연중",
+    "reason": "실내 전시와 건물 외관을 함께 비교할 수 있다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "붉은 벽돌·높은 지붕·입구 아치를 밖에서 살핀 뒤 실내 역사자료를 본다.",
+    "건물의 옛 은행 용도와 화폐 전시를 연결해 이해한다.",
+    "근대역사박물관과 별도 건물이므로 이동 동선을 구분한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=1580843",
+     "title": "VISITKOREA — Gunsan Modern Architecture Exhibition Hall",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "옛 조선은행 군산지점의 붉은 벽돌과 높은 지붕; 군산 근대건축·화폐·역사자료 전시"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "통합 관람권·임시휴관은 확인하지 않았다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/05_전라/군산근대건축관.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

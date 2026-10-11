@@ -1,0 +1,230 @@
+{
+ "id": "kr-gyeongbuk-ulleung-dokdo-overview",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "울릉도·독도",
+  "local": "울릉도·독도"
+ },
+ "admin_region": "경상북도",
+ "former_region": null,
+ "city": "경북 울릉군 울릉도와 독도",
+ "address": null,
+ "coord": {
+  "lat": 37.501114,
+  "lng": 130.858606,
+  "geo_type": "point",
+  "precision": "place",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "relation/12907714"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongbuk-ulleung-dokdo-overview",
+   "name_ko": "울릉도·독도",
+   "region": "06_경북대구",
+   "admin_region": "경상북도",
+   "locality": "경북 울릉군 울릉도와 독도",
+   "type": [
+    "섬권역",
+    "화산지형",
+    "해안"
+   ],
+   "highlights": [
+    "울릉도에서는 성인봉의 숲, 해안의 기암과 바위섬을 통해 화산섬의 지형을 본다. 산길과 해안도로 풍경이 뚜렷하게 다르다.",
+    "나리분지는 성인봉 북쪽의 칼데라 함몰로 형성된 분지다. 가파른 섬 안쪽에서 만나는 평탄한 지형이 대비를 이룬다.",
+    "독도는 울릉도와 별개의 섬으로 동도·서도가 주요 섬을 이룬다. 울릉도 안에서는 독도박물관·관련 역사시설을 통해 섬의 역사 주제를 이어갈 수 있다."
+   ],
+   "recommended_season": {
+    "text": "야외 산책을 염두에 둔 봄~가을을 우선 검토하되, 계절보다 예약일의 실제 배편·해상 예보를 우선한다.",
+    "reason": "확인된 경관·시설을 바탕으로 한 여행 편집 추천. 개화·단풍 절정이나 행사 개최 보장이 아님.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "울릉도 왕복 배편과 독도 방문 배편은 각각 확인한다. 육지 출발항·울릉도 도착항을 숙소와 연결해 계획한다.",
+    "성인봉 등산과 나리분지 산책은 체력·귀환 교통이 다른 일정이다. 산행을 정했다면 당시 탐방로 상태와 하산 뒤 이동편부터 확인한다.",
+    "배편 지연에 대비해 돌아오는 날 뒤에 중요한 약속을 촘촘히 붙이지 않는 편이 좋다. 행남해안산책로의 과거 재개통 기사만 보고 전 구간 개방을 가정하지 않는다."
+   ],
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=6b426b60-2971-482b-9702-0572ccd727ef",
+     "title": "한국관광공사: 울릉도&독도",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "성인봉·화산 해안·나리분지·동도/서도·독도 관련 시설; 2018년 12월 기사이므로 교통·개방값 제외"
+     ],
+     "published_at": "2018-12"
+    },
+    {
+     "url": "https://www.ulcruise.co.kr/www/ulleungdo/tourism/food?idx=7&mode=view",
+     "title": "울릉크루즈 공식: 나리분지",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "칼데라 함몰 지형·성인봉 북쪽 위치; 현재 여객선 운항 근거로 사용하지 않음"
+     ]
+    }
+   ],
+   "operational": {
+    "notes": [
+     "여객선의 현재 노선·운항시간·요금·예약조건, 독도 접안 여부, 행남해안산책로 개방 상태는 미확인. 오래된 관광기사의 교통값을 2026년 운영값으로 옮기지 않았다.",
+     "울릉군 관광 원문은 검색 결과에서도 방화벽 차단을 표시했다. 접근제한을 우회하지 않고 한국관광공사와 여객선 운영사 공개 관광 소개를 이용했다."
+    ],
+    "visit_date_reconfirmation_required": true
+   },
+   "record_status": "verified_core_operational_pending",
+   "status": "verified",
+   "baseline_path": "korea-travel/06_경북대구/울릉도·독도.md",
+   "document_path": "korea-travel/06_경북대구/울릉도·독도.md",
+   "path": "korea-travel/06_경북대구/울릉도·독도.md",
+   "count_as_independent": false,
+   "reference_only": true,
+   "relation_note": "기존 도시·섬·복합 방문권의 부모 참고문서. 구성 장소와 중복하여 독립 명소 수에 가산하지 않음.",
+   "components": [
+    {
+     "id": "kr-ulleung-island",
+     "name": "울릉도",
+     "relation": "component",
+     "parent_id": "kr-gyeongbuk-ulleung-dokdo-overview"
+    },
+    {
+     "id": "kr-ulleung-nari-basin",
+     "name": "나리분지",
+     "relation": "within_ulleung",
+     "parent_id": "kr-gyeongbuk-ulleung-dokdo-overview"
+    },
+    {
+     "id": "kr-ulleung-dokdo",
+     "name": "독도",
+     "relation": "component",
+     "parent_id": "kr-gyeongbuk-ulleung-dokdo-overview"
+    }
+   ],
+   "new_information": [
+    "울릉도에서는 성인봉의 숲, 해안의 기암과 바위섬을 통해 화산섬의 지형을 본다. 산길과 해안도로 풍경이 뚜렷하게 다르다.",
+    "나리분지는 성인봉 북쪽의 칼데라 함몰로 형성된 분지다. 가파른 섬 안쪽에서 만나는 평탄한 지형이 대비를 이룬다.",
+    "독도는 울릉도와 별개의 섬으로 동도·서도가 주요 섬을 이룬다. 울릉도 안에서는 독도박물관·관련 역사시설을 통해 섬의 역사 주제를 이어갈 수 있다."
+   ],
+   "original_preserved_at": "korea-travel/research/2026-10-10/baseline-before-review.json",
+   "verification_scope": {
+    "confirmed": [
+     "명칭·위치",
+     "본문 볼거리",
+     "출처별 근거범위"
+    ],
+    "editorial": [
+     "추천시기",
+     "동선·준비 팁"
+    ],
+    "pending": [
+     "방문일 임시휴무·통제",
+     "확정하지 않은 요금·예약·교통"
+    ]
+   },
+   "unique_id": "kr-gyeongbuk-ulleung-dokdo-overview",
+   "is_parent_reference": true,
+   "existing_catalog_id": null,
+   "editorial_region": "06_경북대구",
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

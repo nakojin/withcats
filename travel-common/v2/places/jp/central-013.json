@@ -1,0 +1,184 @@
+{
+ "id": "central-013",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "후쿠이현립 공룡박물관",
+  "local": "福井県立恐竜博物館"
+ },
+ "admin_region": "후쿠이",
+ "former_region": null,
+ "city": "가쓰야마시",
+ "address": null,
+ "coord": {
+  "lat": 36.082304,
+  "lng": 136.506571,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/1420949543"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-013",
+   "name_ko": "후쿠이현립 공룡박물관",
+   "name_ja": "福井県立恐竜博物館",
+   "region": "주부·호쿠리쿠",
+   "prefecture": "후쿠이",
+   "city": "가쓰야마시",
+   "category": "박물관·자연과학",
+   "description": "공룡 화석 산지 가쓰야마에 있는 대형 자연사 박물관이다. 공룡 골격, 생태 재현 디오라마, 움직이는 모형을 통해 뼈와 살아 있던 생물의 모습을 비교할 수 있다. 실내 상설전과 야외 발굴 현장 프로그램은 서로 다른 표로 운영된다.",
+   "highlights": [
+    "다양한 공룡 골격",
+    "생태 디오라마",
+    "움직이는 공룡 모형"
+   ],
+   "best_time": "연중 실내 관람에 적합. 여름 방학에는 연장 개장하지만 예약과 혼잡 확인이 필요하다.",
+   "visit_tips": [
+    "예약제로 운영되므로 입장 시간부터 확보한다.",
+    "야외 공룡박물관은 상설전 표에 포함되지 않는다.",
+    "촬영은 플래시·삼각대 제한을 확인하고 전시 동선을 방해하지 않는다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.dinosaur.pref.fukui.jp/en/",
+     "title": "FPDM: Overview",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "전시 구성",
+      "위치"
+     ]
+    },
+    {
+     "url": "https://www.dinosaur.pref.fukui.jp/guide/fee.html",
+     "title": "FPDM: 開館時間・料金",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "예약제",
+      "시간·휴일",
+      "상설·야외 요금 구분"
+     ]
+    },
+    {
+     "url": "https://www.dinosaur.pref.fukui.jp/en/info.html",
+     "title": "FPDM: Access & Fee",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "촬영 규정",
+      "교통"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 특별전 가격·야외투어 좌석"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "통상 9:00~17:00·입장 16:30까지. 둘째·넷째 수요일(공휴일이면 다음날, 여름방학 예외), 12/31·1/1 휴관. 상설전 성인 1,000엔, 고·대학생 800엔, 초중학생·70세 이상 500엔, 미취학 무료."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

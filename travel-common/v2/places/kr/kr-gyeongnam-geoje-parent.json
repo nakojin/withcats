@@ -1,0 +1,185 @@
+{
+ "id": "kr-gyeongnam-geoje-parent",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "거제",
+  "local": "거제"
+ },
+ "admin_region": "경상남도",
+ "former_region": null,
+ "city": "거제시 도장포·외도 등 해안 관광권",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongnam-geoje-parent",
+   "name_ko": "거제",
+   "region": "경남",
+   "admin_region": "경상남도",
+   "locality": "거제시 도장포·외도 등 해안 관광권",
+   "type": [
+    "부모관광권",
+    "해안",
+    "정원"
+   ],
+   "highlights": [
+    "외도 보타니아의 비너스가든은 조각과 식재를 함께 배치한 해상 정원이다. 사랑의 언덕 전망에서는 정원 구성을 위에서 살펴볼 수 있다.",
+    "도장포 바람의 언덕은 풍차와 푸른 바다가 만나는 풍경이 중심이다. 바람의 언덕 길은 우제봉 전망대·해금강 쪽으로 이어지는 연계 산책 후보다.",
+    "해금강 해상 경관은 육지에서 보는 해안과 다른 시선을 제공한다. 외도 입도 상품과 해금강을 함께 둘러보는 유람선 상품을 구별해 고른다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을, 해상 기상이 안정적인 맑은 날",
+    "reason": "공식 거제 걷기 기사에서 봄 산책을 소개하며, 정원·해안 조망을 함께 즐기려는 편집 추천이다.",
+    "basis": "editorial_recommendation_based_on_verified_features"
+   },
+   "visit_tips": [
+    "외도 선착장 선택과 출항·귀항 시각을 먼저 확정한다. 한 선착장 상품의 운항시간이나 운임을 다른 항구에 적용하지 않는다.",
+    "외도 입장료와 배삯은 별도 항목이다. 유람선 상품에 입장료가 포함되는지 예약 화면에서 확인한다.",
+    "바람의 언덕 짧은 관람과 우제봉까지 이어지는 길 전체 걷기는 다르다. 신발·바람막이를 준비하고 해상 기상이 나쁘면 육상 일정으로 조정한다."
+   ],
+   "operational": {
+    "notes": [
+     "한국관광공사 외도 페이지: 일반 개인 입장료 성인 11,000원·청소년 8,000원·어린이 5,000원. 스페인어 공식 페이지는 배삯 별도를 명시한다.",
+     "외도 관광정보에는 여름 08:00~19:00·겨울 08:30~17:00로 표기되지만 적용 월과 실제 배편이 별도이므로 특정 날짜의 입도 가능시간으로 확정하지 않는다."
+    ]
+   },
+   "unverified_items": [
+    "외도 선착장별 운임·배편·실제 입도 가능시간",
+    "바람의 언덕 주차요금·통제",
+    "포로수용소 유적공원 현행 운영·요금·휴무"
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110753",
+     "title": "한국관광공사 외도 보타니아",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "비너스가든·사랑의 언덕·입장료·계절 시간"
+    },
+    {
+     "url": "https://spanish.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=109637",
+     "title": "한국관광공사 외도 보타니아 스페인어",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "입장료와 배삯 별도 조건"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=223677",
+     "title": "한국관광공사 거제 봄 걷기 여행",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "바람의 언덕·우제봉 연계, 해금강·외도 여행 성격. 과거 운임·배편 제외"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/07_경남부산울산/거제.md",
+   "document_path": "korea-travel/07_경남부산울산/거제.md",
+   "path": "korea-travel/07_경남부산울산/거제.md",
+   "count_as_independent": false,
+   "relation_type": "parent_reference",
+   "relation_note": "거제시·거제도 부모 관광권. 외도·바람의 언덕·해금강을 새 독립 수량으로 분할하지 않는다.",
+   "related_catalog_ids": [],
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification",
+   "editorial_region": "07_경남부산울산"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

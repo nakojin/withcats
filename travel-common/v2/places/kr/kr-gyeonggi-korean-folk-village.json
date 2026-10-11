@@ -1,0 +1,220 @@
+{
+ "id": "kr-gyeonggi-korean-folk-village",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "한국민속촌",
+  "local": "한국민속촌"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "경기 용인시 기흥구 민속촌로 90",
+ "address": null,
+ "coord": {
+  "lat": 37.259479,
+  "lng": 127.121042,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/392288060"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-korean-folk-village",
+   "name_ko": "한국민속촌",
+   "region": "인천경기",
+   "admin_region": "경기도",
+   "locality": "경기 용인시 기흥구 민속촌로 90",
+   "type": [
+    "전통문화",
+    "공연",
+    "체험"
+   ],
+   "highlights": [
+    "각 지방 실물 가옥을 옮기거나 복원한 민속마을에서 집의 구조와 전통 생활도구를 함께 살펴볼 수 있다.",
+    "대장간·옹기·죽기·목기 같은 전통공방과 민속 전시는 마을 풍경을 실제 생활문화로 연결해 준다.",
+    "풍물한가락·삼도판굿 등 전통 공연과 놀이마을을 조합하면 역사 관람과 가족 놀이를 한 공간에서 이어갈 수 있다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을, 원하는 공연이 열리는 날",
+    "reason": "야외 가옥과 공방을 오래 걷기 편한 계절을 추천한다. 야간 분위기가 목적이라면 해당 시즌의 야간 운영일을 고른다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "입장 후 당일 공연표를 먼저 확인하고 보고 싶은 공연 사이에 가까운 가옥을 배치한다.",
+    "퇴장 후 재입장이 불가하므로 식사와 필요한 물품을 입장 전에 계획한다. 자전거·킥보드 반입도 제한된다.",
+    "놀이시설은 개장 30분 뒤부터 이용하며 신장 제한·기상 중단·조기 마감이 있을 수 있다."
+   ],
+   "sources": [
+    {
+     "url": "https://www.koreanfolk.co.kr/about",
+     "title": "한국민속촌 공식 소개",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "가옥",
+      "전통공방",
+      "전시관·놀이마을",
+      "주소"
+     ]
+    },
+    {
+     "url": "https://www.koreanfolk.co.kr/ticket/admission-fees",
+     "title": "한국민속촌 공식 이용요금",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "주중·주말 종일권",
+      "연령",
+      "이용 제한"
+     ]
+    },
+    {
+     "url": "https://www.koreanfolk.co.kr/",
+     "title": "한국민속촌 공식 당일 운영·공연",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "2026-10-10 운영",
+      "이달 공연",
+      "야간 시즌"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": "2026-10-10 열람: 종일권 성인 주중 37,000원·주말 39,000원, 아동 주중 30,000원·주말 32,000원. 대인 중학생 이상, 소인 36개월~초등학생. 36개월 미만은 증빙 지참 시 무료.",
+    "hours": "공식 홈페이지의 2026-10-10 당일 운영은 10:00~22:00. 다른 날짜에 일반화하지 않는다.",
+    "reservation": null,
+    "status_note": "공연·박물관·놀이시설은 현장 상황으로 달라질 수 있다. 할인과 오후권은 별도 조건."
+   },
+   "record_status": "verified_core_operational_pending",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/02_인천경기/한국민속촌.md",
+   "document_path": "korea-travel/02_인천경기/한국민속촌.md",
+   "path": "korea-travel/02_인천경기/한국민속촌.md",
+   "count_as_independent": true,
+   "record_origin": "baseline_followup",
+   "counting_unit": "one_named_destination_or_connected_visit_area",
+   "relation_note": "기존 단일 목적지 문서를 같은 경로로 보강. 내부 시설은 별도 명소로 가산하지 않는다.",
+   "verification_scope": {
+    "confirmed": [
+     "공식 웹본문의 명칭·위치·볼거리"
+    ],
+    "editorial": [
+     "추천시기·이유",
+     "특성에 근거한 동선·준비 조언"
+    ],
+    "pending": [
+     "방문일 야간운영 여부",
+     "주차요금·버스 현행 노선",
+     "개별 유료체험 예약·추가요금"
+    ]
+   },
+   "unconfirmed_items": [
+    "방문일 야간운영 여부",
+    "주차요금·버스 현행 노선",
+    "개별 유료체험 예약·추가요금"
+   ],
+   "baseline_correction": "성인 37,000원만 일괄 기재하던 원문을 주중·주말 차등 공식표로 교정. 경로 25,000원은 재확인되지 않아 제외.",
+   "editorial_region": "02_인천경기",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

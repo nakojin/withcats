@@ -1,0 +1,176 @@
+{
+ "id": "kr-seoul-n-seoul-tower",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "N서울타워(남산)",
+  "local": "N서울타워(남산)"
+ },
+ "admin_region": "서울특별시",
+ "former_region": null,
+ "city": "서울 남산",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-seoul-n-seoul-tower",
+   "name_ko": "N서울타워(남산)",
+   "region": "서울",
+   "admin_region": "서울특별시",
+   "locality": "서울 남산",
+   "type": [
+    "전망",
+    "야경"
+   ],
+   "highlights": [
+    "해발 약 400m의 전망대에서 서울을 360도로 둘러보고 낮의 도시 구조와 야간 조명을 비교할 수 있다.",
+    "전망대행 엘리베이터의 미디어아트와 디지털 망원경이 단순 전망에 더해지는 관람 요소다.",
+    "공식 관람 팁은 용산대로 쪽 도로·조명이 만드는 별 모양을 찾아보도록 안내한다."
+   ],
+   "recommended_season": {
+    "text": "맑은 날 해질녘. 낮 풍경에서 야경으로 바뀌는 모습을 볼 수 있다는 편집 추천이며, 조망은 기상에 좌우된다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "타워 전망대와 남산케이블카는 별도 시설이므로 각각의 이용안내를 확인한다.",
+    "일반 승용차는 남산 순환로 통행이 제한되어 인근 주차 후 순환버스나 도보로 접근하는 동선을 잡는다. 전망대 입장시간과 산에 오르는 시간을 따로 계산한다.",
+    "전망대는 공식 FAQ상 별도 예약 없이 당일권 구매가 가능하다. 레스토랑 예약이나 케이블카 이용을 같은 조건으로 생각하지 않는다."
+   ],
+   "operational": {
+    "notes": [
+     "전망대: 평일 10:00~22:30, 주말·공휴일 10:00~23:00. 입장은 마감 30분 전까지(공식 페이지 표기, 2026-10-10 확인).",
+     "기후와 운영 일정에 따라 시간이 달라질 수 있다. 전망대 요금과 케이블카 요금·막차는 이번 공식 검증에서 확정하지 않았다."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://www.nseoultower.co.kr/visit/use.asp",
+     "title": "N서울타워 이용시간",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://www.nseoultower.co.kr/visit/observatory.asp",
+     "title": "N서울타워 전망대·관찰 포인트",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://www.nseoultower.co.kr/visit/traffic.asp",
+     "title": "N서울타워 공식 교통안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://www.nseoultower.co.kr/global/customer/faq.asp?sch_type=01",
+     "title": "N서울타워 공식 FAQ",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/01_서울/N서울타워(남산).md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/01_서울/N서울타워(남산).md",
+   "editorial_region": "01_서울",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

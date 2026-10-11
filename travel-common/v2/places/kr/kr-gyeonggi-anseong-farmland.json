@@ -1,0 +1,175 @@
+{
+ "id": "kr-gyeonggi-anseong-farmland",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "안성팜랜드",
+  "local": "안성팜랜드"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "안성시 공도읍 대신두길 28",
+ "address": null,
+ "coord": {
+  "lat": 36.991966,
+  "lng": 127.193482,
+  "geo_type": "point",
+  "precision": "place",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/4684645708"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-anseong-farmland",
+   "name_ko": "안성팜랜드",
+   "aliases": [],
+   "region": "경기도",
+   "admin_region": "경기도",
+   "locality": "안성시 공도읍 대신두길 28",
+   "type": [
+    "체험목장",
+    "초원"
+   ],
+   "highlights": [
+    "칡소·황소·당나귀·면양 등 가축을 만나는 체험목장",
+    "넓은 초지와 경관단지 산책, 실내외 승마장"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "넓은 초원과 방목장 등 야외 공간을 오래 걷기에 온화한 계절을 권한다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "목장 체험과 초지 산책을 먼저 고르고 넓은 부지의 안내지도로 이동 순서를 정한다. 어린이 동반이면 중앙광장의 수유실·쉼터 위치도 표시해 둔다.",
+    "먹이주기·가축공연·승마는 방문 목적에 맞춰 당일 운영을 각각 확인한다. 체험목장과 승마센터가 별도 시설인 점을 고려해 일정을 잡는다."
+   ],
+   "sources": [
+    {
+     "url": "https://nhasfarmland.com/new/nhfarm/farmlandIntro01_1.php",
+     "title": "농협 안성팜랜드: 팜랜드 소개",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "주소",
+      "가축 종류",
+      "초지·체험목장·승마센터",
+      "중앙광장 편의시설"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선·준비물 조언은 확인된 장소 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/02_인천경기/안성팜랜드.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

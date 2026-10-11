@@ -1,0 +1,179 @@
+{
+ "id": "WEST-033",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "스이젠지 조주엔",
+  "local": "水前寺成趣園"
+ },
+ "admin_region": "구마모토",
+ "former_region": null,
+ "city": "구마모토시",
+ "address": null,
+ "coord": {
+  "lat": 32.790744,
+  "lng": 130.734899,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/682657477"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-033",
+   "name_ko": "스이젠지 조주엔",
+   "name_ja": "水前寺成趣園",
+   "region": "규슈",
+   "prefecture": "구마모토",
+   "city": "구마모토시",
+   "category": "일본정원",
+   "description": "호소카와 다다토시 시대에 시작된 회유식 정원이다. 용수가 솟는 연못과 후지산을 떠올리게 하는 둔덕, 신사와 노 무대를 한 바퀴 이어서 볼 수 있어 도심 속 짧은 정원 산책에 맞는다.",
+   "highlights": [
+    "용수 연못",
+    "후지산 모양 둔덕",
+    "이즈미신사와 노 무대"
+   ],
+   "best_time": "연중.한바퀴30~40분의 야외산책이므로 한낮보다 서늘한 시간대를 권한다.",
+   "visit_tips": [
+    "노면전차 스이젠지코엔에서 도보약4분이다",
+    "정문·북문을 이용하고 폐쇄된 동문·남문을 목적지로 잡지 않는다",
+    "전용주차장이 없어 차량이면 주변주차장을 확인한다"
+   ],
+   "hours_and_fees": {
+    "hours": "08:30–17:00,최종16:30,연중무휴",
+    "fees": "16세이상500엔,6~15세200엔",
+    "conditions": "반려동물 불가(보조견 제외)",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://www.suizenji.or.jp/guide/",
+     "title": "스이젠지 조주엔 이용안내",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "시간",
+      "요금",
+      "소요",
+      "출입문",
+      "주차"
+     ]
+    },
+    {
+     "url": "https://www.suizenji.or.jp/",
+     "title": "스이젠지 조주엔 공식소개",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "정원역사",
+      "연못",
+      "둔덕",
+      "신사",
+      "노무대"
+     ]
+    }
+   ],
+   "unconfirmed": [],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

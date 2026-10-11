@@ -1,0 +1,176 @@
+{
+ "id": "kr-jeju-haenyeo-museum",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "제주해녀박물관",
+  "local": "제주해녀박물관"
+ },
+ "admin_region": "제주특별자치도",
+ "former_region": null,
+ "city": "제주시 구좌읍 해녀박물관길 26",
+ "address": null,
+ "coord": {
+  "lat": 33.52209,
+  "lng": 126.863536,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/368735470"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeju-haenyeo-museum",
+   "name_ko": "제주해녀박물관",
+   "aliases": [],
+   "region": "제주특별자치도",
+   "admin_region": "제주특별자치도",
+   "locality": "제주시 구좌읍 해녀박물관길 26",
+   "type": [
+    "박물관",
+    "해양문화"
+   ],
+   "highlights": [
+    "해녀가 기증한 생활·작업 자료",
+    "해녀 집을 재현한 전시",
+    "반농반어 생활과 영등굿 등 공동체 문화"
+   ],
+   "recommended_season": {
+    "text": "연중",
+    "reason": "실내에서 해녀의 노동과 생활을 함께 이해할 수 있다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "잠수 장비뿐 아니라 주거·음식·농사 관련 전시까지 연결해 본다.",
+    "현역 해녀 작업을 구경하는 장소와 박물관을 구분한다.",
+    "특별전·교육은 상설 관람과 별도 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=103315",
+     "title": "VISITKOREA — Jeju Haenyeo Museum",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "해녀가 기증한 생활·작업 자료; 해녀 집을 재현한 전시; 반농반어 생활과 영등굿 등 공동체 문화"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "실제 물질 시연이 제공된다고 보장하지 않는다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/08_제주/제주해녀박물관.md",
+   "editorial_region": "08_제주",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

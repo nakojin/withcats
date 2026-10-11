@@ -1,0 +1,196 @@
+{
+ "id": "bj-mutianyu",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "무톈위 만리장성",
+  "local": "慕田峪长城"
+ },
+ "admin_region": "베이징시",
+ "former_region": null,
+ "city": "베이징",
+ "address": null,
+ "coord": {
+  "lat": 40.434515,
+  "lng": 116.560575,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/756859585"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "bj-mutianyu",
+   "name_ko": "무톈위 만리장성",
+   "name_local": "慕田峪长城",
+   "city": "베이징",
+   "province": "베이징시",
+   "region": "베이징",
+   "destination_cluster": "베이징",
+   "category": "성곽·산악경관",
+   "description": "숲으로 둘러싸인 명대 장성 구간이다. 케이블카와 리프트·슬라이드가 있지만 서로 다른 운영사 표가 통용되지 않아 오르는 방법과 내려오는 방법을 같은 상품으로 착각하지 않는 것이 중요하다.",
+   "best_time": {
+    "period": "봄·가을 오전",
+    "reason": "산길을 걸을 시간을 확보하기 좋으며 기상 악화 시 시설 중단 가능성을 확인하기 쉽다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "3/16~11/15 평일 07:30~18:00, 주말 07:30~18:30; 11/16~3/15 08:00~17:30. 판매는 폐장 1시간 전, 검표는 30분 전 마감.",
+    "price": "입장·교통시설 최신 개별요금 미확인",
+    "currency": "CNY",
+    "reservation": "운영자 중국어 본문: 30일 전부터 실명예약, 여권당 하루 1장. 외국 여권은 예약 증명서 원본으로 해당 검표구에서 입장, 별도 교환 불필요.",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://www.mutianyugreatwall.com/cnInformation",
+     "title": "무톈위 운영자 방문 안내",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "시간",
+      "30일 예약",
+      "여권 검표",
+      "공개구간",
+      "교통시설 표 분리"
+     ]
+    },
+    {
+     "url": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260325_4566115.html",
+     "title": "베이징시 Mutianyu Great Wall",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "명대 장성",
+      "망루와 숲"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "최신 입장·교통요금",
+    "결제수단"
+   ],
+   "status": "operations_reconfirmation_needed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "핵심 정성 수요 확인",
+   "collection_group": "history",
+   "highlights": [
+    "촘촘한 망루",
+    "숲과 능선 전망",
+    "양면 여장 구조"
+   ],
+   "visit_tips": [
+    "주간 공개구간 1~20호 망루 밖으로 가지 않는다",
+    "케이블카와 리프트·슬라이드 표는 서로 통용되지 않는다",
+    "예약한 여권 원본을 지참한다"
+   ],
+   "original_region": "화북",
+   "selection_region_id": "beijing",
+   "selection_evidence_ids": [
+    "SEL03"
+   ],
+   "selection_scope_caution": "정량 도시순위 없음; 근교 장성은 연계권역.",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

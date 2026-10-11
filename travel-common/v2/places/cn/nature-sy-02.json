@@ -1,0 +1,198 @@
+{
+ "id": "nature-sy-02",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "아룽만 열대천당삼림공원",
+  "local": "亚龙湾热带天堂森林公园"
+ },
+ "admin_region": "하이난성",
+ "former_region": null,
+ "city": "싼야 지양구",
+ "address": null,
+ "coord": {
+  "lat": 18.253056,
+  "lng": 109.639624,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "way/1469685542"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-sy-02",
+   "name_ko": "아룽만 열대천당삼림공원",
+   "name_local": "亚龙湾热带天堂森林公园",
+   "city": "싼야 지양구",
+   "province": "하이난성",
+   "region": "싼야·하이난 남부",
+   "destination_cluster": "싼야·하이난 남부",
+   "category": "열대숲·전망",
+   "description": "아룽만 북쪽 능선의 열대 숲과 바다 전망을 함께 보는 관광 시설이다. 유리 전망 길과 산 사이 흔들다리가 해변 휴양과 다른 경험을 제공한다. 높은 곳을 피하고 싶은 사람은 숲 산책 중심으로 방문할 수 있는지 상품 구성을 확인하는 것이 좋다.",
+   "best_time": {
+    "period": "봄의 오전",
+    "reason": "관광국 봄 추천에 이 공원이 포함되어 있다. 오전은 더위와 긴 야외 활동을 고려한 편집 제안이다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "08:00–18:00",
+    "fees": "기본표·셔틀·유리길·흔들다리의 현재 요금 및 포함 범위 미확인",
+    "reservation": "관광국 안내 전화 0898-38279914 / 0898-38278830. 한국 여권 예약 및 현장 입장 미확인"
+   },
+   "sources": [
+    {
+     "url": "https://www.visitsanya.com/destination/yalong-bay-tropical-paradise-forest-park-2",
+     "title": "싼야 관광발전국: 열대천당삼림공원",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "아룽만 북측 능선",
+      "유리길·흔들다리",
+      "08:00–18:00"
+     ]
+    },
+    {
+     "url": "https://www.visitsanya.com/planning/travel-guide/before-you-go/best-time-to-travel",
+     "title": "싼야 관광발전국: 방문 시기",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "겨울 따뜻한 날씨",
+      "봄 숲 산책",
+      "겨울 루후이터우 일몰 추천"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "counting_scope": "개별 방문 목적지 1곳; 내부 포인트는 추가 집계하지 않음",
+   "selection_tier": "도시 방문수요 확인",
+   "collection_group": "nature",
+   "highlights": [
+    "아룽만 산해 전망",
+    "유리 전망길",
+    "과강룡 흔들다리"
+   ],
+   "visit_tips": [
+    "유리길·흔들다리 포함권인지 확인한다",
+    "셔틀과 도보 구간을 함께 확인한다",
+    "급작스러운 비와 습한 보행로에 대비한다"
+   ],
+   "counting_note": "아룽만 해변과 별도 입장·산악 동선인 삼림공원 1개. 이름에 같은 지명을 포함하지만 같은 레코드의 중복이 아님.",
+   "original_region": "싼야·하이난 남부",
+   "selection_region_id": "sanya",
+   "selection_evidence_ids": [
+    "SEL04",
+    "SEL02"
+   ],
+   "selection_scope_caution": "한국인 비중·순위 미공개. 휴양 다양화를 위한 편집 선정이며 하이난 전역 인기 주장 금지.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

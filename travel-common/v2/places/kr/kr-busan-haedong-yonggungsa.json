@@ -1,0 +1,176 @@
+{
+ "id": "kr-busan-haedong-yonggungsa",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "해동용궁사",
+  "local": "해동용궁사"
+ },
+ "admin_region": "부산광역시",
+ "former_region": null,
+ "city": "기장군 기장읍 용궁길 86",
+ "address": null,
+ "coord": {
+  "lat": 35.188434,
+  "lng": 129.222976,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/382701819"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-busan-haedong-yonggungsa",
+   "name_ko": "해동용궁사",
+   "aliases": [],
+   "region": "부산광역시",
+   "admin_region": "부산광역시",
+   "locality": "기장군 기장읍 용궁길 86",
+   "type": [
+    "사찰",
+    "해안"
+   ],
+   "highlights": [
+    "바다 절벽 위 사찰 경관",
+    "입구의 십이지상",
+    "대나무 사이로 이어지는 계단"
+   ],
+   "recommended_season": {
+    "text": "맑은 봄·가을",
+    "reason": "해안과 사찰을 걸어서 함께 보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "입구에서 사찰 안으로 이어지는 계단 때문에 편한 신발을 준비한다.",
+    "십이지상 구간과 바다를 바라보는 사찰 구간을 나눠 관람한다.",
+    "예불·기도 중인 방문객의 통행과 공간을 배려한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?menuSn=508&vcontsId=177329",
+     "title": "VISITKOREA — My Name Filming Location Tour",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "바다 절벽 위 사찰 경관; 입구의 십이지상; 대나무 사이로 이어지는 계단"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "2023년 소개에 근거한 지형·볼거리다. 시간·계단 방향·무장애 접근은 최신 운영기관 확인이 필요하다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/07_경남부산울산/해동용궁사.md",
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

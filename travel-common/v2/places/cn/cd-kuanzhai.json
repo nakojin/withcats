@@ -1,0 +1,184 @@
+{
+ "id": "cd-kuanzhai",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "콴자이샹쯔",
+  "local": "宽窄巷子"
+ },
+ "admin_region": "쓰촨성",
+ "former_region": null,
+ "city": "청두",
+ "address": null,
+ "coord": {
+  "lat": 30.666194,
+  "lng": 104.050808,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/588905842"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "cd-kuanzhai",
+   "name_ko": "콴자이샹쯔",
+   "name_local": "宽窄巷子",
+   "city": "청두",
+   "province": "쓰촨성",
+   "region": "청두",
+   "destination_cluster": "청두·두장옌",
+   "category": "역사거리·생활문화",
+   "description": "콴샹쯔·자이샹쯔·징샹쯔의 평행한 골목과 사합원 군을 둘러보는 역사문화 거리다. 2008년 정비된 상업·문화 공간으로 오래된 건축 양식과 현대적인 활용을 함께 읽는 재미가 있다.",
+   "best_time": {
+    "period": "평일 늦은 오후",
+    "reason": "거리 건축을 밝을 때 보고 저녁 분위기로 이어가기 좋다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "공용거리·상점 최신 운영시간 미확인",
+    "price": "공용거리·유료 체험 최신 공식요금 미확인",
+    "currency": "CNY",
+    "reservation": "예약·결제 조건은 개별 업체별 확인 필요",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://cd3000y.cccic.org.cn/views/3DMuseum/OldStreet.aspx",
+     "title": "청두 문화광전여유국 역사문화거리",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "세 골목",
+      "사합원",
+      "2008년 정비"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "공용거리 출입조건",
+    "개별 점포·공연 시간·요금·결제"
+   ],
+   "status": "operations_reconfirmation_needed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "핵심 정성 수요 확인",
+   "collection_group": "history",
+   "highlights": [
+    "세 골목의 구성",
+    "사합원 대문",
+    "정비된 문화·상업공간"
+   ],
+   "visit_tips": [
+    "세 골목을 짧게 연결해 걷는다",
+    "찻집·공연 가격과 포함사항을 먼저 확인한다",
+    "현대 정비 구역을 온전히 보존된 청대 생활공간으로 오해하지 않는다"
+   ],
+   "original_region": "서남",
+   "selection_region_id": "chengdu",
+   "selection_evidence_ids": [
+    "SEL03"
+   ],
+   "selection_scope_caution": "러산·두장옌 등은 청두 밖 연계지이며 청두 수요를 모든 쓰촨 명소에 일반화하지 않는다.",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

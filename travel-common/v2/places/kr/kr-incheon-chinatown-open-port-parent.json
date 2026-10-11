@@ -1,0 +1,178 @@
+{
+ "id": "kr-incheon-chinatown-open-port-parent",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "인천 차이나타운·개항장",
+  "local": "인천 차이나타운·개항장"
+ },
+ "admin_region": "인천광역시",
+ "former_region": null,
+ "city": "인천 제물포구 차이나타운·개항장 일대",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-incheon-chinatown-open-port-parent",
+   "name_ko": "인천 차이나타운·개항장",
+   "region": "인천",
+   "admin_region": "인천광역시",
+   "locality": "인천 제물포구 차이나타운·개항장 일대",
+   "type": [
+    "부모관광권",
+    "근대건축",
+    "먹거리"
+   ],
+   "highlights": [
+    "차이나타운의 패루·홍등·중국식 건물은 개항 뒤 정착한 화교의 생활문화와 연결된다. 짜장면·공갈빵·월병을 역사 산책 사이에 맛보는 구성이 어울린다.",
+    "청·일 조계지 경계계단과 개항장 건축물을 따라 걸으면 조계지와 무역항이 형성한 도시의 모습을 비교할 수 있다.",
+    "공화춘 건물을 활용한 짜장면박물관, 근대유물을 전시하는 인천개항박물관, 창고에서 문화예술공간으로 바뀐 인천아트플랫폼은 건물의 원래 쓰임과 현재 쓰임을 함께 보는 지점이다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을 낮, 날씨가 궂으면 개별 박물관 중심",
+    "reason": "거리와 실내 문화공간을 함께 고를 수 있다는 편집 추천이며 모든 시설의 연중 개방을 뜻하지 않는다.",
+    "basis": "editorial_recommendation_based_on_verified_features"
+   },
+   "visit_tips": [
+    "패루 뒤에는 경사진 길이 있다. 계단·오르막이 부담스럽다면 거리 산책 범위를 줄이고 박물관 접근 경로를 먼저 살핀다.",
+    "개항장 공식 안내는 문화관광해설사 예약 도보관광을 소개한다. 해설을 원하면 방문일 가능 여부를 먼저 확인한다.",
+    "거리의 유료 주차장 존재와 짜장면박물관 전용 주차장 여부는 다른 문제다. 차이나타운 전체 주차 정보를 개별 시설에 적용하지 않는다."
+   ],
+   "operational": {
+    "notes": [
+     "인천투어 차이나타운 페이지는 유료 주차와 반려견 목줄·배설물 처리 조건을 안내한다. 실내 박물관의 동반 허용을 뜻하지 않는다.",
+     "현행 인천투어 주소는 제물포구로 표기된다. 기존 중구 표기는 옛 원문 보관본에 남기고 이 안내는 공식 페이지 표기를 따른다."
+    ]
+   },
+   "unverified_items": [
+    "짜장면박물관 현행 관람시간·입장마감·요금·휴관",
+    "각 박물관 단체예약 및 주차 조건",
+    "월미도 연결 교통과 송월동 시설 개방"
+   ],
+   "sources": [
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21122811325905008",
+     "title": "인천투어 차이나타운",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "개항 배경, 패루·경사길·대표 먹거리, 현행 주소·주차 조건"
+    },
+    {
+     "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=APD21112609214993209",
+     "title": "인천투어 개항장 거리",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "조계지 경계계단, 박물관·아트플랫폼, 해설 예약"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/02_인천경기/인천 차이나타운·개항장.md",
+   "document_path": "korea-travel/02_인천경기/인천 차이나타운·개항장.md",
+   "path": "korea-travel/02_인천경기/인천 차이나타운·개항장.md",
+   "count_as_independent": false,
+   "relation_type": "parent_reference",
+   "relation_note": "차이나타운과 개항장 여러 시설을 잇는 부모 관광권이며 구성 박물관을 새 명소 수로 가산하지 않는다.",
+   "related_catalog_ids": [],
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification",
+   "editorial_region": "02_인천경기"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

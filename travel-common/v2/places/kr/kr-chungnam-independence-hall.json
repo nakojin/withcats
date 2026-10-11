@@ -1,0 +1,173 @@
+{
+ "id": "kr-chungnam-independence-hall",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "독립기념관",
+  "local": "독립기념관"
+ },
+ "admin_region": "충청남도",
+ "former_region": null,
+ "city": "천안시 동남구 목천읍 독립기념관로 1",
+ "address": null,
+ "coord": {
+  "lat": 36.783045,
+  "lng": 127.224876,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/368635603"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-chungnam-independence-hall",
+   "name_ko": "독립기념관",
+   "aliases": [],
+   "region": "충청남도",
+   "admin_region": "충청남도",
+   "locality": "천안시 동남구 목천읍 독립기념관로 1",
+   "type": [
+    "박물관",
+    "독립운동사"
+   ],
+   "highlights": [
+    "겨레의 시련·겨레의 함성 등 주제별 독립운동 전시관",
+    "겨레의집과 해설 프로그램"
+   ],
+   "recommended_season": {
+    "text": "사계절",
+    "reason": "실내 전시를 중심으로 역사 관람을 구성할 수 있다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "첫 방문에는 겨레의집 고객지원센터에서 개괄해설을 문의하거나 관심 전시관 해설을 골라 본다.",
+    "3·5·6관 독립운동전시해설은 공식 안내에 3.5mm 유선 이어폰 준비를 명시한다. 무선 이어폰은 사용할 수 없으며 해당 회차 예약 조건을 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://search1.i815.or.kr/2018/tour/explain.do?agree=P&mode=L",
+     "title": "독립기념관: 2026 전시 해설 예약 안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약 조건은 확정 수치로 수록하지 않음. 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/04_충청/독립기념관.md",
+   "editorial_region": "04_충청",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "id": "kr-gyeonggi-aegibong-peace-eco-park",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "애기봉평화생태공원",
+  "local": "애기봉평화생태공원"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "김포시 하성면 가금리 193-7",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-aegibong-peace-eco-park",
+   "name_ko": "애기봉평화생태공원",
+   "aliases": [
+    "김포 애기봉평화생태공원"
+   ],
+   "region": "경기도",
+   "admin_region": "경기도",
+   "locality": "김포시 하성면 가금리 193-7",
+   "type": [
+    "평화관광",
+    "전망대",
+    "생태공원"
+   ],
+   "highlights": [
+    "조강과 북한 개풍군 일대를 바라보는 조강전망대",
+    "한강 하구의 역사·생태를 다룬 전시관과 흔들다리를 포함한 생태탐방로"
+   ],
+   "recommended_season": {
+    "text": "봄·가을의 시야가 맑은 날",
+    "reason": "야외 탐방로 걷기와 조강 건너편 조망을 함께 즐기기 좋도록 온화하고 시야가 좋은 날을 권한다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "민간인 출입통제구역이므로 신분증을 챙기고 예약한 입장시간을 지킨다. 홈페이지의 현장발권 가능 조건도 방문 전에 확인한다.",
+    "전시관에서 조강의 역사·생태를 본 뒤 지정 탐방로를 따라 전망대로 이동한다. 공원에서는 드론 운행·촬영이 금지되며 군사시설 촬영 제한도 지켜야 한다."
+   ],
+   "sources": [
+    {
+     "url": "https://aegibong.or.kr/Home/index",
+     "title": "김포문화재단 애기봉평화생태공원: 시설·입장 안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "조강전망대",
+      "생태전시관·탐방로",
+      "신분증·입장시간"
+     ]
+    },
+    {
+     "url": "https://aegibong.or.kr/Home/H10000/H10200/html",
+     "title": "애기봉평화생태공원: 찾아오시는길",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "주소"
+     ]
+    },
+    {
+     "url": "https://aegibong.or.kr/Home/H30000/H30300/html",
+     "title": "애기봉평화생태공원: 유의사항",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "지정 탐방로",
+      "신분증 필수",
+      "드론·군사시설 촬영 제한"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선·준비물 조언은 확인된 장소 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/02_인천경기/애기봉평화생태공원.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,185 @@
+{
+ "id": "central-030",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "뵤도인",
+  "local": "平等院"
+ },
+ "admin_region": "교토",
+ "former_region": null,
+ "city": "우지시",
+ "address": null,
+ "coord": {
+  "lat": 34.8895,
+  "lng": 135.807453,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/332883349"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-030",
+   "name_ko": "뵤도인",
+   "name_ja": "平等院",
+   "region": "간사이",
+   "prefecture": "교토",
+   "city": "우지시",
+   "category": "사찰·박물관",
+   "description": "봉황당과 정원, 호쇼칸 박물관을 함께 보는 우지의 문화유산이다. 밖에서 건축을 감상하는 방문과 봉황당 내부 관람은 별도 표·시간으로 나뉜다. 공식 모델코스도 기본 약 50분과 심화 약 90분으로 구분되어 있어 차문화 일정과 조합하기 좋다.",
+   "highlights": [
+    "봉황당 건축",
+    "정원 산책",
+    "호쇼칸 불교미술 전시"
+   ],
+   "best_time": "봄·가을 정원 관람을 편집 추천. 여름에는 봉황당 특별 운영 공지 확인이 필요하다.",
+   "visit_tips": [
+    "봉황당 내부는 정원 안 접수처에서 별도 신청한다.",
+    "2026-10-16부터 내부 회당 정원이 50명에서 35명으로 줄어든다.",
+    "정원 폐문과 박물관 최종입장 시간이 다르므로 박물관을 마지막에 몰지 않는다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.byodoin.or.jp/en/guide/",
+     "title": "Byodoin Guide",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "시간",
+      "요금",
+      "별도 내부관람"
+     ]
+    },
+    {
+     "url": "https://www.byodoin.or.jp/en/",
+     "title": "Byodoin Official",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "모델코스",
+      "박물관",
+      "정원"
+     ]
+    },
+    {
+     "url": "https://www.byodoin.or.jp/en/news/cat23/20261016/",
+     "title": "Byodoin: Capacity change October 16 2026",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "회당 정원 변경"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "2026 여름~10월 내부관람의 날짜별 변경",
+    "당일 내부표 매진"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "정원 8:45~17:30·입장 17:15까지, 호쇼칸 9:00~17:00·입장 16:45까지. 정원+박물관 성인 700엔·중고생 400엔·초등학생 300엔. 봉황당 내부 300엔 추가. 연중이나 행사로 내부 중단 가능."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

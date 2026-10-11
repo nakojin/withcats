@@ -3,13 +3,12 @@
 
 사용:
   validate_v2.py coords  <repo_root>            # coordinates/*.json 이 catalog 와 맞는지
-  validate_v2.py places  <places.json> [--today YYYY-MM-DD]   # v2 장소 레코드 배열 검사
+  validate_v2.py store   <repo_root> [--today YYYY-MM-DD]     # v2 장소 파일 전체 검사
 종료 코드: 오류가 있으면 1, 경고만 있으면 0.
 """
-import json, sys, datetime, collections
+import json, os, sys, datetime, collections
 
 BBOX = {'kr': (32.5, 39.5, 123.5, 132.5), 'jp': (24.0, 46.0, 122.0, 146.5), 'cn': (17.5, 54.0, 73.0, 135.5)}
-OPS_KEYS = ('hours', 'fees', 'reservation', 'closed_days', 'payment')
 STATUS = {'confirmed', 'unconfirmed', 'not_applicable'}
 CONF = {'high', 'medium', 'low', 'none'}
 
@@ -61,75 +60,74 @@ def coords(root):
     return err, warn, summary
 
 
-def ops_item(path, o, sources, err):
-    if not isinstance(o, dict) or o.get('status') not in STATUS:
-        err.append(f'{path}: status must be one of {sorted(STATUS)}')
-        return
-    st, val = o['status'], o.get('value')
-    if st == 'confirmed':
-        if not val:
-            err.append(f'{path}: confirmed requires a value')
-        key = path.split('.')[-1]
-        if not any(key in (s.get('supports') or []) for s in sources):
-            err.append(f'{path}: confirmed but no source lists "{key}" in supports')
-        if not o.get('checked_at'):
-            err.append(f'{path}: confirmed requires checked_at')
-    elif st == 'unconfirmed':
-        if val is not None:
-            err.append(f'{path}: unconfirmed must have value null')
-        if not o.get('note'):
-            err.append(f'{path}: unconfirmed requires a note explaining why')
-
-
-def places(path, today):
+def store(root, today=None):
+    """v2 장소 파일 전체를 검사한다."""
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from v2common import (CHECKLIST, FIELD_TO_ITEM, PUBLISHABLE, VERDICTS, SOURCE_TYPES, GAP_REASONS, iter_places)
     err, warn = [], []
-    with open(path, encoding='utf-8') as fh:
-        d = json.load(fh)
-    d = d if isinstance(d, list) else d.get('places', [])
-    ids = [p.get('id') for p in d]
-    if len(ids) != len(set(ids)):
-        err.append('duplicate ids')
-    for p in d:
-        pid = p.get('id', '?')
-        for k in ('id', 'country', 'admin_region', 'city', 'names', 'category', 'coord', 'summary', 'description',
-                  'highlights', 'ops', 'sources', 'quality'):
-            if p.get(k) in (None, '', [], {}):
+    seen = set()
+    for path, p in iter_places(root):
+        pid = p.get('id', path)
+        if pid in seen:
+            err.append(f'{pid}: duplicate id')
+        seen.add(pid)
+        for k in ('id', 'country', 'tier', 'status', 'names', 'admin_region', 'checklist', 'claims', 'meta'):
+            if k not in p:
                 err.append(f'{pid}: missing {k}')
         if p.get('country') not in BBOX:
-            err.append(f'{pid}: country must be kr/jp/cn')
-        c = p.get('coord') or {}
+            err.append(f'{pid}: bad country')
+            continue
+        c = p.get('coord')
         if c:
-            lat0, lat1, lng0, lng1 = BBOX.get(p.get('country'), (-90, 90, -180, 180))
+            lat0, lat1, lng0, lng1 = BBOX[p['country']]
             if not (lat0 <= c.get('lat', -999) <= lat1 and lng0 <= c.get('lng', -999) <= lng1):
                 err.append(f'{pid}: coord outside country bounding box')
-            if c.get('confidence') not in CONF - {'none'}:
-                err.append(f'{pid}: coord.confidence must be high/medium/low')
-        src = p.get('sources') or []
-        for s in src:
-            if not s.get('url') or not s.get('checked_at'):
-                err.append(f'{pid}: source needs url and checked_at')
-        for k in OPS_KEYS:
-            ops_item(f'{pid}.ops.{k}', (p.get('ops') or {}).get(k), src, err)
-        if p.get('recommended_duration_min') is None and not p.get('duration_note'):
-            warn.append(f'{pid}: recommended_duration_min null without duration_note')
-        tier = (p.get('quality') or {}).get('depth_tier')
-        if tier == 'A':
-            if len(p.get('description') or '') < 300:
-                err.append(f'{pid}: tier A needs description >= 300 chars')
-            if len(p.get('highlights') or []) < 4:
-                err.append(f'{pid}: tier A needs >= 4 highlights')
-            if p.get('recommended_duration_min') is None or not p.get('how_to_get_there'):
-                err.append(f'{pid}: tier A needs duration and how_to_get_there')
-            if c.get('confidence') not in ('high', 'medium'):
-                err.append(f'{pid}: tier A needs coord confidence high/medium')
-            for k in ('hours', 'fees'):
-                if ((p.get('ops') or {}).get(k) or {}).get('status') == 'unconfirmed':
-                    err.append(f'{pid}: tier A needs ops.{k} confirmed or not_applicable')
-        lv = (p.get('quality') or {}).get('last_verified')
-        if lv and today:
-            age = (datetime.date.fromisoformat(today) - datetime.date.fromisoformat(lv)).days
-            if age > 90:
-                warn.append(f'{pid}: last_verified {age} days ago (> 90)')
+        cids = [x['cid'] for x in p['claims']]
+        if len(cids) != len(set(cids)):
+            err.append(f'{pid}: duplicate claim ids')
+        pub = {}
+        for x in p['claims']:
+            if x.get('verdict') not in VERDICTS:
+                err.append(f"{pid}.{x['cid']}: bad verdict {x.get('verdict')!r}")
+            if x['verdict'] in PUBLISHABLE:
+                pub[x['cid']] = x
+                if not x.get('text'):
+                    err.append(f"{pid}.{x['cid']}: publishable claim without text")
+                if not x.get('sources'):
+                    err.append(f"{pid}.{x['cid']}: publishable claim without source")
+                for s_ in x.get('sources', []):
+                    if s_.get('type') not in SOURCE_TYPES:
+                        err.append(f"{pid}.{x['cid']}: source type {s_.get('type')!r} not allowed")
+                    if not s_.get('checked_at'):
+                        err.append(f"{pid}.{x['cid']}: source without checked_at")
+                    if not s_.get('url') and s_.get('type') != 'owner_input':
+                        err.append(f"{pid}.{x['cid']}: source without url")
+                    if today and s_.get('checked_at'):
+                        age = (datetime.date.fromisoformat(today) - datetime.date.fromisoformat(s_['checked_at'])).days
+                        if age > 90:
+                            warn.append(f"{pid}.{x['cid']}: checked {age} days ago (> 90)")
+        cl = p['checklist']
+        for k in CHECKLIST:
+            it = cl.get(k)
+            if not it:
+                err.append(f'{pid}: checklist missing {k}')
+                continue
+            if it['status'] == 'filled':
+                bad = [c_ for c_ in it['claims'] if c_ not in pub or FIELD_TO_ITEM.get(pub[c_]['field']) != k]
+                if not it['claims'] or bad:
+                    err.append(f'{pid}: checklist {k} filled but claims invalid {bad}')
+            elif it['status'] == 'gap':
+                if (it.get('gap') or {}).get('reason') not in GAP_REASONS:
+                    err.append(f'{pid}: checklist {k} gap without valid reason')
+            elif it['status'] != 'not_applicable':
+                err.append(f"{pid}: checklist {k} bad status {it['status']!r}")
+        if p['status'] == 'verified':
+            if (p.get('content_review') or {}).get('status') != 'ok':
+                err.append(f'{pid}: verified but content_review not ok')
+            if any(x['verdict'] == 'pending' for x in p['claims']):
+                err.append(f'{pid}: verified but has pending claims')
+            if any(cl[k]['status'] == 'gap' and cl[k]['gap']['reason'] == 'not_collected' for k in CHECKLIST):
+                err.append(f'{pid}: verified but checklist has not_collected items')
     return err, warn
 
 
@@ -138,9 +136,9 @@ if __name__ == '__main__':
     if mode == 'coords':
         e, w, s = coords(sys.argv[2])
         print('coordinate confidence by country:', s)
-    elif mode == 'places':
+    elif mode == 'store':
         today = sys.argv[sys.argv.index('--today') + 1] if '--today' in sys.argv else None
-        e, w = places(sys.argv[2], today)
+        e, w = store(sys.argv[2], today)
     else:
         sys.exit(__doc__)
     for m in w:

@@ -1,0 +1,176 @@
+{
+ "id": "kr-ulsan-seosaengpo-fortress",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "서생포왜성",
+  "local": "서생포왜성"
+ },
+ "admin_region": "울산광역시",
+ "former_region": null,
+ "city": "울주군 서생면 서생리 711",
+ "address": null,
+ "coord": {
+  "lat": 35.383398,
+  "lng": 129.333559,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/9747940481"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-ulsan-seosaengpo-fortress",
+   "name_ko": "서생포왜성",
+   "aliases": [],
+   "region": "울산광역시",
+   "admin_region": "울산광역시",
+   "locality": "울주군 서생면 서생리 711",
+   "type": [
+    "성곽",
+    "역사유적"
+   ],
+   "highlights": [
+    "산비탈을 따라 이어지는 돌 성벽",
+    "상부·중간·하부로 나뉜 성곽 배치"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "높이가 다른 성곽 구역을 걸으며 살피기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "경사에 따라 나뉜 성곽 배치를 관찰하며 체력에 맞는 범위만 걷는다.",
+    "성벽 위로 올라가거나 느슨한 돌을 밟지 않는다.",
+    "전쟁 당시 축성과 이후 이용의 역사를 구분해서 읽는다."
+   ],
+   "visit_tips_basis": "editorial_inference_from_verified_features",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=84141",
+     "title": "VISITKOREA — Seosaengpo Waeseong Fortress",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "산비탈을 따라 이어지는 돌 성벽|상부·중간·하부로 나뉜 성곽 배치"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 직전 운영기관 공지 재확인. null은 무료나 예약 불필요를 뜻하지 않음."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "창표당의 현재 상태는 원문의 과거 서술만으로 확정하지 않았다. 역사 수치·정상 높이는 생략.",
+   "baseline_relation": "new_independent_place_extension",
+   "administrative_note": "",
+   "document_path": "korea-travel/07_경남부산울산/서생포왜성.md",
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

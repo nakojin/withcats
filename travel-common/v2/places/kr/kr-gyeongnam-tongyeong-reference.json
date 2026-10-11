@@ -1,0 +1,211 @@
+{
+ "id": "kr-gyeongnam-tongyeong-reference",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "통영",
+  "local": "통영"
+ },
+ "admin_region": "경상남도",
+ "former_region": null,
+ "city": "경남 통영시 동호동·도남동",
+ "address": null,
+ "coord": {
+  "lat": 34.863021,
+  "lng": 128.424535,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/471777297"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongnam-tongyeong-reference",
+   "name_ko": "통영",
+   "region": "경남부산울산",
+   "admin_region": "경상남도",
+   "locality": "경남 통영시 동호동·도남동",
+   "type": [
+    "벽화",
+    "항구",
+    "케이블카",
+    "부모 관광권"
+   ],
+   "highlights": [
+    "동피랑은 주민이 사는 산비탈 마을을 벽화로 되살린 곳이다. 벽화가 재단장되므로 오래된 사진과 현재 모습이 다를 수 있다.",
+    "동피랑과 가까운 중앙시장·세병관 등을 연결하면 골목 산책을 시장·역사 관람으로 이어갈 수 있다.",
+    "통영케이블카는 도남동에서 미륵산 상부로 오르며 바다와 섬 경관을 본다. 탑승 자체와 산 위 관람 시간을 나누어 잡는다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을, 시야가 맑은 날",
+    "reason": "마을의 비탈길을 걷고 케이블카에서 바다를 내려다보는 일정이라 걷기 편한 기온과 시정이 중요하다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "동피랑에서 문·창문 안을 촬영하거나 주민 통행을 막지 않는다. 가파른 길에 맞는 신발을 신는다.",
+    "벽화마을 산책과 도남동 케이블카는 따로 이동하는 일정이다. 가까운 명소부터 묶고 케이블카 운행 여부에 따라 순서를 조정한다.",
+    "케이블카 매표마감은 운행 종료보다 이르다. 왕복·편도와 어린이·경로 기준을 구매 전에 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://www.utour.go.kr/00056/00060/00088.web?amode=view&cpage=1&idx=2206",
+     "title": "통영시 동피랑 벽화축제 안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "거주 마을·도시재생",
+      "2년 주기 벽화 재단장",
+      "중앙시장·세병관 인접"
+     ]
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=77581",
+     "title": "한국관광공사 VISITKOREA: Tongyeong Cable Car",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "미륵산·주소",
+      "상부역 이동",
+      "요금·시간·정기휴장"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": "관광공사 본문: 왕복 성인 17,000원·어린이 13,000원·경로 14,000원; 편도 성인 13,500원·어린이 11,000원·경로 11,500원.",
+    "hours": "평일 10:00~18:00·주말 09:00~18:00, 매표 종료 50분 전; 둘째·넷째 수요일 휴장으로 관광공사 안내. 기상·운영 변경 확인 필요.",
+    "reservation": null,
+    "status_note": "운영사 케이블카 페이지는 열람 실패. 관광공사 안내의 숫자는 당일 운영 보증이 아니며 1544-3303으로 확인 가능."
+   },
+   "record_status": "verified_core_operational_pending",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/07_경남부산울산/통영.md",
+   "document_path": "korea-travel/07_경남부산울산/통영.md",
+   "path": "korea-travel/07_경남부산울산/통영.md",
+   "count_as_independent": false,
+   "record_origin": "baseline_followup",
+   "counting_unit": "parent_travel_area_reference",
+   "relation_note": "여러 지점의 동선을 설명하는 부모 관광권 참고문서. 구성 명소를 개별 가산하지 않는다.",
+   "verification_scope": {
+    "confirmed": [
+     "공식 웹본문의 명칭·위치·볼거리"
+    ],
+    "editorial": [
+     "추천시기·이유",
+     "특성에 근거한 동선·준비 조언"
+    ],
+    "pending": [
+     "방문일 케이블카 운행·매표마감",
+     "예약·현장발권 정책",
+     "동피랑 공영주차요금",
+     "차기 벽화축제 일정"
+    ]
+   },
+   "unconfirmed_items": [
+    "방문일 케이블카 운행·매표마감",
+    "예약·현장발권 정책",
+    "동피랑 공영주차요금",
+    "차기 벽화축제 일정"
+   ],
+   "baseline_correction": "기존 케이블카 왕복 성인 15,000원·계절별 16시 마감 등 제3자 수치를 현재 공식 관광정보와 구분해 교정. 탑승 대기 없음은 보장하지 않음.",
+   "editorial_region": "07_경남부산울산",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

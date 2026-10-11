@@ -1,0 +1,181 @@
+{
+ "id": "kr-ulsan-ganjeolgot",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "간절곶",
+  "local": "간절곶"
+ },
+ "admin_region": "울산광역시",
+ "former_region": null,
+ "city": "울주군 서생면 대송리",
+ "address": null,
+ "coord": {
+  "lat": 35.359212,
+  "lng": 129.361785,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/8763966768"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-ulsan-ganjeolgot",
+   "name_ko": "간절곶",
+   "aliases": [],
+   "region": "울산광역시",
+   "admin_region": "울산광역시",
+   "locality": "울주군 서생면 대송리",
+   "type": [
+    "해안",
+    "등대"
+   ],
+   "highlights": [
+    "바다 앞 잔디 공원과 등대",
+    "대형 소망우체통과 간절곶 표석"
+   ],
+   "recommended_season": {
+    "text": "맑은 날의 일출 전후·봄·가을",
+    "reason": "탁 트인 해안과 등대를 함께 보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "일출을 보려면 해당 날짜의 해 뜨는 시각과 구름 예보를 확인한다.",
+    "우체통과 등대 주변을 묶어 짧은 해안 산책으로 계획한다.",
+    "해풍을 대비하고 파도가 닿는 가장자리를 피한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=199595",
+     "title": "VISITKOREA — Ganjeolgot Cape",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "바다 앞 잔디 공원과 등대; 대형 소망우체통과 간절곶 표석"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "원문의 국내 최초 일출이라는 무조건적 표현은 채택하지 않았다. 우편 서비스의 당일 운영도 미확인이다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/07_경남부산울산/간절곶.md",
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area",
+   "prior_mention_note": "기존 문서에서 언급된 장소를 독립 상세 레코드로 보강. 새로 발견한 명소라는 의미가 아님.",
+   "baseline_relationship": {
+    "id": "kr-ulsan-ganjeolgot",
+    "baseline_path": "korea-travel/07_경남부산울산/울산 대왕암공원.md",
+    "relation": "previously_mentioned_nearby_place"
+   }
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

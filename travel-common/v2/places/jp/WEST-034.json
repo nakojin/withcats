@@ -1,0 +1,178 @@
+{
+ "id": "WEST-034",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "우미지고쿠",
+  "local": "海地獄"
+ },
+ "admin_region": "오이타",
+ "former_region": null,
+ "city": "벳푸시",
+ "address": null,
+ "coord": {
+  "lat": 33.31577,
+  "lng": 131.46955,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/11433320886"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-034",
+   "name_ko": "우미지고쿠",
+   "name_ja": "海地獄",
+   "region": "규슈",
+   "prefecture": "오이타",
+   "city": "벳푸시",
+   "category": "온천분출지·정원",
+   "description": "코발트빛 열수 연못을 관람하는 벳푸의 지옥 명소다. 98℃ 온천은 목욕탕이 아니라 지열현상을 보는 곳이며, 정원의 연꽃과 족욕공간은 뜨거운 연못과 다른 속도로 즐길 수 있다.",
+   "highlights": [
+    "푸른 열수 연못",
+    "연꽃 연못과 온실",
+    "족욕"
+   ],
+   "best_time": "연중.증기와 물색을 보고 정원도 걸을 수 있는 밝은 낮을 권한다.",
+   "visit_tips": [
+    "관람용 열수와 족욕공간을 혼동하지 않는다",
+    "족욕을 원하면 발을 닦을 수건을 준비한다",
+    "이곳 단독표와 여러 지옥 공통표를 구분한다"
+   ],
+   "hours_and_fees": {
+    "hours": "08–17시,연중무휴",
+    "fees": "고등학생이상450엔,초·중학생200엔",
+    "conditions": "기재요금은 우미지고쿠 단독입장",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://www.umijigoku.co.jp/info/index.html",
+     "title": "우미지고쿠 이용정보",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "시간",
+      "단독요금",
+      "정원",
+      "족욕"
+     ]
+    },
+    {
+     "url": "https://www.umijigoku.co.jp/",
+     "title": "우미지고쿠 공식소개",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "98도",
+      "푸른 열수",
+      "연중무휴"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "지옥 공통권 최신요금"
+   ],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

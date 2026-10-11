@@ -1,0 +1,162 @@
+{
+ "id": "kr-gangwon-chuam-candlestick-rock",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "추암 촛대바위",
+  "local": "추암 촛대바위"
+ },
+ "admin_region": "강원특별자치도",
+ "former_region": null,
+ "city": "동해시 추암해변 일대",
+ "address": null,
+ "coord": {
+  "lat": 37.476119,
+  "lng": 129.159954,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/5390505233"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gangwon-chuam-candlestick-rock",
+   "name_ko": "추암 촛대바위",
+   "region": "강원",
+   "admin_region": "강원특별자치도",
+   "locality": "동해시 추암해변 일대",
+   "type": [
+    "해안기암",
+    "일출"
+   ],
+   "highlights": [
+    "곧게 솟은 촛대바위와 주변 해안절벽이 중심 경관이다.",
+    "해암정·추암 출렁다리·조각공원을 연계할 수 있다."
+   ],
+   "recommended_season": {
+    "text": "맑은 날 일출을 추천한다. 관광공사가 해돋이 명소로 소개하지만 일출 조망은 구름과 해상 기상에 좌우된다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "촛대바위 관찰 지점과 출렁다리는 별개 구간이다. 야간·악천후에 다리 통행을 전제로 일정을 짜지 않는다."
+   ],
+   "operational": {
+    "notes": [
+     "출렁다리 개방시간·해변 주차료·악천후 통제의 현행 값은 운영기관 재확인 대기."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=1545e671-68f3-4680-b8c1-8bfac00191eb",
+     "title": "한국관광공사 추암해변",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/03_강원/추암 촛대바위.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/03_강원/추암 촛대바위.md",
+   "editorial_region": "03_강원",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

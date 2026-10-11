@@ -1,0 +1,178 @@
+{
+ "id": "jp-east-sensoji",
+ "country": "jp",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "센소지",
+  "local": "浅草寺"
+ },
+ "admin_region": "도쿄",
+ "former_region": null,
+ "city": "다이토구",
+ "address": null,
+ "coord": {
+  "lat": 35.713403,
+  "lng": 139.795526,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/173154847"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-sensoji",
+   "name_ko": "센소지",
+   "name_ja": "浅草寺",
+   "region": "간토",
+   "prefecture": "도쿄",
+   "city": "다이토구",
+   "category": "사찰·도시문화",
+   "description": "가미나리몬의 큰 등롱에서 나카미세를 지나 본당으로 이어지는 참배 동선이 명확한 아사쿠사의 사찰이다. 관음상을 모신 본당과 호조몬·오층탑이 경내의 중심이며 주변 상점가까지 연결하면 종교 공간과 오래된 상업 거리의 관계를 볼 수 있다.",
+   "highlights": [
+    "가미나리몬의 붉은 등롱",
+    "호조몬과 오층탑",
+    "관음을 모신 본당"
+   ],
+   "best_time": "봄·가을의 온화한 날에는 주변 골목과 함께 걷기 편하다. 낮 참배와 저녁 조명 감상은 별도 경험이다.",
+   "visit_tips": [
+    "가미나리몬 앞은 통행량이 많으므로 중앙에서 장시간 멈춰 촬영하지 않는다.",
+    "아사쿠사역은 노선별 위치가 달라 출구에서 실제 보행 경로를 확인한다.",
+    "나카미세 영업시간과 본당 개방시간을 혼동하지 않는다."
+   ],
+   "hours_and_fees": {
+    "hours": "본당 06:00–17:00 (10~3월은 06:30 개당)",
+    "fees": null,
+    "conditions": "본당 개당시간 외 다른 당우 개당시간은 문의 요망(공식). 문의전화 03-3842-0181 (일요일·공휴일 제외 09:00–16:30). 공식 페이지에 경내 참배·입장료(무료 여부) 명시 없음; 기도·회향 시나이금(志納金)만 별도 기재. 점포별 휴무·행사 통제는 읽은 공식 페이지에 없음. 연도·시즌 표기 없는 상시 안내문.",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "경내 입장료(무료 여부 공식 명시 없음)",
+    "본당 외 당우 개당시간",
+    "본당 폐당 시각의 계절별 차이",
+    "점포 휴무·행사 통제"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1691/",
+     "title": "JNTO Sensoji Temple",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "가미나리몬·본당·오층탑",
+      "나카미세",
+      "저녁 조명"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.senso-ji.jp/visit/",
+     "title": "ご参拝 - 浅草寺",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

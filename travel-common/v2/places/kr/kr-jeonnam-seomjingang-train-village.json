@@ -1,0 +1,177 @@
+{
+ "id": "kr-jeonnam-seomjingang-train-village",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "곡성 섬진강기차마을",
+  "local": "곡성 섬진강기차마을"
+ },
+ "admin_region": "전라남도",
+ "former_region": null,
+ "city": "곡성군 오곡면 기차마을로 232",
+ "address": null,
+ "coord": {
+  "lat": 35.277842,
+  "lng": 127.309471,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/6137113267"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonnam-seomjingang-train-village",
+   "name_ko": "곡성 섬진강기차마을",
+   "aliases": [],
+   "region": "전라남도",
+   "admin_region": "전라남도",
+   "locality": "곡성군 오곡면 기차마을로 232",
+   "type": [
+    "철도",
+    "경관"
+   ],
+   "highlights": [
+    "옛 곡성역 공간",
+    "옛 선로를 달리는 증기기관차형 관광열차",
+    "가정역 방향의 철도 경관"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "차창 경관과 옛 역 주변 방문을 함께 하기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "현 곡성역과 관광지 안 옛 곡성역을 혼동하지 않는다.",
+    "관광열차 탑승을 원하면 공원 입장과 별개로 출발 회차·승차 조건을 확인한다.",
+    "열차가 운행하는 선로에는 사진 촬영을 위해 들어가지 않는다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=94313",
+     "title": "VISITKOREA — Seomjingang Train Village",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "옛 곡성역 공간; 옛 선로를 달리는 증기기관차형 관광열차; 가정역 방향의 철도 경관"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "운행 구간은 공식 소개의 기본 설명이며 방문일 실제 운행·좌석·요금은 미확정이다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "administrative_note": "기존 17권역 분류를 호환용으로 유지. 일부 공식 원문은 전남광주통합특별시로 표기하므로 게시 전 행정구역명 별도 검증 필요.",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/05_전라/곡성 섬진강기차마을.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

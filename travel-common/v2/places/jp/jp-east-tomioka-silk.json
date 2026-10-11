@@ -1,0 +1,187 @@
+{
+ "id": "jp-east-tomioka-silk",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "도미오카 제사장",
+  "local": "富岡製糸場"
+ },
+ "admin_region": "군마",
+ "former_region": null,
+ "city": "도미오카시",
+ "address": null,
+ "coord": {
+  "lat": 36.255439,
+  "lng": 138.887642,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/313782668"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-tomioka-silk",
+   "name_ko": "도미오카 제사장",
+   "name_ja": "富岡製糸場",
+   "region": "간토",
+   "prefecture": "군마",
+   "city": "도미오카시",
+   "category": "산업유산·세계유산",
+   "description": "근대 일본의 생사 생산을 보여주는 공장 유산이다. 제사 공장과 고치 창고·직원 주거가 남아 있어 기계뿐 아니라 생산과 생활이 함께 이루어졌던 공간을 볼 수 있다. 세계유산 연속유산의 여러 장소 가운데 도미오카 공장 한 곳을 이 항목으로 삼았다.",
+   "highlights": [
+    "목골 벽돌조 고치 창고",
+    "실을 뽑던 제사 공장 공간",
+    "프랑스 기술자 브뤼나 주택 외관"
+   ],
+   "best_time": "건물과 넓은 부지를 오가므로 봄·가을 온화한 날에 보기 편하다. 실내 공개 범위는 방문일 공지를 확인한다.",
+   "visit_tips": [
+    "조슈도미오카역에서 도보 약10분을 추가한다.",
+    "관련 양잠 유산들이 모두 같은 구내에 있다고 안내하지 않는다.",
+    "외관 사진에 더해 노동·기술 전파 설명을 읽으면 산업유산의 의미가 선명해진다."
+   ],
+   "hours_and_fees": {
+    "hours": "09:00–17:00, 최종입장 16:30",
+    "fees": "성인 1,000엔, 고교·대학생 250엔(학생증 필요), 초·중학생 150엔, 미취학 아동 무료",
+    "conditions": "휴장 12/29~12/31, 점검·정비 등으로 임시 휴장 가능. 20명 이상 사전예약 단체: 성인 900엔, 고·대학생 200엔, 초·중학생 100엔. 도미오카 시민, 장애인수첩 소지자와 동반 1인 무료. 가이드 투어 별도: 1인 200엔(중학생 이하 100엔), 현금 등 카드·간편결제 불가, 소요 약 40분, 평일 9:30·10:30·11:30·13:00·14:00·15:00 / 토일공휴일 9:30~15:30(30분 간격 위주), 집합장소 동치견장 1층. 무료 오디오 가이드(한국어 포함). 현재 견학 코스는 외관 중심이며 지정 범위 내 견학, 혼잡 시 입장제한 가능.",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "건물별 내부 개방 여부(‘외관 중심’ 문구만 확인)",
+    "2026~2027 임시휴장 일정"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/world-heritage/tomioka-silk-mill/",
+     "title": "JNTO Tomioka Silk Mill & Related Sites",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "세계유산 구성",
+      "공장·창고·주거",
+      "목골 벽돌·프랑스 기술·접근"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.tomioka-silk.jp/_tomioka-silk-mill/visit/",
+     "title": "ご利用案内（ガイドツアー） | しるくるとみおか 富岡製糸場 富岡市観光 公式ホームページ",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간",
+      "요금",
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.tomioka-silk.jp/_faq/",
+     "title": "よくあるご質問一覧 | しるくるとみおか 富岡製糸場 富岡市観光 公式ホームページ",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

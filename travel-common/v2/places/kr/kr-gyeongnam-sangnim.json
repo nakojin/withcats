@@ -1,0 +1,186 @@
+{
+ "id": "kr-gyeongnam-sangnim",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "함양 상림",
+  "local": "함양 상림"
+ },
+ "admin_region": "경상남도",
+ "former_region": null,
+ "city": "함양군 함양읍 필봉산길 49",
+ "address": null,
+ "coord": {
+  "lat": 35.523985,
+  "lng": 127.71902,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/471680423"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongnam-sangnim",
+   "name_ko": "함양 상림",
+   "aliases": [],
+   "region": "경상남도",
+   "admin_region": "경상남도",
+   "locality": "함양군 함양읍 필봉산길 49",
+   "type": [
+    "숲",
+    "역사공원"
+   ],
+   "highlights": [
+    "가지길이 이어지는 인공 숲",
+    "함화루·척화비·이은리 석불"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "숲길과 역사 유물을 함께 천천히 둘러보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "숲 산책과 함화루·석불 관찰을 함께 구성한다.",
+    "갈림길이 여럿이므로 돌아갈 출입구를 지도에서 확인한다.",
+    "숲속 유물은 만지거나 올라가지 않고 관찰한다."
+   ],
+   "visit_tips_basis": "editorial_inference_from_verified_features",
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=ed8d08d5-82a3-4395-8734-610865191f62",
+     "title": "대한민국 구석구석 — 고택의 고즈넉함과 사찰의 장엄함을 느낄 수 있는 함양 여행",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "가지길이 이어지는 인공 숲|함화루·척화비·이은리 석불"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=79545",
+     "title": "VISITKOREA — Sangnim Park",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "위치 또는 볼거리 보완"
+     ],
+     "evidence_summary": "함양읍 필봉산길 49; 숲길·정자·기념물"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 직전 운영기관 공지 재확인. null은 무료나 예약 불필요를 뜻하지 않음."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "2019년 여행 기사이므로 행사·주변 영업 정보는 현재 사실로 사용하지 않는다.",
+   "baseline_relation": "new_independent_place_extension",
+   "administrative_note": "",
+   "document_path": "korea-travel/07_경남부산울산/함양 상림.md",
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

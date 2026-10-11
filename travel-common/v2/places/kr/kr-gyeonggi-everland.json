@@ -1,0 +1,207 @@
+{
+ "id": "kr-gyeonggi-everland",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "에버랜드",
+  "local": "에버랜드"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "경기 용인시 처인구 포곡읍 에버랜드로 199",
+ "address": null,
+ "coord": {
+  "lat": 37.293876,
+  "lng": 127.204844,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/1018259540"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-everland",
+   "name_ko": "에버랜드",
+   "region": "인천경기",
+   "admin_region": "경기도",
+   "locality": "경기 용인시 처인구 포곡읍 에버랜드로 199",
+   "type": [
+    "테마파크",
+    "동물",
+    "정원"
+   ],
+   "highlights": [
+    "스릴을 원하면 구 T 익스프레스인 모니모 러시를, 물살을 타는 놀이를 원하면 아마존 익스프레스를 중심으로 계획한다.",
+    "로스트밸리는 초식동물, 사파리월드는 사자·호랑이 등 맹수 관람이 중심이라 두 시설의 성격이 다르다.",
+    "포시즌스가든과 계절 축제는 놀이기구 탑승이 부담스러운 동행자도 함께 즐길 수 있는 선택지다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을의 야외 관람일",
+    "reason": "정원·동물·놀이기구 사이를 이동하는 시간이 길어 한낮 더위가 덜한 계절을 추천한다. 꽃과 행사는 방문일 일정에 맞춘다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "공식 앱에서 시설별 대기 방식과 운휴를 먼저 본다. 일행 동시 대기를 준비할 때 이용권 등록 방식도 확인한다.",
+    "에버라인 전대·에버랜드역 도착 뒤에는 정문까지 무료 셔틀을 이용하는 동선이다. 역 도착을 입장 완료로 계산하지 않는다.",
+    "동물 관람과 인기 놀이기구 중 우선순위를 정해 먼저 이동한다. 퍼레이드·불꽃 시간은 과거 기사 대신 당일 앱을 따른다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1589867",
+     "title": "한국관광공사 K-Theme Parks (2026-05-19)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "현재 명칭 모니모 러시",
+      "주요 시설",
+      "앱 대기·셔틀 동선"
+     ]
+    },
+    {
+     "url": "https://web.everland.com/pick/2026/tulip_festival/zootopia.html",
+     "title": "에버랜드 2026 봄 주토피아 공식 안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "사파리월드 전기버스 소개",
+      "계절별 동물 콘텐츠"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": "공식 앱의 시설별 대기·예약 조건 확인. 입장권 구매와 개별 시설 이용 확보는 구별한다.",
+    "status_note": "공식 관광기사도 날짜별 요금을 안내하므로 5만원대 단일 가격이나 연중 고정 마감시간을 적용하지 않는다."
+   },
+   "record_status": "verified_core_operational_pending",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/02_인천경기/에버랜드.md",
+   "document_path": "korea-travel/02_인천경기/에버랜드.md",
+   "path": "korea-travel/02_인천경기/에버랜드.md",
+   "count_as_independent": true,
+   "record_origin": "baseline_followup",
+   "counting_unit": "one_named_destination_or_connected_visit_area",
+   "relation_note": "기존 단일 목적지 문서를 같은 경로로 보강. 내부 시설은 별도 명소로 가산하지 않는다.",
+   "verification_scope": {
+    "confirmed": [
+     "공식 웹본문의 명칭·위치·볼거리"
+    ],
+    "editorial": [
+     "추천시기·이유",
+     "특성에 근거한 동선·준비 조언"
+    ],
+    "pending": [
+     "방문일 종일권 가격·할인",
+     "당일 운영·대기 대상 시설",
+     "정문·외곽 주차요금과 셔틀 막차"
+    ]
+   },
+   "unconfirmed_items": [
+    "방문일 종일권 가격·할인",
+    "당일 운영·대기 대상 시설",
+    "정문·외곽 주차요금과 셔틀 막차"
+   ],
+   "baseline_correction": "구 T 익스프레스 명칭을 2026 관광공사 본문의 모니모 러시로 보완. 전재사이트 고정시간·일괄 무료주차 단정은 채택하지 않음.",
+   "editorial_region": "02_인천경기",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

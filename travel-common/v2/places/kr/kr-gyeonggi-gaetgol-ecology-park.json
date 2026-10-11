@@ -1,0 +1,173 @@
+{
+ "id": "kr-gyeonggi-gaetgol-ecology-park",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "시흥갯골생태공원",
+  "local": "시흥갯골생태공원"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "시흥시 동서로 287",
+ "address": null,
+ "coord": {
+  "lat": 37.392146,
+  "lng": 126.779845,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/301054808"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-gaetgol-ecology-park",
+   "name_ko": "시흥갯골생태공원",
+   "aliases": [],
+   "region": "경기도",
+   "admin_region": "경기도",
+   "locality": "시흥시 동서로 287",
+   "type": [
+    "습지",
+    "생태공원"
+   ],
+   "highlights": [
+    "내만 갯골의 염생식물과 저서생물",
+    "옛 염전의 소금창고·염전체험공간과 흔들전망대"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "노출된 야외 습지와 염전 공간을 걷고 관찰하기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "갯골 생태 관찰과 소금창고·염전의 산업 흔적을 연결해 걸으면 공원의 두 특징을 함께 볼 수 있다.",
+    "염전체험·해설은 자유 산책과 구분해 사전예약 여부를 확인한다. 보호 습지에서는 지정 동선을 벗어나 생물을 채집하지 않는다."
+   ],
+   "sources": [
+    {
+     "url": "https://ggtour.or.kr/gto/notice/news/f48fe532-b345-11ee-815b-0242ac120002?type=NOTI_REPORT",
+     "title": "경기관광공사: 가장 가까운 경기바다 (2023)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약 조건은 확정 수치로 수록하지 않음. 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/02_인천경기/시흥갯골생태공원.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

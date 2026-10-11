@@ -1,0 +1,174 @@
+{
+ "id": "kr-daegu-dodong-seowon",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "도동서원",
+  "local": "도동서원"
+ },
+ "admin_region": "대구광역시",
+ "former_region": null,
+ "city": "달성군 구지면 도동서원로 1",
+ "address": null,
+ "coord": {
+  "lat": 35.700899,
+  "lng": 128.371995,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/7435856013"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-daegu-dodong-seowon",
+   "name_ko": "도동서원",
+   "aliases": [],
+   "region": "대구광역시",
+   "admin_region": "대구광역시",
+   "locality": "달성군 구지면 도동서원로 1",
+   "type": [
+    "서원",
+    "세계유산"
+   ],
+   "highlights": [
+    "유학 교육 공간인 도동서원의 건물군",
+    "전란 이후 현재 위치로 옮겨 세운 서원 역사"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "전통 건축을 야외에서 차분히 둘러보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "건물만 촬영하기보다 이전·재건 과정을 안내판과 함께 읽는다.",
+    "제향 공간의 출입 가능 범위를 현장 안내에 맞춘다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88740",
+     "title": "VISITKOREA — Dodongseowon Confucian Academy",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "유학 교육 공간인 도동서원의 건물군; 전란 이후 현재 위치로 옮겨 세운 서원 역사"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "영문 주소와 한글 주소가 달라 한글 도로명 주소를 채택했다. 소개문 영문 서원명 오류는 번역하지 않았다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/06_경북대구/도동서원.md",
+   "editorial_region": "06_경북대구",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,209 @@
+{
+ "id": "kr-gyeonggi-morning-calm-garden",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "아침고요수목원",
+  "local": "아침고요수목원"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "경기 가평군 상면 수목원로 432",
+ "address": null,
+ "coord": {
+  "lat": 37.741728,
+  "lng": 127.352016,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/1070326918"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-morning-calm-garden",
+   "name_ko": "아침고요수목원",
+   "region": "02_인천경기",
+   "admin_region": "경기도",
+   "locality": "경기 가평군 상면 수목원로 432",
+   "type": [
+    "수목원",
+    "정원"
+   ],
+   "highlights": [
+    "축령산을 배경으로 한국정원·하경정원·분재정원 등 서로 다른 식재와 조형을 비교할 수 있는 사립수목원이다.",
+    "잣나무 숲과 정원을 함께 볼 수 있어 화단 감상과 숲 산책을 조합하기 좋다.",
+    "입구의 아침고요갤러리와 고향집정원 안 역사관에서는 미술 전시와 수목원의 조성 과정을 살펴볼 수 있다."
+   ],
+   "recommended_season": {
+    "text": "꽃과 신록을 보고 싶다면 봄~초여름, 정원과 숲의 색 변화를 보고 싶다면 가을.",
+    "reason": "확인된 경관·시설을 바탕으로 한 여행 편집 추천. 개화·단풍 절정이나 행사 개최 보장이 아님.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "입구 종합안내도에서 원하는 정원과 화장실 위치를 먼저 고른다. 정원마다 빠르게 이동하기보다 꽃·수목 한두 주제를 정하면 관찰하기 좋다.",
+    "공식 편의시설 안내상 주차장은 무료이며 매표소 앞 물품보관함은 유료다. 짐이 많으면 숲길을 걷기 전에 정리한다.",
+    "공식 안내상 휠체어·유모차는 검표소 대여이며 예약할 수 없다. 필요한 경우 잔여 수량을 출발 전에 문의한다."
+   ],
+   "sources": [
+    {
+     "url": "https://www.morningcalm.co.kr/info/info012.php",
+     "title": "아침고요수목원 공식 편의시설 안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "주소·주차·보관함·대여소·갤러리·역사관"
+     ]
+    },
+    {
+     "url": "https://encykorea.aks.ac.kr/Article/E0075261",
+     "title": "한국학중앙연구원 한국민족문화대백과사전: 아침고요수목원",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "축령산 배경·주제정원·잣나무 숲; 2023년 수정 자료이므로 최신 행사·식물 수량은 제외"
+     ]
+    }
+   ],
+   "operational": {
+    "notes": [
+     "입장료·전체 개장시간·일반 입장 예약조건은 미확인. 이용안내 페이지가 빈 본문으로 반환되어 과거 요금 중 임의 선택하지 않았다.",
+     "겨울 오색별빛정원전 2026~27 회차 날짜와 점등시간은 미확인. 평소 정원 산책과 야간 행사 방문을 구분한다."
+    ],
+    "visit_date_reconfirmation_required": true
+   },
+   "record_status": "verified_core_operational_pending",
+   "status": "verified",
+   "baseline_path": "korea-travel/02_인천경기/아침고요수목원.md",
+   "document_path": "korea-travel/02_인천경기/아침고요수목원.md",
+   "path": "korea-travel/02_인천경기/아침고요수목원.md",
+   "count_as_independent": true,
+   "reference_only": false,
+   "relation_note": "단일 명명된 목적지 1건. 내부 시설은 별도 가산하지 않음.",
+   "components": [],
+   "new_information": [
+    "축령산을 배경으로 한국정원·하경정원·분재정원 등 서로 다른 식재와 조형을 비교할 수 있는 사립수목원이다.",
+    "잣나무 숲과 정원을 함께 볼 수 있어 화단 감상과 숲 산책을 조합하기 좋다.",
+    "입구의 아침고요갤러리와 고향집정원 안 역사관에서는 미술 전시와 수목원의 조성 과정을 살펴볼 수 있다."
+   ],
+   "original_preserved_at": "korea-travel/research/2026-10-10/baseline-before-review.json",
+   "verification_scope": {
+    "confirmed": [
+     "명칭·위치",
+     "본문 볼거리",
+     "출처별 근거범위"
+    ],
+    "editorial": [
+     "추천시기",
+     "동선·준비 팁"
+    ],
+    "pending": [
+     "방문일 임시휴무·통제",
+     "확정하지 않은 요금·예약·교통"
+    ]
+   },
+   "unique_id": "kr-gyeonggi-morning-calm-garden",
+   "is_parent_reference": false,
+   "existing_catalog_id": null,
+   "editorial_region": "02_인천경기",
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

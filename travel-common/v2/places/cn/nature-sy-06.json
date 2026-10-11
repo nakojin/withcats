@@ -1,0 +1,207 @@
+{
+ "id": "nature-sy-06",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "우즈저우섬",
+  "local": "蜈支洲岛"
+ },
+ "admin_region": "하이난성",
+ "former_region": null,
+ "city": "싼야 하이탕구",
+ "address": null,
+ "coord": {
+  "lat": 18.311352,
+  "lng": 109.761849,
+  "geo_type": "point",
+  "precision": "place",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "relation/11567453"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-sy-06",
+   "name_ko": "우즈저우섬",
+   "name_local": "蜈支洲岛",
+   "city": "싼야 하이탕구",
+   "province": "하이난성",
+   "region": "싼야·하이난 남부",
+   "destination_cluster": "싼야·하이난 남부",
+   "category": "섬·해양 체험",
+   "description": "하이탕만 앞의 섬으로 해변과 산호 바다, 다양한 해양 활동을 즐길 수 있다. 선표와 입장권을 묶은 기본 상품에 전동차·다이빙·수상놀이가 모두 포함되는 것은 아니다. 배를 타야 하는 만큼 바다 상태와 마지막 귀환 배를 우선 확인해야 한다.",
+   "best_time": {
+    "period": "겨울·봄 중 바다 상태가 안정적인 날",
+    "reason": "싼야 계절 안내를 참고한 편집 추천이다. 수중 시야와 파도는 날짜별로 달라지며 보장되지 않는다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "성인 상품 목록은 상행 08:30–16:00, 하행 09:00–18:30. 다른 공식 권종에는 상행08:00–16:00/하행08:30–19:30로 상충하여 반드시 예약 상품·당일 공지 확인",
+    "fees": "성인 입장+왕복선 144 CNY부터 표기. 전동차·다이빙 별도 상품; 확정 결제금액 아님",
+    "reservation": "외국인 여권 입력·검표·결제 미확인. 운영자 상담 400-114-6666"
+   },
+   "sources": [
+    {
+     "url": "https://www.visitsanya.com/destination/wuzhizhou-island",
+     "title": "싼야 관광발전국: 우즈저우섬",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "해변·산호 바다·전동차"
+     ]
+    },
+    {
+     "url": "https://www.wuzhizhou.com/ticket/",
+     "title": "우즈저우 운영자: 실시간 상품 목록",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "성인 입장+왕복선 144 CNY부터",
+      "성인표 안내 상행08:30–16:00·하행09:00–18:30"
+     ]
+    },
+    {
+     "url": "https://www.wuzhizhou.com/ticket/detail.html?modelCode=MP2025112814485944355",
+     "title": "우즈저우 운영자: 승선·안전 공통 유의사항",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "해황·날씨에 따른 시간 변경",
+      "일부 보행 금지",
+      "운영자 승선 제한"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "공식 페이지 간 배 운항시간 차이",
+    "방문일 실판매가",
+    "한국 여권 예약·결제",
+    "건강·연령별 승선 및 활동 제한"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "counting_scope": "섬 전체 1곳. 연인교·전망대·해양 활동은 내부 포인트/상품",
+   "selection_tier": "도시 방문수요 확인",
+   "collection_group": "nature",
+   "highlights": [
+    "산호 바다 체험",
+    "연인교·해안 전망",
+    "백사장과 섬 일주 선택지"
+   ],
+   "visit_tips": [
+    "돌아오는 배 시각을 먼저 확인한다",
+    "일부 해안 도로는 보행 금지이므로 전동차 범위를 확인한다",
+    "고령·임신·건강 조건 등 운영자 승선 제한을 예약 전에 문의한다"
+   ],
+   "counting_note": "섬 전체 1곳. 연인교·전망대·해양 활동은 내부 포인트/상품",
+   "original_region": "싼야·하이난 남부",
+   "selection_region_id": "sanya",
+   "selection_evidence_ids": [
+    "SEL04",
+    "SEL02"
+   ],
+   "selection_scope_caution": "한국인 비중·순위 미공개. 휴양 다양화를 위한 편집 선정이며 하이난 전역 인기 주장 금지.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

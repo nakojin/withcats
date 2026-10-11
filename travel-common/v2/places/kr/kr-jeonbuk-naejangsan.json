@@ -1,0 +1,168 @@
+{
+ "id": "kr-jeonbuk-naejangsan",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "내장산국립공원 정읍권",
+  "local": "내장산국립공원 정읍권"
+ },
+ "admin_region": "전북특별자치도",
+ "former_region": null,
+ "city": "정읍시 내장동 일대",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonbuk-naejangsan",
+   "name_ko": "내장산국립공원 정읍권",
+   "aliases": [],
+   "region": "전북특별자치도",
+   "admin_region": "전북특별자치도",
+   "locality": "정읍시 내장동 일대",
+   "type": [
+    "국립공원",
+    "단풍"
+   ],
+   "highlights": [
+    "내장사 주변 산사 경관",
+    "도덕폭포·금선폭포 등 계곡 경관"
+   ],
+   "recommended_season": {
+    "text": "가을",
+    "reason": "단풍과 산사·계곡을 함께 볼 수 있다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "산사 주변 산책과 폭포·능선 산행을 구분해 코스를 고른다.",
+    "공원은 넓으므로 정읍 쪽 입구와 다른 지구의 입구를 혼동하지 않는다.",
+    "악천후 통제와 단풍 상태를 먼저 확인한다."
+   ],
+   "visit_tips_basis": "editorial_inference_from_verified_features",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110779",
+     "title": "VISITKOREA — Naejangsan National Park",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "내장사 주변 산사 경관|도덕폭포·금선폭포 등 계곡 경관"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 직전 운영기관 공지 재확인. null은 무료나 예약 불필요를 뜻하지 않음."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "국립공원 전체는 여러 시군에 걸치며 본 레코드는 정읍 방문권역 중심이다. 원문 한영 주소가 달라 단일 도로명은 보류. 사찰·폭포는 하위 볼거리로 통합.",
+   "baseline_relation": "new_independent_place_extension",
+   "administrative_note": "",
+   "document_path": "korea-travel/05_전라/내장산국립공원 정읍권.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

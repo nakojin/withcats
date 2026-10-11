@@ -1,0 +1,162 @@
+{
+ "id": "kr-jeonbuk-gwanghallu-garden",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "남원 광한루원",
+  "local": "남원 광한루원"
+ },
+ "admin_region": "전북특별자치도",
+ "former_region": null,
+ "city": "남원 광한루원",
+ "address": null,
+ "coord": {
+  "lat": 35.402798,
+  "lng": 127.379539,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "relation/7802098"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonbuk-gwanghallu-garden",
+   "name_ko": "남원 광한루원",
+   "region": "전북",
+   "admin_region": "전북특별자치도",
+   "locality": "남원 광한루원",
+   "type": [
+    "전통정원",
+    "누각"
+   ],
+   "highlights": [
+    "광한루·오작교·연못·삼신섬이 이루는 정원 구성이 핵심이다.",
+    "월매집·춘향관 등 춘향전 관련 공간을 함께 관찰할 수 있다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을 산책 또는 여름 녹음 감상이라는 편집 추천. 야경은 최신 개장 여부를 확인한다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "야외 정원과 전시시설의 관람 가능시간이 다를 수 있으므로 시설별 확인이 필요하다."
+   ],
+   "operational": {
+    "notes": [
+     "현재 운영시간·관람료·야간 무료 여부는 남원시 운영 안내 재확인 대기. 과거 공식 여행기사도 현재 운영값의 근거로 쓰지 않는다."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=5789b725-8ced-433f-a066-a7cde60b20e0",
+     "title": "한국관광공사 광한루원의 밤과 낮",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/05_전라/남원 광한루원.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/05_전라/남원 광한루원.md",
+   "editorial_region": "05_전라",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

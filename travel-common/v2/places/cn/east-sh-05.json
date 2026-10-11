@@ -1,0 +1,199 @@
+{
+ "id": "east-sh-05",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "상하이 디즈니랜드",
+  "local": "上海迪士尼乐园"
+ },
+ "admin_region": "상하이시",
+ "former_region": null,
+ "city": "상하이",
+ "address": null,
+ "coord": {
+  "lat": 31.146252,
+  "lng": 121.656283,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/494725605"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "east-sh-05",
+   "name_ko": "상하이 디즈니랜드",
+   "name_local": "上海迪士尼乐园",
+   "city": "상하이",
+   "province": "상하이시",
+   "region": "상하이",
+   "category": "테마파크",
+   "description": "주토피아 테마 구역, 동화 속 성, 해적 테마 시설 등 체험 중심의 대형 테마파크다. 짧은 시내 관광 사이에 끼우기보다 하루를 독립적으로 배정할 만하다. 공식 시정부 소개에 남아 있는 Fastpass 표현은 최신 이용상품으로 확정하지 않았다.",
+   "best_time": {
+    "period": "공휴일을 피한 평일 하루",
+    "reason": "대기와 이동에 충분한 시간을 배정하기 좋다는 공식 관광 안내를 반영했다.",
+    "basis": "편집상 권장; 개화·날씨·혼잡 및 운영 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "timezone": "Asia/Shanghai",
+    "hours": "확인한 공식 본문에 운영시간 없음",
+    "price_cny": "공식 요금 미확인",
+    "reservation": "실명 발권 정책 관련 시정부 공지는 확인했으나 운영자 최신 상세 본문이 JavaScript 셸만 반환되어 외국인 절차 미확인",
+    "foreign_passport": "외국인 여권 예약·입장 상세 미확인",
+    "payment": "결제수단 미확인",
+    "validity_note": "조회일은 본문 열람일이며 방문일 실시간 운영 확인일이 아님"
+   },
+   "sources": [
+    {
+     "url": "https://english.shanghai.gov.cn/en-ScenicSpots/20231208/a12fc68271154fcb95dba26c47c2c272.html",
+     "title": "Shanghai Disney Resort",
+     "checked_at": "2026-10-10",
+     "verification": "공식 본문 열람 확인; 최신 현장운영 보증 아님",
+     "supported_facts": [
+      "주토피아·성·해적구역",
+      "평일 방문·공식 앱 안내"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 임시휴업·행사 통제",
+    "외국인 여권 예약 및 현장처리",
+    "해외카드·모바일 결제 가능 여부",
+    "방문일 성인 요금 및 상품 포함내역",
+    "운영시간·최종 입장시간"
+   ],
+   "selection_tier": "핵심 수요 확인",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "source_access_limitations": [
+    {
+     "url": "https://www.shanghaidisneyresort.com/ja/tickets/shdr-theme-park-early-bird-ticket-230705/",
+     "title": "운영자 티켓 페이지 접근 시도",
+     "checked_at": "2026-10-10",
+     "verification": "페이지 접근했으나 현재 티켓 약관 본문 미노출; 검증 출처로 사용하지 않음",
+     "supported_facts": []
+    }
+   ],
+   "collection_group": "east",
+   "highlights": [
+    "주토피아 테마 구역",
+    "인챈티드 스토리북 캐슬",
+    "트레저 코브의 해적 테마"
+   ],
+   "visit_tips": [
+    "공식 앱의 당일 운영·공연·시설 상태를 확인한다.",
+    "입장권과 유료 우선탑승·조기입장 상품의 포함내역을 구분한다.",
+    "예약 명의·증빙을 구매 직전 공식 화면에서 확인하고 현장 입장 가능성을 단정하지 않는다."
+   ],
+   "destination_cluster": "상하이",
+   "original_region": "중국 동부",
+   "selection_region_id": "shanghai",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL02",
+    "SEL03"
+   ],
+   "selection_scope_caution": "도시 수요가 개별 명소 선호를 자동 증명하지 않는다.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

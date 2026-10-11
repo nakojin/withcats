@@ -1,0 +1,162 @@
+{
+ "id": "kr-jeonnam-daehan-dawon",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "보성 녹차밭",
+  "local": "보성 녹차밭"
+ },
+ "admin_region": "전라남도",
+ "former_region": null,
+ "city": "보성군 보성읍; 이 문서는 대한다원을 중심으로 정리",
+ "address": null,
+ "coord": {
+  "lat": 34.715847,
+  "lng": 127.07796,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/257727324"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonnam-daehan-dawon",
+   "name_ko": "보성 녹차밭",
+   "region": "전남 여행권",
+   "admin_region": "전라남도",
+   "locality": "보성군 보성읍; 이 문서는 대한다원을 중심으로 정리",
+   "type": [
+    "차밭",
+    "산책"
+   ],
+   "highlights": [
+    "보성의 차밭 가운데 대한다원은 차밭 산책로와 전망 공간을 갖춘 여행지다.",
+    "삼나무·편백나무 등 차나무 이외의 식생도 함께 살펴볼 수 있다."
+   ],
+   "recommended_season": {
+    "text": "봄의 신록에서 초여름까지. 차밭의 녹음을 살펴보려는 편집 추천이며 수확·개화 일정은 별도 확인한다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "계단·경사 구간을 고려해 신발을 고른다. 폭우 때의 미끄럼 위험 때문에 비 오는 날 방문을 무조건 추천하지 않는다."
+   ],
+   "operational": {
+    "notes": [
+     "현재 입장료·영업시간은 운영사 재확인 대기. 2020년 공식 여행기사의 요금·시간을 2026년 현재 값으로 사용하지 않는다."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=2e8709b0-7e34-4045-ac1a-180366335d70",
+     "title": "한국관광공사 보성 한 바퀴(2020년 자료)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/05_전라/보성 녹차밭.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/05_전라/보성 녹차밭.md",
+   "editorial_region": "05_전라",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

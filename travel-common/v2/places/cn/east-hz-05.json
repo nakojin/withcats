@@ -1,0 +1,190 @@
+{
+ "id": "east-hz-05",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "육화탑",
+  "local": "六和塔"
+ },
+ "admin_region": "저장성",
+ "former_region": null,
+ "city": "항저우",
+ "address": null,
+ "coord": {
+  "lat": 30.1983,
+  "lng": 120.12661,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/159184108"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "east-hz-05",
+   "name_ko": "육화탑",
+   "name_local": "六和塔",
+   "city": "항저우",
+   "province": "저장성",
+   "region": "항저우",
+   "category": "차별화·고탑",
+   "description": "웨룬산 기슭의 고탑으로 북송에 처음 세워지고 남송에 재건된 역사를 지닌다. 벽돌과 목재로 이루어진 탑의 구조를 관찰하고 첸탕강 쪽 경관을 함께 보는 목적에 알맞다. 시후 수변과 다른 강변 풍경을 넣고 싶은 여행자에게 적합하다.",
+   "best_time": {
+    "period": "가을 낮",
+    "reason": "공식 소개가 가을 첸탕강 조망을 특징으로 제시하나 조수 관람일은 별도 확인이 필요하다.",
+    "basis": "편집상 권장; 개화·날씨·혼잡 및 운영 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "timezone": "Asia/Shanghai",
+    "hours": "확인한 공식 본문에 운영시간 없음",
+    "price_cny": "공식 요금 미확인",
+    "reservation": "공식 예약조건 미확인",
+    "foreign_passport": "외국인 여권 예약·입장 상세 미확인",
+    "payment": "결제수단 미확인",
+    "validity_note": "조회일은 본문 열람일이며 방문일 실시간 운영 확인일이 아님"
+   },
+   "sources": [
+    {
+     "url": "https://www.ehangzhou.gov.cn/2018-06/14/c_242884.htm",
+     "title": "Liuhe Pagoda",
+     "checked_at": "2026-10-10",
+     "verification": "공식 본문 열람 확인; 최신 현장운영 보증 아님",
+     "supported_facts": [
+      "북송 창건·남송 재건",
+      "구조",
+      "가을 첸탕강 조망"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 임시휴업·행사 통제",
+    "외국인 여권 예약 및 현장처리",
+    "해외카드·모바일 결제 가능 여부",
+    "방문일 성인 요금 및 상품 포함내역",
+    "운영시간·최종 입장시간",
+    "사전예약 필요 여부"
+   ],
+   "selection_tier": "지역 수요 취재 확인 + 상하이 연계",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "collection_group": "east",
+   "highlights": [
+    "고탑 건축",
+    "벽돌·목조 층 구성",
+    "첸탕강 경관"
+   ],
+   "visit_tips": [
+    "1~2시간은 편집상 권장치이며 등탑 가능 여부를 먼저 확인한다.",
+    "주소는 즈장루16호다.",
+    "조수 관찰은 지정 안전구역에서만 하고 강 가까이 내려가지 않는다."
+   ],
+   "destination_cluster": "항저우",
+   "original_region": "중국 동부",
+   "selection_region_id": "hangzhou",
+   "selection_evidence_ids": [
+    "SEL07"
+   ],
+   "selection_scope_caution": "2024말 측정값으로 2026 전국 순위 창작 금지.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

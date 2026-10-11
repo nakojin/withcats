@@ -1,0 +1,166 @@
+{
+ "id": "kr-jeju-hyeopjae",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "협재해수욕장",
+  "local": "협재해수욕장"
+ },
+ "admin_region": "제주특별자치도",
+ "former_region": null,
+ "city": "제주시 한림읍 협재리 2497-1",
+ "address": null,
+ "coord": {
+  "lat": 33.393295,
+  "lng": 126.238943,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/10694695987"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeju-hyeopjae",
+   "name_ko": "협재해수욕장",
+   "region": "제주",
+   "admin_region": "제주특별자치도",
+   "locality": "제주시 한림읍 협재리 2497-1",
+   "type": [
+    "해변",
+    "일몰"
+   ],
+   "highlights": [
+    "조개껍질 가루가 섞인 밝은 백사장과 투명한 바다, 앞바다 비양도가 만드는 풍경이 특징이다.",
+    "금능해수욕장과 이어져 있으며 제주올레 14코스의 일부로 해안 산책을 연계할 수 있다.",
+    "비양도와 바다 너머 석양은 물놀이와 별개의 감상 포인트다."
+   ],
+   "recommended_season": {
+    "text": "해수욕은 공식 안전관리 개장기간에, 경관 감상은 맑은 날 일몰 무렵을 추천한다. 편집 판단이며 바다색·일몰 조망은 날씨에 좌우된다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "해변 접근이 가능하다는 사실을 수영 허용·안전요원 상주와 동일하게 해석하지 않는다.",
+    "반려동물의 유영구역 입수와 동반은 현장 제한을 먼저 확인한다.",
+    "편집 팁: 모래사장을 넓게 걷는 목적이라면 물때를 살피고, 비양도와 노을이 목적이라면 해가 지기 전 여유 있게 도착한다. 물 빠진 해변과 허용된 수영 구역을 혼동하지 않는다."
+   ],
+   "operational": {
+    "notes": [
+     "비짓제주는 해변 상시 개방과 2026년 안전관리 운영기간 6월24일~9월6일을 구분한다. 기준일 10월10일에는 해당 안전관리 시즌이 종료됐다.",
+     "지난 여름 야간 연장과 파라솔·평상 가격을 현재 또는 다음 시즌 운영으로 재사용하지 않는다."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697",
+     "title": "비짓제주 협재해수욕장",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/08_제주/협재해수욕장.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/08_제주/협재해수욕장.md",
+   "editorial_region": "08_제주",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

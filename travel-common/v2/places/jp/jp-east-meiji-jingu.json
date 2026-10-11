@@ -1,0 +1,205 @@
+{
+ "id": "jp-east-meiji-jingu",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "메이지 신궁",
+  "local": "明治神宮"
+ },
+ "admin_region": "도쿄",
+ "former_region": null,
+ "city": "시부야구",
+ "address": null,
+ "coord": {
+  "lat": 35.674842,
+  "lng": 139.699627,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/469908925"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-meiji-jingu",
+   "name_ko": "메이지 신궁",
+   "name_ja": "明治神宮",
+   "region": "간토",
+   "prefecture": "도쿄",
+   "city": "시부야구",
+   "category": "신사·숲",
+   "description": "메이지 천황과 쇼켄 황태후를 모시기 위해 1920년 세워진 신사다. 전국에서 기증한 나무로 조성한 숲을 지나 본전으로 향하는 과정이 핵심이며, 하라주쿠의 상업 거리와 가까우면서도 경내에서는 도시와 다른 소리를 듣게 된다.",
+   "highlights": [
+    "큰 나무가 감싼 참배길",
+    "신궁의 본전 구역",
+    "별도 유료구역인 내원 정원"
+   ],
+   "best_time": "봄·가을 숲길 산책에 잘 맞는다. 봄 대제는 보통 4월 말~5월 초로 소개되지만 정확한 프로그램은 매년 확인한다.",
+   "visit_tips": [
+    "하라주쿠역에서 경내 입구에 닿은 뒤에도 참배길을 걷는 시간이 필요하다.",
+    "내원·박물관의 유료 관람과 신사 참배를 분리해서 계획한다.",
+    "의식이나 결혼식 행렬이 보이면 참가자 진로를 막지 않고 안내된 촬영 규정을 따른다."
+   ],
+   "hours_and_fees": {
+    "hours": "경내 개폐문은 일출·일몰 연동으로 매월 다름. 10월 05:40–16:40 / 11월 06:10–16:10 / 12월 06:40–16:00 / 1월 06:40–16:20 / 2월 06:20–16:50 / 3월 05:40–17:20 / 4월 05:10–17:50 / 5월 05:00–18:10 / 6월 05:00–18:30 / 7월 05:00–18:20 / 8월 05:00–18:00 / 9월 05:20–17:20",
+    "fees": "경내 참배료는 공식 페이지에 기재 없음(확인 불가). 내원(御苑) 御苑維持協力金 500엔. 明治神宮ミュージアム 일반 1,000엔, 고교생 이하 900엔, 단체(20명 이상) 900엔, 초등학생 미만 무료",
+    "conditions": "개폐문 시각은 '일출과 함께 개문, 일몰에 맞춰 폐문'이라 명시. 경내 정기 휴일 기재 없음. 내원(御苑) 개원: 3–10월 09:00–16:30, 11–2월 09:00–16:00, 6월 08:00–17:00(토·일 18:00까지), 연중무휴(공식 御苑 페이지). 明治神宮ミュージアム: 10:00–16:30(최종입장 폐관 30분 전), 매주 목요일 휴관(목요일이 공휴일이면 개관), 전시 교체 기간 휴관, 장애인수첩 소지 본인 무료. 박물관 페이지의 '宝物殿' 항목에는 세부 정보 없음",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "경내 참배 무료 여부(공식 명시 없음)",
+    "보물전 별도 요금·시간",
+    "내원 개원시간·협력금 안내의 게시일 미표기"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1666/",
+     "title": "JNTO Meiji-jingu Shrine",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "1920년 창건",
+      "기증 나무 인공림",
+      "본전·내원·박물관"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.meijijingu.or.jp/sanpai/2.php",
+     "title": "ご参拝の方へ｜明治神宮",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.meijijingu.or.jp/",
+     "title": "明治神宮",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.meijijingu.or.jp/midokoro/gyoen/",
+     "title": "明治神宮御苑｜明治神宮",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "요금"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.meijijingu.or.jp/museum/",
+     "title": "明治神宮ミュージアム｜明治神宮",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "요금",
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,172 @@
+{
+ "id": "kr-jeju-cheonjiyeon",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "천지연폭포",
+  "local": "천지연폭포"
+ },
+ "admin_region": "제주특별자치도",
+ "former_region": null,
+ "city": "서귀포시 남성중로 2-15",
+ "address": null,
+ "coord": {
+  "lat": 33.246927,
+  "lng": 126.554528,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/3739756340"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeju-cheonjiyeon",
+   "name_ko": "천지연폭포",
+   "region": "제주",
+   "admin_region": "제주특별자치도",
+   "locality": "서귀포시 남성중로 2-15",
+   "type": [
+    "폭포",
+    "산책"
+   ],
+   "highlights": [
+    "약 22m 높이의 물줄기와 그 아래 깊은 연못, 주변 절벽을 함께 감상하는 폭포다.",
+    "구실잣밤나무·동백나무 등의 상록수와 담팔수 자생지가 있는 난대림 산책을 함께 즐길 수 있다.",
+    "연못은 무태장어 서식지로 보호되는 곳이다. 실제 야생동물 관찰을 보장하는 체험장으로 소개하지 않는다."
+   ],
+   "recommended_season": {
+    "text": "사계절. 낮의 식생 관찰과 저녁 산책을 비교해 선택한다는 편집 추천. 폭우·강풍 때 안전 통제를 먼저 확인한다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "천제연폭포와 이름이 비슷하지만 별개 장소이므로 목적지를 확인한다.",
+    "공식 안내상 천지연 종점 버스를 이용할 수 있다. 노선·막차는 출발 당일 확인한다.",
+    "폭포 사진만 찍고 돌아오기보다 산책로의 담팔수·난대림 해설판을 함께 살펴본다(편집 추천). 보호구역의 식물을 채취하거나 야생동물을 잡아서는 안 된다."
+   ],
+   "operational": {
+    "notes": [
+     "서귀포 E-Ticket 공식 안내: 09:00~22:00, 입장마감 21:20.",
+     "개인 성인 2,000원, 청소년·어린이 1,000원. 감면 대상은 신분증·증명서 조건을 확인한다."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://eticket.seogwipo.go.kr/contents?bmcode=cheonjiyeon",
+     "title": "서귀포 E-Ticket 천지연폭포",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://m.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500618&menuId=DOM_000001703010002000",
+     "title": "비짓제주 천지연폭포·난대림",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/08_제주/천지연폭포.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/08_제주/천지연폭포.md",
+   "editorial_region": "08_제주",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

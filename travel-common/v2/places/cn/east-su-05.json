@@ -1,0 +1,181 @@
+{
+ "id": "east-su-05",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "퉁리 수향고진",
+  "local": "同里古镇"
+ },
+ "admin_region": "장쑤성",
+ "former_region": null,
+ "city": "쑤저우",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "east-su-05",
+   "name_ko": "퉁리 수향고진",
+   "name_local": "同里古镇",
+   "city": "쑤저우",
+   "province": "장쑤성",
+   "region": "쑤저우",
+   "category": "수향고진·정원",
+   "description": "우장구에 있는 수향마을로 물길·낮은 다리·가옥의 풍경과 퇴사원을 함께 보는 곳이다. 여러 호수에 둘러싸인 고진 전체의 생활 풍경과 유료 실내 명소를 구별해 계획하면 좋다. 쑤저우 시내의 정원 일정과 다른 날로 분리해도 충분한 볼거리가 있다.",
+   "best_time": {
+    "period": "평일 낮 반나절 이상",
+    "reason": "유료 내부시설은 거리보다 일찍 닫힐 수 있어 밝은 시간에 먼저 보는 편이 좋다.",
+    "basis": "편집상 권장; 개화·날씨·혼잡 및 운영 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "timezone": "Asia/Shanghai",
+    "hours": "2021 안내: 고진 거리 종일, 일부 시설 4~10월 07:30~17:30·11~3월 07:30~17:15",
+    "price_cny": "2021 안내: 통합권 CNY100; 야간 퇴사원 CNY40 및 주간 사용 여부 조건. 현재 적용 미확인",
+    "reservation": "공식 예약조건 미확인",
+    "foreign_passport": "외국인 여권 예약·입장 상세 미확인",
+    "payment": "결제수단 미확인",
+    "validity_note": "오래된 공식 안내의 기재값; 현재 적용 여부 재확인 필요"
+   },
+   "sources": [
+    {
+     "url": "https://english.suzhou.gov.cn/szsenglish/sz5ajjq/201911/5212c69295364f8cb2c55ee5d5f13dcc.shtml",
+     "title": "Tong li Ancient Town",
+     "checked_at": "2026-10-10",
+     "verification": "공식 본문 열람 확인; 최신 현장운영 보증 아님",
+     "supported_facts": [
+      "수향마을·퇴사원",
+      "2021년 통합권·운영시간"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 임시휴업·행사 통제",
+    "외국인 여권 예약 및 현장처리",
+    "해외카드·모바일 결제 가능 여부",
+    "방문일 성인 요금 및 상품 포함내역",
+    "사전예약 필요 여부"
+   ],
+   "selection_tier": "방문수요 확인 + 상하이 연계",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "collection_group": "east",
+   "highlights": [
+    "운하와 다리",
+    "퇴사원",
+    "옛 저택과 수변 골목"
+   ],
+   "visit_tips": [
+    "퇴사원은 고진 안의 하위명소로 별도 관광지 수에 중복 산입하지 않았다.",
+    "고진 거리 개방시간과 통합권 시설 운영시간을 나누어 본다.",
+    "야간 퇴사원 관람은 과거 조건만 확인돼 현재 시간·요금을 재확인한다."
+   ],
+   "destination_cluster": "쑤저우",
+   "original_region": "중국 동부",
+   "selection_region_id": "suzhou",
+   "selection_evidence_ids": [
+    "SEL05",
+    "SEL06"
+   ],
+   "selection_scope_caution": "공업원구 실적을 고전정원 방문량으로 옮기지 않는다.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

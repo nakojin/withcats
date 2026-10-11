@@ -1,0 +1,167 @@
+{
+ "id": "central-024",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "아라쿠라야마 센겐공원·충령탑",
+  "local": "新倉山浅間公園・忠霊塔"
+ },
+ "admin_region": "야마나시",
+ "former_region": null,
+ "city": "후지요시다시",
+ "address": null,
+ "coord": {
+  "lat": 35.500487,
+  "lng": 138.80082,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/765997878"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-024",
+   "name_ko": "아라쿠라야마 센겐공원·충령탑",
+   "name_ja": "新倉山浅間公園・忠霊塔",
+   "region": "주부·호쿠리쿠",
+   "prefecture": "야마나시",
+   "city": "후지요시다시",
+   "category": "전망공원",
+   "description": "붉은 오층 충령탑과 후지산, 후지요시다 시가지를 함께 조망하는 언덕 공원이다. 전망대까지 398개 계단을 올라야 하므로 짧은 사진 정차만 생각하기보다 도보 부담과 혼잡을 일정에 반영해야 한다. 충령탑과 공원은 같은 방문장소로 묶었다.",
+   "highlights": [
+    "충령탑과 후지산 구도",
+    "후지요시다 시가지 조망",
+    "봄 벚꽃과 가을 수목"
+   ],
+   "best_time": "4월 무렵 벚꽃과 11월 단풍이 대표적이나 절정일은 해마다 변한다. 신록기도 별도 매력이 있다.",
+   "visit_tips": [
+    "시모요시다역에서 탑까지 도보 약 25분을 잡는다.",
+    "주변 도로가 좁아 버스는 주차장에 진입할 수 없다.",
+    "398계단과 전망대 대기를 고려하고 주민 골목에서 차도 촬영을 하지 않는다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://en.fujiyoshida.net/spot/index.php?p=12",
+     "title": "Fujiyoshida Official: Arakurayama Sengen Park",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "398계단",
+      "경관",
+      "공원시간",
+      "주차",
+      "접근"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "벚꽃철 동선·행사·입장통제",
+    "조명 시간표의 영문 계절 중복표기"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "공식 관광안내 공원 24시간. 주차 6시간/1회 기준 P1·P4 1,500엔, P2·P3 1,000엔. 공원 자체 입장료는 열람 본문에 별도 표기 없음."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

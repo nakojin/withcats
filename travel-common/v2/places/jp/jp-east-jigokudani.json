@@ -1,0 +1,165 @@
+{
+ "id": "jp-east-jigokudani",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "노보리베쓰 지고쿠다니",
+  "local": "登別地獄谷"
+ },
+ "admin_region": "홋카이도",
+ "former_region": null,
+ "city": "노보리베쓰시",
+ "address": null,
+ "coord": {
+  "lat": 42.497463,
+  "lng": 141.14693,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/3115960330"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-jigokudani",
+   "name_ko": "노보리베쓰 지고쿠다니",
+   "name_ja": "登別地獄谷",
+   "region": "홋카이도",
+   "prefecture": "홋카이도",
+   "city": "노보리베쓰시",
+   "category": "화산·지열",
+   "description": "히요리야마의 화산 활동으로 형성된 지름 약 450m의 분화구 흔적이다. 분기공과 끓어오르는 온천수가 드러나는 계곡을 전망 구간에서 관찰하며 노보리베쓰 온천의 열원이 어떤 경관을 만드는지 볼 수 있다.",
+   "highlights": [
+    "계곡의 분기공과 수증기",
+    "지고쿠다니 전망대 전경",
+    "화산 지형의 색과 물 흐름"
+   ],
+   "best_time": "지형을 또렷이 보려면 해 지기 전. 봄~가을은 적설기보다 보행 계획을 세우기 쉽다.",
+   "visit_tips": [
+    "열수와 분기공에 접근하지 말고 지정 통로를 따른다.",
+    "관광협회는 어두워지기 전 관람을 권장하므로 조명만 믿고 늦게 들어가지 않는다.",
+    "휠체어 경사로가 있으나 최대 경사 8%로 안내되어 동반 도움 필요성을 판단한다."
+   ],
+   "hours_and_fees": {
+    "details": "관람 무료. 전망대 조명은 약 23시까지 안내되지만 일몰 전 관람 권장. 승용차 주차 500엔, 출차 후 재사용 불가; 오유누마 주차장 공용권은 겨울 제외.",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "겨울 산책로 통제",
+    "당일 화산·기상 정보"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://noboribetsu-spa.jp/en/spot/spot0034/?from=1207",
+     "title": "Noboribetsu International Tourism and Convention Association: Jigokudani",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "분화구 규모",
+      "무료 관람",
+      "일몰 전 권장·경사로"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

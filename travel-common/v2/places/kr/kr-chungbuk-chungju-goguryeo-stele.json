@@ -1,0 +1,173 @@
+{
+ "id": "kr-chungbuk-chungju-goguryeo-stele",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "충주고구려비전시관",
+  "local": "충주고구려비전시관"
+ },
+ "admin_region": "충청북도",
+ "former_region": null,
+ "city": "충주시 중앙탑면 감노로 2319",
+ "address": null,
+ "coord": {
+  "lat": 37.028323,
+  "lng": 127.848279,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/1137104973"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-chungbuk-chungju-goguryeo-stele",
+   "name_ko": "충주고구려비전시관",
+   "aliases": [],
+   "region": "충청북도",
+   "admin_region": "충청북도",
+   "locality": "충주시 중앙탑면 감노로 2319",
+   "type": [
+    "역사전시",
+    "비석"
+   ],
+   "highlights": [
+    "충주 고구려비와 비석 발견 과정 전시",
+    "안악3호분·광개토대왕비 등 고구려 문화 소개"
+   ],
+   "recommended_season": {
+    "text": "사계절",
+    "reason": "실내 전시에서 비문의 의미와 고구려 문화를 살피기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "비석을 먼저 본 뒤 발견 과정·관련 문화 전시를 읽으면 남한강 유역에서 이 유물이 갖는 의미를 이해하기 쉽다.",
+    "글씨가 마모된 유물은 눈으로만 보기보다 해설·전시 설명을 함께 참고한다. 접근 지원이 필요하면 단차 없는 출입통로와 편의시설의 현재 상태를 문의한다."
+   ],
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=e2dde0af-9367-4aa8-8968-33f323a4ba2f",
+     "title": "한국관광공사 열린관광: 충주고구려비전시관 (2025-09 수정)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 메모에 명시한 확인 조건 외 요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/04_충청/충주고구려비전시관.md",
+   "editorial_region": "04_충청",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

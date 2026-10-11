@@ -1,0 +1,190 @@
+{
+ "id": "east-su-02",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "유원",
+  "local": "留园"
+ },
+ "admin_region": "장쑤성",
+ "former_region": null,
+ "city": "쑤저우",
+ "address": null,
+ "coord": {
+  "lat": 31.317617,
+  "lng": 120.587959,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/420034522"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "east-su-02",
+   "name_ko": "유원",
+   "name_local": "留园",
+   "city": "쑤저우",
+   "province": "장쑤성",
+   "region": "쑤저우",
+   "category": "세계유산·정원",
+   "description": "회랑·담·문이 공간을 나누며 작은 장면을 연속적으로 드러내는 정원이다. 졸정원의 넓은 물 풍경과 비교하면 건축적 공간 구성의 차이가 잘 보인다. 동부 건물군과 중앙 산수, 관운봉이 핵심 관찰 대상이다.",
+   "best_time": {
+    "period": "봄·가을 평일 오전",
+    "reason": "정원의 공간 변화를 걸으며 살펴보기 편한 시기다.",
+    "basis": "편집상 권장; 개화·날씨·혼잡 및 운영 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "timezone": "Asia/Shanghai",
+    "hours": "2021 안내: 3~10월 07:30~17:30; 11~2월 07:30~17:00",
+    "price_cny": "2021 안내: 4~5·7~10월 CNY55, 나머지 달 CNY45; 현재 적용 미확인",
+    "reservation": "공식 예약조건 미확인",
+    "foreign_passport": "외국인 여권 예약·입장 상세 미확인",
+    "payment": "결제수단 미확인",
+    "validity_note": "오래된 공식 안내의 기재값; 현재 적용 여부 재확인 필요"
+   },
+   "sources": [
+    {
+     "url": "https://english.suzhou.gov.cn/szsenglish/sz5ajjq/201611/59f4244190954eeb9fe7e3cb3395eec4.shtml",
+     "title": "The Lingering Garden",
+     "checked_at": "2026-10-10",
+     "verification": "공식 본문 열람 확인; 최신 현장운영 보증 아님",
+     "supported_facts": [
+      "세계유산",
+      "공간 구성·관운봉",
+      "2021년 운영표"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 임시휴업·행사 통제",
+    "외국인 여권 예약 및 현장처리",
+    "해외카드·모바일 결제 가능 여부",
+    "방문일 성인 요금 및 상품 포함내역",
+    "사전예약 필요 여부"
+   ],
+   "selection_tier": "방문수요 확인 + 상하이 연계",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "collection_group": "east",
+   "highlights": [
+    "회랑과 창문 프레임",
+    "관운봉",
+    "동·중·서·북의 서로 다른 경관"
+   ],
+   "visit_tips": [
+    "1.5~2시간은 편집상 권장치다.",
+    "주소는 류위안루338호이며 졸정원과 이동시간을 별도로 둔다.",
+    "기암과 건축은 보호 대상이므로 올라가거나 난간을 넘지 않는다."
+   ],
+   "destination_cluster": "쑤저우",
+   "original_region": "중국 동부",
+   "selection_region_id": "suzhou",
+   "selection_evidence_ids": [
+    "SEL05",
+    "SEL06"
+   ],
+   "selection_scope_caution": "공업원구 실적을 고전정원 방문량으로 옮기지 않는다.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

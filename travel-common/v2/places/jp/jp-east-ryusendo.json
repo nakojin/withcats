@@ -1,0 +1,179 @@
+{
+ "id": "jp-east-ryusendo",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "류센도",
+  "local": "龍泉洞"
+ },
+ "admin_region": "이와테",
+ "former_region": null,
+ "city": "이와이즈미정",
+ "address": null,
+ "coord": {
+  "lat": 39.860039,
+  "lng": 141.797025,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/5603978806"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-ryusendo",
+   "name_ko": "류센도",
+   "name_ja": "龍泉洞",
+   "region": "도호쿠",
+   "prefecture": "이와테",
+   "city": "이와이즈미정",
+   "category": "석회동굴",
+   "description": "푸른 지저호와 종유석을 보는 동굴이다. 공식 운영자는 확인된 전체 길이 중 약 700m를 관광 구간으로 안내하며, 발견된 지저호 8개 중 공개되는 것은 3개다. 미탐사·비공개 공간이 많다는 점도 이 장소의 특징이다.",
+   "highlights": [
+    "공개된 세 지저호의 청색",
+    "오랜 시간 자란 종유석",
+    "좁은 동굴 길과 넓어지는 내부 공간의 변화"
+   ],
+   "best_time": "여름에는 지하의 서늘한 공간을 체험하기 좋다. 강우·눈 녹는 물로 수위와 투명도가 달라질 수 있다.",
+   "visit_tips": [
+    "미끄러지지 않는 신발과 지상보다 서늘한 환경에 맞는 겉옷을 준비한다.",
+    "손으로 종유석을 만지거나 공개 코스 밖으로 들어가지 않는다.",
+    "산간 지역이므로 모리오카 왕복 교통과 마지막 버스를 먼저 확인한다."
+   ],
+   "hours_and_fees": {
+    "hours": "10~4월 08:30–17:00, 5~9월 08:30–18:00",
+    "fees": "성인(고교생 이상) 1,100엔, 초·중학생 550엔, 미취학 아동 무료 (세금 포함, 류센신도 과학관 공통권)",
+    "conditions": "연중 무휴(7일 개장)로 표기되나 정기휴관일·최종입장 시각은 페이지에 명시 없음. 'Group rates and disability discounts' 있음. 황금연휴·오봉에는 관람로 일방통행, 11:00–14:00가 가장 혼잡. 안전을 위해 수위가 위험 수준으로 오르면 류센도 폐쇄(과학관은 개관 유지), 구체적 수위 기준은 미기재. 당일 수위·투명도는 페이지에 없음.",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "당일 수위·투명도·폐쇄 여부",
+    "최종입장 시각",
+    "요금 개정 시점(페이지에 날짜 없음)"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.iwate-ryusendo.jp/en/about/",
+     "title": "Ryusendo official: About Ryusendo",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "공개 코스 700m",
+      "지저호 8개 중 3개 공개",
+      "지질·박쥐 자연기념물"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.iwate-ryusendo.jp/en/operation/",
+     "title": "Guide to Ryusendo – 岩泉町・龍泉洞WEBサイト",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간",
+      "요금",
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

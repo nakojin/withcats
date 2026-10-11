@@ -1,0 +1,169 @@
+{
+ "id": "central-035",
+ "country": "jp",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "도다이지 대불전",
+  "local": "東大寺 大仏殿"
+ },
+ "admin_region": "나라",
+ "former_region": null,
+ "city": "나라시",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-035",
+   "name_ko": "도다이지 대불전",
+   "name_ja": "東大寺 大仏殿",
+   "region": "간사이",
+   "prefecture": "나라",
+   "city": "나라시",
+   "category": "사찰·불교미술",
+   "description": "거대한 비로자나불을 모신 대불전을 중심으로 나라시대 불교의 규모를 느끼는 장소다. 남대문 금강역사상과 대불을 연결해서 보면 건축과 조각을 함께 감상할 수 있다. 경내 여러 전각과 박물관은 각각 입장료가 다르므로 대불전 표의 범위를 확인한다.",
+   "highlights": [
+    "비로자나 대불",
+    "대불전 목조건축",
+    "남대문 금강역사상"
+   ],
+   "best_time": "연중 관람 가능. 4~10월 7:30 개방을 활용한 이른 방문을 편집 추천한다.",
+   "visit_tips": [
+    "대불전·법화당·계단당·박물관은 각각 유료라는 점을 예산에 반영한다.",
+    "한국어가 포함된 유료 오디오가이드를 원하면 접수시간을 따로 본다.",
+    "박물관도 볼 경우 합산표와 개별표를 비교한다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.todaiji.or.jp/en/information/haikan/",
+     "title": "Todaiji: Opening Hours & Admission Fees",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "시간",
+      "입장구역",
+      "요금",
+      "오디오가이드"
+     ]
+    },
+    {
+     "url": "https://www.visitnara.jp/lists-and-stories/story/explore-naras-world-heritage-sites/",
+     "title": "Visit Nara: World Heritage Sites",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "대불",
+      "남대문",
+      "역사적 맥락"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "특별행사에 따른 개방변경",
+    "방문일 임시휴관"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "대불전 4~10월 7:30~17:30, 11~3월 8:00~17:00. 13세 이상 800엔·6~12세 400엔. 대불전+박물관 1,200엔·어린이 600엔. 오디오가이드 500엔 별도."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,167 @@
+{
+ "id": "central-010",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "히가시차야 거리",
+  "local": "ひがし茶屋街"
+ },
+ "admin_region": "이시카와",
+ "former_region": null,
+ "city": "가나자와시",
+ "address": null,
+ "coord": {
+  "lat": 36.572556,
+  "lng": 136.666676,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/2146147848"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-010",
+   "name_ko": "히가시차야 거리",
+   "name_ja": "ひがし茶屋街",
+   "region": "주부·호쿠리쿠",
+   "prefecture": "이시카와",
+   "city": "가나자와시",
+   "category": "역사거리·공예",
+   "description": "붉은 격자창을 단 전통 건물이 모인 옛 차야 지구다. 현재는 상점·카페·주택이 섞인 생활 상권이며, 게이샤가 접대하는 오차야는 일반적인 찻집과 운영방식이 다르다. 골목 산책과 공개 전시관 방문을 조합하면 건축과 접대문화의 차이를 이해하기 좋다.",
+   "highlights": [
+    "격자창 목조거리",
+    "아사노가와 주변 골목",
+    "차야문화를 해설하는 전시관"
+   ],
+   "best_time": "점포 이용은 대체로 10~17시. 계절보다는 영업 목적에 맞춘 낮 방문을 추천한다.",
+   "visit_tips": [
+    "거리만 둘러보면 약 1시간, 카페·가게 포함이면 2시간 이상을 잡는다.",
+    "산 물건은 원칙적으로 점포 지정 공간에서 먹고 걸어 다니며 먹지 않는다.",
+    "하시키바초 정류장은 노선별 위치가 달라 아사노가와 오하시를 방향 기준으로 삼는다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://visitkanazawa.jp/en/higashi",
+     "title": "Visit Kanazawa: Beginner’s Guide to Higashi Chaya",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "거리 성격",
+      "운영·무료",
+      "소요시간",
+      "예절",
+      "오차야 제한"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "점포·공개 찻집별 요금",
+    "게이샤 공연 일정"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "거리 자체 정해진 개장시간·입장료 없음. 많은 점포는 10:00~17:00이나 개별 차이 있음. 소개 없는 오차야 출입은 일반 관광객에게 제한된다."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

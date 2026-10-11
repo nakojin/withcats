@@ -1,0 +1,199 @@
+{
+ "id": "nature-cbs-02",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "백두산 중국 측 서경구",
+  "local": "长白山西景区"
+ },
+ "admin_region": "지린성",
+ "former_region": null,
+ "city": "장백산 보호개발구 츠시·송강하 거점",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-cbs-02",
+   "name_ko": "백두산 중국 측 서경구",
+   "name_local": "长白山西景区",
+   "city": "장백산 보호개발구 츠시·송강하 거점",
+   "province": "지린성",
+   "region": "옌지·백두산 중국 측",
+   "destination_cluster": "옌지·백두산 중국 측",
+   "category": "고산·화산호",
+   "description": "중국 측 서쪽에서 천지와 화산 지형을 보는 운영구역이다. 공식 안내는 북쪽보다 넓은 천지 조망과 1442개 계단을 특징으로 설명한다. 고산 정원과 협곡을 함께 살펴볼 수 있지만 차량에서 내린 뒤 걷는 부담을 여행 동반자에 맞춰 판단해야 한다.",
+   "best_time": {
+    "period": "7–8월 또는 개방 중인 초가을",
+    "reason": "공식 안내는 고산 정원의 7–8월 경관을 강조한다. 천지 조망은 구름과 바람에 좌우된다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "2026 방문일 첫·마지막 입장 및 정상 개방 미확인",
+    "fees": "2021 안내에는 기본105+친환경버스85 CNY. 오래된 자료라 현재 확정가로 사용하지 않음; 집산센터 노선차 등 추가비 별도 확인",
+    "reservation": "서경구 자체의 실명·분시 예약 요건, 한국 여권 및 구역 간 입장권 연계 정책은 이번 조사에서 직접 확인하지 못함"
+   },
+   "sources": [
+    {
+     "url": "https://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html",
+     "title": "장백산 관리위원회: 북·서·남경구 비교",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람 · 과거 자료, 현재 운영 재확인 필요",
+     "supported_facts": [
+      "세 경구별 천지 조망과 경관 차이",
+      "서경구 1442계단",
+      "북경구 폭포·녹연담·지하삼림"
+     ]
+    },
+    {
+     "url": "https://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202106/t20210625_210152.html",
+     "title": "장백산 관리위원회: 경구별 거점",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람 · 과거 자료, 현재 운영 재확인 필요",
+     "supported_facts": [
+      "북경구 이도백하·서경구 송강하·남경구 츠난 위치 구분"
+     ]
+    },
+    {
+     "url": "https://www.changbaishan.gov.cn/zwgk/zwdt/zbsyw/202606/t20260622_270898.html",
+     "title": "장백산 관리위원회: 2026 여름 경관 안내",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "여름 천지·숲·계곡 경관",
+      "2026년6월 세 경구 운영 사례"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": "changbaishan-china-side",
+   "counting_scope": "중국 측 서경구 1개 운영구역. 천지·고산정원·협곡을 추가 집계하지 않음",
+   "selection_tier": "핵심 수요 확인 + 연계",
+   "collection_group": "nature",
+   "highlights": [
+    "서쪽 천지 조망",
+    "고산 정원",
+    "화산 협곡"
+   ],
+   "visit_tips": [
+    "1442계단 보행을 전제로 동반자의 체력을 고려한다",
+    "송강하·츠시 거점 예약인지 확인한다",
+    "북경구 티켓만으로 서경구 교통까지 해결된다고 가정하지 않는다"
+   ],
+   "parent_label": "백두산 중국 측 상위 산악권역",
+   "counting_note": "중국 측 서경구 1개 운영구역. 천지·고산정원·협곡을 추가 집계하지 않음",
+   "original_region": "옌지·백두산 중국 측",
+   "selection_region_id": "yanji_changbaishan",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL03"
+   ],
+   "selection_scope_caution": "백두산 상품 수요를 옌지 도심 인기와 동일시하지 않으며 중국 측 개방구역만 다룬다.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

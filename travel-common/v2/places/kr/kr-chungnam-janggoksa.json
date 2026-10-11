@@ -1,0 +1,173 @@
+{
+ "id": "kr-chungnam-janggoksa",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "장곡사",
+  "local": "장곡사"
+ },
+ "admin_region": "충청남도",
+ "former_region": null,
+ "city": "청양군 칠갑산 남쪽 기슭",
+ "address": null,
+ "coord": {
+  "lat": 36.417361,
+  "lng": 126.859851,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/557601207"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-chungnam-janggoksa",
+   "name_ko": "장곡사",
+   "aliases": [],
+   "region": "충청남도",
+   "admin_region": "충청남도",
+   "locality": "청양군 칠갑산 남쪽 기슭",
+   "type": [
+    "사찰",
+    "문화유산"
+   ],
+   "highlights": [
+    "건축 형태와 조성 시기가 다른 상·하대웅전",
+    "범종루의 큰 통나무 밥그릇 등 사찰 유물"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "산기슭 사찰의 여러 전각을 걷고 건축을 비교하기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "상·하대웅전의 건축 차이를 살펴보는 관람을 중심으로 잡고 칠갑산 정상 산행과는 구분한다.",
+    "법당은 예불 공간이므로 안쪽 입장·촬영 가능 여부를 현장에서 확인하고 유물에 손대지 않는다."
+   ],
+   "sources": [
+    {
+     "url": "https://www.cheongyang.go.kr/tour/sub01_05_01.do",
+     "title": "청양군 문화관광: 당일코스 장곡사 상세 소개",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 메모에 명시한 확인 조건 외 요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/04_충청/장곡사.md",
+   "editorial_region": "04_충청",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,175 @@
+{
+ "id": "kr-gyeongbuk-bongjeongsa",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "안동 봉정사",
+  "local": "안동 봉정사"
+ },
+ "admin_region": "경상북도",
+ "former_region": null,
+ "city": "안동시 서후면 봉정사길 222",
+ "address": null,
+ "coord": {
+  "lat": 36.653266,
+  "lng": 128.662725,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/691112451"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongbuk-bongjeongsa",
+   "name_ko": "안동 봉정사",
+   "aliases": [],
+   "region": "경상북도",
+   "admin_region": "경상북도",
+   "locality": "안동시 서후면 봉정사길 222",
+   "type": [
+    "사찰",
+    "목조건축"
+   ],
+   "highlights": [
+    "오래된 목조건축 극락전",
+    "극락전 중수 기록이 전하는 사찰 건축사"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "산사 공간과 목조건축을 차분히 둘러보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "극락전의 외형과 중수 기록 설명을 연결해 본다.",
+    "법당은 예불 공간이므로 내부 촬영·출입 안내를 따른다.",
+    "안동 도심·하회마을과 별도로 이동 시간을 잡는다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111148",
+     "title": "VISITKOREA — Bongjeongsa Temple",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "오래된 목조건축 극락전; 극락전 중수 기록이 전하는 사찰 건축사"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "창건 인물·연도는 자료별 전승 차이가 있어 확정하지 않았다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/06_경북대구/안동 봉정사.md",
+   "editorial_region": "06_경북대구",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

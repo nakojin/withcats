@@ -1,0 +1,188 @@
+{
+ "id": "cd-qingcheng",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "칭청산 전산",
+  "local": "青城山前山"
+ },
+ "admin_region": "쓰촨성",
+ "former_region": null,
+ "city": "두장옌",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "cd-qingcheng",
+   "name_ko": "칭청산 전산",
+   "name_local": "青城山前山",
+   "city": "두장옌",
+   "province": "쓰촨성",
+   "region": "청두",
+   "destination_cluster": "청두·두장옌",
+   "category": "도교유산·산행",
+   "description": "청두 평야 남서쪽의 도교 문화 산지로 숲과 사원들을 연결해 걷는 여행에 적합하다. 본 레코드는 전산의 문화유산 관람이며 자연 산행 중심의 후산과 입장권·동선을 혼동하지 않는다.",
+   "best_time": {
+    "period": "봄·가을 비가 적은 날 오전",
+    "reason": "계단과 숲길에 시간을 충분히 쓰고 어두워지기 전 하산하기 좋다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "공식 관광사이트: 여름 08:00~17:30, 기타 계절 08:30~17:00. 여름의 구체적 적용일 미표기.",
+    "price": "성인 80; 관광차·삭도·배·해설 제외",
+    "currency": "CNY",
+    "reservation": "공식 운영사 안내: 외국인은 여권 또는 외국인거류증 구매 후 수동통로 검표; 현장 창구 처리가 가능하다고 명시.",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://whc.unesco.org/en/list/1001/",
+     "title": "UNESCO 청성산·두장옌",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "도교 유산",
+      "사원·건복궁"
+     ]
+    },
+    {
+     "url": "https://www.djy517.com/online.html?channelCode=mpyd",
+     "title": "두장옌 관광 운영사 티켓 안내",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "전산 권종",
+      "80 CNY",
+      "시간",
+      "여권·현장검표"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "여름 시간 적용 날짜",
+    "삭도·배 요금 및 당일 운행",
+    "결제수단"
+   ],
+   "status": "operations_reconfirmation_needed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "핵심 정성 수요 확인",
+   "collection_group": "history",
+   "highlights": [
+    "도교 사원군",
+    "건복궁",
+    "숲길과 산지 경관"
+   ],
+   "visit_tips": [
+    "전산과 후산을 구분해 예약한다",
+    "케이블카·호수 배·관광차는 입장권과 별도다",
+    "젖은 돌계단을 고려해 미끄럼 방지 신발을 신는다"
+   ],
+   "original_region": "서남",
+   "selection_region_id": "chengdu",
+   "selection_evidence_ids": [
+    "SEL03"
+   ],
+   "selection_scope_caution": "러산·두장옌 등은 청두 밖 연계지이며 청두 수요를 모든 쓰촨 명소에 일반화하지 않는다.",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

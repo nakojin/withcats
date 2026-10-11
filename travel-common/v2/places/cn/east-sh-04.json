@@ -1,0 +1,191 @@
+{
+ "id": "east-sh-04",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "신톈디",
+  "local": "新天地"
+ },
+ "admin_region": "상하이시",
+ "former_region": null,
+ "city": "상하이",
+ "address": null,
+ "coord": {
+  "lat": 31.221827,
+  "lng": 121.470357,
+  "geo_type": "point",
+  "precision": "place",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/11135920722"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "east-sh-04",
+   "name_ko": "신톈디",
+   "name_local": "新天地",
+   "city": "상하이",
+   "province": "상하이시",
+   "region": "상하이",
+   "category": "역사건축·식음상권",
+   "description": "스쿠먼 주거건축의 외관을 보존하면서 식당과 상업시설로 재활용한 도심 구역이다. 골목의 벽돌·석문 디테일과 현대적인 식음 공간이 겹치는 도시재생 사례를 볼 수 있다. 식사 전후로 가볍게 걷는 일정에 적합하다.",
+   "best_time": {
+    "period": "늦은 오후~저녁",
+    "reason": "골목 건축을 볼 수 있는 낮의 빛과 식음 상권 분위기를 함께 경험하기 좋다.",
+    "basis": "편집상 권장; 개화·날씨·혼잡 및 운영 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "timezone": "Asia/Shanghai",
+    "hours": "구역 24시간; 개별 매장 별도",
+    "price_cny": "공식 요금 미확인",
+    "reservation": "공식 예약조건 미확인",
+    "foreign_passport": "외국인 여권 예약·입장 상세 미확인",
+    "payment": "결제수단 미확인",
+    "validity_note": "조회일은 본문 열람일이며 방문일 실시간 운영 확인일이 아님"
+   },
+   "sources": [
+    {
+     "url": "https://english.shanghai.gov.cn/en-PlanANightOut/20231217/2f954a83b78945ffb7dac1038e6797c4.html",
+     "title": "Shanghai Xintiandi",
+     "checked_at": "2026-10-10",
+     "verification": "공식 본문 열람 확인; 최신 현장운영 보증 아님",
+     "supported_facts": [
+      "스쿠먼 보존·상업 활용",
+      "주소",
+      "구역 24시간"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 임시휴업·행사 통제",
+    "외국인 여권 예약 및 현장처리",
+    "해외카드·모바일 결제 가능 여부",
+    "방문일 성인 요금 및 상품 포함내역",
+    "사전예약 필요 여부"
+   ],
+   "selection_tier": "핵심 수요 확인",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "collection_group": "east",
+   "highlights": [
+    "스쿠먼 건축 외관",
+    "재생된 골목 상업공간",
+    "저녁 식사·야간 분위기"
+   ],
+   "visit_tips": [
+    "상권 산책 1시간에 식사 시간을 추가한다.",
+    "공식 주소는 황푸구 타이창루181농이다.",
+    "구역 24시간 안내를 식당·매장 영업 보장으로 해석하지 않는다."
+   ],
+   "destination_cluster": "상하이",
+   "original_region": "중국 동부",
+   "selection_region_id": "shanghai",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL02",
+    "SEL03"
+   ],
+   "selection_scope_caution": "도시 수요가 개별 명소 선호를 자동 증명하지 않는다.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,191 @@
+{
+ "id": "kr-seoul-changdeokgung",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "창덕궁",
+  "local": "창덕궁"
+ },
+ "admin_region": "서울특별시",
+ "former_region": null,
+ "city": "서울 종로구 율곡로 99",
+ "address": null,
+ "coord": {
+  "lat": 37.582387,
+  "lng": 126.991701,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/789965985"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-seoul-changdeokgung",
+   "name_ko": "창덕궁",
+   "region": "서울",
+   "admin_region": "서울특별시",
+   "locality": "서울 종로구 율곡로 99",
+   "type": [
+    "고궁",
+    "세계유산"
+   ],
+   "highlights": [
+    "1997년 세계유산에 등재된 궁궐로, 주변 지형에 맞춘 건물 배치와 숲의 관계가 핵심 감상 요소다.",
+    "낙선재 권역은 대한제국 마지막 황실 가족이 생활했던 장소이며, 후원에는 부용지·주합루·애련지·연경당 등의 공간이 조성되었다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을. 궁궐과 숲을 함께 걷는 데 적합하다는 편집 추천. 단풍 날짜는 해마다 달라진다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "공식 교통안내는 안국역 3번 출구 도보 5분, 종로3가역 7번 출구 도보 10분을 안내하며 주차시설이 없다고 명시한다.",
+    "후원 표와 전각 관람 조건을 구분한다. 계절별 언어 회차는 예약 페이지를 확인한다.",
+    "편집 팁: 황실 생활사에 관심이 있다면 낙선재의 맥락을, 정원 경관이 목적이면 후원 예약과 방문 회차를 먼저 확인한다. 소개된 모든 후원 공간이 매 회차 개방된다고 가정하지 않는다."
+   ],
+   "operational": {
+    "notes": [
+     "2~5월·9~10월 09:00~18:00, 6~8월 09:00~18:30, 11~1월 09:00~17:30. 입장은 마감 1시간 전까지.",
+     "정기휴일 월요일이며 공휴일·대체공휴일과 겹치면 다음 첫 비공휴일에 쉰다.",
+     "전각 일반 대인 개인 3,000원. 후원은 별도 정원·회차가 있는 제한관람이다.",
+     "후원 온라인 예매는 관람일을 제외한 6일 전 10시부터 전날까지, 현장 판매는 관람 당일 9시부터라는 공식 안내를 확인했다. 후원 세부 연령별 요금은 이 문서에서 확정하지 않는다."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R102030000.do",
+     "title": "세계유산 창덕궁",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+     "title": "관람시간",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+     "title": "관람요금·후원 예매",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do?schGroupCode=cdg",
+     "title": "오시는 길",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R102010000.do",
+     "title": "궁능유적본부 창덕궁 소개·역사",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/01_서울/창덕궁.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/01_서울/창덕궁.md",
+   "editorial_region": "01_서울",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

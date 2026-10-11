@@ -1,0 +1,190 @@
+{
+ "id": "nature-yj-01",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "중국조선족민속원",
+  "local": "中国朝鲜族民俗园"
+ },
+ "admin_region": "지린성",
+ "former_region": null,
+ "city": "옌지",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-yj-01",
+   "name_ko": "중국조선족민속원",
+   "name_local": "中国朝鲜族民俗园",
+   "city": "옌지",
+   "province": "지린성",
+   "region": "옌지·백두산 중국 측",
+   "destination_cluster": "옌지·백두산 중국 측",
+   "category": "민속·문화 체험",
+   "description": "옌지 남쪽 모아산 기슭에 조선족 전통 건축과 생활 문화를 모아 놓은 관광지다. 전통 가옥과 의복, 음식·공예 체험을 통해 중국 조선족 지역 문화를 살펴볼 수 있다. 사진 촬영만을 목적으로 보기보다 가옥과 살아 있는 전통의 맥락을 함께 읽으면 더 풍부하다.",
+   "best_time": {
+    "period": "봄·가을; 겨울은 설경·행사 일정 확인 후",
+    "reason": "공식 옌지 계절 코스에 포함되어 있다. 겨울 야외 체험은 추위와 행사 운영을 별도로 확인한다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "미확인",
+    "fees": "미확인",
+    "reservation": "외국인 여권 예약·현장 발권·결제 수단 미확인"
+   },
+   "sources": [
+    {
+     "url": "https://jldrc.jl.gov.cn/fgdt/jldt/202610/t20261008_3673930.html",
+     "title": "지린성 발전개혁위: 조선족민속원 사례",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "40개 전통 건축과 오래된 민가",
+      "무형유산·음식·공예 체험",
+      "2026-10-08 공개"
+     ]
+    },
+    {
+     "url": "https://whhlyt.jl.gov.cn/ztzl/jlslyxlhxj/gdxl/ybz/yjs/202506/t20250625_9264370.html",
+     "title": "지린성 문화여유청: 옌지 여행코스",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람 · 과거 자료, 현재 운영 재확인 필요",
+     "supported_facts": [
+      "모아산 산림·전망",
+      "민속원과 박물관 위치",
+      "봄·가을 여행 코스"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "counting_scope": "민속원 개별 시설 1곳. 모아산(공룡) 문화관광구 상위 명칭은 중복 집계하지 않음",
+   "selection_tier": "핵심 수요 확인 + 연계",
+   "collection_group": "nature",
+   "highlights": [
+    "전통 가옥과 오래된 민가",
+    "의복·음식·공예",
+    "공연과 민속 체험"
+   ],
+   "visit_tips": [
+    "의상 대여·사진 촬영·체험을 기본권 포함으로 가정하지 않는다",
+    "공연은 매일 동일 시간에 있다고 단정하지 않는다",
+    "현지인의 문화와 촬영 대상에 대한 예의를 지킨다"
+   ],
+   "counting_note": "민속원 개별 시설 1곳. 모아산(공룡) 문화관광구 상위 명칭은 중복 집계하지 않음",
+   "original_region": "옌지·백두산 중국 측",
+   "selection_region_id": "yanji_changbaishan",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL03"
+   ],
+   "selection_scope_caution": "백두산 상품 수요를 옌지 도심 인기와 동일시하지 않으며 중국 측 개방구역만 다룬다.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

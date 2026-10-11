@@ -1,0 +1,187 @@
+{
+ "id": "bj-ming-tombs",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "명십삼릉",
+  "local": "明十三陵"
+ },
+ "admin_region": "베이징시",
+ "former_region": null,
+ "city": "베이징",
+ "address": null,
+ "coord": {
+  "lat": 40.258932,
+  "lng": 116.220163,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/1303123866"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "bj-ming-tombs",
+   "name_ko": "명십삼릉",
+   "name_local": "明十三陵",
+   "city": "베이징",
+   "province": "베이징시",
+   "region": "베이징",
+   "destination_cluster": "베이징",
+   "category": "황릉",
+   "description": "명 황제들의 능묘가 산기슭에 흩어져 있는 유산 구역이다. 모든 능이 공개된 것은 아니며 능 사이 거리도 있어 정릉·장릉·신도 중 관심 지점을 골라 방문하는 편이 현실적이다.",
+   "best_time": {
+    "period": "봄·가을 낮",
+    "reason": "야외 유산과 능묘 사이 이동을 낮 시간에 넉넉히 배치하기 좋다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "성수기 08:30~17:30, 비수기 08:30~16:30; 성·비수기 적용일은 본문에 없음.",
+    "price": "장릉 45/30, 신도 20/15, 소릉 30/20(성·비수기); 정릉 성수기 60, 비수기 미확인",
+    "currency": "CNY",
+    "reservation": "정부는 현장판매를 안내하나 외국인 여권 절차 운영자 확인 미완료.",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260320_4562417.html",
+     "title": "베이징시 The Ming Tombs",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "공개 능",
+      "시간",
+      "능별 요금",
+      "능 사이 거리"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "외국인 현장입장",
+    "정릉 비수기 요금",
+    "성비수기 적용일",
+    "결제수단"
+   ],
+   "status": "operations_reconfirmation_needed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "핵심 정성 수요 확인",
+   "collection_group": "history",
+   "highlights": [
+    "장릉",
+    "정릉",
+    "신도"
+   ],
+   "visit_tips": [
+    "13개 능 전부 공개로 해석하지 않는다",
+    "각 능의 표가 별도인지 확인한다",
+    "능 사이 이동 차량과 시간을 확보한다"
+   ],
+   "original_region": "화북",
+   "selection_region_id": "beijing",
+   "selection_evidence_ids": [
+    "SEL03"
+   ],
+   "selection_scope_caution": "정량 도시순위 없음; 근교 장성은 연계권역.",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

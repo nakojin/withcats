@@ -1,0 +1,190 @@
+{
+ "id": "kr-incheon-ganghwa-parent",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "강화도",
+  "local": "강화도"
+ },
+ "admin_region": "인천광역시",
+ "former_region": null,
+ "city": "강화군 강화도 및 주변 관광권",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-incheon-ganghwa-parent",
+   "name_ko": "강화도",
+   "region": "인천",
+   "admin_region": "인천광역시",
+   "locality": "강화군 강화도 및 주변 관광권",
+   "type": [
+    "부모관광권",
+    "역사",
+    "산행"
+   ],
+   "highlights": [
+    "강화 고인돌은 고창·화순과 함께 세계유산을 구성한다. 부근리·고천리 유적의 큰 덮개돌과 받침 구조를 보면 선사시대의 장례와 돌 운반 기술을 생각해 볼 수 있다.",
+    "마니산은 서해를 조망하는 산행과 참성단의 제천 전승을 함께 접하는 곳이다. 참성단 내부 진입과 산행로 이용은 별도로 확인해야 한다.",
+    "등산 부담을 줄이려면 마니산 입구 치유의 숲과 한겨레얼체험관을 후보로 삼는다. 체험관은 단군·고조선·마니산의 역사와 문화를 다룬다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을의 맑은 낮",
+    "reason": "고인돌 답사와 산길 걷기를 묶기 좋은 편집 추천이다. 개화·단풍 절정일을 확인한 것은 아니다.",
+    "basis": "editorial_recommendation_based_on_verified_features"
+   },
+   "visit_tips": [
+    "강화도 전체를 한 시설처럼 계획하지 말고 고인돌 답사와 마니산 산행 중 중심 활동을 정한다. 석모도까지 더하면 별도 이동과 시설 확인이 필요하다.",
+    "마니산은 지정 등산로만 이용하며 야간산행·반려동물 동반이 금지된다고 공식 공지가 안내한다.",
+    "참성단은 2026년 10월 3일 행사에 따른 통제 공지가 있었다. 행사 공지를 일반적인 상시 개방 근거로 사용하지 않는다."
+   ],
+   "operational": {
+    "notes": [
+     "마니산 2026-09-30 공지: 성인 2,000원·청소년/군인 1,000원·어린이 700원, 주차 무료. 20인 이상 단체 할인은 별도 조건 확인.",
+     "동 공지의 이용시간은 07:00~18:00이나 사이트 공통 하단은 09:00~18:00로 상충한다. 이른 입산은 관리처 032-930-7068에 확인한다. 일몰에 따라 입산 가능시간 변동, 동절기 16시 이후 및 기상특보 때 입산 금지 안내."
+    ]
+   },
+   "unverified_items": [
+    "참성단의 방문일 내부 출입 방식",
+    "석모도 미네랄온천 현행 시간·요금·휴무",
+    "대중교통 배차 및 석모도 교통 현행 조건"
+   ],
+   "sources": [
+    {
+     "url": "https://whc.unesco.org/en/list/977/",
+     "title": "UNESCO 고창·화순·강화 고인돌",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "강화 유적의 세계유산 구성, 산비탈 입지, 부근리·고천리"
+    },
+    {
+     "url": "https://www.ganghwa.go.kr/manisan/",
+     "title": "강화군 마니산",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "마니산 경관, 참성단, 치유의 숲·체험관, 행사 통제 공지 존재"
+    },
+    {
+     "url": "https://www.ganghwa.go.kr/manisan/main/bbs/bbsMsgDetail.do?bcd=notice&msg_seq=10",
+     "title": "마니산 이용시간 및 입산 유의사항 2026-09-30",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "요금·주차, 입산 제한과 시간 표기 충돌"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/02_인천경기/강화도.md",
+   "document_path": "korea-travel/02_인천경기/강화도.md",
+   "path": "korea-travel/02_인천경기/강화도.md",
+   "count_as_independent": false,
+   "relation_type": "parent_reference",
+   "relation_note": "강화도·주변 섬을 포괄하는 부모 문서. 기존 부근리 고인돌·전등사·강화루지·교동 대룡시장과 별도 가산하지 않는다.",
+   "related_catalog_ids": [
+    "kr-incheon-bugeunri-dolmen",
+    "kr-incheon-jeondeungsa",
+    "kr-incheon-ganghwa-luge",
+    "kr-incheon-gyodong-daeryong-market"
+   ],
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification",
+   "editorial_region": "02_인천경기"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

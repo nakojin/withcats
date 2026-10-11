@@ -1,0 +1,210 @@
+{
+ "id": "kr-jeolla-damyang-reference",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "담양",
+  "local": "담양"
+ },
+ "admin_region": "전라남도",
+ "former_region": null,
+ "city": "전라 편집권역 담양군: 담양읍·가사문학면",
+ "address": null,
+ "coord": {
+  "lat": 35.321187,
+  "lng": 126.988242,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/479409316"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeolla-damyang-reference",
+   "name_ko": "담양",
+   "region": "전라",
+   "admin_region": "전라남도",
+   "locality": "전라 편집권역 담양군: 담양읍·가사문학면",
+   "type": [
+    "대나무숲",
+    "정원",
+    "부모 관광권"
+   ],
+   "highlights": [
+    "죽녹원은 울창한 대나무 사이를 걷는 숲이다. 정문 기준 주소는 담양읍 죽녹원로 119로 확인된다.",
+    "소쇄원은 양산보가 조성한 조선시대 정원이다. 대숲에서 작은 계곡으로 들어가 물길과 정원의 관계를 살펴보는 재미가 있다.",
+    "죽녹원의 넓은 숲길과 소쇄원의 작은 계류 정원을 비교하면 담양의 두 가지 녹색 풍경을 경험할 수 있다."
+   ],
+   "recommended_season": {
+    "text": "늦봄·초여름 또는 가을",
+    "reason": "대숲과 정원을 걸으며 초록과 물길을 보는 일정에 맞춘 편집 추천이다. 폭우 뒤에는 미끄러운 길과 통제 여부를 확인한다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "죽녹원과 소쇄원은 읍·면이 다른 시설이므로 도보로 바로 이어지는 정원처럼 생각하지 않는다.",
+    "죽녹원은 폐장보다 입장마감이 이르다. 늦은 오후 도착이라면 매표마감부터 확인한다.",
+    "소쇄원에서는 넓은 꽃밭보다 대숲·담장·계류가 만드는 작은 장면을 천천히 본다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=93987",
+     "title": "한국관광공사 VISITKOREA: Juknokwon",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "대숲 성격",
+      "정문 주소",
+      "월별 시간·요금"
+     ]
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110586",
+     "title": "한국관광공사 VISITKOREA: Soswaewon Garden",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "조선 정원·양산보",
+      "계류·대숲",
+      "주소·요금"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": "관광공사 본문 표기: 죽녹원 개인 성인 3,000원·청소년 1,500원·어린이 1,000원. 소쇄원 성인 2,000원.",
+    "hours": "죽녹원 3~10월 09:00~19:00(입장 18:00까지), 11~2월 09:00~18:00(입장 17:30까지). 소쇄원은 본문에 09:00~17:00이나 계절별 차이 재확인 필요.",
+    "reservation": null,
+    "status_note": "관광공사 표기 확인일 2026-10-10. 운영사 현장변경·할인 적용은 별도 확인."
+   },
+   "record_status": "verified_core_operational_pending",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/05_전라/담양.md",
+   "document_path": "korea-travel/05_전라/담양.md",
+   "path": "korea-travel/05_전라/담양.md",
+   "count_as_independent": false,
+   "record_origin": "baseline_followup",
+   "counting_unit": "parent_travel_area_reference",
+   "relation_note": "여러 지점의 동선을 설명하는 부모 관광권 참고문서. 구성 명소를 개별 가산하지 않는다.",
+   "verification_scope": {
+    "confirmed": [
+     "공식 웹본문의 명칭·위치·볼거리"
+    ],
+    "editorial": [
+     "추천시기·이유",
+     "특성에 근거한 동선·준비 조언"
+    ],
+    "pending": [
+     "소쇄원 계절별 운영시간",
+     "메타세쿼이아길 현행 요금·시간",
+     "관방제림 상세 관람동선",
+     "시설 간 대중교통"
+    ]
+   },
+   "unconfirmed_items": [
+    "소쇄원 계절별 운영시간",
+    "메타세쿼이아길 현행 요금·시간",
+    "관방제림 상세 관람동선",
+    "시설 간 대중교통"
+   ],
+   "baseline_correction": "죽녹원 주소 혼선을 정문 주소로 정리. 근거 없는 메타세쿼이아길·관방제림 수치 대신 검증된 두 숲·정원을 중심으로 재편.",
+   "editorial_region": "05_전라",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

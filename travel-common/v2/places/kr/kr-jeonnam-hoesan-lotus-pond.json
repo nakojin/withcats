@@ -1,0 +1,177 @@
+{
+ "id": "kr-jeonnam-hoesan-lotus-pond",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "무안 회산백련지",
+  "local": "무안 회산백련지"
+ },
+ "admin_region": "전라남도",
+ "former_region": null,
+ "city": "무안군 일로읍 백련로 333",
+ "address": null,
+ "coord": {
+  "lat": 34.862876,
+  "lng": 126.524747,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/1490232525"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonnam-hoesan-lotus-pond",
+   "name_ko": "무안 회산백련지",
+   "aliases": [],
+   "region": "전라남도",
+   "admin_region": "전라남도",
+   "locality": "무안군 일로읍 백련로 333",
+   "type": [
+    "연못",
+    "연꽃",
+    "생태공원"
+   ],
+   "highlights": [
+    "백련과 연잎이 펼쳐진 옛 저수지",
+    "관찰 데크와 야생화 공간"
+   ],
+   "recommended_season": {
+    "text": "여름 연꽃 개화기",
+    "reason": "백련을 주목적으로 방문하기 좋은 시기다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "꽃 상태를 확인하고 더위가 덜한 시간대를 고른다.",
+    "데크 밖으로 나가거나 연꽃을 꺾지 않는다.",
+    "물놀이장·야영장 이용과 연못 관람을 별도 항목으로 확인한다."
+   ],
+   "visit_tips_basis": "editorial_inference_from_verified_features",
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=79940",
+     "title": "VISITKOREA — Muan Hoesan White Lotus Pond",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "백련과 연잎이 펼쳐진 옛 저수지|관찰 데크와 야생화 공간"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 직전 운영기관 공지 재확인. null은 무료나 예약 불필요를 뜻하지 않음."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "출처별 축제 개최월이 달라 축제 시기를 고정하지 않았다. 개화는 기상에 따라 달라진다.",
+   "baseline_relation": "new_independent_place_extension",
+   "administrative_note": "기존 17권역 호환 분류. 공식 주소의 광주·전남 행정명 변경 표기는 별도 검증 대상.",
+   "document_path": "korea-travel/05_전라/무안 회산백련지.md",
+   "editorial_region": "05_전라",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

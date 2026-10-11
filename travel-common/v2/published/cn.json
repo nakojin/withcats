@@ -1,0 +1,9317 @@
+{
+ "country": "cn",
+ "generated_from": "travel-common/v2/places",
+ "places": [
+  {
+   "id": "bj-798",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "798·751 예술구",
+    "local": "798·751园区"
+   },
+   "admin_region": "베이징시",
+   "city": "베이징",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "bj-badaling",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "바다링 만리장성",
+    "local": "八达岭长城"
+   },
+   "admin_region": "베이징시",
+   "city": "베이징",
+   "address": null,
+   "coord": {
+    "lat": 40.357644,
+    "lng": 116.012063,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/1464136593"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "bj-beihai",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "베이하이공원",
+    "local": "北海公园"
+   },
+   "admin_region": "베이징시",
+   "city": "베이징",
+   "address": null,
+   "coord": {
+    "lat": 39.926402,
+    "lng": 116.382463,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/366464114"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "bj-jingshan",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "징산공원",
+    "local": "景山公园"
+   },
+   "admin_region": "베이징시",
+   "city": "베이징",
+   "address": null,
+   "coord": {
+    "lat": 39.924459,
+    "lng": 116.390397,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/29201967"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "bj-ming-tombs",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "명십삼릉",
+    "local": "明十三陵"
+   },
+   "admin_region": "베이징시",
+   "city": "베이징",
+   "address": null,
+   "coord": {
+    "lat": 40.258932,
+    "lng": 116.220163,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/1303123866"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "bj-mutianyu",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "무톈위 만리장성",
+    "local": "慕田峪长城"
+   },
+   "admin_region": "베이징시",
+   "city": "베이징",
+   "address": null,
+   "coord": {
+    "lat": 40.434515,
+    "lng": 116.560575,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/756859585"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "bj-palace",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "고궁박물원(자금성)",
+    "local": "故宫博物院"
+   },
+   "admin_region": "베이징시",
+   "city": "베이징",
+   "address": null,
+   "coord": {
+    "lat": 39.917431,
+    "lng": 116.390782,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "node/3884441391"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "bj-summer-palace",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "이화원",
+    "local": "颐和园"
+   },
+   "admin_region": "베이징시",
+   "city": "베이징",
+   "address": null,
+   "coord": {
+    "lat": 39.990098,
+    "lng": 116.26474,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/29228773"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "bj-temple-heaven",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "천단공원",
+    "local": "天坛公园"
+   },
+   "admin_region": "베이징시",
+   "city": "베이징",
+   "address": null,
+   "coord": {
+    "lat": 39.879907,
+    "lng": 116.402872,
+    "geo_type": "point",
+    "precision": "place",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "way/24824550"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "bj-tiananmen-square",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "톈안먼 광장",
+    "local": "天安门广场"
+   },
+   "admin_region": "베이징시",
+   "city": "베이징",
+   "address": null,
+   "coord": {
+    "lat": 39.902722,
+    "lng": 116.391441,
+    "geo_type": "point",
+    "precision": "place",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "relation/941596"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "bj-wtown",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "구베이수이전·쓰마타이 장성 리조트",
+    "local": "古北水镇（司马台长城）"
+   },
+   "admin_region": "베이징시",
+   "city": "베이징",
+   "address": null,
+   "coord": {
+    "lat": 40.648912,
+    "lng": 117.266986,
+    "geo_type": "area",
+    "precision": "centroid",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/441960704"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "cd-dufu",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "두보초당박물관",
+    "local": "成都杜甫草堂博物馆"
+   },
+   "admin_region": "쓰촨성",
+   "city": "청두",
+   "address": null,
+   "coord": {
+    "lat": 30.662853,
+    "lng": 104.026229,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/299409723"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "cd-dujiangyan",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "두장옌 수리시설",
+    "local": "都江堰景区"
+   },
+   "admin_region": "쓰촨성",
+   "city": "두장옌",
+   "address": null,
+   "coord": {
+    "lat": 31.003438,
+    "lng": 103.609305,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/412705835"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "cd-jinsha",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "진사유적박물관",
+    "local": "金沙遗址博物馆"
+   },
+   "admin_region": "쓰촨성",
+   "city": "청두",
+   "address": null,
+   "coord": {
+    "lat": 30.684148,
+    "lng": 104.01032,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/418288880"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "cd-kuanzhai",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "콴자이샹쯔",
+    "local": "宽窄巷子"
+   },
+   "admin_region": "쓰촨성",
+   "city": "청두",
+   "address": null,
+   "coord": {
+    "lat": 30.666194,
+    "lng": 104.050808,
+    "geo_type": "area",
+    "precision": "centroid",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/588905842"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "cd-panda-base",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "청두 판다번식연구기지",
+    "local": "成都大熊猫繁育研究基地"
+   },
+   "admin_region": "쓰촨성",
+   "city": "청두",
+   "address": null,
+   "coord": {
+    "lat": 30.743228,
+    "lng": 104.132931,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/941885688"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "cd-qingcheng",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "칭청산 전산",
+    "local": "青城山前山"
+   },
+   "admin_region": "쓰촨성",
+   "city": "두장옌",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "cd-wuhou-jinli",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "무후사·진리",
+    "local": "成都武侯祠博物馆·锦里"
+   },
+   "admin_region": "쓰촨성",
+   "city": "청두",
+   "address": null,
+   "coord": {
+    "lat": 30.647841,
+    "lng": 104.045655,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/277942162"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "cn-chongqing-hongyadong",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "훙야둥(홍야동)",
+    "local": "洪崖洞"
+   },
+   "admin_region": "충칭시 위중구",
+   "city": null,
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 주소(嘉陵江滨江路88号 추정)는 검색 결과 요약에서만 보았고 공식 페이지 본문을 직접 열지 못함. 기억·2차 출처 사용 안 함"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 역·버스·주차 미확인(공식 페이지 열람 불가)"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 미확인"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 개방·점등 시간 미확인. 검색 요약에 2025년 5월과 2025년 2월 점등시간 변경 공지가 있다는 단서만 확인"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 미확인"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 무료 여부 미확인(공식 열람 불가)"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / WeChat 공식 계정 '洪崖洞' 사전 예약 여부·오픈 시점 미확인. 규정이 연도별로 바뀐 것으로 보여 최신 공지 직접 확인 필요"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 미확인"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 미확인"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "official_unreachable",
+      "note": "충칭시 정부(cq.gov.cn), 위중구 정부(cqyz.gov.cn), 충칭시 문화관광위(whlyw.cq.gov.cn) 페이지가 WebFetch 503, curl 연결 실패(000/503)로 모두 열리지 않아 unverifiable. 운영사 사이트 hongyadong.com 은 403. 3회 재시도 포함. / 혼잡·한도 관련 공지 미확인"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-hz-01",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "시후 호수 산책",
+    "local": "西湖"
+   },
+   "admin_region": "저장성",
+   "city": "항저우",
+   "address": null,
+   "coord": {
+    "lat": 30.245984,
+    "lng": 120.143132,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "relation/2308774"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-hz-02",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "영은사·비래봉",
+    "local": "灵隐寺·飞来峰景区"
+   },
+   "admin_region": "저장성",
+   "city": "항저우",
+   "address": null,
+   "coord": {
+    "lat": 30.242795,
+    "lng": 120.096799,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "node/1218588822"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-hz-03",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "시시 국가습지공원",
+    "local": "西溪国家湿地公园"
+   },
+   "admin_region": "저장성",
+   "city": "항저우",
+   "address": null,
+   "coord": {
+    "lat": 30.267305,
+    "lng": 120.063259,
+    "geo_type": "area",
+    "precision": "centroid",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/783223294"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-hz-04",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "허팡제",
+    "local": "河坊街"
+   },
+   "admin_region": "저장성",
+   "city": "항저우",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-hz-05",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "육화탑",
+    "local": "六和塔"
+   },
+   "admin_region": "저장성",
+   "city": "항저우",
+   "address": null,
+   "coord": {
+    "lat": 30.1983,
+    "lng": 120.12661,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/159184108"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-hz-06",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "중국차엽박물관",
+    "local": "中国茶叶博物馆"
+   },
+   "admin_region": "저장성",
+   "city": "항저우",
+   "address": null,
+   "coord": {
+    "lat": 30.221804,
+    "lng": 120.109118,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "relation/13237505"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-qd-01",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "잔교",
+    "local": "栈桥"
+   },
+   "admin_region": "산둥성",
+   "city": "칭다오",
+   "address": null,
+   "coord": {
+    "lat": 36.061973,
+    "lng": 120.314381,
+    "geo_type": "point",
+    "precision": "place",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "node/5466225063"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-qd-02",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "팔대관",
+    "local": "八大关"
+   },
+   "admin_region": "산둥성",
+   "city": "칭다오",
+   "address": null,
+   "coord": {
+    "lat": 36.053793,
+    "lng": 120.34565,
+    "geo_type": "point",
+    "precision": "place",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "node/4057340944"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-qd-03",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "오사광장",
+    "local": "五四广场"
+   },
+   "admin_region": "산둥성",
+   "city": "칭다오",
+   "address": null,
+   "coord": {
+    "lat": 37.371647,
+    "lng": 118.022634,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "way/146238522"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-qd-04",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "올림픽 요트경기장",
+    "local": "青岛奥林匹克帆船中心"
+   },
+   "admin_region": "산둥성",
+   "city": "칭다오",
+   "address": null,
+   "coord": {
+    "lat": 36.055703,
+    "lng": 120.39114,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "node/5329362105"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-qd-05",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "칭다오맥주박물관",
+    "local": "青岛啤酒博物馆"
+   },
+   "admin_region": "산둥성",
+   "city": "칭다오",
+   "address": null,
+   "coord": {
+    "lat": 36.078972,
+    "lng": 120.342564,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/554250276"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-qd-06",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "라오산 풍경구",
+    "local": "崂山风景名胜区"
+   },
+   "admin_region": "산둥성",
+   "city": "칭다오",
+   "address": null,
+   "coord": {
+    "lat": 36.196807,
+    "lng": 120.629681,
+    "geo_type": "area",
+    "precision": "centroid",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "relation/15465997"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-sh-01",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "와이탄",
+    "local": "外滩"
+   },
+   "admin_region": "상하이시",
+   "city": "상하이",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-sh-02",
+   "tier": "A",
+   "status": "verified",
+   "names": {
+    "ko": "예원",
+    "local": "豫园"
+   },
+   "admin_region": "상하이시",
+   "city": "상하이",
+   "address": "上海市黄浦区福佑路168号(북문), 豫园老街279号(남문), 사무소 安仁街218号",
+   "coord": {
+    "lat": 31.228927,
+    "lng": 121.487975,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/40036584"
+   },
+   "summary": "예원은 상하이 구시가지 동북부에 있는 명대 개인 정원으로, 1559년부터 판윈돤이 부친을 위해 20여 년에 걸쳐 지었다.",
+   "description": "예원은 상하이 구시가지 동북부에 있는 명대 개인 정원으로, 1559년부터 판윈돤이 부친을 위해 20여 년에 걸쳐 지었다. 전국중점문물보호단위이자 국가 AAAA급 관광지다. 원래 70여 무였으나 현재는 30여 무이고 1961년 9월 복원되어 공개됐다. 삼수당은 높이 9m의 주요 건물이고, 대가산은 약 14m로 명대 장난양이 쌓았다. 점점 아름다워진다는 뜻의 회랑 앞에는 1290년 주조된 원대 철사자가 있다. 개방은 9:00~16:30(16:00 입장 마감)이며 월요일은 쉰다. 성수기(4~6월, 9~11월) 성인 40위안, 비수기 30위안이다. 지하철 10호선·14호선 위위안역에서 접근하며 전용 주차장은 없다.",
+   "highlights": [
+    "명대 1559년부터 조성된 강남 고전 정원, 전국중점문물보호단위",
+    "삼수당(높이 9m, 정원의 주요 건물)",
+    "대가산(약 14m, 명대 장난양 축조)",
+    "원대 철사자(1290년 주조)와 높이 약 2.3m의 태호석 '미인요'",
+    "'해상명원' 제자(1999년, 예원 창건 440주년 기념)",
+    "남문 구곡교 입구와 북문 두 곳의 입구"
+   ],
+   "details": {
+    "description": [
+     {
+      "text": "예원은 상하이 구시가지 동북부에 있고 북쪽은 푸유로, 동쪽은 안런가에 접한 전국중점문물보호단위이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.yugarden.com.cn/page/articleview/history-scenery.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "예원은 국가 AAAA급 관광지이자 전국중점문물보호단위이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "판윈돤이 부친을 편히 모시기 위해 1559년부터 20여 년에 걸쳐 정원을 지었다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.yugarden.com.cn/page/articleview/history-scenery.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "조성 당시 부지는 70여 무였고 명대 조원가 장난양이 설계했다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.yugarden.com.cn/page/articleview/history-scenery.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "1956년부터 5년간 대규모 수리를 거쳐 1961년 9월 일반에 공개되었고, 현재 부지는 30여 무이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.yugarden.com.cn/page/articleview/history-scenery.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "상하이시 정부 영문 사이트는 예원을 40여 개 경관이 있는 국가급 보호 유적으로 소개한다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.shanghai.gov.cn/en-ScenicSpots/20231205/dc76893b94c248d195eaf7f4d44c6597.html",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "상하이시 정부 영문 사이트는 예원 면적을 20,000㎡로 소개한다(공식 운영 사이트의 30여 무, 약 2만㎡와 대체로 일치).",
+      "verdict": "corrected",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://english.shanghai.gov.cn/en-Parks/20231222/c3dcc573f5204f39accea3b04e2c7205.html",
+        "type": "government",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ],
+    "highlight": [
+     {
+      "text": "삼수당은 높이 9m로 정원의 주요 건물이며 청대에는 관청 행사 장소로 쓰였다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.yugarden.com.cn/page/articleview/introduce-01.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "대가산은 명대 첩산 전문가 장난양이 쌓았으며 높이 14m이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.yugarden.com.cn/page/articleview/introduce-01.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "회랑 '점입가경' 앞에는 1290년 주조된 원대 철사자가 있다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.yugarden.com.cn/page/articleview/introduce-01.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "회랑 가운데 높이 약 2.3m의 태호석 입봉이 서 있어 '미인요'라 불린다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.yugarden.com.cn/page/articleview/introduce-01.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "'해상명원' 제자는 1999년 5월 18일 예원 창건 440주년을 기념해 쓴 것이다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.yugarden.com.cn/page/articleview/introduce-01.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     },
+     {
+      "text": "정원은 삼수당, 만화루, 회경루, 점춘당, 옥화당, 내원 6개 구역으로 나뉜다.",
+      "verdict": "verified",
+      "owner_input": false,
+      "sources": [
+       {
+        "url": "https://www.yugarden.com.cn/page/articleview/introduce-01.html",
+        "type": "operator",
+        "checked_at": "2026-10-11"
+       }
+      ]
+     }
+    ]
+   },
+   "guide": {
+    "location": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "예원 사무소 주소는 상하이시 황푸구 안런가 218호이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "북문은 푸유로 168호로 단체와 개별 관광객 입구이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "남문은 위위안라오제 279호, 구곡교를 내려오는 곳에 있으며 개별 관광객만 이용할 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "상하이시 정부 영문 사이트는 예원 주소를 황푸구 푸유로 168호로 표기한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://english.shanghai.gov.cn/en-ScenicSpots/20231205/dc76893b94c248d195eaf7f4d44c6597.html",
+         "type": "government",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "좌표 대조(OSM) 미수행. 상하이 정부 영문 사이트는 168 푸유로, 운영 사이트 사무소는 218 안런가로 표기가 갈림(입구별 주소)"
+     ]
+    },
+    "access": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "지하철 10호선·14호선 위위안역에서 접근하며, 버스 11·26·64·736·926·929·932·969·980로와 팡촨선도 닿는다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/traffic.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "예원에는 전용 주차장이 없으며 대중교통이나 주변 유료 주차장을 이용하라고 안내한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/traffic.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "역에서 도보 시간은 공식 출처에 없음"
+     ]
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "공식 출처에 소요시간 안내 없음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "개방 시간은 9:00~16:30이며 16:00에 입장이 마감된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "야간 개방·등불 행사 시간은 별도 공지 대상이며 상시 시간으로 확인 못함"
+     ]
+    },
+    "closed_days": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "매주 월요일 휴원이며 법정 공휴일은 예외이고, 춘절 기간 운영시간은 별도 공지를 따른다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "성수기(4월 1일~6월 30일, 9월 1일~11월 30일) 성인 입장료는 40위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "비수기(7~8월, 12월 1일~3월 31일) 성인 입장료는 30위안이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "6세 초과~18세 이하 미성년자와 대학 학부 이하 전일제 학생은 신분증·학생증 제시 시 반값이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "만 60세 이상 노인은 신분증 제시 시 반값이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "할인표는 1인 1일 1장만 살 수 있다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "키 1.3m 이하 또는 만 6세 이하 어린이는 무료이며, 성인 1명이 3명까지 동반할 수 있고 단체는 해당되지 않는다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "장애인, 현역·장애 군인, 열사·순직·병사 군인 유가족, 현역 군인 가족, 소방구조대원, 재직 경찰은 유효 증명서 확인 후 무료 입장한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "표는 남문·북문 매표 창구에서 현장 구매하거나 공식 '上海豫园' 미니프로그램으로 온라인 구매한다. 사전 예약 의무 문구는 이 페이지에 없다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": [
+      "일반 입장 예약 의무 여부와 외국인 여권 처리 규정이 공식 페이지에 없음. 2026 신년 등불 행사만 시간대 예약(해방일보 보도, 비공식 아님이나 행사 한정)"
+     ]
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "결제수단(알리페이·위챗페이·외국 카드 포함)이 공식 페이지에 없음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_in_official_source",
+      "note": "한국어 안내·오디오가이드 정보 없음. 설비 정보 페이지는 이미지만 있어 텍스트 확인 불가. 2020년 공지의 무료 오디오가이드는 과거 정보"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "filled",
+     "facts": [
+      {
+       "text": "공식 판매 채널에서만 표를 사라고 안내한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "위험물과 반려동물은 반입 금지이며 안내견만 예외다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "흡연(전자담배 포함), 음주, 화기, 드론, 가산·고건축 오르기, 낙서 등이 금지된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "웨딩·화보 등 영리 촬영은 받지 않으며 대형 카메라, 플래시, 반사판 사용이 제한된다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "길이 고르지 않고 계단, 석교, 연못, 이끼가 많으며, 비·눈이 오면 바닥이 매우 미끄럽다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "수하물 보관 서비스는 제공되지 않는다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "야생 소동물이 가끔 나타나며 쫓거나 만지지 말고 피해 가라고 안내한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "걸어서 관람하는 곳이며 유모차·휠체어는 안전에 주의해야 한다. 고령자·임산부·미성년자는 보호자 동반을 권한다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/Page/WxyGarden/notice.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      },
+      {
+       "text": "예원 문의 전화는 021-63260830이다.",
+       "verdict": "verified",
+       "owner_input": false,
+       "sources": [
+        {
+         "url": "https://www.yugarden.com.cn/page/articleview/message.html",
+         "type": "operator",
+         "checked_at": "2026-10-11"
+        }
+       ]
+      }
+     ],
+     "gap": null,
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [
+    "Two free-entry lists disagree on the same official site. The static list on message.html (and on notice.html) includes 在职公安民警. The JS '参观信息' tab inside Page/WxyGarden/notice.html omits it.",
+    "The official site has two versions of the visitor notice. The homepage (articleview/index.html) has 12 items and adds a ban on feeding or photographing animals, and it lacks the explicit smoking/drone/flash list. notice.html has 14 items. No conflicting values.",
+    "The Shanghai gov pages describe the 40 differently: 'over 40 scenic spots' on the scenic page versus 'six scenic areas boast over 40 ancient structures' on the parks page.",
+    "stale_source: the english.shanghai.gov.cn pages were updated Aug 13, 2025 (c4, c36) and Oct 22, 2025 (c37). The first is more than 12 months before 2026-10-11. yugarden.com.cn has news dated 2026-08-07, so it is current."
+   ],
+   "last_verified": "2026-10-11"
+  },
+  {
+   "id": "east-sh-03",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "난징둥루 보행거리",
+    "local": "南京路步行街"
+   },
+   "admin_region": "상하이시",
+   "city": "상하이",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-sh-04",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "신톈디",
+    "local": "新天地"
+   },
+   "admin_region": "상하이시",
+   "city": "상하이",
+   "address": null,
+   "coord": {
+    "lat": 31.221827,
+    "lng": 121.470357,
+    "geo_type": "point",
+    "precision": "place",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "node/11135920722"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-sh-05",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "상하이 디즈니랜드",
+    "local": "上海迪士尼乐园"
+   },
+   "admin_region": "상하이시",
+   "city": "상하이",
+   "address": null,
+   "coord": {
+    "lat": 31.146252,
+    "lng": 121.656283,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/494725605"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-sh-06",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "상하이타워 전망대",
+    "local": "上海中心大厦·上海之巅观光厅"
+   },
+   "admin_region": "상하이시",
+   "city": "상하이",
+   "address": null,
+   "coord": {
+    "lat": 31.235455,
+    "lng": 121.500439,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "node/11221740642"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-sh-07",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "주자자오 수향마을",
+    "local": "朱家角古镇"
+   },
+   "admin_region": "상하이시",
+   "city": "상하이",
+   "address": null,
+   "coord": {
+    "lat": 31.113088,
+    "lng": 121.048879,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/1476707831"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-sh-08",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "우캉루 역사거리",
+    "local": "武康路"
+   },
+   "admin_region": "상하이시",
+   "city": "상하이",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-su-01",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "졸정원",
+    "local": "拙政园"
+   },
+   "admin_region": "장쑤성",
+   "city": "쑤저우",
+   "address": null,
+   "coord": {
+    "lat": 31.326353,
+    "lng": 120.624712,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/468359738"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-su-02",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "유원",
+    "local": "留园"
+   },
+   "admin_region": "장쑤성",
+   "city": "쑤저우",
+   "address": null,
+   "coord": {
+    "lat": 31.317617,
+    "lng": 120.587959,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "way/420034522"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-su-03",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "호구",
+    "local": "虎丘"
+   },
+   "admin_region": "장쑤성",
+   "city": "쑤저우",
+   "address": null,
+   "coord": {
+    "lat": 31.331282,
+    "lng": 120.429085,
+    "geo_type": "area",
+    "precision": "centroid",
+    "geo_source": "osm_nominatim",
+    "confidence": "high",
+    "osm": "relation/7598901"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-su-04",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "핑장루",
+    "local": "平江路"
+   },
+   "admin_region": "장쑤성",
+   "city": "쑤저우",
+   "address": null,
+   "coord": {
+    "lat": 31.314929,
+    "lng": 120.629691,
+    "geo_type": "point",
+    "precision": "place",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "node/12104035258"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "east-su-05",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "퉁리 수향고진",
+    "local": "同里古镇"
+   },
+   "admin_region": "장쑤성",
+   "city": "쑤저우",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-cbs-01",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "백두산 중국 측 북경구",
+    "local": "长白山北景区"
+   },
+   "admin_region": "지린성",
+   "city": "장백산 보호개발구 츠베이·이도백하 거점",
+   "address": null,
+   "coord": {
+    "lat": 42.181078,
+    "lng": 128.171039,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "node/8828812769"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-cbs-02",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "백두산 중국 측 서경구",
+    "local": "长白山西景区"
+   },
+   "admin_region": "지린성",
+   "city": "장백산 보호개발구 츠시·송강하 거점",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-cbs-03",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "백두산 중국 측 남경구",
+    "local": "长白山南景区"
+   },
+   "admin_region": "지린성",
+   "city": "장백산 보호개발구 츠난 거점",
+   "address": null,
+   "coord": {
+    "lat": 44.825036,
+    "lng": 126.553683,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "way/918596597"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-gl-01",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "리강 구이린–양숴 유람선",
+    "local": "漓江精华游"
+   },
+   "admin_region": "광시좡족자치구",
+   "city": "구이린–양숴현",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-gl-02",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "위룽허 대나무 뗏목",
+    "local": "遇龙河竹筏漂游"
+   },
+   "admin_region": "광시좡족자치구",
+   "city": "구이린 양숴현",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-gl-03",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "상비산",
+    "local": "象鼻山"
+   },
+   "admin_region": "광시좡족자치구",
+   "city": "구이린",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-gl-04",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "양강사호 야경·호숫가",
+    "local": "两江四湖"
+   },
+   "admin_region": "광시좡족자치구",
+   "city": "구이린",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-gl-05",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "복파산",
+    "local": "伏波山"
+   },
+   "admin_region": "광시좡족자치구",
+   "city": "구이린",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-gl-06",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "첩채산",
+    "local": "叠彩山"
+   },
+   "admin_region": "광시좡족자치구",
+   "city": "구이린",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-gl-07",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "노적암",
+    "local": "芦笛岩"
+   },
+   "admin_region": "광시좡족자치구",
+   "city": "구이린",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-sy-01",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "아룽만 해변",
+    "local": "亚龙湾"
+   },
+   "admin_region": "하이난성",
+   "city": "싼야 지양구",
+   "address": null,
+   "coord": {
+    "lat": 18.224358,
+    "lng": 109.624165,
+    "geo_type": "area",
+    "precision": "centroid",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "way/462460504"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-sy-02",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "아룽만 열대천당삼림공원",
+    "local": "亚龙湾热带天堂森林公园"
+   },
+   "admin_region": "하이난성",
+   "city": "싼야 지양구",
+   "address": null,
+   "coord": {
+    "lat": 18.253056,
+    "lng": 109.639624,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "way/1469685542"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-sy-03",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "남산문화관광구",
+    "local": "南山文化旅游区"
+   },
+   "admin_region": "하이난성",
+   "city": "싼야 야저우구",
+   "address": null,
+   "coord": {
+    "lat": 18.300091,
+    "lng": 109.206633,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "way/1300132266"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-sy-04",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "천애해각",
+    "local": "天涯海角"
+   },
+   "admin_region": "하이난성",
+   "city": "싼야 톈야구",
+   "address": null,
+   "coord": {
+    "lat": 18.292624,
+    "lng": 109.345045,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "node/2272220538"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-sy-05",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "루후이터우 녹회두 공원",
+    "local": "鹿回头风景区"
+   },
+   "admin_region": "하이난성",
+   "city": "싼야 지양구",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-sy-06",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "우즈저우섬",
+    "local": "蜈支洲岛"
+   },
+   "admin_region": "하이난성",
+   "city": "싼야 하이탕구",
+   "address": null,
+   "coord": {
+    "lat": 18.311352,
+    "lng": 109.761849,
+    "geo_type": "point",
+    "precision": "place",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "relation/11567453"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-sy-07",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "시다오 서도",
+    "local": "西岛"
+   },
+   "admin_region": "하이난성",
+   "city": "싼야 톈야구",
+   "address": null,
+   "coord": {
+    "lat": 18.236267,
+    "lng": 109.370432,
+    "geo_type": "point",
+    "precision": "place",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "relation/9443829"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-yj-01",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "중국조선족민속원",
+    "local": "中国朝鲜族民俗园"
+   },
+   "admin_region": "지린성",
+   "city": "옌지",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-yj-02",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "모아산 국가삼림공원",
+    "local": "帽儿山国家森林公园"
+   },
+   "admin_region": "지린성",
+   "city": "옌지",
+   "address": null,
+   "coord": {
+    "lat": 42.856472,
+    "lng": 129.460353,
+    "geo_type": "area",
+    "precision": "centroid",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "relation/18919173"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-yj-03",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "옌볜박물관",
+    "local": "延边博物馆"
+   },
+   "admin_region": "지린성",
+   "city": "옌지",
+   "address": null,
+   "coord": {
+    "lat": 42.887727,
+    "lng": 129.416468,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "way/1290419675"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-zjj-01",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "장자제 국가삼림공원·우링위안 핵심 관광구",
+    "local": "张家界国家森林公园／武陵源核心景区"
+   },
+   "admin_region": "후난성",
+   "city": "장자제 우링위안구",
+   "address": null,
+   "coord": {
+    "lat": 29.050289,
+    "lng": 110.478616,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "way/573098921"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-zjj-02",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "천문산",
+    "local": "天门山国家森林公园"
+   },
+   "admin_region": "후난성",
+   "city": "장자제 융딩구",
+   "address": null,
+   "coord": {
+    "lat": 29.045984,
+    "lng": 110.480881,
+    "geo_type": "area",
+    "precision": "centroid",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "relation/13042332"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-zjj-03",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "장자제 대협곡·유리다리",
+    "local": "张家界大峡谷／玻璃桥"
+   },
+   "admin_region": "후난성",
+   "city": "장자제 츠리현",
+   "address": null,
+   "coord": {
+    "lat": 29.411932,
+    "lng": 110.693662,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "way/1352953746"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-zjj-04",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "황룡동",
+    "local": "黄龙洞"
+   },
+   "admin_region": "후난성",
+   "city": "장자제 우링위안구",
+   "address": null,
+   "coord": {
+    "lat": 29.368031,
+    "lng": 110.614667,
+    "geo_type": "area",
+    "precision": "centroid",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "node/2694283944"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "nature-zjj-05",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "보봉호",
+    "local": "宝峰湖"
+   },
+   "admin_region": "후난성",
+   "city": "장자제 우링위안구",
+   "address": null,
+   "coord": {
+    "lat": 29.325758,
+    "lng": 110.54692,
+    "geo_type": "point",
+    "precision": "poi",
+    "geo_source": "osm_nominatim",
+    "confidence": "medium",
+    "osm": "relation/12885872"
+   },
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "xa-bell-drum",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "시안 종루·고루",
+    "local": "西安钟楼·鼓楼"
+   },
+   "admin_region": "산시성(陝西)",
+   "city": "시안",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "xa-big-pagoda",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "대안탑·대자은사",
+    "local": "大雁塔·大慈恩寺"
+   },
+   "admin_region": "산시성(陝西)",
+   "city": "시안",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "xa-city-wall",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "시안 성벽",
+    "local": "西安城墙"
+   },
+   "admin_region": "산시성(陝西)",
+   "city": "시안",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "xa-huaqing",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "화청궁",
+    "local": "华清宫"
+   },
+   "admin_region": "산시성(陝西)",
+   "city": "시안",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "xa-shaanxi-museum",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "산시역사박물관 본관",
+    "local": "陕西历史博物馆本馆"
+   },
+   "admin_region": "산시성(陝西)",
+   "city": "시안",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "xa-small-pagoda",
+   "tier": "C",
+   "status": "draft",
+   "names": {
+    "ko": "소안탑·시안박물원",
+    "local": "小雁塔·西安博物院"
+   },
+   "admin_region": "산시성(陝西)",
+   "city": "시안",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  },
+  {
+   "id": "xa-terracotta",
+   "tier": "A",
+   "status": "draft",
+   "names": {
+    "ko": "진시황제릉박물원·병마용",
+    "local": "秦始皇帝陵博物院"
+   },
+   "admin_region": "산시성(陝西)",
+   "city": "시안",
+   "address": null,
+   "coord": null,
+   "summary": null,
+   "description": null,
+   "highlights": [],
+   "details": {},
+   "guide": {
+    "location": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "access": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "duration": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "hours": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "closed_days": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "fees": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "reservation": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "payment": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "language": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    },
+    "caution": {
+     "status": "gap",
+     "facts": [],
+     "gap": {
+      "reason": "not_collected",
+      "note": "아직 수집하지 않음"
+     },
+     "partial_gaps": []
+    }
+   },
+   "conflicts": [],
+   "last_verified": null
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "id": "kr-gyeongbuk-sosu-seowon",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "영주 소수서원",
+  "local": "영주 소수서원"
+ },
+ "admin_region": "경상북도",
+ "former_region": null,
+ "city": "영주시 순흥면 소백로 2740",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongbuk-sosu-seowon",
+   "name_ko": "영주 소수서원",
+   "aliases": [],
+   "region": "경상북도",
+   "admin_region": "경상북도",
+   "locality": "영주시 순흥면 소백로 2740",
+   "type": [
+    "서원",
+    "세계유산"
+   ],
+   "highlights": [
+    "소백산 아래 자리한 사액서원",
+    "직방재·일신재의 학습 공간"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "전통 교육 건축을 야외에서 차분히 보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "왕이 이름을 내린 사액서원의 의미를 안내판과 함께 살핀다.",
+    "직방재·일신재 등 건물 이름과 학습·제향 기능을 비교한다.",
+    "연계 박물관·선비촌을 방문한다면 관람권 범위를 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111103",
+     "title": "VISITKOREA — Sosuseowon Confucian Academy",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "소백산 아래 자리한 사액서원; 직방재·일신재의 학습 공간"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=172555",
+     "title": "VISITKOREA — Cultural Heritage Sites",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "보조 볼거리",
+      "방문 동선 판단 근거"
+     ],
+     "evidence_summary": "소수서원의 직방재·일신재, 병산서원의 배치와 강변 환경을 본문에서 확인."
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "직방재·일신재는 별도 공식 문화유산 소개에서 보완 확인. 연계시설을 별도 신규 수로 세지 않는다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/06_경북대구/영주 소수서원.md",
+   "editorial_region": "06_경북대구",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area",
+   "prior_mention_note": "기존 문서에서 언급된 장소를 독립 상세 레코드로 보강. 새로 발견한 명소라는 의미가 아님.",
+   "baseline_relationship": {
+    "id": "kr-gyeongbuk-sosu-seowon",
+    "baseline_path": "korea-travel/06_경북대구/영주 부석사.md",
+    "relation": "previously_mentioned_nearby_place"
+   }
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

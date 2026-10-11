@@ -1,0 +1,165 @@
+{
+ "id": "jp-east-chusonji",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "주손지",
+  "local": "中尊寺"
+ },
+ "admin_region": "이와테",
+ "former_region": null,
+ "city": "히라이즈미정",
+ "address": null,
+ "coord": {
+  "lat": 39.000941,
+  "lng": 141.10207,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "way/1023510974"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-chusonji",
+   "name_ko": "주손지",
+   "name_ja": "中尊寺",
+   "region": "도호쿠",
+   "prefecture": "이와테",
+   "city": "히라이즈미정",
+   "category": "사찰·세계유산",
+   "description": "오슈 후지와라의 불교미술을 살펴보는 히라이즈미의 산중 사찰이다. 1124년에 완성된 곤지키도는 금박과 세공이 핵심이고, 산코조에는 불상·경전·장례 관련 유물이 모여 있다. 삼나무가 늘어선 쓰키미자카를 따라 올라가는 경험도 관람의 일부다.",
+   "highlights": [
+    "금박으로 장식된 곤지키도",
+    "산코조의 불교미술·후지와라 유물",
+    "쓰키미자카 삼나무 참배길"
+   ],
+   "best_time": "신록·단풍기에는 참배길 풍경과 건축을 함께 보기 좋다. 겨울 경사길은 적설·결빙을 확인한다.",
+   "visit_tips": [
+    "운영자 안내의 보통 관람시간 1~2시간을 기본으로 여유를 둔다.",
+    "경내에 코인로커가 없으므로 큰 짐은 히라이즈미역에 맡기는 방안을 검토한다.",
+    "유료 전각과 일반 경내 산책 범위를 구분한다."
+   ],
+   "hours_and_fees": {
+    "details": "곤지키도·산코조·경장·구 복당 공통: 개인 성인 1,000엔, 고등학생 700엔, 중학생 500엔, 초등학생 300엔.",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "최신 계절 관람시간",
+    "특별법회·촬영 규정"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://chusonji.or.jp/language_en/",
+     "title": "Chuson-ji official English guide",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "곤지키도 1124년",
+      "산코조·참배길",
+      "요금·짐 보관 안내"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

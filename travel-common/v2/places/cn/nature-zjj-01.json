@@ -1,0 +1,198 @@
+{
+ "id": "nature-zjj-01",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "장자제 국가삼림공원·우링위안 핵심 관광구",
+  "local": "张家界国家森林公园／武陵源核心景区"
+ },
+ "admin_region": "후난성",
+ "former_region": null,
+ "city": "장자제 우링위안구",
+ "address": null,
+ "coord": {
+  "lat": 29.050289,
+  "lng": 110.478616,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "way/573098921"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-zjj-01",
+   "name_ko": "장자제 국가삼림공원·우링위안 핵심 관광구",
+   "name_local": "张家界国家森林公园／武陵源核心景区",
+   "city": "장자제 우링위안구",
+   "province": "후난성",
+   "region": "장자제(장가계)",
+   "destination_cluster": "장자제",
+   "category": "산악·지질",
+   "description": "가늘고 높은 석영사암 봉우리 사이를 전망대와 계곡 길로 오가는 장자제 산악여행의 중심이다. 위안자제·톈쯔산·양자제는 산 위 전망, 진볜시는 계곡 산책으로 성격이 다르다. 천문산 및 대협곡 유리다리는 이 입장권과 별개이며, 세계지질공원이라는 넓은 지리적 명칭을 단일 통합권으로 이해하면 안 된다.",
+   "best_time": {
+    "period": "봄·가을의 맑은 날을 우선 검토",
+    "reason": "산 위 전망을 목표로 한다면 계절보다 당일 시계와 강풍·강우 여부가 중요하다. 봄·가을 제안은 보행 편의를 고려한 편집 추천이다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "공식 세계지질공원 홈페이지 07:30–17:00, 16:00 입장마감 표기. 개별 매표소·교통시설에 동일 적용된다고 단정하지 않음",
+    "fees": "2023년 공지는 입장+친환경버스+삼삭일제 전구간권 518 CNY, 삼삭일제 4회권 238 CNY/다회권 298 CNY. 과거 제도 설명용이며 2026 확정 가격 아님",
+    "reservation": "예약 입구·시간과 교통권 구성은 방문일 공식 채널 재확인; 외국인 절차 미확인"
+   },
+   "sources": [
+    {
+     "url": "https://www.zhangjiajieuggp.org.cn/",
+     "title": "장자제 세계지질공원 공식 안내",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "석영사암 봉림 지형",
+      "위안자제·양자제·톈쯔산·진볜시·황스자이 등 구역",
+      "홈페이지 표기 07:30 개장/16:00 입장마감/17:00 폐장"
+     ]
+    },
+    {
+     "url": "https://www.hunan.gov.cn/hnszf/hnyw/szdt/202312/t20231202_32455306.html",
+     "title": "후난성 정부: 우링위안 복합권 도입",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람 · 과거 자료, 현재 운영 재확인 필요",
+     "supported_facts": [
+      "국가삼림공원 입장·친환경버스와 3개 케이블카·백룡엘리베이터 구분",
+      "4일권 제도와 별도 교통권"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "counting_scope": "우링위안 핵심 관광구 1곳. 위안자제·톈쯔산·양자제·진볜시·황스자이·십리화랑은 하위 포인트로만 처리. 보봉호·황룡동은 별도 방문·매표 구역",
+   "selection_tier": "핵심 수요 확인",
+   "collection_group": "nature",
+   "highlights": [
+    "위안자제 봉림",
+    "톈쯔산 전망",
+    "진볜시 계곡"
+   ],
+   "visit_tips": [
+    "산 위 전망과 계곡 산책을 나누어 동선을 짠다",
+    "케이블카·백룡엘리베이터 포함 여부를 상품마다 확인한다",
+    "관광구 입구와 나오는 문을 먼저 결정한다"
+   ],
+   "counting_note": "우링위안 핵심 관광구 1곳. 위안자제·톈쯔산·양자제·진볜시·황스자이·십리화랑은 하위 포인트로만 처리. 보봉호·황룡동은 별도 방문·매표 구역",
+   "original_region": "장자제",
+   "selection_region_id": "zhangjiajie",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL02",
+    "SEL03"
+   ],
+   "selection_scope_caution": "봉황고성 등을 추가할 경우 장자제 본도시 수요와 분리하여 연계로 표기.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

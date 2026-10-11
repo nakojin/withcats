@@ -1,0 +1,222 @@
+{
+ "id": "kr-jeolla-yeosu-reference",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "여수",
+  "local": "여수"
+ },
+ "admin_region": "전라남도",
+ "former_region": null,
+ "city": "여수시 오동도·돌산권",
+ "address": null,
+ "coord": {
+  "lat": 34.757624,
+  "lng": 127.7058,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/540096105"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeolla-yeosu-reference",
+   "name_ko": "여수",
+   "region": "전라",
+   "admin_region": "전라남도",
+   "locality": "여수시 오동도·돌산권",
+   "type": [
+    "해양",
+    "동백",
+    "부모 관광권"
+   ],
+   "highlights": [
+    "오동도는 방파제로 걸어 들어갈 수 있는 섬이다. 동백 숲과 등대·해안절벽을 함께 돌아보는 산책이 중심이다.",
+    "여수 해상케이블카는 바다 위로 돌산과 육지를 잇는다. 일반 캐빈과 바닥이 투명한 크리스탈 캐빈의 경험이 다르다.",
+    "돌산의 향일암에서는 관음 신앙을 잇는 사찰 공간을 살펴볼 수 있다. 옛 기록의 창건 연대와 현재 재건된 건물을 구별해서 본다."
+   ],
+   "recommended_season": {
+    "text": "오동도 동백은 겨울~봄, 특히 3월 전후",
+    "reason": "관광공사는 동백이 1월부터 피고 3월 무렵 절정이라고 안내한다. 실제 개화는 해마다 달라 현장 소식을 확인한다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "오동도 섬 산책과 동백열차 운영은 다르다. 열차를 놓쳐도 된다는 전제보다 왕복 도보 가능 체력을 먼저 생각한다.",
+    "케이블카는 일반·크리스탈, 편도·왕복을 구별해 예산을 짠다. 투명 바닥이 불편한 동행자가 있는지도 고려한다.",
+    "오동도와 돌산 향일암을 하루에 묶을 때는 두 권역 사이 이동을 따로 잡고 사찰에서는 참배객의 동선을 존중한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=93901",
+     "title": "한국관광공사 VISITKOREA: Odongdo Island",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "동백 계절",
+      "방파제 접근",
+      "산책로·등대",
+      "무료 입장"
+     ]
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=73202",
+     "title": "한국관광공사 Yeosu Maritime Cable Car",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "캐빈 종류",
+      "연결구간",
+      "요금·시간"
+     ]
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=104697",
+     "title": "한국관광공사 VISITKOREA: Yeosu Hyangiram Hermitage",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "사찰 성격",
+      "위치",
+      "무료·일출~일몰"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": "관광공사 본문: 오동도·향일암 입장 무료. 해상케이블카 일반 왕복 성인 17,000원·어린이 12,000원; 크리스탈 왕복 성인 24,000원·어린이 19,000원.",
+    "hours": "향일암 일출~일몰; 케이블카 09:30~21:30, 매표 21:00까지로 표기. 당일 운행은 운영사 재확인.",
+    "reservation": null,
+    "status_note": "동백열차·주차장 요금은 섬 입장료와 별개. 요금은 2026-10-10 공식 관광정보 열람값."
+   },
+   "record_status": "verified_core_operational_pending",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/05_전라/여수.md",
+   "document_path": "korea-travel/05_전라/여수.md",
+   "path": "korea-travel/05_전라/여수.md",
+   "count_as_independent": false,
+   "record_origin": "baseline_followup",
+   "counting_unit": "parent_travel_area_reference",
+   "relation_note": "여러 지점의 동선을 설명하는 부모 관광권 참고문서. 구성 명소를 개별 가산하지 않는다.",
+   "verification_scope": {
+    "confirmed": [
+     "공식 웹본문의 명칭·위치·볼거리"
+    ],
+    "editorial": [
+     "추천시기·이유",
+     "특성에 근거한 동선·준비 조언"
+    ],
+    "pending": [
+     "케이블카 방문일 기상중단·할인",
+     "동백열차 방문일 운행",
+     "향일암행 현행 버스",
+     "역~오동도 실제 도보 소요"
+    ]
+   },
+   "unconfirmed_items": [
+    "케이블카 방문일 기상중단·할인",
+    "동백열차 방문일 운행",
+    "향일암행 현행 버스",
+    "역~오동도 실제 도보 소요"
+   ],
+   "baseline_correction": "향일암 유료·무료 혼선은 현재 관광공사 무료 표기로 정리. 엑스포역~오동도 도보10분 단정과 기차 소요시간은 제외.",
+   "editorial_region": "05_전라",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

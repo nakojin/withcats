@@ -1,0 +1,165 @@
+{
+ "id": "kr-chungbuk-sanmagi-old-trail",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "산막이옛길",
+  "local": "산막이옛길"
+ },
+ "admin_region": "충청북도",
+ "former_region": null,
+ "city": "괴산군 칠성면 외사리",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-chungbuk-sanmagi-old-trail",
+   "name_ko": "산막이옛길",
+   "aliases": [],
+   "region": "충청북도",
+   "admin_region": "충청북도",
+   "locality": "괴산군 칠성면 외사리",
+   "type": [
+    "걷기",
+    "호수"
+   ],
+   "highlights": [
+    "괴산호를 따라 산막이마을로 이어지는 옛길",
+    "소나무동산·고인돌쉼터와 호수 전망대"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "숲과 호수 풍경을 보며 걷기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "일부 계단·흙길이 있으므로 운동화를 신고, 출발지나 산막이나루에서 화장실을 먼저 이용한다.",
+    "편도 도보와 유람선 귀환을 조합하려면 당일 운항을 먼저 확인한다. 배가 없을 경우의 도보 왕복 거리도 고려한다."
+   ],
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/cos/detail.do?cotId=528aa5a9-2e68-42cd-a9af-84bcc3c55043",
+     "title": "한국관광공사 열린관광: 가을의 길목에 거닐기 좋은 충북 괴산 (2021 수정)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약 조건은 확정 수치로 수록하지 않음. 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/04_충청/산막이옛길.md",
+   "editorial_region": "04_충청",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

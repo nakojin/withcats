@@ -1,0 +1,202 @@
+{
+ "id": "kr-gangwon-seoraksan-parent",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "설악산",
+  "local": "설악산"
+ },
+ "admin_region": "강원특별자치도",
+ "former_region": null,
+ "city": "설악산 외설악 중심 탐방권",
+ "address": null,
+ "coord": {
+  "lat": 38.194264,
+  "lng": 128.474536,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/3803636181"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gangwon-seoraksan-parent",
+   "name_ko": "설악산",
+   "region": "강원",
+   "admin_region": "강원특별자치도",
+   "locality": "설악산 외설악 중심 탐방권",
+   "type": [
+    "부모관광권",
+    "국립공원",
+    "산악전망"
+   ],
+   "highlights": [
+    "권금성 케이블카는 소공원에서 외설악 바위 능선을 보며 올라가는 방식이다. 도착 뒤에는 성터 주변 경관과 속초·동해 방향 조망을 살핀다.",
+    "울산바위·비룡폭포·금강굴·대청봉 등은 국립공원공단이 서로 다른 탐방코스로 안내한다. 한 곳을 들르는 짧은 관광과 정상 산행을 구분해야 한다.",
+    "내설악·남설악·외설악으로 나뉘는 넓은 산악권이다. 외설악 소개에 나온 주소나 시간을 모든 들머리에 적용하지 않는다."
+   ],
+   "recommended_season": {
+    "text": "가을 단풍 또는 늦봄 신록, 맑고 통제가 없는 날",
+    "reason": "운영기관이 소개하는 계절 경관을 근거로 한 추천. 2026 단풍 절정 날짜는 확인하지 않았다.",
+    "basis": "editorial_recommendation_based_on_verified_features"
+   },
+   "visit_tips": [
+    "탐방 전 국립공원공단의 입산시간지정제·탐방로 통제정보를 확인한다. 검색 페이지의 실시간 정상 표시는 방문일 보장이 아니다.",
+    "케이블카는 사전예약 없이 당일 현장구매이며 왕복권만 판매한다. 권금성에서 걸어서 하산하는 코스로 계획하면 안 된다.",
+    "케이블카 전용주차장은 없고 운영사는 신흥사 유료주차장을 안내한다. 케이블카 요금과 주차요금을 별도로 계산한다."
+   ],
+   "operational": {
+    "notes": [
+     "케이블카 공식 일반 왕복요금: 중학생 이상 16,000원, 37개월~초등학생 12,000원, 36개월 미만 무료(2026-10-10 페이지 확인).",
+     "당일 운행시간은 현장·기상에 따라 바뀐다. 조회 시 실시간 운행시간이 확인중 상태여서 당일 정상 운행이나 막차는 확정하지 않았다."
+    ]
+   },
+   "unverified_items": [
+    "울산바위 코스 최신 거리·소요시간 및 예약 조건",
+    "국립공원·문화재구역 입장료와 개별 주차장 현행 요금",
+    "방문일 탐방로 통제·케이블카 운행 여부"
+   ],
+   "sources": [
+    {
+     "url": "https://www.knps.or.kr/front/portal/visit/visitCourseSubMain.do?menuNo=7020093&parkId=120400",
+     "title": "국립공원공단 설악산 탐방코스",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "탐방코스 구분, 입산시간·통제 확인 필요"
+    },
+    {
+     "url": "https://www.sorakcablecar.co.kr/",
+     "title": "설악케이블카 공식 소개",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "권금성 경관, 계절별 경관, 현장구매·왕복 원칙"
+    },
+    {
+     "url": "https://www.sorakcablecar.co.kr/guide",
+     "title": "설악케이블카 공식 이용안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "16,000원·12,000원 요금, 예약·주차·기상 조건"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110699",
+     "title": "한국관광공사 외설악",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "내·남·외설악 구분과 산악 경관만 사용. 오래된 요금으로 보이는 수치와 일괄 입산시간은 채택하지 않음"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/03_강원/설악산.md",
+   "document_path": "korea-travel/03_강원/설악산.md",
+   "path": "korea-travel/03_강원/설악산.md",
+   "count_as_independent": false,
+   "relation_type": "parent_reference",
+   "relation_note": "넓은 국립공원 부모 탐방권. 기존 백담사 등 구성 목적지와 별도 중복 가산하지 않는다.",
+   "related_catalog_ids": [
+    "kr-gangwon-baekdamsa"
+   ],
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification",
+   "editorial_region": "03_강원"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

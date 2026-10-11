@@ -1,0 +1,163 @@
+{
+ "id": "kr-seoul-bukchon",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "북촌한옥마을",
+  "local": "북촌한옥마을"
+ },
+ "admin_region": "서울특별시",
+ "former_region": null,
+ "city": "서울 종로구 북촌 일대; 시간 제한 레드존은 북촌로11길 일대",
+ "address": null,
+ "coord": {
+  "lat": 37.582392,
+  "lng": 126.985865,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/2669684119"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-seoul-bukchon",
+   "name_ko": "북촌한옥마을",
+   "region": "서울",
+   "admin_region": "서울특별시",
+   "locality": "서울 종로구 북촌 일대; 시간 제한 레드존은 북촌로11길 일대",
+   "type": [
+    "한옥",
+    "주거지역"
+   ],
+   "highlights": [
+    "관광객과 주민이 함께 이용하는 한옥 주거지역. 관광 편의보다 주민의 일상 보호를 우선한다."
+   ],
+   "recommended_season": {
+    "text": "계절보다 허용된 방문시간을 우선한다. 야외 골목을 걷는 봄·가을은 편집 추천이다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "주거공간 앞에서 소음을 내거나 사생활을 촬영하지 않는다.",
+    "상점 방문·투숙객 등 예외가 있더라도 시간 외 관광행위가 허용된다고 해석하지 않는다."
+   ],
+   "operational": {
+    "notes": [
+     "레드존 관광 방문 허용시간은 10:00~17:00. 북촌 전체를 같은 제한 구역으로 표시하지 않는다.",
+     "종로구 공식 안내에 따르면 2025-03-01부터 위반 관광객에게 과태료 10만원을 부과한다. 예외 대상·관광행위 판단 등은 구청 가이드라인과 현장 안내를 따른다."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://www.jongno.go.kr/mayor/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000001618&menuId=388338&menuNo=388338&nttId=250133",
+     "title": "종로구 2025-02-28 북촌 관광객 방문 제한 안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/01_서울/북촌한옥마을.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/01_서울/북촌한옥마을.md",
+   "editorial_region": "01_서울",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

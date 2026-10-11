@@ -1,0 +1,210 @@
+{
+ "id": "kr-daejeon-jangtaesan-forest",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "장태산자연휴양림",
+  "local": "장태산자연휴양림"
+ },
+ "admin_region": "대전광역시",
+ "former_region": null,
+ "city": "서구 장안로 461",
+ "address": null,
+ "coord": {
+  "lat": 36.219296,
+  "lng": 127.339483,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/368975476"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-daejeon-jangtaesan-forest",
+   "name_ko": "장태산자연휴양림",
+   "aliases": [],
+   "region": "대전광역시",
+   "admin_region": "대전광역시",
+   "locality": "서구 장안로 461",
+   "type": [
+    "휴양림",
+    "걷기"
+   ],
+   "highlights": [
+    "키 큰 메타세쿼이아가 모여 자라는 숲이 중심 경관이다. 줄기가 이어지는 지상 숲길과 나무 가까이 높이 올라가는 시설에서 시선이 달라진다.",
+    "숲속어드벤처와 출렁다리를 설치해 메타세쿼이아 숲을 입체적으로 볼 수 있도록 구성했다.",
+    "숲 외에도 입구 호수의 반영, 생태연못과 전망대를 함께 살펴볼 수 있다."
+   ],
+   "recommended_season": {
+    "text": "여름·가을",
+    "reason": "수목 그늘과 계절에 따른 숲의 색을 즐기는 일정으로 제안한다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "메타세쿼이아 아래 산책부터 시작하고 높은 시설을 이용할지 결정한다. 높이·흔들림이 부담스러우면 숲속어드벤처와 출렁다리를 필수 코스로 잡지 않는다.",
+    "지상 산책과 높은 체험시설의 이용 가능 여부는 별개로 확인한다. 비·눈 뒤에는 현장 통제와 미끄럼 안내에 따라 동선을 줄인다.",
+    "당일 숲 산책과 숙박·야영은 다른 이용 형태다. 숲속의집·휴양관·수련장·야영장은 예약과 요금 조건을 따로 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=97406",
+     "title": "VISITKOREA: Jangtaesan Recreational Forest",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    },
+    {
+     "url": "https://www.foresttrip.go.kr/pot/rm/ri/selectRcrfrIntrdDtlView.do?hmpgId=ID02030106&menuId=002001",
+     "title": "장태산자연휴양림 운영기관: 자연휴양림 안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "메타세쿼이아 숲",
+      "숲속어드벤처·출렁다리",
+      "호수·생태연못·전망대",
+      "숙박과 당일 이용 구분"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약 조건은 확정 수치로 수록하지 않음. 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "related_baseline": "대전",
+   "addition_kind": "detail_expansion",
+   "integration_status": "ready_for_review",
+   "verification_scope": {
+    "confirmed": [
+     "명칭",
+     "시군구 이상 위치",
+     "본문에 명시된 시설·볼거리"
+    ],
+    "editorial": [
+     "추천 계절",
+     "시설 특성에 따른 동선·준비 조언"
+    ],
+    "pending": [
+     "방문일 요금",
+     "방문일 운영시간",
+     "변동성 예약·행사 조건"
+    ]
+   },
+   "document_path": "korea-travel/04_충청/장태산자연휴양림.md",
+   "editorial_region": "04_충청",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area",
+   "prior_mention_note": "기존 문서에서 언급된 장소를 독립 상세 레코드로 보강. 새로 발견한 명소라는 의미가 아님.",
+   "baseline_relationship": {
+    "id": "kr-daejeon-jangtaesan-forest",
+    "baseline_path": "korea-travel/04_충청/대전.md",
+    "relation": "existing_summary_named_place"
+   }
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

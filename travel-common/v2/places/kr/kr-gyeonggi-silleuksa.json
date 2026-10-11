@@ -1,0 +1,177 @@
+{
+ "id": "kr-gyeonggi-silleuksa",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "신륵사",
+  "local": "신륵사"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "여주시 신륵사길 73",
+ "address": null,
+ "coord": {
+  "lat": 37.297627,
+  "lng": 127.661566,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/2632031838"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-silleuksa",
+   "name_ko": "신륵사",
+   "aliases": [
+    "여주 신륵사"
+   ],
+   "region": "경기도",
+   "admin_region": "경기도",
+   "locality": "여주시 신륵사길 73",
+   "type": [
+    "사찰",
+    "강변경관"
+   ],
+   "highlights": [
+    "남한강변 절벽과 봉미산 숲이 어우러진 사찰 풍경",
+    "벽돌로 쌓은 다층전탑과 지공·나옹·무학을 기리는 조사당"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "강변과 사찰 경내를 함께 걷는 야외 관람에 온화한 계절을 권한다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "강변의 다층전탑과 조사당을 잇는 순서로 돌아보면 강변 경관과 사찰의 추모 공간을 함께 살필 수 있다.",
+    "조사당 뒤 석종 부도까지 볼 계획이라면 돌계단을 오르는 구간을 별도로 잡고 미끄럼이 적은 신발을 준비한다."
+   ],
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=4ce39c4b-1b07-4d85-bc3d-b48faf78e217",
+     "title": "한국관광공사: 불교의 명맥을 이어온 도시, 여주",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "주소",
+      "강변 입지",
+      "다층전탑·조사당·석종 부도",
+      "돌계단 동선"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "핵심 경관·문화유산은 2016년 갱신 한국관광공사 기사 본문을 확인했다. 기사 내 옛 운영·교통 정보는 채택하지 않았다. 추천 계절과 관람 순서는 편집 판단이다.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/02_인천경기/신륵사.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

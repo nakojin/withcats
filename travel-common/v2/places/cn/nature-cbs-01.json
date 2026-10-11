@@ -1,0 +1,217 @@
+{
+ "id": "nature-cbs-01",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "백두산 중국 측 북경구",
+  "local": "长白山北景区"
+ },
+ "admin_region": "지린성",
+ "former_region": null,
+ "city": "장백산 보호개발구 츠베이·이도백하 거점",
+ "address": null,
+ "coord": {
+  "lat": 42.181078,
+  "lng": 128.171039,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/8828812769"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-cbs-01",
+   "name_ko": "백두산 중국 측 북경구",
+   "name_local": "长白山北景区",
+   "city": "장백산 보호개발구 츠베이·이도백하 거점",
+   "province": "지린성",
+   "region": "옌지·백두산 중국 측",
+   "destination_cluster": "옌지·백두산 중국 측",
+   "category": "고산·화산호",
+   "description": "백두산을 중국에서 장백산(长白山)이라 부르며, 이 항목은 중국 측 북경구 방문만 다룬다. 천지 조망에 더해 장백폭포·녹연담·지하삼림 등 서로 다른 자연 경관을 묶어 볼 수 있다. 천지는 날씨에 가려지거나 정상 교통이 중단될 수 있으므로 호수가 반드시 보이는 일정으로 판매 문구를 만들면 안 된다.",
+   "best_time": {
+    "period": "여름–초가을, 정상 시계가 좋은 날",
+    "reason": "공식 여름 안내가 천지·숲·계곡 관람을 강조한다. 고산 기상은 별개이므로 여름에도 방풍·보온 준비를 고려한다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "예약일 경구별 입장시간과 정상차 운영시간 미확인",
+    "fees": "2025-07 공식 답변: 기본105+츠베이 노선차35+친환경버스85+천지주봉차80 CNY, 차량은 왕복. 합계305 CNY는 이 구성의 산술 합계이며 2026 실판매가 미확인",
+    "reservation": "북경구 공식 요금 답변에서 长白山/长白山一机游 구매 채널 안내 확인. 북경구 자체의 실명·분시 예약 요건, 한국 여권 지원 및 현장 발권 절차는 이번 조사에서 직접 확인하지 못함"
+   },
+   "sources": [
+    {
+     "url": "https://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html",
+     "title": "장백산 관리위원회: 북·서·남경구 비교",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람 · 과거 자료, 현재 운영 재확인 필요",
+     "supported_facts": [
+      "세 경구별 천지 조망과 경관 차이",
+      "서경구 1442계단",
+      "북경구 폭포·녹연담·지하삼림"
+     ]
+    },
+    {
+     "url": "https://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202106/t20210625_210152.html",
+     "title": "장백산 관리위원회: 경구별 거점",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람 · 과거 자료, 현재 운영 재확인 필요",
+     "supported_facts": [
+      "북경구 이도백하·서경구 송강하·남경구 츠난 위치 구분"
+     ]
+    },
+    {
+     "url": "https://www.changbaishan.gov.cn/zwgk/zwdt/zbsyw/202606/t20260622_270898.html",
+     "title": "장백산 관리위원회: 2026 여름 경관 안내",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "여름 천지·숲·계곡 경관",
+      "2026년6월 세 경구 운영 사례"
+     ]
+    },
+    {
+     "url": "https://www.changbaishan.gov.cn/hdjl/zfsqpt/cbq/sqck/blhf/202507/t20250717_267712.html",
+     "title": "장백산 관리위원회: 북경구 요금 답변",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람 · 과거 자료, 현재 운영 재확인 필요",
+     "supported_facts": [
+      "입장105·관광노선차35·친환경버스85·주봉차80 CNY",
+      "공식 长白山/长白山一机游 예약 채널"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": "changbaishan-china-side",
+   "counting_scope": "중국 측 북경구 1개 운영구역. 천지·폭포·녹연담·삼림은 하위 포인트. 상위 백두산 및 천지를 별도 중복 집계하지 않음",
+   "selection_tier": "핵심 수요 확인 + 연계",
+   "collection_group": "nature",
+   "highlights": [
+    "북쪽 천지 조망",
+    "장백폭포·녹연담",
+    "지하삼림"
+   ],
+   "visit_tips": [
+    "이도백하 거점과 북경구 집산센터를 기준으로 이동한다",
+    "입장료·친환경버스·주봉차 요금을 구분한다",
+    "정상 미개방 시 아래 경관만 둘러볼지 취소규정을 먼저 확인한다"
+   ],
+   "parent_label": "백두산 중국 측 상위 산악권역",
+   "counting_note": "중국 측 북경구 1개 운영구역. 천지·폭포·녹연담·삼림은 하위 포인트. 상위 백두산 및 천지를 별도 중복 집계하지 않음",
+   "original_region": "옌지·백두산 중국 측",
+   "selection_region_id": "yanji_changbaishan",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL03"
+   ],
+   "selection_scope_caution": "백두산 상품 수요를 옌지 도심 인기와 동일시하지 않으며 중국 측 개방구역만 다룬다.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

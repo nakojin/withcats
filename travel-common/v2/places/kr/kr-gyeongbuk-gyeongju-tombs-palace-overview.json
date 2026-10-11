@@ -1,0 +1,223 @@
+{
+ "id": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "경주 대릉원·동궁과 월지",
+  "local": "경주 대릉원·동궁과 월지"
+ },
+ "admin_region": "경상북도",
+ "former_region": null,
+ "city": "경북 경주시 황남동 대릉원·원화로 102 동궁과 월지",
+ "address": null,
+ "coord": {
+  "lat": 35.838948,
+  "lng": 129.211932,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/382249596"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+   "name_ko": "경주 대릉원·동궁과 월지",
+   "region": "06_경북대구",
+   "admin_region": "경상북도",
+   "locality": "경북 경주시 황남동 대릉원·원화로 102 동궁과 월지",
+   "type": [
+    "고분",
+    "역사",
+    "야경"
+   ],
+   "highlights": [
+    "대릉원은 신라 왕과 귀족의 고분이 모인 공간으로, 봉분 사이를 걷는 바깥 관람과 천마총 유료 관람을 구분해야 한다.",
+    "동궁과 월지는 신라의 별궁과 연못을 살펴보는 유적이다. 직선과 굽은 물가를 함께 둔 연못은 한자리에서 전체를 볼 수 없도록 조성되었다.",
+    "해질 무렵 동궁과 월지의 건물 조명과 수면 반영이 낮의 유적 풍경을 바꾼다. 대릉원·첨성대 일대와 이어 보는 시내권 역사 산책으로 적합하다."
+   ],
+   "recommended_season": {
+    "text": "대릉원은 낮, 동궁과 월지는 해질 무렵부터 야경으로 잇는 봄·가을 일정.",
+    "reason": "확인된 경관·시설을 바탕으로 한 여행 편집 추천. 개화·단풍 절정이나 행사 개최 보장이 아님.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "대릉원 무료 입장과 천마총 입장권은 다르다. 천마총을 볼지 먼저 정하고 별도 비용을 계획한다.",
+    "동궁과 월지는 입장마감 직전 도착하면 혼잡으로 입장이 어려울 수 있다고 경주시가 안내한다. 일몰 전 이동 여유를 둔다.",
+    "시내권을 걷는 날에는 대릉원·첨성대·동궁과 월지를 우선 묶고, 불국사·보문권은 별도 이동 일정으로 나눈다."
+   ],
+   "sources": [
+    {
+     "url": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4727",
+     "title": "경주시: 시내권 핵심 바이블",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "고분·동궁과 월지 역사·연못 조경·야경·시내권 동선·시간"
+     ]
+    },
+    {
+     "url": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838",
+     "title": "경주시: 입장료안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "대릉원 무료/천마총 별도 구분·연령별 입장료·마감 직전 혼잡"
+     ]
+    }
+   ],
+   "operational": {
+    "notes": [
+     "경주시 공식 요금표(2026-10-10 조회): 대릉원 입장 무료. 천마총과 동궁과 월지는 각각 개인 어른 3,000원·청소년/군인 2,000원·어린이 1,000원. 무료·할인 대상은 증빙과 조건을 확인한다.",
+     "경주시 시내권 안내는 두 장소 09:00~22:00, 입장마감 21:30으로 표기한다. 방문일 행사·임시통제는 별도 확인. 일반 관람 예약 필수 여부는 이번 조사에서 확정하지 않았다."
+    ],
+    "visit_date_reconfirmation_required": true
+   },
+   "record_status": "verified_core_operational_pending",
+   "status": "verified",
+   "baseline_path": "korea-travel/06_경북대구/경주 대릉원·동궁과 월지.md",
+   "document_path": "korea-travel/06_경북대구/경주 대릉원·동궁과 월지.md",
+   "path": "korea-travel/06_경북대구/경주 대릉원·동궁과 월지.md",
+   "count_as_independent": false,
+   "reference_only": true,
+   "relation_note": "기존 도시·섬·복합 방문권의 부모 참고문서. 구성 장소와 중복하여 독립 명소 수에 가산하지 않음.",
+   "components": [
+    {
+     "id": "kr-gyeongju-daereungwon",
+     "name": "대릉원·천마총",
+     "relation": "component",
+     "parent_id": "kr-gyeongbuk-gyeongju-tombs-palace-overview"
+    },
+    {
+     "id": "kr-gyeongju-donggung-wolji",
+     "name": "동궁과 월지",
+     "relation": "component",
+     "parent_id": "kr-gyeongbuk-gyeongju-tombs-palace-overview"
+    }
+   ],
+   "new_information": [
+    "대릉원은 신라 왕과 귀족의 고분이 모인 공간으로, 봉분 사이를 걷는 바깥 관람과 천마총 유료 관람을 구분해야 한다.",
+    "동궁과 월지는 신라의 별궁과 연못을 살펴보는 유적이다. 직선과 굽은 물가를 함께 둔 연못은 한자리에서 전체를 볼 수 없도록 조성되었다.",
+    "해질 무렵 동궁과 월지의 건물 조명과 수면 반영이 낮의 유적 풍경을 바꾼다. 대릉원·첨성대 일대와 이어 보는 시내권 역사 산책으로 적합하다."
+   ],
+   "original_preserved_at": "korea-travel/research/2026-10-10/baseline-before-review.json",
+   "verification_scope": {
+    "confirmed": [
+     "명칭·위치",
+     "본문 볼거리",
+     "출처별 근거범위"
+    ],
+    "editorial": [
+     "추천시기",
+     "동선·준비 팁"
+    ],
+    "pending": [
+     "방문일 임시휴무·통제",
+     "확정하지 않은 요금·예약·교통"
+    ]
+   },
+   "unique_id": "kr-gyeongbuk-gyeongju-tombs-palace-overview",
+   "is_parent_reference": true,
+   "existing_catalog_id": null,
+   "editorial_region": "06_경북대구",
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

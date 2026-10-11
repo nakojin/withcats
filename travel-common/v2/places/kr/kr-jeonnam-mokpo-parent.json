@@ -1,0 +1,177 @@
+{
+ "id": "kr-jeonnam-mokpo-parent",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "목포",
+  "local": "목포"
+ },
+ "admin_region": "전라남도",
+ "former_region": null,
+ "city": "목포시 원도심·유달산·해상 전망권",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonnam-mokpo-parent",
+   "name_ko": "목포",
+   "region": "전라",
+   "admin_region": "전라남도",
+   "locality": "목포시 원도심·유달산·해상 전망권",
+   "type": [
+    "부모관광권",
+    "근대역사",
+    "항구"
+   ],
+   "highlights": [
+    "목포근대역사관 1관의 옛 일본영사관 건물은 항구도시의 근대사를 살피는 출발점이다. 외관과 전시를 구분하여 관람 계획을 잡는다.",
+    "유달산의 노적봉·대학루·조각공원은 바위와 도시 전망을 서로 다른 높이에서 보는 지점이다. 노적봉의 이순신 이야기는 역사적 사실 확정과 구별되는 전승으로 읽는다.",
+    "보리마당·시화마을의 언덕 골목과 해상케이블카는 목포의 항구·바다를 다른 각도로 보여준다. 골목 산책과 탑승 체험을 하루에 무리하게 모두 넣지 않아도 된다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을의 맑은 낮, 전망은 해질녘 전후",
+    "reason": "언덕길 도보 이동의 부담과 해상 조망을 고려한 편집 추천. 해질녘 탑승 가능 여부는 당일 운행표를 확인한다.",
+    "basis": "editorial_recommendation_based_on_verified_features"
+   },
+   "visit_tips": [
+    "역사관 건물과 언덕 골목을 보는 원도심 일정, 케이블카 탑승 일정은 따로 정한다. 역사문화공간 전체에 하나의 개방시간이 있는 것은 아니다.",
+    "시화마을은 생활 골목이므로 큰 소리·집 안 촬영을 피하고 오르막에 맞는 신발을 준비한다.",
+    "케이블카는 방문일 운행과 승강장·귀환 방향을 확인한 뒤 원도심 코스에 연결한다. 검색 후기의 여름 막차를 가을 일정에 적용하지 않는다."
+   ],
+   "operational": {
+    "notes": [
+     "목포시 사이트는 이번 본문 열람에서 시간초과가 발생하여 한국관광공사의 공식 여행 본문으로 경관·동선을 확인했다. 2018년 기사에 있는 운영시간·요금·버스번호는 현행 안내에서 제외했다."
+    ]
+   },
+   "unverified_items": [
+    "케이블카 현행 요금·계절/요일별 시간·휴무",
+    "근대역사관 1·2관 방문일 운영 및 2관 재개관 여부",
+    "시티투어·대중교통 노선·주차료"
+   ],
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/cos/detail.do?cotId=526461ce-fe98-43b4-91ac-a122b22eb09c",
+     "title": "한국관광공사 목포 열린관광 코스",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "유달산·노적봉·조각공원·역사관 건물과 골목 지형. 2018 운영정보 제외"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=289747",
+     "title": "한국관광공사 Mokpo & the West Coast",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "근대역사관 1관·보리마당/시화마을·해상케이블카 연계와 경관"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/05_전라/목포.md",
+   "document_path": "korea-travel/05_전라/목포.md",
+   "path": "korea-travel/05_전라/목포.md",
+   "count_as_independent": false,
+   "relation_type": "parent_reference",
+   "relation_note": "도시 부모 관광권. 유달산·역사관·케이블카 등 구성요소의 개별 수량을 늘리지 않는다.",
+   "related_catalog_ids": [],
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification",
+   "editorial_region": "05_전라"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

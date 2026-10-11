@@ -1,0 +1,158 @@
+{
+ "id": "WEST-019",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "이야 가즈라바시",
+  "local": "祖谷のかずら橋"
+ },
+ "admin_region": "도쿠시마",
+ "former_region": null,
+ "city": "미요시시",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-019",
+   "name_ko": "이야 가즈라바시",
+   "name_ja": "祖谷のかずら橋",
+   "region": "시코쿠",
+   "prefecture": "도쿠시마",
+   "city": "미요시시",
+   "category": "전통 현수교",
+   "description": "시라쿠치카즈라 덩굴을 엮은 길이45m의 다리로, 수면보다14m 위에 걸려 있다. 발밑 틈으로 강물이 보여 건너는 체험이 강렬하며 계곡 생활에 필요했던 옛 교통시설의 모습을 전한다.",
+   "highlights": [
+    "덩굴로 엮은 다리",
+    "발밑 이야강",
+    "인근 비와폭포 산책"
+   ],
+   "best_time": "신록 또는 가을 단풍철 낮을 권한다.밤 조명은 다리를 건너는 프로그램이 아니다.",
+   "visit_tips": [
+    "밑창이 안정적인 운동화를 신는다",
+    "대보케역 버스를 이용한다면 귀환편부터 확인한다",
+    "야간19:00–21:30은 조명 감상만 가능하다"
+   ],
+   "hours_and_fees": {
+    "hours": "4~6월08–18시,7~8월07:30–18:30,9~3월08–17시",
+    "fees": "중학생 이상550엔,초등학생350엔",
+    "conditions": "20명이상 단체 성인500엔.3년마다 다리 교체",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://www.awanavi.jp/archives/spot/2812",
+     "title": "도쿠시마현 공식: 이야 가즈라바시",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "구조",
+      "시간",
+      "요금",
+      "야간제한",
+      "접근"
+     ]
+    }
+   ],
+   "unconfirmed": [],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

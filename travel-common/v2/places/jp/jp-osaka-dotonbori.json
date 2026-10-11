@@ -1,0 +1,694 @@
+{
+ "id": "jp-osaka-dotonbori",
+ "country": "jp",
+ "tier": "A",
+ "status": "verified",
+ "names": {
+  "ko": "도톤보리",
+  "local": "道頓堀"
+ },
+ "admin_region": "오사카부 오사카시 주오구",
+ "former_region": null,
+ "city": null,
+ "address": "大阪市中央区道頓堀 (공식 표기는 지번 없는 지구명)",
+ "coord": null,
+ "coord_note": "좌표 수집 대기",
+ "summary": "도톤보리는 오사카 미나미 지역을 대표하는 번화가로, 극장 쇼치쿠자와 대형 입체 간판이 늘어선 식도락·공연 거리다.",
+ "description": "도톤보리는 오사카 미나미 지역을 대표하는 번화가로, 극장 쇼치쿠자와 대형 입체 간판이 늘어선 식도락·공연 거리다. 이름은 1612년 이 운하를 파기 시작한 야스이 도톤에서 왔고, 1615년 공사가 끝나 그를 기리며 도톤보리라 불렀다. 1626년 이름난 극장이 옮겨 오면서 극장 거리로 성장했고, 이것이 오늘날 음식과 라이브 공연의 거리로 이어졌다. 강변에는 에비스바시~닛폰바시와 미나토마치 구간 600m의 산책로 돈보리 리버워크가 열려 있으며 무료다. 강변 쪽 출입구를 둔 가게가 30곳 넘고 유람선도 다닌다. 영업시간과 휴일은 점포마다 다르다. 난바역(메트로 미도스지선·센니치마에선·욧쓰바시선, 긴테쓰, 난카이)에서 바로 닿는다.",
+ "highlights": [
+  "쇼치쿠자, 가니도라쿠 게, 글리코 등 대형 입체 간판 거리",
+  "1612년 야스이 도톤이 파기 시작한 운하에서 유래한 이름",
+  "강변 산책로 돈보리 리버워크(에비스바시~닛폰바시, 미나토마치 600m)",
+  "강변 산책로에서 연 20회 정도 열리는 이벤트",
+  "구시카쓰 다루마 빌딩 옥상의 회전하는 다루마 대신 조형물",
+  "도톤보리강 유람선 크루즈"
+ ],
+ "checklist": {
+  "location": {
+   "status": "filled",
+   "claims": [
+    "pilot2-c1"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "지번 주소는 공식 출처에 없음. 좌표 대조(OSM)는 수행하지 않음",
+     "detail": "location",
+     "run": "pilot2"
+    }
+   ]
+  },
+  "access": {
+   "status": "filled",
+   "claims": [
+    "pilot2-c2",
+    "pilot2-c3",
+    "pilot2-c4",
+    "pilot2-c5",
+    "pilot2-c9"
+   ],
+   "gap": null
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 소요시간 안내 없음"
+   }
+  },
+  "hours": {
+   "status": "filled",
+   "claims": [
+    "pilot2-c6"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "리버워크 개방 시간은 공식 페이지에 없음. 외부 사이트 tonbori.jp 는 2015년 내용으로 오래됨(stale_source)",
+     "detail": "hours",
+     "run": "pilot2"
+    }
+   ]
+  },
+  "closed_days": {
+   "status": "filled",
+   "claims": [
+    "pilot2-c7"
+   ],
+   "gap": null
+  },
+  "fees": {
+   "status": "filled",
+   "claims": [
+    "pilot2-c8"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "도톤보리 지구 자체의 요금 문구는 없음. 무료 표기는 리버워크에 한정",
+     "detail": "fees",
+     "run": "pilot2"
+    }
+   ]
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "거리 지구라 예약 개념이 공식 페이지에 없음(점포별 별도)"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "결제수단은 점포별이며 공식 안내 없음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "한국어 안내판·가이드 정보를 공식 출처에서 찾지 못함"
+   }
+  },
+  "caution": {
+   "status": "filled",
+   "claims": [
+    "pilot2-c21"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "안전·금지·혼잡 시기 정보가 공식 페이지에 없음(블로그만 존재, 인용 불가)",
+     "detail": "caution",
+     "run": "pilot2"
+    }
+   ]
+  }
+ },
+ "claims": [
+  {
+   "cid": "pilot2-c1",
+   "field": "location",
+   "text": "공식 관광 안내의 주소는 오사카시 주오구 도톤보리이다.",
+   "original_text": null,
+   "value": "大阪市中央区道頓堀",
+   "verdict": "verified",
+   "verify_note": "osaka-info JA 住所: 大阪市中央区道頓堀",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/spot/dotonbori/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c2",
+   "field": "access",
+   "text": "난바역(오사카 메트로 미도스지선·센니치마에선·욧쓰바시선, 긴테쓰, 난카이)에서 바로 닿는 거리다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "EN Access: Right outside Namba Station on Nankai, Kintetsu, Osaka Metro Midosuji/Sennichimae/Yotsubashi",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/en/spot/dotonbori/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c3",
+   "field": "access",
+   "text": "도톤보리 상점회 안내에 따르면 지하철 미도스지선 난바역 14번 출구에서 걸어서 가까운 거리다.",
+   "original_text": null,
+   "value": "난바역 14번 출구",
+   "verdict": "verified",
+   "verify_note": "'Short walk from Namba Station of Subway Midosuji Line (exit No.14)'. Page footer is (c)2015, so stale_source",
+   "sources": [
+    {
+     "url": "http://www.dotonbori.or.jp/en/access/index.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c4",
+   "field": "access",
+   "text": "간사이공항에서는 난카이 공항급행 래피트로 난바역까지 약 35분 걸리고, 리무진 버스로 OCAT(난바)까지 약 50분 걸린다.",
+   "original_text": null,
+   "value": "35분/50분",
+   "verdict": "verified",
+   "verify_note": "Rapi:t about 35 min to Namba; limousine bus to OCAT about 50 min. Page is (c)2015, stale",
+   "sources": [
+    {
+     "url": "http://www.dotonbori.or.jp/en/access/index.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c5",
+   "field": "access",
+   "text": "이타미공항에서는 리무진 버스로 난바 또는 OCAT(난바)까지 약 40분 걸린다.",
+   "original_text": null,
+   "value": "40분",
+   "verdict": "verified",
+   "verify_note": "Itami limousine to Namba/OCAT about 40 min. Page is (c)2015, stale",
+   "sources": [
+    {
+     "url": "http://www.dotonbori.or.jp/en/access/index.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c6",
+   "field": "hours",
+   "text": "영업시간은 점포마다 다르며 지구 전체의 공통 시간은 없다.",
+   "original_text": null,
+   "value": "점포별",
+   "verdict": "verified",
+   "verify_note": "営業時間: 店舗により異なる",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/spot/dotonbori/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c7",
+   "field": "closed_days",
+   "text": "휴일도 점포마다 다르다.",
+   "original_text": null,
+   "value": "점포별",
+   "verdict": "verified",
+   "verify_note": "休日: 店舗により異なる",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/spot/dotonbori/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c8",
+   "field": "fees",
+   "text": "강변 산책로 돈보리 리버워크의 이용 요금은 무료로 표시되어 있다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "Price: Free",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/en/spot/tombori-riverwalk/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c9",
+   "field": "access",
+   "text": "돈보리 리버워크의 접근은 오사카 메트로 난바역, 긴테쓰·난카이 난바역으로 안내된다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Access: Osaka Metro Namba Station, Kintetsu/Nankai Namba Station",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/en/spot/tombori-riverwalk/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c10",
+   "field": "highlight",
+   "text": "돈보리 리버워크는 에비스바시~닛폰바시와 미나토마치 구간 합계 600m가 개방되어 있다.",
+   "original_text": null,
+   "value": "600m",
+   "verdict": "verified",
+   "verify_note": "Ebisubashi-Nipponbashi and Minatomachi sections (600 m in total) opened",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/en/spot/tombori-riverwalk/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c11",
+   "field": "highlight",
+   "text": "리버워크 쪽으로 강변 출입구를 둔 점포가 30곳 넘고, 도톤보리강 유람선 선착장도 마련되어 있다.",
+   "original_text": null,
+   "value": "30곳 이상",
+   "verdict": "verified",
+   "verify_note": "More than 30 stores have riverside entrances; a dock was built and cruises run",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/en/spot/tombori-riverwalk/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c12",
+   "field": "highlight",
+   "text": "돈보리 리버워크에서는 연간 약 20회의 이벤트가 열린다.",
+   "original_text": null,
+   "value": "약 20회/년",
+   "verdict": "verified",
+   "verify_note": "Around 20 events annually",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/en/spot/tombori-riverwalk/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c13",
+   "field": "description",
+   "text": "도톤보리라는 이름은 1612년 사재를 들여 강을 파기 시작한 야스이 도톤에서 유래했다.",
+   "original_text": null,
+   "value": "1612",
+   "verdict": "verified",
+   "verify_note": "Doton Yasui used his own wealth to have the river dug in 1612 (JA: 慶長17年)",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/en/spot/dotonbori/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c14",
+   "field": "description",
+   "text": "운하 공사는 1615년 완성되었고, 도톤 사후 그의 공을 기려 도톤보리라 이름 붙였다.",
+   "original_text": null,
+   "value": "1615",
+   "verdict": "verified",
+   "verify_note": "about page: completed 1615, named to praise Douton after his death",
+   "sources": [
+    {
+     "url": "http://www.dotonbori.or.jp/en/about/index.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c15",
+   "field": "description",
+   "text": "1626년 이름난 극장이 미나미로 옮겨 오면서 이 일대가 극장 거리로 바뀌었다.",
+   "original_text": null,
+   "value": "1626",
+   "verdict": "verified",
+   "verify_note": "chronological table: 1626, famous theater relocated to Dotonbori, became a theater town",
+   "sources": [
+    {
+     "url": "http://www.dotonbori.or.jp/en/chronological/index.html",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c16",
+   "field": "description",
+   "text": "극장·가부키로 번성하며 찻집이 늘어난 것이 지금의 음식과 라이브 엔터테인먼트 거리의 바탕이 되었다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "theater/Kabuki prosperity plus more teahouses became the basis for food and live entertainment",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/en/spot/dotonbori/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c17",
+   "field": "highlight",
+   "text": "쇼치쿠자, 가니도라쿠(게 요리점), 글리코 등의 대형 입체 간판이 늘어서 있다.",
+   "original_text": "쇼치쿠자, 구이다오레(게 요리점), 글리코 등의 대형 입체 간판이 늘어서 있다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "The page names the crab restaurant as Kani-Doraku (かに道楽), not Kuidaore",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/en/spot/dotonbori/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c18",
+   "field": "highlight",
+   "text": "구시카쓰 다루마 빌딩 옥상에 회전하는 '다루마 대신' 조형물이 새 명물로 설치되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "だるま大臣 on the roof of the Kushikatsu Daruma building, rotating gimmick, called a new landmark",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/en/spot/dotonbori/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c19",
+   "field": "description",
+   "text": "에비스바시 근처의 쇼치쿠자가 현재 도톤보리에 남은 유일한 연극 극장이며, 코미디 공연장도 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "the only theater (芝居小屋) is Shochikuza near Ebisubashi; there is also a comedy hall",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/en/spot/dotonbori/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c20",
+   "field": "description",
+   "text": "코로나로 한산했다가 2022년 10월부터 예전의 활기를 되찾아 가는 중이라고 안내한다.",
+   "original_text": null,
+   "value": "2022-10",
+   "verdict": "verified",
+   "verify_note": "recovering since October 2022",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/en/spot/dotonbori/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-c21",
+   "field": "caution",
+   "text": "도톤보리 상점회 사무국 연락처는 06-6211-4542이다.",
+   "original_text": null,
+   "value": "06-6211-4542",
+   "verdict": "verified",
+   "verify_note": "06-6211-4542 (道頓堀商店会事務局)",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/en/spot/dotonbori/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-s1",
+   "field": "access",
+   "text": "돈보리 리버워크까지 지하철 미도스지선·센니치마에선 난바역에서 걸어서 5분, 요쓰바시선 난바역에서 10분, 긴테쓰·한신 오사카난바역에서 5분, 난카이 난바역과 JR 난바역에서 10분 걸린다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.tonbori.jp/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-s2",
+   "field": "highlight",
+   "text": "돈보리 리버워크는 2004년(헤이세이 16년) 12월에 생긴 강변 산책로다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "http://www.tonbori.jp/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-s3",
+   "field": "access",
+   "text": "돈보리 리버워크는 배리어프리로 표시되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/en/spot/tombori-riverwalk/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  },
+  {
+   "cid": "pilot2-s4",
+   "field": "caution",
+   "text": "돈보리 리버워크 사무소(난카이 전철) 전화는 06-6644-7565이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://osaka-info.jp/en/spot/tombori-riverwalk/",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "pilot2"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "pilot2",
+   "text": "Two official pages differ on 1615. dotonbori.or.jp/about says the canal was completed in 1615 and that cousin Douboku took over the work. dotonbori.or.jp/chronological says Matsudaira Tadaakira took over the project in September 1615, gives no completion date, and gives the 1612 name as 'Nariyasu Douton'."
+  },
+  {
+   "run": "pilot2",
+   "text": "The Tonbori Riverwalk office fax is 06-6644-7566 on osaka-info but 06-6644-7237 on tonbori.jp. The phone number 06-6644-7565 matches on both."
+  },
+  {
+   "run": "pilot2",
+   "text": "stale_source: the dotonbori.or.jp pages (c3-c5, c14, c15) show (c)2015. The newest notice on tonbori.jp is from 2015. osaka-info shows no update date."
+  }
+ ],
+ "legacy": null,
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": [
+   {
+    "run": "pilot2",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 21,
+    "verdicts": {
+     "verified": 20,
+     "corrected": 1,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 4
+    }
+   }
+  ]
+ },
+ "open_questions": [
+  {
+   "topic": "parking",
+   "note": "공식 출처에 주차 안내 없음",
+   "run": "pilot2"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'극장 쇼치쿠자와 대형 입체 간판이 늘어선 식도락·공연 거리다.' The sentence is supported, but the main highlight item it echoes names the wrong restaurant (see highlights).",
+   "'쇼치쿠자, 구이다오레 게, 글리코 등 대형 입체 간판 거리': the source says かに道楽 (가니도라쿠), not 구이다오레. Change it to '쇼치쿠자, 가니도라쿠 게, 글리코 등 대형 입체 간판 거리'."
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "pilot2"
+ }
+}

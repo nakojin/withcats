@@ -1,0 +1,188 @@
+{
+ "id": "nature-zjj-04",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "황룡동",
+  "local": "黄龙洞"
+ },
+ "admin_region": "후난성",
+ "former_region": null,
+ "city": "장자제 우링위안구",
+ "address": null,
+ "coord": {
+  "lat": 29.368031,
+  "lng": 110.614667,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/2694283944"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-zjj-04",
+   "name_ko": "황룡동",
+   "name_local": "黄龙洞",
+   "city": "장자제 우링위안구",
+   "province": "후난성",
+   "region": "장자제(장가계)",
+   "destination_cluster": "장자제",
+   "category": "석회동굴",
+   "description": "석순·종유석·석주가 겹겹이 분포한 대형 카르스트 동굴이다. 공식 지질공원 설명은 건조한 동굴과 물이 흐르는 동굴이 층을 이룬 구조를 강조한다. 장자제의 사암 봉림과 다른 지형을 볼 수 있어 산 위 전망 일정과 조합하기 좋다.",
+   "best_time": {
+    "period": "연중, 보행·동굴 운영이 정상인 날",
+    "reason": "실내형 경관이 중심이라 야외 전망 위주의 날과 조합하기 좋다는 편집 제안이다. 동굴이 모든 폭우 상황에 안전하게 개방된다는 뜻은 아니다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "미확인",
+    "fees": "미확인",
+    "reservation": "외국인 여권 예약·현장 발권·결제 수단 미확인"
+   },
+   "sources": [
+    {
+     "url": "https://www.zhangjiajieuggp.org.cn/html/2026/2026012016255588128.html",
+     "title": "장자제 세계지질공원: 황룡동",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "카르스트 동굴",
+      "4층 구조·건동/수동",
+      "종유석·석순·석주"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "counting_scope": "황룡동 개별 관광구 1곳; 장자제 세계지질공원의 지리적 포함과 티켓 통합은 별개",
+   "selection_tier": "핵심 수요 확인",
+   "collection_group": "nature",
+   "highlights": [
+    "종유석과 석순",
+    "층상 동굴 구조",
+    "물길을 품은 동굴 경관"
+   ],
+   "visit_tips": [
+    "물기 있는 바닥을 고려해 미끄럼 방지 신발을 준비한다",
+    "동굴 내부 계단과 배 탑승 범위를 사전에 확인한다",
+    "쓰촨 황룽 풍경구와 혼동하지 않는다"
+   ],
+   "counting_note": "황룡동 개별 관광구 1곳; 장자제 세계지질공원의 지리적 포함과 티켓 통합은 별개",
+   "original_region": "장자제",
+   "selection_region_id": "zhangjiajie",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL02",
+    "SEL03"
+   ],
+   "selection_scope_caution": "봉황고성 등을 추가할 경우 장자제 본도시 수요와 분리하여 연계로 표기.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

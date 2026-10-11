@@ -1,0 +1,168 @@
+{
+ "id": "central-042",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "하치만보리",
+  "local": "八幡堀"
+ },
+ "admin_region": "시가",
+ "former_region": null,
+ "city": "오미하치만시",
+ "address": null,
+ "coord": {
+  "lat": 35.139617,
+  "lng": 136.088098,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/5596533317"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-042",
+   "name_ko": "하치만보리",
+   "name_ja": "八幡堀",
+   "region": "간사이",
+   "prefecture": "시가",
+   "city": "오미하치만시",
+   "category": "역사수로·유람",
+   "description": "비와호 수운과 연결되어 상인도시의 성장을 도운 인공 수로다. 지금은 흰 벽 창고와 오래된 주택이 물길에 비치는 산책·유람 코스로, 한때 퇴락했던 수로를 주민들이 되살렸다는 보존의 이야기도 있다. 비와호 전체와 중복 집계하지 않고 이 수로 구간으로 범위를 한정했다.",
+   "highlights": [
+    "흰 벽 창고와 수면",
+    "전통 배에서 보는 골목 뒤편",
+    "수로와 상인도시의 연결"
+   ],
+   "best_time": "벚꽃과 단풍 시기를 JNTO가 대표적으로 소개한다.",
+   "visit_tips": [
+    "오미하치만역에서 도보 약 30분 또는 버스·택시 약 10분을 계산한다.",
+    "여러 선사가 있어 출발지·코스·운임을 같은 상품으로 합치지 않는다.",
+    "선착장과 물가 돌길에서는 젖은 바닥을 조심한다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/10/",
+     "title": "JNTO: Hachiman-bori Canal",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "수로역사",
+      "주민보존",
+      "건축",
+      "계절",
+      "접근",
+      "복수 선사"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "유람선별 시간·요금·예약",
+    "당일 운항"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "수로 산책 통합 운영시간·입장료는 열람 본문 미기재. 배는 여러 운영자의 별도 상품으로 시간·요금 미확정."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

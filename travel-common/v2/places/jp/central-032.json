@@ -1,0 +1,176 @@
+{
+ "id": "central-032",
+ "country": "jp",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "오사카성 천수각",
+  "local": "大阪城天守閣"
+ },
+ "admin_region": "오사카",
+ "former_region": null,
+ "city": "오사카시",
+ "address": null,
+ "coord": {
+  "lat": 34.687488,
+  "lng": 135.525887,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/13388509601"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-032",
+   "name_ko": "오사카성 천수각",
+   "name_ja": "大阪城天守閣",
+   "region": "간사이",
+   "prefecture": "오사카",
+   "city": "오사카시",
+   "category": "성·역사박물관",
+   "description": "현재 천수는 1931년 시민 기부로 재건된 건물로, 5층 외관 안에 8개 층을 둔다. 내부 역사전시와 8층 전망대를 묶어 관람하며 도요토미 시대의 원형 천수가 남은 것으로 소개해서는 안 된다. 공원 산책과 박물관 입장을 별개로 계획하면 시간을 계산하기 쉽다.",
+   "highlights": [
+    "역사전시",
+    "8층 시가지 전망",
+    "금빛 샤치와 호랑이 장식"
+   ],
+   "best_time": "연중 관람 가능. 야외 성곽 산책까지 묶으면 봄·가을을 편집 추천한다.",
+   "visit_tips": [
+    "JR 모리노미야·오사카조코엔역에서 천수까지 도보 15~20분을 계산한다.",
+    "해외 고등·대학생 할인은 ISIC 등 운영자가 지정한 증빙을 준비한다.",
+    "입장마감 전에도 대기열이 조기 제한될 수 있어 막판 도착을 피한다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.osakacastle.net/guide/",
+     "title": "오사카성 천수각 ご利用案内",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "현행시간",
+      "요금",
+      "대기열"
+     ]
+    },
+    {
+     "url": "https://www.osaka-info.jp/en/spot/osaka-castle-main-keep/",
+     "title": "Osaka Info: Osaka Castle Museum",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "재건연도",
+      "전망대",
+      "접근",
+      "증빙"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 전시층 변경·혼잡"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "9:00~18:00·입장 17:30까지. 12/28~1/1 휴관. 성인 1,200엔, 고·대학생 600엔(증빙), 중학생 이하 무료(연령증빙). 2025 개정 전 600엔·17시 자료는 사용하지 않는다."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "id": "kr-chungnam-seaqrium",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "국립해양생물자원관 씨큐리움",
+  "local": "국립해양생물자원관 씨큐리움"
+ },
+ "admin_region": "충청남도",
+ "former_region": null,
+ "city": "서천군 장항읍 장산로101번길 75",
+ "address": null,
+ "coord": {
+  "lat": 36.018191,
+  "lng": 126.669925,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/821525266"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-chungnam-seaqrium",
+   "name_ko": "국립해양생물자원관 씨큐리움",
+   "aliases": [],
+   "region": "충청남도",
+   "admin_region": "충청남도",
+   "locality": "서천군 장항읍 장산로101번길 75",
+   "type": [
+    "박물관",
+    "해양생물"
+   ],
+   "highlights": [
+    "해양생물 표본과 인터랙티브 미디어월을 갖춘 제1전시실",
+    "생명의 탑·해양영상실과 어린이체험전시실"
+   ],
+   "recommended_season": {
+    "text": "사계절",
+    "reason": "실내에서 해양생물 다양성을 관찰하고 체험하기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "공식 층별 안내의 4층부터 내려오는 관람 순서를 참고하되 어린이 체험을 원하면 1층 발권 조건을 먼저 확인한다.",
+    "어린이체험전시실은 키 135cm 이하 어린이와 보호자 동반 조건을 명시하며 당일 선착순 발권이다. 일반 전시 입장과 별개로 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://www.mabik.re.kr/seaqrium/kor/floor_4f.html",
+     "title": "국립해양생물자원관: 4층 해양생물다양성",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "위치",
+      "관광 특징"
+     ]
+    },
+    {
+     "url": "https://www.mabik.re.kr/seaqrium/kor/floor_intro.html",
+     "title": "씨큐리움 층별 관람순서",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "시설",
+      "어린이 체험 조건",
+      "위치"
+     ]
+    },
+    {
+     "url": "https://www.mabik.re.kr/kor/sub01_04_01.do",
+     "title": "씨큐리움 어린이체험전시실 이용안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "시설",
+      "어린이 체험 조건",
+      "위치"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "방문 메모에 명시한 확인 조건 외 요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선 조언은 확인된 시설 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/04_충청/국립해양생물자원관 씨큐리움.md",
+   "editorial_region": "04_충청",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

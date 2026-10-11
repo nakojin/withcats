@@ -1,0 +1,782 @@
+{
+ "id": "central-026",
+ "country": "jp",
+ "tier": "A",
+ "status": "verified",
+ "names": {
+  "ko": "기요미즈데라",
+  "local": "清水寺"
+ },
+ "admin_region": "교토",
+ "former_region": null,
+ "city": "교토시",
+ "address": "〒605-0862 京都市東山区清水1丁目294",
+ "coord": {
+  "lat": 34.994303,
+  "lng": 135.784439,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/336641107"
+ },
+ "coord_note": null,
+ "summary": "기요미즈데라는 778년에 문을 연 사찰로, 약 13만 제곱미터 경내에 국보와 중요문화재를 포함한 30여 채의 당탑이 서 있다.",
+ "description": "기요미즈데라는 778년에 문을 연 사찰로, 약 13만 제곱미터 경내에 국보와 중요문화재를 포함한 30여 채의 당탑이 서 있다. 지금의 건물은 대부분 1633년에 재건한 것이며 1994년 고도 교토의 문화재로 유네스코 세계유산에 등록되었다. 본당 앞으로 뻗은 무대는 약 13미터 높이에서 못을 쓰지 않고 짜 올렸고 바닥 면적이 약 200제곱미터이다. 경내에는 벚나무 약 1,500그루와 단풍나무 약 1,000그루가 있다. 문은 보통 06:00에 열며 2026년에는 봄·여름·가을 야간 특별 배관 기간에 21시 접수 마감, 21시 30분까지 연장한다. 시내버스 100·206번으로 고조자카 정류장에서 내려 도보 10분이다. 경내 주차장은 없으며 반려동물 동반은 안 된다.",
+ "highlights": [
+  "약 13미터 높이, 못 없이 짠 본당 무대",
+  "778년 개창, 1994년 유네스코 세계유산 등록",
+  "벚나무 약 1,500그루·단풍나무 약 1,000그루",
+  "봄·여름·가을 연 3회 야간 특별 배관(2026년 가을은 11월 21~30일)",
+  "06:00 개문, 경내 주차장 없음(대중교통 권장)",
+  "오토와 폭포와 지슈 신사"
+ ],
+ "checklist": {
+  "location": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c1"
+   ],
+   "gap": null
+  },
+  "access": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c2",
+    "pilot1-c3",
+    "pilot1-c4",
+    "pilot1-c5",
+    "pilot1-c6"
+   ],
+   "gap": null
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 안내에 권장 소요시간이 없음"
+   }
+  },
+  "hours": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c7",
+    "pilot1-c8",
+    "pilot1-c9"
+   ],
+   "gap": null
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 페이지에 정기 휴무일 언급이 없음(연중무휴라고 명시된 문장도 없음)"
+   }
+  },
+  "fees": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c10",
+    "pilot1-c11"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "일반(주간) 성인·어린이 입장료를 공식 사이트 텍스트에서 찾지 못함(access.php 등에 금액 없음, 이미지일 가능성). 일본정부관광국·교토시 페이지에도 없고 블로그·여행사 값은 근거로 쓸 수 없음",
+     "detail": "fees.regular_admission",
+     "run": "pilot1"
+    }
+   ]
+  },
+  "reservation": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c12",
+    "pilot1-c13"
+   ],
+   "gap": null
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "입장료 결제수단(현금·카드·모바일)에 대한 공식 안내가 없음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "한국어 안내판·오디오가이드에 대한 공식 안내가 없음(공식 사이트는 일본어·영어)"
+   }
+  },
+  "caution": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c14",
+    "pilot1-c15",
+    "pilot1-c16"
+   ],
+   "gap": null
+  }
+ },
+ "claims": [
+  {
+   "cid": "pilot1-c1",
+   "field": "location",
+   "text": "주소는 〒605-0862 교토시 히가시야마구 기요미즈 1초메 294이다. 행정구역은 교토부 교토시 히가시야마구다.",
+   "original_text": null,
+   "value": "京都市東山区清水1丁目294",
+   "verdict": "verified",
+   "verify_note": "access.php address; japan.travel: Higashiyama-ku, Kyoto-shi, Kyoto-fu",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/access.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.japan.travel/en/spot/2199/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c2",
+   "field": "access",
+   "text": "JR 교토역에서 시영버스 206번 또는 100번을 타고 고조자카에서 내려 도보 10분이다.",
+   "original_text": null,
+   "value": "도보 10분",
+   "verdict": "verified",
+   "verify_note": "access.php: 206/100 to 五条坂, walk 10 min. Kyoto Bus 18 (weekends and holidays only) also goes to 五条坂",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/access.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.japan.travel/en/spot/2199/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c3",
+   "field": "access",
+   "text": "게이한 기온시조역(또는 한큐 교토카와라마치역)에서는 시영버스 207번을 타고 기요미즈미치에서 내리거나, 게이한버스 83·85·87·88번 등을 타고 기요미즈미치 또는 고조자카에서 내려 도보 10분이다.",
+   "original_text": "기온시조역(게이한)에서는 시영버스 207번 또는 게이한버스 83·85·87·88번 등으로 기요미즈미치 또는 고조자카에서 내려 도보 10분이다.",
+   "value": "도보 10분",
+   "verdict": "corrected",
+   "verify_note": "access.php: city bus 207 stops only at 清水道. Gojozaka applies to the Keihan buses",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/access.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c4",
+   "field": "access",
+   "text": "게이한 기요미즈고조역에서는 도보 약 25분이다.",
+   "original_text": null,
+   "value": "약 25분",
+   "verdict": "verified",
+   "verify_note": "access.php: 清水五条駅 約徒歩25分",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/access.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c5",
+   "field": "access",
+   "text": "경내로 오르는 길은 니오몬 앞의 기요미즈자카와 방재도로로 이어지는 자완자카 두 갈래뿐이며, 지도 앱이 진입할 수 없는 길을 안내하는 경우가 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "access.php map-app warning",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/access.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c6",
+   "field": "parking",
+   "text": "경내에는 주차장이 없다. 가까운 교토시 시영 주차장(075-561-4601)과 참배길 아래의 임시 주차장을 쓸 수 있으나 시기에 따라 붐비므로 대중교통·택시를 권한다.",
+   "original_text": null,
+   "value": "경내 주차장 없음",
+   "verdict": "verified",
+   "verify_note": "access.php/faq.php (FAQ names it 京都市清水坂観光駐車場)",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/access.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.kiyomizudera.or.jp/faq.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c7",
+   "field": "hours",
+   "text": "2026년 개문은 연중 06:00이며 폐문은 1.1~3.26 18:00, 4.6~6.30 18:00, 7.1~8.13 18:30, 8.17~8.31 18:30, 9.1~11.20 18:00, 12.1~12.31 18:00이다.",
+   "original_text": null,
+   "value": "06:00-18:00 (7~8월 중 18:30)",
+   "verdict": "verified",
+   "verify_note": "access.php 2026 table",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/access.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.kiyomizudera.or.jp/news/open-hour.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c8",
+   "field": "hours",
+   "text": "2026년 야간 특별 배관은 봄 3.27~4.5, 여름 8.14~8.16(센니치마이리), 가을 11.21~11.30이며, 이 기간에는 21:30까지 열고 21:00에 접수를 마감한다.",
+   "original_text": null,
+   "value": "21:30 폐문 / 21:00 접수마감",
+   "verdict": "verified",
+   "verify_note": "access.php and yakan.php",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/access.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.kiyomizudera.or.jp/event/yakan.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c9",
+   "field": "hours",
+   "text": "부적 수여소와 어인(고슈인) 접수소는 08:00경부터 이용할 수 있다.",
+   "original_text": null,
+   "value": "08:00경",
+   "verdict": "verified",
+   "verify_note": "open-hour.php",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/news/open-hour.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c10",
+   "field": "fees",
+   "text": "야간 특별 배관 요금은 가을(2026.11.21~30) 기준 성인 500엔, 초·중학생 200엔으로 교토시 관광협회 공식 사이트에 게재되어 있다.",
+   "original_text": null,
+   "value": "500 JPY / 200 JPY",
+   "verdict": "verified",
+   "verify_note": "Kyoto City official 京都観光Navi: 大人500円、小・中学生200円, 2026.11.21~30. The temple's own page shows no fee",
+   "sources": [
+    {
+     "url": "https://ja.kyoto.travel/event/single.php?event_id=3730",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c11",
+   "field": "fees",
+   "text": "단체 할인은 없다. 장애인수첩·요양수첩 원본을 제시하면 본인과 동반 1인이 무료이며, 교육기관 공식 행사의 인솔 교원은 증빙을 보이면 무료다.",
+   "original_text": null,
+   "value": "무료(해당자)",
+   "verdict": "verified",
+   "verify_note": "faq.php: teachers must show ID plus itinerary (2 items). Advance waiver available by return postcard",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/faq.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c12",
+   "field": "reservation",
+   "text": "야간 특별 배관은 예약이 필요 없다.",
+   "original_text": null,
+   "value": "예약 불필요",
+   "verdict": "verified",
+   "verify_note": "yakan.php: 予約の必要はございません",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/event/yakan.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c13",
+   "field": "reservation",
+   "text": "교토시 관광협회 FAQ는 기요미즈데라가 사전 예약이 필요 없는 곳이라고 안내한다.",
+   "original_text": null,
+   "value": "예약 불필요",
+   "verdict": "verified",
+   "verify_note": "global.kyoto.travel FAQ (Kyoto City Tourism Association)",
+   "sources": [
+    {
+     "url": "https://global.kyoto.travel/en/faq/detail.php?faq_id=1010",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c14",
+   "field": "caution",
+   "text": "경내는 금연이며 흡연소가 없다. 뚜껑이 닫히는 음료를 제외한 음식 반입·걸으며 먹기, 쓰레기 반입이 금지된다. 보조견을 제외한 반려동물은 입산할 수 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "etiquette page dated 令和6年6月 (stale_source, >12 months), repeated on faq.php",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/news/etiquette-inside-the-temple-grounds.php",
+     "type": "official",
+     "page_updated": null,
+     "stale_source": true,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://www.kiyomizudera.or.jp/faq.php",
+     "type": "official",
+     "page_updated": null,
+     "stale_source": true,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c15",
+   "field": "caution",
+   "text": "드론·일각대·삼각대 촬영, 웨딩·코스프레·모델 촬영, 허가 없는 영리 촬영과 생중계는 금지되며 출입금지 구역에 들어갈 수 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "etiquette page",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/news/etiquette-inside-the-temple-grounds.php",
+     "type": "official",
+     "page_updated": null,
+     "stale_source": true,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c16",
+   "field": "caution",
+   "text": "휠체어는 방재도로(자완자카) 입구에서 차량으로 입산할 수 있고 본당 가까이까지 안내한다. 휠체어 대여는 하지 않는다. 자전거는 경내 반입이 원칙적으로 금지되며 주륜 공간이 1곳 있다. 정문 앞길은 8:00~19:00 차량 통행금지다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "faq.php",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/faq.php",
+     "type": "official",
+     "page_updated": null,
+     "stale_source": true,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c17",
+   "field": "description",
+   "text": "기요미즈데라의 개창은 778년이며, 약 13만 제곱미터 경내에 국보·중요문화재를 포함한 30여 채의 당탑이 있다.",
+   "original_text": null,
+   "value": "778 / 130000㎡ / 30+",
+   "verdict": "verified",
+   "verify_note": "history.php: 778, 13万㎡, 30以上の堂塔",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/history.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c18",
+   "field": "description",
+   "text": "현재의 가람은 대부분 1633년에 재건한 것이며, 1994년 유네스코 세계문화유산 '고도 교토의 문화재'에 포함되었다.",
+   "original_text": null,
+   "value": "1633 / 1994",
+   "verdict": "verified",
+   "verify_note": "history.php",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/history.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c19",
+   "field": "highlight",
+   "text": "본당 무대는 편백판 166장, 바닥 면적 약 200제곱미터이며 절벽 아래 초석에서 약 13미터 높이다.",
+   "original_text": null,
+   "value": "13m / 200㎡ / 166장",
+   "verdict": "verified",
+   "verify_note": "history.php: 166枚, 約200㎡, 約13m",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/history.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c20",
+   "field": "highlight",
+   "text": "무대는 느티나무 기둥 18개가 받치며 못을 하나도 쓰지 않은 가케즈쿠리(懸造り) 공법으로 지어졌다.",
+   "original_text": null,
+   "value": "기둥 18개",
+   "verdict": "verified",
+   "verify_note": "history.php: 欅 18本, 釘を1本も使用せず, 懸造り",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/history.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c21",
+   "field": "highlight",
+   "text": "경내에는 벚나무 약 1,500그루와 단풍나무 약 1,000그루가 있다.",
+   "original_text": null,
+   "value": "1500 / 1000",
+   "verdict": "verified",
+   "verify_note": "faq.php",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/faq.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c22",
+   "field": "highlight",
+   "text": "본당 아래 오토와 폭포는 세 줄기로 나뉜다. 방문객은 긴 국자로 물을 받아 손에 따라 마시고, 국자에 직접 입을 대지 않는다. 본당 뒤에는 인연(연애)을 기원하는 지슈 신사가 있다.",
+   "original_text": "본당 아래 오토와 폭포는 세 줄기로 나뉘며 방문객은 긴 국자로 물을 마신다. 본당 뒤에는 인연(연애)을 기원하는 지슈 신사가 있다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "japan.travel says to pour the water into your hand and not drink from the ladle. That page also carries a COVID-era note (stale_source)",
+   "sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/2199/",
+     "type": "national_tourism",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-s1",
+   "field": "tip",
+   "text": "기요미즈데라 입구 부근과 주변 상점에서 무료 KYOTO Wi-Fi를 쓸 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/faq.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-s2",
+   "field": "access",
+   "text": "교토버스 18계통(토·휴일만 운행)을 타고 고조자카에서 내려 도보 10분이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://www.kiyomizudera.or.jp/access.php",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "pilot1",
+   "text": "Bus stop: the temple's access.php says city bus 206 goes to 五条坂. The kyoto.travel event page says '市バス206「清水道」から徒歩10分'"
+  },
+  {
+   "run": "pilot1",
+   "text": "Night visit: kyoto.travel lists the time as 17:30～21:00(受付終了). The temple lists only 21:30 close / 21:00 last entry, with gates open from 6:00"
+  },
+  {
+   "run": "pilot1",
+   "text": "Not found in 2 lookups (access.php, /en/access.php, japan.travel): regular admission fee, closed days, payment, Korean-language service"
+  }
+ ],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-026",
+   "name_ko": "기요미즈데라",
+   "name_ja": "清水寺",
+   "region": "간사이",
+   "prefecture": "교토",
+   "city": "교토시",
+   "category": "사찰·도시조망",
+   "description": "산비탈 위 본당에서 돌출한 목조 무대로 교토 시가지를 내려다보는 사찰이다. 기둥과 처마의 구조, 오토와 폭포, 경내 수목을 이어 살펴보면 유명한 무대 사진을 넘어 공간 전체를 이해할 수 있다. 언덕 접근이므로 역·버스 정류장에서의 마지막 도보구간까지 계획해야 한다.",
+   "highlights": [
+    "본당과 목조 무대",
+    "교토 서쪽 시가지 조망",
+    "오토와 폭포"
+   ],
+   "best_time": "봄 벚꽃과 가을 단풍. 사찰 공식 FAQ도 두 계절의 색을 대표 볼거리로 소개한다.",
+   "visit_tips": [
+    "공식 입구는 기요미즈자카 위 니오몬 또는 차완자카 위 비상도로 입구로, 지도앱 우회길을 그대로 따르지 않는다.",
+    "드론·삼각대·모노포드 촬영은 금지된다.",
+    "개장 직후를 선택하면 언덕 도보와 관람을 낮 일정보다 앞당길 수 있다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://kyoto.travel/en/destinations/kiyomizudera-temple/",
+     "title": "Kyoto Travel: Kiyomizu-dera",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "무대",
+      "조망",
+      "폭포"
+     ]
+    },
+    {
+     "url": "https://www.kiyomizudera.or.jp/en/faq/",
+     "title": "Kiyomizu-dera FAQ",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "6시 개문",
+      "봄·가을",
+      "촬영수칙"
+     ]
+    },
+    {
+     "url": "https://www.kiyomizudera.or.jp/en/location/",
+     "title": "Kiyomizu-dera Location",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "공식 진입로",
+      "계절시간"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 폐문시간·입장료",
+    "지슈신사 현행 공개 여부는 이 자료에서 보장하지 않음"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "매일 6:00 개문 확인. 폐문은 계절·야간 특별관람에 따라 변동. 2026 시간표가 열람 본문에서 비어 있어 구체적 폐문·요금은 미확정."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": [
+   {
+    "run": "pilot1",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 22,
+    "verdicts": {
+     "verified": 20,
+     "corrected": 2,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 2
+    }
+   }
+  ]
+ },
+ "open_questions": [
+  {
+   "topic": "crowd_periods",
+   "note": "벚꽃·단풍철 혼잡에 대한 공식 안내를 찾지 못함",
+   "run": "pilot1"
+  },
+  {
+   "topic": "source_updated",
+   "note": "access.php·faq.php·history.php에 갱신일 표기가 없음. 경내 에티켓 공지와 FAQ는 令和6年6月(2024년 6월) 작성으로 12개월 이상 경과해 stale_source로 표시하며, 운영시간·교통은 2026년 표를 쓰는 access.php로 대체함. 홈페이지 상단 날짜(2024.11.30)와 최신 소식(2026.9.30)이 달라 신뢰하지 않음",
+   "run": "pilot1"
+  },
+  {
+   "topic": "former_region",
+   "note": "행정구역 변경 사항 없음(이전 표기 불필요)",
+   "run": "pilot1"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'교토 동쪽 오토와산 중턱': stated on history.php but missing from the c17 claim text. Add it to c17 or remove it from the description"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "pilot1"
+ }
+}

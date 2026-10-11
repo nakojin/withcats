@@ -1,0 +1,190 @@
+{
+ "id": "kr-incheon-yeongjong-seaside-railbike",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "영종씨사이드레일바이크",
+  "local": "영종씨사이드레일바이크"
+ },
+ "admin_region": "인천광역시",
+ "former_region": null,
+ "city": "영종구 구읍로 75",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-incheon-yeongjong-seaside-railbike",
+   "name_ko": "영종씨사이드레일바이크",
+   "aliases": [
+    "영종 씨사이드레일바이크"
+   ],
+   "region": "인천광역시",
+   "admin_region": "인천광역시",
+   "locality": "영종구 구읍로 75",
+   "type": [
+    "레일바이크",
+    "해안경관"
+   ],
+   "highlights": [
+    "씨사이드파크 해안을 따라 왕복 5.6km를 달리는 레일바이크",
+    "월미도부터 인천대교까지의 바다 조망과 선로 주변 경관폭포"
+   ],
+   "recommended_season": {
+    "text": "봄·가을의 맑은 날",
+    "reason": "해안 바람을 맞으며 페달을 밟는 체험이므로 온화하고 조망이 좋은 날을 권한다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "왕복 5.6km의 해안 체험에 맞춰 바람막이와 햇빛 차단용품을 준비하고, 예약 인원과 한 대의 탑승 인원을 확인한다.",
+    "운영사는 우천 시에도 운행하며 날씨 사유 취소에도 환불규정을 적용한다고 안내한다. 예보를 확인한 뒤 결제하고 출발시간 전에 도착하도록 여유를 둔다."
+   ],
+   "sources": [
+    {
+     "url": "https://www.yeongjong.go.kr/tour/regional_tour/yeongjong/view.do?trspt_sn=218",
+     "title": "인천광역시 영종구 문화관광: 씨사이드 레일바이크",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "현행 주소",
+      "왕복 거리",
+      "월미도·인천대교 조망",
+      "경관폭포"
+     ]
+    },
+    {
+     "url": "https://www.railtrip.co.kr/homepage/yeongjong/0101.php",
+     "title": "코레일관광개발: 영종씨사이드 레일바이크 소개",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "해안 코스",
+      "4인승 구조"
+     ]
+    },
+    {
+     "url": "https://www.railtrip.co.kr/homepage/yeongjong/0201.php",
+     "title": "코레일관광개발: 영종씨사이드 레일바이크 이용요금·환불안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "우천 운행",
+      "날씨 사유 취소 환불규정",
+      "출발시간 준수"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "운영사와 영종구 관광 페이지의 운행시간 안내가 달라 방문일 운영사 확인 필요. 우천 운행·취소규정은 결제 시 다시 확인한다. 요금·운영시간·예약값은 미확정."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "운영사 페이지는 옛 중구 주소를 표기하지만 영종구 공식 관광 페이지가 확인한 현행 주소를 우선했다. 두 공식 페이지의 운영시간이 달라 hours는 미확정으로 남겼다. 추천 계절과 준비물은 편집 판단이다.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/02_인천경기/영종씨사이드레일바이크.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

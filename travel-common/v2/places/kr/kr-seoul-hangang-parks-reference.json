@@ -1,0 +1,209 @@
+{
+ "id": "kr-seoul-hangang-parks-reference",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "한강공원",
+  "local": "한강공원"
+ },
+ "admin_region": "서울특별시",
+ "former_region": null,
+ "city": "서울 한강변 공원권; 이번 상세 검증은 반포권",
+ "address": null,
+ "coord": {
+  "lat": 37.555576,
+  "lng": 126.896889,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/12372983186"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-seoul-hangang-parks-reference",
+   "name_ko": "한강공원",
+   "region": "서울",
+   "admin_region": "서울특별시",
+   "locality": "서울 한강변 공원권; 이번 상세 검증은 반포권",
+   "type": [
+    "수변",
+    "공원",
+    "부모 관광권"
+   ],
+   "highlights": [
+    "반포 달빛무지개분수는 다리 양쪽에서 음악에 맞춰 물을 뿜으며, 야간 조명이 강 풍경에 더해진다.",
+    "서래섬은 반포대교와 동작대교 사이에 있고 다리로 공원과 연결된다. 봄 유채·가을 메밀 풍경을 고를 수 있다.",
+    "세빛섬 주변에서는 수변 건축물과 야경을 함께 볼 수 있어 분수 관람 전후 산책을 붙이기 좋다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을 꽃 산책, 분수 운영기간의 저녁",
+    "reason": "서래섬 계절꽃과 분수의 야간 조명이 각각 다른 방문 목적을 만든다. 개화·당일 가동은 별도 확인한다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "분수가 목적이면 여의도 등 다른 공원명 대신 반포대교 남단을 목적지로 정한다.",
+    "비 예보·강풍에는 분수가 멈출 수 있다. 한 번의 분수 회차만 보고 귀가하도록 일정을 촘촘히 잡지 않는다.",
+    "피크닉 때 취사하지 않고 쓰레기를 가져간다. 그늘막은 허용 장소·시간을 별도로 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://hangang.seoul.go.kr/www/contents/663.do?mid=463",
+     "title": "서울시 반포한강공원 소개",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "반포 위치",
+      "서래섬·세빛섬",
+      "꽃 계절",
+      "이용수칙"
+     ]
+    },
+    {
+     "url": "https://hangang.seoul.go.kr/www/contents/856.do?mid=849",
+     "title": "서울시 달빛무지개분수 안내 (2026-09-14 수정)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "2026 가동시간",
+      "중지조건",
+      "무료·현장방문"
+     ]
+    }
+   ],
+   "operational": {
+    "hours": "분수 공식 2026 계획: 3/15~5월·10월 12:00, 19:30, 20:00, 20:30, 21:00; 6~9월은 21:30 추가. 회당 20분. 행사·시험가동 때 변경 가능.",
+    "fees": "분수 관람 무료, 현장방문. 다른 유료시설까지 무료라는 뜻은 아님.",
+    "reservation": null,
+    "status_note": "풍속 7m/s 이상, 가동시간 강수 예보, 탁도 15NTU 이상이면 중지할 수 있다."
+   },
+   "record_status": "verified_core_operational_pending",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/01_서울/한강공원.md",
+   "document_path": "korea-travel/01_서울/한강공원.md",
+   "path": "korea-travel/01_서울/한강공원.md",
+   "count_as_independent": false,
+   "record_origin": "baseline_followup",
+   "counting_unit": "parent_travel_area_reference",
+   "relation_note": "여러 지점의 동선을 설명하는 부모 관광권 참고문서. 구성 명소를 개별 가산하지 않는다.",
+   "verification_scope": {
+    "confirmed": [
+     "공식 웹본문의 명칭·위치·볼거리"
+    ],
+    "editorial": [
+     "추천시기·이유",
+     "특성에 근거한 동선·준비 조언"
+    ],
+    "pending": [
+     "여의도 벚꽃축제의 다음 일정",
+     "공원별 교통·주차 요금",
+     "반포 야경투어의 다음 모집"
+    ]
+   },
+   "unconfirmed_items": [
+    "여의도 벚꽃축제의 다음 일정",
+    "공원별 교통·주차 요금",
+    "반포 야경투어의 다음 모집"
+   ],
+   "baseline_correction": "기존 4~6·9·10월 비수기 안내를 공식 2026 편성으로 교정. 종료 축제 날짜를 다음 행사처럼 재사용하지 않음.",
+   "editorial_region": "01_서울",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

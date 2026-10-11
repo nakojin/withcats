@@ -1,0 +1,188 @@
+{
+ "id": "nature-zjj-05",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "보봉호",
+  "local": "宝峰湖"
+ },
+ "admin_region": "후난성",
+ "former_region": null,
+ "city": "장자제 우링위안구",
+ "address": null,
+ "coord": {
+  "lat": 29.325758,
+  "lng": 110.54692,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "relation/12885872"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-zjj-05",
+   "name_ko": "보봉호",
+   "name_local": "宝峰湖",
+   "city": "장자제 우링위안구",
+   "province": "후난성",
+   "region": "장자제(장가계)",
+   "destination_cluster": "장자제",
+   "category": "호수·유람선",
+   "description": "봉우리 사이 높은 곳의 호수와 보봉폭포를 함께 보는 관광구다. 산정 전망대를 계속 걷는 일정과 달리 호수에서 물에 비친 산세를 보는 경험이 중심이다. 인근 산길인 잉워자이까지 확장할 때는 가벼운 호수 관광과 보행 강도가 달라진다.",
+   "best_time": {
+    "period": "잔잔하고 시야가 좋은 날",
+    "reason": "수면 반영과 배 위 전망을 중심으로 선택하는 편집 추천이다. 강우·강풍 시 운항을 먼저 확인한다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "미확인",
+    "fees": "미확인",
+    "reservation": "외국인 여권 예약·현장 발권·결제 수단 미확인"
+   },
+   "sources": [
+    {
+     "url": "https://whhlyt.hunan.gov.cn/whhlyt/wldhjqjd/202208/t20220816_27583716.html",
+     "title": "후난성 문화여유청: 보봉호",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람 · 과거 자료, 현재 운영 재확인 필요",
+     "supported_facts": [
+      "호수·폭포·유람선",
+      "잉워자이 가파른 보행 구간",
+      "페이지 개별 등급 AAAA"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "counting_scope": "보봉호 개별 관광구 1곳. 세계유산·지질공원 소속을 독립 5A 등급 또는 통합 입장권으로 일반화하지 않음",
+   "selection_tier": "핵심 수요 확인",
+   "collection_group": "nature",
+   "highlights": [
+    "호수 유람선",
+    "보봉폭포",
+    "봉우리의 수면 반영"
+   ],
+   "visit_tips": [
+    "입장권·선박·셔틀 포함 범위를 확인한다",
+    "잉워자이 산길은 별도 체력 소모를 고려한다",
+    "황룡동과 묶어도 두 곳의 입장권은 따로 확인한다"
+   ],
+   "counting_note": "보봉호 개별 관광구 1곳. 세계유산·지질공원 소속을 독립 5A 등급 또는 통합 입장권으로 일반화하지 않음",
+   "original_region": "장자제",
+   "selection_region_id": "zhangjiajie",
+   "selection_evidence_ids": [
+    "SEL01",
+    "SEL02",
+    "SEL03"
+   ],
+   "selection_scope_caution": "봉황고성 등을 추가할 경우 장자제 본도시 수요와 분리하여 연계로 표기.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

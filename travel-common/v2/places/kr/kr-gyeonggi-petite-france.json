@@ -1,0 +1,195 @@
+{
+ "id": "kr-gyeonggi-petite-france",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "쁘띠프랑스",
+  "local": "쁘띠프랑스"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "가평군 청평면 호반로 1063",
+ "address": null,
+ "coord": {
+  "lat": 37.715081,
+  "lng": 127.490528,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/1236045987"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-petite-france",
+   "name_ko": "쁘띠프랑스",
+   "aliases": [
+    "가평 쁘띠프랑스"
+   ],
+   "region": "경기도",
+   "admin_region": "경기도",
+   "locality": "가평군 청평면 호반로 1063",
+   "type": [
+    "테마마을",
+    "문화체험"
+   ],
+   "highlights": [
+    "어린왕자와 생텍쥐페리를 주제로 한 프랑스풍 건물·골목",
+    "생텍쥐페리기념관·오르골하우스·프랑스 전통주택 및 골동품 전시"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "청평호를 바라보는 언덕의 야외 골목과 실내 전시를 번갈아 둘러보기 좋은 계절로 권한다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "사진 촬영 동선에 생텍쥐페리기념관과 오르골하우스를 넣어 마을의 문학·음악 테마까지 살핀다.",
+    "인접 이탈리아마을도 볼 계획이라면 각각의 관람 범위와 통합권 조건을 비교한다. 쁘띠프랑스 전망대를 함께 볼 경우 언덕길 이동을 고려해 걷기 편한 신발을 준비한다."
+   ],
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=eadf5f3e-81f9-4da8-9346-5eba291ae970",
+     "title": "한국관광공사: 쁘띠프랑스",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "명칭",
+      "가평군 청평면 위치",
+      "문학·오르골·전통주택·골동품 전시"
+     ]
+    },
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=310061f6-8636-46bd-aa80-7ce56041b986",
+     "title": "한국관광공사: 가평 드라이브 여행, 자라섬부터 쁘띠프랑스까지",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "언덕 입지",
+      "전망대",
+      "인접 이탈리아마을·통합권"
+     ]
+    },
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=c22fe563-5ca5-4f7f-a0c4-e337c1e16e29",
+     "title": "한국관광공사: 내 안의 순수와 낭만을 마주하는 곳, 이탈리아마을 피노키오와다빈치",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "쁘띠프랑스 주소"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·운영시간·예약의 최신 변동 조건은 방문일 공식 공지 재확인 필요."
+   },
+   "record_status": "verified_core_operational_pending",
+   "editorial_note": "추천 계절과 동선·준비물 조언은 확인된 장소 특성에 근거한 편집 판단이며 공식 최적기·운영 보장이 아님.",
+   "addition_kind": "new_named_record",
+   "integration_status": "ready_for_review",
+   "document_path": "korea-travel/02_인천경기/쁘띠프랑스.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,178 @@
+{
+ "id": "central-039",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "다케다성터",
+  "local": "竹田城跡"
+ },
+ "admin_region": "효고",
+ "former_region": null,
+ "city": "아사고시",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-039",
+   "name_ko": "다케다성터",
+   "name_ja": "竹田城跡",
+   "region": "간사이",
+   "prefecture": "효고",
+   "city": "아사고시",
+   "category": "산성유적·조망",
+   "description": "천수 없이 산 능선을 따라 석축이 이어지는 성터다. 운해 위에 떠 있는 듯한 사진으로 알려졌지만 구름은 기상조건이 맞을 때만 생긴다. 성터를 직접 걷는 방문과 맞은편에서 성터 전체를 촬영하는 방문은 위치·시간을 구분해야 한다.",
+   "highlights": [
+    "능선의 석축",
+    "산 아래 계곡 조망",
+    "기상조건이 맞는 날의 운해"
+   ],
+   "best_time": "가을 운해 시기를 목표로 하되 보장하지 않는다. 맑은 낮에도 석축과 능선 자체가 볼거리다.",
+   "visit_tips": [
+    "JR 다케다역에서 등산로 편도 약 40분을 계산한다.",
+    "새벽 등산은 조명·방한·접지력 좋은 신발을 준비한다.",
+    "덴쿠·운카이 버스는 현금만 받는다는 시 안내를 확인한다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.city.asago.hyogo.jp/site/takeda/25623.html",
+     "title": "아사고시: 2026 여름·운해 시즌 관람시간",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "날짜별시간"
+     ]
+    },
+    {
+     "url": "https://www.city.asago.hyogo.jp/site/takeda/3102.html",
+     "title": "아사고시: 観覧料のお支払い方法",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "요금",
+      "결제",
+      "버스 현금"
+     ]
+    },
+    {
+     "url": "https://www.hyogo-tourism.jp/world/spot/detail_1058.html",
+     "title": "Visit Hyogo: Takeda Castle Ruins",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "석축",
+      "계절",
+      "등산접근"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "운해 발생 여부",
+    "12/7 이후 개방시간·겨울통제",
+    "2026-10-11 축제 당일 접근변경"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "2026-06-01~12-06 관람 접수 5:00~17:00(아사고시 최신 공지). 고등학생 이상 500엔·중학생 이하 무료. 현금·카드·전자결제 가능하나 통신장애 대비 현금 권장."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

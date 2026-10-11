@@ -1,0 +1,178 @@
+{
+ "id": "kr-jeonbuk-jeonju-hanok-village",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "전주한옥마을",
+  "local": "전주한옥마을"
+ },
+ "admin_region": "전북특별자치도",
+ "former_region": null,
+ "city": "전주시 완산구 풍남동·교동 일대",
+ "address": null,
+ "coord": {
+  "lat": 35.81817,
+  "lng": 127.153597,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/4245919092"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeonbuk-jeonju-hanok-village",
+   "name_ko": "전주한옥마을",
+   "region": "전북",
+   "admin_region": "전북특별자치도",
+   "locality": "전주시 완산구 풍남동·교동 일대",
+   "type": [
+    "한옥지구",
+    "전통문화"
+   ],
+   "highlights": [
+    "경기전·전주향교 등 역사 공간과 한옥 골목의 생활 풍경을 함께 보는 도심 문화지구다.",
+    "오목대 둘레길의 데크 전망에서는 한옥 지붕을 내려다볼 수 있고, 경기전 담장길에서는 전동성당이 어우러지는 거리 풍경을 만난다.",
+    "전주천 남천교의 청연루는 한옥 골목과 구분되는 수변 감상 지점이다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을. 골목 도보 이동을 고려한 편집 추천. 여름은 실내문화시설과 휴식을 섞는다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "주거지 사생활과 소음을 배려한다.",
+    "한옥마을 전체를 예약이 필요한 한 시설로 설명하지 않는다. 숙박·공방·해설·개별 유적은 각각 확인한다.",
+    "편집 동선: 골목 산책, 오목대의 계단·전망, 경기전 내부 관람을 구분해 이동 부담과 시간을 정한다. 풍경 사진의 야간 조명이 매일 같은 시간에 운영된다고 가정하지 않는다."
+   ],
+   "operational": {
+    "notes": [
+     "한옥마을 골목과 경기전·개별 체험시설은 운영 기준이 다르다.",
+     "공식 한옥마을 경기전 안내는 3~5·9~10월 09:00~19:00, 6~8월 09:00~20:00, 11~2월 09:00~18:00; 일반 어른 3,000원·청소년 군인 2,000원·어린이 1,000원을 표기한다. 감면·입장마감은 별도 확인."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/info",
+     "title": "전주한옥마을 현황",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/place",
+     "title": "전주한옥마을 문화유적지",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://hanok.jeonju.go.kr/contents/scenery",
+     "title": "전주한옥마을 공식 풍경·관찰 지점",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/05_전라/전주한옥마을.md",
+   "count_as_independent": false,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/05_전라/전주한옥마을.md",
+   "editorial_region": "05_전라",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

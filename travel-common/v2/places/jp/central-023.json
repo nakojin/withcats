@@ -1,0 +1,167 @@
+{
+ "id": "central-023",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "슈젠지 절",
+  "local": "修禅寺"
+ },
+ "admin_region": "시즈오카",
+ "former_region": null,
+ "city": "이즈시",
+ "address": null,
+ "coord": {
+  "lat": 34.971528,
+  "lng": 138.927573,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/4470730097"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-023",
+   "name_ko": "슈젠지 절",
+   "name_ja": "修禅寺",
+   "region": "주부·호쿠리쿠",
+   "prefecture": "시즈오카",
+   "city": "이즈시",
+   "category": "사찰·온천마을 역사",
+   "description": "이즈의 슈젠지 온천 중심에 있는 사찰로, 807년 구카이 창건으로 전해진다. 가마쿠라 막부 인물들의 비극과 연결된 역사공간이며 작은 박물관에는 미나모토노 요리이에 관련 자료가 소개된다. 온천마을의 이름인 修善寺와 사찰 한자 修禅寺를 구별한다.",
+   "highlights": [
+    "본당과 경내",
+    "요리이에 관련 박물관 전시",
+    "가을 경내와 주변 단풍"
+   ],
+   "best_time": "가을 단풍철을 JNTO가 주요 계절로 소개한다.",
+   "visit_tips": [
+    "슈젠지역에서 온천 방면 버스 약 10분, 정류장부터 도보 약 3분이다.",
+    "사찰 관람과 온천 입욕을 같은 표·시간으로 안내하지 않는다.",
+    "좌선 체험은 관광소개에 정례시간이 있어도 사찰의 최신 신청조건을 재확인한다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1287/",
+     "title": "JNTO: Shuzenji Temple",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "창건",
+      "역사",
+      "박물관",
+      "단풍",
+      "접근"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "참배·박물관 시간·요금",
+    "좌선 현행 운영"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "본당 참배·박물관의 운영시간과 요금은 이번 열람 본문에서 확정하지 않음. JNTO에는 화요일 9:30 좌선 소개가 있으나 현행 예약 가능 여부는 미검증."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

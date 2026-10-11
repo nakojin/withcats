@@ -1,0 +1,853 @@
+{
+ "id": "kr-seoul-lotte-world",
+ "country": "kr",
+ "tier": "A",
+ "status": "verified",
+ "names": {
+  "ko": "롯데월드 어드벤처(잠실)",
+  "local": "롯데월드 어드벤처"
+ },
+ "admin_region": "서울특별시 송파구",
+ "former_region": null,
+ "city": null,
+ "address": "서울특별시 송파구 올림픽로 240 호텔롯데 롯데월드",
+ "coord": null,
+ "coord_note": "좌표 수집 대기",
+ "summary": "롯데월드 어드벤처는 서울 송파구 올림픽로 240에 있는 테마파크다.",
+ "description": "롯데월드 어드벤처는 서울 송파구 올림픽로 240에 있는 테마파크다. 천장이 유리돔인 실내 공간 어드벤처와 야외 시설 매직아일랜드로 나뉘어, 비가 와도 일부를 즐길 수 있다. 공식 안내에 따르면 365일 문을 열며, 2026년 10월 기준 일~목은 21시, 금·토는 22시까지 운영하고 매표와 입장은 마감 1시간 전에 끝난다. 이용권은 종합이용권, 파크이용권, 연간이용권으로 나뉘며 종합이용권에는 민속박물관 입장이 포함된다. 지하철 2·8호선 잠실역 4번 출구 쪽에서 지하로 이어져 접근이 편하다. 인기 어트랙션을 위한 탑승예약제와 별도 구매하는 매직패스가 있고, 한글·영어·중국어·일본어 가이드맵을 내려받을 수 있다. 주류와 반려동물 등은 반입할 수 없다.",
+ "highlights": [
+  "유리돔 실내 공간 어드벤처와 야외 매직아일랜드",
+  "연중무휴, 금·토는 22시까지 운영(2026년 10월 기준)",
+  "잠실역 4번 출구 쪽 지하 직결",
+  "종합이용권으로 민속박물관 이용 가능",
+  "매직패스·탑승예약제로 대기 줄이기",
+  "한·영·중·일 가이드맵 제공"
+ ],
+ "checklist": {
+  "location": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c1"
+   ],
+   "gap": null
+  },
+  "access": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c2",
+    "pilot1-c3",
+    "pilot1-c4",
+    "pilot1-c5"
+   ],
+   "gap": null
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "공식 안내에 권장 소요시간이 없음"
+   }
+  },
+  "hours": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c6",
+    "pilot1-c7"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "2026-10-11, 10-12, 10-16, 10-17만 조회함. 다른 날짜·시즌 시간은 달라질 수 있어 일반화하지 않음",
+     "detail": "hours.weekly_pattern",
+     "run": "pilot1"
+    }
+   ]
+  },
+  "closed_days": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c8"
+   ],
+   "gap": null
+  },
+  "fees": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c10",
+    "pilot1-c11",
+    "pilot1-c12"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "종합이용권·파크이용권 정상가(성인/청소년/어린이)를 공식 페이지에서 읽지 못함. 예매 사이트(advticket)는 로그인·API 인자가 필요했고, 확인된 금액은 제휴 프로모션가뿐이라 정가로 쓸 수 없음. 신문·블로그 가격은 근거로 쓰지 않음",
+     "detail": "fees.base_price",
+     "run": "pilot1"
+    }
+   ]
+  },
+  "reservation": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c13",
+    "pilot1-c15",
+    "pilot1-c16"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "입장 자체의 사전예약 필수 여부와 예매 오픈 시점이 공식 FAQ에 명시되어 있지 않음(온라인 예매는 가능, 현장 구매 가능성을 시사)",
+     "detail": "reservation.entry_required",
+     "run": "pilot1"
+    }
+   ]
+  },
+  "payment": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c14"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "현장 매표소의 결제수단 전체(현금·모바일 페이 등)는 확인하지 못함. 체크카드 가능 사실만 확인",
+     "detail": "payment.onsite_methods",
+     "run": "pilot1"
+    }
+   ]
+  },
+  "language": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c22"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "한국어 안내 여부는 사이트가 한국어라는 점 외에 별도 명시 없음. 외국어 가이드맵은 확인됨",
+     "detail": "language.korean_service",
+     "run": "pilot1"
+    }
+   ]
+  },
+  "caution": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c9",
+    "pilot1-c17",
+    "pilot1-c18",
+    "pilot1-c19",
+    "pilot1-c20",
+    "pilot1-c21",
+    "pilot1-c23"
+   ],
+   "gap": null
+  }
+ },
+ "claims": [
+  {
+   "cid": "pilot1-c1",
+   "field": "location",
+   "text": "주소는 서울특별시 송파구 올림픽로 240(호텔롯데 롯데월드)이다.",
+   "original_text": null,
+   "value": "서울특별시 송파구 올림픽로 240",
+   "verdict": "verified",
+   "verify_note": "SPA: footer in the official JS bundle reads '서울특별시 송파구 올림픽로 240 호텔롯데 롯데월드' (this is the company address shown in the footer)",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c2",
+   "field": "access",
+   "text": "지하철 2호선·8호선 잠실역 4번 출구 쪽으로 오면 되고, 잠실역에서 지하로 바로 연결된다.",
+   "original_text": null,
+   "value": "잠실역 4번 출구",
+   "verdict": "verified",
+   "verify_note": "Location page bundle: 2·8호선 잠실역 4번 출구. FAQ pageIndex=2: connected underground (3, 4번 출구 방향)",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/kor/usage-guide/service/location/index.do",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=2",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c3",
+   "field": "access",
+   "text": "버스는 지선 3217·3313·3314·3315·3317·3411·3414·4319번, 광역 1007-1·1100·1700·2000·6900·7007·8001번, 간선 301·341·360·362번, 공항버스 6000·6006·6705·6706A번이 안내되어 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "LOCATION.LOAD strings match all bus numbers",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/kor/usage-guide/service/location/index.do",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c4",
+   "field": "parking",
+   "text": "주차장은 어드벤처·호텔·백화점·마트 4개 구역으로 나뉘며, 입차 시 차량번호를 자동 인식하는 무인주차 시스템이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "FAQ pageIndex=2",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=2",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c5",
+   "field": "parking",
+   "text": "종합이용권 또는 파크이용권을 인증하면 주차 3시간 이하는 무료이고, 3시간을 넘으면 최대 3,000원이다.",
+   "original_text": null,
+   "value": "3시간 무료 / 초과 시 최대 3,000원",
+   "verdict": "verified",
+   "verify_note": "Location page: 3시간 이하 무료, 초과 시 최대 3천원(시간관계 無)",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/kor/usage-guide/service/location/index.do",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c6",
+   "field": "hours",
+   "text": "2026년 10월 11일(일)과 12일(월)은 10:00~21:00, 16일(금)과 17일(토)은 10:00~22:00로 운영 시간이 공식 시스템에 등록되어 있다. 날짜에 따라 시간이 달라지므로 방문일 확인이 필요하다.",
+   "original_text": null,
+   "value": "일~목 10:00-21:00, 금·토 10:00-22:00 (2026-10 기준)",
+   "verdict": "verified",
+   "verify_note": "closed-list API: 10-11/12 10:00-21:00, 10-16/17 10:00-22:00. I sampled other Oct dates through the same endpoint and they follow the same Sun–Thu 21:00 / Fri–Sat 22:00 pattern",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/usage-guide/service/closed-list?storeCd=HC01801&langCd=HC01701&searchDt=2026-10-16",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://adventure.lotteworld.com/kor/usage-guide/service/index.do",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c7",
+   "field": "hours",
+   "text": "매표와 입장은 영업 종료 1시간 전에 마감한다. 연간이용권도 폐장 1시간 전까지 입장할 수 있다.",
+   "original_text": null,
+   "value": "종료 1시간 전",
+   "verdict": "verified",
+   "verify_note": "OPER.INFO text: 매표 및 입장마감 영업종료 1시간 전. The annual-pass FAQ item has moved to pageIndex=7 (not 5); update the URL",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/kor/usage-guide/service/index.do",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=5",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c8",
+   "field": "closed_days",
+   "text": "365일 연중무휴로 운영한다. 다만 어트랙션별 정기운휴가 있으니 방문일의 운휴 시설을 공식 홈페이지에서 확인해야 한다.",
+   "original_text": "365일 연중무휴로 운영한다. 다만 어트랙션별 정기운휴가 있어 7일 단위로 공지된다.",
+   "value": "연중무휴",
+   "verdict": "corrected",
+   "verify_note": "FAQ p1 supports 365일 연중무휴. No official page says closures are '7일 단위로 공지'. The closed-list API shows per-attraction 정기운휴 on a 2026-09-11~10-31 calendar",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=1",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c9",
+   "field": "caution",
+   "text": "어드벤처는 천장이 유리돔인 실내 공간이라 날씨와 무관하게 이용할 수 있지만, 야외 매직아일랜드 일부 어트랙션은 강한 비·눈, 낮은 기온, 강풍 때 운행이 중단될 수 있다. 현장 상황에 따라 예고 없이 운휴·점검이 있을 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "FAQ p1 plus OPER.INFO text (see conflicts for thresholds)",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/kor/usage-guide/service/index.do",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=1",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c10",
+   "field": "fees",
+   "text": "이용권은 종합이용권, 파크이용권, 연간이용권으로 나뉜다. 종합이용권·연간이용권은 입장+어트랙션+민속박물관, 파크이용권은 입장+어트랙션이 포함되며 유료시설은 별도 비용이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "FAQ pageIndex=2",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=2",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c11",
+   "field": "fees",
+   "text": "연령 구분은 만 36개월 미만 유아(무료 입장), 어린이(36개월 이상~만 12세), 청소년(만 13~18세), 어른(만 19세 이상)이다. 유아용 어트랙션 탑승에는 베이비 티켓이 필요하다(12개월 미만은 어트랙션 무료).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "FAQ pageIndex=2",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=2",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c12",
+   "field": "fees",
+   "text": "할인 증빙은 실물 원본 제시가 원칙이다. 경로는 신분증·여권·경로우대증, 장애인은 복지카드, 군인은 모바일 휴가증 등이 필요하고 촬영본·캡처본은 제한될 수 있다. 장애인은 복지카드 제시 시 본인과 동반 1인이 우대를 받는다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Item now at FAQ pageIndex=3 (cited 2); disabled-person page bundle: 본인+동반 1인, 다른 우대와 중복 불가",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=2",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://adventure.lotteworld.com/kor/usage-guide/service/convenient-facilities/disabled-person/index.do",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c13",
+   "field": "reservation",
+   "text": "온라인 예매를 하면 앱의 마이티켓에 모바일 티켓(QR)이 생기고 지류 발권 없이 게이트로 입장한다. 2G 폰은 모바일 티켓을 쓸 수 없어 현장에서 구매해야 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Item now at FAQ pageIndex=3 (cited 2)",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=2",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c14",
+   "field": "payment",
+   "text": "티켓 구입 시 체크카드 결제가 가능하다(제휴 할인은 제휴카드에 한함).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Item now at FAQ pageIndex=3 (cited 2)",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=2",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c15",
+   "field": "reservation",
+   "text": "탑승예약제는 스페인해적선, 후렌치레볼루션, 어린이 동화극장, 키즈토리아 4종에서 운영한다. 좌석이 아닌 인원·시간만 예약하며 모바일 예약은 불가하다.",
+   "original_text": null,
+   "value": "4종",
+   "verdict": "verified",
+   "verify_note": "Item now at FAQ pageIndex=7 (cited 5). Booking times: 해적선·후렌치 10/13/17시, 키즈토리아 11/16시",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=5",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c16",
+   "field": "reservation",
+   "text": "매직패스는 별도 예약 없이 어트랙션을 빠르게 이용하는 5회권으로, 앱에서 구매한다. 구매 당일만 쓸 수 있고 1인 4매까지 살 수 있다.",
+   "original_text": null,
+   "value": "5회권",
+   "verdict": "verified",
+   "verify_note": "FAQ pageIndex=3. Sold only to 종합/파크/연간 holders. See conflict on same-day use",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=3",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c17",
+   "field": "caution",
+   "text": "파크에 한 번 나가면 원칙적으로 재입장이 안 된다. 아이스링크 이용객, 저자거리·민속박물관 이용객(3층 민속관 게이트), 의무실 진단 후 외부 의료기관을 가는 경우만 예외다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "FAQ pageIndex=1",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=1",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c18",
+   "field": "caution",
+   "text": "주류와 냄새가 심한 일부 음식을 제외한 외부 음식은 반입할 수 있으며, 어드벤처 1층에 피크닉 장소가 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Item now at FAQ pageIndex=2 (cited 1); picnic area at 1층 회전바구니 출구 옆 계단",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=1",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c19",
+   "field": "caution",
+   "text": "애완동물(안내견·도우미견 제외), 주류·불법약품, 버너, 전문 촬영장비(대형 삼각대·사다리), 드론, 자전거·킥보드·전동휠, 돗자리는 가지고 입장할 수 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "GUIDE.PARK strings. Also banned: 인라인·스쿠터·어린이 전동차, RC toys. 1인용 방석·접이식 의자 are allowed",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/kor/usage-guide/service/index.do",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c20",
+   "field": "caution",
+   "text": "파크 전 구역이 금연이며 흡연은 매직아일랜드 자이로스윙 입구 왼쪽 흡연실에서만 가능하다. 음주 후 어트랙션 탑승은 불가하다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "GUIDE.PARK: smoking room behind 자이로스윙 입구 좌측(석촌호수변); 음주 후 탑승 불가",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/kor/usage-guide/service/index.do",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c21",
+   "field": "caution",
+   "text": "어트랙션마다 탑승 기준이 있으니 지켜야 한다. 깁스를 한 채 움직임이 큰 어트랙션을 타면 2차 부상이 우려되어 직원이 탑승을 막을 수 있다.",
+   "original_text": "어트랙션마다 키·나이 등 탑승 기준이 있고, 임산부·디스크 환자·고령자·심혈관 질환자 등은 탑승이 제한될 수 있다. 깁스를 한 채 움직임이 큰 어트랙션을 타면 직원이 제지할 수 있다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "The cast part is on FAQ pageIndex=2 (not 1). No cited page lists 임산부·디스크·고령자·심혈관 restrictions. Those appear only as per-attraction icons, and 심혈관 does not appear at all",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=1",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c22",
+   "field": "language",
+   "text": "가이드맵을 국문·영문·중국어·일본어로 내려받을 수 있다.",
+   "original_text": null,
+   "value": "ko/en/zh/ja",
+   "verdict": "verified",
+   "verify_note": "GUIDE.MAP strings: 국문/English/乐园指南/日本語",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/kor/usage-guide/service/guide-map/index.do",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c23",
+   "field": "caution",
+   "text": "1층 손님상담실에서 휠체어를 무료로 빌려준다. 보증금 10,000원과 신분증 보관이 필요하다.",
+   "original_text": null,
+   "value": "보증금 10000 KRW",
+   "verdict": "verified",
+   "verify_note": "DISABLED.PERSON: 무료, 보증금 10,000원(신분증 보관), 어드벤처 1층 손님상담실",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/kor/usage-guide/service/convenient-facilities/disabled-person/index.do",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c24",
+   "field": "description",
+   "text": "어드벤처는 천장이 유리돔인 실내 공간이고 매직아일랜드는 야외 시설이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "FAQ pageIndex=1",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=1",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c25",
+   "field": "highlight",
+   "text": "민속박물관은 구석기시대부터 일제강점기까지의 역사를 유물 전시와 모형으로 보여주며 종합이용권으로 입장할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "Item now at FAQ pageIndex=10 (cited 7); 파크이용권 제외",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=7",
+     "type": "operator",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-s1",
+   "field": "payment",
+   "text": "롯데백화점 상품권과 롯데호텔 상품권(사용처에 롯데월드 어드벤처 기재)을 쓸 수 있다. 클린카드(청소년·법인카드)는 사용이 일부 제한될 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=3",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-s2",
+   "field": "reservation",
+   "text": "매직패스 Premium은 방문 2일 전 00시부터 전날 23:59까지 앱에서 사전 예매할 수 있다. 모든 권종은 당일 08:30부터 앱에서 판매한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=3",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-s3",
+   "field": "reservation",
+   "text": "온라인 예매는 매월 1일 00시부터 다음 달 상품을 판매한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/api/adventure/communication/faq/faq-tab-content?storeCd=HC01801&langCd=HC01701&pageIndex=5",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-s4",
+   "field": "caution",
+   "text": "기온 0℃ 이하 또는 30℃ 이상, 풍속 7~14㎧ 이상, 0.2㎜ 이상 비가 오면 매직아일랜드 일부 어트랙션 운행이 중단될 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/kor/usage-guide/service/index.do",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-s5",
+   "field": "caution",
+   "text": "장애인 탑승예약제: 손님상담실에서 복지카드로 본인 확인 후 탑승예약카드를 받아 어트랙션별로 예약한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://adventure.lotteworld.com/kor/usage-guide/service/convenient-facilities/disabled-person/index.do",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "pilot1",
+   "text": "Magic Island weather threshold: the FAQ (pageIndex=1) says 영하 5도 이하 and 초속 7m/s 이상. The operations page (OPER.INFO) says 0℃ 이하 또는 30℃ 이상, 7~14㎧, 0.2㎜ 비"
+  },
+  {
+   "run": "pilot1",
+   "text": "Magic Pass: the FAQ says the ticket is '구매 당일만 사용 가능', but the next FAQ item allows Premium to be bought 2 days ahead"
+  },
+  {
+   "run": "pilot1",
+   "text": "Subway exit: the location page says 잠실역 4번 출구, while FAQ pageIndex=2 says '3, 4번 출구 방향'"
+  },
+  {
+   "run": "pilot1",
+   "text": "The FAQ API pagination has shifted. Several cited pageIndex values no longer contain the cited item (c7, c12–c15, c18, c21, c25). Cite the item, not the page number"
+  },
+  {
+   "run": "pilot1",
+   "text": "The HTML pages are a JS-rendered SPA. They were verified from the official JS bundle served by adventure.lotteworld.com and from the official JSON APIs"
+  },
+  {
+   "run": "pilot1",
+   "text": "Base ticket prices (fees.base_price) were not reachable: the price API was not found in 2 lookups"
+  }
+ ],
+ "legacy": null,
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": [
+   {
+    "run": "pilot1",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 25,
+    "verdicts": {
+     "verified": 23,
+     "corrected": 2,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 5
+    }
+   }
+  ]
+ },
+ "open_questions": [
+  {
+   "topic": "crowd_periods",
+   "note": "혼잡 시기에 대한 공식 안내를 찾지 못함",
+   "run": "pilot1"
+  },
+  {
+   "topic": "source_access_note",
+   "note": "adventure.lotteworld.com 은 자바스크립트로 그려지는 페이지라 일반 HTML 조회로는 본문이 비어 보임. 본문 값은 사이트가 쓰는 공개 API(/api/...) 응답과 사이트 번들의 문구에서 확인했고, 검증자도 해당 API URL로 대조해야 함. 페이지 갱신일 표기 없음",
+   "run": "pilot1"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [],
+  "fixed_by": null,
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "pilot1"
+ }
+}

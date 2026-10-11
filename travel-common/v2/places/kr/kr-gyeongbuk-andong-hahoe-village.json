@@ -1,0 +1,199 @@
+{
+ "id": "kr-gyeongbuk-andong-hahoe-village",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "안동 하회마을",
+  "local": "안동 하회마을"
+ },
+ "admin_region": "경상북도",
+ "former_region": null,
+ "city": "안동시 풍천면 하회리",
+ "address": null,
+ "coord": {
+  "lat": 36.539027,
+  "lng": 128.518095,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/548195691"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongbuk-andong-hahoe-village",
+   "name_ko": "안동 하회마을",
+   "region": "경북",
+   "admin_region": "경상북도",
+   "locality": "안동시 풍천면 하회리",
+   "type": [
+    "역사마을",
+    "세계유산"
+   ],
+   "highlights": [
+    "기와집·초가·정사·종가가 함께 남아 있어 조선시대 씨족마을의 공간 구성을 살필 수 있다. 집 한 채보다 길과 집들의 배치를 함께 보는 관람이 어울린다.",
+    "낙동강이 마을을 감싸 흐르는 지형이 하회라는 이름의 배경이다. 강과 마을을 따로 보지 않고 정자·고택 주변 풍경까지 묶어 본다.",
+    "별신굿탈놀이와 하회탈은 건축 외에 살아 있는 전통문화를 이해하는 열쇠다. 부용대·옥연정사·병산서원은 안동 공식 하회마을 코스의 연계 후보다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을 낮",
+    "reason": "마을길과 강변을 걷기에 편한 시기를 택한 편집 추천이다. 탈춤이나 줄불놀이 공연일을 보장하지 않는다.",
+    "basis": "editorial_recommendation_based_on_verified_features"
+   },
+   "visit_tips": [
+    "주민이 살아가는 마을이므로 열린 관람구역과 사유공간을 구별하고 문이 열려 있어도 임의로 들어가지 않는다.",
+    "안동관광은 하회마을 주차와 셔틀버스를 무료로 안내한다. 셔틀 배차·막차는 방문일 확인하며 관람 종료 직전 도착하지 않도록 한다.",
+    "부용대·병산서원을 연계할 때는 마을 입장과 동일 동선·동일 표로 이용하는 시설이라고 가정하지 않는다. 공연 목적이라면 당일 공연 장소·시간부터 확인한다."
+   ],
+   "operational": {
+    "notes": [
+     "안동관광 관람시간표: 4~9월 09:00~17:30, 10~3월 09:00~16:30, 연중무휴. 별도 입장마감 여부는 표에서 구분되지 않아 단정하지 않는다.",
+     "일반 개인 관람료는 성인 5,000원·청소년/군인 2,500원·어린이 1,500원. 페이지상 연령은 성인 19~64세·청소년 13~18세·어린이 7~12세, 감면은 증빙 및 적용조건 확인."
+    ]
+   },
+   "unverified_items": [
+    "별도 입장마감 시각",
+    "방문일 셔틀 배차·막차",
+    "하회별신굿탈놀이·선유줄불놀이 현행 일정·요금·예약"
+   ],
+   "sources": [
+    {
+     "url": "https://whc.unesco.org/en/list/1324/",
+     "title": "UNESCO 한국의 역사마을 하회와 양동",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "씨족마을 구성과 유교적 배치, 자연 경관"
+    },
+    {
+     "url": "https://new.tourandong.com/public/sub1/sub1.cshtml?seq=196",
+     "title": "안동관광 하회마을 코스·상세",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "하회 지명·주민 전통·고택과 주변 연계"
+    },
+    {
+     "url": "https://new.tourandong.com/public/sub5/sub2.cshtml",
+     "title": "안동관광 관람요금",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "개인요금·연령 조건·주차 및 셔틀 무료"
+    },
+    {
+     "url": "https://new.tourandong.com/public/sub5/sub2_2.cshtml",
+     "title": "안동관광 관람시간",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "하회마을 행의 월별 시간·연중무휴"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/06_경북대구/안동 하회마을.md",
+   "document_path": "korea-travel/06_경북대구/안동 하회마을.md",
+   "path": "korea-travel/06_경북대구/안동 하회마을.md",
+   "count_as_independent": true,
+   "relation_type": "destination",
+   "relation_note": "명명된 역사마을 단일 방문지로 1건. 마을 안 고택·공연·인근 부용대를 각각 가산하지 않는다.",
+   "related_catalog_ids": [],
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification",
+   "editorial_region": "06_경북대구"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

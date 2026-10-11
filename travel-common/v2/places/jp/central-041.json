@@ -1,0 +1,174 @@
+{
+ "id": "central-041",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "히코네성",
+  "local": "彦根城"
+ },
+ "admin_region": "시가",
+ "former_region": null,
+ "city": "히코네시",
+ "address": null,
+ "coord": {
+  "lat": 35.277101,
+  "lng": 136.251717,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/209262408"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-041",
+   "name_ko": "히코네성",
+   "name_ja": "彦根城",
+   "region": "간사이",
+   "prefecture": "시가",
+   "city": "히코네시",
+   "category": "성·정원",
+   "description": "천수와 망루를 살펴보고 겐큐엔 정원까지 이어 볼 수 있는 성곽이다. 입장권에 포함되는 정원과 별도 박물관을 구별하면 건축·정원 중심 또는 유물 중심으로 방문을 조절할 수 있다. 오래된 방어시설은 계단과 경사가 있어 느린 관람 속도를 예상한다.",
+   "highlights": [
+    "천수 내부와 외관",
+    "덴빈야구라 등 망루",
+    "입장권에 포함된 겐큐엔"
+   ],
+   "best_time": "봄·가을 성곽·정원 산책을 편집 추천. 가을 야간공개는 낮 표와 별도다.",
+   "visit_tips": [
+    "성+겐큐엔 표와 박물관 포함 세트의 차액을 비교한다.",
+    "건물 내부는 전체 폐장보다 이른 16:45 종료로 안내된다.",
+    "2026-10월부터 박물관 계절시간이 바뀌므로 성과 박물관 시간을 동일하다고 쓰지 않는다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://hikonecastle.com/information.html",
+     "title": "Hikone Castle: Admission Information",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "성·정원·박물관 요금",
+      "건물시간"
+     ]
+    },
+    {
+     "url": "https://hikone-castle-museum.jp/en/guide/",
+     "title": "Hikone Castle Museum: Visitor Information",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "2026 박물관 시간 변경",
+      "세트표"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "성 자체 2026-10 이후 시간개정 여부는 박물관 변경과 구분해 재확인",
+    "야간공개 예약"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "성 공식 안내 8:30~17:00·입장 16:30, 건물 내부 16:45 종료. 성+겐큐엔 일반 1,000엔·초중학생 300엔. 박물관 포함 세트 1,500엔·550엔. 박물관은 2026-10월부터 별도 계절시간 안내 존재."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

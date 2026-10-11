@@ -1,0 +1,197 @@
+{
+ "id": "nature-sy-03",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "남산문화관광구",
+  "local": "南山文化旅游区"
+ },
+ "admin_region": "하이난성",
+ "former_region": null,
+ "city": "싼야 야저우구",
+ "address": null,
+ "coord": {
+  "lat": 18.300091,
+  "lng": 109.206633,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "way/1300132266"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-sy-03",
+   "name_ko": "남산문화관광구",
+   "name_local": "南山文化旅游区",
+   "city": "싼야 야저우구",
+   "province": "하이난성",
+   "region": "싼야·하이난 남부",
+   "destination_cluster": "싼야·하이난 남부",
+   "category": "불교문화·해안",
+   "description": "해안에 세워진 108m 관음상과 남산사, 정원 길을 둘러보는 문화 관광구다. 바다 전망만 보는 장소라기보다 넓은 공간에서 불교 건축과 조경을 함께 감상하는 곳이다. 종교 공간의 예절을 지키면서 그늘길과 휴식 시간을 넣으면 부담을 줄일 수 있다.",
+   "best_time": {
+    "period": "겨울의 오전",
+    "reason": "관광국 겨울 문화 일정에 포함된 곳이다. 넓은 야외 공간을 걷는 특성상 아침 방문을 편집 추천한다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "08:00–17:00",
+    "fees": "입장·전동차·식사 요금 미확인",
+    "reservation": "안내 전화 0898-88837985; 외국인 예약 방식 미확인"
+   },
+   "sources": [
+    {
+     "url": "https://www.visitsanya.com/destination/nanshan-culture-tourism-zone",
+     "title": "싼야 관광발전국: 남산문화관광구",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "108m 관음상·남산사·정원",
+      "08:00–17:00"
+     ]
+    },
+    {
+     "url": "https://www.visitsanya.com/planning/travel-guide/before-you-go/best-time-to-travel",
+     "title": "싼야 관광발전국: 방문 시기",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "겨울 따뜻한 날씨",
+      "봄 숲 산책",
+      "겨울 루후이터우 일몰 추천"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "counting_scope": "개별 방문 목적지 1곳; 내부 포인트는 추가 집계하지 않음",
+   "selection_tier": "도시 방문수요 확인",
+   "collection_group": "nature",
+   "highlights": [
+    "108m 해상 관음상",
+    "남산사",
+    "해안 정원 산책"
+   ],
+   "visit_tips": [
+    "종교 공간의 복장·사진 안내를 따른다",
+    "전동차와 특별 전시·식사 포함 여부를 확인한다",
+    "이동거리를 고려해 다른 먼 해안 명소와 과밀하게 묶지 않는다"
+   ],
+   "counting_note": "개별 방문 목적지 1곳; 내부 포인트는 추가 집계하지 않음",
+   "original_region": "싼야·하이난 남부",
+   "selection_region_id": "sanya",
+   "selection_evidence_ids": [
+    "SEL04",
+    "SEL02"
+   ],
+   "selection_scope_caution": "한국인 비중·순위 미공개. 휴양 다양화를 위한 편집 선정이며 하이난 전역 인기 주장 금지.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

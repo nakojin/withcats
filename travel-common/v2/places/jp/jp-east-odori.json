@@ -1,0 +1,179 @@
+{
+ "id": "jp-east-odori",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "오도리 공원",
+  "local": "大通公園"
+ },
+ "admin_region": "홋카이도",
+ "former_region": null,
+ "city": "삿포로시",
+ "address": null,
+ "coord": {
+  "lat": 43.059902,
+  "lng": 141.34751,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/64733385"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-odori",
+   "name_ko": "오도리 공원",
+   "name_ja": "大通公園",
+   "region": "홋카이도",
+   "prefecture": "홋카이도",
+   "city": "삿포로시",
+   "category": "도시공원",
+   "description": "삿포로 도심을 동서로 가로지르는 약 1.5km의 공원이다. 1871년 방화용 공지에서 출발했으며 지금은 계절 행사와 시민 산책이 만나는 공간이다. 한 지점만 찍고 떠나기보다 블록별로 다른 분수와 화단, 조각을 비교하면 도시의 일상을 보기 좋다.",
+   "highlights": [
+    "니시 3~5·7·11초메의 분수",
+    "니시 8초메 이사무 노구치의 Black Slide Mantra",
+    "동쪽 TV타워를 배경으로 한 긴 녹지축"
+   ],
+   "best_time": "초여름~가을은 화단과 분수를 따라 걷기 좋고 겨울은 눈축제·일루미네이션 목적에 맞는다. 행사 날짜는 별도 확인.",
+   "visit_tips": [
+    "공원 전체를 볼지 동쪽 몇 블록만 볼지 먼저 정해 걷는 양을 조절한다.",
+    "니시 7초메 안내소의 외국어 지원을 활용한다.",
+    "축제 설치 기간에는 평소 산책 동선과 달라질 수 있어 현장 안내를 따른다."
+   ],
+   "hours_and_fees": {
+    "hours": "사파로 TV타워 전망대 09:00–22:00, 전망 최종입장 21:50 (오도리 공원 자체의 개방시간·분수 가동시간은 공식 페이지에 기재 없음)",
+    "fees": "사파로 TV타워 전망대: 성인(고교생 이상) 1,200엔, 어린이(초·중학생) 600엔, 미취학 아동 무료 (삿포로 시민 성인 800엔/어린이 400엔, 단체 15명 이상 성인 900엔/어린이 500엔)",
+    "conditions": "이벤트에 따라 영업시간 변경 가능. TV타워 전관 휴업일: 2026-11-11(수) 종일, 2027-01-01(금) 종일(2026-04-08은 이미 지남). 전망대 입장권은 3층 매표소. 데이&나이트 티켓(3일 내 2회) 성인 1,700엔/어린이 800엔, 삿포로 시계탑 공통권 성인 1,300엔(2027-03-31까지 유효). 오도리 공원은 입장료 개념 없음(공식 페이지에 무료 명시는 없음)",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "오도리 공원의 개방시간·분수 가동 기간",
+    "2026~2027 행사 일정"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://odori-park.jp/en/",
+     "title": "Guide of Odori Park",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "공원 길이와 역사",
+      "분수·조각·안내소 위치",
+      "계절 행사",
+      "운영시간"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.tv-tower.co.jp/pricetime.html",
+     "title": "展望台入場料金・営業時間 | さっぽろテレビ塔",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간",
+      "요금",
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

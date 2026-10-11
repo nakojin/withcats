@@ -1,0 +1,200 @@
+{
+ "id": "nature-sy-05",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "루후이터우 녹회두 공원",
+  "local": "鹿回头风景区"
+ },
+ "admin_region": "하이난성",
+ "former_region": null,
+ "city": "싼야 지양구",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-sy-05",
+   "name_ko": "루후이터우 녹회두 공원",
+   "name_local": "鹿回头风景区",
+   "city": "싼야 지양구",
+   "province": "하이난성",
+   "region": "싼야·하이난 남부",
+   "destination_cluster": "싼야·하이난 남부",
+   "category": "도심 전망·공원",
+   "description": "리족 사랑 전설을 담은 사슴 조형물과 바다·도시 전망을 함께 보는 언덕 공원이다. 해변과 도심의 모양을 한눈에 파악하기 좋아 여행 초반이나 야경 일정에 넣기 알맞다. 대형 산악 트레킹보다는 전망을 즐기는 산책 성격이 강하다.",
+   "best_time": {
+    "period": "겨울 일몰 전후",
+    "reason": "관광국이 겨울 루후이터우 일몰을 추천한다. 낮 풍경과 도시 불빛을 함께 보기 위한 편집 제안이다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "08:00–22:30",
+    "fees": "관광국 안내상 기본 입장 무료; 카트 등 비용 미확인",
+    "reservation": "외국인 여권 예약·현장 발권·결제 수단 미확인"
+   },
+   "sources": [
+    {
+     "url": "https://www.visitsanya.com/destination/luhuitou-park",
+     "title": "싼야 관광발전국: 루후이터우",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "사랑 전설·사슴상",
+      "전망과 산책길",
+      "08:00–22:30"
+     ]
+    },
+    {
+     "url": "https://www.visitsanya.com/event/15370.html?language=thai",
+     "title": "싼야 관광발전국: 춘절 가성비 여행 안내",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "루후이터우·톈야하이자오 기본 입장 무료",
+      "유료 체험과 다른 명소 구분"
+     ]
+    },
+    {
+     "url": "https://www.visitsanya.com/planning/travel-guide/before-you-go/best-time-to-travel",
+     "title": "싼야 관광발전국: 방문 시기",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "겨울 따뜻한 날씨",
+      "봄 숲 산책",
+      "겨울 루후이터우 일몰 추천"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "counting_scope": "개별 방문 목적지 1곳; 내부 포인트는 추가 집계하지 않음",
+   "selection_tier": "도시 방문수요 확인",
+   "collection_group": "nature",
+   "highlights": [
+    "사슴 조형물",
+    "도시와 만 전망",
+    "일몰 후 야경"
+   ],
+   "visit_tips": [
+    "일몰 전에 올라갈 여유를 둔다",
+    "무료 기본 입장과 이동차량 비용을 구분한다",
+    "밤에는 계단·귀환 교통을 확인한다"
+   ],
+   "counting_note": "개별 방문 목적지 1곳; 내부 포인트는 추가 집계하지 않음",
+   "original_region": "싼야·하이난 남부",
+   "selection_region_id": "sanya",
+   "selection_evidence_ids": [
+    "SEL04",
+    "SEL02"
+   ],
+   "selection_scope_caution": "한국인 비중·순위 미공개. 휴양 다양화를 위한 편집 선정이며 하이난 전역 인기 주장 금지.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

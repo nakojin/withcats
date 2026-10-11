@@ -1,0 +1,207 @@
+{
+ "id": "nature-sy-07",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "시다오 서도",
+  "local": "西岛"
+ },
+ "admin_region": "하이난성",
+ "former_region": null,
+ "city": "싼야 톈야구",
+ "address": null,
+ "coord": {
+  "lat": 18.236267,
+  "lng": 109.370432,
+  "geo_type": "point",
+  "precision": "place",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "relation/9443829"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "nature-sy-07",
+   "name_ko": "시다오 서도",
+   "name_local": "西岛",
+   "city": "싼야 톈야구",
+   "province": "하이난성",
+   "region": "싼야·하이난 남부",
+   "destination_cluster": "싼야·하이난 남부",
+   "category": "섬·어촌",
+   "description": "싼야만 서쪽의 섬으로 어촌 골목과 해안 풍경, 수상 체험이 함께 있다. 동쪽 어촌의 생활 풍경과 벽화·해변 산책이 대형 해양 놀이 중심 섬과 다른 매력이다. 어촌 자체의 상시 접근 안내를 왕복 선박 24시간 운항으로 해석해서는 안 된다.",
+   "best_time": {
+    "period": "겨울·봄의 안정적인 해황, 낮 시간",
+    "reason": "섬 산책과 배편 계획을 함께 고려한 편집 추천이다. 늦은 오후 사진을 원하면 귀환 가능시각을 먼저 확인한다.",
+    "basis": "본문 근거 및 여행 편집 제안; 기상·개방 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "currency": "CNY",
+    "hours": "어촌 안내는 연중24시간이나 섬 선박·관광구 검표시간 미확인",
+    "fees": "입장·왕복선·전동차 현재 요금 미확인",
+    "reservation": "외국인 여권 예약·현장 발권·결제 수단 미확인"
+   },
+   "sources": [
+    {
+     "url": "https://www.visitsanya.com/destination/west-island",
+     "title": "싼야 관광발전국: 서도",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "싼야만 서쪽 섬",
+      "어촌·벽화·수상활동"
+     ]
+    },
+    {
+     "url": "https://www.visitsanya.com/destination/west-island-fishing-village",
+     "title": "싼야 관광발전국: 서도 어촌",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "동쪽 어촌의 골목·어업 생활",
+      "어촌 페이지 24시간 표기는 선박 시간 아님"
+     ]
+    },
+    {
+     "url": "https://www.visitsanya.com/planning/travel-guide/before-you-go/best-time-to-travel",
+     "title": "싼야 관광발전국: 방문 시기",
+     "checked_at": "2026-10-10",
+     "verification": "공식/운영 주체 웹페이지 본문 열람",
+     "supported_facts": [
+      "겨울 따뜻한 날씨",
+      "봄 숲 산책",
+      "겨울 루후이터우 일몰 추천"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 개방 상태",
+    "한국 여권 예약·검표 절차",
+    "방문일 적용 요금 및 결제 수단"
+   ],
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "counting_scope": "서도 섬과 어촌을 합쳐 1곳으로 집계",
+   "selection_tier": "도시 방문수요 확인",
+   "collection_group": "nature",
+   "highlights": [
+    "어촌 골목",
+    "벽화와 해안 길",
+    "섬 전망·바닷가 휴식"
+   ],
+   "visit_tips": [
+    "선착장 위치와 마지막 배를 예약 전에 확인한다",
+    "주민 생활 공간에서는 촬영 예절을 지킨다",
+    "전동차·수상활동은 입장+선표와 별도 확인한다"
+   ],
+   "counting_note": "서도 섬과 어촌을 합쳐 1곳으로 집계",
+   "original_region": "싼야·하이난 남부",
+   "selection_region_id": "sanya",
+   "selection_evidence_ids": [
+    "SEL04",
+    "SEL02"
+   ],
+   "selection_scope_caution": "한국인 비중·순위 미공개. 휴양 다양화를 위한 편집 선정이며 하이난 전역 인기 주장 금지.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

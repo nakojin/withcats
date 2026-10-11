@@ -1,0 +1,196 @@
+{
+ "id": "cd-dujiangyan",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "두장옌 수리시설",
+  "local": "都江堰景区"
+ },
+ "admin_region": "쓰촨성",
+ "former_region": null,
+ "city": "두장옌",
+ "address": null,
+ "coord": {
+  "lat": 31.003438,
+  "lng": 103.609305,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/412705835"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "cd-dujiangyan",
+   "name_ko": "두장옌 수리시설",
+   "name_local": "都江堰景区",
+   "city": "두장옌",
+   "province": "쓰촨성",
+   "region": "청두",
+   "destination_cluster": "청두·두장옌",
+   "category": "수리유산·경관",
+   "description": "민강의 물을 나누어 청두 평야로 보내는 고대 수리시설로 오늘날에도 기능하는 살아 있는 유산이다. 수로와 지형을 이해한 뒤 전망 지점에서 물의 흐름을 보면 사진만 찍을 때보다 인상적인 방문이 된다.",
+   "best_time": {
+    "period": "봄·가을 맑은 낮",
+    "reason": "수로를 밝은 시간에 살피고 야외 보행을 여유 있게 하기 좋다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "1~2월 08:00~17:00; 3~12월 08:00~18:00, 당일판매 17:30 마감.",
+    "price": "성인 80; 관광차·에스컬레이터·해설 제외",
+    "currency": "CNY",
+    "reservation": "운영사 공식 관광사이트: 외국인은 여권 또는 외국인거류증으로 구매하고 수동통로 검표, 현장 창구에서 관련 증명서 제시 가능.",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://whc.unesco.org/en/list/1001/",
+     "title": "UNESCO 청성산·두장옌",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "수리시설 역사·기능",
+      "어취·비사언·보병구"
+     ]
+    },
+    {
+     "url": "https://www.djy517.com/online.html?channelCode=mpyd",
+     "title": "두장옌 관광 운영사 티켓 안내",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "80 CNY",
+      "시간",
+      "외국인 여권·현장·수동검표",
+      "추가요금 제외"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "당일 기상·수위 통제",
+    "개별 교통시설 요금",
+    "결제수단"
+   ],
+   "status": "operations_reconfirmation_needed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "핵심 정성 수요 확인",
+   "collection_group": "history",
+   "highlights": [
+    "어취 분수제",
+    "비사언",
+    "보병구"
+   ],
+   "visit_tips": [
+    "공식 권장 약 3시간을 확보한다",
+    "관광차·에스컬레이터·해설은 별도 비용이다",
+    "폭우·수위 관련 통제는 당일 확인한다"
+   ],
+   "original_region": "서남",
+   "selection_region_id": "chengdu",
+   "selection_evidence_ids": [
+    "SEL03"
+   ],
+   "selection_scope_caution": "러산·두장옌 등은 청두 밖 연계지이며 청두 수요를 모든 쓰촨 명소에 일반화하지 않는다.",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

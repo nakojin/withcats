@@ -1,0 +1,163 @@
+{
+ "id": "kr-gyeongbuk-bulguksa-seokguram-group",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "경주 불국사·석굴암",
+  "local": "경주 불국사·석굴암"
+ },
+ "admin_region": "경상북도",
+ "former_region": null,
+ "city": "경주 토함산 일대의 별도 사찰·석굴 시설",
+ "address": null,
+ "coord": {
+  "lat": 35.788995,
+  "lng": 129.33089,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/382655135"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongbuk-bulguksa-seokguram-group",
+   "name_ko": "경주 불국사·석굴암",
+   "region": "경북",
+   "admin_region": "경상북도",
+   "locality": "경주 토함산 일대의 별도 사찰·석굴 시설",
+   "type": [
+    "불교유산",
+    "복합 여행코스"
+   ],
+   "highlights": [
+    "불국사에서 다보탑·석가탑과 청운교·백운교 등 석조 건축을 살펴본다.",
+    "석굴암은 불국사와 별도 이동이 필요한 관람지다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을. 야외 사찰 관람을 고려한 편집 추천이며 겹벚꽃·단풍 시기는 매년 확인한다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "문화유산에 올라서거나 통제된 돌계단에 진입하지 않고 지정 동선을 따른다.",
+    "불국사와 석굴암을 단일 입장권·동일 위치로 안내하지 않는다."
+   ],
+   "operational": {
+    "notes": [
+     "두 시설의 현재 관람시간·관람료·박물관료·주차료는 각각 운영기관 확인 대기. 2022년 공식 관광기사에 남은 과거 요금을 현행으로 재사용하지 않는다."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=1d4146e7-8d1a-47f0-9db7-80c11c6852bb",
+     "title": "한국관광공사 불국사와 석굴암(2022년 기사)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/06_경북대구/경주 불국사·석굴암.md",
+   "count_as_independent": false,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/06_경북대구/경주 불국사·석굴암.md",
+   "editorial_region": "06_경북대구",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

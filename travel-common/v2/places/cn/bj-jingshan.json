@@ -1,0 +1,186 @@
+{
+ "id": "bj-jingshan",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "징산공원",
+  "local": "景山公园"
+ },
+ "admin_region": "베이징시",
+ "former_region": null,
+ "city": "베이징",
+ "address": null,
+ "coord": {
+  "lat": 39.924459,
+  "lng": 116.390397,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/29201967"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "bj-jingshan",
+   "name_ko": "징산공원",
+   "name_local": "景山公园",
+   "city": "베이징",
+   "province": "베이징시",
+   "region": "베이징",
+   "destination_cluster": "베이징",
+   "category": "전망·황실정원",
+   "description": "자금성 북쪽 언덕에서 궁궐 지붕과 베이징 중축선을 내려다보는 전망 명소다. 짧은 방문에도 조망의 보상이 크지만 만춘정까지 오르는 계단을 고려해야 한다.",
+   "best_time": {
+    "period": "맑은 날 늦은 오후",
+    "reason": "조망 목적이므로 시야가 맑은 날을 우선하고 일몰 전 밝은 시간에 오르는 편이 좋다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "4~10월 06:00~21:00(20:30 마감), 11~3월 06:30~20:00(19:30 마감).",
+    "price": "일반 2; 문화행사 기간 10 안내가 있으나 해당 연도 적용일 재확인 필요",
+    "currency": "CNY",
+    "reservation": "정부 페이지의 외국인 전화예약 안내는 갱신일 불명. 현재 운영자 절차 미확인.",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://english.beijing.gov.cn/specials/parktours/guidevisitors/jingshanpark/index.html",
+     "title": "베이징시 Jingshan Park",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "전망 지점",
+      "시간",
+      "일반·특별요금",
+      "예약 안내의 존재"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "외국인 예약·현장입장 최신 운영자 정책",
+    "행사 적용 기간",
+    "결제수단"
+   ],
+   "status": "operations_reconfirmation_needed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "핵심 정성 수요 확인",
+   "collection_group": "history",
+   "highlights": [
+    "만춘정 전망",
+    "수황전 건축군",
+    "기망루"
+   ],
+   "visit_tips": [
+    "고궁 북쪽 관람 후 연계하기 좋다",
+    "전망대는 계단 구간이 있다",
+    "특별행사 요금과 수황전 관람 조건을 별도로 확인한다"
+   ],
+   "original_region": "화북",
+   "selection_region_id": "beijing",
+   "selection_evidence_ids": [
+    "SEL03"
+   ],
+   "selection_scope_caution": "정량 도시순위 없음; 근교 장성은 연계권역.",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

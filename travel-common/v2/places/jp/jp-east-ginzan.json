@@ -1,0 +1,196 @@
+{
+ "id": "jp-east-ginzan",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "긴잔온천 강변 거리",
+  "local": "銀山温泉・銀山川沿い"
+ },
+ "admin_region": "야마가타",
+ "former_region": null,
+ "city": "오바나자와시",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-ginzan",
+   "name_ko": "긴잔온천 강변 거리",
+   "name_ja": "銀山温泉・銀山川沿い",
+   "region": "도호쿠",
+   "prefecture": "야마가타",
+   "city": "오바나자와시",
+   "category": "온천거리·역사경관",
+   "description": "긴잔강 양편에 목조 료칸이 늘어선 작은 보행 구간이다. 은광에서 비롯된 마을의 배경과 다이쇼 시대를 연상시키는 여관 건축이 핵심이며, 밤의 가스등 풍경과 낮의 건물 디테일을 다르게 볼 수 있다.",
+   "highlights": [
+    "강 양편 목조 료칸 외관",
+    "가스등 아래 수변 풍경",
+    "거리 뒤 시로가네 공원·폭포로 이어지는 길"
+   ],
+   "best_time": "겨울 설경과 등불은 대표 이미지다. 걷기와 주변 자연길이 목적이면 눈 없는 계절이 부담이 적다.",
+   "visit_tips": [
+    "숙박 없이 방문할 경우 겨울 입장·셔틀 규제를 반드시 따로 확인한다.",
+    "차량은 마을 밖 지정 주차를 전제로 하며 료칸 셔틀은 해당 숙소에 문의한다.",
+    "온천욕·대절탕은 거리 산책과 별도이므로 당일 이용 가능 여부를 확인한다."
+   ],
+   "hours_and_fees": {
+    "hours": null,
+    "fees": "공동욕장 시로가네유 성인 500엔, 초등학생 이하 200엔 (오바나자와시 공식 관광 페이지)",
+    "conditions": "시로가네유 영업시간은 시 페이지에 '문의 요망'(긴잔온센 관광안내소 0237-28-3933), 통년 운영 표기. 오모카게유는 현재 휴지 중. 오유(大湯) 08:00–20:00, 1인 300엔(12세 이하·온천가 숙박객 무료, 긴잔온센 공식사이트). 일귀 관광객은 다이쇼로만칸 주차장 이용, 다이쇼로만칸~온천가 입구 셔틀 1일 500엔(시 페이지). 동계 주차장(공동) 적설로 폐쇄, 긴코도 갱도 당분간 폐쇄. 2026년 12월~2027년 3월 초 파크&라이드·자가용 규제·시간대별 입장 조정이 예정되어 있으나 공식 안내는 초안/요확인 상태로 날짜·요금·예약 방법이 확정되지 않았다.",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "시로가네유 현재 영업시간·정기휴일(공식 페이지는 문의 요망)",
+    "외래입욕 시간",
+    "2026~2027 겨울 정책(공식 사이트에 초안/요확인으로 게시)"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/1798/",
+     "title": "JNTO Ginzan Onsen",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "강변 료칸·가스등",
+      "은광 배경",
+      "주차와 오이시다 접근"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.city.obanazawa.yamagata.jp/kanko/kankochi/1346",
+     "title": "銀山温泉 | 尾花沢市",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "요금"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.ginzanonsen.jp/ginzan/walk.html",
+     "title": "銀山温泉 公式サイト | 歴史と温泉",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "요금"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.ginzanonsen.jp/winter/2026/",
+     "title": "2026-2027 冬季交通案内｜銀山温泉 パーク＆ライド・マイカー規制",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.ginzanonsen.jp/blog/archives/541",
+     "title": "銀山温泉 公式サイト | 冬の銀山温泉までのアクセス案内（2025-2026）",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

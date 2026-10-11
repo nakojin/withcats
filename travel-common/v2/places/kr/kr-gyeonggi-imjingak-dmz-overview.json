@@ -1,0 +1,222 @@
+{
+ "id": "kr-gyeonggi-imjingak-dmz-overview",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "임진각·DMZ",
+  "local": "임진각·DMZ"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "경기 파주시 임진각 및 DMZ 평화관광 권역",
+ "address": null,
+ "coord": {
+  "lat": 37.892299,
+  "lng": 126.744001,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/499779122"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-imjingak-dmz-overview",
+   "name_ko": "임진각·DMZ",
+   "region": "02_인천경기",
+   "admin_region": "경기도",
+   "locality": "경기 파주시 임진각 및 DMZ 평화관광 권역",
+   "type": [
+    "역사",
+    "평화관광"
+   ],
+   "highlights": [
+    "임진각에서는 자유의 다리와 철도·전쟁 관련 전시를 통해 한국전쟁과 분단의 흔적을 살펴볼 수 있다.",
+    "망배단은 북쪽에 고향을 둔 실향민의 기억이 담긴 장소다. 평화의 종과 함께 관람하면 이곳이 추모와 평화의 공간인 이유가 드러난다.",
+    "DMZ 평화관광은 제3땅굴·도라전망대 등 통제지역을 방문하는 별도 절차의 관광이다. 임진각 야외 산책과 동일한 출입조건이 아니다."
+   ],
+   "recommended_season": {
+    "text": "야외 이동이 편한 봄·가을 낮. DMZ 방문일은 휴관·안보 통제를 먼저 확인한다.",
+    "reason": "확인된 경관·시설을 바탕으로 한 여행 편집 추천. 개화·단풍 절정이나 행사 개최 보장이 아님.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "DMZ 참여자는 인정되는 신분증을 챙기고 일행 전원이 임진각에 도착한 뒤 발권한다. 캡처·복사본은 인정되지 않는다고 파주시가 안내한다.",
+    "제3땅굴은 내부가 좁고 경사가 가파르다. 계단·경사 이동이 어려운 동행자가 있다면 땅굴 내부를 필수 코스로 잡지 않는다.",
+    "DMZ 평화관광 코스의 사진·영상·드론 촬영은 파주시 안내상 금지다. 지정 동선과 현장 인솔 통제를 따른다."
+   ],
+   "sources": [
+    {
+     "url": "https://www.paju.go.kr/m/tour/place/BD_tourPlaceInfoView.do?areaSe=1001&cntntsSn=2&menuCode=55&q_gubunCode=1001",
+     "title": "파주시: 임진각 관광지",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "자유의 다리·망배단·전쟁 전시·평화의 종"
+     ]
+    },
+    {
+     "url": "https://www.paju.go.kr/m/tour/place/BD_tourPlaceInfoView.do?areaSe=&cntntsSn=374&menuCode=1&q_gubunCode=1004",
+     "title": "파주시: DMZ 평화관광",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "신분증·전원 도착·휴관·발권·촬영 금지·땅굴 경사·통제"
+     ]
+    }
+   ],
+   "operational": {
+    "notes": [
+     "파주시 현행 소개상 DMZ 발권 09:00~14:30, 월요일·주중 공휴일·설/추석 당일 휴관. 매진 시 조기 마감하고 안보·기상 상황으로 예약도 취소될 수 있다.",
+     "예약 안내는 파주시 페이지의 dmz.paju.go.kr 링크에서 확인한다. DMZ 요금·곤돌라 요금과 운행시간·캠프그리브스 입장조건은 미확인."
+    ],
+    "visit_date_reconfirmation_required": true
+   },
+   "record_status": "verified_core_operational_pending",
+   "status": "verified",
+   "baseline_path": "korea-travel/02_인천경기/임진각·DMZ.md",
+   "document_path": "korea-travel/02_인천경기/임진각·DMZ.md",
+   "path": "korea-travel/02_인천경기/임진각·DMZ.md",
+   "count_as_independent": false,
+   "reference_only": true,
+   "relation_note": "기존 도시·섬·복합 방문권의 부모 참고문서. 구성 장소와 중복하여 독립 명소 수에 가산하지 않음.",
+   "components": [
+    {
+     "id": "kr-paju-imjingak",
+     "name": "임진각 관광지",
+     "relation": "component",
+     "parent_id": "kr-gyeonggi-imjingak-dmz-overview"
+    },
+    {
+     "id": "kr-paju-dmz-peace-tour",
+     "name": "DMZ 평화관광",
+     "relation": "component",
+     "parent_id": "kr-gyeonggi-imjingak-dmz-overview"
+    }
+   ],
+   "new_information": [
+    "임진각에서는 자유의 다리와 철도·전쟁 관련 전시를 통해 한국전쟁과 분단의 흔적을 살펴볼 수 있다.",
+    "망배단은 북쪽에 고향을 둔 실향민의 기억이 담긴 장소다. 평화의 종과 함께 관람하면 이곳이 추모와 평화의 공간인 이유가 드러난다.",
+    "DMZ 평화관광은 제3땅굴·도라전망대 등 통제지역을 방문하는 별도 절차의 관광이다. 임진각 야외 산책과 동일한 출입조건이 아니다."
+   ],
+   "original_preserved_at": "korea-travel/research/2026-10-10/baseline-before-review.json",
+   "verification_scope": {
+    "confirmed": [
+     "명칭·위치",
+     "본문 볼거리",
+     "출처별 근거범위"
+    ],
+    "editorial": [
+     "추천시기",
+     "동선·준비 팁"
+    ],
+    "pending": [
+     "방문일 임시휴무·통제",
+     "확정하지 않은 요금·예약·교통"
+    ]
+   },
+   "unique_id": "kr-gyeonggi-imjingak-dmz-overview",
+   "is_parent_reference": true,
+   "existing_catalog_id": null,
+   "editorial_region": "02_인천경기",
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

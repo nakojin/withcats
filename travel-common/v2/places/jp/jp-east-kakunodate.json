@@ -1,0 +1,179 @@
+{
+ "id": "jp-east-kakunodate",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "가쿠노다테 무가저택 거리",
+  "local": "角館武家屋敷通り"
+ },
+ "admin_region": "아키타",
+ "former_region": null,
+ "city": "센보쿠시",
+ "address": null,
+ "coord": {
+  "lat": 40.190736,
+  "lng": 140.791995,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "way/815162885"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-kakunodate",
+   "name_ko": "가쿠노다테 무가저택 거리",
+   "name_ja": "角館武家屋敷通り",
+   "region": "도호쿠",
+   "prefecture": "아키타",
+   "city": "센보쿠시",
+   "category": "역사거리",
+   "description": "17세기 성하도시의 무사 주거 경관을 보여주는 거리다. 넓은 길과 담장, 오래된 주택의 문·정원을 비교하며 걸을 수 있고 일부 저택은 내부 자료를 공개한다. 가쿠노다테 전체가 아닌 무가저택 거리 구간을 한 장소로 정리했다.",
+   "highlights": [
+    "담장과 저택 대문이 이어지는 가로",
+    "공개 저택인 아오야기·이시구로 가옥",
+    "봄의 수양벚나무"
+   ],
+   "best_time": "봄 수양벚꽃철이 대표적이며 잎이 무성한 여름에는 담장과 녹음의 대비를 볼 수 있다.",
+   "visit_tips": [
+    "가쿠노다테역에서 거리까지 도보 약 15~20분을 잡는다.",
+    "모든 집이 공개시설은 아니므로 개인 주택 출입과 촬영 경계를 지킨다.",
+    "저택마다 개관일·입장료가 달라 한 곳을 골라 내부를 깊이 보는 식으로 구성한다."
+   ],
+   "hours_and_fees": {
+    "hours": "이시구로가 4~11월 09:00–17:00, 12~3월 09:00–16:00 / 아오야기가 4~11월 09:00–17:00, 12~3월 09:00–16:00 / 가와라다가 4~11월 09:00–17:00(최종접수 16:30), 12~3월 09:00–16:30(최종접수 16:00)",
+    "fees": "아오야기가 성인 500엔, 중·고교생 300엔, 초등학생 200엔 / 이시구로가 성인(고교생 이상) 500엔, 초·중학생 300엔 / 가와라다가 성인(고교생 이상) 500엔, 초·중학생 300엔",
+    "conditions": "아오야기가 연중무휴. 이시구로가 부정기 휴관. 가와라다가 연말연시 휴관. 단체: 아오야기가(20명 이상) 450/250/150엔, 이시구로가(15명 이상) 400/200엔, 가와라다가(20명 이상) 400/200엔. 이와하시가·오다노가는 4/3~11/30 09:00–16:30 공개기간 중 무휴(요금 미기재), 구마쓰모토가는 4/10~11/10 09:00–16:00 부정기 휴관. 시 모바일 페이지엔 오래된 요금이 남아 있어 불일치 있음",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "무가저택 거리 자체의 개방시간·무료 여부",
+    "개별 저택 요금의 게재 연도(페이지 미표기)",
+    "올해 벚꽃 절정"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/2135/",
+     "title": "JNTO Kakunodate",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "무사 주거 역사",
+      "아오야기·이시구로 공개",
+      "역 도보와 수양벚꽃"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.city.semboku.akita.jp/sightseeing/spot/07_buke.html",
+     "title": "武家屋敷 観光情報 | 仙北市",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간",
+      "요금",
+      "휴관·운휴"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

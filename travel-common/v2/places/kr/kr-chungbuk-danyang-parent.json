@@ -1,0 +1,194 @@
+{
+ "id": "kr-chungbuk-danyang-parent",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "단양",
+  "local": "단양"
+ },
+ "admin_region": "충청북도",
+ "former_region": null,
+ "city": "단양군 단양읍·적성면 관광권",
+ "address": null,
+ "coord": {
+  "lat": 37.000089,
+  "lng": 128.343826,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/6216146531"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-chungbuk-danyang-parent",
+   "name_ko": "단양",
+   "region": "충북",
+   "admin_region": "충청북도",
+   "locality": "단양군 단양읍·적성면 관광권",
+   "type": [
+    "부모관광권",
+    "강변",
+    "동굴",
+    "전망"
+   ],
+   "highlights": [
+    "도담삼봉은 강 가운데 솟은 세 봉우리로 석회암 지형이 빚은 풍경을 본다. 강가에서의 조망과 석문 방향 계단길은 관람 방식이 다르다.",
+    "만천하스카이워크에서는 유리바닥 아래 강과 절벽, 단양 시가지·소백산 방향의 넓은 전망을 비교한다. 짚와이어·알파인코스터는 전망대와 구별되는 체험이다.",
+    "고수동굴은 종유석·석순·동굴진주 등 석회동굴 생성물을 관찰하는 장소다. 강변과 전망대의 큰 풍경을 본 뒤 작은 지질 구조로 시선을 바꿀 수 있다."
+   ],
+   "recommended_season": {
+    "text": "맑은 봄·가을 낮",
+    "reason": "야외 강변과 높은 전망대 시야를 함께 즐기려는 편집 추천. 비·눈·안개 때에는 전망시설 운영을 확인한다.",
+    "basis": "editorial_recommendation_based_on_verified_features"
+   },
+   "visit_tips": [
+    "만천하는 단양읍이 아닌 적성면 옷바위길 10, 고수동굴은 단양읍 고수동굴길 8이다. 기존의 모두 단양읍이라는 표기를 바로잡았다.",
+    "도담삼봉·만천하·고수동굴을 모두 도보로 가까운 곳으로 생각하지 않는다. 강변 일정과 동굴 일정을 나누고 각각 이동편을 정한다.",
+    "전망대와 레저 기구는 이용조건이 다르다. 눈·비·안개 때 중단 가능성이 있어 고소공포가 있거나 보행이 어려운 동행은 대체 일정을 준비한다."
+   ],
+   "operational": {
+    "notes": [
+     "한국관광공사 고수동굴 페이지는 09:00~17:00, 연중무휴, 성인 11,000원·청소년 7,000원·어린이 5,000원을 표기한다. 운영사 홈페이지는 이번 열람에서 시간초과되어 방문일 최종 확인은 남는다.",
+     "만천하 공식 관광정보는 여름 09:00~18:00·겨울 09:00~17:00, 매표 1시간 전 마감을 안내하지만 계절별 적용 월과 시설별 시간이 명확하지 않다. 이번 문서에서 10월 마감시간을 확정하지 않는다."
+    ]
+   },
+   "unverified_items": [
+    "만천하 현행 요금·정기휴무·계절 적용 월·체험별 신체 조건",
+    "고수동굴 최종 입장마감·온라인 할인",
+    "도담삼봉 유람선 및 황포돛배 현행 운항"
+   ],
+   "sources": [
+    {
+     "url": "https://access.visitkorea.or.kr/cos/detail.do?cotId=62fdd082-e4d8-41ff-b5a8-2b3665fcd008",
+     "title": "한국관광공사 열린관광 단양",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "도담삼봉 지형·석문 계단, 만천하 전망 및 날씨 조건. 2023 기사 운영 수치 제외"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=587&vcontsId=34487",
+     "title": "한국관광공사 만천하스카이워크",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "적성면 주소, 유리 전망대·레저시설, 계절 시간 표기"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=110916",
+     "title": "한국관광공사 고수동굴",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": "동굴 생성물, 주소·관광정보 페이지 시간 및 요금"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/04_충청/단양.md",
+   "document_path": "korea-travel/04_충청/단양.md",
+   "path": "korea-travel/04_충청/단양.md",
+   "count_as_independent": false,
+   "relation_type": "parent_reference",
+   "relation_note": "군 단위 부모 관광권이며 도담삼봉·만천하·고수동굴을 새 독립 레코드로 분할하지 않는다.",
+   "related_catalog_ids": [],
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification",
+   "editorial_region": "04_충청"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

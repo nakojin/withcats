@@ -1,0 +1,1014 @@
+{
+ "id": "kr-seoul-gyeongbokgung",
+ "country": "kr",
+ "tier": "A",
+ "status": "verified",
+ "names": {
+  "ko": "경복궁",
+  "local": "경복궁"
+ },
+ "admin_region": "서울특별시",
+ "former_region": null,
+ "city": "서울 종로구",
+ "address": "서울특별시 종로구 사직로 161 (03045)",
+ "coord": {
+  "lat": 37.579754,
+  "lng": 126.976682,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "relation/5501517"
+ },
+ "coord_note": null,
+ "summary": "경복궁은 조선이 건국된 뒤인 1395년에 지은 조선왕조 제일의 법궁이다.",
+ "description": "경복궁은 조선이 건국된 뒤인 1395년에 지은 조선왕조 제일의 법궁이다. 임진왜란 때 불탔다가 1865년에 중건을 시작해 1867년에 마쳤다. 1915년에는 전각이 헐렸고 1926년에 조선총독부 청사가 들어섰으며, 이 청사는 1995~1997년에 철거되었다. 이후 흥례문과 광화문 등을 복원해 왔고 2023년에는 동궁의 계조당도 복원했다. 공식 관람코스는 흥례문에서 영제교, 근정전, 경회루로 이어지며 40분, 60분, 90분 코스가 있다. 지하철 3호선 경복궁역 5번 출구에서 걸어서 약 2분이면 닿는다. 매주 화요일은 쉬고, 개인 관람 요금은 3,000원이다. 한복을 입으면 무료이고, 한국어 정규해설이 휴궁일(화요일)을 뺀 매일 운영되며 개인은 예약 없이 참여할 수 있다.",
+ "highlights": [
+  "1395년에 세운 조선왕조 제일의 법궁",
+  "흥례문·영제교·근정전·경회루를 잇는 40·60·90분 관람코스",
+  "한복 착용자 무료 입장",
+  "한국어 정규해설(1~1.5시간, 개인은 예약 불필요)",
+  "수·금 경회루 특별관람(온라인 사전예약, 약 70분)",
+  "경복궁역 5번 출구에서 도보 약 2분"
+ ],
+ "checklist": {
+  "location": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c1"
+   ],
+   "gap": null
+  },
+  "access": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c2",
+    "pilot1-c3",
+    "pilot1-c4",
+    "pilot1-c5",
+    "pilot1-c6"
+   ],
+   "gap": null
+  },
+  "duration": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c18"
+   ],
+   "gap": null
+  },
+  "hours": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c7",
+    "pilot1-c8",
+    "pilot1-c9",
+    "pilot1-c10"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "관람규칙 제4조는 11~1월 17:30까지로 적혀 있어 관람시간 페이지(11~12월 17:00)와 다름. 관람시간 페이지를 채택, 규칙 페이지는 낡았을 가능성",
+     "detail": "hours.conflict",
+     "run": "pilot1"
+    }
+   ]
+  },
+  "closed_days": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c11"
+   ],
+   "gap": null
+  },
+  "fees": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c12",
+    "pilot1-c13",
+    "pilot1-c14",
+    "pilot1-c15",
+    "pilot1-c16",
+    "pilot1-c17"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "conflicting_sources",
+     "note": "국가유산청 관람정보(khs.go.kr)는 6세 이하·65세 이상 무료, 외국인 7~18세 1,500원, 매월 마지막 수요일 무료로 안내해 궁능유적본부 요금표(만 24세 이하 내국인 무료 등)와 다름. 본 자료는 궁능유적본부 R703000000을 채택하며 두 페이지 모두 갱신일이 없어 재확인 필요",
+     "detail": "fees.conflict",
+     "run": "pilot1"
+    }
+   ]
+  },
+  "reservation": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c20",
+    "pilot1-c22"
+   ],
+   "gap": null,
+   "partial_gaps": [
+    {
+     "reason": "not_in_official_source",
+     "note": "일반 입장권의 사전예약 필요 여부·오픈 시점이 관람요금·통합예약 페이지에 명시되어 있지 않음",
+     "detail": "reservation.general_admission",
+     "run": "pilot1"
+    }
+   ]
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_in_official_source",
+    "note": "매표소·온라인 결제수단(현금·카드·모바일)이 공식 요금 페이지에 없음"
+   }
+  },
+  "language": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c19",
+    "pilot1-c21",
+    "pilot1-c23"
+   ],
+   "gap": null
+  },
+  "caution": {
+   "status": "filled",
+   "claims": [
+    "pilot1-c24",
+    "pilot1-c25",
+    "pilot1-c26"
+   ],
+   "gap": null
+  }
+ },
+ "claims": [
+  {
+   "cid": "pilot1-c1",
+   "field": "location",
+   "text": "경복궁의 주소는 서울특별시 종로구 사직로 161(우편번호 03045)이다.",
+   "original_text": null,
+   "value": "서울특별시 종로구 사직로 161",
+   "verdict": "verified",
+   "verify_note": "R707: (03045) 서울 종로구 사직로 161",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c2",
+   "field": "access",
+   "text": "지하철 3호선 경복궁역 5번 출구에서 도보 약 2분 거리다.",
+   "original_text": null,
+   "value": "2분",
+   "verdict": "verified",
+   "verify_note": "R707: 도보 2분 3호선 경복궁역 5번 출구",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c3",
+   "field": "access",
+   "text": "3호선 안국역 1번 출구와 5호선 광화문역 2번 출구에서는 각각 도보 약 6분이다.",
+   "original_text": null,
+   "value": "6분",
+   "verdict": "verified",
+   "verify_note": "R707: 도보 6분 안국역 1번·광화문역 2번",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c4",
+   "field": "access",
+   "text": "버스는 '경복궁' 정류장(간선 109·171·272·601·606·710, 지선 1020·7025)과 '덕성여중고' 정류장(간선 171·272·401·406·704·710, 지선 1020·7025)을 이용할 수 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "R707 bus lists match exactly",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c5",
+   "field": "parking",
+   "text": "주차장이 있으며 06:00~23:00 운영한다. 버스 약 50면(지상), 승용차 약 240면(지하)이고 문의는 02-736-9536이다.",
+   "original_text": null,
+   "value": "06:00-23:00",
+   "verdict": "verified",
+   "verify_note": "R707: 06:00~23:00, 버스 50대(지상), 승용차 240대(지하), 02-736-9536. Page also lists 장애인 9면·친환경 9면·EV충전 6면 and 80%/50% 감면 rules (not claimed)",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c6",
+   "field": "parking",
+   "text": "주차 기본요금은 소형차 첫 1시간 3,000원, 중·대형차 첫 1시간 5,000원이며 이후 10분당 800원이다. 회차 10분은 무료다. 지상 주차장에서는 소형차도 중·대형 요금을 적용한다.",
+   "original_text": null,
+   "value": "소형 3,000원/1시간, 대형 5,000원/1시간, 이후 800원/10분",
+   "verdict": "verified",
+   "verify_note": "R707 table: 소형 3,000/중대형 5,000, 10분당 800, 회전 10분 무료, 지상 이용 소형은 중대형 요금",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c7",
+   "field": "hours",
+   "text": "1~2월과 11~12월에는 09:00~17:00에 관람하며 입장은 16:00에 마감한다.",
+   "original_text": null,
+   "value": "09:00-17:00 / 입장마감 16:00",
+   "verdict": "verified",
+   "verify_note": "R702 table; also confirmed by 2026-09-30 notice (11월 09:00~17:00, 입장마감 16:00)",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c8",
+   "field": "hours",
+   "text": "3~5월과 9~10월에는 09:00~18:00에 관람하며 입장은 17:00에 마감한다.",
+   "original_text": null,
+   "value": "09:00-18:00 / 입장마감 17:00",
+   "verdict": "verified",
+   "verify_note": "R702 table; notice confirms 10월 09:00~18:00 (17:00)",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c9",
+   "field": "hours",
+   "text": "6~8월에는 09:00~18:30에 관람하며 입장은 17:30에 마감한다.",
+   "original_text": null,
+   "value": "09:00-18:30 / 입장마감 17:30",
+   "verdict": "verified",
+   "verify_note": "R702 table",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c10",
+   "field": "hours",
+   "text": "기관 사정에 따라 관람시간이 단축·조정될 수 있고, 안전 관리를 위해 퇴장 30분 전부터 퇴장을 유도하며 안내방송을 한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "R702 footnote",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c11",
+   "field": "closed_days",
+   "text": "정기 휴궁일은 매주 화요일이다. 화요일이 공휴일·대체공휴일과 겹치면 개방하고, 그다음 첫 번째 비공휴일을 휴궁일로 한다.",
+   "original_text": null,
+   "value": "매주 화요일",
+   "verdict": "verified",
+   "verify_note": "R702 table note: 그 다음의 첫 번째 비공휴일 (see conflicts)",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c12",
+   "field": "fees",
+   "text": "개인 대인 요금은 3,000원이다. 내국인은 만 25~64세, 외국인은 만 19~64세가 대상이다.",
+   "original_text": null,
+   "value": "3000 KRW",
+   "verdict": "verified",
+   "verify_note": "R703 table",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c13",
+   "field": "fees",
+   "text": "10인 이상 단체 요금은 1인 2,400원이다.",
+   "original_text": null,
+   "value": "2400 KRW",
+   "verdict": "verified",
+   "verify_note": "R703: 단체 2,400원, 10인 이상",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c14",
+   "field": "fees",
+   "text": "무료 대상은 만 24세 이하·만 65세 이상 내국인(신분증 지참), 만 18세 이하·만 65세 이상 외국인이다. 국가유공자·장애인 등 증빙 가능한 대상자도 무료다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "R703 무료관람대상자. Note 장애인 4~6급은 본인만, 장기복무 제대군인은 50% 할인",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c15",
+   "field": "fees",
+   "text": "한복을 입은 사람은 무료로 입장할 수 있다.",
+   "original_text": null,
+   "value": "무료",
+   "verdict": "verified",
+   "verify_note": "R703: '한복을 착용한 자' 무료 (증빙 제시 원칙)",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c16",
+   "field": "fees",
+   "text": "수요일 '문화가 있는 날' 무료 관람은 경복궁에는 적용되지 않는다(경복궁·창덕궁 후원 제외).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "R703: 매주 수요일 '문화가 있는 날' (경복궁 및 창덕궁 후원 제외)",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c17",
+   "field": "fees",
+   "text": "궁궐 통합관람권은 6,000원이며 4대궁과 종묘 매표소에서 살 수 있다. 구매일로부터 6개월 동안 4대궁과 종묘(창덕궁 후원 제외)를 각각 관람할 수 있다(6개월 중 1회). 환불은 구입한 궁에서만 되고, 한 곳이라도 쓰면 환불되지 않는다. 이와 별도로 궁능이 있는 기초자치단체 주민은 신분증 등 증빙을 내면 일반관람료를 50% 할인받는다(단체요금과 중복 불가).",
+   "original_text": "4대궁(및 종묘) 매표소에서 구입하는 궁궐 통합관람권은 6,000원이며 구매일로부터 6개월 안에 1회 사용할 수 있다. 해당 지자체 주민은 증빙 시 50% 할인받는다(중복 할인 불가).",
+   "value": "6000 KRW",
+   "verdict": "corrected",
+   "verify_note": "Page does not tie the 50% resident discount to the combined ticket; it is a general admission discount. Page also says '6개월 중 1회' with scope 4대궁+종묘, not a single use",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c18",
+   "field": "duration",
+   "text": "공식 관람코스는 40분, 60분, 90분 세 가지다. 40분 코스는 흥례문·영제교·근정전·사정전·수정전·경회루를 돈다.",
+   "original_text": null,
+   "value": "40/60/90분",
+   "verdict": "verified",
+   "verify_note": "R701: 40분=흥례문·영제교·근정전·사정전·수정전·경회루",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R701000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c19",
+   "field": "language",
+   "text": "한국어 정규해설은 월·수·목 10:00, 10:30, 11:00, 13:00, 14:00, 15:00, 16:00에 경복궁관리소 해설사가 진행한다. 금·토·일은 10:00~15:00 사이 30분 간격과 16:00에 있다. 금요일은 우리궁궐지킴이와 관리소 해설사가 나눠 맡고, 토요일은 우리궁궐지킴이, 일요일은 궁궐길라잡이(자원봉사 단체)가 대부분 회차를 진행한다(16:00 회차는 관리소 해설사). 11~2월에는 16:00 회차가 15:30으로 바뀐다.",
+   "original_text": "한국어 정규해설은 월·수·목 10:00~15:30 사이 30분 간격과 16:00에 운영하며, 11~2월에는 16:00 회차가 15:30으로 바뀐다. 금·토·일에도 같은 간격으로 열리고 금·일에는 자원봉사 단체가 진행하는 회차가 많다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "R706010000 raw HTML: Mon/Wed/Thu times are not every 30 min between 10:00 and 15:30. Volunteer sessions are on Fri/Sat/Sun, mostly Sat and Sun, not 'Fri/Sun'",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R706010000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c20",
+   "field": "reservation",
+   "text": "해설은 경복궁 안내실 앞(흥례문 안쪽)에서 출발하고 1~1.5시간 걸린다. 10인 미만 개인은 예약 없이 참여할 수 있으나 10인 이상 단체는 예약이 필요하다(회차당 30명까지, 한국어 단체는 희망일 7일 전부터 신청).",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "R706: 안내실 앞(흥례문 안쪽), 1시간~1시간30분, 10인 미만 예약 불필요, 단체 회당 30명. R601: 한국어 단체 해설 희망일 7일 전 ~ 회차 30분 전",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R706010000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R601000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c21",
+   "field": "language",
+   "text": "외국어 해설은 영어(11:00·13:30·15:30), 일본어(10:00·14:30), 중국어(10:30·15:00)가 매일, 스페인어는 금·토, 프랑스어는 수·목에 운영한다. 외국어 해설은 외국인 동행이 없는 내국인은 참여할 수 없다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "R706: 영어 11:00/13:30/15:30, 일 10:00/14:30, 중 10:30/15:00 (월수목금토일, 화 휴궁); 스페인어 금·토, 프랑스어 수·목. Domestic visitors only with a foreign companion",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R706010000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c22",
+   "field": "reservation",
+   "text": "경회루 특별관람은 수·금 10:00과 14:00에 약 70분간 한국어로 진행하며, 2026년 가을 기간은 9월 2일~10월 30일이다. 온라인으로만 선착순 예약하고 1인 2매까지이며, 6세 이하는 입장할 수 없다.",
+   "original_text": null,
+   "value": "70분",
+   "verdict": "verified",
+   "verify_note": "R706: 수·금 10:00/14:00, 70분, 한국어, 하반기 2026.9.2~10.30, 온라인 선착순 1인 2매, 만6세 이하 불가. R601 adds no-run dates (see suggested_claims). Named 경회루·향원정 특별관람",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R706010000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    },
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R601000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c23",
+   "field": "language",
+   "text": "관람코스 안내에 음성안내기 대여소가 편의시설로 표시되어 있다. 휠체어·유모차 대여소, 수유실, 물품보관함, 자동심장충격기도 있다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "R701 편의시설 legend lists all items",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R701000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c24",
+   "field": "caution",
+   "text": "반려동물은 동반 입장할 수 없다(장애인 보조견 제외). 경내 전 지역이 금연이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "verified",
+   "verify_note": "R704 제6조 ①3, ③",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R704000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c25",
+   "field": "caution",
+   "text": "인화물질·무기류, 주류, 텐트·돗자리·그늘막 같은 야영용품과 취사도구를 가지고 오면 입장이 제한될 수 있고, 지정 구역 밖에서는 도시락 등을 먹을 수 없다. 드론 등 항공촬영은 공공기관이 공익 목적으로 찍는 경우처럼 궁능유적본부장이 인정할 때만 허가되며, 국방부 지침에 따른 항공촬영 허가도 따로 받아야 한다.",
+   "original_text": "인화물질·무기류, 주류, 텐트·돗자리·그늘막·취사도구 반입과 지정 구역 밖에서의 취식은 제한된다. 드론 등 항공촬영은 사전 허가가 필요하다.",
+   "value": null,
+   "verdict": "corrected",
+   "verify_note": "R704 제24조③: drone filming is not generally open to visitors by prior permission. It is limited to public-interest cases. The claim implied ordinary visitors could get a permit",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R704000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c26",
+   "field": "caution",
+   "text": "2026년 9월 2일부터 10월 31일까지 근정전 월대 출입이 제한된다.",
+   "original_text": null,
+   "value": "2026-09-02~2026-10-31",
+   "verdict": "verified",
+   "verify_note": "Notice title on menuInfo-gbg plus notice body (2026-08-30): 9.2~10.31 근정전 월대 출입 제한",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/menuInfo-gbg.do?grpCode=gbg",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c27",
+   "field": "description",
+   "text": "경복궁은 조선 건국(1392) 이후 1395년(태조 4)에 창건된 조선왕조 제일의 법궁이다.",
+   "original_text": null,
+   "value": "1395",
+   "verdict": "verified",
+   "verify_note": "R101010000",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R101010000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c28",
+   "field": "description",
+   "text": "1592년 임진왜란 때 불탔고, 1865년(고종 2)에 중건을 시작해 1867년에 마쳤다.",
+   "original_text": null,
+   "value": "1592 / 1865-1867",
+   "verdict": "verified",
+   "verify_note": "R101010000 table: 1592 소실, 1865 중건 시작, 1867 완료",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R101010000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c29",
+   "field": "description",
+   "text": "1915년 전각이 헐렸고 1926년 조선총독부 청사가 들어섰으며, 이 청사는 1995~1997년에 철거되었다.",
+   "original_text": null,
+   "value": "1915 / 1926 / 1995-1997",
+   "verdict": "verified",
+   "verify_note": "R101010000",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R101010000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c30",
+   "field": "description",
+   "text": "2001~2021년 흥례문·광화문·흥복전·취향교를 복원하고 향원정을 보수했으며, 2023년에는 동궁의 계조당을 복원했다.",
+   "original_text": null,
+   "value": "2001-2021 / 2023",
+   "verdict": "verified",
+   "verify_note": "R101010000: 2001~2021 흥례문·광화문 일원·흥복전·취향교 복원, 향원정 보수; 2023 계조당",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R101010000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-c31",
+   "field": "highlight",
+   "text": "주요 관람 지점은 근정전, 사정전, 수정전, 경회루, 강녕전, 교태전, 동궁, 소주방, 자경전, 흥복전, 향원정, 건청궁, 집옥재, 태원전 등 14곳이다.",
+   "original_text": null,
+   "value": "14곳",
+   "verdict": "verified",
+   "verify_note": "R701 map lists 14 numbered points",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R701000000.do",
+     "type": "government",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": "sonnet-5.5",
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-s1",
+   "field": "hours",
+   "text": "2026년 10월 관람시간은 09:00~18:00(입장마감 17:00), 11월은 09:00~17:00(입장마감 16:00)이다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260930144202825885&schBcid=notice01",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-s2",
+   "field": "fees",
+   "text": "코리아 그랜드 페스티벌 기간인 2026년 10월 29일~11월 15일에는 무료 개방한다(화요일 휴궁일 제외). 이 기간 정규해설은 30분 단축 운영한다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260930144202825885&schBcid=notice01",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-s3",
+   "field": "reservation",
+   "text": "경회루·향원정 특별관람은 추석 연휴(9.24~9.27), 한글날(10.9), 궁중문화축전 기간(10.7~10.11)에는 운영하지 않는다.",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R601000000.do",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  },
+  {
+   "cid": "pilot1-s4",
+   "field": "fees",
+   "text": "궁능 소재지 기초자치단체 주민은 신분증·등본 등 증빙을 내면 일반관람료 50% 할인을 받는다(중복 할인 불가).",
+   "original_text": null,
+   "value": null,
+   "verdict": "suggested",
+   "verify_note": "검증자가 공식 페이지에서 발견. 다음 회차에서 독립 수집·검증 필요",
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+     "type": "official",
+     "page_updated": null,
+     "checked_at": "2026-10-11"
+    }
+   ],
+   "collector": null,
+   "verifier": "opus-5.5",
+   "run": "pilot1"
+  }
+ ],
+ "conflicts": [
+  {
+   "run": "pilot1",
+   "text": "Hours: the R702 table says Jan–Feb and Nov–Dec 09:00~17:00. The 관람규칙 (R704, 제4조①) says the standard hours run to 17:30 in Nov–Jan. The table and the 2026-09-30 notice agree on 17:00"
+  },
+  {
+   "run": "pilot1",
+   "text": "The sidebar widget on every royal.khs.go.kr page shows '09:00~18:30 입장마감 17:30', which is the Jun–Aug value, so it is wrong for October. It also says the closed day moves to '그 다음날' when Tuesday is a holiday, while the R702 table says '그 다음의 첫 번째 비공휴일'"
+  },
+  {
+   "run": "pilot1",
+   "text": "Unconfirmed items not found in 2 lookups (FAQ R404000000 checked): payment methods, coordinates, site area, crowd periods. No page-update dates are shown on the R7xx pages"
+  }
+ ],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-seoul-gyeongbokgung",
+   "name_ko": "경복궁",
+   "region": "서울",
+   "admin_region": "서울특별시",
+   "locality": "서울 종로구",
+   "type": [
+    "고궁",
+    "역사"
+   ],
+   "highlights": [
+    "광화문·흥례문·근정문을 지나 궁궐의 중심 근정전으로 이어지는 공간과 전각 배치를 살펴본다.",
+    "경회루의 연못 풍경, 강녕전·교태전의 생활 공간, 북쪽 향원정까지 걸으며 궁궐의 서로 다른 표정을 만난다.",
+    "근정문 오른쪽 행각 쪽에서는 근정전 처마와 북악산 능선이 함께 보이는 구도를 살펴볼 수 있다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을. 야외 도보 관람 비중을 고려한 편집 추천이며 꽃·단풍의 절정 날짜를 보장하지 않는다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "수문장 교대의식과 야간관람의 현재 회차는 이 문서에서 확정하지 않는다.",
+    "서울도보해설관광은 광화문에서 향원정까지 주요 전각을 잇는 코스를 약 2시간으로 소개한다. 사진·휴식과 별도 전시를 더하면 여유 시간을 둔다(편집 판단).",
+    "근정전 월대는 2026-09-02~10-31 출입 제한 공지가 있다. 옛 해설에 월대 위 관찰이 소개돼도 해당 기간에는 통제선을 넘지 않는다.",
+    "경회루·향원정의 외부 경관 관람과 내부 특별관람을 구분한다. 2026 특별관람은 사전예약제이며 운영 제외일도 있다."
+   ],
+   "operational": {
+    "notes": [
+     "9~10월 일반관람 09:00~18:00, 입장마감 17:00. 11~2월 09:00~17:00, 3~5월 09:00~18:00, 6~8월 09:00~18:30(각 마감 1시간 전 입장).",
+     "정기휴일 화요일. 공휴일·대체공휴일과 겹치면 개방하고 다음 첫 비공휴일에 쉰다.",
+     "일반 대인 개인 3,000원. 내국인 만25~64세, 외국인 만19~64세 기준이며 무료·할인 대상은 공식 요금표의 증빙 조건을 확인한다.",
+     "한복 무료관람은 공식 가이드라인에 맞는 저고리와 하의 착용이 기본이다. 특별 야간행사 예매 조건은 별도 확인.",
+     "2026-10-29~11-15에는 코리아 그랜드 페스티벌에 따른 무료개방 공지가 있으며 휴궁일은 제외된다. 이 기간의 예외를 상시 무료관람으로 일반화하지 않는다."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+     "title": "궁능유적본부 관람시간",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+     "title": "궁능유적본부 관람요금",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R705000000.do",
+     "title": "한복무료관람 가이드라인",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://korean.visitseoul.net/palace/도보관광-경복궁/KON000608",
+     "title": "서울관광재단 경복궁 도보코스",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?id=20260830151817711582&schBcid=notice01&schM=view",
+     "title": "경복궁 근정전 월대 출입 제한(2026-08-30 공지)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?id=20260317095858481098&schBcid=notice01&schM=view",
+     "title": "2026 경회루·향원정 특별관람 공지",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?id=20260930144202825885&schBcid=notice01&schM=view",
+     "title": "2026년 10~11월 경복궁 운영 공지",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/01_서울/경복궁.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/01_서울/경복궁.md",
+   "editorial_region": "01_서울",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": [
+   {
+    "run": "pilot1",
+    "date": "2026-10-11",
+    "collector": "sonnet-5.5",
+    "verifier": "opus-5.5",
+    "claims": 31,
+    "verdicts": {
+     "verified": 28,
+     "corrected": 3,
+     "outdated": 0,
+     "unverifiable": 0,
+     "rejected": 0,
+     "pending": 0,
+     "suggested": 4
+    }
+   }
+  ]
+ },
+ "open_questions": [
+  {
+   "topic": "description.area",
+   "note": "소개·역사 페이지에 면적 수치가 없음",
+   "run": "pilot1"
+  },
+  {
+   "topic": "crowd_periods",
+   "note": "혼잡 시기에 대한 공식 안내를 찾지 못함",
+   "run": "pilot1"
+  },
+  {
+   "topic": "source_updated",
+   "note": "인용한 궁능유적본부 페이지 어디에도 갱신일 표기가 없음(저작권 표기만 있음)",
+   "run": "pilot1"
+  }
+ ],
+ "content_review": {
+  "status": "ok",
+  "unsupported": [
+   "'한국어 정규해설이 매일 운영되며': imprecise. The guide runs every opening day; the palace is closed Tuesdays. Should read '휴궁일(화) 외 매일'"
+  ],
+  "fixed_by": "content_fix",
+  "basis": "수집 claim 으로만 작성, 검증자 검토",
+  "run": "pilot1"
+ }
+}

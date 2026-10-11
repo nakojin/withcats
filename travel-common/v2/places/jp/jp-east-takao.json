@@ -1,0 +1,187 @@
+{
+ "id": "jp-east-takao",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "다카오산",
+  "local": "高尾山"
+ },
+ "admin_region": "도쿄",
+ "former_region": null,
+ "city": "하치오지시",
+ "address": null,
+ "coord": {
+  "lat": 35.625227,
+  "lng": 139.243688,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/675449030"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-takao",
+   "name_ko": "다카오산",
+   "name_ja": "高尾山",
+   "region": "간토",
+   "prefecture": "도쿄",
+   "city": "하치오지시",
+   "category": "산·하이킹",
+   "description": "도쿄 서쪽에서 숲길과 산사를 연결해 걷는 산이다. 케이블카를 이용하는 방식과 산 아래부터 오르는 방식이 있어 체력에 맞게 구성할 수 있다. 1호로는 자연·역사를, 다른 길은 현수교나 폭포 등 서로 다른 요소를 보여준다.",
+   "highlights": [
+    "야쿠오인의 산사 분위기",
+    "정상에서 보는 도쿄 평야",
+    "4호로 현수교 등 코스별 풍경"
+   ],
+   "best_time": "가을 단풍과 봄 꽃이 대표적이다. 주말·공휴일 혼잡을 피하고 싶으면 평일 이른 출발을 권한다.",
+   "visit_tips": [
+    "게이오 다카오산구치역과 JR 다카오역을 구분한다.",
+    "케이블카를 타더라도 정상까지 걷는 구간이 남으므로 운동화를 준비한다.",
+    "상행·하행 코스의 당일 개방과 마지막 운행을 확인하고 일몰 전에 내려온다."
+   ],
+   "hours_and_fees": {
+    "hours": "케이블카 15분 간격, 편도 약 6분. 첫차 08:00(1·2월 및 홈페이지 당일 운행 표기), 막차(평일/토·일·공휴일): 1·2월 17:15/17:30, 3월 17:30/18:00, 4·5월 18:00/18:30, 6월 17:45/18:00, 7·8월 18:00/18:30, 9–11월 17:45/18:00, 12월 17:15/17:30. 리프트 5–11월 09:00 시작, 평일 막차 16:30",
+    "fees": "케이블카·리프트 공통: 어른(12세 이상) 편도 490엔, 왕복 980엔 / 소아(6–12세 미만) 편도 250엔, 왕복 500엔 / 6세 미만 무료",
+    "conditions": "맥주 마운트(여름) 영업기간 18:00–21:00은 20분 간격, 막차 21:15. 장애인 할인은 케이블카만(어른 편도 250엔 등). 점검·정비로 시각 변경 가능. 리프트 12–4월 시간(16:00 표기)과 일부 월 첫차 시각은 페이지상 불명확",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "산책로 통제·곰 등 야생동물 주의보(운영사 페이지에 없음)",
+    "1·2월 외 월별 첫차 시각",
+    "리프트 12~4월 시간"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.japan.travel/en/spot/2103/",
+     "title": "JNTO Mt. Takao",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "여러 탐방로·케이블카",
+      "야쿠오인",
+      "계절과 주말 혼잡"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.takaotozan.co.jp/timeprice/",
+     "title": "ケーブルカー・リフト | 高尾登山電鉄公式サイト",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간",
+      "요금"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.takaotozan.co.jp/",
+     "title": "高尾登山電鉄株式会社",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

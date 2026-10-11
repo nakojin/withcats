@@ -1,0 +1,172 @@
+{
+ "id": "kr-gyeongbuk-buseoksa",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "영주 부석사",
+  "local": "영주 부석사"
+ },
+ "admin_region": "경상북도",
+ "former_region": null,
+ "city": "영주 부석사",
+ "address": null,
+ "coord": {
+  "lat": 36.997388,
+  "lng": 128.686649,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/786247474"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongbuk-buseoksa",
+   "name_ko": "영주 부석사",
+   "region": "경북",
+   "admin_region": "경상북도",
+   "locality": "영주 부석사",
+   "type": [
+    "사찰",
+    "목조건축",
+    "세계유산"
+   ],
+   "highlights": [
+    "무량수전에서는 배흘림기둥과 주심포 구조를, 앞마당에서는 석등과 산 능선이 겹치는 구도를 살펴본다.",
+    "범종각 아래에서 안양루·무량수전으로 오를 때 지형을 따라 조금씩 어긋나는 건물 배치가 눈에 들어온다.",
+    "무량수전 오른쪽 오르막의 조사당은 의상대사와 관련된 별도 답사 지점이다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을. 사찰 건축을 야외에서 걷고 보는 편집 추천이며 단풍 절정은 별도 확인한다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "법당의 종교 활동을 존중하고 촬영 가능 여부는 현장 안내를 따른다.",
+    "편집 동선: 범종각 아래에서 한번 멈춰 위쪽 전각을 보고, 무량수전 관람 후 안양루 방향으로 돌아서 산 풍경을 본다. 계단과 조사당 오르막까지 고려해 걸을 범위를 정한다.",
+    "조사당 벽화 원본은 성보박물관에 별도로 보관되고 원래 자리에는 모사본이 있다는 공식 해설을 구분한다. 박물관 당일 개방·전시는 별도 확인한다."
+   ],
+   "operational": {
+    "notes": [
+     "현행 입장·주차 요금, 관람시간, 버스 번호는 운영기관 재확인 대기."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://contents.history.go.kr/mobile/eh/view.do?code=ganada&levelId=eh_r0170_0010",
+     "title": "국사편찬위원회 우리역사넷 부석사 무량수전",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    },
+    {
+     "url": "https://contents.history.go.kr/play/view.do?levelId=tt_b96",
+     "title": "국사편찬위원회 부석사 건축·동선 해설",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/06_경북대구/영주 부석사.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/06_경북대구/영주 부석사.md",
+   "editorial_region": "06_경북대구",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "id": "WEST-043",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "나키진성터",
+  "local": "今帰仁城跡"
+ },
+ "admin_region": "오키나와",
+ "former_region": null,
+ "city": "나키진촌",
+ "address": null,
+ "coord": {
+  "lat": 26.691491,
+  "lng": 127.929108,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/9749062280"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-043",
+   "name_ko": "나키진성터",
+   "name_ja": "今帰仁城跡",
+   "region": "오키나와",
+   "prefecture": "오키나와",
+   "city": "나키진촌",
+   "category": "류큐성곽유적",
+   "description": "류큐 통일 전 북산왕의 거성이었으며 통일 뒤에는 왕부가 파견한 관리가 거주했다. 지형을 따라 곡선을 이루는 성벽과 여러 구획을 걸으며 일본 본토의 천수 중심 성과 다른 공간을 읽을 수 있다.",
+   "highlights": [
+    "곡선으로 이어지는 석벽",
+    "성 안 여러 구획",
+    "나키진촌 역사문화센터"
+   ],
+   "best_time": "겨울~봄의 서늘한 날,특히 벚꽃은 당해 개화정보를 보고 선택한다.",
+   "visit_tips": [
+    "2026년9월부터 제1주차장 폐쇄공지로2·3·4주차장을 확인한다",
+    "성터와 역사문화센터의 휴관·마감이 다르다",
+    "음식은 지정휴게공간에서만 먹는다"
+   ],
+   "hours_and_fees": {
+    "hours": "성터1~4·9~12월08–18시,5~8월19시까지,최종30분전",
+    "fees": "성인1000엔,중·고생500엔,초등이하무료",
+    "conditions": "성터연중무휴.센터09–17시 최종16:30,월요일 및연말연시휴관.센터무료",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://www.nakijinjoseki-osi.jp/",
+     "title": "나키진성터 공식",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "북산역사",
+      "성벽",
+      "시간",
+      "2025개정요금",
+      "주차통제",
+      "센터휴관"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "벚꽃축제 개최일",
+    "제1주차장 재개일"
+   ],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

@@ -1,0 +1,199 @@
+{
+ "id": "kr-gyeongbuk-pohang-homigot",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "포항 호미곶",
+  "local": "포항 호미곶"
+ },
+ "admin_region": "경상북도",
+ "former_region": null,
+ "city": "경북 포항시 남구 호미곶면 해맞이광장 일대",
+ "address": null,
+ "coord": {
+  "lat": 36.027518,
+  "lng": 129.37255,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/368966181"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongbuk-pohang-homigot",
+   "name_ko": "포항 호미곶",
+   "region": "경북대구",
+   "admin_region": "경상북도",
+   "locality": "경북 포항시 남구 호미곶면 해맞이광장 일대",
+   "type": [
+    "일출",
+    "해안",
+    "조형물"
+   ],
+   "highlights": [
+    "해맞이광장 앞 동해 수평선과 바다 위 상생의 손을 한 화면에 담는 풍경이 대표적이다.",
+    "상생의 손은 바다의 오른손과 육지의 왼손으로 구성되어 공존의 의미를 전한다. 바다 쪽 손만 보고 지나치지 않아도 좋다.",
+    "광장 주변 호미곶등대와 국립등대박물관은 해돋이 이후 해양문화 관람을 이어갈 후보가 된다."
+   ],
+   "recommended_season": {
+    "text": "연중 맑은 날 해뜨기 전후; 새해는 행사 확인 후",
+    "reason": "수평선과 조형물을 함께 보는 것이 핵심이라 구름·바람이 관람 만족도를 좌우한다. 새해 행사 자체와 평소 일출 여행은 구별한다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "일출 시각은 여행 날짜에 맞춰 다시 확인한다. 안내문에 나온 1월 1일 시각을 연중 일정에 쓰지 않는다.",
+    "해안 바람에 대비하고 통제선 밖 바위로 내려가 사진을 찍지 않는다.",
+    "새벽 광장 관람 뒤 박물관을 계획한다면 실내시설 개관까지 기다리는 시간과 휴관일을 별도로 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=94539",
+     "title": "한국관광공사 Homigot Sunrise Square",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "광장·상생의 손",
+      "인접 등대·박물관",
+      "광장 상시·무료"
+     ]
+    }
+   ],
+   "operational": {
+    "fees": "해맞이광장 무료로 안내. 인근 박물관·기념관 조건과 구별.",
+    "hours": "해맞이광장 24시간·연중으로 관광공사 표기. 기상·행사 통제는 별도.",
+    "reservation": null,
+    "status_note": "광장 방문과 새해 행사 교통통제는 별개. 주차 가능 표기를 무료주차로 확대하지 않음."
+   },
+   "record_status": "verified_core_operational_pending",
+   "verification_status": "verified",
+   "baseline_path": "korea-travel/06_경북대구/포항 호미곶.md",
+   "document_path": "korea-travel/06_경북대구/포항 호미곶.md",
+   "path": "korea-travel/06_경북대구/포항 호미곶.md",
+   "count_as_independent": true,
+   "record_origin": "baseline_followup",
+   "counting_unit": "one_named_destination_or_connected_visit_area",
+   "relation_note": "기존 단일 목적지 문서를 같은 경로로 보강. 내부 시설은 별도 명소로 가산하지 않는다.",
+   "verification_scope": {
+    "confirmed": [
+     "공식 웹본문의 명칭·위치·볼거리"
+    ],
+    "editorial": [
+     "추천시기·이유",
+     "특성에 근거한 동선·준비 조언"
+    ],
+    "pending": [
+     "박물관·새천년기념관 현행 시간·요금",
+     "9000번 버스 현행 노선·시간",
+     "차기 해맞이축전",
+     "현행 주차요금"
+    ]
+   },
+   "unconfirmed_items": [
+    "박물관·새천년기념관 현행 시간·요금",
+    "9000번 버스 현행 노선·시간",
+    "차기 해맞이축전",
+    "현행 주차요금"
+   ],
+   "baseline_correction": "출처의 한국에서 가장 빠른 일출이라는 과장·범위 불명확 표현은 채택하지 않음. 광장 위치를 박물관 주소와 혼동하지 않게 일대 표기.",
+   "editorial_region": "06_경북대구",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

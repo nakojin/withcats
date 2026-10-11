@@ -1,0 +1,184 @@
+{
+ "id": "kr-gyeongbuk-byeongsan-seowon",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "병산서원",
+  "local": "병산서원"
+ },
+ "admin_region": "경상북도",
+ "former_region": null,
+ "city": "안동시 풍천면 병산길 386",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeongbuk-byeongsan-seowon",
+   "name_ko": "병산서원",
+   "aliases": [],
+   "region": "경상북도",
+   "admin_region": "경상북도",
+   "locality": "안동시 풍천면 병산길 386",
+   "type": [
+    "서원",
+    "세계유산"
+   ],
+   "highlights": [
+    "강학당·사당·기숙 공간을 갖춘 서원",
+    "낙동강과 뒷산이 어우러진 배치"
+   ],
+   "recommended_season": {
+    "text": "봄·가을",
+    "reason": "전통 건축과 강변 경관을 함께 보기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "서원의 건물 배치를 본 뒤 강 방향으로 시선을 옮겨 자연과의 관계를 살펴본다.",
+    "하회마을과 같은 장소가 아니므로 별도 이동 계획을 세운다.",
+    "제향 행사 때는 관람 동선이 달라질 수 있다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=107434",
+     "title": "VISITKOREA — Byeongsanseowon Confucian Academy",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "강학당·사당·기숙 공간을 갖춘 서원; 낙동강과 뒷산이 어우러진 배치"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=172555",
+     "title": "VISITKOREA — Cultural Heritage Sites",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "보조 볼거리",
+      "방문 동선 판단 근거"
+     ],
+     "evidence_summary": "소수서원의 직방재·일신재, 병산서원의 배치와 강변 환경을 본문에서 확인."
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "건축 배치·강변 경관은 별도 공식 문화유산 소개에서 보완. 서원 소장 문서가 모두 상시 전시되는 것은 아니다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/06_경북대구/병산서원.md",
+   "editorial_region": "06_경북대구",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area",
+   "prior_mention_note": "기존 문서에서 언급된 장소를 독립 상세 레코드로 보강. 새로 발견한 명소라는 의미가 아님.",
+   "baseline_relationship": {
+    "id": "kr-gyeongbuk-byeongsan-seowon",
+    "baseline_path": "korea-travel/06_경북대구/안동 하회마을.md",
+    "relation": "previously_mentioned_nearby_place"
+   }
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

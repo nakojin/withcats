@@ -1,0 +1,166 @@
+{
+ "id": "WEST-024",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "고치성",
+  "local": "高知城"
+ },
+ "admin_region": "고치",
+ "former_region": null,
+ "city": "고치시",
+ "address": null,
+ "coord": {
+  "lat": 33.560691,
+  "lng": 133.531459,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/126495756"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-024",
+   "name_ko": "고치성",
+   "name_ja": "高知城",
+   "region": "시코쿠",
+   "prefecture": "고치",
+   "city": "고치시",
+   "category": "성곽",
+   "description": "천수뿐 아니라 본마루의 건물군이 함께 남아 있어 성주의 거처와 방어시설을 한 동선에서 볼 수 있다. 화재 뒤18세기에 재건된 건물은 고치 시내를 내려다보는 전망과 연결된다.",
+   "highlights": [
+    "현존 천수",
+    "본마루 고텐·가이토쿠칸",
+    "오테몬과 시가지 전망"
+   ],
+   "best_time": "벚꽃이 피는 봄이나 걷기 편한 가을.성곽의 실내외를 함께 보는 날씨를 고른다.",
+   "visit_tips": [
+    "최종입장은16:30이다",
+    "18세미만 무료라도 학생증 등 증빙을 준비한다",
+    "역사박물관 공통권은 기획전 여부에 따라 가격이 다르다"
+   ],
+   "hours_and_fees": {
+    "hours": "09–17시,최종16:30",
+    "fees": "18세 이상500엔,18세미만무료",
+    "conditions": "12/26~1/1휴관,특정행사 연장가능.역사박물관 공통권800엔 또는1040엔",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://kochipark.jp/kochijyo/",
+     "title": "고치성 공식 홈페이지",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "역사",
+      "본마루 건물",
+      "시간",
+      "요금",
+      "공통권"
+     ]
+    }
+   ],
+   "unconfirmed": [],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

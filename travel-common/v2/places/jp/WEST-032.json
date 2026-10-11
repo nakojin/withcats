@@ -1,0 +1,167 @@
+{
+ "id": "WEST-032",
+ "country": "jp",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "구마모토성",
+  "local": "熊本城"
+ },
+ "admin_region": "구마모토",
+ "former_region": null,
+ "city": "구마모토시",
+ "address": null,
+ "coord": {
+  "lat": 32.805269,
+  "lng": 130.705464,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/375062710"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-032",
+   "name_ko": "구마모토성",
+   "name_ja": "熊本城",
+   "region": "규슈",
+   "prefecture": "구마모토",
+   "city": "구마모토시",
+   "category": "성곽·복원현장",
+   "description": "2016년 지진 피해 뒤 복구가 계속되는 성이다. 재공개된 천수와 특별견학 통로를 통해 웅장한 성의 모습뿐 아니라 문화재가 어떻게 복구되는지도 함께 볼 수 있다.",
+   "highlights": [
+    "천수 관람",
+    "특별견학 통로",
+    "복구 중 성벽"
+   ],
+   "best_time": "봄·가을의 맑은 날.야외 복구구역과 천수를 함께 볼 시간을 남긴다.",
+   "visit_tips": [
+    "평일과 주말의 입구동선이 다를 수 있다",
+    "큰 짐은 유료구역 밖에 보관한다",
+    "천수 내부 촬영물의 SNS 게시 등 이용규정을 확인한다"
+   ],
+   "hours_and_fees": {
+    "hours": "9~6월09–17시 최종16시,7~8월09–19시 최종18시",
+    "fees": "고등학생이상800엔,초·중학생300엔,미취학무료",
+    "conditions": "12/29 휴원.복구공사·기상에 따라 출입구와 공개구역 변경",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://castle.kumamoto-guide.jp/info/",
+     "title": "구마모토성 공식 이용안내",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "지진과복구",
+      "계절시간",
+      "요금",
+      "짐·촬영규정"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 공사동선"
+   ],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

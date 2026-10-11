@@ -1,0 +1,178 @@
+{
+ "id": "kr-ulsan-bangudae-petroglyphs",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "울주 대곡리 반구대 암각화",
+  "local": "울주 대곡리 반구대 암각화"
+ },
+ "admin_region": "울산광역시",
+ "former_region": null,
+ "city": "울주군 언양읍 대곡리",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: none)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-ulsan-bangudae-petroglyphs",
+   "name_ko": "울주 대곡리 반구대 암각화",
+   "aliases": [],
+   "region": "울산광역시",
+   "admin_region": "울산광역시",
+   "locality": "울주군 언양읍 대곡리",
+   "type": [
+    "선사유적",
+    "암각화"
+   ],
+   "highlights": [
+    "바위면의 바다·육지 동물과 사냥 장면",
+    "반구천 주변 절벽 경관"
+   ],
+   "recommended_season": {
+    "text": "봄·가을의 맑은 날",
+    "reason": "야외 관찰과 주변 유적 이해를 연결하기 좋다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "암각화를 가까이 만지는 체험으로 생각하지 말고 지정 관찰 지점을 이용한다.",
+    "원형을 알아보기 어렵다면 인근 암각화박물관의 모형·영상과 연계한다.",
+    "수위·시야·탐방 통제를 방문 전에 확인한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=90261",
+     "title": "VISITKOREA — Petroglyphs of Bangudae Terrace in Daegok-ri",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "바위면의 바다·육지 동물과 사냥 장면; 반구천 주변 절벽 경관"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75310",
+     "title": "VISITKOREA — Ulsan Petroglyph Museum",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "보조 볼거리",
+      "방문 동선 판단 근거"
+     ],
+     "evidence_summary": "암각화 모형과 영상 전시를 확인. 실제 암각화 관찰의 보조 공간으로만 사용."
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "박물관은 보조 방문지로만 연결하며 별도 신규 수에 포함하지 않았다. 수위에 따른 실제 관찰 가능성은 미확정이다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/07_경남부산울산/울주 대곡리 반구대 암각화.md",
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

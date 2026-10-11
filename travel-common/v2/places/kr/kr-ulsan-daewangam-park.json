@@ -1,0 +1,164 @@
+{
+ "id": "kr-ulsan-daewangam-park",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "울산 대왕암공원",
+  "local": "울산 대왕암공원"
+ },
+ "admin_region": "울산광역시",
+ "former_region": null,
+ "city": "울산 동구 등대로 95 일대; 출렁다리 주소 일산동 905",
+ "address": null,
+ "coord": {
+  "lat": 35.49236,
+  "lng": 129.440178,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/476518093"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-ulsan-daewangam-park",
+   "name_ko": "울산 대왕암공원",
+   "region": "울산",
+   "admin_region": "울산광역시",
+   "locality": "울산 동구 등대로 95 일대; 출렁다리 주소 일산동 905",
+   "type": [
+    "해안공원",
+    "출렁다리"
+   ],
+   "highlights": [
+    "해안 산책과 송림·울기등대 등을 연계하는 공원.",
+    "출렁다리는 공식 시설 제원상 길이 303m인 무주탑 현수교다."
+   ],
+   "recommended_season": {
+    "text": "봄·가을의 맑고 바람이 약한 날. 해안 도보 관람을 고려한 편집 추천이다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "강풍주의보 시 통행이 금지된다는 공식 안내가 있다.",
+    "주차요금은 이번 직접 열람에서 표를 확정하지 못해 금액을 제시하지 않는다."
+   ],
+   "operational": {
+    "notes": [
+     "출렁다리 공식 시설안내: 09:00~18:00, 17:40 입장 종료; 무료(시범운영 중)로 표기.",
+     "공원 전체 개방시간과 출렁다리 운영시간을 동일하게 취급하지 않는다. 출렁다리 휴장·우천 통제는 출발 전 운영 공지를 확인한다."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://daewangam.donggu.ulsan.kr/Pgswaybridge.do",
+     "title": "대왕암공원 출렁다리 시설안내",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/07_경남부산울산/울산 대왕암공원.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/07_경남부산울산/울산 대왕암공원.md",
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

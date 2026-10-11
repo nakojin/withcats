@@ -1,0 +1,247 @@
+{
+ "id": "kr-busan-gwangalli-bridge-overview",
+ "country": "kr",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "광안리·광안대교",
+  "local": "광안리·광안대교"
+ },
+ "admin_region": "부산광역시",
+ "former_region": null,
+ "city": "부산 수영구 광안해변로 일대",
+ "address": null,
+ "coord": {
+  "lat": 35.150888,
+  "lng": 129.116781,
+  "geo_type": "area",
+  "precision": "centroid",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/107642460"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-busan-gwangalli-bridge-overview",
+   "name_ko": "광안리·광안대교",
+   "region": "07_경남부산울산",
+   "admin_region": "부산광역시",
+   "locality": "부산 수영구 광안해변로 일대",
+   "type": [
+    "해변",
+    "야경",
+    "공연"
+   ],
+   "highlights": [
+    "광안리해변은 바다를 사이에 두고 광안대교를 보는 해변 경관이 중심이다. 해변 산책과 교량을 배경으로 한 사진을 한 동선에서 즐길 수 있다.",
+    "광안리 M 드론라이트쇼는 주제별 장면을 밤하늘에 그리는 공연이다. 같은 해변이라도 일반 야경과 공연일의 관람 분위기가 다르다.",
+    "2026년 10월 공식 프로그램에는 10일 「10월, 부산에 가면」, 17일 「차원의 정거장 with 레이저쇼」 등 서로 다른 주제가 공지되어 있다. 공지된 계획이며 실제 개최 보장은 아니다."
+   ],
+   "recommended_season": {
+    "text": "해질 무렵부터 밤. 드론쇼가 목적이면 계절 추천보다 해당 날짜의 공연·취소 공지를 우선 확인한다.",
+    "reason": "확인된 경관·시설을 바탕으로 한 여행 편집 추천. 개화·단풍 절정이나 행사 개최 보장이 아님.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "공식 동절기 안내상 10~2월 공연시간은 19시·21시다. 특별공연은 회차가 달라질 수 있으므로 평소 시간만 보고 움직이지 않는다.",
+    "우천·강풍·태풍이나 통신 여건으로 전날 또는 당일에도 지연·취소될 수 있다. 출발 전과 해변 도착 후 공지를 다시 본다.",
+    "인파 속에서는 통행로를 비워 관람하고 개인 드론은 띄우지 않는다. 공식 공지 목록에는 해변 일원 야간 드론 비행 금지 안내가 게시되어 있다."
+   ],
+   "sources": [
+    {
+     "url": "https://www.visitbusan.net/archive/dataSearch/view.nm?dataSid=METADATA002835&menuCd=36",
+     "title": "부산관광 아카이브: 광안리해수욕장",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "해변·교량 배경 및 공연 경관"
+     ]
+    },
+    {
+     "url": "https://www.gwangallimdrone.co.kr/notice/gwanganri-m-deuronraiteusyo-dongjeolgi-gongyeonsigan-byeongyeongannae-2",
+     "title": "광안리 M 드론라이트쇼: 동절기 시간",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "10~2월 19시·21시"
+     ]
+    },
+    {
+     "url": "https://www.gwangallimdrone.co.kr/notice/gwanganri-m-deuronraiteusyo-10weol-gongyeon-peurogeuraem-annae-2",
+     "title": "광안리 M 드론라이트쇼: 2026년 10월 프로그램",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "10월 예정 주제·날씨/통신 지연 및 취소"
+     ]
+    },
+    {
+     "url": "https://www.gwangallimdrone.co.kr/notice",
+     "title": "광안리 M 드론라이트쇼: 공지 목록",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "야간 드론 비행 금지 안내·최신 공지 확인 경로"
+     ]
+    }
+   ],
+   "operational": {
+    "notes": [
+     "10월 프로그램과 동절기 시간은 공연 공식 누리집 본문을 2026-10-10 직접 확인했다. 조회 이후의 취소 공지는 별도 확인한다.",
+     "광안대교 조명 점·소등 시간, 2026 해수욕장 수영기간·예약조건·주차요금은 미확인. 드론쇼 무료 여부는 이번 확인한 운영사 본문에서 확정하지 않았다."
+    ],
+    "visit_date_reconfirmation_required": true
+   },
+   "record_status": "verified_core_operational_pending",
+   "status": "verified",
+   "baseline_path": "korea-travel/07_경남부산울산/광안리·광안대교.md",
+   "document_path": "korea-travel/07_경남부산울산/광안리·광안대교.md",
+   "path": "korea-travel/07_경남부산울산/광안리·광안대교.md",
+   "count_as_independent": false,
+   "reference_only": true,
+   "relation_note": "기존 도시·섬·복합 방문권의 부모 참고문서. 구성 장소와 중복하여 독립 명소 수에 가산하지 않음.",
+   "components": [
+    {
+     "id": "kr-busan-gwangalli-beach",
+     "name": "광안리해변",
+     "relation": "component",
+     "parent_id": "kr-busan-gwangalli-bridge-overview"
+    },
+    {
+     "id": "kr-busan-gwangan-bridge",
+     "name": "광안대교",
+     "relation": "viewed_landmark",
+     "parent_id": "kr-busan-gwangalli-bridge-overview"
+    },
+    {
+     "id": "kr-busan-gwangalli-drone-show",
+     "name": "광안리 M 드론라이트쇼",
+     "relation": "event_not_attraction_count",
+     "parent_id": "kr-busan-gwangalli-bridge-overview"
+    }
+   ],
+   "new_information": [
+    "광안리해변은 바다를 사이에 두고 광안대교를 보는 해변 경관이 중심이다. 해변 산책과 교량을 배경으로 한 사진을 한 동선에서 즐길 수 있다.",
+    "광안리 M 드론라이트쇼는 주제별 장면을 밤하늘에 그리는 공연이다. 같은 해변이라도 일반 야경과 공연일의 관람 분위기가 다르다.",
+    "2026년 10월 공식 프로그램에는 10일 「10월, 부산에 가면」, 17일 「차원의 정거장 with 레이저쇼」 등 서로 다른 주제가 공지되어 있다. 공지된 계획이며 실제 개최 보장은 아니다."
+   ],
+   "original_preserved_at": "korea-travel/research/2026-10-10/baseline-before-review.json",
+   "verification_scope": {
+    "confirmed": [
+     "명칭·위치",
+     "본문 볼거리",
+     "출처별 근거범위"
+    ],
+    "editorial": [
+     "추천시기",
+     "동선·준비 팁"
+    ],
+    "pending": [
+     "방문일 임시휴무·통제",
+     "확정하지 않은 요금·예약·교통"
+    ]
+   },
+   "unique_id": "kr-busan-gwangalli-bridge-overview",
+   "is_parent_reference": true,
+   "existing_catalog_id": null,
+   "editorial_region": "07_경남부산울산",
+   "record_origin": "baseline_followup",
+   "addition_kind": "baseline_reverification"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

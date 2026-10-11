@@ -1,0 +1,178 @@
+{
+ "id": "central-027",
+ "country": "jp",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "후시미 이나리 타이샤",
+  "local": "伏見稲荷大社"
+ },
+ "admin_region": "교토",
+ "former_region": null,
+ "city": "교토시",
+ "address": null,
+ "coord": {
+  "lat": 34.966983,
+  "lng": 135.77476,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/6865347485"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "central-027",
+   "name_ko": "후시미 이나리 타이샤",
+   "name_ja": "伏見稲荷大社",
+   "region": "간사이",
+   "prefecture": "교토",
+   "city": "교토시",
+   "category": "신사·산길",
+   "description": "풍요와 장사 번영을 기원하는 이나리 신앙의 중심 신사다. 산 아래 주요 전각 참배와 붉은 도리이가 이어지는 산길 걷기는 동선과 소요시간이 다르다. 토리이 사진만 찍는 방문인지 산의 제단까지 둘러보는지에 따라 일정을 조절한다.",
+   "highlights": [
+    "본전 참배",
+    "센본 도리이 참배길",
+    "이나리산 석조 제단"
+   ],
+   "best_time": "봄·가을 낮의 산책을 편집 추천. 산길을 포함한다면 더위와 일몰을 고려한다.",
+   "visit_tips": [
+    "JR 이나리역 앞 접근과 게이한 후시미이나리역 도보 접근을 구분한다.",
+    "도리이 통로 한가운데 장시간 멈춰 다른 참배객을 막지 않는다.",
+    "산길까지 갈 때는 물과 걷기 편한 신발을 준비하고 복귀 시각을 정한다."
+   ],
+   "official_sources": [
+    {
+     "url": "https://inari.jp/en/",
+     "title": "Fushimi Inari Taisha Official",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "이나리 신앙",
+      "711년",
+      "본전"
+     ]
+    },
+    {
+     "url": "https://www.japan.travel/en/spot/1128/",
+     "title": "JNTO: Fushimi Inari Taisha Shrine",
+     "checked_at": "2026-10-10",
+     "verification": "공식 웹페이지 본문 직접 열람",
+     "supported_facts": [
+      "도리이",
+      "산길",
+      "석조 제단",
+      "철도 접근"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "공식 본문 기준 경내 개방시간·요금",
+    "수여소 운영",
+    "산길 통제"
+   ],
+   "editorial_note": "추천시기와 방문팁에는 확인한 장소 특성에 근거한 편집 제안이 포함됩니다. 현지시각은 일본 표준시, 요금은 일본 엔입니다.",
+   "collection_group": "central",
+   "hours_and_fees": {
+    "checked_at": "2026-10-10",
+    "details": "열람한 신사 공식 영문 본문에는 통합 참배시간·요금 명시 없음. 수여소·기도접수 시간과 산길 접근은 별도 확인."
+   },
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

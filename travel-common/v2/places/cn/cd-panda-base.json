@@ -1,0 +1,195 @@
+{
+ "id": "cd-panda-base",
+ "country": "cn",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "청두 판다번식연구기지",
+  "local": "成都大熊猫繁育研究基地"
+ },
+ "admin_region": "쓰촨성",
+ "former_region": null,
+ "city": "청두",
+ "address": null,
+ "coord": {
+  "lat": 30.743228,
+  "lng": 104.132931,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/941885688"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "cd-panda-base",
+   "name_ko": "청두 판다번식연구기지",
+   "name_local": "成都大熊猫繁育研究基地",
+   "city": "청두",
+   "province": "쓰촨성",
+   "region": "청두",
+   "destination_cluster": "청두·두장옌",
+   "category": "야생동물 보전·교육",
+   "description": "판다 연구·보전과 대중교육을 함께 하는 시설이다. 구역이 넓어 특정 판다 한 마리만 목표로 하기보다 당일 개방된 사육장과 교육시설을 유연하게 조합하는 편이 좋다.",
+   "best_time": {
+    "period": "서늘한 날 오전 입장권",
+    "reason": "오전 회차를 확보하면 넓은 구역을 여유롭게 볼 수 있다. 동물 활동과 공개 여부는 보장되지 않는다.",
+    "basis": "여행 편집 제안; 특정 날짜 기상·혼잡 보장 아님"
+   },
+   "operations": {
+    "hours": "3~10월 오전 07:30~12:00, 오후 12:00~17:00 입장, 18:00 퇴장 시작; 11~2월 오전 08:00~12:00, 오후 12:00~16:30, 17:30 퇴장 시작.",
+    "price": "성인 55",
+    "currency": "CNY",
+    "reservation": "운영자: 14일 전부터 실명예약, 예약 증명서 원본 지참. 성인 여권 원본 스캔 입장 명시. 공식 위챗 및 운영자가 명시한 Trip.com 등 채널 사용.",
+    "payment": "한국 카드·현금·모바일 결제의 실제 수용 여부 미확인",
+    "checked_at": "2026-10-10"
+   },
+   "sources": [
+    {
+     "url": "https://www.panda.org.cn/en/service/ticket/",
+     "title": "판다기지 운영자 Tickets",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "시간",
+      "55 CNY",
+      "14일 사전예약",
+      "여권 입장",
+      "공식 채널"
+     ]
+    },
+    {
+     "url": "https://www.panda.org.cn/en/",
+     "title": "판다기지 공식 홈페이지",
+     "checked_at": "2026-10-10",
+     "verification": "official_body_read",
+     "supported_facts": [
+      "연구·보전·교육 기능"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "한국 여권 여행자의 할인 적용 여부",
+    "결제수단별 실제 수용 여부"
+   ],
+   "status": "operations_reconfirmation_needed",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "selection_tier": "핵심 정성 수요 확인",
+   "collection_group": "history",
+   "highlights": [
+    "판다 관찰",
+    "보전·연구 교육",
+    "판다 관련 전시"
+   ],
+   "visit_tips": [
+    "예약한 오전·오후 회차를 지킨다",
+    "동물 관찰에 소음·먹이주기를 피한다",
+    "청두 기지와 두장옌 판다밸리를 혼동하지 않는다"
+   ],
+   "original_region": "서남",
+   "selection_region_id": "chengdu",
+   "selection_evidence_ids": [
+    "SEL03"
+   ],
+   "selection_scope_caution": "러산·두장옌 등은 청두 밖 연계지이며 청두 수요를 모든 쓰촨 명소에 일반화하지 않는다.",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

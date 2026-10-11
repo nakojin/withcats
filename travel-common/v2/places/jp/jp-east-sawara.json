@@ -1,0 +1,187 @@
+{
+ "id": "jp-east-sawara",
+ "country": "jp",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "사와라 오노강 역사거리",
+  "local": "佐原の町並み・小野川沿い"
+ },
+ "admin_region": "지바",
+ "former_region": null,
+ "city": "가토리시",
+ "address": null,
+ "coord": {
+  "lat": 35.890555,
+  "lng": 140.498663,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "medium",
+  "osm": "node/10875835234"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "jp-east-sawara",
+   "name_ko": "사와라 오노강 역사거리",
+   "name_ja": "佐原の町並み・小野川沿い",
+   "region": "간토",
+   "prefecture": "지바",
+   "city": "가토리시",
+   "category": "수운역사·거리",
+   "description": "오노강 주변에 옛 목조 상가가 남아 있는 수운 상업 지구다. 쌀·콩 등 물자가 강을 따라 에도로 향하던 교통망 속에서 번성했으며, 오래 이어온 양조·기름 상점 등 생활 산업의 흔적이 남아 있다.",
+   "highlights": [
+    "오노강을 따라 이어지는 목조 상가",
+    "수운으로 성장한 강변 거리 구조",
+    "세대를 이어온 양조·상업 건물 외관"
+   ],
+   "best_time": "봄·가을의 온화한 날에는 강변을 천천히 걷기 좋다. 상점 내부 방문이 목표라면 각 점포 휴무를 우선 확인한다.",
+   "visit_tips": [
+    "현재 행정구역은 가토리시이므로 옛 사와라시 주소와 혼동하지 않는다.",
+    "역사 건물 중 호텔 객실·사유 공간은 외관 감상만 하고 무단 출입하지 않는다.",
+    "운하 보트나 축제를 넣으려면 이 거리 산책 자료와 별도로 운영일을 조사한다."
+   ],
+   "hours_and_fees": {
+    "hours": "소형선 '小江戸さわら舟めぐり' 운항 10:00–16:30 (계절에 따라 운항 종료 시각 변동)",
+    "fees": "소형선 승선료 성인 1,300엔, 초등학생 700엔",
+    "conditions": "휴무는 불정기(不定休). 계절별 운항 종료 시각 변동. 소형선 정보는 치바현 공식 관광사이트(ちば観光ナビ)에서 확인했으며 운영사 자체 사이트는 열람하지 못함. 마을 안내: 사와라역 관광안내소 09:00–17:00(12/28~1/1 휴무), 마치나미 중앙안내소(小野川沿い) 10:00–16:00(월요일 휴무, 12/28~1/1 휴무), 사와라 마치나미 교류센터 10:00–17:00(매월 셋째 목요일 휴무). 사와라 마을 거리 자체는 개방 구역으로 시간·요금 정보 없음. 소형선과 별도로 2026/9/12 '小野川下座舟'가 11:00, 13:30에 한정 운항(과거 이벤트).",
+    "checked_at": "2026-10-10"
+   },
+   "unconfirmed": [
+    "소형선 운영사·관광협회 공식 페이지 대조(열람하지 못함)",
+    "동절기 운항 종료 시각·운휴 기준",
+    "상점 휴무와 축제 교통규제"
+   ],
+   "editorial_note": "추천 동선·준비물은 확인된 장소 특성에 근거한 편집 제안이며, 개화·단풍·기상 및 당일 운영을 보장하지 않습니다.",
+   "collection_group": "east",
+   "official_sources": [
+    {
+     "url": "https://www.visitchiba.jp/things/nipponia-sawara/",
+     "title": "Visit Chiba: NIPPONIA Sawara Merchant Town Hotel",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "오노강 역사거리",
+      "수운 상업 역사",
+      "오래된 목조 상점과 재활용"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://maruchiba.jp/spot/detail_12514.html",
+     "title": "小江戸さわら舟めぐり｜スポット・体験｜千葉県公式観光サイト ちば観光ナビ",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간",
+      "요금"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    },
+    {
+     "url": "https://www.city.katori.lg.jp/sightseeing/annai/information.html",
+     "title": "観光案内所：香取市ウェブサイト",
+     "checked_at": "2026-10-10",
+     "supported_facts": [
+      "운영시간"
+     ],
+     "verification": "공식 페이지 본문 직접 열람"
+    }
+   ],
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

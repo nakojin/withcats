@@ -1,0 +1,176 @@
+{
+ "id": "kr-jeju-yongmeori-coast",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "용머리해안",
+  "local": "용머리해안"
+ },
+ "admin_region": "제주특별자치도",
+ "former_region": null,
+ "city": "서귀포시 안덕면 사계리 112-3",
+ "address": null,
+ "coord": {
+  "lat": 33.233304,
+  "lng": 126.313067,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "node/12084662291"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-jeju-yongmeori-coast",
+   "name_ko": "용머리해안",
+   "aliases": [],
+   "region": "제주특별자치도",
+   "admin_region": "제주특별자치도",
+   "locality": "서귀포시 안덕면 사계리 112-3",
+   "type": [
+    "해안",
+    "화산지질"
+   ],
+   "highlights": [
+    "파도와 침식이 만든 층상 해안 절벽",
+    "해안을 따라 걷는 암반 길",
+    "진입로의 하멜 기념물"
+   ],
+   "recommended_season": {
+    "text": "당일 개방이 확인된 잔잔한 날",
+    "reason": "계절보다 조위와 파도가 실제 관람 가능성을 좌우한다.",
+    "basis": "editorial_inference"
+   },
+   "visit_tips": [
+    "출발 당일 개방 여부를 전화·공식 공지로 확인한다.",
+    "물때가 맞아도 기상으로 닫힐 수 있으므로 대체 일정을 둔다.",
+    "암반이 젖어 미끄러울 수 있어 접지력 있는 신발을 준비한다."
+   ],
+   "sources": [
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110862",
+     "title": "VISITKOREA — Yongmeorihaean Coast",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read",
+     "supports": [
+      "장소 실재",
+      "위치",
+      "볼거리"
+     ],
+     "evidence_summary": "파도와 침식이 만든 층상 해안 절벽; 해안을 따라 걷는 암반 길; 진입로의 하멜 기념물"
+    }
+   ],
+   "operational": {
+    "fees": null,
+    "hours": null,
+    "reservation": null,
+    "status_note": "요금·시간·예약은 이 기초 레코드에서 확정하지 않음. 방문 직전 운영기관 공지 재확인."
+   },
+   "record_status": "verified_basic_facts_operational_recheck",
+   "uncertainty": "공식 원문도 조석에 따른 관람시간 변동을 명시한다. 일반 운영시간을 입장 보장으로 사용하지 않는다.",
+   "baseline_relation": "new_place_not_in_baseline_titles",
+   "visit_tips_basis": "editorial_inference_from_verified_features; operational advice is a recheck request, not a confirmed rule",
+   "document_path": "korea-travel/08_제주/용머리해안.md",
+   "editorial_region": "08_제주",
+   "record_origin": "new_detailed_record",
+   "count_as_independent": true,
+   "counting_unit": "one_named_destination_or_connected_visit_area"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

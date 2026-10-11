@@ -1,0 +1,188 @@
+{
+ "id": "WEST-041",
+ "country": "jp",
+ "tier": "A",
+ "status": "draft",
+ "names": {
+  "ko": "슈리성공원",
+  "local": "首里城公園"
+ },
+ "admin_region": "오키나와",
+ "former_region": null,
+ "city": "나하시",
+ "address": null,
+ "coord": {
+  "lat": 26.217434,
+  "lng": 127.719103,
+  "geo_type": "point",
+  "precision": "poi",
+  "geo_source": "osm_nominatim",
+  "confidence": "high",
+  "osm": "way/380509890"
+ },
+ "coord_note": null,
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "japan-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "WEST-041",
+   "name_ko": "슈리성공원",
+   "name_ja": "首里城公園",
+   "region": "오키나와",
+   "prefecture": "오키나와",
+   "city": "나하시",
+   "category": "왕궁유적·복원",
+   "description": "류큐왕국의 역사와 문화를 전하는 궁성공원으로 화재 이후의 복원 일정에 따라 관람 경험이 크게 바뀐다. 2026년10월 방문과 정전 재공개 이후의 방문을 같은 상태로 소개하지 않는 것이 중요하다.",
+   "highlights": [
+    "성문과 성곽 산책",
+    "류큐왕궁 복원과정",
+    "정전 공개 이후의 내부관람"
+   ],
+   "best_time": "2026-11-23 이후 정전 관람을 원하면 예약을 먼저 확보한다.그 이전에는 현재 공개된 구간 중심으로 계획한다.",
+   "visit_tips": [
+    "11/22 전일·11/23 오전 임시휴원을 피한다",
+    "2026-11-23 이후 정전 내부 관람은 원칙적으로 30분 단위 사전예약",
+    "무료공원과 유료구역의 마감이 다르다"
+   ],
+   "hours_and_fees": {
+    "hours": "7~11월 무료구역08–19:30,유료구역08:30–19시 최종18:30",
+    "fees": "11/21까지 성인400·고생300·초중160엔.11/23부터1000·760·370엔",
+    "conditions": "2026-11-23 정오 정전 일반공개 예정. 예약은 정전 내부 관람에만 필요하며 미취학아동은 예약 예외. 그 외 유료시설은 예약 불필요. 정전예약 추가료없음,6세미만무료",
+    "checked_at": "2026-10-10"
+   },
+   "official_sources": [
+    {
+     "url": "https://oki-park.jp/shurijo/?action_web_page_index=1",
+     "title": "슈리성공원 공식",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "공개예정",
+      "계절시간",
+      "임시휴원"
+     ]
+    },
+    {
+     "url": "https://oki-park.jp/shurijo/info/14",
+     "title": "슈리성공원 입장료",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "개정전후 요금",
+      "연령"
+     ]
+    },
+    {
+     "url": "https://oki-park.jp/shurijo/information/detail/11164",
+     "title": "슈리성 정전 예약안내",
+     "checked_at": "2026-10-10",
+     "verification": "official_page_opened",
+     "supported_facts": [
+      "30분예약",
+      "추가료",
+      "예약범위"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 공사구역",
+    "12~6월 운영시간"
+   ],
+   "editorial_note": "추천시기 중 쾌적성 판단과 일정 편성 팁은 확인된 지형·운영조건을 바탕으로 한 편집 제안입니다. 날씨·임시폐쇄·교통편은 방문일에 재확인해야 합니다.",
+   "collection_group": "west",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

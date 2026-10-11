@@ -1,0 +1,182 @@
+{
+ "id": "east-hz-04",
+ "country": "cn",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "허팡제",
+  "local": "河坊街"
+ },
+ "admin_region": "저장성",
+ "former_region": null,
+ "city": "항저우",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "china-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "east-hz-04",
+   "name_ko": "허팡제",
+   "name_local": "河坊街",
+   "city": "항저우",
+   "province": "저장성",
+   "region": "항저우",
+   "category": "전통거리·식문화",
+   "description": "우산 아래의 오래된 상업거리로 항저우 간식과 전통 상품을 살펴보는 곳이다. 부채·실크 등 지역 상품과 노포의 흔적을 찾으며 걷는 방식이 어울린다. 구매를 전제로 하지 않고 짧은 산책과 식사 동선으로 넣기 좋다.",
+   "best_time": {
+    "period": "늦은 오후~저녁",
+    "reason": "낮 관광 후 식사와 쇼핑을 한 구간에서 연결하기 좋다.",
+    "basis": "편집상 권장; 개화·날씨·혼잡 및 운영 보장 아님"
+   },
+   "operations": {
+    "checked_at": "2026-10-10",
+    "timezone": "Asia/Shanghai",
+    "hours": "확인한 공식 본문에 운영시간 없음",
+    "price_cny": "공식 요금 미확인",
+    "reservation": "공식 예약조건 미확인",
+    "foreign_passport": "외국인 여권 예약·입장 상세 미확인",
+    "payment": "결제수단 미확인",
+    "validity_note": "조회일은 본문 열람일이며 방문일 실시간 운영 확인일이 아님"
+   },
+   "sources": [
+    {
+     "url": "https://www.ehangzhou.gov.cn/2018-06/14/c_242888.htm",
+     "title": "Hefang Street",
+     "checked_at": "2026-10-10",
+     "verification": "공식 본문 열람 확인; 최신 현장운영 보증 아님",
+     "supported_facts": [
+      "우산 아래 위치",
+      "전통 상품·간식",
+      "상업거리 역사"
+     ]
+    }
+   ],
+   "unconfirmed": [
+    "방문일 임시휴업·행사 통제",
+    "외국인 여권 예약 및 현장처리",
+    "해외카드·모바일 결제 가능 여부",
+    "방문일 성인 요금 및 상품 포함내역",
+    "운영시간·최종 입장시간",
+    "사전예약 필요 여부"
+   ],
+   "selection_tier": "지역 수요 취재 확인 + 상하이 연계",
+   "checked_at": "2026-10-10",
+   "parent_id": null,
+   "collection_group": "east",
+   "highlights": [
+    "항저우 전통 간식",
+    "부채·실크 등 지역 상품",
+    "노포 상업거리"
+   ],
+   "visit_tips": [
+    "1~2시간에 식사 시간을 추가하는 편집상 권장이다.",
+    "실크·차 등은 원산지와 가격표를 확인하고 즉석 권유만으로 구매하지 않는다.",
+    "거리 자체와 개별 상점의 운영시간을 구분한다."
+   ],
+   "destination_cluster": "항저우",
+   "original_region": "중국 동부",
+   "selection_region_id": "hangzhou",
+   "selection_evidence_ids": [
+    "SEL07"
+   ],
+   "selection_scope_caution": "2024말 측정값으로 2026 전국 순위 창작 금지.",
+   "status": "operations_reconfirmation_needed",
+   "status_label": "최신 운영 재확인 필요",
+   "source_verification_status": "official_page_body_checked"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}

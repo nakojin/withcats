@@ -1,0 +1,154 @@
+{
+ "id": "kr-gyeonggi-dumulmeori",
+ "country": "kr",
+ "tier": "C",
+ "status": "draft",
+ "names": {
+  "ko": "두물머리",
+  "local": "두물머리"
+ },
+ "admin_region": "경기도",
+ "former_region": null,
+ "city": "경기 양평군 양서면 일대",
+ "address": null,
+ "coord": null,
+ "coord_note": "좌표 검증 대기 (geocode confidence: low)",
+ "summary": null,
+ "description": null,
+ "highlights": [],
+ "checklist": {
+  "location": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "access": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "duration": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "hours": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "closed_days": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "fees": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "reservation": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "payment": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "language": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  },
+  "caution": {
+   "status": "gap",
+   "claims": [],
+   "gap": {
+    "reason": "not_collected",
+    "note": "아직 수집하지 않음"
+   }
+  }
+ },
+ "claims": [],
+ "conflicts": [],
+ "legacy": {
+  "source": "korea-travel/catalog.json",
+  "note": "v1 자료. 검증 전이므로 공개하지 않는다.",
+  "record": {
+   "id": "kr-gyeonggi-dumulmeori",
+   "name_ko": "두물머리",
+   "region": "경기",
+   "admin_region": "경기도",
+   "locality": "경기 양평군 양서면 일대",
+   "type": [
+    "강변",
+    "생태산책"
+   ],
+   "highlights": [
+    "남한강과 북한강이 만나는 강변 경관.",
+    "느티나무와 옛 나루터 주변을 걸으며 세미원·양수리 생태공원 방향을 연계할 수 있다."
+   ],
+   "recommended_season": {
+    "text": "맑은 날 아침이나 봄·가을 산책이라는 편집 추천. 물안개는 기상 조건에 따라 나타나므로 보장하지 않는다.",
+    "basis": "editorial_or_attributed_as_stated"
+   },
+   "visit_tips": [
+    "공식 관광공사 기사에는 양수역 출발 도보 코스가 소개되어 있다. 기사 기준연도가 2019년이므로 점포·대여소·연결길 상태는 현재 정보로 재확인한다."
+   ],
+   "operational": {
+    "notes": [
+     "입장료·주차료·세미원 요금과 배다리 통행은 최신 운영기관 확인 전 미확인."
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=a01a8e18-b2e4-4f31-8aa9-0937f4bfac99",
+     "title": "한국관광공사 두물머리 생태 이야기(2019년 자료)",
+     "accessed_at": "2026-10-10",
+     "verification": "official_page_read"
+    }
+   ],
+   "record_status": "verified_core_operational_partial",
+   "baseline_path": "korea-travel/02_인천경기/두물머리.md",
+   "count_as_independent": true,
+   "addition_kind": "baseline_review",
+   "document_path": "korea-travel/02_인천경기/두물머리.md",
+   "editorial_region": "02_인천경기",
+   "record_origin": "baseline_review"
+  }
+ },
+ "meta": {
+  "created": "2026-10-11",
+  "updated": "2026-10-11",
+  "runs": []
+ }
+}
